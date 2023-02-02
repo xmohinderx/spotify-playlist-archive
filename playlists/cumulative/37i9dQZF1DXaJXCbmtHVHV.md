@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Tyler Hubbard
+> Top country hits you know and love! Cover: Carly Pearce
 
 186 songs - 10 hr 4 min
 

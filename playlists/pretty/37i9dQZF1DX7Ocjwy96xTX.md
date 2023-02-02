@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,383 likes - 83 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,884 likes - 83 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,6 +90,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 80 | [Prism of Feeling](https://open.spotify.com/track/4skeJN6yWo5wSRgPjRNFUp) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Prism of Feeling](https://open.spotify.com/album/50C6PlqgTU8iZpbzowiCCc) | 4:45 |
 | 81 | [Promise](https://open.spotify.com/track/0ZAtjrHxLKio4iq3X1uz2M) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Promise](https://open.spotify.com/album/5Rz73oELdSL11MPc8Q5sqD) | 4:47 |
 | 82 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 |
-| 83 | [Insomniac](https://open.spotify.com/track/62JzTgFcJ4BX07AktKmB1S) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:32 |
+| 83 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 
-Snapshot ID: `MTY3NDc1MDg1MywwMDAwMDAwMGI3NjU0ZTFmNjI5NTE2OGQwYmMxZmEzOWYzNDc5NWMw`
+Snapshot ID: `MTY3NDc1MDg1MywwMDAwMDAwMDBiM2FhMTM2MjA2MjFkNWI4OWZhM2FkMzM5MTBlMGRi`

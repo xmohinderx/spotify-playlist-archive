@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 37642,
+  "num_followers": 37679,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcyNDQxMiwwMDAwMDAwMDY3MmEyNTA3YmUwNzc2OGNjMGYxYzdjOGFkNzZkMWNl",
+  "snapshot_id": "MTY3NDcyNDQxMiwwMDAwMDAwMGZlNjIxNDEwZWNiODVjZTY5NGI0Zjc2YTc4YzU3ZDll",
   "tracks": [
     {
       "added_at": "2023-01-19 16:40:07",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
         "name": "SYSTEM",
         "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 246368,
       "name": "TRIBUNAL",
       "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
     },
     {
       "added_at": "2023-01-19 16:40:07",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 208000,
       "name": "HEI",
       "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2023-01-19 16:40:07",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
     },
     {
+      "added_at": "2023-01-26 09:13:31",
+      "album": {
+        "name": "AZTECA",
+        "url": "https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 151972,
+      "name": "AZTECA",
+      "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
+    },
+    {
       "added_at": "2023-01-19 16:40:07",
       "album": {
         "name": "P de Pablito",
@@ -863,38 +879,6 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
-        "name": "NR5",
-        "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "NR5",
-      "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
-    },
-    {
-      "added_at": "2023-01-26 09:13:31",
-      "album": {
-        "name": "AZTECA",
-        "url": "https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 151972,
-      "name": "AZTECA",
-      "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
         "name": "Juvena",
         "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
+        "name": "NR5",
+        "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "NR5",
+      "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2023-01-19 16:40:07",
@@ -1011,42 +1031,6 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
-        "name": "La Bella Mafia",
-        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 240594,
-      "name": "La Bella Mafia",
-      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
         "name": "Conto",
         "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
         "name": "Trilogia P\u00e3o Na Mesa",
         "url": "https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 219992,
       "name": "P\u00e3o na Mesa (feat. Richie Campbell)",
       "url": "https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2023-01-19 16:40:07",
@@ -1119,22 +1135,6 @@
       "duration_ms": 254117,
       "name": "GOD MODE",
       "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2023-01-19 16:40:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-19 16:40:07",
       "album": {
-        "name": "Perseus",
-        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 214654,
-      "name": "Perseus",
-      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
-    },
-    {
-      "added_at": "2023-01-19 16:40:07",
-      "album": {
         "name": "\u00c9 ASSIM",
         "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "added_at": "2023-01-19 16:40:07",
+      "album": {
+        "name": "Perseus",
+        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 214654,
+      "name": "Perseus",
+      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
     },
     {
       "added_at": "2023-01-19 16:40:07",

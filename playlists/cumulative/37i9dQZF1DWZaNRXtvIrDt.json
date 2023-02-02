@@ -506,6 +506,24 @@
     {
       "album": {
         "name": "Contact",
+        "url": "https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm"
+    },
+    {
+      "album": {
+        "name": "Contact",
         "url": "https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH"
       },
       "artists": [
@@ -516,7 +534,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 240725,
       "name": "Contact",
       "url": "https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d"
@@ -1972,6 +1990,24 @@
     {
       "album": {
         "name": "The Rite Time (Radio Edit)",
+        "url": "https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC"
+      },
+      "artists": [
+        {
+          "name": "Nathan Micay",
+          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "The Rite Time - Radio Edit",
+      "url": "https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws"
+    },
+    {
+      "album": {
+        "name": "The Rite Time (Radio Edit)",
         "url": "https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA"
       },
       "artists": [
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 229333,
       "name": "The Rite Time - Radio Edit",
       "url": "https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw"

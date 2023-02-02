@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 56970,
+  "num_followers": 57196,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDg2NjE4NDdhZWEwNTFmNDczZDNlNjRhY2E2MWE2Mzdk",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQ1MDJkYTcyMDZmY2U2N2Q5OTgzYWZkYzIxMmNlNTlk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 198466,
-      "name": "She Ain't In It",
-      "url": "https://open.spotify.com/track/1Be8liECvEP5NYZjYvukbI"
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
     }
   ],
   "unique_name": "sad girl country",

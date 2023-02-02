@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Leony",
-  "num_followers": 23252,
+  "num_followers": 23258,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDI5MjkwYmZhZjBhNzVhOTYyNDM5NjQ3MGNjOGIwMmMz",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGQzZGMzZDk3YWVmNDM4MDY2ZDA2ZDAxOGY4MDYxZDdj",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -75,38 +75,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "Baby Blizzard",
-        "url": "https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv"
-      },
-      "artists": [
-        {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Baby Blizzard",
-      "url": "https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "LUNE",
         "url": "https://open.spotify.com/album/110in5Qcb8ry1bmvFNA2yl"
       },
@@ -123,6 +91,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
         "name": "Smarties",
         "url": "https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 119400,
       "name": "Smarties",
       "url": "https://open.spotify.com/track/2e5DbCHlhtk4deIvjrIi2H"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Baby Blizzard",
+        "url": "https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Baby Blizzard",
+      "url": "https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
         "name": "Gift in den Venen",
         "url": "https://open.spotify.com/album/2RQ37XLMPVzTTWapQ9nNEI"
       },
@@ -267,6 +283,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
+        "name": "Strassenlichter",
+        "url": "https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
+        }
+      ],
+      "duration_ms": 126480,
+      "name": "Strassenlichter",
+      "url": "https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
         "name": "The More I Bite",
         "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
       },
@@ -279,22 +311,6 @@
       "duration_ms": 138181,
       "name": "The More I Bite",
       "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -331,54 +347,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Nichts Macht Mich Kaputt",
-        "url": "https://open.spotify.com/album/7pVSS0DqJHiXFrQgauxEAf"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Nichts Macht Mich Kaputt",
-      "url": "https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "Strassenlichter",
-        "url": "https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
-        }
-      ],
-      "duration_ms": 126480,
-      "name": "Strassenlichter",
-      "url": "https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "VW Touran",
-        "url": "https://open.spotify.com/album/332wFxLbxlhMXF4rdXugN5"
-      },
-      "artists": [
-        {
-          "name": "JUNA",
-          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
-        }
-      ],
-      "duration_ms": 187420,
-      "name": "VW Touran",
-      "url": "https://open.spotify.com/track/3CZJpEyyglszjKaI8xuz3Z"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 137933,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Nichts Macht Mich Kaputt",
+        "url": "https://open.spotify.com/album/7pVSS0DqJHiXFrQgauxEAf"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Nichts Macht Mich Kaputt",
+      "url": "https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
+        "name": "VW Touran",
+        "url": "https://open.spotify.com/album/332wFxLbxlhMXF4rdXugN5"
       },
       "artists": [
         {
-          "name": "Liyah",
-          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
+          "name": "JUNA",
+          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
         }
       ],
-      "duration_ms": 152419,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
+      "duration_ms": 187420,
+      "name": "VW Touran",
+      "url": "https://open.spotify.com/track/3CZJpEyyglszjKaI8xuz3Z"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -455,6 +439,22 @@
       "duration_ms": 146907,
       "name": "Deep",
       "url": "https://open.spotify.com/track/64FUVo53H9BeVcDQzYC12U"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
+      },
+      "artists": [
+        {
+          "name": "Liyah",
+          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
+        }
+      ],
+      "duration_ms": 152419,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Power of Today",
-        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
-      },
-      "artists": [
-        {
-          "name": "Alinka",
-          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
-        }
-      ],
-      "duration_ms": 379965,
-      "name": "Power of Today",
-      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "genug",
         "url": "https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 222874,
       "name": "genug",
       "url": "https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Power of Today",
+        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "duration_ms": 379965,
+      "name": "Power of Today",
+      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -623,18 +623,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Emergency // Freeze",
-        "url": "https://open.spotify.com/album/4uGO4MkPRvWmtqexIFdTfu"
+        "name": "DIRTY SOUTH",
+        "url": "https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf"
       },
       "artists": [
         {
-          "name": "Power Plush",
-          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
+          "name": "Rua",
+          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
+        },
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
         }
       ],
-      "duration_ms": 188978,
-      "name": "Emergency // Freeze",
-      "url": "https://open.spotify.com/track/1E5g640mMzXNC4zS9Bp8hc"
+      "duration_ms": 186961,
+      "name": "KOMM MIT MIR",
+      "url": "https://open.spotify.com/track/3a4elNaJUIOcRGlo7fs3ru"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "DIRTY SOUTH",
-        "url": "https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf"
+        "name": "Emergency // Freeze",
+        "url": "https://open.spotify.com/album/4uGO4MkPRvWmtqexIFdTfu"
       },
       "artists": [
         {
-          "name": "Rua",
-          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
-        },
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+          "name": "Power Plush",
+          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
         }
       ],
-      "duration_ms": 186961,
-      "name": "KOMM MIT MIR",
-      "url": "https://open.spotify.com/track/3a4elNaJUIOcRGlo7fs3ru"
+      "duration_ms": 188978,
+      "name": "Emergency // Freeze",
+      "url": "https://open.spotify.com/track/1E5g640mMzXNC4zS9Bp8hc"
     },
     {
       "added_at": "2023-01-31 23:00:00",

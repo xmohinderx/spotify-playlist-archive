@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: ghost orchard
 
-790 songs - 1 day 21 hr 13 min
+791 songs - 1 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [my favorite things](https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [my favorite things](https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5) | 2:41 | 2022-12-16 | 2023-01-14 |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/0RMxx9ZD0KXSnUYPwunVbw) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 2:17 | 2022-03-26 | 2022-05-19 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 | 2022-12-15 |
-| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 |  |
+| [National Team](https://open.spotify.com/track/7xuuu097llYHPptd42QxOV) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [National Team](https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ) | 3:33 | 2022-10-28 | 2023-02-02 |
 | [Navy](https://open.spotify.com/track/7kReLxmnpzrUBEp6fzFY8E) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Navy](https://open.spotify.com/album/721v4tJJZVgOJgrftH01l9) | 3:34 | 2021-09-10 | 2022-04-28 |
 | [Necromancer](https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Joy Again](https://open.spotify.com/album/65lnDjCMHpSzQFQFYwF9AE) | 2:33 | 2022-04-29 | 2022-05-03 |
 | [Never Be The Same \(Andrew VanWyngarden Mix\)](https://open.spotify.com/track/70M98T72nkHYIspWyvAnIA) | [Club Intl](https://open.spotify.com/artist/4ocgkEqase6QoOnj6O5wUq), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR), [John Eatherly](https://open.spotify.com/artist/5FgE0utDmmiiVaaFQNO6GZ) | [Never Be The Same](https://open.spotify.com/album/5y6MKcoAspRVH8OOUb2EsF) | 5:46 | 2021-03-05 | 2022-03-22 |
@@ -629,6 +629,7 @@
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-04-29 | 2022-06-19 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2023-01-17 |  |
 | [Something Else](https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Something Else](https://open.spotify.com/album/52qxd2pn2DC8uk51R4Yf7z) | 4:19 | 2021-03-05 | 2022-04-18 |
+| [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-01-27 |  |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-04-02 | 2022-04-29 |
 | [Sorry’s Not Enough](https://open.spotify.com/track/7zXERMvGbaqcZmdXo7ebw8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Sorry's Not Enough](https://open.spotify.com/album/6hWqBLAzPVl9GBYXs36ISC) | 4:51 | 2021-10-08 | 2022-03-22 |
 | [Sort Me Out](https://open.spotify.com/track/6qVYM8HpTfR1wRZTUUZAHO) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Sort Me Out](https://open.spotify.com/album/6GckIKoXhqoB79zGqMN7St) | 3:38 | 2022-12-02 | 2022-12-15 |
@@ -726,7 +727,7 @@
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2021-03-05 | 2022-04-29 |
 | [Try](https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Try](https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z) | 3:23 | 2022-12-13 | 2023-01-14 |
 | [Tungs](https://open.spotify.com/track/4WYwP4V2SGCUXJGEha0ODM) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [You Are Going to Hate This](https://open.spotify.com/album/6HPeu1jcBnHNuzDlHAddc8) | 2:50 | 2022-04-29 | 2022-07-23 |
-| [tunnels](https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF) | [saturn 17](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [tunnels](https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv) | 3:05 | 2022-12-07 |  |
+| [tunnels](https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF) | [saturn 17](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [tunnels](https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv) | 3:05 | 2022-12-07 | 2023-02-02 |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2021-08-27 | 2022-04-20 |
 | [Turnaround \(Cocaine Song\)](https://open.spotify.com/track/02VjhVSU9Kmlpg9cXxc6yk) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Turnaround \(Cocaine Song\)](https://open.spotify.com/album/2KcGTfbMXhDcv8VPlmF9TR) | 3:23 | 2021-03-05 | 2022-04-29 |
 | [Turning](https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Turning](https://open.spotify.com/album/614cwAiCbxTJz6QBafC4zm) | 2:53 | 2022-01-28 | 2022-04-27 |
@@ -739,7 +740,7 @@
 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 | 2021-07-23 | 2022-04-29 |
 | [UFOF](https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p) | 3:08 | 2021-03-05 | 2022-04-29 |
 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 | 2023-01-13 |  |
-| [Unfun](https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Unfun / Sleep In](https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t) | 4:22 | 2022-08-19 | 2023-01-28 |
+| [Unfun](https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Unfun / Sleep In](https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t) | 4:22 | 2022-08-19 |  |
 | [unravel](https://open.spotify.com/track/45owx3gqy8vAfQhGGXWD5j) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [unravel / ruby at dawn](https://open.spotify.com/album/5jdBnUmUdTnINH3An2iHiw) | 3:17 | 2022-01-28 | 2022-04-25 |
 | [Unrequited Love \(& other clichés\)](https://open.spotify.com/track/1K0AENxzuLi4M420wUlvPT) | [Breakup Shoes](https://open.spotify.com/artist/3kE0TeA4n6FZD1UG6ctB0m) | [Unrequited Love \(& other clichés\)](https://open.spotify.com/album/0VQz560TqtB7FcrY51VjyX) | 4:46 | 2022-03-26 | 2022-08-20 |
 | [untangle me](https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [untangle me](https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB) | 1:45 | 2022-06-24 | 2022-09-29 |

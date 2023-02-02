@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,289 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,395 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 43 | [Unrecognizable](https://open.spotify.com/track/0IFE0pniFrshCZdCkNlAmI) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Unrecognizable](https://open.spotify.com/album/2O3M8gywHMPIaoodd1CBxj) | 3:00 |
 | 44 | [Fantasy](https://open.spotify.com/track/2Q30c5x8tsY9s0gG0OSbPn) | [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw) | [Bad Intentions](https://open.spotify.com/album/14N7swOX8NoBVtZ2jSUHSV) | 2:56 |
 | 45 | [COUVAM](https://open.spotify.com/track/0Iou6am9p3zqFQQfriEnvS) | [SE YOUNG](https://open.spotify.com/artist/66Kcf3n8kOrsvbwoQZIg6I), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359) | [COUVAM](https://open.spotify.com/album/7aSy0bKyWrTB2fSxp09SDz) | 2:37 |
-| 46 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 |
+| 46 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [ANASTAASIA](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 |
 | 47 | [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 |
 | 48 | [Poison Ivy](https://open.spotify.com/track/2UnIW0DQShzvsojtzGeF16) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Poison Ivy](https://open.spotify.com/album/3ssj5GjOwObWF7eiAoYUl0) | 3:57 |
 | 49 | [Ruin My Life](https://open.spotify.com/track/6CQFYzq3VjcTxqCRiqHpt0) | [Anushka Bibi](https://open.spotify.com/artist/5favHEsZBse1oFj1MuOE7x) | [Ruin My Life](https://open.spotify.com/album/4erW3RALpFIM5TmPvJhtJg) | 2:43 |

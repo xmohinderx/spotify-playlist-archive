@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,533 likes - 56 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,547 likes - 56 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 3 | [Cory Wong \- The Power Station Tour Live](https://open.spotify.com/track/0hA0WmQreJnjgwG2I3y9Z7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Power Station Tour \(West Coast\)](https://open.spotify.com/album/7i8OowqVyZHx8FIH16WW5S) | 5:00 |
 | 4 | [Wake Me \(Live\)](https://open.spotify.com/track/4USchbsYWOLEMPUCIT9EG1) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Wake Me \(Live\)](https://open.spotify.com/album/6XpKCIgD8za1q08PUkpa9n) | 4:57 |
 | 5 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 |
-| 6 | [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Own Me \(Live at Pikes Ibiza\)](https://open.spotify.com/album/50hUqiCnpIpWaKkHHLqiqW) | 8:16 |
+| 6 | [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/3EvJZh4uA88IeMWyiuHTxi) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom… \(Live at Pikes Ibiza\)](https://open.spotify.com/album/6uFs5V9VWsrJWi6wFZusB6) | 8:16 |
 | 7 | [Wind Me Up Chuck / Hoochie Coochie Man \(Live\)](https://open.spotify.com/track/3j0h8GVtHdkb8PMHp6r4pF) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [Your Game‚ Live At the 9: 30 Club, Washington, D.C.](https://open.spotify.com/album/2Emrjdw9u7VQmsuhXn46vR) | 6:21 |
 | 8 | [Manic Panic Epiphanic \- Live](https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Manic Panic Epiphanic \(Live\)](https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA) | 8:50 |
 | 9 | [1+1+1 is 3 \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/7w0qo3yQoAuiBK4C0Aw7ir) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. Live!](https://open.spotify.com/album/4WaF42nHDVOOGnE8KIwQyJ) | 6:05 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 55 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 |
 | 56 | [Let Yourself Go \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/5Fw86IXdNhRyDaY45PzeRx) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:00 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDgyOTFjNDJhOTlmMmJkNTY4YjNhNTQ3ZGJkODMxNjgx`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDIyMzU0MjY0YjRiZDQwOGM5M2U2OTQ1YmFhN2Q4MTRi`

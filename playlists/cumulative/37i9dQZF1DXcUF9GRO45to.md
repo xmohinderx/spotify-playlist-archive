@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-225 songs - 14 hr 21 min
+226 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Enfer](https://open.spotify.com/track/1E32HzakrkfftyhRJrRISM) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/2KQaSNYnMutOHHGAeUBSfO) | 3:58 | 2022-04-17 | 2022-07-29 |
 | [Enfer](https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB) | 3:58 | 2022-11-28 | 2023-02-01 |
 | [Evening](https://open.spotify.com/track/0OFkQIKbgZyU9Ah9ipkGMp) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Evening](https://open.spotify.com/album/25Xl9oZ6mOj8jJt2qzFSmu) | 5:39 | 2022-06-30 |  |
+| [Excuses](https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 4:00 | 2023-01-31 |  |
 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 | 2021-12-15 | 2022-07-29 |
 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 | 2022-02-14 | 2022-06-28 |
 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 |  |
@@ -89,7 +90,7 @@
 | [Gold Rush](https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam) | [CATHEDRALE](https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F) | [Houses Are Built The Same](https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh) | 3:10 | 2021-12-15 |  |
 | [Gone](https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36) | [7 Weeks](https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw) | [Sisyphus](https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI) | 3:53 | 2021-12-15 | 2022-07-24 |
 | [Gung Ho](https://open.spotify.com/track/2poNoMk0YyxePxeJidM4Jf) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Evol'](https://open.spotify.com/album/7nF02J94or6lPZirx6MxE4) | 5:06 | 2022-04-17 |  |
-| [Hair Shirt](https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Colostrum](https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp) | 3:46 | 2023-02-01 |  |
+| [Hair Shirt](https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Colostrum](https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp) | 3:46 | 2023-01-31 |  |
 | [Half Hearted Smile](https://open.spotify.com/track/3b4dVyCb3B5oI0MqRP2P5z) | [Nevermind The Car](https://open.spotify.com/artist/1SOJpH7pCModrv4SsTQgoa) | [The Iron Whale](https://open.spotify.com/album/4riqRamFeZWiIZbSn5N2Hi) | 4:54 | 2022-04-04 | 2022-07-29 |
 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 | 2021-12-15 |  |
 | [Haunted House](https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Haunted House](https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W) | 3:24 | 2023-01-26 | 2023-01-30 |
@@ -209,7 +210,7 @@
 | [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2023-01-19 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
 | [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 |  |
-| [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 |  |
+| [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 | 2023-02-02 |
 | [The Party](https://open.spotify.com/track/763AHSnGhS2mBy5jhdGUio) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/449OW4ceXx64cWDDCrHM0i) | 3:15 | 2022-01-27 | 2022-04-20 |
 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 | 2022-03-24 |  |
 | [The Shining of My Soul](https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [The Shining of My Soul](https://open.spotify.com/album/2S8lZl5Y49kMG4UiXpdhvn) | 3:30 | 2021-12-15 | 2023-01-15 |

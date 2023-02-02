@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Demob Happy
 
-1,112 songs - 2 day 10 hr 46 min
+1,113 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,8 @@
 | [Go To Hell](https://open.spotify.com/track/6QjZM70zIx7OOHwOZ75itg) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Go To Hell](https://open.spotify.com/album/4a4NVlJGkVNaYG6F2eOgMu) | 4:01 | 2022-12-16 | 2023-01-14 |
 | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/album/1uAHVkRPGVP52UhGs5cSES) | 3:07 | 2021-11-19 | 2022-03-05 |
 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 |  |
-| [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 |  |
+| [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-01-27 |  |
+| [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2023-02-02 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-01-27 |  |
 | [Going Clear](https://open.spotify.com/track/0wNzCdfjewhDgQZSsbZ09F) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Going Clear](https://open.spotify.com/album/07Msmgxentelm0DcvGdURI) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Golden Days](https://open.spotify.com/track/6cA5Urhy4bwM3SlWy1prgq) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Golden Days](https://open.spotify.com/album/4ZOrAMptSnyGfxl3G9m4QK) | 4:09 | 2021-11-19 | 2022-02-12 |

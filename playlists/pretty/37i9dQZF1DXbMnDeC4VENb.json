@@ -1,13 +1,33 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 132340,
+  "num_followers": 132517,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MzcyNCwwMDAwMDAwMDFkZjc2MmQ1ZDNlM2EwNTMxZGQ4N2Y2ZjNhNGU2YTMy",
+  "snapshot_id": "MTY3NTI4MzA2MywwMDAwMDAwMDgzMTY1NDViOGY4NWUzZGIzM2ZhZmNlOGM3YTViZmFj",
   "tracks": [
+    {
+      "added_at": "2023-02-01 20:24:23",
+      "album": {
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+      },
+      "artists": [
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
+    },
     {
       "added_at": "2022-10-17 07:55:46",
       "album": {

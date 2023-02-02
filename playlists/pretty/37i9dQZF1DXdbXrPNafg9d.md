@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,173 likes - 175 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,366 likes - 175 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 29 | [Sun Tea](https://open.spotify.com/track/747YyeAdHRewZ1QLdbGWRB) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [You Just Might Regret This](https://open.spotify.com/album/6CpxSb42v1QicShv0q0TFt) | 2:43 |
 | 30 | [Anxious People](https://open.spotify.com/track/7IMLuc6k37CBDhLVVKuSly) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [Anxious People](https://open.spotify.com/album/5jCOXGwGB1bL85Bp0Dwgk4) | 3:17 |
 | 31 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 |
-| 32 | [Waking Up 2 A Heartbreak](https://open.spotify.com/track/420RM61aaypkgNxphgDv3N) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/61W6T8vMKFzjFhTG876qjV) | 2:21 |
+| 32 | [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 |
 | 33 | [Clara's Mouth](https://open.spotify.com/track/2h6dfUB7hXAYnxr0ftHmDa) | [Bedridden](https://open.spotify.com/artist/60aV5uqvJL1hzJjuZrwPZn) | [Clara's Mouth](https://open.spotify.com/album/4pay2neWPMmZgzlktfAU53) | 3:49 |
 | 34 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
 | 35 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 160 | [Catching Feelings](https://open.spotify.com/track/2bzFtWh7zNgVCcNGSvsq0U) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Catching Feelings](https://open.spotify.com/album/7L1xzoqD5rKHvS6OdNv3ET) | 3:16 |
 | 161 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 |
 | 162 | [You Get Me \(A Final Word\)](https://open.spotify.com/track/7pggyXFvSZYb7Sv3kKtiZy) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [You Get Me \(A Final Word\)](https://open.spotify.com/album/0kUAc906p6guqq3pPguC3t) | 3:33 |
-| 163 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 |
+| 163 | [Concentrate \- feat\. Dua Saleh](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 |
 | 164 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 | 165 | [show me the world](https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [drama](https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd) | 3:43 |
 | 166 | [Olympia](https://open.spotify.com/track/6xsIZGWud4OdojtNN63z3Y) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Olympia](https://open.spotify.com/album/4y0eCEU0tFEqJJnJzeD9IG) | 3:40 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [OK24](https://open.spotify.com/track/6HFNns6mdMOCboU9Ns9nzF) | [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [OK24](https://open.spotify.com/album/7csxIws7fvjAlTnQWGiKHY) | 3:22 |
 | 175 | [Lingers On](https://open.spotify.com/track/3dYJZb05zdGqHu5mC6hhwC) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [Lingers On](https://open.spotify.com/album/0QhwHHAn4kh90aT5e6am6p) | 3:40 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDhkODE5YTRlN2RmMDQwMjVmMTM3YjVmMmNmM2E4YWNh`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDVlZTkwM2FkMGM3NTEwOGRhZTg2YzFlYTRmMDhjMDk0`

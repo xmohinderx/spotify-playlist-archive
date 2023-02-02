@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 202000,
       "name": "3ayech Lili - \u0639\u0627\u064a\u0634 \u0644\u064a\u0644\u064a",
       "url": "https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l"
@@ -1361,6 +1361,42 @@
     },
     {
       "album": {
+        "name": "Ma3lebeli",
+        "url": "https://open.spotify.com/album/5qw02s0C0OQmlom0DEc31T"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247841,
+      "name": "Ma3lebeli",
+      "url": "https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8"
+    },
+    {
+      "album": {
+        "name": "Ma3lich",
+        "url": "https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07"
+      },
+      "artists": [
+        {
+          "name": "Kafon",
+          "url": "https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196379,
+      "name": "Ma3lich",
+      "url": "https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv"
+    },
+    {
+      "album": {
         "name": "Ma3lich",
         "url": "https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa"
       },
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214963,
       "name": "Nseni",
       "url": "https://open.spotify.com/track/739EgkC4WjNGjdD2yfQb7X"
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 197538,
       "name": "Nsit",
       "url": "https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU"
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 116089,
       "name": "Watani",
       "url": "https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0"

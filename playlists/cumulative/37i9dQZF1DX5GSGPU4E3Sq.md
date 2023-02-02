@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-273 songs - 15 hr 24 min
+274 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2022-06-29 |  |
 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 | 2022-07-19 |  |
 | [Bittern](https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 1:21 | 2022-07-19 | 2022-07-23 |
+| [Bittern](https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 1:21 | 2023-01-13 |  |
 | [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 | 2023-01-28 |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2022-07-29 |
 | [Bluebirds](https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP) | [The Highest Clouds](https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH) | [Bluebirds](https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw) | 2:07 | 2022-06-29 |  |
@@ -185,7 +186,7 @@
 | [Nature's Cradle](https://open.spotify.com/track/4P5BrmxMAJrqenB0L1e5Up) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-06-29 |  |
 | [Om mani palme hum](https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Om mani palme hum](https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj) | 5:00 | 2022-06-29 |  |
-| [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 | 2022-06-29 | 2023-02-01 |
+| [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 | 2022-06-29 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-07-19 |  |
 | [Palais Glide](https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Sleepy Insect Music](https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt) | 2:26 | 2022-06-29 |  |
 | [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-07-19 | 2022-10-12 |
@@ -195,7 +196,7 @@
 | [pensamiento positivo](https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp) | [Alexandro Sanchez](https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a) | [Relajar](https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS) | 2:46 | 2022-06-29 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2022-07-19 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/7kCbTbQfyVySUftfKsgbWF) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peperomia Seedling](https://open.spotify.com/album/2HTliWlRXYQXidfyTOwkpU) | 3:43 | 2022-06-29 | 2022-07-29 |
-| [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2022-06-29 |  |
+| [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2022-06-29 | 2023-02-02 |
 | [Photophores](https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc) | [Balearic Sea](https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6) | [Intertidal](https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43) | 2:36 | 2022-06-29 | 2023-01-22 |
 | [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 | 2022-09-30 |
 | [Prad](https://open.spotify.com/track/6bVe3KvYlPjI20dqMYQz0n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [ALL](https://open.spotify.com/album/3PvCbTrliFqZydFujweeiI) | 4:54 | 2022-06-29 | 2022-07-29 |
@@ -275,7 +276,7 @@
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-21 |  |
 | [Windchimes](https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP) | [Jordan Jessep](https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv) | [Ambient Worlds](https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU) | 7:09 | 2022-06-29 | 2023-02-01 |
 | [Wonders](https://open.spotify.com/track/3hUO3O0H2XnZ6QCpHSPRWb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/78wbhGunanw1Mh5GEAV5tw) | 2:53 | 2022-06-29 | 2022-07-29 |
-| [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 |  |
+| [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 | 2023-02-02 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-06-29 |  |
 | [Yantra 432hz](https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2022-09-02 |  |
 | [Zentrera](https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Zentrera](https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u) | 2:52 | 2022-06-29 |  |

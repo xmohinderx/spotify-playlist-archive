@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-109 songs - 6 hr 48 min
+111 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Asmr](https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Double Penetration](https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1) | 2:50 | 2022-09-05 |  |
 | [Aston](https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM) | [Aston](https://open.spotify.com/album/39JtI95D6Q7tsVpqHTYmxR) | 2:32 | 2022-09-05 | 2022-11-12 |
 | [Bicstan](https://open.spotify.com/track/0ijKkR37HK5zOX2hm5bOqv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:45 | 2022-09-05 | 2022-11-12 |
-| [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2022-09-05 |  |
+| [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2022-09-05 | 2023-02-02 |
+| [Blue Racecar](https://open.spotify.com/track/4tmsqsTyxgKUnGczXhBeLa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Sunniva Lindgård \(Producer\), Sunniva Lindgård \(Composer\), Andrew Murray Baardsen \(Producer\)](https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:32 | 2022-11-11 |  |
 | [BREAK MY SOUL \- Nita Aviance Club Mix](https://open.spotify.com/track/4r5CZANZYfNIgAQDJiIMV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nita Aviance](https://open.spotify.com/artist/2iKgmLk2mJU1hqI9mGC43K) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 9:54 | 2022-09-05 |  |
 | [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 | 2022-09-05 |  |
 | [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 | 2022-09-05 | 2022-10-14 |
@@ -41,7 +42,8 @@
 | [Have My Love](https://open.spotify.com/track/4pUjVkXq2S0zf9qoOh3UMU) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Have My Love](https://open.spotify.com/album/5agWOoqJ9cnvbWs3xNW5OL) | 4:40 | 2022-09-05 |  |
 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 | 2022-09-05 |  |
 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2022-09-05 |  |
-| [High Enough \(feat\. Tiara Thomas\)](https://open.spotify.com/track/4lBYIkArQFt2lyK5ejJnxN) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [High Enough \(feat\. Tiara Thomas\)](https://open.spotify.com/album/32GE20xX3GCQzSn2dendGf) | 4:18 | 2022-09-05 |  |
+| [High Enough](https://open.spotify.com/track/6xpdm3roD6pYv6J5NWBulx) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Neurofire](https://open.spotify.com/album/5T10lmEkcXlEh9IlroOM9f) | 4:18 | 2022-11-11 |  |
+| [High Enough \(feat\. Tiara Thomas\)](https://open.spotify.com/track/4lBYIkArQFt2lyK5ejJnxN) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [High Enough \(feat\. Tiara Thomas\)](https://open.spotify.com/album/32GE20xX3GCQzSn2dendGf) | 4:18 | 2022-09-05 | 2023-02-02 |
 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 | 2022-11-11 |  |
 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 | 2022-09-05 |  |
 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 | 2022-09-05 |  |

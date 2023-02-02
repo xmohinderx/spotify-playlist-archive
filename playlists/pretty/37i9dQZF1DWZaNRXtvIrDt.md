@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Yaeji
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,205 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,217 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 15 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 |
 | 16 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 |
 | 17 | [Let U Forget](https://open.spotify.com/track/3DOTsnGY4an8MBBwfTjplz) | [Chungo](https://open.spotify.com/artist/0XnV2hmWdT3vvtRv7dBrKK) | [DBGI006](https://open.spotify.com/album/5YN4XTvDAwQF9eF2hjriST) | 5:32 |
-| 18 | [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 |
+| 18 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 |
 | 19 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 |
 | 20 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
 | 21 | [When I’m With U](https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [All Nyte](https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz) | 4:10 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 35 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 |
 | 36 | [Cyber](https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd) | [Echomatics](https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0) | [Move On](https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB) | 5:08 |
 | 37 | [Without You](https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Without You](https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g) | 3:17 |
-| 38 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 |
+| 38 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 |
 | 39 | [Al\-Duqqi](https://open.spotify.com/track/7rbVUjN7DrpP1i1fwzCTRR) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Immigrant](https://open.spotify.com/album/0ZDQ0XnPQHZ0FnZcs1pWnm) | 2:59 |
 | 40 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
 | 41 | [EMBER\_dnb\_edit001](https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Zwarte Pad](https://open.spotify.com/track/03YyIDJad7Pdk0IGczwzwJ) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Zwarte Pad](https://open.spotify.com/album/77sq418ZcuupJXi3MYHqsT) | 5:42 |
 | 70 | [All Over This Party \- salute Remix](https://open.spotify.com/track/74y9q95NblVSvnurtU62WR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [All Over This Party \(salute Remix\)](https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY) | 3:08 |
 
-Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMGNhM2NmZGZlZDc2ZjFjNzhlNGVhYzUwMWI0NDg4YTVj`
+Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMDhlZDc2NDI1NjM4ODRmMGRiMDUzMTA2NzNiZmI4OGRm`

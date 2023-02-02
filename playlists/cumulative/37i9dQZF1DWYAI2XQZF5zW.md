@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-86 songs - 5 hr 20 min
+87 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Rastafari Anthem](https://open.spotify.com/track/3pn1vCQMA2wNQiaPkiIHI7) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:26 | 2020-01-10 |  |
 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 | 2020-01-10 |  |
 | [Real Love](https://open.spotify.com/track/78aaIdueQSjI00fWUMAqna) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/3JAvtVbq8XLocOQl3CzOwE) | 4:09 | 2020-01-10 | 2022-07-29 |
-| [Red Sea Dub](https://open.spotify.com/track/4wzt08huSyrWQUfakVmguR) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv) | 4:41 | 2020-01-10 |  |
+| [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 | 2020-01-10 |  |
+| [Red Sea Dub](https://open.spotify.com/track/4wzt08huSyrWQUfakVmguR) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv) | 4:41 | 2020-01-10 | 2023-02-02 |
 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/0eocMORTMwuO5wKYWGGSS1) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/46q2lXA0bm74ijORjFxTer) | 4:32 | 2020-01-10 | 2022-11-12 |
 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/4Z5n21KUp7pcMVMaRS4ntJ) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/0fl9DMj0gxIiueUMgPNZ7i) | 4:32 | 2020-01-10 |  |
 | [Satisfaction](https://open.spotify.com/track/43b6OYVobJC116VZDQELje) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [The Best of Trojan Classic Reggae Vol\. 1](https://open.spotify.com/album/7Bwmc0G9fy0wLWug3wQiPF) | 1:44 | 2020-01-10 | 2022-11-13 |

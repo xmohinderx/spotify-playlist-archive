@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: XL Life
 
-382 songs - 22 hr 8 min
+383 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alone In A Room](https://open.spotify.com/track/0hAIs32U2SmJcXymlcyF8h) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 4:05 | 2021-11-30 | 2022-11-05 |
 | [Alone In A Room](https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 4:05 | 2022-04-01 |  |
 | [Alpha Omega \(feat\. Kamiyada+\)](https://open.spotify.com/track/2rcrjV0mUnrFfw5dbiqdxA) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Alpha Omega \(feat\. Kamiyada+\)](https://open.spotify.com/album/7ipNZBalMzUvDwAXyCI5ly) | 3:43 | 2021-11-30 | 2022-07-28 |
+| [Angel Dust](https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Angel Dust](https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf) | 3:27 | 2023-02-02 |  |
 | [Another Life](https://open.spotify.com/track/2nZhWuVO1TtzFmZ6995y0V) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me \(Deluxe Edition\)](https://open.spotify.com/album/05RlXB34BEN64HFnYJWXgX) | 4:14 | 2021-11-30 | 2022-07-28 |
 | [Antidote](https://open.spotify.com/track/03tfJrJnABx6brnvr3Xx0J) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [Antidote](https://open.spotify.com/album/0eOsunWjriXq4GG0es0Uon) | 3:37 | 2021-11-30 | 2022-07-09 |
 | [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 | 2022-04-01 |  |
@@ -87,7 +88,7 @@
 | [Crisis](https://open.spotify.com/track/4QpvRKNHQEmyLes7zS86SY) | [Cevilain](https://open.spotify.com/artist/6XWwKgs6eaq7yZjhCELSvj) | [On Death & Dying](https://open.spotify.com/album/7bNkSAej1OUN3b6LlHPFZ2) | 4:00 | 2021-11-30 | 2022-07-26 |
 | [Crooked Smile](https://open.spotify.com/track/5yoX5wMeSivacYx6GpXVoF) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Crooked Smile](https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe) | 2:59 | 2022-03-11 | 2022-07-12 |
 | [Cut Your Losses](https://open.spotify.com/track/5Li2YgiJ39nQOhwkzu7yfg) | [No Eden](https://open.spotify.com/artist/638c40rFuhN8BQ5PG4F78h) | [Abandon](https://open.spotify.com/album/3B04uLIBgtGiwx22PuMoe3) | 3:15 | 2022-04-01 | 2022-04-19 |
-| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 |  |
+| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 | 2023-02-02 |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2023-01-19 |  |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 | 2023-01-25 |

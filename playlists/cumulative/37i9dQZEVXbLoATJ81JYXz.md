@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,180 songs - 2 day 13 hr 45 min
+1,181 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [ICE](https://open.spotify.com/track/2vTin2H3idCl2nuc3CqdPR) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [ICE](https://open.spotify.com/album/1LjrNRhhrl248ey5geuzpP) | 2:16 | 2021-03-31 | 2021-04-18 |
 | [IGEN & IGEN](https://open.spotify.com/track/21YhWvUd6TRPPnkXAP5LGn) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [IGEN & IGEN](https://open.spotify.com/album/4qTTiQ893IOSguI46Ux61f) | 2:41 | 2022-06-04 | 2022-06-06 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-07 | 2021-09-28 |
+| [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 | 2023-02-01 |  |
 | [In corpore sano](https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg) | [Konstrakta](https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt) | [In corpore sano](https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-02-28 | 2022-06-10 |
 | [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 | 2022-06-09 | 2022-07-31 |
@@ -815,7 +816,7 @@
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Pretender](https://open.spotify.com/track/43S6EtJ38gARKKLvdbQd31) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Pretender](https://open.spotify.com/album/73vmRNV2enun5nkmVbNEz9) | 2:52 | 2021-03-29 | 2021-03-31 |
 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:15 | 2022-10-09 | 2022-10-16 |
-| [Privjet](https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Privjet](https://open.spotify.com/album/1n1S21npyuvze19FjLdrR4) | 2:22 | 2023-01-31 |  |
+| [Privjet](https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Privjet](https://open.spotify.com/album/1n1S21npyuvze19FjLdrR4) | 2:22 | 2023-01-31 | 2023-02-02 |
 | [PS jag hatar dig](https://open.spotify.com/track/5rJV3q2Z2QIZaJWSfhPt2w) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:42 | 2021-11-21 | 2021-11-28 |
 | [PTSD](https://open.spotify.com/track/4hYamjfzU3VXJCUkfakO0J) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [PTSD](https://open.spotify.com/album/45dplEuz4rtySVo6z5P65x) | 3:20 | 2023-01-28 |  |
 | [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-09-01 | 2021-09-03 |

@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-67 songs - 4 hr 37 min
+69 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 | 2021-10-28 |  |
 | [All About You \(feat\. Foster The People\) \- Tensnake Remix](https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\) \[Tensnake Remix\]](https://open.spotify.com/album/6Dwgd1sa4nYfzbW9eI7Vt6) | 5:26 | 2021-10-28 |  |
 | [Apnea Instructions 04 \- Johannes Albert Remix \- Radio Edit](https://open.spotify.com/track/3q2pd6hTEvTGCanQnKEwaB) | [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Apnea Instructions 04 \(Johannes Albert Remix \- Radio Edit\)](https://open.spotify.com/album/1dXxYYkSS5QtwL83JavGmE) | 4:03 | 2021-10-28 |  |
-| [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2021-10-28 |  |
+| [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2021-10-28 | 2023-02-02 |
+| [Ascension](https://open.spotify.com/track/7yKodgnMF6dF737ahs1BHh) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:21 | 2021-10-28 |  |
 | [Attention \- Moscoman Remix](https://open.spotify.com/track/0Sx8gyhFV4B7bnj8xh8kpt) | [Cagedbaby](https://open.spotify.com/artist/2sbZiktyjJtAAWs3LHeHzO), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN), [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Attention](https://open.spotify.com/album/5dHNiXlC7nUK0KGvWymFqs) | 7:02 | 2021-10-28 |  |
 | [Ayekouma \- Carnival Mix](https://open.spotify.com/track/2YkGS0axOi2LaM9znNw2mj) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Ayekouma](https://open.spotify.com/album/0tMOdQ266QWcgfyj9og0jY) | 3:21 | 2021-10-28 |  |
 | [Broken Mirror](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:08 | 2021-10-28 |  |
@@ -40,7 +41,8 @@
 | [Jini](https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3) | [Justin Faust](https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl) | [Jini](https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze) | 4:20 | 2021-10-28 |  |
 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 | 2021-10-28 |  |
 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 | 2021-10-28 |  |
-| [Like A Knife](https://open.spotify.com/track/3TsmYjwTE7PyLAJKn2lJLN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX) | 3:00 | 2021-10-28 |  |
+| [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 | 2021-10-28 |  |
+| [Like A Knife](https://open.spotify.com/track/3TsmYjwTE7PyLAJKn2lJLN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX) | 3:00 | 2021-10-28 | 2023-02-02 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2021-10-28 |  |
 | [Limousine Lies](https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56) | [Pirra](https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M) | [Spirals \(Deluxe\)](https://open.spotify.com/album/1LU6OfLGm0ex7YqWLphHFd) | 3:27 | 2021-10-28 |  |
 | [Lovers](https://open.spotify.com/track/1D9ljonkp8XdH7xcS0cgqQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:23 | 2021-10-28 |  |

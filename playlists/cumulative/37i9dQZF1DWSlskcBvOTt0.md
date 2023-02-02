@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-360 songs - 1 day 13 hr 21 min
+361 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-07-01 | 2022-10-15 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 | 2022-07-01 |  |
 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 | 2022-11-11 |  |
-| [I'm Everything](https://open.spotify.com/track/5JyAuVWt07CDdmKl3w6a9w) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa) | [I'm Everything](https://open.spotify.com/album/344T5wmPDAEJaKugZcjPuG) | 4:26 | 2022-12-23 |  |
+| [I'm Everything](https://open.spotify.com/track/5JyAuVWt07CDdmKl3w6a9w) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa) | [I'm Everything](https://open.spotify.com/album/344T5wmPDAEJaKugZcjPuG) | 4:26 | 2022-12-23 | 2023-02-02 |
 | [Ikigai \- Radio Edit](https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI) | [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Sediis](https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9) | [Ikigai \(Radio Edit\)](https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt) | 4:08 | 2022-05-06 | 2022-07-23 |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-07-08 |  |
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-04-22 | 2022-10-15 |
@@ -361,6 +361,7 @@
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-10-13 |
 | [Waves of the Soul](https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5) | 3:32 | 2022-07-01 |  |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-29 | 2022-07-29 |
+| [Where We Should Be](https://open.spotify.com/track/1epNzxapV6ZZ6XkSAU0LMW) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Where We Should Be](https://open.spotify.com/album/0TAPk95TmI780w2yqJzmGt) | 4:31 | 2023-01-27 |  |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 |  |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 | 2022-12-28 |
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2022-12-24 |

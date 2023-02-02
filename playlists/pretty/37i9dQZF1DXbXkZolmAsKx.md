@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,330 likes - 105 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344 likes - 105 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
+| 1 | [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 |
 | 2 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 |
 | 3 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 |
 | 4 | [Simon & Anna](https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 3:08 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 66 | [Convex](https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 7:02 |
 | 67 | [Remember](https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [We Will Always Be](https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c) | 6:04 |
 | 68 | [Red Gate Drifting](https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 7:30 |
-| 69 | [Semena Mertvykh](https://open.spotify.com/track/4uWtEvbfRnT7lV4Y5b5gBB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:30 |
+| 69 | [Semena Mertvykh](https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:30 |
 | 70 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 |
 | 71 | [Selene](https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Spells \(Special Edition\)](https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR) | 3:20 |
 | 72 | [TWTGA](https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3) | 5:55 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 104 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 105 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MTY3NDgzNjY4MSwwMDAwMDAwMDczZmZkNjc5Njc4MDMxYTM1OTIyNWViYWE0YThhZDQz`
+Snapshot ID: `MTY3NDgzNjY4MSwwMDAwMDAwMGE1ZDdiMDEzZjhlMzE2NjM2MmVhZmYyZTFiYzU5MjU5`

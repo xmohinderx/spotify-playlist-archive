@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,667 likes - 102 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,678 likes - 102 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,6 +109,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 | 100 | [Hamburg](https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Hamburg](https://open.spotify.com/album/5UlsdkEmJDAgFibeZiyexh) | 2:57 |
 | 101 | [Fick die Nachbarn](https://open.spotify.com/track/4cxvsOCzuXIiPAnHOASuOF) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Fick die Nachbarn](https://open.spotify.com/album/2ukeIvx6lxIqFPRG39aKrR) | 2:51 |
-| 102 | [Unlovable](https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo) | 4:02 |
+| 102 | [Unlovable](https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1) | 4:02 |
 
-Snapshot ID: `MTY3NDgxMzg3MiwwMDAwMDAwMDc2ZTgxMzEyMzZlMjY5MDRiZGIwNWU5NDI0MmEwMmMx`
+Snapshot ID: `MTY3NDgxMzg3MiwwMDAwMDAwMDgxNjJkZjNkN2ViZWZiZGU1NTY0NzU2M2I5MGI2YjUx`

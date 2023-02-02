@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Base Ball Bear
 
-460 songs - 1 day 6 hr 20 min
+461 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-07-28 | 2022-09-24 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-05-10 | 2022-07-29 |
 | [September](https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [September](https://open.spotify.com/album/3skQf6NwdlQXH0OvOfH4Rg) | 3:14 | 2022-09-06 | 2022-10-12 |
-| [SEVENTEEN](https://open.spotify.com/track/0JJ1bCVoFAh9T5M0g80BzX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/7FhnLBi4ao88WF2guGYjXU) | 3:30 | 2023-02-01 |  |
+| [SEVENTEEN](https://open.spotify.com/track/0JJ1bCVoFAh9T5M0g80BzX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/7FhnLBi4ao88WF2guGYjXU) | 3:30 | 2023-02-01 | 2023-02-02 |
+| [SEVENTEEN](https://open.spotify.com/track/67iNt98UJRDjlwxdGvo2qJ) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/7r3FOYP2u5wyfUXp7XPWA1) | 3:30 | 2023-02-01 |  |
 | [Shiroi Koibitotachi \[2022 Remaster\]](https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:42 | 2022-11-22 | 2022-11-30 |
 | [shuttle way](https://open.spotify.com/track/1AuES2HPRFzcZZbbUbXxGz) | [Strobolights](https://open.spotify.com/artist/3h0GJ51Ax2cxu6m5PflkWZ) | [shuttle way](https://open.spotify.com/album/6m0hIIxkOsAhXSchfiCkIm) | 3:03 | 2022-11-03 | 2022-11-09 |
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |

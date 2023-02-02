@@ -9863,6 +9863,24 @@
     },
     {
       "album": {
+        "name": "Ikon",
+        "url": "https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161167,
+      "name": "Ikon",
+      "url": "https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l"
+    },
+    {
+      "album": {
         "name": "In corpore sano",
         "url": "https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI"
       },
@@ -15782,7 +15800,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 142978,
       "name": "Privjet",
       "url": "https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu"

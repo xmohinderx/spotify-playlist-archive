@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Mickey Guyton
+> The country way of testifying\. Cover: Luke Bryan
 
 172 songs - 10 hr 33 min
 

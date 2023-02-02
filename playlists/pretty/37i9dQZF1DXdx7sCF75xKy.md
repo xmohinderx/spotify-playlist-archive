@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Soph T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,970 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,990 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 47 | [Love Me Little More](https://open.spotify.com/track/6j2nyMkP5ACxj7JiXx40RE) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Love Me Little More](https://open.spotify.com/album/35dpZS4M2NcrxZXTrOTIQR) | 3:19 |
 | 48 | [突然起了一个念头](https://open.spotify.com/track/6bSabw5H2dnbx8IjYfplOj) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [突然起了一个念头](https://open.spotify.com/album/12oRbnnG2KrpKXlKvazvit) | 3:37 |
 | 49 | [Obsesiku](https://open.spotify.com/track/0BgiFXOj32ZEGcweeYmLrR) | [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [Obsesiku](https://open.spotify.com/album/2quCLWVSnzIECwh1zWorQk) | 3:16 |
-| 50 | [水星記](https://open.spotify.com/track/1BIMflGBEZVMoMBYee8b3R) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/1ewhrl109isjAtzC1GB5gL) | 4:30 |
+| 50 | [水星記](https://open.spotify.com/track/1ZLZ7azsl5orPPjjNHDDuC) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/0Lb4h7zgiQW5k03Mk6t7RC) | 4:30 |
 
-Snapshot ID: `MTY3NTE4MDgwMCwwMDAwMDAwMGMwMTliYTczNGY1ZmQ4ZDRlNTAzYWJlY2I5ZjcyNDAx`
+Snapshot ID: `MTY3NTE4MDgwMCwwMDAwMDAwMGQ2ODQ0M2U1MjBhZjAxZDE3Y2E5ZGJjNzQ1MWUzYTQ3`

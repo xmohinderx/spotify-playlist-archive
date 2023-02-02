@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,938 likes - 77 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,391 likes - 77 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 32 | [Open Road](https://open.spotify.com/track/4YbZWUKYmD7NUlE6eorQXo) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Wonder Woman 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO) | 5:36 |
 | 33 | [Supermarine](https://open.spotify.com/track/4NwpP2y4ijBR77Voiq9pS1) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dunkirk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KpQPJOBWeL8kmnwCzYcg8) | 8:03 |
 | 34 | [Blade Runner](https://open.spotify.com/track/5cdx6h6N1E4PwKkOwb8Gzl) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 10:05 |
-| 35 | [Day One](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 |
+| 35 | [Day One \(Interstellar Theme\)](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 |
 | 36 | [It's So Overt It's Covert](https://open.spotify.com/track/1k9YXwD5TvWomBdZWRCANV) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Sherlock Holmes: A Game of Shadows \(Original Motion Picture Soundtrack\) \[Deluxe Version\]](https://open.spotify.com/album/6sPvc5uYzPNJ8LPjUSGp6e) | 3:19 |
 | 37 | [Surfing Dolphins](https://open.spotify.com/track/1s0gzyfVFNxOLhMcaHxUqq) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE) | 2:22 |
 | 38 | [Leave No Man Behind](https://open.spotify.com/track/0eNT9B4PjPpzmOTFSbUWjh) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Black Hawk Down \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Eh8eEKS1cYsqCrZw2CyZf) | 6:18 |

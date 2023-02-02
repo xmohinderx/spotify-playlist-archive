@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156360,
+  "num_followers": 156357,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGFhMjU5ZmI5YTk4N2QzNzI3YjQwM2E0OTAxMGIwZTAy",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDk5YWVhMDMxZDg3NzBjNDk5MTZmNzNiZWE3MDFiNTg4",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR"
-      },
-      "artists": [
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        }
-      ],
-      "duration_ms": 200977,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "No One Dies From Love (220 KID Remix)",
         "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 186180,
       "name": "No One Dies From Love (220 KID Remix)",
       "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 200977,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g"
     },
     {
       "added_at": "2022-11-10 23:00:00",

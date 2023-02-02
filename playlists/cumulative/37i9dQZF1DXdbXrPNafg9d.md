@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Samia
 
-4,746 songs - 11 day 14 hr 43 min
+4,747 songs - 11 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [Company](https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Company](https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z) | 3:20 | 2022-05-06 | 2022-06-22 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-10-15 |
 | [Compos Mentis](https://open.spotify.com/track/7xXQtCl1GvbIsWoGuOkRat) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Compos Mentis](https://open.spotify.com/album/0W5kzmrVBXAr4lPObUL2OI) | 2:55 | 2022-08-12 | 2022-09-17 |
-| [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
+| [Concentrate \- feat\. Dua Saleh](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 | 2021-12-03 | 2022-01-08 |
 | [Concrete](https://open.spotify.com/track/2le7fdIkJuRZLwCM1mFxSf) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Concrete](https://open.spotify.com/album/6SmgsgCgJBktHz7G1xAMEa) | 4:02 | 2022-03-04 | 2022-04-16 |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-10-16 | 2021-12-11 |
@@ -4415,7 +4415,8 @@
 | [Wake Up!](https://open.spotify.com/track/09ZF0eBM1d5wwFuFGsknNu) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Wake Up!](https://open.spotify.com/album/2HQ3cj5OPAe4A7Kw2uE1P2) | 3:22 | 2020-06-05 | 2020-07-18 |
 | [Wake UP!](https://open.spotify.com/track/2gPCBa2nEfPLo7nXrpC52b) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/730DVm5mCyEP4uyAgidQf2) | 3:33 | 2020-04-24 | 2020-06-12 |
 | [Wakey Jakey](https://open.spotify.com/track/08LJpmS84XGYpz9oQ9hq2C) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Wakey Jakey](https://open.spotify.com/album/1xsE0UANBEIXiyNL0FwS0B) | 3:19 | 2021-11-05 | 2022-01-08 |
-| [Waking Up 2 A Heartbreak](https://open.spotify.com/track/420RM61aaypkgNxphgDv3N) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/61W6T8vMKFzjFhTG876qjV) | 2:21 | 2023-01-27 |  |
+| [Waking Up 2 A Heartbreak](https://open.spotify.com/track/420RM61aaypkgNxphgDv3N) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/61W6T8vMKFzjFhTG876qjV) | 2:21 | 2023-01-27 | 2023-02-02 |
+| [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 | 2023-01-27 |  |
 | [Walk Across The Water](https://open.spotify.com/track/5AEyKKiz6YPTLR7EDFLqMS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:55 | 2019-06-28 | 2019-08-16 |
 | [Walk Soft](https://open.spotify.com/track/3N3bVn9wKLiZF5zq2jnYVq) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Walk Soft](https://open.spotify.com/album/089VL6jNeEYPRSKK79I4SH) | 3:58 | 2020-02-21 | 2020-03-06 |
 | [Walker](https://open.spotify.com/track/1iu83btfdAEbMH4K2tRo71) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Walker](https://open.spotify.com/album/4q2AM3cwp8l8UhutZAFA1p) | 3:47 | 2021-12-17 | 2022-02-12 |

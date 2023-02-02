@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,959 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,980 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 46 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
 | 47 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 |
 | 48 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 |
-| 49 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao) | 2:34 |
+| 49 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 |
 | 50 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 51 | [disoriented](https://open.spotify.com/track/2DktKzalubu8t5irfO5qOZ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [disoriented](https://open.spotify.com/album/1KTPGTx8CccfS002Bffxnj) | 2:48 |
 | 52 | [In My Head \- Rebecca & Fiona Remix](https://open.spotify.com/track/35cwWivFvXLzwJfKlvbK0A) | [First Hate](https://open.spotify.com/artist/5HOnVNfQ1FvMzZN2NEuNhP), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [The Remix Experience](https://open.spotify.com/album/4UV7rf3N4fllR4vBHjdbin) | 4:31 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 82 | [Ot Commute](https://open.spotify.com/track/6FJlT2Uyyc9bE8UBdCkR5w) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Cuns](https://open.spotify.com/artist/440Df17wTGxtbFirxmW5l3) | [Be That as It May](https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY) | 3:21 |
 | 83 | [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 |
 | 84 | [Big Syke \(feat\. Meyhem Lauren & Boldy James\)](https://open.spotify.com/track/4KBmFQxpsXr7WlvfliqIrK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Meyhem Lauren](https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Alchemist Sandwich](https://open.spotify.com/album/17tk2ot2eZqzhlF1nlcFPa) | 2:26 |
-| 85 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 |
+| 85 | [Concentrate \- feat\. Dua Saleh](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 |
 | 86 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 87 | [20:22](https://open.spotify.com/track/5dr8f2Oh0rTtIwywFysPxu) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [20:22](https://open.spotify.com/album/30q3e6oJJLyXwqI7QG5bOb) | 2:28 |
 | 88 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [Minuteman \(with DLG.\)](https://open.spotify.com/track/2HASZGAuXMGsprIlIVNduq) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Minuteman \(with DLG.\)](https://open.spotify.com/album/20A5NLjIXPE5KMzAzAzhLW) | 3:18 |
 | 99 | [Another Life](https://open.spotify.com/track/4QFsE5gOxgZ2FUfvD12KH5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Another Life](https://open.spotify.com/album/6fxuLoc2x5pmPpenLsONtv) | 3:56 |
 
-Snapshot ID: `MTY3NDgzMDk5NiwwMDAwMDAwMDUwNjk2YjAzNDU0OWE4NmU1ZTA5MjI2YmY3NzlhZDdl`
+Snapshot ID: `MTY3NDgzMDk5NiwwMDAwMDAwMDNiNDBkOTE1MDk1ZmRlZTc5MTAyYmY5YmNmY2RkZDdj`

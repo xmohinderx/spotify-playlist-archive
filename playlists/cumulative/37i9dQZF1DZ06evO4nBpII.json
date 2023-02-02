@@ -960,10 +960,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 132080,
       "name": "The Grouch",
       "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+    },
+    {
+      "album": {
+        "name": "Nimrod (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129104,
+      "name": "The Grouch - Demo",
+      "url": "https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS"
     },
     {
       "album": {

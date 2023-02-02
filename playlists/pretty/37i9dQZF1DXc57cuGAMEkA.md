@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > Sam Smith, ROSALÍA, The Kid LAROI, Ava Max and more! Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,816 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,825 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

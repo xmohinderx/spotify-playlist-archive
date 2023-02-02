@@ -2868,7 +2868,7 @@
     {
       "album": {
         "name": "No Sweat",
-        "url": "https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt"
+        "url": "https://open.spotify.com/album/1ImTuHabPeyHgqZF46xJFe"
       },
       "artists": [
         {
@@ -2879,6 +2879,24 @@
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183194,
+      "name": "No Sweat",
+      "url": "https://open.spotify.com/track/2xcpZnpsk7m0nbi9X2zn9J"
+    },
+    {
+      "album": {
+        "name": "No Sweat",
+        "url": "https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 183194,
       "name": "No Sweat",
       "url": "https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3"

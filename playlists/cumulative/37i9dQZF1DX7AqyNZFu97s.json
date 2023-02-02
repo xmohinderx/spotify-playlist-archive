@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Alfie Neale",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Nia Chennai",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 164866,
       "name": "Act Right",
       "url": "https://open.spotify.com/track/0SjrBMybJh2eHL8vwn4G3P"
+    },
+    {
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/4X2nQ4EmMN8zEWb9R5b63O"
+      },
+      "artists": [
+        {
+          "name": "Siobhan",
+          "url": "https://open.spotify.com/artist/2kYZxUrWyJ5ju6JkkD5wYY"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174458,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/4CwrBq5IRj5Aem8cpWWE1M"
     },
     {
       "album": {
@@ -734,7 +752,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 220396,
       "name": "Anghyfarwydd Haul",
       "url": "https://open.spotify.com/track/5zcjcim2VUVAzbOrfokrJk"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 278117,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0DtH5GJhj04tLmZXgBbZmP"
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
@@ -3574,10 +3592,28 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214922,
       "name": "Don't",
       "url": "https://open.spotify.com/track/23V79PCJ2pPElR2Ma6ePSx"
+    },
+    {
+      "album": {
+        "name": "Don't Feel Like It Did",
+        "url": "https://open.spotify.com/album/5nPeuJ15GFeZubz45WGGs9"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255801,
+      "name": "Don't Feel Like It Did",
+      "url": "https://open.spotify.com/track/6vOcwMb8ynSGooHuBC4cX6"
     },
     {
       "album": {
@@ -4364,7 +4400,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 288087,
       "name": "Fembot Fashion",
       "url": "https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB"
@@ -5285,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/2G9BAip6sHvwM45Av8H7lJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Inspace",
+          "url": "https://open.spotify.com/artist/50QEqqsedL6N3W0ICmLhYT"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158532,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/2a9LvqDQdgKDDTCmvTIzjU"
+    },
+    {
+      "album": {
         "name": "good enough",
         "url": "https://open.spotify.com/album/239ocIsPQA6jrnILumsg7n"
       },
@@ -5772,7 +5826,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 125484,
       "name": "Hell of Mine",
       "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
@@ -6532,7 +6586,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 293793,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/0HgkfCef0uZm6UUPB4PS19"
@@ -7114,7 +7168,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 207240,
       "name": "joyride",
       "url": "https://open.spotify.com/track/1QkJ700zAuty4QEF9dwXRY"
@@ -7580,7 +7634,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 224842,
       "name": "Lights Down (feat. KOATES)",
       "url": "https://open.spotify.com/track/54ioHJKXGQbM7YSJAvBPoB"
@@ -7797,6 +7851,24 @@
     },
     {
       "album": {
+        "name": "LOSE U 2 HIM",
+        "url": "https://open.spotify.com/album/3KzLBXNz9Z8XYbLnLfFc09"
+      },
+      "artists": [
+        {
+          "name": "Dylon Jack",
+          "url": "https://open.spotify.com/artist/4w2XbK1zFmXTMEKBjSu7ZG"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "LOSE U 2 HIM",
+      "url": "https://open.spotify.com/track/2TEqet5WZVv6MMmeekEsiO"
+    },
+    {
+      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/4obqEeispd4zybuIeLzUYN"
       },
@@ -7898,7 +7970,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 282653,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/1ps4TpuoR9eZgcRuPzS7Ig"
@@ -7924,6 +7996,24 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/1ec1i3ISsplGY8DTGTaohs"
+    },
+    {
+      "album": {
+        "name": "Love and Affection",
+        "url": "https://open.spotify.com/album/3vSPbXrNhO1ufhv2Qx3G5b"
+      },
+      "artists": [
+        {
+          "name": "Rachel Foxx",
+          "url": "https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Love and Affection",
+      "url": "https://open.spotify.com/track/1vJNibSAtRmiCgdDIWLEaN"
     },
     {
       "album": {
@@ -9180,7 +9270,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243521,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/3ak8cMLJxdRP7urfHf72Fw"
@@ -9943,6 +10033,28 @@
     },
     {
       "album": {
+        "name": "Parkgate Street",
+        "url": "https://open.spotify.com/album/2wlO2va8VtAzEoBkSzOQMX"
+      },
+      "artists": [
+        {
+          "name": "Odd Numbers",
+          "url": "https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6"
+        },
+        {
+          "name": "Graham",
+          "url": "https://open.spotify.com/artist/7iAdwKP5E05H3WbebSeHkl"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Parkgate Street",
+      "url": "https://open.spotify.com/track/3YSdoLu20GoDmah4E9PF0O"
+    },
+    {
+      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/2KNoAzXKyPoYAK46glsbvx"
       },
@@ -10109,6 +10221,24 @@
     },
     {
       "album": {
+        "name": "Phantom Thread",
+        "url": "https://open.spotify.com/album/403rxbWNn8L0s8awtDAtG1"
+      },
+      "artists": [
+        {
+          "name": "Rozsa",
+          "url": "https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228375,
+      "name": "Phantom Thread",
+      "url": "https://open.spotify.com/track/00GbCvF8LSUeojfFvU3NbG"
+    },
+    {
+      "album": {
         "name": "Pick Me Girl",
         "url": "https://open.spotify.com/album/3qHcyONAcR2NbzVDiOKSQP"
       },
@@ -10214,6 +10344,24 @@
       "duration_ms": 195000,
       "name": "Players Part",
       "url": "https://open.spotify.com/track/1kBGylDnYEnURR74H6XqNK"
+    },
+    {
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/4smzOknX4k64uDt1wDYHkd"
+      },
+      "artists": [
+        {
+          "name": "bee",
+          "url": "https://open.spotify.com/artist/67cRv3IqYI4b4rZTUg7BBs"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0MB0r8kV3q5Ev5wnus5sW2"
     },
     {
       "album": {
@@ -11297,6 +11445,28 @@
     },
     {
       "album": {
+        "name": "SHOOK (leave me alone)",
+        "url": "https://open.spotify.com/album/23SisJ8XN4HK1boICZj9kF"
+      },
+      "artists": [
+        {
+          "name": "Arli",
+          "url": "https://open.spotify.com/artist/6sqkpRWIWHi36kJ5TghTr7"
+        },
+        {
+          "name": "miamusa",
+          "url": "https://open.spotify.com/artist/3aMVGyCtFOUWsxOQ35UsA7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "SHOOK (leave me alone)",
+      "url": "https://open.spotify.com/track/3rmJ3wy9JHZzcASKxci80o"
+    },
+    {
+      "album": {
         "name": "Sick of It",
         "url": "https://open.spotify.com/album/00PwfYLAalFybBEm6LFnSC"
       },
@@ -11420,6 +11590,24 @@
       "duration_ms": 220000,
       "name": "Singing To The Sky",
       "url": "https://open.spotify.com/track/3Ef4tMtOZ9y09wXZy1KVWt"
+    },
+    {
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/2qzj6zw5St1dx74QLOQZv8"
+      },
+      "artists": [
+        {
+          "name": "Ella McMurray",
+          "url": "https://open.spotify.com/artist/7KB4ARlXXhbOJN9BsLtaC0"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/0Q59HMKAPyFp5hPFCmtR4F"
     },
     {
       "album": {
@@ -11604,7 +11792,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 149877,
       "name": "Social Angst",
       "url": "https://open.spotify.com/track/6xE3rkiSY4pORMOuulhi0S"
@@ -11666,6 +11854,24 @@
       "duration_ms": 184173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/06Mas50f5PrLSFpGT1Uyr1"
+    },
+    {
+      "album": {
+        "name": "Solomon The Rich Kid",
+        "url": "https://open.spotify.com/album/1eplwqrsZKc4rPnkSQtRDR"
+      },
+      "artists": [
+        {
+          "name": "OMA",
+          "url": "https://open.spotify.com/artist/6tcltBYoeWDm2P6NoawNIT"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "Solomon The Rich Kid",
+      "url": "https://open.spotify.com/track/59NCKlKK57HFKf639C6UGR"
     },
     {
       "album": {
@@ -13652,6 +13858,24 @@
       "duration_ms": 211978,
       "name": "We Just Want To Be Loved",
       "url": "https://open.spotify.com/track/4EmejNQ64gnzGIaHFUDdxI"
+    },
+    {
+      "album": {
+        "name": "Weekend Girlfriend",
+        "url": "https://open.spotify.com/album/1j1c5aK2d95028Gko9F8iw"
+      },
+      "artists": [
+        {
+          "name": "Viddy",
+          "url": "https://open.spotify.com/artist/6JUOx3eoJFvYUKLJ01JFIW"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208569,
+      "name": "Weekend Girlfriend",
+      "url": "https://open.spotify.com/track/4vs0coIt8Co8x5n50tcv00"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\. Cover: Nate Smith
+> Top trending new and recent tracks from the last few months\. Cover: Kameron Marlowe
 
 266 songs - 14 hr 7 min
 

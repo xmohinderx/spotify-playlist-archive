@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 33010,
+  "num_followers": 33025,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0MTIyNSwwMDAwMDAwMDE2NjBjYWExZmE4MzYyMzMzMDZkODVjMDlkM2VjZGVl",
+  "snapshot_id": "MTY3NDc0MTIyNSwwMDAwMDAwMDk3NmExZjVkMDM2YTBmMzVmNThjODlmMzY0MmNkOWQ3",
   "tracks": [
     {
       "added_at": "2023-01-19 15:14:25",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
     },
     {
-      "added_at": "2023-02-01 01:25:10",
+      "added_at": "2023-02-02 01:09:46",
       "album": {
         "name": "Morning Sun EP",
         "url": "https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC"
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
-      },
-      "artists": [
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Spider",
         "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
         "name": "Thinking Too Much",
         "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 208405,
       "name": "Thinking Too Much",
       "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 137546,
-      "name": "The Room",
-      "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -679,22 +659,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Tomorrow's Gonna Come",
         "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
       },
@@ -707,6 +671,22 @@
       "duration_ms": 230920,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -815,22 +795,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "No Flowers",
-        "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 184557,
-      "name": "No Flowers",
-      "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -843,6 +807,22 @@
       "duration_ms": 282773,
       "name": "Tell You Not To Worry",
       "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -991,22 +971,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "COMETA",
-        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Something To Feel",
         "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
       },
@@ -1019,6 +983,22 @@
       "duration_ms": 192253,
       "name": "Oil & Water",
       "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
     },
     {
       "added_at": "2023-01-19 15:14:25",
@@ -1139,22 +1119,6 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2023-01-19 15:14:25",
-      "album": {
         "name": "Way That We Feel",
         "url": "https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG"
       },
@@ -1175,6 +1139,22 @@
     {
       "added_at": "2023-01-19 15:14:25",
       "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
         "name": "Bigger Dreams",
         "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
       },
@@ -1191,6 +1171,22 @@
       "duration_ms": 267510,
       "name": "Proven (with Rick Ross)",
       "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
+    },
+    {
+      "added_at": "2023-01-19 15:14:25",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T"
     }
   ],
   "unique_name": "Soulful",

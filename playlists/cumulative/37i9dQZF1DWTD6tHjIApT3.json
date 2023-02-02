@@ -7006,10 +7006,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 275813,
       "name": "Not Unusual",
       "url": "https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk"
+    },
+    {
+      "album": {
+        "name": "Not Unusual",
+        "url": "https://open.spotify.com/album/4nxMwuFDjNnMWYGLOcEzaS"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275813,
+      "name": "Not Unusual",
+      "url": "https://open.spotify.com/track/5plwsxoOIhB9AnauxlrOqI"
     },
     {
       "album": {

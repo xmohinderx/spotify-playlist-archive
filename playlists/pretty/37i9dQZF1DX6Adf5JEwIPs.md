@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Lenin Ramirez
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,073 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,106 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [Que No Te Convengo](https://open.spotify.com/track/2hvXz7CNfbNe66XrMpMp4G) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Que No Te Convengo](https://open.spotify.com/album/0UFpx0GF9l81zG7SlJdO09) | 2:37 |
 | 24 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 |
 | 25 | [Como Me Duele \- En Vivo](https://open.spotify.com/track/3sKNtj6GYp3xt0Evrt6MAF) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Leandro Rios](https://open.spotify.com/artist/52k6EnkHcZ4yI8MFpwtrdn) | [Como Me Duele \(En Vivo\)](https://open.spotify.com/album/1uTLpYbb4vVMDP6d2Ese2F) | 3:54 |
-| 26 | [Deja Lo Analizo](https://open.spotify.com/track/3ElZcHTTXDEtPim8rnustV) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Deja Lo Analizo](https://open.spotify.com/album/2OBntGx8jFzi145RLPvNxr) | 2:48 |
+| 26 | [Deja Lo Analizo](https://open.spotify.com/track/3ElZcHTTXDEtPim8rnustV) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Banda La Que Dijimos](https://open.spotify.com/artist/1ehvaZQQJAm9P5QlveuNi5) | [Deja Lo Analizo](https://open.spotify.com/album/2OBntGx8jFzi145RLPvNxr) | 2:48 |
 | 27 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 | 28 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 29 | [Moneda Sin Valor](https://open.spotify.com/track/3FDtwj5viOiJ3tWwtPS5L0) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Moneda Sin Valor](https://open.spotify.com/album/258FEO7grKjRQfpt7lJS9q) | 3:22 |

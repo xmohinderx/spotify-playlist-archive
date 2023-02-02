@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,010 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,173 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 40 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 | 41 | [Ending Song \- The Promise of the World \- Merry\-Go\-Round of Life](https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 6:50 |
 | 42 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 |
-| 43 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 |
+| 43 | [Kerot! to March](https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH) | [Nobuaki Kakuda](https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx), [Juri Ihata](https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK) | ["SERGEANT KERORO" KERORO Songs](https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY) | 3:11 |
 | 44 | [人として軸がぶれている](https://open.spotify.com/track/0D4mD3IcmPLoFFxANcWC5N) | [大槻ケンヂと絶望少女達](https://open.spotify.com/artist/4xtFnyqFy83Y1p5RTINfiI) | [人として軸がぶれている](https://open.spotify.com/album/0i1fGlZRpLA27BQO8krKsT) | 3:27 |
 | 45 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ\~Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 |
 | 46 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/00lajXBbel7k0C8AefHwak) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Image Album](https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMGIwZjdmOTA2YjE3YzA4NDFiYzVkZjg1N2VlZjBjOTUy`
+Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMGE3MDIzMjg1NjE1ZjVkMGNlNGViMmU0OWFkNzQ2MGE1`

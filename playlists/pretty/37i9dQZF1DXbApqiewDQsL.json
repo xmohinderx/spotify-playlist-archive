@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Yahritza Y Su Esencia ",
-  "num_followers": 18651,
+  "num_followers": 18664,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGNhN2ExNTk3MjNlNDhmZTI4YmE4ZGY3NzdhNzJmMDY1",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDA2YTY0MTNhZjk3ZTI1ZTJiZWU4ZjA4NmVhZWUyMmFk",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "El Cambio (Mariachi) (Feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
-      "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "DEL Barrio a la Ciudad",
         "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 217458,
       "name": "DEL Barrio a la Ciudad",
       "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "El Cambio (Mariachi) (Feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
+      "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
     },
     {
       "added_at": "2023-01-27 05:00:00",

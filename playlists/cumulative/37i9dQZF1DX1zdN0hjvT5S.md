@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q">Ezekiel</a>'s track IDs\. Updated regularly\. Curated by Ezekiel\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 2 hr 9 min
+53 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25 bands and a geccco](https://open.spotify.com/track/6IBVwpcF5HkRgk2MNc2HIM) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [100 gecs](https://open.spotify.com/album/7KpuGjIfduSD45wl5IQc7G) | 2:04 | 2022-04-25 |  |
-| [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-04-25 |  |
+| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-04-25 |  |
+| [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-04-25 | 2023-02-02 |
 | [Blast](https://open.spotify.com/track/6xr3MVHxQaOtBybv0uD8ir) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [32 Levels \(Deluxe\)](https://open.spotify.com/album/7Amrg2WughWQXMEmUfjhl3) | 2:14 | 2022-04-25 |  |
 | [can you really blame me for how I react?](https://open.spotify.com/track/3kLqTaBVArpRj1AnPNsryn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [Drive\-By Lullabies](https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp) | 3:31 | 2022-04-25 |  |
 | [Claws \(o0o rmx\)](https://open.spotify.com/track/1w1NBZ2BRJcIdZdReFpxaO) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [Claws \(o0o rmx\)](https://open.spotify.com/album/0KEpu1eevcX4FPS8bttbUl) | 3:39 | 2022-04-25 |  |
@@ -38,7 +39,8 @@
 | [Madonna Rocket](https://open.spotify.com/track/15WUTQUL9L4d3tFHUg6McH) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dog Whistle](https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy) | 2:27 | 2022-04-25 |  |
 | [Mean](https://open.spotify.com/track/7rweJAlsIp4ZlwrPA8djEL) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Vlamily](https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF) | 2:04 | 2022-04-25 |  |
 | [Nod Off](https://open.spotify.com/track/7muPqR7caYrHyflyi9zhlb) | [Skys](https://open.spotify.com/artist/2WdDixP4e0yYgFz1LfYZN5) | [Nod Off](https://open.spotify.com/album/5w8iHhNoTf58RAOcsuLe1O) | 1:42 | 2022-04-25 |  |
-| [Noid](https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 3:29 | 2022-04-25 |  |
+| [Noid](https://open.spotify.com/track/1Ml7MxO0SKv1bT8xFA64Oj) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/01HArmgfXe7xDaYXWKfhuf) | 3:29 | 2022-04-25 |  |
+| [Noid](https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 3:29 | 2022-04-25 | 2023-02-02 |
 | [NSFW](https://open.spotify.com/track/1LmBLVJtUu3fE1eFaCiLEX) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ess B](https://open.spotify.com/album/7ktAbAO30k59mgWJ9yMKJq) | 2:26 | 2022-04-25 |  |
 | [NY Freestyle](https://open.spotify.com/track/0e0T5LvvmaStg4Od3MymH6) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [10kdunkin](https://open.spotify.com/artist/76uMgi6K2NCrt3QOZ4vVaW) | [Rp's & Plan B's](https://open.spotify.com/album/0mAsNL0tenDC9nff6h9SnL) | 1:51 | 2022-04-25 |  |
 | [O.W.D](https://open.spotify.com/track/1K5gGUjwGJtHBvOq2HjN1n) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR), [aidan swank](https://open.spotify.com/artist/6CWgUJZnmw7393yFU9SVc1), [Skys](https://open.spotify.com/artist/2WdDixP4e0yYgFz1LfYZN5) | [2nd life](https://open.spotify.com/album/1VtgcaxTYYrpwIseCkC1lV) | 2:30 | 2022-04-25 |  |

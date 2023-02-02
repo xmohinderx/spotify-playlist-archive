@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s.
 
-286 songs - 18 hr 23 min
+287 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2021-04-22 | 2022-03-15 |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2021-04-22 |  |
 | [A Little Bit More](https://open.spotify.com/track/3I7bYwN9cMsXm5HqEH76Vv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Sharing The Night Together](https://open.spotify.com/album/2L4Acf5HQQT9pZqqG8Fjte) | 2:53 | 2021-04-22 | 2022-07-29 |
+| [A Little Bit More \- Single Version](https://open.spotify.com/track/0IyaUK4bo54AnnNVhS9RSW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Completely Hooked](https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib) | 2:54 | 2022-09-23 |  |
 | [A Love Song](https://open.spotify.com/track/1TvCh7rs00BamgwB98rXzA) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 2:48 | 2021-04-22 | 2022-07-29 |
 | [Across The Universe \- Remastered 2009](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:48 | 2021-09-30 |  |
 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 | 2021-04-22 |  |
@@ -203,7 +204,7 @@
 | [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 | 2021-04-22 |  |
 | [Sail On](https://open.spotify.com/track/71Py1OGkgBQVTHa0aUyG4y) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 4:00 | 2021-04-22 | 2022-07-29 |
 | [Sealed with a Kiss](https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [Sealed With A Kiss](https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF) | 2:49 | 2021-04-22 | 2022-04-20 |
-| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 |  |
+| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 | 2023-02-02 |
 | [Send One Your Love](https://open.spotify.com/track/73cq57VIFVDdjRuhpcfgSK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 4:00 | 2021-04-22 | 2022-04-20 |
 | [September Morn](https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [September Morn](https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4) | 3:52 | 2021-04-22 |  |
 | [Sexy Eyes](https://open.spotify.com/track/0QpZ69CTjRbJ3ZVsnTaGfa) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/0gC5d1rbDIOAx4OR5pG4MW) | 3:29 | 2021-04-22 | 2022-04-21 |

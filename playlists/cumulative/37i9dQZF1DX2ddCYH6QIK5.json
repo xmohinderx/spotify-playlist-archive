@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Tiger Tiger, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Neon Neet, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -688,6 +688,24 @@
       "duration_ms": 283838,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1qG3LdimuO44VAMFv7p1hy"
+    },
+    {
+      "album": {
+        "name": "attic box",
+        "url": "https://open.spotify.com/album/29jwmnwgVERjTcrfnk6dxB"
+      },
+      "artists": [
+        {
+          "name": "moriz",
+          "url": "https://open.spotify.com/artist/6aUNyuqJyOYhSmq3tCjvG7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "attic box",
+      "url": "https://open.spotify.com/track/3btitHAcDeV6xG5qBFzYBD"
     },
     {
       "album": {
@@ -1891,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Cut My Breathing",
+        "url": "https://open.spotify.com/album/34zVQ85SKhrb7DTI8rM9ic"
+      },
+      "artists": [
+        {
+          "name": "Peacebone",
+          "url": "https://open.spotify.com/artist/4GjDSR8X4PWmaUXIP0pVnf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241297,
+      "name": "Cut My Breathing",
+      "url": "https://open.spotify.com/track/2CryvJrsKNsrxfbsqIQYr9"
+    },
+    {
+      "album": {
         "name": "Cuts",
         "url": "https://open.spotify.com/album/4kfJubn02wb5fPG0vzKvig"
       },
@@ -2354,6 +2390,24 @@
       "duration_ms": 212293,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/35gpDSDqmXHN3tJMhpyDpU"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4rFKLD044q352JelD1AARX"
+      },
+      "artists": [
+        {
+          "name": "Neon Neet",
+          "url": "https://open.spotify.com/artist/5GIYsEtFCzSQxFLmBW6Ri0"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167454,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5guo8TwbQXq9oxVZIKNm5O"
     },
     {
       "album": {
@@ -2978,7 +3032,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 268213,
       "name": "Exit Music",
       "url": "https://open.spotify.com/track/5gw1r9fMZuCN5ETp9ptO93"
@@ -3148,6 +3202,24 @@
       "duration_ms": 200527,
       "name": "Fick dich hart",
       "url": "https://open.spotify.com/track/6FaGiO9VON1SbPcrk4NNCb"
+    },
+    {
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/10dIPnfJKXAspXPBzgTJ1v"
+      },
+      "artists": [
+        {
+          "name": "Aylin Celik",
+          "url": "https://open.spotify.com/artist/4VXfrQlYdAe5DZ04GQevRa"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186535,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/0EnCciz3RqzRsO2KPVSMeT"
     },
     {
       "album": {
@@ -3932,7 +4004,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 179869,
       "name": "Have You Seen",
       "url": "https://open.spotify.com/track/3Jg8jv4MNyihHxM4CiR78z"
@@ -3954,6 +4026,24 @@
       "duration_ms": 183312,
       "name": "Hay Fever in December",
       "url": "https://open.spotify.com/track/3CvhQgyyEetsufUbsTXnfA"
+    },
+    {
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1vx0GzKfansFH2pv3aW4Un"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59863,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/79E4lV4arM5mzG8nwoNwkI"
     },
     {
       "album": {
@@ -4484,7 +4574,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 232726,
       "name": "I will not end up like this",
       "url": "https://open.spotify.com/track/3iGO0YuF9Kf9IcxPYg31VI"
@@ -5962,7 +6052,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 240173,
       "name": "Milk Me",
       "url": "https://open.spotify.com/track/7oxeWXMtMOTZMk5aZLroh7"
@@ -6395,6 +6485,24 @@
     },
     {
       "album": {
+        "name": "New Arpeggio",
+        "url": "https://open.spotify.com/album/4kBSnFHk93aa53dcImMetU"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00ed",
+          "url": "https://open.spotify.com/artist/7jP2bIZ5G2DD3JTgpulrWr"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294974,
+      "name": "New Arpeggio",
+      "url": "https://open.spotify.com/track/66grD2WtFKFiq6ymlfQQGP"
+    },
+    {
+      "album": {
         "name": "No Hero, That's Fine",
         "url": "https://open.spotify.com/album/7djkSeB0OSaTIJG1REj2A1"
       },
@@ -6428,6 +6536,24 @@
       "duration_ms": 175907,
       "name": "No Other Drug",
       "url": "https://open.spotify.com/track/0X69l5Og97O0tGc9SfZiqD"
+    },
+    {
+      "album": {
+        "name": "No Photos, No Exceptions",
+        "url": "https://open.spotify.com/album/30kw1sPlIF1YXVcLRb5ENo"
+      },
+      "artists": [
+        {
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378903,
+      "name": "No Photos, No Exceptions",
+      "url": "https://open.spotify.com/track/37v22hAV0P456DgqO2EbzY"
     },
     {
       "album": {
@@ -7030,7 +7156,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 416956,
       "name": "Phanta",
       "url": "https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr"
@@ -7160,7 +7286,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 225625,
       "name": "Potential",
       "url": "https://open.spotify.com/track/0QisRW1NDJ7DR882lyvcv8"
@@ -7214,7 +7340,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 146092,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7ntXzseBU5DBoVSjmJ6NIP"
@@ -8144,7 +8270,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 140307,
       "name": "Sidewalk",
       "url": "https://open.spotify.com/track/23jcLRQeXNcZWZrBIKeuY8"
@@ -9372,6 +9498,24 @@
       "duration_ms": 177528,
       "name": "The Wiper",
       "url": "https://open.spotify.com/track/6S0eZIhC88aWtepgAzo5sI"
+    },
+    {
+      "album": {
+        "name": "Theme",
+        "url": "https://open.spotify.com/album/54LHsjAXVvwCps17wOMGf1"
+      },
+      "artists": [
+        {
+          "name": "Minju",
+          "url": "https://open.spotify.com/artist/7LuJRgbeA8VCUqO0i6VlK6"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420365,
+      "name": "Theme",
+      "url": "https://open.spotify.com/track/072WESirySllVZwIpbtNTY"
     },
     {
       "album": {

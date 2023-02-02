@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-104 songs - 7 hr 55 min
+106 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,10 +71,12 @@
 | [Milan](https://open.spotify.com/track/4mahGo3dO07PB93ukfc62D) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 3:30 | 2021-03-01 | 2022-07-29 |
 | [Milan](https://open.spotify.com/track/366wMj4PcQ3Ihye2Ljsf2C) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Milan](https://open.spotify.com/album/6wVcEf60sMZqB5FRzfbwJV) | 3:30 | 2022-03-08 |  |
 | [Milan](https://open.spotify.com/track/4BWhmMQ52fqNoL3kabIM3L) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 3:30 | 2022-03-08 | 2022-11-14 |
-| [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 |  |
+| [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 |  |
+| [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
 | [Nighthawks 01](https://open.spotify.com/track/2Oz3Tj8RbLBZFW5Adsyzyj) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Musicolours](https://open.spotify.com/album/7soM3OZShMyXvzjncV6ea5) | 6:24 | 2021-03-01 |  |
+| [No Good For Me](https://open.spotify.com/track/0L0n5Yx0nVMeUjLmgvhyWi) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:35 | 2022-03-08 |  |
 | [No Good For Me](https://open.spotify.com/track/1egyWKeo2iMvB0y4GaUjnt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/4w9gaeny1Z2qHihswgXISA) | 3:35 | 2022-03-08 | 2022-11-13 |
-| [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 | 2022-03-08 |  |
+| [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 | 2022-03-08 | 2023-02-02 |
 | [No Good For Me](https://open.spotify.com/track/7CAwk333MKotsz8nm6Og7j) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/41lP4JFAtyIfAMLMBX1Hhw) | 3:35 | 2021-03-01 | 2022-07-29 |
 | [Obsesión Romántica](https://open.spotify.com/track/7uFODqub2N87Sq5yUz5ksA) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [Obsesión Romántica](https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa) | 7:11 | 2022-03-08 |  |
 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 | 2021-03-01 | 2022-07-29 |

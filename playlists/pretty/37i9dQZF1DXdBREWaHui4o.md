@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Best Anime Songs in 2022! 2022年の<a href="spotify:user:spotify:playlist:37i9dQZF1DWT8aqnwgRt92">Anime Now</a>総まとめ！今年Anime Nowで再生された楽曲ベスト50! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,639 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,680 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 | 49 | [Bloody Power Fame](https://open.spotify.com/track/2PobBEqtKsX6aAqQ9c9FLg) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:58 |
 | 50 | [Gotoubun no Kiseki](https://open.spotify.com/track/2AwBIdLN9ctHkCLSAMh27c) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki](https://open.spotify.com/album/5Q8K6uKltxF0H7qR6CTnoI) | 4:09 |
 
-Snapshot ID: `MTY2OTg1NzY1NywwMDAwMDAwMDc1MzYyMDEwZWYzYmM2ZWM2ZWRlNDUxNzQ4YmI3N2I3`
+Snapshot ID: `MTY3NTIxNjgzOSwwMDAwMDAwMDkzOGNjOTU2NTgyYmU4MmY4OTIzMmNlZmY5ZWVkODlh`

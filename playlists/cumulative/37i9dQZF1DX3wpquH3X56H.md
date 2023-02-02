@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-100 songs - 8 hr 38 min
+101 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Early Spring](https://open.spotify.com/track/5gBHwLpu16lo8wSK9DtBoj) | [Chris Other](https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV) | [Meeting You Between Spring and Summer](https://open.spotify.com/album/5VwDGt3zLBwx85ftiYBcDc) | 5:10 | 2023-01-01 |  |
 | [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 | 2023-01-01 |  |
 | [Ekko \(In Key\)](https://open.spotify.com/track/2Zde1F2WoWdANUHKXtyQQq) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Consumed In Key](https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW) | 4:11 | 2023-01-01 |  |
-| [En Bas Tu Vois](https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [En Bas Tu Vois](https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm) | 12:47 | 2023-01-01 |  |
+| [En Bas Tu Vois](https://open.spotify.com/track/42qu6wgU5RB2cYdOQES8nf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Two Sisters](https://open.spotify.com/album/2vqTDoGwVL5TmdHrn0SvwO) | 12:47 | 2023-01-01 |  |
+| [En Bas Tu Vois](https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [En Bas Tu Vois](https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm) | 12:47 | 2023-01-01 | 2023-02-02 |
 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 | 2023-01-01 |  |
 | [Everlasting](https://open.spotify.com/track/3EI6qqBRg3AmGIcqrjYqKX) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Everlasting](https://open.spotify.com/album/70KaeJJ97xzsi7vAfZmpwR) | 3:54 | 2023-01-01 |  |
 | [Falling Snowflakes](https://open.spotify.com/track/0JBcYw96mPar9aBlHDYTkS) | [Moon Projection](https://open.spotify.com/artist/4YtkgZhcqrY0yFTG9Fc6dH) | [Falling Snowflakes](https://open.spotify.com/album/4Z4lTjhE4fPnNO5Rbmf75V) | 4:05 | 2023-01-01 |  |

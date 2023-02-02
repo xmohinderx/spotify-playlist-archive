@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
 
-251 songs - 17 hr 29 min
+252 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Night Drive](https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Day By Day](https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n) | 4:57 | 2021-10-19 | 2023-01-14 |
 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 | 2022-12-15 |  |
 | [nine gates](https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu) | [Kuragari](https://open.spotify.com/artist/5O8QZKwlWrs7Z7AoQ1tmtA) | [never used](https://open.spotify.com/album/7Mgl8ZGSDdjzbvfzC14xLX) | 4:34 | 2023-01-04 |  |
-| [No Sweat](https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt) | 3:03 | 2023-01-12 |  |
+| [No Sweat](https://open.spotify.com/track/2xcpZnpsk7m0nbi9X2zn9J) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/1ImTuHabPeyHgqZF46xJFe) | 3:03 | 2023-01-12 |  |
+| [No Sweat](https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt) | 3:03 | 2023-01-12 | 2023-02-02 |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-25 | 2022-11-07 |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 |  |
 | [Oceans](https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Oceans](https://open.spotify.com/album/1k3X1D3AnKLXo1mnMk1WeC) | 3:17 | 2021-10-19 | 2022-07-29 |

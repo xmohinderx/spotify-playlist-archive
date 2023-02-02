@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-173 songs - 8 hr 53 min
+174 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 | 2019-12-10 |  |
 | [What I Do](https://open.spotify.com/track/0pSv8kfVtfIFGmo8jfCZ2W) | [LG Izz](https://open.spotify.com/artist/6QTXiCqm2kDOWnLqgyYi4y) | [What I Do](https://open.spotify.com/album/0aL2czw7s7TKTfCwVpE67G) | 2:54 | 2019-12-10 |  |
 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2019-12-10 |  |
-| [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-12-10 |  |
+| [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-12-10 | 2023-02-02 |
+| [Wiggle](https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb) | 2:59 | 2019-12-10 |  |
 | [Wishing For Rain](https://open.spotify.com/track/1avc8BMkZ9fJrlhD5WzaP0) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Wishing For Rain](https://open.spotify.com/album/2bJe3ugOMGWQ899OBo524F) | 3:17 | 2019-12-10 |  |
 | [Your Hands](https://open.spotify.com/track/0gUGTaVTrXhweOk3vZFySa) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Your Hands](https://open.spotify.com/album/7cMcp1gBGc0vrtSBfI0bo5) | 2:51 | 2019-12-10 | 2022-07-29 |
 | [Your Hands](https://open.spotify.com/track/2vPxpS0gx5neWILuBiP1UV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/57fLue2W4EdREmLLiPTPwT) | 2:51 | 2019-12-10 | 2022-10-13 |

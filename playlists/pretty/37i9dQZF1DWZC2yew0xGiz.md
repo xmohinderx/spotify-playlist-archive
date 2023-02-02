@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,354 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,357 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 2 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
 | 3 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 4 | [Friday](https://open.spotify.com/track/13AvIMuWOBUWGBhWGIHb6N) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 3:49 |
-| 5 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/3lsse1FoSHnNXc6y0jHxvd) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 3:56 |
+| 5 | [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 |
 | 6 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
-| 7 | [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 |
+| 7 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/3lsse1FoSHnNXc6y0jHxvd) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 3:56 |
 | 8 | [Sittin' Up In My Room \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/4330XmgVWlx98Y3Naswycg) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:52 |
 | 9 | [Crooklyn \- Crooklyn/Soundtrack Version](https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF) | [Crooklyn Dodgers](https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e), [Buck Shot](https://open.spotify.com/artist/6ijixrIqFhfUjpfNLzniAT), [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx), [Master Ace](https://open.spotify.com/artist/2ZhH7S3zJIy2cTb8rFPJEz) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 4:33 |
 | 10 | [There U Go](https://open.spotify.com/track/7oF2WD5RByyNQQmmI5a283) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:16 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [Part Time Lover](https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:06 |
 | 39 | [Gonna Give It To Ya](https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:51 |
 
-Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMGY2NjNiY2RkMTFmOGFhYjc2ZmIyMWNjMjkzZWY1MTYz`
+Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMDljZGIzMmZlMGIwNjQ1MWYwMzEwMjlkMDBmMDhmNGRj`

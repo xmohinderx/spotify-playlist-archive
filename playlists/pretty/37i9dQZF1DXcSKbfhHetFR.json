@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7871,
+  "num_followers": 7874,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDA3ZDNkNzgzNzUwYTEwZmExNzExYzUxOThmYWFhMDJk",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDE3ZWNmOTNmN2RlZjc4ODA3ZDEzZTc0NTc4ODA2NWYx",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Compter les corps",
-        "url": "https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Compter les corps",
-      "url": "https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Pigeon d'argile",
         "url": "https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 234400,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Compter les corps",
+        "url": "https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Compter les corps",
+      "url": "https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Lili Fatale",
-        "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
-      },
-      "artists": [
-        {
-          "name": "Lili Fatale",
-          "url": "https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Western Romance",
         "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 208000,
       "name": "Ma dope \u00e0 moi",
       "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Lili Fatale",
+        "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
+      },
+      "artists": [
+        {
+          "name": "Lili Fatale",
+          "url": "https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE"
     },
     {
       "added_at": "2020-06-23 14:47:30",

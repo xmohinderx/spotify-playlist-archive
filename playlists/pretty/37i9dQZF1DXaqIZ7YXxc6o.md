@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: The Aston Shuffle & The Magician
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,287 likes - 108 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,308 likes - 108 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 68 | [Only One](https://open.spotify.com/track/3ov97oBZHDO72yWMidF6mn) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Only One](https://open.spotify.com/album/5JGZY5HzkWL35RyrFMXU0I) | 3:24 |
 | 69 | [Lie](https://open.spotify.com/track/7ArYpqgADBNpwdatI2QtSc) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Lie](https://open.spotify.com/album/2eJA4yycyKkYgCJMmuFYwA) | 2:37 |
 | 70 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 |
-| 71 | [Fake](https://open.spotify.com/track/535qFNUCo7VHy8CVWljvA0) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Fake](https://open.spotify.com/album/0ZfoKZtKnOkvQNzCsKyOC4) | 2:25 |
+| 71 | [Fake](https://open.spotify.com/track/39MuEaENKIWaayDVYSVpjX) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Fake](https://open.spotify.com/album/2PzC3kx333McE2BAAyjbNP) | 2:25 |
 | 72 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 |
 | 73 | [Bad Behaviour](https://open.spotify.com/track/6BFyixMYTmPeF4d4Ao8oUm) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [T95](https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Bad Behaviour](https://open.spotify.com/album/1t3tZpBPSI8R7NA2cqGH1w) | 4:05 |
 | 74 | [Reason](https://open.spotify.com/track/2X5x1sFaOFQ38h0kvnmsAS) | [2RISKY](https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Reason](https://open.spotify.com/album/3YFcwzG2Cdf4jEDZQ7z2kM) | 3:28 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 107 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 108 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 
-Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMGE5MWJhYTE4OTRmZWVmNDQxMDc3MmI3YzNmOTY3MjBk`
+Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMDhjOTI1MjI4MWY1N2JmMWE4YTFlZWQzMWMzMjkyZGZh`

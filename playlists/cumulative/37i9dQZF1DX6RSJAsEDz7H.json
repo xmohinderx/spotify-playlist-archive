@@ -3674,7 +3674,7 @@
     {
       "album": {
         "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
       },
       "artists": [
         {
@@ -3685,6 +3685,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 365640,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"

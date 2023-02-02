@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-509 songs - 1 day 15 hr 14 min
+510 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 |  |
 | [Lightcrawler](https://open.spotify.com/track/3c75Oqo0wHwivF3Op9CJtu) | [Nothgard](https://open.spotify.com/artist/1PAbtuWk6jScTI9ImsDC8C) | [Lightcrawler](https://open.spotify.com/album/1YIZ5WjiSSJ9unh5JXWgYj) | 4:28 | 2020-11-29\* | 2021-10-16 |
 | [Like a Willow Without Tears](https://open.spotify.com/track/68zrSmYQY9SgU17yHuIH4v) | [Metalwings](https://open.spotify.com/artist/3VBzzOmjwLUcUaxT7JxVGF) | [A Whole New Land](https://open.spotify.com/album/2R9QHxmFsEkH82ObGasqsk) | 5:39 | 2021-06-11 | 2022-02-11 |
-| [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 |  |
+| [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 | 2023-02-02 |
+| [Litany Of The Fallen](https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Leviathan II](https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN) | 4:10 | 2023-01-20 |  |
 | [Live and Let Go](https://open.spotify.com/track/3OQo14KyU0g73UXSDwWGHd) | [Edenbridge](https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ) | [Live and Let Go](https://open.spotify.com/album/69oaxF365xH0f6GYc68pN3) | 4:30 | 2020-11-29\* | 2021-05-28 |
 | [Live Forever](https://open.spotify.com/track/7oMcV2D2R56RtqmRIkCrrY) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [A Journey into the Unknown](https://open.spotify.com/album/0irkEOaKunQdxX1lbcetfI) | 8:09 | 2021-08-21 | 2022-04-29 |
 | [Live or Die \(feat\. Joakim Brodén\)](https://open.spotify.com/track/2tSyGmqhFvYongMdFaQNe3) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [Joakim Brodén](https://open.spotify.com/artist/2U2L1YxD0FCUkCdDfEbHm1) | [Live Or Die \(feat\. Joakim Brodén\)](https://open.spotify.com/album/6dksdceqBM8roInjffIaZw) | 3:44 | 2020-11-29\* | 2021-07-10 |

@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-400 songs - 23 hr 50 min
+402 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bad Habit](https://open.spotify.com/track/7iERYDwe6SIpDpHIuVaLpZ) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Crazy](https://open.spotify.com/album/5GADVeCv5l9hQDBdms3x6p) | 3:33 | 2022-06-10 | 2022-07-09 |
 | [Bad Romantic](https://open.spotify.com/track/24qf5274RaJwlH9CAT6Gn5) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [Bad Romantic](https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ) | 3:38 | 2021-12-17 | 2022-07-10 |
 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 | 2021-12-17 | 2022-10-08 |
+| [Been Better](https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Been Better](https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4) | 3:16 | 2023-02-01 |  |
 | [Better For You](https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Better For You](https://open.spotify.com/album/2zQoCOG7PmZkFikB6K4aTs) | 3:22 | 2022-05-13 | 2022-07-30 |
 | [Better Half](https://open.spotify.com/track/6oI9O4mep2xh7kqPCaeVb5) | [Brendyn Kyle](https://open.spotify.com/artist/7Bf6Wz0HefBc51pffYVf3j) | [Better Half](https://open.spotify.com/album/5mgiSM2ro7ucsgOUOOiG5F) | 3:19 | 2021-12-17 | 2022-02-05 |
 | [Better Love Next Time](https://open.spotify.com/track/5I3oTFeQmclQmhAzOqRpTF) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Better Love Next Time](https://open.spotify.com/album/52VIbzshUC3cGliz3IZxOp) | 3:16 | 2022-01-28 | 2022-03-26 |
@@ -302,9 +303,10 @@
 | [Ship Faced](https://open.spotify.com/track/25u4pZIIX2jwe3xt9mJ7qL) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Ship Faced](https://open.spotify.com/album/3BnpLDcuk99cHosNZ5HCjr) | 3:45 | 2022-07-22 | 2022-07-26 |
 | [Shoreline](https://open.spotify.com/track/36KCNp4FIpu4Ath4a8Bkeu) | [The Band Laredo](https://open.spotify.com/artist/7m5r7YRaDJ3hdvw7hYRPF0) | [Shoreline](https://open.spotify.com/album/0JTjqvIWY2SIWf6DbZMLIE) | 3:18 | 2021-12-17 | 2022-01-22 |
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
-| [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 |  |
+| [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-02-02 |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 | 2023-01-25 |
 | [Singer's Blues \- Live](https://open.spotify.com/track/30ehnjO6uAZrGz11SYGsi2) | [Cash Byers & Big Valley](https://open.spotify.com/artist/5f8NDIzQmtTHDYJgaUYYVE) | [Singer's Blues \(Live\)](https://open.spotify.com/album/6iyWt1cm2l4ehHcotR5qro) | 3:09 | 2021-12-17 | 2022-07-09 |
+| [Sleep, My Mind & You](https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Sleep, My Mind & You](https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV) | 3:56 | 2023-02-01 |  |
 | [Smallest Town on Earth](https://open.spotify.com/track/4egTrlLLvpNiQgHSdZJdyf) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Smallest Town on Earth](https://open.spotify.com/album/6VKsi3I0YtRJQtwPHWZBTh) | 3:20 | 2022-07-08 | 2022-07-12 |
 | [So Far Away](https://open.spotify.com/track/10k8BwsoXOVeZlpBPQOiO7) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [So Far Away](https://open.spotify.com/album/3fPvRPHW31CtoD2ZBYoMlp) | 4:03 | 2022-02-25 | 2022-05-28 |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-01-08 |
@@ -323,7 +325,7 @@
 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 | 2022-07-22 | 2022-10-08 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-07-29 |
 | [Sunshade](https://open.spotify.com/track/4njstyFBob2jiDicVk3l81) | [Cole Whittlesey](https://open.spotify.com/artist/7HXqXIdYlbvbv0IFDpuTDF) | [Sunshade](https://open.spotify.com/album/0t5Q9wOfTzerTuWi8Z2v87) | 3:35 | 2022-03-25 | 2022-07-27 |
-| [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 |  |
+| [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 | 2023-02-02 |
 | [Sweet Irene](https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Sweet Irene](https://open.spotify.com/album/2WCm8RARzrO6oaq0BtIpEK) | 3:48 | 2021-12-17 | 2022-08-27 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-29 |  |
 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 | 2022-06-03 |  |

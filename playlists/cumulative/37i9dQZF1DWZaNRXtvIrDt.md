@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Yaeji
 
-122 songs - 9 hr 18 min
+124 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Brush Strokes](https://open.spotify.com/track/3A7GzxUNDUtNPLpMoeRqvv) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Brush Strokes](https://open.spotify.com/album/3ltU22i5RjQWW4e1OYz4A3) | 4:35 | 2022-12-08 |  |
 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 | 2022-12-08 |  |
 | [Coming On Strong](https://open.spotify.com/track/06zEIQV4HnyhES2flGFeVd) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Coming On Strong](https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ) | 6:02 | 2022-12-08 | 2023-01-27 |
-| [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 | 2023-01-19 |  |
+| [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-26 |  |
+| [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 | 2023-01-19 | 2023-02-02 |
 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 | 2023-01-12 |  |
 | [Cyber](https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd) | [Echomatics](https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0) | [Move On](https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB) | 5:08 | 2023-01-19 |  |
 | [Deep Space X](https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:28 | 2022-12-08 | 2023-01-20 |
@@ -111,7 +112,8 @@
 | [Switched Up](https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq) | [Jbox](https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77) | [Switched Up](https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98) | 3:14 | 2022-12-08 | 2023-01-20 |
 | [Takes Me To You](https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Takes Me To You](https://open.spotify.com/album/1LSqyxsEsVsJcx7wvt9b1x) | 5:04 | 2022-12-08 |  |
 | [Temple Ball](https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Artefacts](https://open.spotify.com/album/3Z8SR7Wc9EETlyQoPRZnx3) | 5:34 | 2022-12-22 |  |
-| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2022-12-08 |  |
+| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 | 2023-01-26 |  |
+| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2022-12-08 | 2023-02-02 |
 | [The Take Away \- Jennifer Loveless Remix](https://open.spotify.com/track/3cLRlKjVCBr61lDdIoHPOS) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [The Take Away \(Jennifer Loveless Remix\)](https://open.spotify.com/album/5xViWLZvsAprRFT0ugo7WF) | 3:49 | 2022-12-08 | 2023-01-27 |
 | [this edible ain't shit](https://open.spotify.com/track/1JbWUM2QYc411N5FLVNkwi) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [this edible ain't shit](https://open.spotify.com/album/3QCpIHXlQzn0flrn7HChcS) | 2:16 | 2022-12-08 | 2022-12-16 |
 | [Tremors](https://open.spotify.com/track/2yHaxm6DL7A9bpb0L4GyQo) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe \(Deluxe\)](https://open.spotify.com/album/696j98HfflKXkJ1jDIzaJI) | 4:55 | 2022-12-08 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,601 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,554 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 126 | [Santa Claus is Comin' to Town](https://open.spotify.com/track/4eGQyyMFL8VAjh0FLnO4YH) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:11 |
 | 127 | [Everybody Knows It's Christmas](https://open.spotify.com/track/0AOfQHnpjIe1xyfp8Wgqiy) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 1:31 |
 | 128 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 |
-| 129 | [Por Ti \- Spotify Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
+| 129 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
 | 130 | [California Christmas](https://open.spotify.com/track/2LCiyuBIDpFNNShsqNsyKg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 4:34 |
 | 131 | [Bringin’ Back Christmas](https://open.spotify.com/track/2j4B4lbGBmdNHPDlCEnMFJ) | [Ryan Reynolds](https://open.spotify.com/artist/53I1cGdcv6KJ8wzitujYLG), [The Spirited Ensemble](https://open.spotify.com/artist/530twC3JUk9JEpR1PH4FVm) | [Bringin’ Back Christmas \[From Spirited \(Soundtrack from the Apple Original Film\)\]](https://open.spotify.com/album/3WxidTxS0s5AAzgEK7tPm2) | 3:53 |
 | 132 | [Green Christmas \- Live From The Christmas Special / 2020](https://open.spotify.com/track/10mHaiscbrJhpsTVtJo4e9) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Barenaked For The Holidays \(Deluxe Edition\)](https://open.spotify.com/album/7g6V1Ue3CIrJ6ehtNz8v9b) | 2:43 |

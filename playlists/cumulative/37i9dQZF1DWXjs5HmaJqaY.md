@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-104 songs - 10 hr 38 min
+105 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-10-27 |  |
 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 | 2023-01-20 |  |
 | [Last Song](https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C) | 7:42 | 2022-09-16 |  |
-| [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2022-09-16 |  |
+| [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2022-09-16 | 2023-02-02 |
+| [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 | 2023-01-27 |  |
 | [Liberation](https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT) | [Youen](https://open.spotify.com/artist/6Z530sfX5CGmUXV3VKRfHO) | [Plastic City Radio Show Season Eight \(Hosted by Youen & Patrick Podage\)](https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l) | 7:26 | 2022-09-16 |  |
 | [Love And Forgive](https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [Love And Forgive](https://open.spotify.com/album/03SCD6AOiVJEeA6GkvfY2N) | 4:50 | 2022-09-16 | 2022-12-10 |
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-09-16 | 2022-09-24 |

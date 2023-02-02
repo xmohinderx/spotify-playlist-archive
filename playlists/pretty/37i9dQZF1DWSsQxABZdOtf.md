@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,996 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,015 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 65 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 |
 | 66 | [Bully Dem](https://open.spotify.com/track/2uNn1UwtwUE790L0nY8DGB) | [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS), [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7), [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Bully Dem](https://open.spotify.com/album/6ROKQf1oXFMk6i6f8ATgdo) | 2:45 |
 | 67 | [Atypical](https://open.spotify.com/track/4nbSY5TATD9WVXR5CKaUfZ) | [nuum](https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe) | [Atypical](https://open.spotify.com/album/7caSEro6pNRSCTMDOvSWD3) | 3:27 |
-| 68 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 |
+| 68 | [Not There](https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2) | 3:22 |
 | 69 | [criminals \- Remix](https://open.spotify.com/track/7nFVIsPw0AI36vqceVKhQD) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6), [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [criminals \(Remix\)](https://open.spotify.com/album/6cN36vq8ynvRBIH3cWSC6O) | 3:04 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MTY3MTE3NTE4MywwMDAwMDAwMDBiYTQxM2E2MzdmYThiMzc2NTllZDQ3OTQ0Yzc4NTk4`
+Snapshot ID: `MTY3MTE3NTE4MywwMDAwMDAwMDlhZWFjYjJiYjdjN2M3MWVlODE0ZTY4MjJkMzAzZTA3`

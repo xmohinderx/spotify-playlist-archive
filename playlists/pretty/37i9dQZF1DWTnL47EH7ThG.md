@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,875 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,915 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 10 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 11 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
 | 12 | [Constrictor](https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb) | [Constrictor](https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc) | 3:00 |
-| 13 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 |
+| 13 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 |
 | 14 | [Stumble](https://open.spotify.com/track/3D0ZLuFDCA1ILyXQYlMqZ9) | [Bonjay](https://open.spotify.com/artist/12Jc0PCNtdYxqlBev0EqGJ) | [Broughtupsy](https://open.spotify.com/album/6p8iYdmqXyxJJMg70dfVF5) | 3:22 |
 | 15 | [Bad Bitch Steppin'](https://open.spotify.com/track/0eypKYioaRK2I7MbuoVodD) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt) | [Bad Bitch Steppin'](https://open.spotify.com/album/5Soc1AAa7FuzEa4Xw8sxiL) | 1:24 |
 | 16 | [Back](https://open.spotify.com/track/0b2DJdxxgtgNGAbgHElCID) | [Skodi](https://open.spotify.com/artist/3BkUIA9Gj05fOc3rw4iug0) | [Corner Store Chronicles: The Prequel](https://open.spotify.com/album/5QMniu0AZ6OoULArBEVOAP) | 3:24 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 33 | [less is more](https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [less is more](https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI) | 2:36 |
 | 34 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 |
 | 35 | [Another Like This](https://open.spotify.com/track/5Jbpp2xup12QN4Fv7RnNVv) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Global Sounds](https://open.spotify.com/album/3EBbMiMD7MWeZxuptpKK2Z) | 4:17 |
-| 36 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 |
+| 36 | [Washed Away](https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG) | 3:36 |
 | 37 | [Negus Poem 1 & 2](https://open.spotify.com/track/6hzSpBS8PUgEBzIPmnzUc6) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Forever, Ya Girl](https://open.spotify.com/album/4jZGBAQ1iYaWlYndJ8h7LS) | 3:34 |
 | 38 | [Dreams](https://open.spotify.com/track/5HnEjIeK0hpoMqPY5H4WB7) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:22 |
 | 39 | [a boy](https://open.spotify.com/track/42iyVfHqBN9YWXF4cQZ5IS) | [Betty Belle](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [a boy](https://open.spotify.com/album/3cMo9uXBv09Z1aUBxJ66tt) | 1:54 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 109 | [Here I Come \(feat\. Mega Banton\)](https://open.spotify.com/track/6WALTgOs2y5osr85Lw1B0L) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [Mega Banton](https://open.spotify.com/artist/2bl0Qv6eSrkSw82UCFQCCS) | [The Barrington Levy Collection](https://open.spotify.com/album/4SICH0NLMYcu9DRGsruyM2) | 3:45 |
 | 110 | [NBA](https://open.spotify.com/track/0JM4c2BqvY5rX7dRE6FKEV) | [ATELLER](https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi), [Space Honey the Lovechild](https://open.spotify.com/artist/68uf0DiyXE3y3hyTyCR3Kg) | [Dream Canvas](https://open.spotify.com/album/58GMjriLscruv2He3P8Y7k) | 2:22 |
 | 111 | [Dead Disco](https://open.spotify.com/track/5skHiyNrZ7i7hSMhz9jSTs) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:25 |
-| 112 | [Evening Time](https://open.spotify.com/track/1YtIaALeco9exi3enm3GTL) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Sporadic](https://open.spotify.com/album/5f39C7kB6aOlvf3V0Vsppk) | 2:41 |
+| 112 | [Evening Time](https://open.spotify.com/track/4vkqXQjQky8Hif5xFP75QO) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Sporadic](https://open.spotify.com/album/3qRJVrKeDcMTp6oUGHhRDZ) | 2:41 |
 | 113 | [Combat Baby](https://open.spotify.com/track/7Eb5avO0Ut4p6hAGCaeYEk) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:29 |
 | 114 | [Together](https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7) | [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I) | [White Label Classics](https://open.spotify.com/album/1AgOPl14j50mZ7cNCmCaOf) | 3:42 |
 | 115 | [Testin Me](https://open.spotify.com/track/4eFMFM1g6iqcLzB2owvtpA) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Speed of Light Remaster](https://open.spotify.com/album/4x7DDJYcjSZmEym1oUd9a9) | 4:12 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDI2ZWI4MjNkMTRjYmY5ZTg2ZjM2ZTkwNzk1MWY5OWUz`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDU0YzljOTkzZTA5MWQyMDk3NjcwNDhkZmVhZDg5MzM1`

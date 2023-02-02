@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-306 songs - 18 hr 27 min
+307 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Brave](https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Brave](https://open.spotify.com/album/2GhCFi94vVW8aS85gLUDs0) | 2:36 | 2021-12-07 | 2022-07-29 |
 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 | 2021-12-07 |  |
 | [Breathin'](https://open.spotify.com/track/7ngqJb8GdQdZbZpRVFqrQA) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Clara Serra López](https://open.spotify.com/artist/1hU11hTmHiEJqD1beShi9I) | [Breathin'](https://open.spotify.com/album/2PjrdwVGqJ5XadQQcIIAdB) | 4:18 | 2021-12-07 | 2022-07-27 |
-| [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-04-11 |  |
+| [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-04-11 | 2023-02-02 |
+| [Brooklyn Ballers](https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:24 | 2022-06-20 |  |
 | [Cabrio](https://open.spotify.com/track/0s8pNfoWRBD2yVGW1A8U5A) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Cabrio](https://open.spotify.com/album/0ZBqW1VjcmL4bjeuJhYlxa) | 2:19 | 2021-12-07 | 2022-04-21 |
 | [Cake](https://open.spotify.com/track/2ygZBYHY5708auyuPShucL) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Cake](https://open.spotify.com/album/5DiX06MBaTKEH2DpiZ5UGp) | 3:35 | 2022-04-11 | 2022-04-20 |
 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 | 2021-12-07 | 2022-11-13 |
@@ -156,7 +157,7 @@
 | [It's Just Life](https://open.spotify.com/track/1uiEvyc89KRSk4K0bUvfVb) | [Pinty](https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV) | [It's Just Life](https://open.spotify.com/album/6QjsLV417HL4BzOoVGZ9Bl) | 3:32 | 2022-01-28 | 2022-04-19 |
 | [It's Nice to Be Alive](https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 3:25 | 2022-06-20 |  |
 | [It's Nice to Be Alive](https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [It's Nice to Be Alive](https://open.spotify.com/album/5HUfO00VGHwPLqx2rNCkE7) | 3:25 | 2021-12-07 | 2022-07-20 |
-| [Jealousy](https://open.spotify.com/track/2hZ81TNFhnuh6CURag4hif) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Jealousy](https://open.spotify.com/album/10ZMrVI82W3MRPacYteBTl) | 2:18 | 2022-05-06 |  |
+| [Jealousy](https://open.spotify.com/track/2hZ81TNFhnuh6CURag4hif) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Jealousy](https://open.spotify.com/album/10ZMrVI82W3MRPacYteBTl) | 2:18 | 2022-05-06 |  |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-04-11 |  |
 | [Jeep](https://open.spotify.com/track/2WwwbGSFmPmz4Hj42Gnqa9) | [Bobby Basil](https://open.spotify.com/artist/3OGLB9WMMLW0HK4b4Nyuj3) | [Jeep](https://open.spotify.com/album/3Qs7lAcZ7CjwiiZfSq5gGz) | 2:26 | 2022-04-11 | 2022-04-17 |
 | [Joyfulness \- Radio Edit](https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Joyfulness](https://open.spotify.com/album/6n8v9B5GDwqDvtFoiybePk) | 2:44 | 2021-12-07 | 2022-07-29 |

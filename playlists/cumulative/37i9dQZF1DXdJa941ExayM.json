@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "maybe it's punk, maybe it's not. Cover: Alice Longyu Gao",
+  "description": "maybe it's punk, maybe it's not. Cover: Berry Galazka",
   "name": "unleashed",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 258884,
       "name": "Broken Homes",
       "url": "https://open.spotify.com/track/2QWniZuCkw3lfpcFlF9ddJ"
@@ -1872,6 +1872,24 @@
       "duration_ms": 148627,
       "name": "Leaders",
       "url": "https://open.spotify.com/track/5Fm8gd5jAXS6mglZVijq3P"
+    },
+    {
+      "album": {
+        "name": "Leash",
+        "url": "https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ"
+      },
+      "artists": [
+        {
+          "name": "Berry Galazka",
+          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162193,
+      "name": "Leash",
+      "url": "https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75"
     },
     {
       "album": {
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 225850,
       "name": "What Do You Stand For",
       "url": "https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN"
@@ -3662,7 +3680,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 125500,
       "name": "you can't blame me",
       "url": "https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU"

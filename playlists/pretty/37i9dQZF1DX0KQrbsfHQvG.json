@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 170741,
+  "num_followers": 170795,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDE2NmQwMmZmNmQzOTQ5ZTlhZmNiM2I1ZGIwZGE5ODFk",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDRkM2U5M2Q4NDg1NDM5NWNjYThmYTdkZDJkZTdlYTU5",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "You Will Not Be Saved",
-        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "WWYDF",
-      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 201956,
       "name": "Hail To The Victor",
       "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "You Will Not Be Saved",
+        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "WWYDF",
+      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
     },
     {
       "added_at": "2022-11-04 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,770 likes - 65 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,876 likes - 65 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 2 | [Stain My Soul](https://open.spotify.com/track/5UA2R6TF0jA5kTcKje2iRk) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Stain My Soul](https://open.spotify.com/album/64DNchZQ1KeJKhNBhBOf3Z) | 3:22 |
 | 3 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
 | 4 | [Fingerprint](https://open.spotify.com/track/1Hy3CoHThqF0NBSmkmeR21) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Fingerprint](https://open.spotify.com/album/1VsvNunss80y4GmqT4dr1j) | 6:44 |
-| 5 | [Set Me Free](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 |
+| 5 | [Set Me Free \- Extended Mix](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free \(Extended Mix\)](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 |
 | 6 | [The Space In Between \- Ben Böhmer Remix](https://open.spotify.com/track/6QcU4iwfLjjsrW7zsqyc1D) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [The Space In Between \(Ben Böhmer Remix\)](https://open.spotify.com/album/3ZUWJDZMPXc7e3UArYU357) | 4:13 |
 | 7 | [Skinny Cat Feat\. Forrest \- Original Mix](https://open.spotify.com/track/2tkxOb7MHFbZjHs0mZI0VS) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Skinny Cat EP](https://open.spotify.com/album/4lLxXV5iDr2iUvjzK1bCHR) | 7:26 |
 | 8 | [Tell Me Are We](https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 6:53 |

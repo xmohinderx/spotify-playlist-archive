@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42540,
+  "num_followers": 42552,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE4MDQ3MywwMDAwMDAwMGZlYWM2MGNkMmNiNzA1MTk3ZTAzM2IxNjI1NzgxNDYw",
+  "snapshot_id": "MTY3NTE4MDQ3MywwMDAwMDAwMGMxOTU0MjIzMWI5M2E3MzM2NWU1M2RiOTY3YTExZTA5",
   "tracks": [
     {
       "added_at": "2023-01-31 15:54:33",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
-        "name": "colorblind",
-        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 193976,
-      "name": "colorblind",
-      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-01-31 15:54:33",
@@ -279,22 +283,18 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "colorblind",
+        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 193976,
+      "name": "colorblind",
+      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
     },
     {
       "added_at": "2023-01-31 15:54:33",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 173631,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
-    },
-    {
-      "added_at": "2023-01-31 15:54:33",
-      "album": {
         "name": "LOCATION - Los Angeles",
         "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 176354,
       "name": "Fall in love with you in every 4AM.",
       "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
+    },
+    {
+      "added_at": "2023-01-31 15:54:33",
+      "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 173631,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
     },
     {
       "added_at": "2023-01-31 15:54:33",
@@ -587,38 +587,6 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2023-01-31 15:54:33",
-      "album": {
-        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 220471,
-      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
-    },
-    {
-      "added_at": "2023-01-31 15:54:33",
-      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
       },
@@ -635,6 +603,22 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2023-01-31 15:54:33",
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "added_at": "2023-01-31 15:54:33",
+      "album": {
+        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 220471,
+      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
     },
     {
       "added_at": "2023-01-31 15:54:33",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-31 15:54:33",
       "album": {
-        "name": "\u79d8\u5bc6",
-        "url": "https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1"
+        "name": "306",
+        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
       },
       "artists": [
         {
-          "name": "Maica_n",
-          "url": "https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 268093,
-      "name": "\u30bf\u30d0\u30b3\u3068\u79c1",
-      "url": "https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs"
+      "duration_ms": 215625,
+      "name": "\u30df\u30a2\u30cd",
+      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

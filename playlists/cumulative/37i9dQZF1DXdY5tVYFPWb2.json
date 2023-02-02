@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "Amber Bare Skin",
       "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
@@ -770,8 +770,8 @@
       },
       "artists": [
         {
-          "name": "\u674f\u91cc",
-          "url": "https://open.spotify.com/artist/2N6f9Aa932aP8n46XJZnor"
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
       "date_added": "2023-01-26",
@@ -794,10 +794,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 290718,
       "name": "CATCH THE RAINBOW",
       "url": "https://open.spotify.com/track/1Cwlmkh0KR2EmrazPKJScv"
+    },
+    {
+      "album": {
+        "name": "CATCH THE RAINBOW",
+        "url": "https://open.spotify.com/album/5Dvsfy1GgbwHVcKpXK2uER"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290718,
+      "name": "CATCH THE RAINBOW",
+      "url": "https://open.spotify.com/track/6V0DEhuDfPk5AUfK31TB9J"
     },
     {
       "album": {
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 208436,
       "name": "Christmas Is All Yours",
       "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
@@ -4116,6 +4134,24 @@
       "duration_ms": 274250,
       "name": "Smile in your face",
       "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
+    },
+    {
+      "album": {
+        "name": "Smoke EP",
+        "url": "https://open.spotify.com/album/11G0nq5QtWDxjsd8L7u8m3"
+      },
+      "artists": [
+        {
+          "name": "Benlou",
+          "url": "https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214813,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/4TaQ2FrgZ8cjjqHyXtdnrn"
     },
     {
       "album": {
@@ -7574,7 +7610,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214813,
       "name": "\u7159",
       "url": "https://open.spotify.com/track/7DM37TLV1vS7DQLeVAvaa6"

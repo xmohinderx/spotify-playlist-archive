@@ -2,7 +2,7 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Tanya Tucker
+> The latest music from our Country Heroes\. Cover: Willie Nelson
 
 170 songs - 9 hr 55 min
 

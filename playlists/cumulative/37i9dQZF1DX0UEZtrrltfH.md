@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 4 hr 43 min
+73 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [On Da Block](https://open.spotify.com/track/7GBzYvWAITt7DDYyR1L3jG) | [StacEmp](https://open.spotify.com/artist/3d4rK6MigFRFYMKWGQhA58) | [Steel City Dance Discs Volume 16](https://open.spotify.com/album/6QH8oOcYmyhA9PKjpaLrPS) | 6:52 | 2022-03-31 |  |
 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 | 2022-03-31 |  |
 | [Post Kyiv](https://open.spotify.com/track/06kHHYnF6GMJodEs26JmnN) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Standard Deviation 2](https://open.spotify.com/album/0wuAbWI6ufYWrIxy2oHnvg) | 6:40 | 2022-03-31 |  |
-| [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2022-03-31 |  |
+| [Puppy](https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5) | 4:08 | 2022-03-31 |  |
+| [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2022-03-31 | 2023-02-02 |
 | [Quantum Stealth](https://open.spotify.com/track/4GzdUe7khLDV3vct1UnTBE) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 2:54 | 2022-03-31 |  |
 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 | 2022-03-31 |  |
 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/15aZmqDegIlWI0dNJsuhQV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Rainbow \(make it double Oklou Mix\)](https://open.spotify.com/album/2L1akOUkrYPzFPFkpwUvss) | 4:01 | 2022-03-31 | 2022-11-13 |

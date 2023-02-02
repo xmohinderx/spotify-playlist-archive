@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-93 songs - 5 hr 25 min
+95 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-05-27 |  |
 | [As if It Would Have a Universal and Memorable Ending](https://open.spotify.com/track/4OE9cWZn8m5e2ivQ9JIyAM) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 1:41 | 2022-05-27 |  |
 | [Ava](https://open.spotify.com/track/4ODKQNq4VcCK7dwz0AU1uO) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 2:22 | 2022-05-27 |  |
-| [Back To Belgrade](https://open.spotify.com/track/6cF3vVSEmD9MvXvQgG1xf2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 3:39 | 2022-05-27 |  |
+| [Back To Belgrade](https://open.spotify.com/track/5y7bCDAzB0rnTs7HJtdv75) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 3:39 | 2023-01-27 |  |
+| [Back To Belgrade](https://open.spotify.com/track/6cF3vVSEmD9MvXvQgG1xf2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 3:39 | 2022-05-27 | 2023-02-02 |
 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 | 2022-05-27 |  |
 | [Bluebird \- K\-Pax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4WEcbJy158y2HmLLLIAvYh) | [Ed Shearmur](https://open.spotify.com/artist/7xN1wNS8SnL6h6mRzK9Fbe), [Edward Shearmur](https://open.spotify.com/artist/1PGSb2wgymZeNTUYqnOxyq) | [K\-Pax](https://open.spotify.com/album/7kfV85gXiZSm4ZNxZ0RYPz) | 3:52 | 2022-05-27 |  |
 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 | 2022-05-27 |  |
@@ -57,7 +58,8 @@
 | [My Journey \- Film Version for "The Father" / David Menke Remix](https://open.spotify.com/track/2ZEvdZEu3Rdh3rVcNu6VL6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [David Menke](https://open.spotify.com/artist/469hbNk7fj83mUY9Fhd94P) | [The Father \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1znaXqdsQ9496AGReZcqJ5) | 3:52 | 2022-11-23 |  |
 | [Nice to Meet You Zach](https://open.spotify.com/track/0hRxFSqGmQkjC7C89sITf3) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [American Underdog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xxpX7jMfO1TUdbGpvTfTE) | 1:07 | 2022-05-27 |  |
 | [Of Mothers and Daughters](https://open.spotify.com/track/44kSIeFJVVXr5CgQynV5tY) | [Spencer Creaghan](https://open.spotify.com/artist/6UsbvSWHidueV0jQgXW5eg) | [Motherly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mvBTUUdUwjkOPR8Dbuy1F) | 6:51 | 2022-05-27 |  |
-| [Open Foe](https://open.spotify.com/track/115o25eNWvQv8k3zvadRBc) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:08 | 2022-05-27 |  |
+| [Open Foe](https://open.spotify.com/track/2MQl9KSDTXUYy2FiKm11XI) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:08 | 2023-01-27 |  |
+| [Open Foe](https://open.spotify.com/track/115o25eNWvQv8k3zvadRBc) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:08 | 2022-05-27 | 2023-02-02 |
 | [Opening Title](https://open.spotify.com/track/6pYRLSxc9O9KWF53xjoHu1) | [Asche & Spencer](https://open.spotify.com/artist/0nF3Xx2b9h9hBc1m0Alc10) | [Monster's Ball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MlIG10mQepiwKr4er2kFT) | 3:13 | 2022-05-27 | 2022-07-29 |
 | [Opening Title](https://open.spotify.com/track/6zrCYtsrqdLR4l3BXO8FVK) | [Asche & Spencer](https://open.spotify.com/artist/0nF3Xx2b9h9hBc1m0Alc10) | [Monster's Ball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cgVsvUZqOIbZOL4otaGXS) | 3:13 | 2022-05-27 |  |
 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Yaeji
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,621 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,636 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 69 | [Jellybean](https://open.spotify.com/track/2GW9hDbYU8WL9Z8suEDzFj) | [Hussy](https://open.spotify.com/artist/6GlHnc09wnTmBC43d5NtL8) | [Jellybean](https://open.spotify.com/album/2Z0mclQp2fdHcChPzBnE5q) | 4:23 |
 | 70 | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/track/5Q3yF8ebIG1emrWXXw9Tbt) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/album/0ikMJFtQr0X1g9j4OG3VY6) | 2:53 |
 | 71 | [At Square One](https://open.spotify.com/track/5bC9v4bOpSOePUppltJIVc) | [404 Guild](https://open.spotify.com/artist/3mgH0hO1O28tYKhsucv0PG) | [False Dawn](https://open.spotify.com/album/0UE93XiGrVV8k6lkecu3qe) | 3:37 |
-| 72 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR) | 3:17 |
+| 72 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR) | 3:17 |
 | 73 | [birdsong on the breeze](https://open.spotify.com/track/37pcP8fWmhkYughTot3ixj) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [birdsong on the breeze](https://open.spotify.com/album/1EOY41d6sjC3K9ZIY9X7pt) | 3:47 |
 | 74 | [Sure Feels Good](https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Sure Feels Good](https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt) | 4:17 |
 | 75 | [Help](https://open.spotify.com/track/36d84CRdpCfiLmitZXo61D) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Help](https://open.spotify.com/album/05DX9x7oeYlCnSjnrp8mg5) | 3:52 |

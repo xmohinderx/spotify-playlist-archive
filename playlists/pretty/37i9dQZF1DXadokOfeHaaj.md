@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,720 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,744 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Like A Knife](https://open.spotify.com/track/3TsmYjwTE7PyLAJKn2lJLN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX) | 3:00 |
+| 1 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
 | 2 | [The Last Time I Saw You](https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [The Last Time I Saw You](https://open.spotify.com/album/1UoZtiW0YVLlCp3cbjUgg4) | 3:35 |
 | 3 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 |
 | 4 | [I Can Talk \- Myd Remix](https://open.spotify.com/track/2R5N0kDxOKJl3HjxRrxhdl) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [I Can Talk \(Myd Remix\)](https://open.spotify.com/album/7uTq3a6VR9qZpmw4clwXen) | 3:33 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 45 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 |
 | 46 | [Rufufus \- Sylvan Esso Remix](https://open.spotify.com/track/6mS5UKJZo37hlMjru7qkfP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 4:07 |
 | 47 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 |
-| 48 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 |
+| 48 | [Ascension](https://open.spotify.com/track/7yKodgnMF6dF737ahs1BHh) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:21 |
 | 49 | [Talks](https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Talks](https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr) | 4:17 |
 | 50 | [100 Percent](https://open.spotify.com/track/7Avn4DOfWIlZwUv1noXJnc) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [100 Percent](https://open.spotify.com/album/7yKkTbhXXnpEXCYVAYiBEv) | 4:05 |
 | 51 | [Limousine Lies](https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56) | [Pirra](https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M) | [Spirals \(Deluxe\)](https://open.spotify.com/album/1LU6OfLGm0ex7YqWLphHFd) | 3:27 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 65 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 |
 | 66 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 |
 
-Snapshot ID: `MTYzNTQ2MjAwMCwwMDAwMDAwMGRhZmE2ZWI3OTAwZmE4NDYyMzQwZmRmZDM3Y2Q4ZjYz`
+Snapshot ID: `MTYzNTQ2MjAwMCwwMDAwMDAwMDI2OWFkMjNlODIyODQyYTE1Y2IwYWFlYjE4ZDY5NTI0`

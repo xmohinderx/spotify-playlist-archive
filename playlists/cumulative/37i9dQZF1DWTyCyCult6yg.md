@@ -4,19 +4,21 @@
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-29 songs - 4 hr 30 min
+31 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3](https://open.spotify.com/track/0OIAMw3i4SHUHI1NABC7dp) | [Pita](https://open.spotify.com/artist/2i3zTPExXMxUJ8lwU2oss7) | [Get Out](https://open.spotify.com/album/0lFozuBp78iWigdvkCcwDM) | 11:18 | 2023-01-10 |  |
 | [Agalma VI](https://open.spotify.com/track/67oHNuPeVcPe0mM97wYQra) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 5:48 | 2023-01-10 |  |
 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 | 2023-01-10 |  |
-| [Canone Infinito](https://open.spotify.com/track/7aVGlNd40UZOnaT7Gqrjdd) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 4:59 | 2023-01-10 |  |
+| [Canone Infinito](https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 4:59 | 2023-01-10 |  |
+| [Canone Infinito](https://open.spotify.com/track/7aVGlNd40UZOnaT7Gqrjdd) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 4:59 | 2023-01-10 | 2023-02-02 |
 | [Childhood / Land of the Young](https://open.spotify.com/track/6ZoFiIpWtkP80Ya0RJmBQL) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Else Torp](https://open.spotify.com/artist/5Fj6OfoKIjoyz8i8ZrYWnS), [Kate Macoboy](https://open.spotify.com/artist/0lHGLJ9pLyZuBOGQFJSi1m), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Childhood / Land Of The Young](https://open.spotify.com/album/5UZixjLfZBr0EdFVCXqMJ5) | 5:35 | 2023-01-10 |  |
 | [Clearing](https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 4:41 | 2023-01-10 |  |
 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2023-01-10 |  |
 | [Endless Summer](https://open.spotify.com/track/6XfxiuFIEj6NzCWTPVQhyl) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 8:31 | 2023-01-10 |  |
-| [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2023-01-10 |  |
+| [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2023-01-10 | 2023-02-02 |
+| [Eutow](https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 4:15 | 2023-01-10 |  |
 | [Fantas](https://open.spotify.com/track/0fjYD3Tx5XHuI4yfCjhUfU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 10:31 | 2023-01-10 |  |
 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 | 2023-01-10 |  |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2023-01-10 |  |

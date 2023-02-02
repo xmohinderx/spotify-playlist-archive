@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,710 likes - 136 songs - 7 hr 44 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,680 likes - 136 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 135 | [Fallen](https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Fallen](https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj) | 3:30 |
 | 136 | [Found You](https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk) | [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd), [Vaux](https://open.spotify.com/artist/6Hx3KkS4jF8cJBEwFi6OHa) | [Found You](https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB) | 4:05 |
 
-Snapshot ID: `MTI4NjksYzAzODc0YmNmZGMxZTRlZDhlNjI1NGEzNGJmNDAzNTJmMDZjZjhmNw==`
+Snapshot ID: `MTI4NzEsOGRkODkyZWNkODgyMjViMDFkNWJmYTk2NDllZmJlMzY4NWQ0OGQ4NQ==`

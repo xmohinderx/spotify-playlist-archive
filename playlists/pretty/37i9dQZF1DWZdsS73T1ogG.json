@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bernier & Alejo",
-  "num_followers": 511616,
+  "num_followers": 511640,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDZkYzdiODdkOTQ2NGM5OGM3MTQ2N2E2ODAxOTE4MTBm",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDU5NjczMTg3MDNmZWE5ZGJjMmQwNzY2NGVkZjBiZWRk",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1067,22 +1067,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+        "name": "Los Palos",
+        "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Magicenelbeat",
-          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 193850,
-      "name": "Perreo",
-      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
+      "duration_ms": 280204,
+      "name": "Los Palos",
+      "url": "https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1127,26 +1131,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Los Palos",
-        "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
         }
       ],
-      "duration_ms": 280204,
-      "name": "Los Palos",
-      "url": "https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1"
+      "duration_ms": 193850,
+      "name": "Perreo",
+      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "JOLLY",
-        "url": "https://open.spotify.com/album/0XiHwX5PFPbz6T0iarRPhN"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "JOLLY",
-      "url": "https://open.spotify.com/track/4zLDlBGWfXrjj9o9eWXQ8G"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Calentura",
         "url": "https://open.spotify.com/album/0BWKR99sP38uPNKeiubjMl"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 229414,
       "name": "Calentura",
       "url": "https://open.spotify.com/track/2hVVBKkvunpUH86JKO70lE"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "JOLLY",
+        "url": "https://open.spotify.com/album/0XiHwX5PFPbz6T0iarRPhN"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "JOLLY",
+      "url": "https://open.spotify.com/track/4zLDlBGWfXrjj9o9eWXQ8G"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Light Zone",
-        "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM"
       },
       "artists": [
         {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Light Zone",
-      "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
+      "duration_ms": 158222,
+      "name": "Lamb",
+      "url": "https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM"
+        "name": "Light Zone",
+        "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
       },
       "artists": [
         {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         }
       ],
-      "duration_ms": 158222,
-      "name": "Lamb",
-      "url": "https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z"
+      "duration_ms": 197333,
+      "name": "Light Zone",
+      "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
     },
     {
       "added_at": "2023-01-27 05:00:00",

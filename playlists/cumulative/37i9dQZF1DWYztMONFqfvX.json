@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The Bollywood crooner's best songs.",
+  "description": "Bollywood crooner's essential songs.",
   "name": "This Is Arijit Singh",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 309103,
       "name": "Aabaad Barbaad (From \"Ludo\")",
       "url": "https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 282272,
       "name": "Alizeh",
       "url": "https://open.spotify.com/track/4rIv0uUnxs5hVZfe5t9SNs"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 271586,
       "name": "Hungama Ho Gaya (From \"Queen\")",
       "url": "https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 237142,
       "name": "Jeetega Jeetega Film Version",
       "url": "https://open.spotify.com/track/17fhQI9tsFAdd5fPSBBCWu"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217848,
       "name": "Lehra Do",
       "url": "https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 308253,
       "name": "Saawali Si Raat",
       "url": "https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 241102,
       "name": "Sooiyan",
       "url": "https://open.spotify.com/track/5ybC28fr8Kmm8Kvv6tqI8X"
@@ -1808,6 +1808,36 @@
       "duration_ms": 243646,
       "name": "Tere Hoke Rehengay (From \"Raja Natwarlal\")",
       "url": "https://open.spotify.com/track/2xx5UUXkVWnotowONhWyjD"
+    },
+    {
+      "album": {
+        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkar\")",
+        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265108,
+      "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkar\")",
+      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
       "album": {

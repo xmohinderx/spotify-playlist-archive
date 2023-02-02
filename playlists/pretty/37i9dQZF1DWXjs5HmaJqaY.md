@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,117 likes - 70 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,251 likes - 70 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 53 | [Purple Noise](https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Puls](https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO) | 5:22 |
 | 54 | [Marionette](https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Marionette](https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E) | 11:22 |
 | 55 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 |
-| 56 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
+| 56 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
 | 57 | [The Blame \- Helsloot Remix](https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [The Blame \(Helsloot Remix\)](https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj) | 6:44 |
 | 58 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 59 | [6 A.M.](https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK) | [DJ HMC](https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN) | [6 A.M\. / Maurader](https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d) | 5:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 70 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY3NDgxMjA2MiwwMDAwMDAwMGQzYmYwYTljYWM3YjExMmMwNDg1N2EyNDNlNTFmZWQ5`
+Snapshot ID: `MTY3NDgxMjA2MiwwMDAwMDAwMGJiMjZjYTgxMDEzOWQ4MjZjYjFhYjA1MzlkNTc2NDAx`

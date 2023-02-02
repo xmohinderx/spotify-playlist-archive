@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-463 songs - 21 hr 36 min
+464 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [My High \(Edit\)](https://open.spotify.com/track/67HFbeyAkneVBBwMVk84y7) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [My High](https://open.spotify.com/album/3KOVzk3E071KTiMzo1PX4g) | 3:12 | 2022-08-19 | 2022-09-03 |
 | [My Life](https://open.spotify.com/track/5t9dfm33C13XSy4XBSQqwD) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju) | [Open Interviews](https://open.spotify.com/album/0DdeAwEIaQUdIzBKYEsJzd) | 1:27 | 2022-02-18 | 2022-03-18 |
 | [My woah](https://open.spotify.com/track/2z6M2SBWc10nDLDBwgC6QV) | [Mr\. Nicenice](https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v) | [My woah](https://open.spotify.com/album/3SCIBaQk0NzyppwAAvzLbs) | 2:30 | 2022-05-27 | 2022-08-16 |
-| [NAH](https://open.spotify.com/track/6KFOWlQP6rbSAkDLOrr6eq) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Ghetto Sunset](https://open.spotify.com/album/79t7Zes9mU2AZtNSiStLIN) | 1:50 | 2023-01-13 |  |
+| [NAH](https://open.spotify.com/track/4FfX4wAqsfGvb3Yrxz8a95) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Ghetto Sunset](https://open.spotify.com/album/3HCr8YtUW5Z8IpzxhAnt2P) | 1:50 | 2023-01-13 |  |
+| [NAH](https://open.spotify.com/track/6KFOWlQP6rbSAkDLOrr6eq) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Ghetto Sunset](https://open.spotify.com/album/79t7Zes9mU2AZtNSiStLIN) | 1:50 | 2023-01-13 | 2023-02-02 |
 | [NAH FR](https://open.spotify.com/track/289ATzCDA6Ab7pinxJl03h) | [Jaywop](https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9), [Tae 10k](https://open.spotify.com/artist/403NnQvAop8j8TD4Gn4IDJ) | [NAH FR](https://open.spotify.com/album/0GPoiCEoG4luoj1AtymKLE) | 1:57 | 2022-07-01 | 2022-08-09 |
 | [Needed You](https://open.spotify.com/track/1Qn8mMhoTxM5hPM1mukzZq) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Needed You](https://open.spotify.com/album/45qbJexoJLTfErZgylADx7) | 2:08 | 2022-05-13 | 2022-07-23 |
 | [Never Be Another You](https://open.spotify.com/track/4o2C1VqlXtKKkoree2Ubq8) | [Shaina Shepherd](https://open.spotify.com/artist/5npzoc47zU3PpCTF6ei389) | [Never Be Another You](https://open.spotify.com/album/2qoj0CPCREjxav6tubdTje) | 4:59 | 2022-08-29 | 2022-09-17 |

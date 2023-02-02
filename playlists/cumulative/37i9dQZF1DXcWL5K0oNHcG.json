@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Chloe Kibble Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Patricia Essong Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Big Dog",
+        "url": "https://open.spotify.com/album/3uwkB3KmaGQjHu3QTCgxuG"
+      },
+      "artists": [
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114720,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/3qflQ8sBJLzKhRnGKIO36L"
+    },
+    {
+      "album": {
         "name": "Birth To Spirit",
         "url": "https://open.spotify.com/album/3K5UQn5uUaPGmxFllCm9ak"
       },
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 583480,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2ITKi9NQXZbKRCE8BGzD7r"
@@ -2571,6 +2589,32 @@
     },
     {
       "album": {
+        "name": "Broken Styles",
+        "url": "https://open.spotify.com/album/4tOPKfXLSPu5zhSyUdb5CG"
+      },
+      "artists": [
+        {
+          "name": "Joel Holmes",
+          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        },
+        {
+          "name": "Roberto Manzin",
+          "url": "https://open.spotify.com/artist/4C12Kkij4qAMmv9BKEgxFn"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345565,
+      "name": "Broken Styles",
+      "url": "https://open.spotify.com/track/2JjunQtfKYN1swgvWZ3YtG"
+    },
+    {
+      "album": {
         "name": "Flowers Bloom",
         "url": "https://open.spotify.com/album/4SUlyRheZLdLHMJxIKJtBu"
       },
@@ -2586,6 +2630,28 @@
       "duration_ms": 198000,
       "name": "Brown Boy Fly",
       "url": "https://open.spotify.com/track/32bV6DXqXXSVIZ1U6f5Pbb"
+    },
+    {
+      "album": {
+        "name": "Oportet 475",
+        "url": "https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK"
+      },
+      "artists": [
+        {
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
+        },
+        {
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185069,
+      "name": "Buffering Proem",
+      "url": "https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl"
     },
     {
       "album": {
@@ -3131,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Chrysalide",
+        "url": "https://open.spotify.com/album/4zObpGAsQyYFylPsuzUJgT"
+      },
+      "artists": [
+        {
+          "name": "Patricia Essong",
+          "url": "https://open.spotify.com/artist/0Xw8xErlE8lUQwW2h9KQhS"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chrysalide",
+      "url": "https://open.spotify.com/track/4z216cr5r11o7U1aCrjY67"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/4z4klvHvNgG0JUndFd1AF0"
       },
@@ -3490,7 +3574,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 195675,
       "name": "Common INSP",
       "url": "https://open.spotify.com/track/0EQWYF60nNlISwauRD9grS"
@@ -3592,7 +3676,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 482386,
       "name": "Coro das meninas",
       "url": "https://open.spotify.com/track/1j3uSY8OujuCI9ewjcjNEa"
@@ -4450,6 +4534,24 @@
       "duration_ms": 312500,
       "name": "don't sleep in the library of the universe",
       "url": "https://open.spotify.com/track/0ZuBcK5jC7rGwA6lSQ7dPw"
+    },
+    {
+      "album": {
+        "name": "Don't Touch My Pizza",
+        "url": "https://open.spotify.com/album/72SzThPYxCOCi4K7nrICCH"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217964,
+      "name": "Don't Touch My Pizza",
+      "url": "https://open.spotify.com/track/4Eo4rDCZgVBcWTwdAc755a"
     },
     {
       "album": {
@@ -5929,6 +6031,40 @@
     },
     {
       "album": {
+        "name": "Forward Thinker (Nuovi Fratelli Cosmic Disco Remix)",
+        "url": "https://open.spotify.com/album/1BdohDd1kYESIw5WE5QPjS"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Sextet",
+          "url": "https://open.spotify.com/artist/2yrx2TtEe9HIC5GOZGLSLi"
+        },
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        },
+        {
+          "name": "Marianne McGregor",
+          "url": "https://open.spotify.com/artist/2dD9aDFICKvYANxbmRdVd8"
+        },
+        {
+          "name": "Mother All Mighty",
+          "url": "https://open.spotify.com/artist/5W531ieucWv2J07SfnYOw5"
+        },
+        {
+          "name": "Nuovi Fratelli",
+          "url": "https://open.spotify.com/artist/7eFmm56FPfgroD1Efi7J3M"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550922,
+      "name": "Forward Thinker - Nuovi Fratelli Cosmic Disco Remix",
+      "url": "https://open.spotify.com/track/77KUswT8DVzxHYS1AScyON"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3IR8WKdhEHGypSVqWU86vh"
       },
@@ -6410,6 +6546,24 @@
       "duration_ms": 262373,
       "name": "Guardians of Eden",
       "url": "https://open.spotify.com/track/0KjteeiIlszsFD3avycgNF"
+    },
+    {
+      "album": {
+        "name": "Hang Glide",
+        "url": "https://open.spotify.com/album/4ugWxjfreUJhHURmP8Y3dF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Bruno",
+          "url": "https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358173,
+      "name": "Hang Glide",
+      "url": "https://open.spotify.com/track/2Z2NURfssjeTMQwH2vFirW"
     },
     {
       "album": {
@@ -8853,6 +9007,24 @@
     },
     {
       "album": {
+        "name": "Laziness",
+        "url": "https://open.spotify.com/album/0qbwSagGy3O9Y0uRvvaKT8"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "Laziness",
+      "url": "https://open.spotify.com/track/2rksda1s4IU7Sw61kz7v2n"
+    },
+    {
+      "album": {
         "name": "Lazy Breeze",
         "url": "https://open.spotify.com/album/5HwAXgE9OPobid0PMrfULl"
       },
@@ -9194,7 +9366,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 470090,
       "name": "Lineage",
       "url": "https://open.spotify.com/track/2WU54s1VWUdiNXCyvk4Ezw"
@@ -11579,6 +11751,24 @@
     },
     {
       "album": {
+        "name": "Omoshiro",
+        "url": "https://open.spotify.com/album/4nKmGF6W1tdrEAIgHadZGL"
+      },
+      "artists": [
+        {
+          "name": "slowstoop",
+          "url": "https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Omoshiro",
+      "url": "https://open.spotify.com/track/7D1S9kovMwhgnRj6LLU12c"
+    },
+    {
+      "album": {
         "name": "On The Underground Road",
         "url": "https://open.spotify.com/album/0NUXOh14VelbeFq6n0D3qm"
       },
@@ -12050,6 +12240,32 @@
       "duration_ms": 243053,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1h8OuuO2eTZPHUuifq4Ayq"
+    },
+    {
+      "album": {
+        "name": "PEACE St. The REVIVAL",
+        "url": "https://open.spotify.com/album/6PTUezIZhjE5fj9HiqJOFi"
+      },
+      "artists": [
+        {
+          "name": "YUSUKE NAKAMURA",
+          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
+        },
+        {
+          "name": "Naruyoshi Sano",
+          "url": "https://open.spotify.com/artist/77QPAlmSKXvnejfB7FJJ8J"
+        },
+        {
+          "name": "Yuki Aikawa",
+          "url": "https://open.spotify.com/artist/5Hbo2ayNVTWg6NX1yRIMsR"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206444,
+      "name": "PEACE St. The REVIVAL",
+      "url": "https://open.spotify.com/track/63yOJ0EgPcpRoRNXrMGklp"
     },
     {
       "album": {
@@ -14280,7 +14496,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 529264,
       "name": "Snowed In",
       "url": "https://open.spotify.com/track/62j2khB0glOo7LrHEi6rmi"
@@ -16614,7 +16830,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217015,
       "name": "Theme of \u201cMuscle King\u201d",
       "url": "https://open.spotify.com/track/6adzrDs94f06CWv2rktMGC"
@@ -19042,6 +19258,28 @@
       "duration_ms": 306800,
       "name": "\u30bf\u30fc\u30b3\u30a4\u30ba\u30b5\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/7A7naf01fa3Z8oXQdB0VeB"
+    },
+    {
+      "album": {
+        "name": "\u4e07\u8449 (Manyou)",
+        "url": "https://open.spotify.com/album/3oheCeChFLNuQlbiAOkH5a"
+      },
+      "artists": [
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        },
+        {
+          "name": "Maurice Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249996,
+      "name": "\u4e07\u8449 (Manyou)",
+      "url": "https://open.spotify.com/track/6l0CgdO1LfKNS1NTAUQppx"
     },
     {
       "album": {

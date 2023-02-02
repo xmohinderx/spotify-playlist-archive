@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,718 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,793 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 12 | [Feels Like A Different Thing \- Daniel Avery Remix](https://open.spotify.com/track/1shRenemeWoKxg80q68ANm) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [RE\-TILT](https://open.spotify.com/album/0zHWRMhq93EvXagIxc4IGb) | 5:03 |
 | 13 | [FFFFFREAKAAAY](https://open.spotify.com/track/5MKPScNN7LWd3a40kk2EoW) | [Freakenstein](https://open.spotify.com/artist/7Bcfp0ViTMa6F4xedbUhun) | [Freak U EP](https://open.spotify.com/album/5NWxhmFUVG1kEXGxQ9HyrI) | 6:21 |
 | 14 | [All I Wanna Do](https://open.spotify.com/track/38TLvvqAHWSNJtq4l09yfW) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6) | [Girl \(Rhino Re\-issue\)](https://open.spotify.com/album/70nzlIb5chg1iMGhh8Gd3S) | 4:29 |
-| 15 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 |
+| 15 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 |
 | 16 | [What Else Is There? \- Mark Stagg Radio Edit](https://open.spotify.com/track/1pC0MvVlAALf3n9RlP975f) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [What Else Is There?](https://open.spotify.com/album/1FjqxFm7Fd4yB0UDHHH0KT) | 3:38 |
 | 17 | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:38 |
 | 18 | [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 59 | [Until Dawn \- Original Mix](https://open.spotify.com/track/0K613P27zJ2GcJ4fM5Q2J4) | [Doildoshi](https://open.spotify.com/artist/286xMU6guFcghkncOEDcJH) | [Invisible Threat](https://open.spotify.com/album/6LWwyEmPZfHR5hh0qZVMKL) | 4:42 |
 | 60 | [Funk The Tribe](https://open.spotify.com/track/6hjgXS8zDeaonIMlmtqZDj) | [Ash Dargan](https://open.spotify.com/artist/7uMdXW4knlRBzxIvzpyJby) | [Breath Of A Man](https://open.spotify.com/album/3nmqsQR4920MF39cgHx4ns) | 5:13 |
 
-Snapshot ID: `MTY3NDE5MDE4OCwwMDAwMDAwMDIyMjA1MWUzMDE0NjhkYmFkY2E3YWI2NmIxZWU2Njhm`
+Snapshot ID: `MTY3NDE5MDE4OCwwMDAwMDAwMDVhNjU0OThiYzY3ZWU0NjU3YTc1OWQwNWIwY2FlOTM4`

@@ -486,7 +486,7 @@
     {
       "album": {
         "name": "Take Me Apart",
-        "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
+        "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
       },
       "artists": [
         {
@@ -497,6 +497,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 339189,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/51QgyO73gGeEIpG5SqoA6n"
+    },
+    {
+      "album": {
+        "name": "Take Me Apart",
+        "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 339189,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y"

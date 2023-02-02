@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is 結束バンド\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,715 likes - 13 songs - 49 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 10,910 likes - 13 songs - 49 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 12 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 |
 | 13 | [小さな海](https://open.spotify.com/track/54SWXjFN2XYo3G5YiNSCqd) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 |
 
-Snapshot ID: `Mjc5MTk3OTQsMDAwMDAwMDBmMzZkMTc3OTkzZGIxMzQwMTZhMTg3NjQyYzhkNjBmNA==`
+Snapshot ID: `Mjc5MjEyMzEsMDAwMDAwMDBlOGQyZDY4NTVhMDY1ZTIxYjFiNWM4ZThmYzNmOGU0Mw==`

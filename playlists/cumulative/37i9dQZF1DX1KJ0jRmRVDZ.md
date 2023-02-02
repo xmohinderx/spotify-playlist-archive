@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-612 songs - 1 day 11 hr 8 min
+613 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fake Parade](https://open.spotify.com/track/3miwadbvtZreaxkLPCnI7X) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Fake Parade](https://open.spotify.com/album/2LShOdjfv6yy44x0li0Vir) | 3:05 | 2022-07-28 | 2022-08-05 |
 | [Fake Parade](https://open.spotify.com/track/6zQxlBBsgxHvDfTu3JuhtX) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Fake Parade](https://open.spotify.com/album/7tNfAxe4R54INGnOX5k02r) | 3:05 | 2022-07-26 | 2022-07-29 |
 | [FANTASY](https://open.spotify.com/track/6WK8ycPHFr3HtjKnKcyFdl) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [FANTASY](https://open.spotify.com/album/3I2n109tFtjkvO0hz9h4xR) | 3:17 | 2022-06-23 | 2022-07-22 |
+| [Fighter](https://open.spotify.com/track/1srvh4CsWfbCSw4wSPiAC9) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [Fighter](https://open.spotify.com/album/3oNZjiOyaKyZpkuw7fCIMm) | 3:06 | 2023-02-02 |  |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 |  |
 | [Firefly](https://open.spotify.com/track/1YnDM2bsUMKTpwAC5clsah) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Firefly](https://open.spotify.com/album/3usWJmifw7dwcbMyfV5af3) | 4:07 | 2022-06-14 | 2022-06-16 |
 | [First Love feat.natsumi](https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [First Love feat.natsumi](https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo) | 2:25 | 2022-07-28 | 2022-08-23 |
@@ -358,7 +359,7 @@
 | [ヒノキノキ](https://open.spotify.com/track/13ulQXDabuZkmZizBnCWac) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [ヒノキノキ](https://open.spotify.com/album/7vLrY2tQ3CTbcCjJn0d7r2) | 4:24 | 2022-06-30 | 2022-07-15 |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-06-30 | 2022-08-06 |
 | [ビーユアセルフ](https://open.spotify.com/track/6fuPQmNR5pwfIxDKOMiTGP) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ビーユアセルフ](https://open.spotify.com/album/1QRiQT3roPTvhmDB0LNuX3) | 3:16 | 2022-06-09 | 2022-07-23 |
-| [ファイター](https://open.spotify.com/track/1HpLRKbRNAaSHZ2fkQmb8R) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [ファイター](https://open.spotify.com/album/1ie1cCM8g6H1P2PAV9gPGm) | 3:06 | 2023-02-01 |  |
+| [ファイター](https://open.spotify.com/track/1HpLRKbRNAaSHZ2fkQmb8R) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [ファイター](https://open.spotify.com/album/1ie1cCM8g6H1P2PAV9gPGm) | 3:06 | 2023-02-01 | 2023-02-02 |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2022-12-29 |
 | [フィナーレ](https://open.spotify.com/track/6QvyZ3BBTTu66ynGkY1J41) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フィナーレ](https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0) | 2:26 | 2022-09-14 | 2022-09-21 |
 | [フェーダー](https://open.spotify.com/track/0c5nSYCww2OAFTjVuQrpDj) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [現在地未明](https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk) | 2:51 | 2022-06-13 | 2022-07-20 |

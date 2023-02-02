@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Blessing Offor",
-  "num_followers": 403571,
+  "num_followers": 403584,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDFhYjlmN2EzMzI2NDBhNWVjNGQ5MGQwMjdlNDc5MmMz",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDM4NDNhMzQ0NzZlZjM5MDAzNDIxNzgwMTI2OGVhNDUw",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Sir Woman",
-        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "Good Lady",
-      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -915,6 +899,22 @@
       "duration_ms": 406186,
       "name": "Don't Lose Sight (Acoustic)",
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "Good Lady",
+      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Stay in Bed and F*** (While The World Burns)",
@@ -967,6 +951,22 @@
       "duration_ms": 164533,
       "name": "Stay in Bed and F*** (While The World Burns)",
       "url": "https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "It Will Come In Time",
+        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "It Will Come In Time",
+      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Summertime",
@@ -1047,6 +1031,22 @@
       "duration_ms": 257013,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Tell Me",
@@ -1115,22 +1099,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Do Re Mi",
-        "url": "https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Do Re Mi",
-      "url": "https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -1151,6 +1119,54 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Face The River",
+        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Do Re Mi",
+        "url": "https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Do Re Mi",
+      "url": "https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Face The River",
-        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Four Moons",
@@ -1235,26 +1235,6 @@
       "duration_ms": 215280,
       "name": "Four Moons",
       "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Tim Presley",
-          "url": "https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -1305,20 +1285,24 @@
       "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Drippin' In Love",
-        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
       },
       "artists": [
         {
-          "name": "Frankie Zulferino",
-          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Tim Presley",
+          "url": "https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD"
         }
       ],
-      "duration_ms": 245901,
-      "name": "Drippin' In Love",
-      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+      "duration_ms": 216573,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 223720,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+      },
+      "artists": [
+        {
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/4NlABb46zLMHcaZHnSGyNG"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "When You Lose Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3eNCYLraD0G0mIHSeD5f6I"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 191012,
-      "name": "When You Lose Someone (Acoustic)",
-      "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "the blue album",
@@ -1419,6 +1403,22 @@
       "duration_ms": 137096,
       "name": "i'm lost for words",
       "url": "https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "When You Lose Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3eNCYLraD0G0mIHSeD5f6I"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 191012,
+      "name": "When You Lose Someone (Acoustic)",
+      "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/2GkP3qhi30r83OjSzvfIlb"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Long Way 'Round",
@@ -1483,6 +1467,22 @@
       "duration_ms": 245786,
       "name": "Long Way 'Round",
       "url": "https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/2GkP3qhi30r83OjSzvfIlb"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/3jLaggXofmoijL25AdphVG"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "In Real Life",
-        "url": "https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Brand New Nowhere",
-      "url": "https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP"
-    },
-    {
       "added_at": "2022-05-27 21:16:50",
       "album": {
         "name": "I Feel Fine",
@@ -1675,6 +1659,22 @@
       "duration_ms": 187986,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "In Real Life",
+        "url": "https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Brand New Nowhere",
+      "url": "https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP"
     },
     {
       "added_at": "2022-05-13 04:02:00",

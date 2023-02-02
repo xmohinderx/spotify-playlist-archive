@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-142 songs - 9 hr 15 min
+144 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,12 @@
 | [AlegriA](https://open.spotify.com/track/2IpweUPafBsEGOsv9Anblr) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [AlegriA](https://open.spotify.com/album/3IaYkVi9q4MoXPWMBm3BxO) | 4:42 | 2022-05-10 |  |
 | [B.B.](https://open.spotify.com/track/0qsR8AYGQ8HAfejVgaWI0z) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [B.B.](https://open.spotify.com/album/4w4xDSa5ztppzU0Cyyxrfk) | 3:48 | 2022-05-10 |  |
 | [Between Memories](https://open.spotify.com/track/6Jdy4B9Q9UNynpibATGyV5) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:45 | 2022-05-10 | 2022-07-29 |
-| [Between Memories](https://open.spotify.com/track/6bul16twi3rYztQtfSl9Er) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:45 | 2022-05-10 |  |
+| [Between Memories](https://open.spotify.com/track/4bvKIDFJEIif2HM3U8eQhc) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 1:45 | 2023-01-17 |  |
+| [Between Memories](https://open.spotify.com/track/6bul16twi3rYztQtfSl9Er) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:45 | 2022-05-10 | 2023-02-02 |
 | [Black Gold](https://open.spotify.com/track/026m6fCazxOXGXIeOIRvTc) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/79vP4LuSvrAxNUrf5DzzKx) | 1:35 | 2022-10-11 | 2022-11-13 |
 | [Black Gold](https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:35 | 2022-05-10 | 2022-07-29 |
-| [Black Gold](https://open.spotify.com/track/7Bhs5TjC7FouUwrKVBdSpW) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:35 | 2022-05-10 |  |
+| [Black Gold](https://open.spotify.com/track/1TVEhev5VxW1tdP1TVEvdT) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 1:35 | 2023-01-17 |  |
+| [Black Gold](https://open.spotify.com/track/7Bhs5TjC7FouUwrKVBdSpW) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:35 | 2022-05-10 | 2023-02-02 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-05-10 |  |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-11 |  |
 | [CHIASTOLITE](https://open.spotify.com/track/7DLUK91fqimI1vEg4CKGyb) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [CHIASTOLITE \(アーティスト盤\)](https://open.spotify.com/album/0sVkWv5RlIvshKAasVHBUN) | 4:13 | 2022-05-10 |  |

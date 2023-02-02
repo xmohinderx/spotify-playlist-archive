@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Soph T.
 
-616 songs - 1 day 11 hr 38 min
+617 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,8 @@
 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 | 2022-01-04 | 2022-02-03 |
 | [望遠鏡](https://open.spotify.com/track/0wJD3QKVyzk9rBwtiBhQbe) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [望遠鏡](https://open.spotify.com/album/6yr99eQaRmQnSh5Xj61Kpr) | 3:49 | 2022-10-07 | 2022-11-02 |
 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 | 2022-01-04 | 2022-11-02 |
-| [水星記](https://open.spotify.com/track/1BIMflGBEZVMoMBYee8b3R) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/1ewhrl109isjAtzC1GB5gL) | 4:30 | 2022-11-01 |  |
+| [水星記](https://open.spotify.com/track/1BIMflGBEZVMoMBYee8b3R) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/1ewhrl109isjAtzC1GB5gL) | 4:30 | 2022-11-01 | 2023-02-02 |
+| [水星記](https://open.spotify.com/track/1ZLZ7azsl5orPPjjNHDDuC) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/0Lb4h7zgiQW5k03Mk6t7RC) | 4:30 | 2023-01-31 |  |
 | [沒時間](https://open.spotify.com/track/7wVpSf2DPd4EDKz7nEkdRk) | [梁嘉靖](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [沒時間](https://open.spotify.com/album/61ATcz62LDGx3pzzG2DIV6) | 3:46 | 2022-06-01 | 2022-07-08 |
 | [漂向北方](https://open.spotify.com/track/3hqB1JVt1kv0JUM5znLJdo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [漂向北方](https://open.spotify.com/album/19xOcUWpSn9Sv0KND7uuDp) | 4:31 | 2022-01-04 | 2022-02-03 |
 | [爱的拥抱](https://open.spotify.com/track/0SHdwd2FVwDAg9cHNcgbVq) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [爱的拥抱](https://open.spotify.com/album/3RJd9veInpPlgqLdQKBiMe) | 3:38 | 2023-01-31 |  |

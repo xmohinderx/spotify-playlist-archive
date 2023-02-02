@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Sam Smith, ROSALÍA, Zach Bryan & Maggie Rogers, Lil Yachty and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,049,206 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,049,503 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141331,
+  "num_followers": 141347,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGY5ZDMxZmMxMjM0ZGEyODhiYWVlNjM0YTA1NWJkZWQ3",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGQ5MTNkODQyZjYwM2ZlODEzZGRiMDZlOWU4ODQ4ZDVl",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Y Sigues Siendo Tu",
-        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
-      },
-      "artists": [
-        {
-          "name": "Adrian Gutierrez",
-          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Y Sigues Siendo Tu",
-      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 175447,
       "name": "Que Mentira",
       "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Y Sigues Siendo Tu",
+        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Gutierrez",
+          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Y Sigues Siendo Tu",
+      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Por Fin Decid\u00ed",
         "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 194599,
       "name": "Por Fin Decid\u00ed",
       "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
+      },
+      "artists": [
+        {
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 197965,
       "name": "Me Dec\u00edas",
       "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
-      },
-      "artists": [
-        {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "N\u00famero Dos",
+        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+      },
+      "artists": [
+        {
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No Quiero Nada",
+      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 193967,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "N\u00famero Dos",
-        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
-      },
-      "artists": [
-        {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "No Quiero Nada",
-      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Entre El Frio Y El Calor",
         "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 215640,
       "name": "Entre El Frio Y El Calor",
       "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     }
   ],
   "unique_name": "New Tejano",

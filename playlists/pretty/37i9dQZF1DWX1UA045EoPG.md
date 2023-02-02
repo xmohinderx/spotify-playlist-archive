@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,398 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,391 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 8 | [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 |
 | 9 | [Cool It](https://open.spotify.com/track/6jTJq11wBAeTptcybJHmgJ) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Bits & Pieces](https://open.spotify.com/album/2ORjqBygvY8oyEp6oVm8PB) | 3:42 |
 | 10 | [So Fine \(Feat\. Falcxne\)](https://open.spotify.com/track/6r3RoSEAZQMHCZqSS4aEL9) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Sundae Sauuce Presents: Chocolate Drizzle](https://open.spotify.com/album/0JpEaFsmduibGQhAEoIgXz) | 2:38 |
-| 11 | [Hate Me](https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA) | 2:26 |
+| 11 | [Hate Me](https://open.spotify.com/track/2ronhbN9odAFiKjVlyLNOE) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5k15DlgvkLscvA2Ym9EqqT) | 2:26 |
 | 12 | [Slinky Man](https://open.spotify.com/track/0nVLAxfxzW9487k5LZpscC) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:11 |
 | 13 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
 | 14 | [Old Age](https://open.spotify.com/track/1nMULe4EavfF8SZHQ3Pag9) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Old Age](https://open.spotify.com/album/33vsKtsIqvAk0mpiVKN3rz) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDIzMGMwNThjZDMwNTA1N2JhYTJkODdkZTRiOWFiNzkz`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDZlNzdhOGUwMGZjNmY5Yjg1ZDliODI0MjE3YTExMDM3`

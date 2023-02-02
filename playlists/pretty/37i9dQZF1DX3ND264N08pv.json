@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 32428,
+  "num_followers": 32534,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NDA2MCwwMDAwMDAwMDkwOTE4ZWJkMmJhZTVlYjFiOTQxNjk3ZDExM2U4YTIw",
+  "snapshot_id": "MTY3NDc3NDA2MCwwMDAwMDAwMDJlZDVmMDBjNjlkMzZmM2IyMWEzM2RiNTg1YjhiOTI1",
   "tracks": [
     {
       "added_at": "2023-01-26 23:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
+        "name": "DEQUINOX 100",
+        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "DEQUINOX 100",
+      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2023-01-26 23:01:00",
-      "album": {
-        "name": "DEQUINOX 100",
-        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "DEQUINOX 100",
-      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
     },
     {
       "added_at": "2023-01-26 23:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Endemic",
-        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Endemic",
-      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
-    },
-    {
-      "added_at": "2023-01-26 23:01:00",
-      "album": {
         "name": "DANCEFLOOR SLAYER",
         "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
@@ -711,6 +695,26 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
+        "name": "NO MONEY",
+        "url": "https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm"
+      },
+      "artists": [
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 201014,
+      "name": "NO MONEY",
+      "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
         "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
         "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
       },
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "NO MONEY",
-        "url": "https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm"
+        "name": "Endemic",
+        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
       },
       "artists": [
         {
-          "name": "GPF",
-          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
-        },
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
         }
       ],
-      "duration_ms": 201014,
-      "name": "NO MONEY",
-      "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
+      "duration_ms": 240000,
+      "name": "Endemic",
+      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
     },
     {
       "added_at": "2023-01-26 23:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Order & Chaos",
-        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 292356,
-      "name": "Kick Creator",
-      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
-    },
-    {
-      "added_at": "2023-01-26 23:01:00",
-      "album": {
         "name": "Pussy Lovers",
         "url": "https://open.spotify.com/album/731nrWHUxC4dfkM6F7PYs6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Order & Chaos",
+        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 292356,
+      "name": "Kick Creator",
+      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
     },
     {
       "added_at": "2023-01-26 23:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "The Mind",
-        "url": "https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "The Mind",
-      "url": "https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan"
-    },
-    {
-      "added_at": "2023-01-26 23:01:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "The Mind",
+        "url": "https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "The Mind",
+      "url": "https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan"
     },
     {
       "added_at": "2023-01-26 23:01:00",
@@ -1443,22 +1443,6 @@
       "duration_ms": 248052,
       "name": "Battle Tonight",
       "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
-    },
-    {
-      "added_at": "2023-01-26 23:01:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-01-26 23:01:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-01-26 23:01:00",

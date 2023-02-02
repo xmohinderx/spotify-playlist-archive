@@ -2,7 +2,7 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Tim Grennan
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Tom Grennan
 
 354 songs - 19 hr 14 min
 

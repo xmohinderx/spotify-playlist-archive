@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 176166,
       "name": "Barcellona",
       "url": "https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 189108,
       "name": "Caff\u00e8",
       "url": "https://open.spotify.com/track/4V5gmy8imyB0TJwdIYuGRv"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 184525,
       "name": "COLPA TUA \u2af7\u2af8 (con VENERUS & GU\u00c8 PEQUENO)",
       "url": "https://open.spotify.com/track/3ILta8SPlsWdOueRYzc5mL"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 182377,
       "name": "FINCH\u00c9 FA GIORNO",
       "url": "https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS"
@@ -1294,6 +1294,28 @@
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4"
+    },
+    {
+      "album": {
+        "name": "Nessuno",
+        "url": "https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187624,
+      "name": "Nessuno",
+      "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
     },
     {
       "album": {

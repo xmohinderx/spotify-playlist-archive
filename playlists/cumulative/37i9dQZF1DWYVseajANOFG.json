@@ -3086,24 +3086,6 @@
     {
       "album": {
         "name": "XOXO",
-        "url": "https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F"
-      },
-      "artists": [
-        {
-          "name": "Shyno",
-          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
-        }
-      ],
-      "date_added": "2023-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275349,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG"
-    },
-    {
-      "album": {
-        "name": "XOXO",
         "url": "https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag"
       },
       "artists": [
@@ -3118,6 +3100,24 @@
       "duration_ms": 278345,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM"
+    },
+    {
+      "album": {
+        "name": "XOXO (Piso 33)",
+        "url": "https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275349,
+      "name": "XOXO (Piso 33)",
+      "url": "https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG"

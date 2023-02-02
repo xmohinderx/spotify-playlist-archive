@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-169 songs - 12 hr 38 min
+170 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [44th Cloud Lavender](https://open.spotify.com/track/6ad2tz4WOhula9kBxNB1jP) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 4:33 | 2022-02-18 |  |
 | [5 Pound Spesh](https://open.spotify.com/track/2ZHL0cnRNLxjbTw6LKe1UD) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [G\-TOWN 001](https://open.spotify.com/album/6ao21nWD6qLSbkn3JSPmtQ) | 5:13 | 2022-02-18 | 2022-07-28 |
 | [5.0 You Can \(Not\) Go Home](https://open.spotify.com/track/4Vq8r09Q6bBGK2BWGnKyTC) | [Knechtjong](https://open.spotify.com/artist/3dAnz25hq43spcvC7KmobB) | [Safe Cloud Tapes 01](https://open.spotify.com/album/6XKcT1tNZKW0Cms3Flm1hR) | 5:22 | 2022-02-18 | 2022-07-30 |
-| [55 Year Old Daughter](https://open.spotify.com/track/0uaot4aji2ZwZWO6tH77Vw) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/3sQ4kRPmlOz4DehzdZkdvz) | 2:57 | 2022-02-18 |  |
+| [55 Year Old Daughter](https://open.spotify.com/track/0uaot4aji2ZwZWO6tH77Vw) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/3sQ4kRPmlOz4DehzdZkdvz) | 2:57 | 2022-02-18 | 2023-02-02 |
+| [55 Year Old Daughter](https://open.spotify.com/track/2tjxBGXtnZIn5b97sqiGS7) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/7mqcy9ytfBE7ZV8gU3jLjo) | 2:57 | 2022-09-16 |  |
 | [666](https://open.spotify.com/track/1Z34zLbTvP8NeVXLkKZ8xa) | [Minimal Violence](https://open.spotify.com/artist/0RajOd1JQuwVDgxs1bW2PA) | [United Ravers Against Fascism](https://open.spotify.com/album/0jgAlYslfHrkGslHOpnYz4) | 3:59 | 2022-02-18 | 2022-07-30 |
 | [Abdominal Study](https://open.spotify.com/track/7khOwG6JrXLE3tfTxErhAp) | [Ferhat Albayrak](https://open.spotify.com/artist/1I8QV9H94JcJ0tvgkGZGPt), [Kuvoka](https://open.spotify.com/artist/33S2vuMYuPC5X7TwQjVDl8) | [Abdominal Study](https://open.spotify.com/album/354jdS9cXnq5RaRUGxqo5g) | 6:53 | 2022-02-18 | 2022-07-29 |
 | [Acid](https://open.spotify.com/track/6O4hoW9fHKTIHjLTtadOXO) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Lasakaneku](https://open.spotify.com/album/5pxnV35uzjNuJJd1m3xU4D) | 3:03 | 2022-02-18 | 2022-07-23 |

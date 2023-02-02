@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-63 songs - 4 hr 3 min
+64 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2022-03-25 |  |
 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 | 2022-03-25 |  |
 | [Freaks](https://open.spotify.com/track/3pEcpkQkvAFhju89ugLoLN) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 2:56 | 2022-03-25 |  |
-| [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 | 2022-03-25 |  |
+| [Frontline](https://open.spotify.com/track/51QgyO73gGeEIpG5SqoA6n) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 5:39 | 2022-03-25 |  |
+| [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 | 2022-03-25 | 2023-02-02 |
 | [Get Involved](https://open.spotify.com/track/0sTW8OzAchJDkwQOfAQgD3) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The PJs](https://open.spotify.com/album/4XEJCVGsfK7HI9VgB1lisi) | 3:14 | 2022-03-25 |  |
 | [hearts on fire](https://open.spotify.com/track/5nwLNgUGgBsBE4en888WIV) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [hearts on fire](https://open.spotify.com/album/6KA4tzrQUIeOZVBhyK2s24) | 3:37 | 2022-03-25 |  |
 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 | 2022-03-25 |  |

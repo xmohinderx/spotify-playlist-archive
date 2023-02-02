@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,861 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,872 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 53 | [Soft Night](https://open.spotify.com/track/0aFGdSW8JVpayHajgBDQfC) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4HRxwMgEEOYGe0YO3JkGGG) | 3:59 |
 | 54 | [Cowgirl](https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 4:05 |
 | 55 | [He is Without His Guns](https://open.spotify.com/track/1ZkNI3JpzfQ5LMV33zH7Jg) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Into the Light](https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0) | 3:24 |
-| 56 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 |
+| 56 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 57 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDUyZDM2NGM5NzZlMzY2MTE2MmI1MDNmN2YxYWZiNWIy`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGVmMWU5OWM3ZTRkZmMzNmU1ZGQ2M2Q0OGE3MjIwZjlk`

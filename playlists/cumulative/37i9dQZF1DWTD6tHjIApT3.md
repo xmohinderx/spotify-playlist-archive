@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,067 songs - 2 day 22 hr 0 min
+1,068 songs - 2 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [No No No](https://open.spotify.com/track/1sUqo3ryaJd92WsY4X3zwT) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [Scorpion Moon](https://open.spotify.com/album/6KMIuDUUrgtVfMeBHhcoFi) | 3:35 | 2022-06-07 | 2022-07-19 |
 | [No Other Way](https://open.spotify.com/track/5HUN3Xsq2ucCpJO1XYTDLn) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [No Other Way](https://open.spotify.com/album/5V5JToxoBx8aQ04Duc97uA) | 3:40 | 2022-05-31 | 2022-07-29 |
 | [Nonfiction](https://open.spotify.com/track/25G5WkA09gPXVeiCZT5Kch) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Nonfiction](https://open.spotify.com/album/4IwkzXdnIkA9Lz6FqOKnCS) | 3:48 | 2022-06-14 | 2022-06-16 |
-| [Not Unusual](https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/6nbzkFwV8YIKs2FsGF7o8w) | 4:35 | 2023-01-31 |  |
+| [Not Unusual](https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/6nbzkFwV8YIKs2FsGF7o8w) | 4:35 | 2023-01-31 | 2023-02-02 |
+| [Not Unusual](https://open.spotify.com/track/5plwsxoOIhB9AnauxlrOqI) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/4nxMwuFDjNnMWYGLOcEzaS) | 4:35 | 2023-01-31 |  |
 | [nothin'](https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 3:38 | 2022-07-26 | 2022-08-03 |
 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 | 2022-08-02 | 2022-09-16 |
 | [Okay](https://open.spotify.com/track/2KNNI7uuMdjTvlAHlDezID) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:16 | 2022-05-29 | 2022-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Lekker rustig aan doen op zondag met deze zachte pop liedjes.",
-  "num_followers": 257101,
+  "num_followers": 257121,
   "original_name": "Easy On Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3OTMyMywwMDAwMDAwMDE0NWQxNmExN2RjNTg1ZGEzZTM2NjYyYWJiNzk3YWRm",
+  "snapshot_id": "MTY3NTI2MTYzMiwwMDAwMDAwMDE4YzI0NGY0ZmY0ZWYwMGZjYzE4NTE0OGMxYzg5NDg2",
   "tracks": [
     {
       "added_at": "2023-01-16 14:28:43",
@@ -23,26 +23,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-01-16 14:28:43",
@@ -127,26 +107,6 @@
     {
       "added_at": "2023-01-16 14:28:43",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
         "name": "they only talk about the weather",
         "url": "https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR"
       },
@@ -209,6 +169,38 @@
       "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
     },
     {
+      "added_at": "2023-02-01 14:27:12",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "added_at": "2023-01-16 14:28:43",
+      "album": {
+        "name": "Saddies",
+        "url": "https://open.spotify.com/album/5NCEMX3HctmQsLOyskl3SK"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 159499,
+      "name": "Lost at Last",
+      "url": "https://open.spotify.com/track/0eTFVx9jWhazZHeg4ehfvb"
+    },
+    {
       "added_at": "2023-01-16 14:28:43",
       "album": {
         "name": "Broken",
@@ -223,6 +215,26 @@
       "duration_ms": 231178,
       "name": "Broken",
       "url": "https://open.spotify.com/track/7H0LEHtKUsz5bwp1juDZvw"
+    },
+    {
+      "added_at": "2023-01-16 14:28:43",
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2023-01-16 14:28:43",
@@ -259,6 +271,26 @@
     {
       "added_at": "2023-01-16 14:28:43",
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-01-16 14:28:43",
+      "album": {
         "name": "Blind Spot",
         "url": "https://open.spotify.com/album/3FBrrFX3ePFvenJ3VJD5kN"
       },
@@ -271,42 +303,6 @@
       "duration_ms": 201008,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/5UHIwUItXXFoSUSuPulnpP"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
-        "name": "Saddies",
-        "url": "https://open.spotify.com/album/5NCEMX3HctmQsLOyskl3SK"
-      },
-      "artists": [
-        {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
-        }
-      ],
-      "duration_ms": 159499,
-      "name": "Lost at Last",
-      "url": "https://open.spotify.com/track/0eTFVx9jWhazZHeg4ehfvb"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
-        "name": "Magnetic Fields",
-        "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
-      },
-      "artists": [
-        {
-          "name": "The Analogues Sideshow",
-          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
-        },
-        {
-          "name": "The Analogues",
-          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
-        }
-      ],
-      "duration_ms": 153880,
-      "name": "Magnetic Fields",
-      "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
     },
     {
       "added_at": "2023-01-16 14:28:43",
@@ -487,6 +483,26 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
+    },
+    {
+      "added_at": "2023-01-16 14:28:43",
+      "album": {
+        "name": "Magnetic Fields",
+        "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "Magnetic Fields",
+      "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
     },
     {
       "added_at": "2023-01-16 14:28:43",
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2023-01-16 14:28:43",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2023-01-16 14:28:43",
+      "album": {
         "name": "Songs For You, Truths For Me",
         "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 223846,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Eyes Shut",
-      "url": "https://open.spotify.com/track/3vx3J3TSgqR6BW4JBXf4Ui"
-    },
-    {
-      "added_at": "2023-01-16 14:28:43",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
     },
     {
       "added_at": "2023-01-16 14:28:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Patrick Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,882 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,890 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 43 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 |
 | 44 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 45 | [IT WON’T DO](https://open.spotify.com/track/0JH0HwpTp0U0XCFWlNVTEF) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [IT WON’T DO](https://open.spotify.com/album/1vt19EcTVPduxZD2Bjuj2I) | 4:10 |
-| 46 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 |
+| 46 | [S.O.L](https://open.spotify.com/track/0KgLSONjjoJ47ZEhN6CQSt) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 5:51 |
 | 47 | [The Outsider](https://open.spotify.com/track/4QP9kNcxLKUT1DVnJ1d1n4) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Sometime Not Now](https://open.spotify.com/album/42Yn32ZzOeUGrryMEMFnYL) | 3:54 |
 | 48 | [Not the Right Place \- Coma Remix](https://open.spotify.com/track/2rL21YUdBOWsynKJur3eqK) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Not the Right Place \(Coma Remix\)](https://open.spotify.com/album/5XsbBMTUbz3CsSk7PzdU1I) | 5:45 |
 | 49 | [butterfly \(so free\)](https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [butterfly \(so free\)](https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Flight from Angkor](https://open.spotify.com/track/1KGPPuM4jbFy5DEWr3bXWg) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Time's Arrow](https://open.spotify.com/album/0mOMgzeAy3gyb7P2J8gIzY) | 4:07 |
 | 75 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 
-Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDhjYTkwZDU3NGQ3OTMxMTNhMDk4OGMzOTAxODQzYjkx`
+Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDUyNzVhZGExZDZkY2RlNzZiMzZhOTRjY2E0ZTYwZjM3`

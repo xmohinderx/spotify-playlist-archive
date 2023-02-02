@@ -1,12 +1,12 @@
 {
   "description": "MD Chefe, BIN e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 178977,
+  "num_followers": 179158,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0NDI2NiwwMDAwMDAwMDFkZTBkZTA4MzJjMGQ3ZTM4Y2U5NjFiYjY2OTUwZGE5",
+  "snapshot_id": "MTY3NDg0NDI2NiwwMDAwMDAwMGYyNTNhZTQxMjJmMDI5Yjk4YzQ2YzBkZmZjZTdiZjVm",
   "tracks": [
     {
       "added_at": "2023-01-23 14:21:16",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
     },
     {
-      "added_at": "2023-02-01 01:39:28",
+      "added_at": "2023-02-02 01:35:25",
       "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "Licor 43",
         "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "Minha Raiz",
         "url": "https://open.spotify.com/album/5ilqYs6khOGdka2K8o6Lqv"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 333176,
       "name": "Minha Raiz",
       "url": "https://open.spotify.com/track/3y2OoXuWjC5s0JciRdhYbv"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": "2023-01-23 14:21:16",

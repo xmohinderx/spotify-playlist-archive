@@ -3118,10 +3118,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 179908,
       "name": "Wiggle",
       "url": "https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ"
+    },
+    {
+      "album": {
+        "name": "Wiggle",
+        "url": "https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Wiggle",
+      "url": "https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT"
     },
     {
       "album": {

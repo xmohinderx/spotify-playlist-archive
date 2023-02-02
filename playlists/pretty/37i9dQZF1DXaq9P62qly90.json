@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12085,
+  "num_followers": 12091,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDAxMDZhMzBhZTA0YWZiZDVkMmRhOGI0ZTU1MzE4ZWY0",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI1NGQxMTllMzVkMzEyMDI5ZTZhODU2ZDQ3MWYyZDgw",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "The Education of the Individual Soul",
         "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 259746,
       "name": "10 Laws",
       "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2023-01-03 17:09:40",

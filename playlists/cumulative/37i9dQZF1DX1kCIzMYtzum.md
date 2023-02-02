@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-367 songs - 19 hr 25 min
+368 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2022-09-09 |  |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-03-18 | 2022-04-21 |
 | [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-11 | 2023-01-26 |
-| [Day & Nite](https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Day & Nite](https://open.spotify.com/album/01rqtg7JizK7VAbzo77Rft) | 2:53 | 2022-05-06 |  |
+| [Day & Nite](https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Day & Nite](https://open.spotify.com/album/01rqtg7JizK7VAbzo77Rft) | 2:53 | 2022-05-06 | 2023-02-02 |
 | [Distant Memory \(with Timmy Trumpet x W&W\)](https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Distant Memory \(with Timmy Trumpet x W&W\)](https://open.spotify.com/album/4Hx4oAboWyR4hI1UeEHRLR) | 2:30 | 2021-06-02 | 2022-04-20 |
 | [Dive Deep](https://open.spotify.com/track/44tD1vxOZZil91wOnaAxVh) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dive Deep](https://open.spotify.com/album/3jGFp82DHugpG24SGsQRyq) | 3:01 | 2022-04-08 | 2022-04-21 |
 | [Do U Want It](https://open.spotify.com/track/0FaYwDuZUSghdVvqxGyMTh) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18) | [Do U Want It](https://open.spotify.com/album/0PhQZV4ZaIk0rBJ6ohM1dF) | 2:45 | 2022-04-15 | 2022-04-20 |
@@ -318,6 +318,7 @@
 | [Sweat](https://open.spotify.com/track/2ERm2HjvmrpTMuqxIIBUsk) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Sweat](https://open.spotify.com/album/6iGoeRL6uGgXlKwLEgUcSf) | 2:40 | 2022-03-18 | 2022-04-18 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 |  |
 | [Take Me Away](https://open.spotify.com/track/1GuGFUd89KWaMZHp7vUVJP) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Benjamin Duchenne](https://open.spotify.com/artist/4UJKe3JbVAObXrnURuUALb) | [Take Me Away](https://open.spotify.com/album/6Uko7MJpeALnJblYe8ccog) | 4:07 | 2022-04-08 | 2022-04-19 |
+| [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-27 |  |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-06-02 | 2022-07-29 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-03-18 | 2022-08-06 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2022-01-14 |  |

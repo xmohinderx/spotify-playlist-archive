@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-69 songs - 3 hr 50 min
+70 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 | 2018-09-14 |  |
 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 | 2018-09-14 |  |
 | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/track/1YItRRQXVa3GtFSZ0RmgXA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/album/4mo8TcrCcCfn4bjZmpgyIC) | 3:21 | 2018-09-14 |  |
-| [Hate Me](https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA) | 2:26 | 2018-09-14 |  |
+| [Hate Me](https://open.spotify.com/track/2ronhbN9odAFiKjVlyLNOE) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5k15DlgvkLscvA2Ym9EqqT) | 2:26 | 2022-09-27 |  |
+| [Hate Me](https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA) | 2:26 | 2018-09-14 | 2023-02-02 |
 | [Her.Thoughts](https://open.spotify.com/track/5w719VPErIafoSKcKhvAuN) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu) | [Her.Thoughts](https://open.spotify.com/album/6eBoOWw9MdKHxmAfnSdugW) | 1:13 | 2018-09-14 |  |
 | [Holding](https://open.spotify.com/track/2CRycjpFt9XRENYDZSQzfo) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Holding](https://open.spotify.com/album/54KICMlCqj1F9wgR0QAmEv) | 3:00 | 2018-09-14 |  |
 | [Hurting](https://open.spotify.com/track/2iclqE8w8T7sAqzhFQGbRG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Summer BBQ: EDM](https://open.spotify.com/album/6ut9dZVLX9wVX6C3qQ5o4X) | 3:05 | 2022-09-27 | 2022-11-13 |

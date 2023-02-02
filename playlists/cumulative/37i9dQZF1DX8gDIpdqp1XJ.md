@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-669 songs - 1 day 20 hr 41 min
+670 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-03-08 | 2022-07-09 |
 | [Damn I'm Tired](https://open.spotify.com/track/41zj2nKSw6Q6gBDmy0cLro) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 3:45 | 2022-07-11 | 2022-07-28 |
 | [Dance AM](https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Dance AM](https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE) | 4:32 | 2021-04-02 | 2022-04-20 |
-| [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 | 2023-01-13 |  |
+| [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 | 2023-01-13 | 2023-02-02 |
 | [Dark Love](https://open.spotify.com/track/1x3GXa11yafQ9BFGmOlI2S) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Premium](https://open.spotify.com/album/7FWOwf5sFpunzLCCPpb21O) | 4:47 | 2021-04-02 | 2022-04-21 |
 | [Days Like These](https://open.spotify.com/track/2exuDqNVfSYuPEBAmogFeY) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Days Like These](https://open.spotify.com/album/3OIhcJ1dODYadOqISRc4SG) | 3:32 | 2021-08-20 | 2022-07-26 |
 | [Dearest](https://open.spotify.com/track/4QzBdskP3xtUZDe6WUG7OQ) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 3:19 | 2021-06-04 | 2022-07-01 |
@@ -145,6 +145,7 @@
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-07-22 | 2022-11-11 |
 | [Doin' Fine Today](https://open.spotify.com/track/5q0XUBXqK5wV2Dn0bL5I5Z) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [Doin' Fine Today](https://open.spotify.com/album/0Ju5SlXJQR0vv4iov2GtqL) | 3:03 | 2023-01-06 | 2023-01-14 |
 | [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-15 | 2022-12-25 |
+| [Don't Come Back](https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/2XGKQzWNKsrUOdg4719WPb) | 3:37 | 2022-10-24 |  |
 | [Don't Fight The Feeling](https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Don't Fight The Feeling](https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5) | 5:04 | 2022-06-03 | 2022-07-29 |
 | [Done Hanging On \- Joel Wolf Alice Remix](https://open.spotify.com/track/7u8pSG11aelk6pqh6z9dE2) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD), [Joel Wolf Alice](https://open.spotify.com/artist/5wxpDpOVxfPYTkMx8i0GFj) | [Done Hanging On \(Joel Wolf Alice Remix\)](https://open.spotify.com/album/3lSIo3Zf97kKueaCkNn5Op) | 4:45 | 2021-04-02 | 2022-04-18 |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-04-20 |  |

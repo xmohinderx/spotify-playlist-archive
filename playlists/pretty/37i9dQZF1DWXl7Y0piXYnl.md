@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,060 likes - 70 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,087 likes - 70 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 8 | [Bad Apples](https://open.spotify.com/track/22CjVpcH29cyyXljhLAPew) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 6:32 |
 | 9 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
 | 10 | [Purity \(feat\. Frank Ocean\)](https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 4:22 |
-| 11 | [Bicstan](https://open.spotify.com/track/0ijKkR37HK5zOX2hm5bOqv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:45 |
+| 11 | [Bicstan](https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 4:45 |
 | 12 | [UNTITLED](https://open.spotify.com/track/5bYFQquNKlqHPRX5gRHLOT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OFFLINE!](https://open.spotify.com/album/5k1geNqLd4yHzyg5L6XF2z) | 2:48 |
 | 13 | [advice to young girls](https://open.spotify.com/track/0ZPXrHESylcoCCy463k7YP) | [Inga Copeland](https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Because I'm Worth It](https://open.spotify.com/album/7arCHJ8lpH2X3YpeEAmJxS) | 4:48 |
 | 14 | [Shwele](https://open.spotify.com/track/49U7pqWPRT73VZE1iqv3bh) | [Rudeboyz](https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Shayo](https://open.spotify.com/artist/7Kmks7qr2g78bOMsAa8ocF) | [Shwele](https://open.spotify.com/album/2lNfSss7OrD82hvs3XQFSH) | 5:22 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 47 | [Cute Melody, Window Down!](https://open.spotify.com/track/3PzwZ3xTYTmJ1MxtxxtP4c) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Cute Melody, Window Down!](https://open.spotify.com/album/2PiqeG2uJEPkEvQfqe2vdw) | 2:42 |
 | 48 | [Carnival](https://open.spotify.com/track/77Ig83tDR2ZAJIqal5F7yC) | [Sylvere](https://open.spotify.com/artist/6Uaezuj0rByRvQHRujnBcp) | [EP1](https://open.spotify.com/album/2qaz2A2g7Mt4xXos3bpKGI) | 4:14 |
 | 49 | [Everyday Together](https://open.spotify.com/track/7l35ZnElEUYGxNas8nm70K) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [The Last Illusion](https://open.spotify.com/album/0rKy3fohrZCVezzJKoWwlq) | 4:06 |
-| 50 | [Relay \- Skee Mask Remix](https://open.spotify.com/track/6gjZSzhvquIxLlGvU1BdS8) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Relay](https://open.spotify.com/album/56EaBbe1nuA5GNfn8i68O5) | 4:32 |
+| 50 | [Relay \- Skee Mask Remix](https://open.spotify.com/track/4ikfcc5EYybZY39xeNWUvf) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Relay](https://open.spotify.com/album/74jitxMf3QWFAKAobKJBcp) | 4:32 |
 | 51 | [Coffee Time!](https://open.spotify.com/track/4BxeHP8DMn616l32EkF3xj) | [DJ Pitch](https://open.spotify.com/artist/6gnPiTUdUPttmm5N8j7Rvy) | [Scared](https://open.spotify.com/album/7MDD5VtcGPg9Sm9rhDESPM) | 4:25 |
 | 52 | [Everything Falls Into Place](https://open.spotify.com/track/5Jb5NfKOd5iEtEJE0h0jLz) | [MMM \(Errorsmith & Fiedel\)](https://open.spotify.com/artist/0vOdhUEjmrG3rAlJ3S96mf) | [On the Edge](https://open.spotify.com/album/1sEzTsgFdyVzYFe7Mknotx) | 5:41 |
 | 53 | [Acid Tempo](https://open.spotify.com/track/3Rl5Oubs6rlbCh9Ujatl9t) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Acid Tempo](https://open.spotify.com/album/4kGyT2K162y9KWh95pLYc8) | 3:22 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 67 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/60VjArH5XWBvpahor9I7RF) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 4:37 |
 | 68 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
 | 69 | [DOLO 20](https://open.spotify.com/track/6HDGvWWRuVroFCyhuIp5b3) | [Dolo Percussion](https://open.spotify.com/artist/5FqcBM8zqtOBgofGNm2Ij9) | [DOLO 5](https://open.spotify.com/album/3Fxr8l876K9G5PKslxDEy5) | 4:22 |
-| 70 | [The Wolf, The Sheep & The Door](https://open.spotify.com/track/6tKC4JNF0dhp9m2zRJRhLp) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Skimskitta](https://open.spotify.com/album/5kACGQbTuUZZyNHl87iK4p) | 6:08 |
+| 70 | [The Wolf, The Sheep & The Door](https://open.spotify.com/track/3bsC4y8Hm3gj42IcQyrIQC) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Skimskitta](https://open.spotify.com/album/3dc0FKluEumjs3EyGWHEKE) | 6:08 |
 
-Snapshot ID: `MTY3NDIxMTI2OCwwMDAwMDAwMDBiMzZhZDY2NDYxMzgwYzEwYWQyNDBlMTkzNWI3NWY5`
+Snapshot ID: `MTY3NDIxMTI2OCwwMDAwMDAwMDBlNzJlM2IzM2E0MGMwN2UyYWVmMjljMzc5MGFlMTk2`

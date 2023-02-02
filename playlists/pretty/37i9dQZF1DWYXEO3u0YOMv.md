@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,018 likes - 115 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,204 likes - 115 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 84 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 85 | [大河よ共に泣いてくれ](https://open.spotify.com/track/4DutefDeVcpLpBKvKwENgO) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [大河よ共に泣いてくれ/Nope!!!!!](https://open.spotify.com/album/2X8cBRtpqSEjjPrL4QH2Ez) | 3:28 |
 | 86 | [夢を手に、戻れる場所もない日々を](https://open.spotify.com/track/5ETlRU6U6BloJC8MKHymMI) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [夢を手に、戻れる場所もない日々を/風の強い日は嫌いか?](https://open.spotify.com/album/1RXA7cmrytXDKr77WMAYl8) | 4:16 |
-| 87 | [Black Gold](https://open.spotify.com/track/7Bhs5TjC7FouUwrKVBdSpW) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:35 |
-| 88 | [Between Memories](https://open.spotify.com/track/6bul16twi3rYztQtfSl9Er) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:45 |
+| 87 | [Black Gold](https://open.spotify.com/track/1TVEhev5VxW1tdP1TVEvdT) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 1:35 |
+| 88 | [Between Memories](https://open.spotify.com/track/4bvKIDFJEIif2HM3U8eQhc) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 1:45 |
 | 89 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 |
 | 90 | [壊れた世界の秒針は](https://open.spotify.com/track/3mk2DU7yhSX7vhDsjaxitU) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/4qiN7pyaU1aeVdf7lnm3Ln) | 5:15 |
 | 91 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 114 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 |
 | 115 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 |
 
-Snapshot ID: `MTY3Mzk2NzYwMCwwMDAwMDAwMGY2MDUzNTVlYjBlYTdmY2U4ZGIzMzdlZDM0ZjgyMGNk`
+Snapshot ID: `MTY3Mzk2NzYwMCwwMDAwMDAwMDU0ZjhmMGY0MGExODI1ZDgwZDI5OTg2ZjZiNDU2MTcz`

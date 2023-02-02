@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-266 songs - 15 hr 49 min
+267 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [common sense](https://open.spotify.com/track/2hypebb8hlTmlR011pxf7k) | [d.r.w.s.](https://open.spotify.com/artist/1M7hE1Aey8aOROKiJg847K), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [common sense](https://open.spotify.com/album/0dsFIldaIJMwx0eGeXE7N2) | 3:34 | 2021-02-19 | 2022-01-29 |
 | [Crazy](https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG) | [Grayson DeWolfe](https://open.spotify.com/artist/3ivAmma9JLS0z6LKXgYH5f) | [Crazy](https://open.spotify.com/album/1pUiPTJBjPu1EX2wtVrikB) | 3:03 | 2022-10-28 |  |
 | [Crisis](https://open.spotify.com/track/6kDUK6LFD04adKc2ol3Cve) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Crisis](https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI) | 4:17 | 2022-04-15 | 2022-10-01 |
-| [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 |  |
+| [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 | 2023-02-02 |
 | [Dance](https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U) | [Numb Tongues](https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7), [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Dance](https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06) | 4:25 | 2022-05-13 | 2022-07-16 |
 | [Dancing Through the Night](https://open.spotify.com/track/3dcqOn4XpWWTsvaSrTTvhl) | [Vlade Kay](https://open.spotify.com/artist/1yDN7vHPBnAbYFpS25DTWV) | [Dancing Through the Night](https://open.spotify.com/album/28FcNigpOpZjXqhbWW4A0N) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
@@ -193,6 +193,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 |  |
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-03-04 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/0Kbf68ffqkVcoZXPqVpD9j) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Pursuit of Happiness](https://open.spotify.com/album/5Sz85muMZBfGGF07GzQkAn) | 4:17 | 2021-06-18 | 2022-01-29 |
+| [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 | 2023-02-01 |  |
 | [Reachin' Up](https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Marcus Farrar](https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq) | [Reachin' Up](https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO) | 4:29 | 2022-03-04 |  |
 | [Ready for Me](https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Anjelika 'Jelly' Joseph](https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX) | [Ready for Me](https://open.spotify.com/album/5rauKXDJu5w56SFFoW2Fm7) | 3:05 | 2023-01-13 |  |
 | [Recipe](https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E) | [Recipe](https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz) | 3:02 | 2022-03-11 |  |

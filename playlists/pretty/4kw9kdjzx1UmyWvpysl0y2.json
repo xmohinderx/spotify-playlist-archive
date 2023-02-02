@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127131,
+  "num_followers": 127135,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk1MSxmODM2MjY4NjZkOGZhOGY2OTZkZjhiNmJkOTJmYjk5NmE0ZDE2NDA1",
+  "snapshot_id": "Mzk1NCwyZGM0N2Q1YWU2MmZmNzU2MGViM2Q1YjQ0YmMyNjc1ZjRmZWE3MDA1",
   "tracks": [
+    {
+      "added_at": "2023-02-01 20:19:03",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I"
+      },
+      "artists": [
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        },
+        {
+          "name": "Tarjei Bjermeland",
+          "url": "https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx"
+        }
+      ],
+      "duration_ms": 232125,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i"
+    },
     {
       "added_at": "2023-01-31 21:55:03",
       "album": {
@@ -1119,26 +1139,6 @@
       "duration_ms": 202000,
       "name": "Malva",
       "url": "https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Malva",
-        "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
-      },
-      "artists": [
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        },
-        {
-          "name": "Etza",
-          "url": "https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Cyan",
-      "url": "https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

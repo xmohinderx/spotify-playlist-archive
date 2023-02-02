@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-190 songs - 15 hr 8 min
+191 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Marmara Beach II](https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Multi Natural](https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh) | 1:18 | 2022-03-30 | 2023-01-28 |
 | [Marrakesh with a Hint of the Sea \(Ambient Cello\)](https://open.spotify.com/track/4SbM9lxA56daZ23t1f0mJ5) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Ambient Cabin Sessions](https://open.spotify.com/album/6SvVbc2gGHiC9a4XmkojAZ) | 3:52 | 2023-01-20 |  |
 | [Melt](https://open.spotify.com/track/7FHrGr96veyiK4WtdohNTv) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 4:22 | 2022-05-18 |  |
+| [Minami](https://open.spotify.com/track/3JTNLPLZV4uB8cOSsFRoXl) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Minami](https://open.spotify.com/album/4rQO9aY0tHRfdCHu5K93wX) | 4:41 | 2023-02-02 |  |
 | [Miocene](https://open.spotify.com/track/0aPnmWMriv7aORMdc0PQQI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Kasper Bjørke Quartet: Miocene](https://open.spotify.com/album/5vwrG91MohIuhJGNgU3EUk) | 11:44 | 2022-09-12 |  |
 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 | 2022-03-17 | 2023-01-07 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2022-03-17 | 2022-09-13 |
@@ -159,7 +160,7 @@
 | [Station Eleven](https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 3:23 | 2022-05-06 |  |
 | [Stay](https://open.spotify.com/track/53iV2DuzwR68Rj4uoxTehG) | [Tobias Karlehag](https://open.spotify.com/artist/4KYmWSInEJtjY7enJBcaDj) | [Process](https://open.spotify.com/album/0DjXpY7UWQCQZsVdQKiyaG) | 7:43 | 2022-03-17 | 2022-07-29 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2022-03-17 |  |
-| [Suminoe](https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Suminoe / Sobo](https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST) | 3:06 | 2022-05-18 |  |
+| [Suminoe](https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Suminoe / Sobo](https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST) | 3:06 | 2022-05-18 | 2023-02-02 |
 | [Surfacing](https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j) | [Origin ST](https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9) | [Surfacing](https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo) | 6:13 | 2022-05-18 |  |
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 | 2023-01-07 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |

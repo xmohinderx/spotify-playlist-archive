@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lowswimmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,547 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,555 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 17 | [Tell Him I Miss Him](https://open.spotify.com/track/5QGNNWXKQjjdgqM3leFKBt) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Tell Him I Miss Him](https://open.spotify.com/album/1noGVAVcjDz9xJuvY501bF) | 3:43 |
 | 18 | [Driving Just to Drive](https://open.spotify.com/track/7d2YvZlMNxmauKBGvgsfOw) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just to Drive](https://open.spotify.com/album/0hbuoLh0dHGbQKmQn4UZO6) | 3:32 |
 | 19 | [The Natural](https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [The Natural](https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy) | 3:50 |
-| 20 | [Tell Me](https://open.spotify.com/track/4kjL7Ursg2FrAdibLmCdyD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Tell Me](https://open.spotify.com/album/6jgUjBarubbVPkGANXchac) | 3:21 |
+| 20 | [Tell Me](https://open.spotify.com/track/17U1gmd84CyCqDzj0y2101) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 3:21 |
 | 21 | [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 |
 | 22 | [Sail On By](https://open.spotify.com/track/1fSdmIgkLD4zsy21GfRCrU) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Sail On By](https://open.spotify.com/album/5bQijZP9zcvjh7Ef0JO4hO) | 3:23 |
 | 23 | [First Light](https://open.spotify.com/track/6R61u47uaYnWrHu8OBKyZx) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps), [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [First Light](https://open.spotify.com/album/0WoFpsBhfUZ0XzVogStjqC) | 3:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Lost Myself](https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost Myself](https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0) | 3:34 |
 | 150 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGYwYzAzZDAzNjhiZmMyNWYzMDdlOGFiMWNkMGY3ZmU4`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDVkZGEwZjgzNTA2NzNjNWMyYWJhZTM5MzM2OWI4N2I5`

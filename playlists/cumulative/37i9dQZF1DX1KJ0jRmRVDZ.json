@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/3oNZjiOyaKyZpkuw7fCIMm"
+      },
+      "artists": [
+        {
+          "name": "Gluttony",
+          "url": "https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186170,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/1srvh4CsWfbCSw4wSPiAC9"
+    },
+    {
+      "album": {
         "name": "FightSong",
         "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
       },
@@ -6748,7 +6766,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 186170,
       "name": "\u30d5\u30a1\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/1HpLRKbRNAaSHZ2fkQmb8R"

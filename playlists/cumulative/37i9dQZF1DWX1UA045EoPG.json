@@ -512,6 +512,28 @@
     {
       "album": {
         "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5k15DlgvkLscvA2Ym9EqqT"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "Miquela",
+          "url": "https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146972,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/2ronhbN9odAFiKjVlyLNOE"
+    },
+    {
+      "album": {
+        "name": "Hate Me",
         "url": "https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA"
       },
       "artists": [
@@ -526,7 +548,7 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 146972,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP"

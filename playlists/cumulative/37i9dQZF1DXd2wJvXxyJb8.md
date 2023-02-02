@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> ja se hidratou hje more? pois va logo
+> gente a sexta\-feira eh daqui qntos anos alguem sabe
 
 210 songs - 9 hr 36 min
 

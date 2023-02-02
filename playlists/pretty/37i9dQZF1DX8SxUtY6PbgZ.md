@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,036 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,159 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 48 | [The Lord's Prayer](https://open.spotify.com/track/6W7YVL1bxpEyenjYIQSc0a) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Prisoners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MdxtYNgZJiZMegeZ3Qe1U) | 2:31 |
 | 49 | [The Alien](https://open.spotify.com/track/3M0YZKONqBRpxPMDTKA1WP) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 12:03 |
 | 50 | [Is That What Everybody Wants](https://open.spotify.com/track/3ZohDI0H3LUGKg43A5ne9f) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:48 |
-| 51 | [Back To Belgrade](https://open.spotify.com/track/6cF3vVSEmD9MvXvQgG1xf2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 3:39 |
+| 51 | [Back To Belgrade](https://open.spotify.com/track/5y7bCDAzB0rnTs7HJtdv75) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 3:39 |
 | 52 | [Ship In A Bottle \- From "The Lovely Bones"](https://open.spotify.com/track/2EUGYW7MBK972Q9qEvyx3N) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 2:40 |
 | 53 | [Imagining Buffalo](https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:39 |
 | 54 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 70 | [What Have We Done to Each Other?](https://open.spotify.com/track/4MZ5bInx0P1oZXbU8QPVeN) | [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [Gone Girl \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/3RP0tRQ51HVC57O8q9jCw2) | 2:30 |
 | 71 | [As if It Would Have a Universal and Memorable Ending](https://open.spotify.com/track/4OE9cWZn8m5e2ivQ9JIyAM) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 1:41 |
 | 72 | [Love](https://open.spotify.com/track/5XIROml6NGQvRdDiEQ7Hy7) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 5:10 |
-| 73 | [Open Foe](https://open.spotify.com/track/115o25eNWvQv8k3zvadRBc) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:08 |
+| 73 | [Open Foe](https://open.spotify.com/track/2MQl9KSDTXUYy2FiKm11XI) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:08 |
 | 74 | [Final Dream](https://open.spotify.com/track/7HQiwzEofWBjL2V1WLbi1H) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 1:24 |
 | 75 | [Desert Music](https://open.spotify.com/track/03RruqL6P3illbLLitAKnB) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Sicario \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04FRFSqcTfN9zfmFfzhbHn) | 5:07 |
 | 76 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 79 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 |
 | 80 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 |
 
-Snapshot ID: `MTY3NDgzNjg0NSwwMDAwMDAwMGE0OGQ5ODk1MTgwYmZmNDk2Y2I1ZWFjOGM3YWVlOGVm`
+Snapshot ID: `MTY3NDgzNjg0NSwwMDAwMDAwMDk5YmY3MjVjNjEwYzZiZGEyYWMxOTE5NTczNzAyMjZi`

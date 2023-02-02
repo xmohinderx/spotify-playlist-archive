@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-209 songs - 16 hr 35 min
+211 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 | 2022-02-25 | 2022-08-25 |
 | [Brick Figures](https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Brick Figures](https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA) | 3:00 | 2022-01-21 | 2022-03-18 |
 | [BUD](https://open.spotify.com/track/61PfhJNup3uF1msSd1US69) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [BUD](https://open.spotify.com/album/62E3FuXeBjp5e8bfvRf4xT) | 3:56 | 2021-10-15 | 2022-01-22 |
-| [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 |  |
+| [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2023-02-02 |
+| [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 |  |
 | [Canone Infinito](https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito](https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC) | 4:59 | 2021-10-15 | 2022-02-10 |
 | [Central Airport](https://open.spotify.com/track/2Lpy9IYrfMlWjWkugU2gdJ) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 3:38 | 2021-10-15 | 2022-01-20 |
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-06-08 | 2022-07-16 |
@@ -168,7 +169,8 @@
 | [Space 3](https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 3](https://open.spotify.com/album/4Z5hSkWEc9MuQUZ0HArRij) | 1:15 | 2021-10-15 | 2022-02-10 |
 | [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 | 2022-03-03 | 2022-09-28 |
 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2022-01-12 | 2022-07-09 |
-| [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 | 2022-03-11 |  |
+| [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/3IdJryu6er21ItpGwZtl3R) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/7cIG9K4xeMOyVvERgvXp7p) | 5:33 | 2022-03-11 |  |
+| [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 | 2022-03-11 | 2023-02-02 |
 | [Stirling Bridge \- DJ Dairy & DJ Orient \(black midi\) Remix](https://open.spotify.com/track/4RePVG6qQVvl2nIyPrhtYx) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA), [DJ Dairy](https://open.spotify.com/artist/1nvsLtEJECKpOfyqBXjLs8), [DJ Orient](https://open.spotify.com/artist/4SH7ll7VUPHf5QMCeNPMkv) | [Stirling Bridge \[DJ Dairy & DJ Orient \(black midi\) Remix\]](https://open.spotify.com/album/1XIVUXpnRBfge9QR9TEq6p) | 5:17 | 2021-10-15 | 2022-02-10 |
 | [Stories](https://open.spotify.com/track/5BnLFmaAm7DqeXrZy1n8Jp) | [Herzeloyde](https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC) | [Stories](https://open.spotify.com/album/2flgQXTTijtmFYYNM6FsSm) | 3:17 | 2021-10-15 | 2022-01-20 |
 | [Subscribe](https://open.spotify.com/track/2iUIHIZabSIdYFj8A17cuQ) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Subscribe](https://open.spotify.com/album/42p5J7pRDkQeW7lScyubyU) | 4:37 | 2022-02-14 | 2022-09-01 |

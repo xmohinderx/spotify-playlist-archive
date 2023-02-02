@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-108 songs - 7 hr 40 min
+109 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/34KpbxsYhTMt4N3HS34mb9) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [INVOKE \-インヴォーク\-](https://open.spotify.com/album/6EeRL1rcAcfBST5dbAQOYQ) | 4:20 | 2021-09-14 | 2022-07-29 |
 | [Iteza Gogo Kuji Don't be late](https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV) | [Sheryl Nome starring May'n](https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC) | [MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late](https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq) | 5:43 | 2022-07-06 |  |
 | [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 | 2021-09-14 |  |
+| [Kerot! to March](https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH) | [Nobuaki Kakuda](https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx), [Juri Ihata](https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK) | ["SERGEANT KERORO" KERORO Songs](https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY) | 3:11 | 2022-07-06 |  |
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-07-06 |  |
 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 | 2021-09-14 |  |
 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 | 2021-09-14 |  |
@@ -70,7 +71,7 @@
 | [ウンディーネ](https://open.spotify.com/track/41EFjyvs5g7Ga3ii1kE2aa) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [『ARIA The ANIMATION』オープニングテーマ「ウンディーネ」](https://open.spotify.com/album/6wiX5nusCOYJ446P01ExbW) | 5:45 | 2021-09-14 | 2022-07-07 |
 | [ガーネット](https://open.spotify.com/track/7etsVowEGYPw06BrolziZ2) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [ガーネット](https://open.spotify.com/album/14rIFa6gMqFVEF7vw0OhWT) | 5:19 | 2021-09-14 | 2022-07-29 |
 | [グロリアス マインド](https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [グロリアス マインド](https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5) | 4:39 | 2021-09-14 |  |
-| [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 | 2021-09-14 |  |
+| [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 | 2021-09-14 | 2023-02-02 |
 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 | 2022-07-06 |  |
 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 | 2021-09-14 |  |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2022-07-06 |  |

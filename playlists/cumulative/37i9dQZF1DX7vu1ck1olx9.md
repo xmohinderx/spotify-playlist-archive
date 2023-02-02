@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-150 songs - 6 hr 12 min
+151 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [night walk](https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:09 | 2020-11-12 |  |
 | [night.owls](https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [night.owls](https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR) | 2:43 | 2022-04-01 | 2022-07-25 |
 | [Night.Owls](https://open.spotify.com/track/6cNfp0BOhhlETMpN7pBsXY) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [Night.Owls](https://open.spotify.com/album/4wHuyp7aHvQvmRDKBhTveN) | 2:43 | 2021-10-22 | 2022-07-29 |
-| [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 |  |
+| [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 | 2023-02-02 |
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 |  |
 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 | 2022-11-21 |
 | [Nuz An Tara](https://open.spotify.com/track/7rwsFWNQmvPk7GovBbSE9U) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/3AjEgD7OL43XaoqnGFrP9z) | 2:12 | 2020-11-12 | 2022-07-27 |
@@ -131,6 +131,7 @@
 | [Soul Finding](https://open.spotify.com/track/27fX7qVg3MCQ6DEqgB4Rro) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Soul Finding](https://open.spotify.com/album/5ryb80Ksf3SBCw4OzA5Pun) | 1:41 | 2020-11-12 | 2022-07-29 |
 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 | 2022-07-08 |  |
 | [Spirited](https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo) | [Ninjoi.](https://open.spotify.com/artist/5L2CHkxMyK5JxdWzjKcI6K) | [Benkyou](https://open.spotify.com/album/2RBCfGDmRd88hyRBwNBQ6c) | 2:19 | 2020-11-12 |  |
+| [Spirits](https://open.spotify.com/track/0bHMYI8BEs739S51ZrZ6yy) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/2QB4GAeIBuGkxUNnUQQNBU) | 2:24 | 2021-10-29 |  |
 | [Spirits](https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/67J6mvJgOvaRxRL4x8mQQa) | 2:24 | 2021-10-29 | 2022-11-20 |
 | [Springman](https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Homewards](https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk) | 3:39 | 2020-11-12 |  |
 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 | 2020-11-12 | 2022-07-29 |

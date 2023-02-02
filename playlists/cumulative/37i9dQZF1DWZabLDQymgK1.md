@@ -2,7 +2,7 @@
 
 ### [PRIDE: Homoelectric](https://open.spotify.com/playlist/37i9dQZF1DWZabLDQymgK1)
 
-> <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
+> Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
 67 songs - 6 hr 13 min
 

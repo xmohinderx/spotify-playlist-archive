@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 704530,
+  "num_followers": 704512,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5OTY3NSwwMDAwMDAwMGQ5YmI4MThhZDcwM2Y4N2MxM2VjMWI2MmExMjhjNjY5",
+  "snapshot_id": "MTY3NTA5OTY3NSwwMDAwMDAwMGY3ZTI0ZDJjMDBkODQ1NDdhNWY1NTdkNmIxYzIyNTFl",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -902,10 +902,6 @@
         {
           "name": "Papa Roach",
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "Erica Silva",
-          "url": "https://open.spotify.com/artist/066c3V7XvJ8jAAfAY8QgcE"
         }
       ],
       "duration_ms": 209664,
@@ -1145,6 +1141,22 @@
       "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
+      "added_at": "2023-02-02 01:08:26",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 264973,
+      "name": "ROCKOPHOBIA",
+      "url": "https://open.spotify.com/track/09RlKT4zUZHNJ6WJPGHJdp"
+    },
+    {
       "added_at": "2023-01-27 03:01:00",
       "album": {
         "name": "Kingdom",
@@ -1175,22 +1187,6 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
-    },
-    {
-      "added_at": "2023-02-01 00:47:11",
-      "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 264973,
-      "name": "ROCKOPHOBIA",
-      "url": "https://open.spotify.com/track/09RlKT4zUZHNJ6WJPGHJdp"
     },
     {
       "added_at": "2023-01-27 03:01:00",

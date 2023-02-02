@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in cover still charles ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,955 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,972 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 30 | [AMAREGGIANTE](https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [AMAREGGIANTE](https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s) | 2:10 |
 | 31 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 32 | [WALE RMX](https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [WALE RMX](https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks) | 3:03 |
-| 33 | [TURURU](https://open.spotify.com/track/1Cplk5KJqSz1Dbdb5tf52m) | [Noise](https://open.spotify.com/artist/6D4EJfLuwDV686lAIvGvdR), [WEZ](https://open.spotify.com/artist/4vyMNshKeFNpOJSQViqjAi), [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d) | [TURURU](https://open.spotify.com/album/1E8cxCZBcWS79wkEy4YweA) | 2:44 |
+| 33 | [TURURU](https://open.spotify.com/track/1Cplk5KJqSz1Dbdb5tf52m) | [WEZ](https://open.spotify.com/artist/4vyMNshKeFNpOJSQViqjAi), [Noise](https://open.spotify.com/artist/6D4EJfLuwDV686lAIvGvdR), [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d) | [TURURU](https://open.spotify.com/album/1E8cxCZBcWS79wkEy4YweA) | 2:44 |
 | 34 | [DUEMILADUE](https://open.spotify.com/track/2Gus1ytU3SbxiXoMu60cfa) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [DUEMILADUE](https://open.spotify.com/album/4vDxZ4y2OsrKbr4LMebir7) | 3:40 |
 | 35 | [Sex blues](https://open.spotify.com/track/2mhu9zLZgoZDhMqRpbTDKf) | [Fløp](https://open.spotify.com/artist/5uZYeE6PTZA34eEK445waM) | [Sex blues](https://open.spotify.com/album/7w0AI2BVNCKLPBowrnmCzz) | 2:29 |
 | 36 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 |

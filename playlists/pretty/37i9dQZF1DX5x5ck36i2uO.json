@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYxMDAxNiwwMDAwMDAwMGJlYTgwZDMzNTU5ZDQyZjI0MWZlMmM3ZGQ5YmI0MmRl",
+  "snapshot_id": "MTY3NDYxMDAxNiwwMDAwMDAwMDE3NzJhMDQwM2U0NjRjNTcyMGRjYmFjMGViMGMyM2Qx",
   "tracks": [
     {
       "added_at": "2023-01-25 01:26:56",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "good1ife",
+        "url": "https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi"
+      },
+      "artists": [
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "good1ife",
+      "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "good1ife",
-        "url": "https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi"
-      },
-      "artists": [
-        {
-          "name": "J'Kyun",
-          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
-        },
-        {
-          "name": "Marco",
-          "url": "https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "good1ife",
-      "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 193494,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 223402,
       "name": "Dali, Van, Picasso",
       "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 193494,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -291,6 +291,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "24:26 (5th Anniversary Remaster Edition)",
+        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 271508,
+      "name": "Nike Shoes",
+      "url": "https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "BASS",
         "url": "https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4"
       },
@@ -311,22 +331,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "af",
-        "url": "https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "a fence",
-      "url": "https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "u n u, Pt. 1",
         "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
       },
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "24:26 (5th Anniversary Remaster Edition)",
-        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
+        "name": "af",
+        "url": "https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8"
       },
       "artists": [
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 271508,
-      "name": "Nike Shoes",
-      "url": "https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1"
+      "duration_ms": 207751,
+      "name": "a fence",
+      "url": "https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "TRAVEL: NOAH",
+        "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        }
+      ],
+      "duration_ms": 215857,
+      "name": "GOOD NIGHT",
+      "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "GOOD GIRL Episode 3",
         "url": "https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 220429,
       "name": "Money Serenade (Feat. Wonstein & Kim Seung Min)",
       "url": "https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "TRAVEL: NOAH",
-        "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "B-Free",
-          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
-        }
-      ],
-      "duration_ms": 215857,
-      "name": "GOOD NIGHT",
-      "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
     },
     {
       "added_at": "2023-01-25 01:26:56",

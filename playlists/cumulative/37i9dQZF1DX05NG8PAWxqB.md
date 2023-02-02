@@ -4,7 +4,7 @@
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-212 songs - 17 hr 19 min
+213 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cider '83\~君は天然色 \(NIAGARA CONCERT '83 LIVE\)](https://open.spotify.com/track/4E52CAKGBFnt8eggVCq61f) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA CONCERT '83](https://open.spotify.com/album/7DRG6E4AOdFfv771vqxnjJ) | 5:31 | 2023-01-31 |  |
 | [Comfortably Numb \- Live](https://open.spotify.com/track/2ELFNW358ybLF1iZRpKYxi) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Delicate Sound of Thunder \(Live\)](https://open.spotify.com/album/4Iy1JP7YE0d256eCwn3VJA) | 8:56 | 2023-01-31 |  |
 | [Crazy In Love \- Live](https://open.spotify.com/track/1DJfcWfj5dSIzksFpnRr3S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I Am...World Tour](https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ) | 5:23 | 2023-01-31 |  |
-| [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/track/4twUahsu54C5fJtw6Nosae) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/album/5NnRYaIvJaZuHCDq9WOszk) | 5:47 | 2023-01-31 |  |
+| [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/track/26mCF1vXGCekAAUS7rkats) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal) | 5:47 | 2023-01-31 |  |
+| [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/track/4twUahsu54C5fJtw6Nosae) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/album/5NnRYaIvJaZuHCDq9WOszk) | 5:47 | 2023-01-31 | 2023-02-02 |
 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 | 2023-01-31 |  |
 | [DDU\-DU DDU\-DU \- JP Ver./ BLACKPINK 2019\-2020 WORLD TOUR IN YOUR AREA \-TOKYO DOME\-](https://open.spotify.com/track/7fqjqOu4HKTN2yP6aV8lpQ) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2019\-2020 WORLD TOUR IN YOUR AREA \-TOKYO DOME\- \(Live\)](https://open.spotify.com/album/7J4ASJD3IvdANlrPkmeVP0) | 3:27 | 2023-01-31 |  |
 | [Do I Wanna Know? \- Live](https://open.spotify.com/track/5zDoSmh06F7kjXGIHFhQzh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Live at the Royal Albert Hall](https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE) | 4:41 | 2023-01-31 |  |

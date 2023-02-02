@@ -1326,7 +1326,7 @@
     {
       "album": {
         "name": "Stillness In Wonderland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
       },
       "artists": [
         {
@@ -1337,6 +1337,24 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271438,
+      "name": "Out of sight (yhyh)",
+      "url": "https://open.spotify.com/track/06O9C9qkFu8p1502wikEPb"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 271438,
       "name": "Out of sight (yhyh)",
       "url": "https://open.spotify.com/track/0CJgUhLHQuzHQnegA77DPr"
@@ -1648,10 +1666,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213600,
       "name": "Square 1",
       "url": "https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF"
+    },
+    {
+      "album": {
+        "name": "Mmm Mmm / Square 1",
+        "url": "https://open.spotify.com/album/3m9vBldCC2uiLx03aTkBto"
+      },
+      "artists": [
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Square 1",
+      "url": "https://open.spotify.com/track/2W84dAf6uRUEdLN1YkQ4gg"
     },
     {
       "album": {

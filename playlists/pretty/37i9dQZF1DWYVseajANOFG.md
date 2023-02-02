@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Jorkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,191 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,246 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 15 | [CASA VERDE](https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [CASA VERDE](https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R) | 4:06 |
 | 16 | [Latex y Friccion](https://open.spotify.com/track/3mzropYMJX2JL4qVts4BQi) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Tobe Love](https://open.spotify.com/artist/0ly0DLYQGEwWTIvWwU6Jxs), [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V) | [Ninus: Nothing Is New Under Sun](https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5) | 3:50 |
 | 17 | [Por Ley](https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [EL ZETA](https://open.spotify.com/artist/5DF0mdf3uHRV1ojnyVFuo4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Por Ley](https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD) | 4:11 |
-| 18 | [XOXO](https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F) | 4:35 |
+| 18 | [XOXO \(Piso 33\)](https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO \(Piso 33\)](https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F) | 4:35 |
 | 19 | [San Andrés](https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:33 |
 | 20 | [TUS FALLOS](https://open.spotify.com/track/5Hps3yUtidx9sRv9pBpp6Y) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [NOW OR NEVER](https://open.spotify.com/album/1wOulBM8dCd21Wn0WHWWcJ) | 6:24 |
 | 21 | [Nrolo \(Remix\)](https://open.spotify.com/track/7jnFMhLxOzEjnepIGwlOJc) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq) | [Nrolo \(Remix\)](https://open.spotify.com/album/4GWx3BdmEzQomjvgnHdB1A) | 3:44 |

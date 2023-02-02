@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-527 songs - 1 day 16 hr 56 min
+529 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Bye Bye Blackbird](https://open.spotify.com/track/2iGbLTqpJYeH3tMWuQ8I1z) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Bye Bye Blackbird](https://open.spotify.com/album/20amhdyesQ1J8ngfDMv6nr) | 3:07 | 2022-04-14 | 2022-09-23 |
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2022-04-14 | 2022-04-27 |
 | [Can't Help Loving](https://open.spotify.com/track/4zRweMHazlqCTUe6GvviYf) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:41 | 2022-04-14 | 2022-09-16 |
+| [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2022-06-30 | 2022-10-08 |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Canción Contra La Indecisión](https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc) | 4:12 | 2022-04-14 | 2022-07-29 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2022-04-14 | 2022-09-23 |
@@ -106,6 +107,7 @@
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 | 2022-10-08 |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-04-14 | 2022-10-08 |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-04-14 | 2022-10-08 |
+| [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/6q79ug6e5EVGmkeEuJtDQu) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 9:56 | 2022-04-14 | 2022-07-29 |
 | [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 | 2022-09-22 |
 | [Dear Old Thing](https://open.spotify.com/track/4hxj5xy0RFnMlV2gEkR3Vo) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Dear Old Thing](https://open.spotify.com/album/6tHI7rtkHvUHedrPq6xOMT) | 6:28 | 2022-04-14 | 2022-07-29 |
@@ -311,7 +313,7 @@
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2022-04-14 | 2022-07-29 |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-06-30 | 2022-09-30 |
-| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 |  |
+| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 | 2023-02-02 |
 | [My Heart Is For You](https://open.spotify.com/track/3u6fXPiITVsTNolEqapeBU) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:39 | 2022-04-14 | 2022-07-29 |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-08 |  |
 | [My Ideal](https://open.spotify.com/track/0DEnkUHQ2ORI84fIwRCJYD) | [Solomon Rogers Band](https://open.spotify.com/artist/2k7YvEJ606E7fTWeKdINv8) | [My Ideal](https://open.spotify.com/album/4XybR9h4pjJZ2GHXKlVcjb) | 4:35 | 2022-04-14 | 2022-06-09 |
@@ -389,7 +391,7 @@
 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 | 2022-04-14 | 2022-10-08 |
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-06-30 | 2022-10-08 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 |  |
-| [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-23 |  |
+| [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-23 | 2023-02-02 |
 | [Sand of Joshua](https://open.spotify.com/track/5nxwjmH5fsySx2gjMnIJOL) | [Jacob Gurevitsch](https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH) | [Sand of Joshua](https://open.spotify.com/album/0LsjlMEOI7gpOphAfxSpPt) | 4:00 | 2022-04-14 | 2022-05-14 |
 | [Sandu](https://open.spotify.com/track/6OYVeWlKICv4I70RM1yHUC) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/2BpAy5GfHM0An9M0TOprBq) | 4:57 | 2022-04-14 | 2022-05-03 |
 | [Schnitz n´Schniggles](https://open.spotify.com/track/3BoKHF4H6OG9lSWKa1Scq3) | [Jack Rosenbaum](https://open.spotify.com/artist/4FJ62CBNJrKWADUOl6pqnb) | [Schnitz n´Schniggles](https://open.spotify.com/album/1ObA1O7H3uDG6kV6CROeVw) | 3:39 | 2022-04-14 | 2022-10-08 |

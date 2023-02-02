@@ -224,10 +224,28 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 201950,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8"
+    },
+    {
+      "album": {
+        "name": "Wrestling",
+        "url": "https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201950,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/7yKodgnMF6dF737ahs1BHh"
     },
     {
       "album": {
@@ -642,7 +660,7 @@
     {
       "album": {
         "name": "More Sad Music",
-        "url": "https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX"
+        "url": "https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU"
       },
       "artists": [
         {
@@ -653,6 +671,24 @@
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Like A Knife",
+      "url": "https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN"
+    },
+    {
+      "album": {
+        "name": "More Sad Music",
+        "url": "https://open.spotify.com/album/3PbGozrGojiMRSQSjkPzGX"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 180002,
       "name": "Like A Knife",
       "url": "https://open.spotify.com/track/3TsmYjwTE7PyLAJKn2lJLN"

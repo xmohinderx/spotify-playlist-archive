@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 123970,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Pirata en bata",
+        "url": "https://open.spotify.com/album/1Z4HYHZSr4oEDOj2JipKEs"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Pirata en bata",
+      "url": "https://open.spotify.com/track/6kUQuHqTyvUd3pfI88uqel"
+    },
+    {
+      "album": {
         "name": "Plan A",
         "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
       },
@@ -4738,7 +4756,7 @@
           "url": "https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1"
         }
       ],
-      "date_added": "2023-01-26",
+      "date_added": "2023-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170706,

@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Srushti Tawade
+> Listen to Indian women, at full volume\. Cover: Nimrat Khaira
 
-166 songs - 9 hr 51 min
+167 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Shaamat](https://open.spotify.com/track/6v5SAmKr4QjRr0K2RdlPFm) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Ek Villain Returns](https://open.spotify.com/album/6DCj9zSkRhSN77UQe3J4s1) | 5:34 | 2022-11-30 | 2023-01-04 |
 | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/track/455lcFHS2MOMKcGquhAf22) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/album/6fgugUW2JZ9MYLffnmv8fB) | 5:34 | 2022-08-03 |  |
 | [Shakti](https://open.spotify.com/track/6vRxVPhDAYkjBD8YFpWGIa) | [Aditi Ramesh](https://open.spotify.com/artist/13Z3y4eMEYPatOuboc7RcF) | [Shakti](https://open.spotify.com/album/3fQaOnmHpKAcFejfC2wWJc) | 3:22 | 2021-12-10 | 2022-01-05 |
+| [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-02-01 |  |
 | [Shreaam Pagal](https://open.spotify.com/track/62cpYYBQua4OCT07FItvCR) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Shreaam Pagal](https://open.spotify.com/album/1kPmkdxQy0l7lqZAETqZLa) | 3:54 | 2022-01-04 | 2022-02-02 |
 | [Sleep Walking](https://open.spotify.com/track/1SL4efhZ3hlnoPewOmClQF) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 4:43 | 2022-09-06 |  |
 | [Sona Lagda](https://open.spotify.com/track/7pef1s876Fl3KO2LH1eSFx) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Sona Lagda](https://open.spotify.com/album/7Aahwh6SP0FaZlt0fgc6EE) | 3:15 | 2022-02-01 | 2023-01-04 |

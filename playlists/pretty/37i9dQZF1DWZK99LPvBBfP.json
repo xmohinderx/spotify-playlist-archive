@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 143324,
+  "num_followers": 143420,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDZlZjBmZWNhOWI3OGFhYjA4OWRhYTliZjhiNzQ1NDIz",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDU0OGQ5NWRiYmU1ODI5ODlhZDJkNzI0ZjVlNmU5YzA1",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "We Come 1 - Radio Edit",
-      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "We Come 1 - Radio Edit",
+      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Carboot Soul",
-        "url": "https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 380626,
-      "name": "Les Nuits",
-      "url": "https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
       },
@@ -651,26 +635,6 @@
       "duration_ms": 201453,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
-        "name": "Music Is the Answer (Part 2)",
-        "url": "https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC"
-      },
-      "artists": [
-        {
-          "name": "Celeda",
-          "url": "https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb"
-        },
-        {
-          "name": "Danny Tenaglia",
-          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
-        }
-      ],
-      "duration_ms": 849960,
-      "name": "Music Is the Answer - Original Extended 12-Inch Mix",
-      "url": "https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -691,6 +655,26 @@
       "duration_ms": 290030,
       "name": "Madan",
       "url": "https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Music Is the Answer (Part 2)",
+        "url": "https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC"
+      },
+      "artists": [
+        {
+          "name": "Celeda",
+          "url": "https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb"
+        },
+        {
+          "name": "Danny Tenaglia",
+          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
+        }
+      ],
+      "duration_ms": 849960,
+      "name": "Music Is the Answer - Original Extended 12-Inch Mix",
+      "url": "https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -859,6 +843,26 @@
       "duration_ms": 591733,
       "name": "French Kiss - The Original Underground Mix",
       "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Frank Sinatra",
+      "url": "https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP"
     }
   ],
   "unique_name": "Ibiza Classics",

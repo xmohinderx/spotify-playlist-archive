@@ -106,10 +106,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 140013,
       "name": "Behold",
       "url": "https://open.spotify.com/track/6EGELxGGOmmYJ6kOJfdX9V"
+    },
+    {
+      "album": {
+        "name": "Cry Sugar",
+        "url": "https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140013,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/6PNude8MKBcyjo0FDQjLZZ"
     },
     {
       "album": {
@@ -258,10 +276,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv"
+    },
+    {
+      "album": {
+        "name": "Satin Panthers",
+        "url": "https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Cbat",
+      "url": "https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9"
     },
     {
       "album": {
@@ -600,6 +636,28 @@
     {
       "album": {
         "name": "Lantern",
+        "url": "https://open.spotify.com/album/22VeiMAiZSWf8O968qGrYC"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Forever 1 - Cashmere Cat Remix",
+      "url": "https://open.spotify.com/track/5b7qsqmv5NIfeEQpR4SZJP"
+    },
+    {
+      "album": {
+        "name": "Lantern",
         "url": "https://open.spotify.com/album/0aWoJkfZisHfYjIRjsZOAx"
       },
       "artists": [
@@ -614,7 +672,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 195957,
       "name": "Forever 1 - Cashmere Cat Remix",
       "url": "https://open.spotify.com/track/6o9KmvPKmrlmGDBBQZFhhC"
@@ -672,10 +730,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 171136,
       "name": "Furnace Loop",
       "url": "https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I"
+    },
+    {
+      "album": {
+        "name": "Airborne Lard",
+        "url": "https://open.spotify.com/album/2lSowsMlcw74nDaNRHUgG5"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "Furnace Loop",
+      "url": "https://open.spotify.com/track/4BgmHWZcvmwh59Ch0rpdVY"
     },
     {
       "album": {
@@ -796,6 +872,24 @@
     {
       "album": {
         "name": "TNGHT",
+        "url": "https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199343,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM"
+    },
+    {
+      "album": {
+        "name": "TNGHT",
         "url": "https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65"
       },
       "artists": [
@@ -814,7 +908,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 199343,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R"
@@ -1320,6 +1414,24 @@
     {
       "album": {
         "name": "Cry Sugar",
+        "url": "https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Redeem",
+      "url": "https://open.spotify.com/track/5hRWFMYkBui3iomPaY8kyl"
+    },
+    {
+      "album": {
+        "name": "Cry Sugar",
         "url": "https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU"
       },
       "artists": [
@@ -1330,7 +1442,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 129000,
       "name": "Redeem",
       "url": "https://open.spotify.com/track/6TzwWyuztegjozOpiOpVk8"
@@ -1366,10 +1478,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 162453,
       "name": "Ryderz",
       "url": "https://open.spotify.com/track/1kTef9tFF9gRK4xd66swrG"
+    },
+    {
+      "album": {
+        "name": "Lantern",
+        "url": "https://open.spotify.com/album/22VeiMAiZSWf8O968qGrYC"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "Ryderz",
+      "url": "https://open.spotify.com/track/3C8lYDLlYUCo0chYxjhF7o"
     },
     {
       "album": {
@@ -1628,6 +1758,24 @@
     {
       "album": {
         "name": "Tums",
+        "url": "https://open.spotify.com/album/1Ycwxjo9vjfPoLHAy4Hemt"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tums",
+      "url": "https://open.spotify.com/track/3D1MBQdIBq0gn85wfOtOC9"
+    },
+    {
+      "album": {
+        "name": "Tums",
         "url": "https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7"
       },
       "artists": [
@@ -1646,7 +1794,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"

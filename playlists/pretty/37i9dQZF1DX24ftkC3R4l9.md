@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 21 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 21 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 | 5 | [VII\. Orlando: Entropy](https://open.spotify.com/track/4RwJIEJfoIVnFpi4hfhnFL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 1:32 |
 | 6 | [body](https://open.spotify.com/track/7ioA3dpnUBGyoWapMSxWnv) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 2:19 |
 | 7 | [Labyrinthine](https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 4:32 |
-| 8 | [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 |
+| 8 | [Omni Vignette](https://open.spotify.com/track/5F0Ne6CGaUYZaegGli9BYN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:18 |
 | 9 | [Plan & Elevation: IV\. The Orangery](https://open.spotify.com/track/2dMkqOH8CjJGwDcyLcNuZI) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Caroline Shaw: Orange](https://open.spotify.com/album/5d0tz2baP5WGhMzZvONcgU) | 1:57 |
 | 10 | [Infra 5 \- Orchestra Version](https://open.spotify.com/track/3FnE1RU9JCrAKhejeSPyXK) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Baltic Sea Philharmonic](https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7) | [Infra 5 \(Orchestra Version\)](https://open.spotify.com/album/3TeLT18JRSdu4dAR7TBtvn) | 5:34 |
 | 11 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 | 20 | [Violin Sonata No\. 2 in A Minor, BWV 1003: IV\. Allegro](https://open.spotify.com/track/2djkDNY0TN5C34OZvZmxHx) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Christiane Edinger](https://open.spotify.com/artist/2qn7oYvrCrKti56IQXOyLt) | [Bach: Sonatas and Partitas for Solo Violin, Vol\. 1](https://open.spotify.com/album/4Jj0A2cAFVSdYkAdhZ4Oju) | 5:08 |
 | 21 | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/track/0surAOdlCORVWoKRg2V6ef) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Gabriella Swallow](https://open.spotify.com/artist/6AwvMaVqPLCm4wOjmq2WFT) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:47 |
 
-Snapshot ID: `MTY3MzM2ODcyNiwwMDAwMDAwMDlkOGE5MjUyNDU3N2YzN2ViYzczNjlmNjI3MTE2MDUy`
+Snapshot ID: `MTY3MzM2ODcyNiwwMDAwMDAwMGFmMzk5YjdkNzRkZjBkNGM0OTRhMzYzNWYyMWY5YjMx`

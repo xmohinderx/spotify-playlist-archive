@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Parva Naturalia",
+        "url": "https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Jord\u00e3o",
+      "url": "https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2"
+    },
+    {
+      "album": {
         "name": "Jord\u00e3o",
         "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 263800,
       "name": "Jord\u00e3o",
       "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
@@ -1746,7 +1764,7 @@
     {
       "album": {
         "name": "Pillar / New Sun",
-        "url": "https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS"
+        "url": "https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg"
       },
       "artists": [
         {
@@ -1757,6 +1775,24 @@
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 585901,
+      "name": "Pillar",
+      "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
+    },
+    {
+      "album": {
+        "name": "Pillar / New Sun",
+        "url": "https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS"
+      },
+      "artists": [
+        {
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 585901,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/6vloZ2bNS9EnmOBTu3xksl"

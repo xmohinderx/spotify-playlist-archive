@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,954 likes - 666 songs - 1 day 20 hr 53 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,955 likes - 666 songs - 1 day 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 13 | [Ambulance Blues \- 2016 Remaster](https://open.spotify.com/track/4jUvuCcFjZaAIFoZMh77kW) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [On the Beach](https://open.spotify.com/album/3w5Hok05AFjCLy269xXM7e) | 8:56 |
 | 14 | [Hurdy Gurdy Man](https://open.spotify.com/track/7AL6qzIDHIX7pEUWrzNiIs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Hurdy Gurdy Man](https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz) | 3:13 |
 | 15 | [Deadweight](https://open.spotify.com/track/6gZcPNxufeLtRbznS1Odji) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 6:12 |
-| 16 | [Chest Fever \- Remastered](https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:13 |
+| 16 | [Chest Fever \- Remastered 2000](https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:13 |
 | 17 | [Custard Pie \- 1990 Remaster](https://open.spotify.com/track/5cgL1YdlGWR5KfncpAGFQk) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:13 |
 | 18 | [The Wanton Song \- 1990 Remaster](https://open.spotify.com/track/2256UUbtBrQJSrbzYpDviT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:09 |
 | 19 | [1880 Or So](https://open.spotify.com/track/5kRGLbl5wemYO1zFPjyJcz) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Television](https://open.spotify.com/album/1Da5exlBUnN4vxUInOxaKD) | 3:41 |

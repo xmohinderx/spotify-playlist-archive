@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-180 songs - 11 hr 44 min
+181 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 | 2021-10-22 | 2022-07-29 |
 | [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-10-22 | 2022-06-15 |
 | [Pallid Eyes](https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:54 | 2021-10-22 |  |
-| [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2021-10-22 |  |
+| [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2021-10-22 | 2023-02-02 |
+| [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2023-01-27 |  |
 | [Plucky](https://open.spotify.com/track/3EJWBUjdvBYuXEaqOhIapA) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [Something More Holy EP](https://open.spotify.com/album/31M4xUpeSF5KYsPTJt1lfi) | 3:14 | 2021-10-22 | 2022-06-15 |
 | [Sapphire](https://open.spotify.com/track/4Kbv92f2Ikx6i3djxiuU8T) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/6o1xiiPYHv7e8fxIpOxGDJ) | 3:11 | 2021-10-22 | 2022-11-13 |
 | [Sapphire](https://open.spotify.com/track/6GqYyrBzHkrE8PJCO6nPId) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Apastron](https://open.spotify.com/album/6C97cDlZPNtq0yl7aAcG1H) | 3:11 | 2021-10-22 |  |

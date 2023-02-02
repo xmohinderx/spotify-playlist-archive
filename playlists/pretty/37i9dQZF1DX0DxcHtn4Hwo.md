@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,550 likes - 329 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,819 likes - 329 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 57 | [When My Baby's Sleeping](https://open.spotify.com/track/6QIP1hKFisHYkvdmycNBON) | [Gretchen Andersen](https://open.spotify.com/artist/6JA3BkprYUjs2sL4u7FBpZ) | [When My Baby's Sleeping](https://open.spotify.com/album/3x4NdQq5hy6rKNw2F5IfoY) | 1:18 |
 | 58 | [I'm A Little Teapot](https://open.spotify.com/track/5XGHsneZdR6o5RIGuWRfoj) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [I'm A Little Teapot](https://open.spotify.com/album/2CB5tQ4QOHZ67YFdbU4zNd) | 1:22 |
 | 59 | [Heartfelt](https://open.spotify.com/track/7blup0be7G9rsRZZEwsCs8) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Heartfelt](https://open.spotify.com/album/7vR1GVH6SWSt7o4kpcppCA) | 4:08 |
-| 60 | [Rock A Bye Baby](https://open.spotify.com/track/2sR0CEF0OCF4JfyTOF3okw) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:54 |
+| 60 | [Rock A Bye Baby](https://open.spotify.com/track/2sR0CEF0OCF4JfyTOF3okw) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:54 |
 | 61 | [My Dreamland](https://open.spotify.com/track/7pr6Gr8kWMdn0tnC32SN8U) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [My Dreamland](https://open.spotify.com/album/75tjsimnIEVn869NRRiFpa) | 1:35 |
 | 62 | [Matilda](https://open.spotify.com/track/0hrprtdOF0GGqWsb6bSnor) | [Astrid Clark](https://open.spotify.com/artist/78H90eE8XEqkpCOOeyPDFU) | [Matilda](https://open.spotify.com/album/4tqwUgZ76gMkegGGR56rNq) | 1:43 |
 | 63 | [Sleep My Little Baby](https://open.spotify.com/track/1YDl60SzcrQ4HKUNC707ZV) | [Zack Allen](https://open.spotify.com/artist/66Lcw9CT6905ShD7NP1eNe) | [Sleep My Little Baby](https://open.spotify.com/album/3unBLJyJSoo2C4qGOOzTEP) | 1:57 |
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 191 | [Because You're You](https://open.spotify.com/track/6pHATH756uiHZzvPnUx9Q3) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Because You're You](https://open.spotify.com/album/5zlNx9QFGB3d3n9WP29IsZ) | 1:44 |
 | 192 | [Dawn of Erithrian](https://open.spotify.com/track/1x1NDDOhAz0s7AcHBADNG0) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Dawn of Erithrian](https://open.spotify.com/album/6jjQRYUcnzJnYvRvLJVa2y) | 1:33 |
 | 193 | [Kaninvisan](https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Kaninvisan](https://open.spotify.com/album/36l1v5tjtGzmUhuaHb2g4k) | 1:07 |
-| 194 | [Over The Rainbow](https://open.spotify.com/track/0z8WSsrrCRw0gxj7DxEVK8) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:36 |
-| 195 | [Good Night Sweet Heart](https://open.spotify.com/track/6NGuoiLCwktnwC62Q48vP7) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:57 |
+| 194 | [Over The Rainbow](https://open.spotify.com/track/0z8WSsrrCRw0gxj7DxEVK8) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:36 |
+| 195 | [Good Night Sweet Heart](https://open.spotify.com/track/6NGuoiLCwktnwC62Q48vP7) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:57 |
 | 196 | [In Every Single Way](https://open.spotify.com/track/0sngOPuxK8Y39dKvJ8k6Ap) | [Natalie Gillman](https://open.spotify.com/artist/6d7LO8Ouv0KFEQ3VLwdeQ1) | [In Every Single Way](https://open.spotify.com/album/50HBZFTCWhJfjdJu2YtByu) | 1:40 |
 | 197 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 |
 | 198 | [La la la la long](https://open.spotify.com/track/4YnNR9CAsHjA4kJXXBgRQI) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [La la la la long](https://open.spotify.com/album/07KU1zdxHxTzSuLrFMbVh8) | 1:06 |

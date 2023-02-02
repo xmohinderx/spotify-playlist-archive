@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: London Brew
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,956 likes - 99 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,071 likes - 99 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

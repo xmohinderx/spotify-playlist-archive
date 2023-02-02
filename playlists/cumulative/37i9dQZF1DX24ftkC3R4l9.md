@@ -4,7 +4,7 @@
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-21 songs - 1 hr 41 min
+22 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 | 2023-01-10 |  |
 | [Labyrinthine](https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 4:32 | 2023-01-10 |  |
 | [Nocturne](https://open.spotify.com/track/6ha8If4Le4JbyE9Y7cmUYg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY) | 2:13 | 2023-01-10 |  |
-| [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 | 2023-01-10 |  |
+| [Omni Vignette](https://open.spotify.com/track/5F0Ne6CGaUYZaegGli9BYN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:18 | 2023-01-10 |  |
+| [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 | 2023-01-10 | 2023-02-02 |
 | [Plan & Elevation: IV\. The Orangery](https://open.spotify.com/track/2dMkqOH8CjJGwDcyLcNuZI) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Caroline Shaw: Orange](https://open.spotify.com/album/5d0tz2baP5WGhMzZvONcgU) | 1:57 | 2023-01-10 |  |
 | [Psychogeography](https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 6:53 | 2023-01-10 |  |
 | [Reminiscence](https://open.spotify.com/track/77mcZL6Qj3hEjvqe2CJWZm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/7kCmF1EA4lIDRjPnDfkUje) | 9:28 | 2023-01-10 |  |

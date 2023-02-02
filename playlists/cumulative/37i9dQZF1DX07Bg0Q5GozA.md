@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Patrick Wolf
 
-184 songs - 14 hr 41 min
+185 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-12-15 |  |
 | [running in circles](https://open.spotify.com/track/2Nek0E8RoW0RshXtE0N3DT) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [running in circles](https://open.spotify.com/album/1wcOSl3AsZc7tXOcVgFKOy) | 3:28 | 2022-12-15 |  |
 | [Running Out Of Time](https://open.spotify.com/track/2XyDgvJov4rPwMWdihlXiZ) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Running Out Of Time](https://open.spotify.com/album/1t3C39uMHC1kGCg28PGNHQ) | 3:20 | 2022-12-15 |  |
-| [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-12-15 |  |
+| [S.O.L](https://open.spotify.com/track/0KgLSONjjoJ47ZEhN6CQSt) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 5:51 | 2023-01-26 |  |
+| [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-12-15 | 2023-02-02 |
 | [Sample Dream](https://open.spotify.com/track/4U23NtQuvgnPAjMyjQAZmj) | [Magou](https://open.spotify.com/artist/7mLU28nwACntWaOmkCd9a5) | [Dreams](https://open.spotify.com/album/2GFbQDp5TpWn1u9S7KGy2K) | 5:01 | 2022-12-30 | 2023-01-02 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-26 |  |
 | [Sans cesse, mon chéri](https://open.spotify.com/track/2Nq8gEPSjszcePWB7hS1zb) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 4:07 | 2022-12-30 | 2023-01-02 |

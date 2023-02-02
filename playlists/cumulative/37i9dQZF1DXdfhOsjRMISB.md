@@ -2,7 +2,7 @@
 
 ### [Country Drive](https://open.spotify.com/playlist/37i9dQZF1DXdfhOsjRMISB)
 
-> Country music to accompany you on the open road\. Cover: Chris Stapleton
+> Country music to accompany you on the open road\. Cover: Maren Morris
 
 310 songs - 17 hr 9 min
 

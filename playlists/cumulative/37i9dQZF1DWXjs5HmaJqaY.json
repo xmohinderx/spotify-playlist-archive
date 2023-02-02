@@ -938,10 +938,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 319266,
       "name": "LFO",
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
+    },
+    {
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi"
     },
     {
       "album": {

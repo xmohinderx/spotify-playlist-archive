@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,253 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,285 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 13 | [Vulnerability](https://open.spotify.com/track/3WwW7zKRCxXnhjC5owiul4) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [Vulnerability](https://open.spotify.com/album/0m8OxRSliGA2c4jTlaij7u) | 3:39 |
 | 14 | [Scandalous \(feat\. Tinashe\) \- GUERRO Remix](https://open.spotify.com/track/1wSnGEbGJJ5MtjiFBlYJ9D) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Scandalous \(feat\. Tinashe\) \[Remixes\]](https://open.spotify.com/album/0AILrrwUAttkpst8ABOXNK) | 2:44 |
 | 15 | [Carry Me](https://open.spotify.com/track/7IqDaao5dzKti65KBtADPz) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Carry Me](https://open.spotify.com/album/7ngJc0ffFIDazq4FOcr8PH) | 4:04 |
-| 16 | [Flex](https://open.spotify.com/track/2C5n8UavlYnI5bwEg2oN6Z) | [Weidd](https://open.spotify.com/artist/1brUyeMPhOFq9hGBPexLl2), [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Flex](https://open.spotify.com/album/5sjDZuEJwyDrlgeSqOyPeX) | 4:45 |
+| 16 | [Flex](https://open.spotify.com/track/2C5n8UavlYnI5bwEg2oN6Z) | [Weidd](https://open.spotify.com/artist/1brUyeMPhOFq9hGBPexLl2), [Christian Kuria](https://open.spotify.com/artist/7C2ffXWppiCoZrirlXfD1d), [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Flex](https://open.spotify.com/album/5sjDZuEJwyDrlgeSqOyPeX) | 4:45 |
 | 17 | [ÓMÓ LÓKPÉ](https://open.spotify.com/track/051iM0ZxuWhRgzkXt7B7sj) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT) | [ÓMÓ LÓKPÉ](https://open.spotify.com/album/1yfRFqVUn435nHQHV6JZuN) | 3:27 |
 | 18 | [flights](https://open.spotify.com/track/5FN3x2dq7ErI2hgSmNy34m) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [flights](https://open.spotify.com/album/3aGVPLwwywsTYZG1Bc9MyW) | 3:03 |
-| 19 | [Big Go](https://open.spotify.com/track/4Cs5m7OqhJtNMd7VrLw1bl) | [Viinott](https://open.spotify.com/artist/5skF7v4RjtjsrPbS3erAtW), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Big Go](https://open.spotify.com/album/7pDf7vt7pqMIpk7VtqZCtu) | 2:35 |
+| 19 | [Big Go](https://open.spotify.com/track/4Cs5m7OqhJtNMd7VrLw1bl) | [Viinott](https://open.spotify.com/artist/5skF7v4RjtjsrPbS3erAtW), [Kelela](https://open.spotify.com/artist/0jZfHmrbhSo83Vegu7wscN), [Syd](https://open.spotify.com/artist/23we4ct2Ih6nw0xOt2pVxp) | [Big Go](https://open.spotify.com/album/7pDf7vt7pqMIpk7VtqZCtu) | 2:35 |
 | 20 | [Take Him Home](https://open.spotify.com/track/6jWH18pNohBSSlAfXzrT7p) | [Queen Foreigner](https://open.spotify.com/artist/1UEEbEDiKQHt7IALvdHn18) | [Take Him Home](https://open.spotify.com/album/0yAnv9OXblVsXzI7X99Mtt) | 2:56 |
 | 21 | [I Don't Mean](https://open.spotify.com/track/1M25T7ROXQUulWjvzRgCB1) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO) | [Free 03](https://open.spotify.com/album/2UfVYQnUerGa6XhbJYlaWS) | 2:09 |
 | 22 | [Dark Clouds](https://open.spotify.com/track/07MPIaBQEOQsSiqAt9BOz7) | [Coot Corleone](https://open.spotify.com/artist/1Vh6MAxEaUJusA1hwzrLhm) | [Still Unnoticed](https://open.spotify.com/album/5LSzc3hQMf9ojTFhHrNnF2) | 2:03 |

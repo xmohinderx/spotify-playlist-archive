@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-36 songs - 2 hr 2 min
+38 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,8 @@
 | [Looking at you \- Instrumental](https://open.spotify.com/track/38CYBZyDjMhgWaafvirGzC) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 | 2023-01-13 |  |
 | [Love Song \(The Interest of Love Opening title\)](https://open.spotify.com/track/5unTkQtaZeOoACgASGCnBV) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:48 | 2023-01-13 |  |
 | [Love Song \(The Interest of Love Opening title\) \- Instrumental](https://open.spotify.com/track/3YC9rCTOSZRpdfA6Z15vp1) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:48 | 2023-01-13 |  |
+| [Miracle](https://open.spotify.com/track/7JESDGry6nSUKKCiBzHfWP) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [The Interest of Love \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2mT5nSexIVqGxhzxts4Wza) | 4:23 | 2023-02-01 |  |
+| [Miracle \- Instrumental](https://open.spotify.com/track/6NLNDvsrFTIi3IpNylBBae) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [The Interest of Love \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2mT5nSexIVqGxhzxts4Wza) | 4:23 | 2023-02-01 |  |
 | [My Move](https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [My Move](https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH) | 3:40 | 2023-01-19 |  |
 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 | 2023-01-26 |  |
 | [No Reason](https://open.spotify.com/track/2I0YGyXdCKdsaV8m3KLXnt) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [No Reason](https://open.spotify.com/album/1BN28wruHBne8PUA5cO9fK) | 4:05 | 2023-01-12 |  |

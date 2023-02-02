@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,513 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,608 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
-| 2 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
+| 2 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
 | 3 | [euro nerv](https://open.spotify.com/track/7rRIdY02p9SRCE8y6hS9li) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 1:22 |
 | 4 | [Strategie "Yashima"](https://open.spotify.com/track/72C0QGw41D3nU0nFAKIQ52) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:25 |
 | 5 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 95 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
 | 96 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
-Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMDgxNzU3N2FkYjEyYzA5ODU1MGU4OGQyM2M2NjJlYTQ4`
+Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMDE3YjBlMWY3ODZmZTNmNDQ0OWZhZTVjODZlMmU2ZDQz`

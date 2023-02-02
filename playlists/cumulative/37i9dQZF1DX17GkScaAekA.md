@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-76 songs - 5 hr 19 min
+77 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/track/7msmTNDbP3QWWuevPxcm48) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Schumann: 3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/album/6htHyNPaA17MvKl3khcPyA) | 3:50 | 2023-01-06 |  |
 | [7 Peces de joventut \(Youthful Pieces\): Record](https://open.spotify.com/track/7bAN5DH2H17rt4x3dTid0R) | [Manuel Blancafort](https://open.spotify.com/artist/3DszoGPSqitSg2M8FE7hV6), [Miquel Villalba](https://open.spotify.com/artist/3GM3HF8khN1HV29tHNKExh) | [Blancafort, M.: Piano Music, Vol\. 1 \- Peces De Joventut / Cancons De Muntanya / Notes D'Antany](https://open.spotify.com/album/4v7qP5FKvpH4Ro1NwZwYtU) | 2:26 | 2021-11-09 |  |
 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 | 2021-11-09 |  |
+| [Adagietto](https://open.spotify.com/track/3EO1jW8meUV5olvl3UTD6W) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [This Is \(Not\) Beethoven](https://open.spotify.com/album/2GV1ljxc2JbgX4RCLu89mb) | 2:22 | 2023-02-01 |  |
 | [Adagio in G Minor \(Arr\. for Harp and Orchestra\)](https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Stefan Klieme](https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [L'Arte del mondo](https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY) | [Notte Veneziana](https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO) | 5:00 | 2021-11-09 |  |
 | [Auf dem Wasser zu singen, D\. 774 \- Transcription: Franz Liszt, Searle 558 No\. 2](https://open.spotify.com/track/1cLqcUQzMpgiSCp6Bqx7X8) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Schubert: Classical Creations](https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm) | 3:52 | 2022-07-18 |  |
 | [Auf dem Wasser zu singen, D\. 774 \- Transcription: Franz Liszt, Searle 558 No\. 2](https://open.spotify.com/track/3CML1Fajsa7w2V0ZjlZkYb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [More Classical Moods: Schubert](https://open.spotify.com/album/2CJ3TnRPHjBx0ut90q1cXO) | 3:52 | 2022-11-10 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,130 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,150 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 12 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 |
 | 13 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 14 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
-| 15 | [We Are \(우리는\)](https://open.spotify.com/track/2qqi3LuHfexQIrd2rKCmga) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:46 |
+| 15 | [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 |
 | 16 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \- Jay Robinson Remix](https://open.spotify.com/track/4Ymha30DEUTtZONJXjQefq) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \[Jay Robinson Remix\]](https://open.spotify.com/album/7vc2FGFgPcqC6WHXCU86lK) | 3:40 |
 | 17 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 |
 | 18 | [Above It All](https://open.spotify.com/track/0i03aKXpzSrnzu6F97UFLY) | [L.GU.](https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt) | [Didn't Even Say Goodbye / Above It All](https://open.spotify.com/album/79TGyJ5qC4zq86ovZ25vIF) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
 | 80 | [Bring The Noise](https://open.spotify.com/track/4RqPqt3d3WfooOB0ZTW27h) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Bring The Noise](https://open.spotify.com/album/2SkNReQaZLjRhsETr5POso) | 3:27 |
 
-Snapshot ID: `MTY3NDgzMTYwMCwwMDAwMDAwMGI3ODllMDNjYzhlOWRjMWE4NTBhMjNiZWVlMTA2YTMz`
+Snapshot ID: `MTY3NDgzMTYwMCwwMDAwMDAwMGRjZWUyZDA4NDExYjgyOGI0Mzg1Mjg5NjU0YzQ5YWVk`

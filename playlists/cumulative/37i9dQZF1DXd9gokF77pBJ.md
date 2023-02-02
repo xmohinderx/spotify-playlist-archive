@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-119 songs - 10 hr 49 min
+120 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Steppin' out on the Groove](https://open.spotify.com/track/4QHFZhYuhKczwn0NGBFOcM) | [Tony Jackson](https://open.spotify.com/artist/5Y6G21rp2MNCIePfimbbyO) | [Steppin' Out on the Groove](https://open.spotify.com/album/0uPHY9BW2EAYtQq619slgu) | 5:49 | 2023-01-20 |  |
 | [Summer Jam \- Radio Edit](https://open.spotify.com/track/6L54wM12STr1kS8nPjPIaS) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Jam](https://open.spotify.com/album/22ulz3GUuRiiVxQk2HlaW8) | 3:33 | 2022-07-13 | 2023-01-21 |
 | [Take to the Sky](https://open.spotify.com/track/3h0EkSXXm8Dk6MD1sCXgvO) | [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [Scenic Route \- The Road Less Travelled Vol\. 1 \(Compilation\)](https://open.spotify.com/album/70AivDpenFkFM1tYl7v4Yx) | 5:24 | 2022-07-13 | 2023-01-21 |
-| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2023-01-20 |  |
+| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 | 2023-01-20 |  |
+| [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2023-01-20 | 2023-02-02 |
 | [The Time Is Right](https://open.spotify.com/track/06IAXVDdjl2JHgHOoVzVG9) | [Joy](https://open.spotify.com/artist/4S7rljGywrEzPChY7XHLER) | [The Time Is Right](https://open.spotify.com/album/42Tq3LQmGWjCq5dkPQXmmg) | 3:25 | 2023-01-20 |  |
 | [Till Dawn](https://open.spotify.com/track/17ssW5GFqQ3mF12GSydUzh) | [Running Hot](https://open.spotify.com/artist/18QvrAlrBwNeoiAkXE1ikj) | [The Hardest Step Is Always First](https://open.spotify.com/album/0CsdqUlzVU73nQrLImpemF) | 7:05 | 2023-01-20 |  |
 | [Too Soon You're Old](https://open.spotify.com/track/0xoQ94UXapKcxoJoT0U2yj) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Portrait of a Gemini](https://open.spotify.com/album/7zar80bvYKkJGWvfi6oPiX) | 5:16 | 2023-01-20 |  |

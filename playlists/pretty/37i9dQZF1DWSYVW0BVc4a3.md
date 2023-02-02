@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,501 likes - 157 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,637 likes - 157 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 84 | [This Feeling \- Yotto Remix](https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [This Feeling \(Yotto Remix\)](https://open.spotify.com/album/1TGyeiQObQ1tBNuXNUUM5m) | 3:56 |
 | 85 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 86 | [Avalanche \(feat\. James French\)](https://open.spotify.com/track/603laASXJ2vdJjh3LKF34C) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche \(feat\. James French\)](https://open.spotify.com/album/5jyFtBYmA9My46FTsKKjTH) | 4:21 |
-| 87 | [New Generation](https://open.spotify.com/track/3BAU7IdzU17CzigHo4SDCA) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 3:54 |
+| 87 | [New Generation](https://open.spotify.com/track/3BAU7IdzU17CzigHo4SDCA) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Jonjon](https://open.spotify.com/artist/5l8xCiqHtpk3XDXJ2ZfgK7) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 3:54 |
 | 88 | [Fjord](https://open.spotify.com/track/4xDGbeoAUyPkHV6uLC2RTM) | [Avenue One](https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:19 |
 | 89 | [Bizerte](https://open.spotify.com/track/4DkuS5iVAErehiqFLyQRZV) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 4:37 |
 | 90 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 |

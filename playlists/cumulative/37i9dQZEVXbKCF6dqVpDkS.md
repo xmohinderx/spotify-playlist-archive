@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-919 songs - 1 day 23 hr 57 min
+920 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-07 |
 | [Ausfahrt](https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:34 | 2022-11-19 | 2022-11-26 |
 | [Automatisch](https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5) | 2:45 | 2022-04-30 | 2022-11-06 |
-| [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 |  |
+| [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 | 2023-02-02 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-14 | 2022-11-29 |
 | [BABY MAMA DRAMA](https://open.spotify.com/track/7h9UFW1uC7b5DhBM21BwlK) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Reset The Levels IV](https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE) | 2:41 | 2022-11-12 | 2022-11-14 |
 | [Back 2 Back](https://open.spotify.com/track/3WYd36KfoOhfJOZAlwYy3t) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Back 2 Back](https://open.spotify.com/album/1dwvrgtyUo9G7Egf8VITYp) | 2:46 | 2021-10-03 | 2021-10-11 |
@@ -711,6 +711,7 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-06-14 | 2021-08-29 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-21 | 2021-04-26 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-09-02 |
+| [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-02-01 |  |
 | [Rust](https://open.spotify.com/track/4s1P0D44dhJFPF5tK2rL7L) | [Yurmaine](https://open.spotify.com/artist/7LK9Y1esYppZ5ag5BFWooi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [CAPSLOCKED](https://open.spotify.com/artist/4ypQkCZ84GYsc6QRgorYuX) | [Rust](https://open.spotify.com/album/6s0u1E6QlJ69prnVok5XCC) | 2:37 | 2022-03-05 | 2022-03-14 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-03-06 |
 | [Samen](https://open.spotify.com/track/275765DrtmWP29V5kVzU9g) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Grote Versnelling](https://open.spotify.com/album/1cJOcjPpaDbGxe7qDfA5Cd) | 3:25 | 2021-10-16 | 2021-12-06 |

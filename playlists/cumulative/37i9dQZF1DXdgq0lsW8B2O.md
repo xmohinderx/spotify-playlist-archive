@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-54 songs - 7 hr 48 min
+57 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 |  |
 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-23 |  |
-| [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 | 2021-12-23 |  |
+| [Blues Nile](https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 9:54 | 2022-12-30 |  |
+| [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 | 2021-12-23 | 2023-02-02 |
 | [Borkenkind](https://open.spotify.com/track/1L061cNbIeJy2ElX3wibGF) | [Stephan Micus](https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj) | [Implosions](https://open.spotify.com/album/281XqYzKBklgLJKNV1H2ah) | 7:15 | 2021-12-23 |  |
 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 | 2021-12-23 |  |
 | [Discreet Music \- Remastered 2004](https://open.spotify.com/track/69eD0IfAqEIUnKX63Npksy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Discreet Music](https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG) | 31:34 | 2021-12-23 |  |
@@ -55,8 +56,10 @@
 | [The Walrus Hunt](https://open.spotify.com/track/1LKINMTUrB1iQPmf8QGctA) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Eskimo: pREServed Edition](https://open.spotify.com/album/5ypLXdZQyRO4MrOqg0UZHq) | 3:59 | 2022-05-27 |  |
 | [The Walrus Hunt](https://open.spotify.com/track/7Mk4d10rtE47X30lsdFpyT) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Eskimo](https://open.spotify.com/album/35KluUguaPlKZYMfCem5nu) | 4:01 | 2021-12-23 | 2022-07-29 |
 | [The Yellow Sound](https://open.spotify.com/track/5cHT8gs2bJdPP7QCe0FY0Z) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j), [Ulrich Kraus](https://open.spotify.com/artist/74mf19TUkc33tHTSL867ip) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 5:26 | 2021-12-23 |  |
-| [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 | 2021-12-23 |  |
-| [Tribal Secret](https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 3:52 | 2021-12-23 |  |
+| [Toucan Ocean](https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 3:49 | 2022-12-30 |  |
+| [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 | 2021-12-23 | 2023-02-02 |
+| [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 | 2022-12-30 |  |
+| [Tribal Secret](https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 3:52 | 2021-12-23 | 2023-02-02 |
 | [Turó Park](https://open.spotify.com/track/5zmFlMg8bb043U5GXEgTZR) | [Neuronium](https://open.spotify.com/artist/4rs4oFrQ8IvFWoLv1vGGkC) | [Quasar 2C361 / Ultimate edition](https://open.spotify.com/album/24KaFIYNqXoUdORaA03t7b) | 4:20 | 2021-12-23 |  |
 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 | 2021-12-23 |  |
 | [Weeping Wall \- 2017 Remaster](https://open.spotify.com/track/56jhj8hHTw3PEoFV74wn5j) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:29 | 2021-12-23 |  |

@@ -1420,6 +1420,24 @@
     {
       "album": {
         "name": "Dime Porque",
+        "url": "https://open.spotify.com/album/6bmtIpjY1icdnyctq321dL"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Dime Porque",
+      "url": "https://open.spotify.com/track/34s3j2OLcZTLj5A4lp6z37"
+    },
+    {
+      "album": {
+        "name": "Dime Porque",
         "url": "https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v"
       },
       "artists": [
@@ -1578,6 +1596,24 @@
       "duration_ms": 225652,
       "name": "El Galb Yefdak",
       "url": "https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca"
+    },
+    {
+      "album": {
+        "name": "El Hob Jnoon",
+        "url": "https://open.spotify.com/album/0JO3Mh8FLW9P7CLVajq1Mz"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170627,
+      "name": "El Hob Jnoon",
+      "url": "https://open.spotify.com/track/1dbGD1JdNrHnA6EwMiQmVK"
     },
     {
       "album": {
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197666,
       "name": "Helo Moodak",
       "url": "https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt"
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 253676,
       "name": "Kheira",
       "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
@@ -5933,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0646\u062a \u0627\u0628\u0648\u064a\u0627",
+        "url": "https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237411,
+      "name": "\u0628\u0646\u062a \u0627\u0628\u0648\u064a\u0627",
+      "url": "https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD"
+    },
+    {
+      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/07cc1pFdNFmSk0WEZ2x6Qr"
       },
@@ -6946,7 +7000,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 262857,
       "name": "\u064a\u0627 \u0635\u0628\u0631 \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy"

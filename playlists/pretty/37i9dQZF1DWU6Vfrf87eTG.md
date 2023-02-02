@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,268 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,247 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 56 | [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 |
 | 57 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 |
 | 58 | [Eventual Surrender](https://open.spotify.com/track/5Zlaa2clhbuXhaZhlUtng9) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 3:03 |
-| 59 | [Bewley In Grey](https://open.spotify.com/track/4UgfhLbk4GAPMK1bHAD4z1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 1:41 |
+| 59 | [Bewley In Grey](https://open.spotify.com/track/6pegizBkef5HtY5EMNn23k) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 1:41 |
 | 60 | [Lakeside](https://open.spotify.com/track/7FVeGaVeBzyw2SKbHOWKMv) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 3:40 |
 | 61 | [The Old Favourite](https://open.spotify.com/track/7EVcYnk0RQAwjntUiNLiyi) | [The Gloaming](https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT) | [2](https://open.spotify.com/album/2G10IAMXTYotpRk5w5psSV) | 4:09 |
 | 62 | [Granny Diner](https://open.spotify.com/track/0cad378gGsvZfnmE7Sxe9w) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend EP](https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ) | 4:48 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMGRhMDM3ODk5MWZmYjc5MGM2ZDM0NjQ0YjdhNWU4NzFk`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDgzY2Y0ZGNmNGI0MzEwOTllNWQzOTI5ODU0OTcxZmU5`

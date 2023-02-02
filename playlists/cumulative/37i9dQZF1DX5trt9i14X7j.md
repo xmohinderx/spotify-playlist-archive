@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-162 songs - 10 hr 9 min
+164 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,18 +54,20 @@
 | [Crystal](https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3) | 8:33 | 2021-12-08 | 2022-11-20 |
 | [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 | 2021-12-08 |  |
 | [Day One](https://open.spotify.com/track/1ClIKr4uKzosk6FOpHwLJM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0) | 3:19 | 2021-12-08 | 2022-07-29 |
-| [Day One](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 | 2022-07-25 |  |
+| [Day One \(Interstellar Theme\)](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 | 2022-07-25 |  |
 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 | 2022-08-03 |  |
 | [Dreamer](https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh) | [Abakus](https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1) | [Departure](https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ) | 6:52 | 2021-12-08 |  |
 | [Dreamscapes](https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Dreamscapes](https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub) | 2:39 | 2022-05-31 |  |
 | [Dust](https://open.spotify.com/track/090k8UpQw34yVp7h89TNHm) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [iterations \(demos and releases 2016\-2020\)](https://open.spotify.com/album/76rqdANANWeYIBmtl8eGh6) | 3:32 | 2022-11-07 | 2022-11-13 |
 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-06 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-08-03 |  |
-| [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2021-12-08 |  |
+| [Emerald and Stone](https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 2:12 | 2023-02-01 |  |
+| [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2021-12-08 | 2023-02-02 |
 | [Ethereal Glow](https://open.spotify.com/track/381cpx26XrMnGOIn4faioN) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Ethereal Glow](https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw) | 2:31 | 2022-05-31 |  |
 | [Everlonging](https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Everlonging](https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw) | 2:07 | 2022-05-31 |  |
 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-31 |  |
-| [FF4](https://open.spotify.com/track/4yHLejQxBnufgbFPALQkK3) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl) | 1:11 | 2021-12-08 |  |
+| [FF4](https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5) | 1:11 | 2023-02-01 |  |
+| [FF4](https://open.spotify.com/track/4yHLejQxBnufgbFPALQkK3) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl) | 1:11 | 2021-12-08 | 2023-02-02 |
 | [Finding Atlantis](https://open.spotify.com/track/14RTLH0UikguWPnTUt7kpu) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/5Y9r1FIDpDvWvjrgMhuFO2) | 4:27 | 2022-11-07 | 2022-11-13 |
 | [Finding Atlantis](https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v) | 4:27 | 2021-12-08 | 2022-10-22 |
 | [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-10-21 |  |

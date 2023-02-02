@@ -1402,6 +1402,36 @@
     {
       "album": {
         "name": "Fake",
+        "url": "https://open.spotify.com/album/2PzC3kx333McE2BAAyjbNP"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Crazy Donkey",
+          "url": "https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145334,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/39MuEaENKIWaayDVYSVpjX"
+    },
+    {
+      "album": {
+        "name": "Fake",
         "url": "https://open.spotify.com/album/0ZfoKZtKnOkvQNzCsKyOC4"
       },
       "artists": [
@@ -1424,7 +1454,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 145334,
       "name": "Fake",
       "url": "https://open.spotify.com/track/535qFNUCo7VHy8CVWljvA0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,360 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,357 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 51 | [Family \- Frank Walker Remix](https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Family \(Remixes\)](https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C) | 3:05 |
 | 52 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
 | 53 | [All Comes Back To You](https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb) | 2:40 |
-| 54 | [Goofy](https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Goofy](https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR) | 3:20 |
-| 55 | [No One Dies From Love \(220 KID Remix\)](https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [No One Dies From Love \(220 KID Remix\)](https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ) | 3:06 |
+| 54 | [No One Dies From Love \(220 KID Remix\)](https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [No One Dies From Love \(220 KID Remix\)](https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ) | 3:06 |
+| 55 | [Goofy](https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Goofy](https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR) | 3:20 |
 | 56 | [Mockingbirds](https://open.spotify.com/track/2kCojPXNP7FdHSkl7Eojkg) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Mockingbirds](https://open.spotify.com/album/54FuSuln3w0ue9G6h4NnkV) | 3:09 |
 | 57 | [Monkey Mind](https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Monkey Mind](https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1) | 2:06 |
 | 58 | [i miss u \- VIZE Remix](https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [i miss u \(VIZE Remix\)](https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 99 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
 | 100 | [Survivors](https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [Survivors](https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V) | 2:57 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGFhMjU5ZmI5YTk4N2QzNzI3YjQwM2E0OTAxMGIwZTAy`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDk5YWVhMDMxZDg3NzBjNDk5MTZmNzNiZWE3MDFiNTg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,954 likes - 274 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,009 likes - 274 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 20 | [Rock\-a\-bye Baby](https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Rock\-a\-bye Baby](https://open.spotify.com/album/4rXiFqL4A7D2N49RvYeJnb) | 1:50 |
 | 21 | [I’m A Little Teapot](https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU) | [Lindsay Felan](https://open.spotify.com/artist/2IYSQrJKkRaNmPk0oOxbwZ) | [I’m A Little Teapot](https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH) | 1:28 |
 | 22 | [What A Wonderful World](https://open.spotify.com/track/2rvH33qiSxBPYXB2nMeYGt) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:55 |
-| 23 | [Hush Little Baby](https://open.spotify.com/track/2biFygmxMUsxlbIYrGVOkC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:10 |
+| 23 | [Hush Little Baby](https://open.spotify.com/track/2biFygmxMUsxlbIYrGVOkC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:10 |
 | 24 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 |
 | 25 | [Lights Out](https://open.spotify.com/track/1TFzBNWPnHtHhDhdyNI1eT) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [Lights Out](https://open.spotify.com/album/7iSn3y0F5JUJG9jMBvAofQ) | 2:00 |
 | 26 | [Sleepy Ballad](https://open.spotify.com/track/3lTPY5wxck9tBvuROCct7c) | [Maynerd Lindsey](https://open.spotify.com/artist/3lLK73yQJcNWwW3dGbC2v3) | [Sleepy Ballad](https://open.spotify.com/album/1MgCzFQ6F6qNjlBzG1zzCO) | 1:08 |

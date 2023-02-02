@@ -4,7 +4,7 @@
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-130 songs - 8 hr 15 min
+131 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Love Will Tear Us Apart](https://open.spotify.com/track/59Xl7CUwXhxEZZVfKbpM26) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Do You Know Squarepusher](https://open.spotify.com/album/2E1b73aV55wbSSc2Cd7hmX) | 3:32 | 2021-10-29 | 2022-07-29 |
 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 | 2021-10-29 |  |
 | [Lovesong](https://open.spotify.com/track/2rnvHrNnkWMcAkl4S1WlRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 5:16 | 2021-10-29 | 2022-07-29 |
-| [Man on the Moon](https://open.spotify.com/track/2hV9iER3lF70vUB05vP6G1) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg), [Meah Pace](https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi) | [Fast Car / Man on the Moon](https://open.spotify.com/album/49n5RmhvIYrSZ9QjCdqa7S) | 3:41 | 2021-10-29 |  |
+| [Man on the Moon](https://open.spotify.com/track/2hV9iER3lF70vUB05vP6G1) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg), [Meah Pace](https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi) | [Fast Car / Man on the Moon](https://open.spotify.com/album/49n5RmhvIYrSZ9QjCdqa7S) | 3:41 | 2021-10-29 | 2023-02-02 |
+| [Man On The Moon](https://open.spotify.com/track/37W2mx55FB48Qfi4u4L3Bm) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg), [Meah Pace](https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi) | [Let It Be Blue](https://open.spotify.com/album/6XdHpR1NvTr8aclVS09l3g) | 3:41 | 2021-10-29 |  |
 | [Manic Monday](https://open.spotify.com/track/3pJ5CRQaftPhHbjHoW2Vly) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Manic Monday](https://open.spotify.com/album/78cgrfBbgTNhrIdCRCydcX) | 3:06 | 2021-10-29 | 2022-07-29 |
 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2021-10-29 |  |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 | 2021-10-29 |  |

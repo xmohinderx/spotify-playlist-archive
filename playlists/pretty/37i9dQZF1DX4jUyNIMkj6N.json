@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 172414,
+  "num_followers": 172494,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NDAwMCwwMDAwMDAwMGQ5ZDFiYTUwZTQzNDFjMmViMGZiZmJhYWQxYjY5YzU4",
+  "snapshot_id": "MTY3NDc3NDAwMCwwMDAwMDAwMDEyNzA0YjdmMmY4Y2ExODZkYmU5OTgzMDNlYTM4YzJi",
   "tracks": [
     {
       "added_at": "2023-01-26 23:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
         "name": "Sun, Moon, Stars",
         "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Tell Me About It",
         "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Lou Lou",
-      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "EPII (+ Skisser EP)",
         "url": "https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Lou Lou",
+      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
     },
     {
       "added_at": "2023-01-26 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Carvings",
-        "url": "https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln"
-      },
-      "artists": [
-        {
-          "name": "Juni Habel",
-          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Little Twirl",
-      "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Be Here Soon",
         "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
+        "name": "Carvings",
+        "url": "https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Little Twirl",
+      "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
         "name": "One Day at a Time",
         "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-26 23:00:00",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 136960,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
-    },
-    {
-      "added_at": "2023-01-26 23:00:00",
-      "album": {
         "name": "Cheap Disposition / Bitre Miner",
         "url": "https://open.spotify.com/album/7imJLmLYlNOgwuwuT6NEHy"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 204314,
       "name": "Cheap Disposition",
       "url": "https://open.spotify.com/track/312PDc82PEWHeP6Px2UZWE"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 136960,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
     },
     {
       "added_at": "2023-01-26 23:00:00",

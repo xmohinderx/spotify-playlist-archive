@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,098 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,122 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 45 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 46 | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/track/23fvPXabTlaUn9zkDb9XU5) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/album/4lA6xtiJILqi8VCSc6YXc6) | 3:21 |
 | 47 | [Moral High Ground](https://open.spotify.com/track/0DUzm8J7QUyl87lC5sd5Hi) | [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [Transmission](https://open.spotify.com/album/6I5fBKonbBZwStNHN9bquR) | 2:19 |
-| 48 | [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 |
+| 48 | [Frontline](https://open.spotify.com/track/51QgyO73gGeEIpG5SqoA6n) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 5:39 |
 | 49 | [Be My Lover \- House Mix](https://open.spotify.com/track/1KvVXaLTWBuBWClXeWJAQ4) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 3:54 |
 | 50 | [SMD](https://open.spotify.com/track/1jwlVNuTwv9uGeYoAsYdIL) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [SMD](https://open.spotify.com/album/1tDVl1AYrUCaIfXqq8xeVR) | 3:29 |
 | 51 | [hearts on fire](https://open.spotify.com/track/5nwLNgUGgBsBE4en888WIV) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [hearts on fire](https://open.spotify.com/album/6KA4tzrQUIeOZVBhyK2s24) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 59 | [SHY GUY](https://open.spotify.com/track/71PRtWCg3aW88Do0VLmjSy) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 1:06 |
 | 60 | [Someday \- salute Remix](https://open.spotify.com/track/7AVHYVUUTusrL4zPSekFfT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Someday \(salute Remix\)](https://open.spotify.com/album/5nJwm4Z2yrxJUIwXdbsr3R) | 4:49 |
 
-Snapshot ID: `MTY1NzkwNDUwNCwwMDAwMDAwMDQwNjdiMTg0Nzk1NGIyNjZhM2Y5ODI1YTljNmM2OTlk`
+Snapshot ID: `MTY1NzkwNDUwNCwwMDAwMDAwMGJiNzViYmI1Y2Q2MTFlZGMyMWVmZGJkNjU5YmJmMzQ2`

@@ -1080,7 +1080,7 @@
     {
       "album": {
         "name": "Displaced Masters",
-        "url": "https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv"
+        "url": "https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq"
       },
       "artists": [
         {
@@ -1091,6 +1091,24 @@
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 281526,
+      "name": "Red Sea Dub",
+      "url": "https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ"
+    },
+    {
+      "album": {
+        "name": "Displaced Masters",
+        "url": "https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv"
+      },
+      "artists": [
+        {
+          "name": "Dub Syndicate",
+          "url": "https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 281526,
       "name": "Red Sea Dub",
       "url": "https://open.spotify.com/track/4wzt08huSyrWQUfakVmguR"

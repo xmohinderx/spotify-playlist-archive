@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 57307,
+  "num_followers": 57348,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDhlNTU0OWJkZTZkNzMzYzY5MDZkYzJkZjdhNDU0NzZl",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMGViNjI1NDM1OGJjNjg4YWY1ZjA2NDExNDkxYWFjYzJj",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Mujeres Divinas - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/1MyJ9P4O7Jmhvx8CtPELkx"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 164400,
       "name": "La Media Vuelta - En Vivo",
       "url": "https://open.spotify.com/track/0BbrG0xytWfEwZrYoqqPKR"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Mujeres Divinas - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/1MyJ9P4O7Jmhvx8CtPELkx"
     },
     {
       "added_at": "2021-12-29 23:15:19",

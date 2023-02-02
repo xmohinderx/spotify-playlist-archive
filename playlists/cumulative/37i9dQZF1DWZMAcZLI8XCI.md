@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-164 songs - 15 hr 4 min
+165 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bateekh](https://open.spotify.com/track/0LNcBR9Rbj59JxeUBBQit7) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [Bateekh](https://open.spotify.com/album/3axS1s6UJqmgogmz2oyoOn) | 4:14 | 2022-11-08 |  |
 | [Be Africa](https://open.spotify.com/track/36uAnrbrv6L9IFxCxuF1Xb) | [Bibi Tanga & The Selenites](https://open.spotify.com/artist/1wDClxPQ3dnP5IfginkLma) | [Dunya](https://open.spotify.com/album/1Z8dE4tkGHamtFacfjozpn) | 4:15 | 2022-11-08 | 2022-12-24 |
 | [Be Where I Am \(feat\. Daniel Wilson\)](https://open.spotify.com/track/4xbckUvPGcKV7QKkr7Fzyd) | [Metroplane](https://open.spotify.com/artist/4NV4qWnRhLrr41zy1IwFGm), [Daniel Wilson](https://open.spotify.com/artist/44eNlYXYkIGob3NU82tgLq) | [Be Where I Am \(feat\. Daniel Wilson\)](https://open.spotify.com/album/10GVWWU5cAKeViqeAhsjpg) | 3:26 | 2022-09-19 | 2022-11-09 |
-| [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 | 2022-11-08 |  |
+| [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 | 2022-11-08 | 2023-02-02 |
+| [Behind The Sun](https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ) | 3:29 | 2022-12-22 |  |
 | [Belong](https://open.spotify.com/track/4WlZdEHBzXXEAzxhtDR9H2) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Belong](https://open.spotify.com/album/3utFW4iaHUTEV6MjTqQnE0) | 5:10 | 2022-09-19 |  |
 | [BHUKA](https://open.spotify.com/track/65dJjPMbvN01O20pLBV44L) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 4:14 | 2022-12-22 |  |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-12-22 |  |

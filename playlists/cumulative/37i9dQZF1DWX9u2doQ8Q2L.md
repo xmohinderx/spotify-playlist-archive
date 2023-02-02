@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-534 songs - 1 day 9 hr 34 min
+535 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [blue blur feat\. mabanua](https://open.spotify.com/track/6ujjpnDMz0qD3oPUC3ypJ4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [blue blur feat\. mabanua](https://open.spotify.com/album/0qoOskYNEbSlL75idOrOGi) | 4:32 | 2022-06-09 | 2022-07-27 |
 | [BLUEMOON](https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [empath](https://open.spotify.com/album/7vNnPAKcr9QyuVDRdxrXz8) | 3:40 | 2022-05-26 | 2022-06-15 |
 | [blur and flower](https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 4:18 | 2022-12-13 | 2023-01-26 |
-| [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 |  |
+| [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
+| [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-01-31 |  |
 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/4uFZeg27a8FvxsftMV6li7) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4XhQpW4vMlheVHB1ZNpyP5) | 3:13 | 2022-10-11 | 2022-10-13 |
 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/6yEAhzjwBJHdOwZDUAAAK0) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4vDKz1QWLWg5wo3jRPLhiR) | 3:13 | 2022-10-11 | 2022-10-21 |
 | [Boys, be ambitious](https://open.spotify.com/track/4vcHIzIDBsUllvqneWA6kD) | [TOKYO SHIOKOUJI](https://open.spotify.com/artist/0bnrNhhm8syLjMDOzqO0BL), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Boys, be ambitious](https://open.spotify.com/album/6aGMeoHhzvc5VIPtu3evWW) | 4:16 | 2023-01-17 | 2023-01-23 |

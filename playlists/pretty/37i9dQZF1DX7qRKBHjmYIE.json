@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: YE\u0418DRY",
-  "num_followers": 748957,
+  "num_followers": 748971,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMGE0YTBkNmE4MzM0ZjYwYzljNjVkMGI1YWNjNGI3ZmZh",
+  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMDY2NmIwMGM0OWMwZGQ3MjQ0MGJjMjE0MGMzYjE5OGIy",
   "tracks": [
     {
       "added_at": "2023-01-19 00:15:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 164143,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 251106,
       "name": "Podemos Intentar",
       "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 164143,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "In the Essence",
+        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "In the Essence",
+      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Skin Tight (feat. Steve Lacy)",
         "url": "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "In the Essence",
-        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "In the Essence",
-      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "22/2/22 (feat. Paula Cendejas)",
-        "url": "https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn"
-      },
-      "artists": [
-        {
-          "name": "Juancho Marqu\u00e9s",
-          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
-        },
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "22/2/22 (feat. Paula Cendejas)",
-      "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -1219,6 +1199,26 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "22/2/22 (feat. Paula Cendejas)",
+        "url": "https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        },
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "22/2/22 (feat. Paula Cendejas)",
+      "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 225938,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "TEK",
+      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1275,26 +1295,6 @@
       "duration_ms": 218467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "TEK",
-        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "TEK",
-      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Chiki Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 122768,
-      "name": "Chiki Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/0nfsrNIB814CthJad7fBth"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Spell 31",
         "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 211733,
       "name": "Creature (Perfect)",
       "url": "https://open.spotify.com/track/2emF1fcXtygEDeOgHvUArs"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Chiki Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 122768,
+      "name": "Chiki Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/0nfsrNIB814CthJad7fBth"
     },
     {
       "added_at": "2023-01-19 00:15:54",

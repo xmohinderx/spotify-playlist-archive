@@ -248,6 +248,24 @@
     {
       "album": {
         "name": "Thought So\u2026",
+        "url": "https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281308,
+      "name": "Da Feelin",
+      "url": "https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe"
+    },
+    {
+      "album": {
+        "name": "Thought So\u2026",
         "url": "https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I"
       },
       "artists": [
@@ -258,7 +276,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 281626,
       "name": "Da Feelin",
       "url": "https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO"
@@ -1512,6 +1530,24 @@
     {
       "album": {
         "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209316,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
+    },
+    {
+      "album": {
+        "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
       "artists": [
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210466,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz"

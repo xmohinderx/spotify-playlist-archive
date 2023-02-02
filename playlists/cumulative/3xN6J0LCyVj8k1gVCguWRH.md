@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,974 songs - 4 day 17 hr 41 min
+1,975 songs - 4 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [If You Don't Like It \(Don't Fight It\)](https://open.spotify.com/track/1jz5sRz8kc1OANlXTiyXtA) | [The Modern World](https://open.spotify.com/artist/5uOlVrMogD7UJKnrRrIXrn) | [If You Don't Like It \(Don't Fight It\)](https://open.spotify.com/album/3xIWCZLq02NOyfGdefnkFx) | 4:22 | 2021-06-26 | 2021-08-08 |
 | [If You Don’t Stop](https://open.spotify.com/track/6pGlOuU48t1YbGWHXkSmyJ) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [If You Don’t Stop](https://open.spotify.com/album/1Fmt4WS8VdYYXs9IN4qkCZ) | 2:48 | 2021-10-02 | 2021-10-20 |
 | [If You Double Frown](https://open.spotify.com/track/3r7qXhbEbEv8Oj05CV5RWJ) | [LR\-60 & Elmer's Clue](https://open.spotify.com/artist/3d8ynJqvpU9Bc8gnoljrdW) | [Schrage Musik](https://open.spotify.com/album/3ZGezLvcaPUZkEreYS568o) | 5:35 | 2022-03-04 | 2022-03-21 |
+| [Ife](https://open.spotify.com/track/1oQwmzLhdjcbML34hSk7YN) | [Plumcy](https://open.spotify.com/artist/1XFEkMDfaQVu2QXA8tkzae), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Ife](https://open.spotify.com/album/6CbEPErbwuievOM91CwxKA) | 3:18 | 2023-02-01 |  |
 | [II B.S\. \- Edit](https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:48 | 2019-09-29\* | 2021-11-19 |
 | [IKnowIKnowIKnow](https://open.spotify.com/track/0dtoRUqMETjEfJMMnciapw) | [Naama Guggenheim](https://open.spotify.com/artist/3gpGpJpqLHqiNhJsb2oT2x) | [90%](https://open.spotify.com/album/14Sknxi0kQfcaQwvThTVWP) | 3:14 | 2021-11-08 | 2021-12-05 |
 | [ILYK](https://open.spotify.com/track/2bGw5XLC8Pd62W9ltUvXG3) | [Indi Faulkner](https://open.spotify.com/artist/7AETAXt2VZjJIf8axgm6GZ) | [ILYK](https://open.spotify.com/album/3WcgeP0Fzt1LsAleQi9E0j) | 2:27 | 2022-01-21 | 2022-02-06 |
@@ -1046,7 +1047,7 @@
 | [Lost in Boston](https://open.spotify.com/track/33kT7w0qCdSY5EO1FFbW14) | [The Fall Line](https://open.spotify.com/artist/6agKrgUACfM2YJ0ahGBvfT) | [Original Sin](https://open.spotify.com/album/1yyDntL1rNSmGaRCgM2Yop) | 3:34 | 2019-12-15 | 2019-12-27 |
 | [Lost In My Mind](https://open.spotify.com/track/5DH3KoqLXjmvW9QVQKKk6d) | [Lola Coker](https://open.spotify.com/artist/4lur8moISLyua0JzmHpPrc) | [Lost In My Mind](https://open.spotify.com/album/6qOKvYVPUc6O6L8fPOIHUz) | 3:41 | 2021-12-31 | 2022-01-19 |
 | [Lost in Translation](https://open.spotify.com/track/3rjeMPJcJLw0OSS4Nk7o1e) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Lost in Translation](https://open.spotify.com/album/0avRCGXVbqOjPYPKifcYmS) | 3:58 | 2022-09-30 | 2022-10-18 |
-| [Lost Mind Generation \(Stripped\)](https://open.spotify.com/track/0RwO6U8bJMYLv9u6sdH7kW) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Lost Mind Generation \(Stripped\)](https://open.spotify.com/album/7IBXO645y7DkDfSEGZzQZ7) | 4:06 | 2023-01-27 |  |
+| [Lost Mind Generation \- Stripped](https://open.spotify.com/track/0RwO6U8bJMYLv9u6sdH7kW) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Lost Mind Generation \(Stripped\)](https://open.spotify.com/album/7IBXO645y7DkDfSEGZzQZ7) | 4:06 | 2023-01-27 |  |
 | [Lost You](https://open.spotify.com/track/6gqPHjopjeUdO2ScCdNnY0) | [Megan Britt](https://open.spotify.com/artist/41G7vJN8lnQUx054VywKve) | [Paradigm Shift: Part 1](https://open.spotify.com/album/71mwTyx5XWW1eg8fpS5bTa) | 3:42 | 2022-11-12 | 2022-12-05 |
 | [Love Addict](https://open.spotify.com/track/03A6i622Lfu60Osve7cvqN) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Love Addict](https://open.spotify.com/album/7sUl8k8kZJ48CHNDaQ48tt) | 3:38 | 2022-01-21 | 2022-02-06 |
 | [Love Again](https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 4:18 | 2021-06-08 | 2021-07-07 |

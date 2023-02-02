@@ -2,7 +2,7 @@
 
 ### [Hope & Heartbreak](https://open.spotify.com/playlist/37i9dQZF1DWXeI0OwDbgC4)
 
-> Though people may leave you, God never will\.  Here are songs that cover the crossroads of hope and heartbreak.
+> Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
 50 songs - 2 hr 56 min
 

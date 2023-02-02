@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Kimbra
 
-479 songs - 1 day 5 hr 47 min
+480 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Best for You](https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX) | 3:33 | 2022-04-08 | 2022-07-29 |
 | [Better Off Alone](https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Better Off Alone](https://open.spotify.com/album/7JsNiZN7qYUOwBmWRvk9EK) | 3:52 | 2021-06-03 | 2022-07-27 |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2021-06-03 | 2022-07-29 |
-| [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-24 | 2022-12-17 |
+| [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-24 |  |
 | [Birthday](https://open.spotify.com/track/5ZPri1behLoQ6UhTcGsTth) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [Birthday](https://open.spotify.com/album/6Jgc40cCjr52k0BIi8lfPh) | 6:19 | 2022-03-31 | 2022-07-28 |
 | [Bitch](https://open.spotify.com/track/1CVQ8euBNROz7KDPeNqwWE) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:27 | 2021-10-08 | 2022-06-01 |
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-24 | 2022-06-03 |
@@ -239,7 +239,7 @@
 | [june 14th](https://open.spotify.com/track/1dpfNC2sYCwLBfPg6PujQe) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [june 14th](https://open.spotify.com/album/7hf8yIYN2yYAIdr0klZpmS) | 4:34 | 2021-06-03 | 2022-06-04 |
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-24 | 2022-06-26 |
 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2022-11-18 |  |
-| [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2021-06-03 |  |
+| [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2021-06-03 | 2023-02-02 |
 | [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 | 2022-09-09 | 2022-11-12 |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-06-03 |  |
 | [Lalala \(Want Somebody\)](https://open.spotify.com/track/2qm98u5XB1QeETltWvnVaH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Lalala \(Want Somebody\)](https://open.spotify.com/album/31PEiPIyOFbv3mXxWsU1kl) | 6:06 | 2021-06-03 | 2022-04-15 |
@@ -291,7 +291,8 @@
 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-20 | 2022-06-19 |
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-04-08 | 2022-05-30 |
 | [Mystery Boy](https://open.spotify.com/track/6ku5XgDT9HCf9s8Hw0nC66) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Mystery Boy](https://open.spotify.com/album/1mvC41Bw6HDEikypZ0U5T3) | 3:09 | 2021-10-08 | 2022-07-29 |
-| [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao) | 2:34 | 2023-01-27 |  |
+| [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 | 2023-01-27 |  |
+| [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao) | 2:34 | 2023-01-27 | 2023-02-02 |
 | [Never Get To Fuck Any1](https://open.spotify.com/track/1PPJitPB8C3JWJouTgYrwB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Never Get To Fuck Any1](https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x) | 2:24 | 2021-09-24 | 2022-06-01 |
 | [neverend](https://open.spotify.com/track/4uaaTw9zjr51URmFk3WTi3) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [neverend](https://open.spotify.com/album/59apC5reODbyI6NSFVHPli) | 4:26 | 2022-05-20 | 2022-06-03 |
 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2021-06-03 | 2022-05-20 |

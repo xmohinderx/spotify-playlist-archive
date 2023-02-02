@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Hotelo, Ana Gabriela",
-  "num_followers": 416380,
+  "num_followers": 416373,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGRiMDg4NDhhMDIyMDE3N2JjYzBhNmUyM2M1MTYzN2U0",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDE4MGU5NmRmOTE0YmM3M2RjMGY1MGFiOTVjYTgzY2Rh",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Voc\u00ea nasceu para mudar",
-        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 211351,
-      "name": "Voc\u00ea nasceu para mudar",
-      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "postcard from Rio",
         "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 166916,
       "name": "saudade",
       "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Voc\u00ea nasceu para mudar",
+        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 211351,
+      "name": "Voc\u00ea nasceu para mudar",
+      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Toda pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6"
+      },
+      "artists": [
+        {
+          "name": "B\u00c1RBARA SILVA",
+          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
+        },
+        {
+          "name": "Jos\u00e9 C\u00e2ndido",
+          "url": "https://open.spotify.com/artist/19NtAWXxzXXpcJhGvJIAnf"
+        }
+      ],
+      "duration_ms": 184936,
+      "name": "Toda pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "MUITA BAD pouca idade",
         "url": "https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 151254,
       "name": "Ningu\u00e9m Precisa Saber",
       "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Toda pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6"
-      },
-      "artists": [
-        {
-          "name": "B\u00c1RBARA SILVA",
-          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
-        },
-        {
-          "name": "Jos\u00e9 C\u00e2ndido",
-          "url": "https://open.spotify.com/artist/19NtAWXxzXXpcJhGvJIAnf"
-        }
-      ],
-      "duration_ms": 184936,
-      "name": "Toda pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -999,6 +999,30 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Vou Ficar Bem",
+        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 149535,
+      "name": "Vou Ficar Bem",
+      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "giz de cera",
         "url": "https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 178666,
       "name": "\u00d3leo de Coco",
       "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Vou Ficar Bem",
-        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 149535,
-      "name": "Vou Ficar Bem",
-      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1127,26 +1127,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Prova De Amor",
-        "url": "https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE"
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
         },
         {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 185629,
-      "name": "Prova De Amor",
-      "url": "https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj"
+      "duration_ms": 154611,
+      "name": "Mais de Mim",
+      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1183,22 +1179,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
+        "name": "Prova De Amor",
+        "url": "https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         },
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
         }
       ],
-      "duration_ms": 154611,
-      "name": "Mais de Mim",
-      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
+      "duration_ms": 185629,
+      "name": "Prova De Amor",
+      "url": "https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj"
     },
     {
       "added_at": "2023-01-27 03:00:00",

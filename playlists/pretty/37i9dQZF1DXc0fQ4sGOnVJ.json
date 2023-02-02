@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146431,
+  "num_followers": 146440,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDZjMDI3ZjgzN2Q3OWI5MDY1OGEyNDZhMjg3NjA5MWNm",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDgwYjFlYjllMzZlMWU4Y2RjMzA4ODMyMzVhYmQ1NTk2",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "American Rebelution",
         "url": "https://open.spotify.com/album/4dQZO3ENU8TkhieFWFlDoL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 232941,
       "name": "Jack In My Coke",
       "url": "https://open.spotify.com/track/6Kf1VcLce0JzSNvngjhi4q"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
-      },
-      "artists": [
-        {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        }
-      ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
     },
     {
       "added_at": "2023-01-06 05:00:00",

@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: The Aston Shuffle & The Magician
 
-245 songs - 13 hr 21 min
+246 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2022-12-08 | 2022-12-24 |
 | [Enough To Drink](https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Enough To Drink](https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf) | 2:18 | 2023-01-12 |  |
 | [Fade to Black](https://open.spotify.com/track/3DS6zUDAm3X8F6kiGaFfWL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Fade to Black](https://open.spotify.com/album/2Yu80Mqn0x1Y5F6X1rTqwv) | 2:56 | 2022-12-29 | 2023-01-27 |
-| [Fake](https://open.spotify.com/track/535qFNUCo7VHy8CVWljvA0) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Fake](https://open.spotify.com/album/0ZfoKZtKnOkvQNzCsKyOC4) | 2:25 | 2023-01-12 |  |
+| [Fake](https://open.spotify.com/track/39MuEaENKIWaayDVYSVpjX) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Fake](https://open.spotify.com/album/2PzC3kx333McE2BAAyjbNP) | 2:25 | 2023-01-26 |  |
+| [Fake](https://open.spotify.com/track/535qFNUCo7VHy8CVWljvA0) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Fake](https://open.spotify.com/album/0ZfoKZtKnOkvQNzCsKyOC4) | 2:25 | 2023-01-12 | 2023-02-02 |
 | [Fall](https://open.spotify.com/track/1fWajvu9AQXNGdJ0MQy9px) | [Nath Jennings](https://open.spotify.com/artist/6VyWntyyQMV73bhRTTGFAN), [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s) | [Fall](https://open.spotify.com/album/58TwMbtESzN2vI7VoeIVpE) | 2:31 | 2022-12-29 | 2023-01-27 |
 | [Fantasy](https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Fantasy](https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik) | 2:42 | 2022-12-22 | 2023-01-27 |
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-01-19 |  |

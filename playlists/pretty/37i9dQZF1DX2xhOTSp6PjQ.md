@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=F0FrV\_10Simi5ZhPJ3Nyvg">Mzukulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,803 likes - 80 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,855 likes - 80 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

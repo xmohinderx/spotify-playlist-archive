@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Leonardo Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,969 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,071 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 18 | [Que No Te Convengo](https://open.spotify.com/track/2hvXz7CNfbNe66XrMpMp4G) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Que No Te Convengo](https://open.spotify.com/album/0UFpx0GF9l81zG7SlJdO09) | 2:37 |
 | 19 | [Como Me Duele \- En Vivo](https://open.spotify.com/track/3sKNtj6GYp3xt0Evrt6MAF) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Leandro Rios](https://open.spotify.com/artist/52k6EnkHcZ4yI8MFpwtrdn) | [Como Me Duele \(En Vivo\)](https://open.spotify.com/album/1uTLpYbb4vVMDP6d2Ese2F) | 3:54 |
 | 20 | [Corrido De Antonia Lopez](https://open.spotify.com/track/7KXgqdYzOVvqENcVtO4vLd) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Corrido De Antonia Lopez](https://open.spotify.com/album/4kgTo9OnBDOnWqLcnHQl0S) | 3:36 |
-| 21 | [Deja Lo Analizo](https://open.spotify.com/track/3ElZcHTTXDEtPim8rnustV) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Deja Lo Analizo](https://open.spotify.com/album/2OBntGx8jFzi145RLPvNxr) | 2:48 |
+| 21 | [Deja Lo Analizo](https://open.spotify.com/track/3ElZcHTTXDEtPim8rnustV) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Banda La Que Dijimos](https://open.spotify.com/artist/1ehvaZQQJAm9P5QlveuNi5) | [Deja Lo Analizo](https://open.spotify.com/album/2OBntGx8jFzi145RLPvNxr) | 2:48 |
 | 22 | [Moneda Sin Valor](https://open.spotify.com/track/3FDtwj5viOiJ3tWwtPS5L0) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Moneda Sin Valor](https://open.spotify.com/album/258FEO7grKjRQfpt7lJS9q) | 3:22 |
 | 23 | [Ex de Verdad](https://open.spotify.com/track/3L6vgwfaslyqnHEj7z9rJh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ex de Verdad](https://open.spotify.com/album/4RfhNQzq6flBALUl03H8Dt) | 2:46 |
 | 24 | [Haces Mucha Falta](https://open.spotify.com/track/79h5AdLd6YsldqQtnNwUwx) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Haces Mucha Falta](https://open.spotify.com/album/2RKhYFg46XXK7x8p0WOMTy) | 2:45 |

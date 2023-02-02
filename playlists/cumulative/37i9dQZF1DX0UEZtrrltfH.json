@@ -930,7 +930,7 @@
     {
       "album": {
         "name": "Puppy",
-        "url": "https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn"
+        "url": "https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5"
       },
       "artists": [
         {
@@ -941,6 +941,24 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248698,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 248698,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly"

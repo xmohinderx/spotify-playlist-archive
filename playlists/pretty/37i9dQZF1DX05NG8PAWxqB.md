@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,989 likes - 212 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,997 likes - 212 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 75 | [ilomilo \- Live From The Film \- Billie Eilish: The World’s A Little Blurry](https://open.spotify.com/track/4EYiIACD4vGzOmiKYzRdkW) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [ilomilo \(Live From The Film \- Billie Eilish: The World’s A Little Blurry\)](https://open.spotify.com/album/2AyexmwyUy1nZfBadyewL7) | 2:44 |
 | 76 | [Army Of Me](https://open.spotify.com/track/0PwvFT9b7ww39vNTaUY8xQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post Live](https://open.spotify.com/album/34giLYSGjEgQoX6HdEa8V9) | 4:04 |
 | 77 | [Kiss of Life \- Live 2011](https://open.spotify.com/track/2TzL5SzevzN79PhPcNOIMt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Bring Me Home \- Live 2011](https://open.spotify.com/album/6uitRl1P04zFg325MmqOlw) | 5:03 |
-| 78 | [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/track/4twUahsu54C5fJtw6Nosae) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/album/5NnRYaIvJaZuHCDq9WOszk) | 5:47 |
+| 78 | [Cybele’s Reverie \[Live at the Hollywood Bowl\]](https://open.spotify.com/track/26mCF1vXGCekAAUS7rkats) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal) | 5:47 |
 | 79 | [LA・LA・LA LOVE SONG \(LIVE 2017\)](https://open.spotify.com/track/06JV2faNxxGUHlMG9ZUBnb) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [3周まわって素でLive!\~THE HOUSE PARTY!\~](https://open.spotify.com/album/6kknM0t0SxEGSZPU9sCzEU) | 7:17 |
 | 80 | [EXCITE \- DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール \[2019.3.13\]](https://open.spotify.com/track/2R3LggfQF3PuT5BEdkwHlO) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール \[2019.3.13\]](https://open.spotify.com/album/4NJ9r4vqxK406Psnt4HBcC) | 3:50 |
 | 81 | [音色](https://open.spotify.com/track/3VSHY6aNDIB4oMaVLxzTKk) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [LIVE ALBUM 「SPACE TOUR」](https://open.spotify.com/album/6qIlKAsCka4PMBhrJAfrXj) | 5:22 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 211 | [Hey Jude \- Live](https://open.spotify.com/track/0hospr5viAnCPJuGCRCEz5) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tripping The Live Fantastic](https://open.spotify.com/album/0kaRUxrggtrnJbojB8SHLZ) | 8:03 |
 | 212 | [We Are the World \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/3CwguvgTBq4l9BdEKKn4T2) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are the World \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/1AGo4PjdSILii1xLetA0Hx) | 7:35 |
 
-Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMDJlNGQzOWQyMTg4NzFkZTBhYzhiZmQ3MDBhMjM2MTdi`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGZlNTdhNjYwOGI4N2MwMDRjZjAyMjE2YjQyODZkOGU0`

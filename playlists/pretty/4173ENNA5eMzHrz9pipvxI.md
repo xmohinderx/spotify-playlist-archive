@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> 
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lucas &amp; Steve x Yves V
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,875 likes - 36 songs - 1 hr 42 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,891 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 35 | [Home](https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Swatkat](https://open.spotify.com/artist/5RuEvqOyramjOkUG8KwCOs), [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [Home](https://open.spotify.com/album/6zFbUrgpObUlsU9fy6ThX0) | 2:08 |
 | 36 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 |
 
-Snapshot ID: `NjQwMCw1NDI5MWI0MWU0NWZkOWU1ZmM1NDliMDUxZjNmMjA4YjRjNDgxYTFh`
+Snapshot ID: `NjQwMSw4NDRjNmY3Y2QyZWQ3YjA2Mzk5Y2QwYTVmYWY2NTViM2YxMzlmYWI2`

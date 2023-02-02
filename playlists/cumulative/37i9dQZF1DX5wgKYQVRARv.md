@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-603 songs - 2 day 3 hr 58 min
+604 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [Lifelike](https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Lifelike](https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO) | 4:00 | 2022-07-13 |  |
 | [Lights](https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Sleepless](https://open.spotify.com/album/6lQM0ttt55S8PtXkFHVURB) | 3:39 | 2022-09-02 |  |
 | [Lines \(feat\. Petter Carlsen\)](https://open.spotify.com/track/1z6MioTKg2mfk7WVlYO7Fh) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6), [Petter Carlsen](https://open.spotify.com/artist/4MdXxmVuDhdYJmBRA8ZYQ4) | [TRIPS \(Bonus Tracks Version\)](https://open.spotify.com/album/2WzWw65DyReOSYMIBwuErQ) | 4:41 | 2021-12-17 | 2022-01-29 |
-| [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 |  |
+| [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 | 2023-02-02 |
+| [Litany Of The Fallen](https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Leviathan II](https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN) | 4:10 | 2023-01-20 |  |
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-02-11 |
 | [Longing](https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Ecdysis](https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU) | 5:14 | 2022-01-07 |  |
 | [Lord of Liars](https://open.spotify.com/track/3z2umWMJNuuOYU25JZK4vm) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Bloodmoon: I](https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY) | 3:21 | 2021-12-17 | 2023-01-21 |

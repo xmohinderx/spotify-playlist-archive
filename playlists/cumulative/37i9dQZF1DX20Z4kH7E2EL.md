@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-92 songs - 8 hr 12 min
+93 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2023-01-12 | 2023-01-28 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \- Jay Robinson Remix](https://open.spotify.com/track/4Ymha30DEUTtZONJXjQefq) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \[Jay Robinson Remix\]](https://open.spotify.com/album/7vc2FGFgPcqC6WHXCU86lK) | 3:40 | 2023-01-12 |  |
 | [Waterfalls](https://open.spotify.com/track/4yT7E7tzc3h3W0M2Stwwpf) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:53 | 2023-01-12 |  |
-| [We Are \(우리는\)](https://open.spotify.com/track/2qqi3LuHfexQIrd2rKCmga) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:46 | 2023-01-12 |  |
+| [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 | 2023-01-27 |  |
+| [We Are \(우리는\)](https://open.spotify.com/track/2qqi3LuHfexQIrd2rKCmga) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:46 | 2023-01-12 | 2023-02-02 |
 | [We Got The Fire](https://open.spotify.com/track/4CLr66ZELcnHxwF5VaQ1rq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/70mtojVDb94ESukEAWqZac) | 3:21 | 2023-01-12 |  |
 | [What Does It Take \(Kornél Kovács Remix\)](https://open.spotify.com/track/1cFoALgfyqRC91trN6epzQ) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7), [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [What Does It Take \(Kornél Kovács Remix\)](https://open.spotify.com/album/26VYbPuALypqEMKAdPTHbS) | 6:04 | 2023-01-12 | 2023-01-28 |
 | [Wish I Knew](https://open.spotify.com/track/4LbRlcWWiY68c0zXJEqtwW) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Wish I Knew](https://open.spotify.com/album/1rd4syO1UlYp3w5si1BZak) | 3:46 | 2023-01-12 |  |

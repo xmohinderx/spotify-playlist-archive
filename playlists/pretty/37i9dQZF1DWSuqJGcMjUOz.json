@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2082,
+  "num_followers": 2084,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDUxMjgwYWJhODczODRmYjUxOTc3MjEyMWU3NjBmNGNk",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDI5MWY2NTZjYTFhYzNkMmRkMWQwYzUyMDRhN2FhOTQ4",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "France d'Amour",
-        "url": "https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P"
-      },
-      "artists": [
-        {
-          "name": "France D'Amour",
-          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "Je n'irai pas ailleurs",
-      "url": "https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Equilibre",
         "url": "https://open.spotify.com/album/05i1g2VNkI7hBdIADta182"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "France d'Amour",
+        "url": "https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "Je n'irai pas ailleurs",
+      "url": "https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -991,22 +991,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Le tour du Grand Bois",
-        "url": "https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW"
+        "name": "Blue Volvo",
+        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
       "artists": [
         {
-          "name": "\u00c9dith Butler",
-          "url": "https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL"
-        },
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Dans l'bois",
-      "url": "https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38"
+      "duration_ms": 251228,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Blue Volvo",
-        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+        "name": "Le tour du Grand Bois",
+        "url": "https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW"
       },
       "artists": [
         {
-          "name": "Loud Lary Ajust",
-          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+          "name": "\u00c9dith Butler",
+          "url": "https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL"
+        },
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
         }
       ],
-      "duration_ms": 251228,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+      "duration_ms": 215066,
+      "name": "Dans l'bois",
+      "url": "https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 323480,
       "name": "Rome",
       "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mwen Pare",
-        "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
-      },
-      "artists": [
-        {
-          "name": "Magdala",
-          "url": "https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz"
-        }
-      ],
-      "duration_ms": 294545,
-      "name": "Mwen Pare",
-      "url": "https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Mwen Pare",
+        "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
+      },
+      "artists": [
+        {
+          "name": "Magdala",
+          "url": "https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz"
+        }
+      ],
+      "duration_ms": 294545,
+      "name": "Mwen Pare",
+      "url": "https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ"
     },
     {
       "added_at": "2022-05-25 18:00:00",
