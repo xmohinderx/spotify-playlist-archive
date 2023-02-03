@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-220 songs - 11 hr 42 min
+221 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Healing](https://open.spotify.com/track/06Aj2PCegwIn406WuXvdqg) | [Alejandro Santana](https://open.spotify.com/artist/577wiYskev4BMCcroNIWvZ) | [Healing](https://open.spotify.com/album/7zgCuvkwty3v4O8HA6poI5) | 3:30 | 2022-02-11 | 2022-07-29 |
 | [Hogar Dulce Hogar](https://open.spotify.com/track/0me56IqY03ejWN4xnut2bB) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Hogar Dulce Hogar](https://open.spotify.com/album/4bjp0JkwmbXwmm6D7Ciasm) | 3:19 | 2022-02-11 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Honey](https://open.spotify.com/album/033OksAEhQNLvkJojYuNtL) | 3:06 | 2022-05-06 | 2022-05-20 |
+| [Horas y Horas \- Spotify Singles](https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Spotify Singles](https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV) | 3:53 | 2023-02-03 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2022-02-11 | 2022-05-20 |
 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 | 2023-01-20 |  |
 | [IDGAD](https://open.spotify.com/track/2FF5m9pWgpneewxKLgZ2FY) | [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE) | [IDGAD](https://open.spotify.com/album/45bUiQcITvNn9eYgqzM5CE) | 2:46 | 2022-02-11 | 2022-07-28 |
@@ -218,7 +219,7 @@
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-09-06 |  |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2022-02-11 | 2022-09-07 |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-02-11 | 2022-05-20 |
-| [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-06 |  |
+| [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-06 | 2023-02-03 |
 | [Ven](https://open.spotify.com/track/6VUNbNPWB7o9pL2NYD2wOb) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 3:55 | 2022-03-04 | 2022-08-12 |
 | [Wanderer](https://open.spotify.com/track/06j0L8E6kmjo7YaOK8eboR) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Wanderer](https://open.spotify.com/album/2fGctLF2AcyblPYN8pvo5o) | 3:20 | 2022-02-11 | 2022-07-29 |
 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 | 2022-09-13 |  |

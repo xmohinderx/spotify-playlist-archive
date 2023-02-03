@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-309 songs - 1 day 1 hr 36 min
+311 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 | 2021-10-15 |  |
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2021-10-15 |  |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-10-15 |  |
+| [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 | 2023-01-19 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-10-15 | 2023-02-02 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-12 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-20 |  |
@@ -246,7 +247,7 @@
 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 | 2022-07-20 |  |
 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 | 2021-10-15 | 2022-07-29 |
 | [Speedway At Nazareth](https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing To Philadelphia](https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg) | 6:21 | 2021-10-15 | 2022-07-29 |
-| [Speedway at Nazareth](https://open.spotify.com/track/2C4v21V4AUUDMfvzZ6mxuq) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 6:23 | 2023-01-19 |  |
+| [Speedway at Nazareth](https://open.spotify.com/track/2C4v21V4AUUDMfvzZ6mxuq) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 6:23 | 2023-01-19 | 2023-02-03 |
 | [Spirits In The Material World](https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:59 | 2022-07-20 |  |
 | [Spirits In The Material World \- Remastered 2003](https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered\)](https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A) | 2:59 | 2021-10-15 | 2022-07-28 |
 | [Square Feet](https://open.spotify.com/track/1CHJtrKc555sk95KB27YAM) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Split the Atom \(Special Edition\)](https://open.spotify.com/album/6vuaXr9FgaT03zUMSRGU2Z) | 3:28 | 2021-10-15 | 2022-07-29 |
@@ -274,7 +275,7 @@
 | [The Big Sky \- 2018 Remaster](https://open.spotify.com/track/5JIahiVpnzRZWTR9jpjmr0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:35 | 2022-07-20 |  |
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/50T7xShSIGpOKvpyVahSAx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:38 | 2022-07-20 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2021-10-15 |  |
-| [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 |  |
+| [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 | 2023-02-03 |
 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 | 2022-10-14 | 2022-11-13 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8) | 4:11 | 2021-10-15 | 2022-07-29 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 | 2022-07-20 |  |
@@ -297,6 +298,7 @@
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2021-10-15 |  |
 | [Two Weeks](https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:07 | 2022-07-20 |  |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-10-15 | 2023-02-02 |
+| [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2023-01-19 |  |
 | [Undercover \(Of The Night\) \- Remastered 2009](https://open.spotify.com/track/4N8oxV3hvn8Efyo4yxp3LG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Undercover \(2009 Re\-Mastered\)](https://open.spotify.com/album/6Dee9XTTIUh5zXRUguuC40) | 4:33 | 2023-02-02 |  |
 | [Undertow](https://open.spotify.com/track/2x5c9ApuyqGcJ0ApKukGCl) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool](https://open.spotify.com/album/5ILOMA8LzHfdjR2HZQ2vFN) | 5:53 | 2022-10-14 |  |
 | [Undertow](https://open.spotify.com/track/6gUISPCR7yMiCaN7sfM4m7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool \(Deluxe\)](https://open.spotify.com/album/3vNQPnY0Dv8fyyN3gHBmBh) | 5:53 | 2022-07-12 | 2022-07-29 |

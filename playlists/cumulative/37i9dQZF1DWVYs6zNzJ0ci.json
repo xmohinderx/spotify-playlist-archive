@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Bubaseta",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Pure Negga",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -296,6 +296,24 @@
       "duration_ms": 254085,
       "name": "Aroma de Caf\u00e9",
       "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+    },
+    {
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "album": {
@@ -802,7 +820,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 272000,
       "name": "Colores",
       "url": "https://open.spotify.com/track/1PFMEnmRjhPUF1LPBxz9WW"
@@ -2154,16 +2172,16 @@
       },
       "artists": [
         {
-          "name": "Bubaseta",
-          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+          "name": "King Kong Click",
+          "url": "https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX"
         },
         {
           "name": "Subwoffer",
           "url": "https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm"
         },
         {
-          "name": "King Kong Click",
-          "url": "https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX"
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
         },
         {
           "name": "Movimiento Original",
@@ -2348,6 +2366,32 @@
     {
       "album": {
         "name": "Libertad",
+        "url": "https://open.spotify.com/album/4WJuv2CiFIQ9nHuq0RVG5a"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        },
+        {
+          "name": "Pochi Marambio y Tierra Sur",
+          "url": "https://open.spotify.com/artist/4e9YSQS76Qym1Gji4ylvzS"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307090,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/1FaltD0fxOvaa6md5dVHOR"
+    },
+    {
+      "album": {
+        "name": "Libertad",
         "url": "https://open.spotify.com/album/3qwwBICkmaplY4dxL3hOvo"
       },
       "artists": [
@@ -2460,6 +2504,24 @@
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
+    },
+    {
+      "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/2kSn2CgutBlhxylrKuBNzc"
+      },
+      "artists": [
+        {
+          "name": "Bachaco",
+          "url": "https://open.spotify.com/artist/25JHq0SPNYK6sQ2obxdHZc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178985,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/2T1F4mQko6YMtDADf3NTfa"
     },
     {
       "album": {
@@ -2950,7 +3012,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 215000,
       "name": "M\u00e1s Como T\u00fa",
       "url": "https://open.spotify.com/track/3AV5noaspqgB05uyJvSWRC"
@@ -2972,7 +3034,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
@@ -3366,7 +3428,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 199505,
       "name": "Que Me Coma El Tigre",
       "url": "https://open.spotify.com/track/71OaBFzEn3j9rYnheYFGxq"
@@ -3717,6 +3779,44 @@
     },
     {
       "album": {
+        "name": "RocketBandShot 1",
+        "url": "https://open.spotify.com/album/7vMVtTFmLiz5a9OzPVqUGO"
+      },
+      "artists": [
+        {
+          "name": "RickRocket",
+          "url": "https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G"
+        },
+        {
+          "name": "NOITE",
+          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
+        },
+        {
+          "name": "Rastachai",
+          "url": "https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR"
+        },
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        },
+        {
+          "name": "Garolo",
+          "url": "https://open.spotify.com/artist/62NbFDwCtexT3AgFzXsmzw"
+        },
+        {
+          "name": "LENNY FACE",
+          "url": "https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "RocketBandShot 1",
+      "url": "https://open.spotify.com/track/1VdJEE9EzNqRGEZsZkFzWy"
+    },
+    {
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -3790,7 +3890,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 166082,
       "name": "Seguir Viviendo Sin Tu Amor",
       "url": "https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr"
@@ -4354,7 +4454,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 159984,
       "name": "Una Vaina",
       "url": "https://open.spotify.com/track/1W7j0UqTRmZvEDtWvFG1oi"

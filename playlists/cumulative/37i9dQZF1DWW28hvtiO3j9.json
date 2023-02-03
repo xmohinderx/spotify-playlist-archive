@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Air Kiss",
+        "url": "https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78"
+      },
+      "artists": [
+        {
+          "name": "Ami Ozaki",
+          "url": "https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Junjou",
+      "url": "https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q"
+    },
+    {
+      "album": {
         "name": "Relief 72 hours",
         "url": "https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5"
       },
@@ -482,7 +500,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 348240,
       "name": "LIGHT'N UP",
       "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "HIP CITY",
+        "url": "https://open.spotify.com/album/4ATf4dCMffq9ikKjoIcoQ4"
+      },
+      "artists": [
+        {
+          "name": "Miki Asakura",
+          "url": "https://open.spotify.com/artist/6i78fiwTmtgGhVeyQIdITv"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224441,
+      "name": "Love Trip",
+      "url": "https://open.spotify.com/track/4dxRUlwCaI9nHUGrfWbLqT"
+    },
+    {
+      "album": {
         "name": "FIRST LIGHT (2018 Remaster)",
         "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
       },
@@ -590,7 +626,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 464066,
       "name": "MIDNIGHT DRIVER",
       "url": "https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 206320,
       "name": "SAY GOODBYE",
       "url": "https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V"
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 291573,
       "name": "\u30b9\u30ce\u30c3\u30d6\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2"

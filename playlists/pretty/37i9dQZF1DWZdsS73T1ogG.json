@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bernier & Alejo",
-  "num_followers": 511640,
+  "num_followers": 511656,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDU5NjczMTg3MDNmZWE5ZGJjMmQwNzY2NGVkZjBiZWRk",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDVhZjRkYzU4ZTI0ZWMxZmU4YjFhNmYzNTA3MGU2ZTBl",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -703,8 +703,8 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Si Yo Me Muero",
-        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
       "artists": [
         {
@@ -712,13 +712,17 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "MVSIS",
-          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 201386,
-      "name": "Si Yo Me Muero",
-      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
+      "duration_ms": 276835,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -827,22 +831,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 181988,
-      "name": "Ojitos Rojos",
-      "url": "https://open.spotify.com/track/3LbiVjqY2chZ0q9oOwbluK"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "No Pinto Pajaritos",
         "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
       },
@@ -855,6 +843,22 @@
       "duration_ms": 145349,
       "name": "No Pinto Pajaritos",
       "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 181988,
+      "name": "Ojitos Rojos",
+      "url": "https://open.spotify.com/track/3LbiVjqY2chZ0q9oOwbluK"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -899,8 +903,8 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+        "name": "Si Yo Me Muero",
+        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
       },
       "artists": [
         {
@@ -908,17 +912,13 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
         }
       ],
-      "duration_ms": 276835,
-      "name": "Sufro",
-      "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
+      "duration_ms": 201386,
+      "name": "Si Yo Me Muero",
+      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1039,34 +1039,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "SUSANA (Remix)",
-        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
-      },
-      "artists": [
-        {
-          "name": "Leo Bash",
-          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "SUSANA (Remix)",
-      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Los Palos",
         "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
       },
@@ -1087,6 +1059,26 @@
       "duration_ms": 280204,
       "name": "Los Palos",
       "url": "https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "duration_ms": 193850,
+      "name": "Perreo",
+      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1131,22 +1123,30 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+        "name": "SUSANA (Remix)",
+        "url": "https://open.spotify.com/album/6j7F1URZEkmzMLrhid2yQB"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
         },
         {
-          "name": "Magicenelbeat",
-          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
         }
       ],
-      "duration_ms": 193850,
-      "name": "Perreo",
-      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
+      "duration_ms": 234856,
+      "name": "SUSANA (Remix)",
+      "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Copiloto",
-        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Copiloto",
-      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Clickiamos",
         "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 219533,
       "name": "Clickiamos",
       "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Copiloto",
+        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Copiloto",
+      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1831,6 +1831,30 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "ACERCATE",
+        "url": "https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm"
+      },
+      "artists": [
+        {
+          "name": "The Best Soundz",
+          "url": "https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "ACERCATE",
+      "url": "https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Contesto O Ignoro",
         "url": "https://open.spotify.com/album/3pDm0pLIA6s7HkaPn2Hzgx"
       },
@@ -1879,30 +1903,6 @@
       "duration_ms": 233920,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/39D1XXTruO2OyjH3pf1mMy"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "ACERCATE",
-        "url": "https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm"
-      },
-      "artists": [
-        {
-          "name": "The Best Soundz",
-          "url": "https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "ACERCATE",
-      "url": "https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz"
     },
     {
       "added_at": "2023-01-27 05:00:00",

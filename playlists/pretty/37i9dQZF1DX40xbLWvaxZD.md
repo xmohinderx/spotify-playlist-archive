@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,032 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,053 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 7 | [Clock Strikes](https://open.spotify.com/track/30CenAPBR2VmH91r4Um32b) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [JINSEI KAKETE BOKU WA](https://open.spotify.com/album/5dWke9BKYdBq7YXbb7jrLC) | 3:55 |
 | 8 | [紅](https://open.spotify.com/track/7Kyh4musIxUJhuhOVgR60f) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [湘南乃風 〜COME AGAIN〜](https://open.spotify.com/album/0rfIbXcXQYQDslQw1cvNPh) | 6:17 |
 | 9 | [Today is a diamond \- Full Spec Edition](https://open.spotify.com/track/140e5u8qAM2IzhCyPqHfNG) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:31 |
-| 10 | [hands \- Full Spec Edition](https://open.spotify.com/track/3WCKcEJrFuvBOzAevvZ12V) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:32 |
+| 10 | [hands \- Full Spec Edition](https://open.spotify.com/track/2kBo896zEH6RuI82OmLxAA) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [YAKUZA 6: THE SONG OF LIFE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0HMKppHnFphltdEzp3Sz7K) | 3:32 |
 | 11 | [As You Like](https://open.spotify.com/track/03VWoSbfWvZhRF5HXOxgX8) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv), [美緒](https://open.spotify.com/artist/59OrirVzqqGU63UES7pKde) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side A\)](https://open.spotify.com/album/3WXNB1IEdCsW6zRLU4Kjt0) | 2:36 |
 | 12 | [時間よ止まれ \(セルフカバー\) \- Remastered 2022](https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [SUBWAY EXPRESS 2 \(50th Anniversary Remastered\)](https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI) | 5:21 |
 | 13 | [TONIGHT\-restart from this night\- \- Full Spec Edition](https://open.spotify.com/track/636lfobOQapmljr4NOgDIK) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [龍が如く極 オリジナルサウンドトラック](https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMDc5MGZiMGI0MjU0NDFjN2VkZjEzNmExZjljODA4MTRi`
+Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMGI1ZmM1YTRiYjFhNDQ4YWU5NGVmNDEyNDZlNjcxMDNh`

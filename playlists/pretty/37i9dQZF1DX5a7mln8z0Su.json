@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5094,
+  "num_followers": 5109,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMDFiZmU3NTc0YjFlNTRmZTA5YWVkZWRmMjgxZTQzZDA4",
+  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMDRjN2FlNzAzMTMzMTUxMjRiZWIyZTJiMzU5NzE0NzZj",
   "tracks": [
     {
       "added_at": "2023-01-13 04:06:07",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
+      "added_at": "2023-02-03 01:34:13",
+      "album": {
+        "name": "BURN-OUT",
+        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
+      },
+      "artists": [
+        {
+          "name": "FRIDA-ANNE",
+          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
+        }
+      ],
+      "duration_ms": 156984,
+      "name": "BURN-OUT",
+      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
+    },
+    {
       "added_at": "2023-01-13 04:06:07",
       "album": {
         "name": "Letter",
@@ -673,20 +689,40 @@
       "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
     },
     {
-      "added_at": "2023-02-02 01:28:05",
+      "added_at": "2023-02-03 01:34:13",
       "album": {
-        "name": "BURN-OUT",
-        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
+        "name": "Last Night (feat. DD7)",
+        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
       },
       "artists": [
         {
-          "name": "FRIDA-ANNE",
-          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "DD7",
+          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
         }
       ],
-      "duration_ms": 156984,
-      "name": "BURN-OUT",
-      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
+      "duration_ms": 184736,
+      "name": "Last Night (feat. DD7)",
+      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
+    },
+    {
+      "added_at": "2023-02-03 01:34:13",
+      "album": {
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+      },
+      "artists": [
+        {
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+        }
+      ],
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -707,6 +743,26 @@
       "duration_ms": 174975,
       "name": "Hold tight",
       "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -739,62 +795,6 @@
       "duration_ms": 191793,
       "name": "Then",
       "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-02-02 01:28:05",
-      "album": {
-        "name": "I Mean You",
-        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
-      },
-      "artists": [
-        {
-          "name": "Diana",
-          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
-        }
-      ],
-      "duration_ms": 195150,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
-    },
-    {
-      "added_at": "2023-02-02 01:28:05",
-      "album": {
-        "name": "Last Night (feat. DD7)",
-        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        },
-        {
-          "name": "DD7",
-          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Last Night (feat. DD7)",
-      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-01-13 04:06:07",

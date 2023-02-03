@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 7 min
+78 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Queen Of Suffolk County](https://open.spotify.com/track/1CVbrlk5SiU2W1c1UoLHs3) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:51 | 2022-09-16 |  |
 | [Rose Tattoo](https://open.spotify.com/track/3j5QcKYJ836ZBbcj1OoEod) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 5:06 | 2022-09-16 |  |
 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 | 2022-09-16 | 2023-01-17 |
-| [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 |  |
+| [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 | 2023-02-03 |
+| [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2023-02-02 |  |
 | [Talking Jukebox](https://open.spotify.com/track/56cKEoN9Rdmv2QAGOHrqCr) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:13 | 2022-10-01 |  |
 | [Ten Times More](https://open.spotify.com/track/4Wc4TZ1uXhiHm24DdRCDPo) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:11 | 2022-12-13 | 2022-12-16 |
 | [Ten Times More](https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Ten Times More](https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U) | 2:11 | 2022-09-16 | 2022-12-14 |

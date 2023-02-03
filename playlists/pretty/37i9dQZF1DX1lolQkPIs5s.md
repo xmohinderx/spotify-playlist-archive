@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,128 likes - 123 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,138 likes - 123 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 30 | [Starting Now](https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Starting Now](https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt) | 3:25 |
 | 31 | [レット・イット・ゴー\~ありのままで\~ \- Japanese Version](https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3) | [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 |
 | 32 | [Un Poco Loco \- Japanese Version](https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Naohito Fujiki](https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI), [Héctor](https://open.spotify.com/artist/3xjmQWrkwm5EvWN1NH1ArL) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 1:52 |
-| 33 | [タイム・トゥ・シャイン! \- 東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング](https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [タイム・トゥ・シャイン! \(東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング\)](https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl) | 3:21 |
+| 33 | [タイム・トゥ・シャイン! \- 東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング](https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y) | [トウキョウディズニーシー](https://open.spotify.com/artist/5Vk4kpHb7L5HUFikvx3GNH) | [タイム・トゥ・シャイン! \(東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング\)](https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl) | 3:21 |
 | 34 | [When Will My Life Begin?](https://open.spotify.com/track/5rL3JDnpLXp3DdkdkQsUW1) | [HARAMIchan](https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h) | [Disney Happy Piano Tunes](https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x) | 2:45 |
 | 35 | [Friend Like Me \- Japanese Version](https://open.spotify.com/track/3wBhDAYr5vNS4gHAT0ffnL) | [Koichi Yamadera](https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo) | [Aladdin \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK) | 2:35 |
 | 36 | [Lead the Way](https://open.spotify.com/track/6TI7gSItoNapzom0hhuoOM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya e l'Ultimo Drago \(Colonna Sonora Originale\)](https://open.spotify.com/album/2GIC4pgqzQyphQbWXvP6mt) | 3:43 |

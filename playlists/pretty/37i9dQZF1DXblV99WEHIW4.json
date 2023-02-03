@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 164176,
+  "num_followers": 164356,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDQ4NTQ1NTJmMTQxOGE2ZmVjYzVmMTM3NzRjNDVhNDhj",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDZiNmJkMzI5MmMyYzM3MDA4MWMwNjM4OTZkYTg1NTM5",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Soda",
-      "url": "https://open.spotify.com/track/3PUnku87booODLtX6VVHwN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 208199,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Soda",
+      "url": "https://open.spotify.com/track/3PUnku87booODLtX6VVHwN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200946,
       "name": "Missing Limbs",
       "url": "https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Toothpick",
-      "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/15lT31vL53ez4CQ41t26aK"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 374893,
       "name": "And All That Could Have Been",
       "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Toothpick",
+      "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7"
+      },
+      "artists": [
+        {
+          "name": "Susan Sunnemo",
+          "url": "https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212030,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd"
+    },
+    {
+      "album": {
         "name": "These Foolish Things",
         "url": "https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw"
       },

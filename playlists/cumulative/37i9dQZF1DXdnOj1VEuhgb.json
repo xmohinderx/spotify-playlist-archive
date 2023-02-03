@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: G\u00fcne\u015f",
   "name": "NKVT",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 156000,
       "name": "Gitme Beb\u00e9",
       "url": "https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 196173,
       "name": "Kay\u0131p Y\u0131llar\u0131m",
       "url": "https://open.spotify.com/track/1Sfh7w7AYCUWw7Y3tET2MV"
@@ -768,6 +768,28 @@
       "duration_ms": 182400,
       "name": "NKB\u0130 X YAPAMAM - Remix",
       "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
+    },
+    {
+      "album": {
+        "name": "O Yeterdi Asl\u0131nda",
+        "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "O Yeterdi Asl\u0131nda",
+      "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
     },
     {
       "album": {
@@ -1146,6 +1168,24 @@
       "duration_ms": 123826,
       "name": "YAPAMAM",
       "url": "https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X"
+    },
+    {
+      "album": {
+        "name": "yok muydu vaktin bana?",
+        "url": "https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "yok muydu vaktin bana?",
+      "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"
     },
     {
       "album": {

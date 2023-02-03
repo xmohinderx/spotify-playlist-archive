@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,166 likes - 82 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,175 likes - 82 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 41 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 |
 | 42 | [Cold Rain](https://open.spotify.com/track/4lx1OefOTwZqbVp4j5kBBg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 5:46 |
 | 43 | [Bring on the Blues](https://open.spotify.com/track/3i4WJaPerBXW1Up1ZVGU5t) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [So Long](https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E) | 4:53 |
-| 44 | [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 |
+| 44 | [Katie May](https://open.spotify.com/track/5zyqoaFLcTj9RXGeyeWuag) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:51 |
 | 45 | [Trouble In Mind](https://open.spotify.com/track/7173kTEVvoggnlkfzK04V5) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 3:38 |
 | 46 | [Blues For Rampart Street](https://open.spotify.com/track/2kcUYFKefPRK1IeNwkdJUo) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 2:57 |
 | 47 | [Dirty Pool](https://open.spotify.com/track/66mtQ5mRlw7ys2NJCkdJhz) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:00 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 81 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 82 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY3MzM3MjMwMSwwMDAwMDAwMDljOTYyMTc2NTMxNTE3OGFlZjU1NzYwNjBiNjUzOTYw`
+Snapshot ID: `MTY3MzM3MjMwMSwwMDAwMDAwMDE0OTljNmVlMDU2NmJlN2Y3ZGVlMmJkM2E0YjBiMDI1`

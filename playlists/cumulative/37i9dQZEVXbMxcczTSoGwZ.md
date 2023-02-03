@@ -4,13 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,239 songs - 2 day 20 hr 3 min
+1,240 songs - 2 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-23 | 2021-06-13 |
 | [100](https://open.spotify.com/track/2ow5N6XgoRzetarNaVY2wq) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:47 | 2021-07-18 | 2021-07-24 |
 | [100](https://open.spotify.com/track/7FVNXExNwkaELYlP7ueELx) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [100](https://open.spotify.com/album/0uvmrrAHb4rEBuhEbRF6iP) | 2:47 | 2021-03-27\* | 2021-05-03 |
+| [100 asiaa](https://open.spotify.com/track/2YoDV3OxEgqnCcrTcqF4Uz) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [100 asiaa](https://open.spotify.com/album/5ioCc1up82G2XozFBZx8ae) | 3:12 | 2023-02-02 |  |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-05 | 2022-11-07 |
 | [150](https://open.spotify.com/track/4RmyvCoYKGaBAsC4CLkMMu) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-13 |
 | [20 Ave Mariaa](https://open.spotify.com/track/2SREBxoqvxhB0wQHgLeNVI) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [20 Ave Mariaa](https://open.spotify.com/album/4obc4ozeksN2VovrhKqSTR) | 3:43 | 2021-03-27\* | 2021-08-22 |
@@ -299,7 +300,7 @@
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-28 | 2021-11-21 |
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-04-30 | 2022-05-06 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2023-01-01 | 2023-01-03 |
-| [Girls Like You](https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Girls Like You](https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu) | 2:47 | 2023-01-17 |  |
+| [Girls Like You](https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Girls Like You](https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu) | 2:47 | 2023-01-17 | 2023-02-03 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-15 | 2022-05-22 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-12 |

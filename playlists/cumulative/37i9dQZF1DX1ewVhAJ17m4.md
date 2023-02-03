@@ -2,9 +2,9 @@
 
 ### [Pop Punk's Not Dead](https://open.spotify.com/playlist/37i9dQZF1DX1ewVhAJ17m4)
 
-> All the best new songs from the pop punk scene\. Cover: All Time Low
+> All the best new songs from the pop punk scene\. Cover: Stand Atlantic
 
-235 songs - 11 hr 29 min
+237 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 | 2022-02-28 | 2022-07-29 |
 | [Everybody but You](https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:47 | 2022-05-20 |  |
 | [F Around and Find Out](https://open.spotify.com/track/3C8tj7hBuJcYSssNOQjMPw) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [F Around and Find Out](https://open.spotify.com/album/22om6gslrsQ8Kxqx7KCXym) | 3:33 | 2022-09-09 | 2022-11-11 |
-| [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-09 |  |
+| [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-09 | 2023-02-03 |
 | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/track/3bsZ7QBXsfJ0ZezxUESfxO) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/album/4fp4rOAKrPsPYTFQYiRhKy) | 3:05 | 2021-12-20 | 2022-02-22 |
 | [Feel Something](https://open.spotify.com/track/0ris8ZOev93elZLB0au38j) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 3:00 | 2022-11-10 |  |
 | [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-06-14 | 2022-07-19 |
@@ -136,6 +136,7 @@
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-10 |  |
 | [Juice](https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG), [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [Juice](https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA) | 3:11 | 2022-08-05 |  |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-20 | 2022-07-19 |
+| [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
 | [Last First Date](https://open.spotify.com/track/7EG5uI3JPSMaGgexmhsyzb) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Last First Date](https://open.spotify.com/album/0xlpiaHLJNZ7aksc9RGJtW) | 2:58 | 2021-12-20 | 2022-10-07 |
 | [Levitate](https://open.spotify.com/track/4iAo0pTZtSVvBAnVYPnD8C) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Levitate](https://open.spotify.com/album/2WUUkcwTRTwSM8ZQ93g0Yx) | 2:59 | 2021-12-20 | 2022-01-15 |
 | [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-06 | 2022-12-13 |
@@ -193,6 +194,7 @@
 | [SiCK ABOuT U](https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [SiCK ABOuT U](https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4) | 3:08 | 2021-12-20 |  |
 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 | 2021-12-20 |  |
 | [Single At 40](https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Single At 40](https://open.spotify.com/album/0UBTtf7QW0FMLAZLavnFWY) | 2:40 | 2021-12-20 | 2022-04-05 |
+| [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 | 2023-02-03 |  |
 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 | 2022-06-14 | 2023-01-22 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-14 | 2022-07-19 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-06 |  |
@@ -223,7 +225,7 @@
 | [theonlytimehefeelsfine](https://open.spotify.com/track/42LgfNNmYrzwjpgMb6uha5) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [theonlytimehefeelsfine](https://open.spotify.com/album/7ieUL8QlkwJnqpnPqLF9G0) | 3:26 | 2022-08-18 | 2022-11-11 |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-12-20 | 2022-02-22 |
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2022-12-26 |
-| [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 |  |
+| [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 | 2023-02-03 |
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-13 |  |
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-04-04 | 2022-08-19 |
 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 | 2022-08-25 | 2022-11-11 |

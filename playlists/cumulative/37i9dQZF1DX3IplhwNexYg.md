@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: boygenius
+> The best in current indie rock\. Cover: Somebody's Child
 
-359 songs - 20 hr 14 min
+360 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Birthday](https://open.spotify.com/track/2AKdrnTd4ghOtZqBL0ftr6) | [Nectar](https://open.spotify.com/artist/0KrkFYlEHw4rOmAXtK9L7g) | [Knocking at the Door](https://open.spotify.com/album/4cTkQGmo5za5yeoCL9HrHj) | 4:02 | 2021-03-09 | 2022-01-17 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-08-18 | 2022-09-30 |
 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 | 2022-08-18 | 2022-09-30 |
-| [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-10-13 |  |
+| [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-10-13 | 2023-02-03 |
 | [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-01 | 2022-10-15 |
 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 | 2022-10-06 |  |
 | [Blu Shirt Boy](https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK) | 3:43 | 2022-09-08 | 2022-10-13 |
@@ -137,6 +137,7 @@
 | [Girlfriend](https://open.spotify.com/track/7tp6lHD5Ic2iKLhNFEhQ0V) | [The Beverly Chills](https://open.spotify.com/artist/2i8WYszPBblwToDvihkGhK) | [Girlfriend](https://open.spotify.com/album/4RtiLhku9krTE05LuaHtCd) | 2:37 | 2021-03-09 | 2022-01-17 |
 | [GIRLFRIEND SONG](https://open.spotify.com/track/2QVs38RF95zCnylGTeYsAk) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [GIRLFRIEND SONG](https://open.spotify.com/album/0bXvu05qQvg89TY89kYDVH) | 3:44 | 2022-08-18 | 2022-10-16 |
 | [GIRLFRIEND SONG](https://open.spotify.com/track/3Ozd3VhAsIMrPFP13nmtAl) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 3:44 | 2022-10-13 | 2023-01-20 |
+| [Give It up to Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 |  |
 | [Given Up](https://open.spotify.com/track/6U6SE6TIi5dkBtbeTpttuE) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up](https://open.spotify.com/album/4rgx764wUVuOBIydzikMEe) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 | 2023-01-22 |
 | [Goodtime Girl](https://open.spotify.com/track/6UJjG07pInpl76t5sfbuoZ) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Goodtime Girl](https://open.spotify.com/album/6Ibu14uF72Paww9euwpsT3) | 4:10 | 2021-06-21 | 2022-08-19 |

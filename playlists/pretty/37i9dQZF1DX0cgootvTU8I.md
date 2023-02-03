@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,686 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,735 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 27 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
 | 28 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
 | 29 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 |
-| 30 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
-| 31 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
-| 32 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
-| 33 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
+| 30 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
+| 31 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
+| 32 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
+| 33 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
 | 34 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 | 35 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
 | 36 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 43 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
 | 44 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 |
 | 45 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 46 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
+| 46 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
 | 47 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 48 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
+| 48 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
 | 49 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
 | 50 | [No Fuss](https://open.spotify.com/track/20Nr0RVqOItWBLR1Th9ywW) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [No Fuss](https://open.spotify.com/album/2pxQhQekFJ4SWiA2BEYAEI) | 4:28 |
 
-Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMDgxMTBlN2U1ZTEwYmI3NWQ1ZDdiZmU1MDk1YjE2ZWZm`
+Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMDBlMmZkY2VjNzcyMDEzNWEyZmI4Y2NlNjYxYzEzOTA4`

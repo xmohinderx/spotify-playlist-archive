@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Arlo Parks. ",
-  "num_followers": 106261,
+  "num_followers": 106256,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDA5MjdkMzUyZmUyNTMwN2MzYTYyOTU0NDk1OTJlODBh",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDkzOWYyOTBjZmJkMTA5MzkyNTEwNDRmNjhhNzdhY2Iz",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC"
     },
     {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "if we lived on the moon",
-        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 151223,
-      "name": "if we lived on the moon",
-      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Valentine",
@@ -691,6 +675,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "if we lived on the moon",
+        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "duration_ms": 151223,
+      "name": "if we lived on the moon",
+      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Dry Food",
-        "url": "https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 214067,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/1W9lPqClDs0J5ZCCUFjy5K"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Who Am I?",
         "url": "https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172280,
       "name": "Change",
       "url": "https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Dry Food",
+        "url": "https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 214067,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/1W9lPqClDs0J5ZCCUFjy5K"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Chosen Family (with Elton John)",
-        "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 279679,
-      "name": "Chosen Family (with Elton John)",
-      "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/34lYIGfJoCuFH8D1YRRFIp"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Chosen Family (with Elton John)",
+        "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 279679,
+      "name": "Chosen Family (with Elton John)",
+      "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
     },
     {
       "added_at": "2022-06-06 14:47:44",

@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 15074,
+  "num_followers": 15102,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMGEwNDAyZThhNmMzYzRkZmVkNjY1N2I2NDk2MGZkN2M1",
+  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMDJkNGJiZGMyYzc1MmM5Yjk0ZTM1NGUwNmI5NTA3NjBj",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "De Quen Chon",
-        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "De Quen Chon",
-      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "De Quen Chon",
+        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "De Quen Chon",
+      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Popurries Tropicales Con Las Mejores",
-        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+        "name": "Aquellos Tiempos del Trio Matamoros",
+        "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
       },
       "artists": [
         {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+          "name": "Trio Matamoros",
+          "url": "https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW"
         }
       ],
-      "duration_ms": 394213,
-      "name": "Popurri De Cumbias",
-      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
+      "duration_ms": 217053,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Aquellos Tiempos del Trio Matamoros",
-        "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
       },
       "artists": [
         {
-          "name": "Trio Matamoros",
-          "url": "https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW"
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 134866,
-      "name": "El Negrito del Batey",
-      "url": "https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "La M\u00fasica en la Radio",
         "url": "https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 141946,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 134866,
+      "name": "El Negrito del Batey",
+      "url": "https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU"
     },
     {
       "added_at": "2023-01-23 22:42:50",

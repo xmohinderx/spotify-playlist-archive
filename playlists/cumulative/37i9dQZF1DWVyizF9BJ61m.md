@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-75 songs - 6 hr 8 min
+76 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 | 2019-03-22 |  |
 | [Akula Owu Onyeara](https://open.spotify.com/track/3DSebryZoyKDegPI7RV4QX) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Afrobeat par Mondomix avec Tony Allen, Femi Kuti, Manu Dibango, KonKoma…](https://open.spotify.com/album/3G9vTcy2aN6A5qn1Yb8DJj) | 7:28 | 2019-03-22 | 2022-11-13 |
 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 | 2019-03-22 | 2022-07-29 |
-| [Akwa Kayi Ji Bia Nuwa](https://open.spotify.com/track/6iNLRaWoB35tb4l7SKLqB5) | [The Identicals](https://open.spotify.com/artist/73dUfpnfNDAjzecrKjL415) | [Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria](https://open.spotify.com/album/1Jmb92xUTgRmGQPJBVrArI) | 5:29 | 2019-03-22 |  |
+| [Akwa Kayi Ji Bia Nuwa](https://open.spotify.com/track/6iNLRaWoB35tb4l7SKLqB5) | [The Identicals](https://open.spotify.com/artist/73dUfpnfNDAjzecrKjL415) | [Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria](https://open.spotify.com/album/1Jmb92xUTgRmGQPJBVrArI) | 5:29 | 2019-03-22 | 2023-02-03 |
 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 | 2019-03-22 |  |
 | [Bargain](https://open.spotify.com/track/4hu0hZxoEAgGnf1wgpEax8) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow \(Soundway Records\)](https://open.spotify.com/album/000f3dTtvpazVzv35NuZmn) | 5:17 | 2019-03-22 | 2022-07-29 |
 | [Bargain](https://open.spotify.com/track/5EmO5ZBXJuJSHjzzTavxW9) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow](https://open.spotify.com/album/6iWID1WMXCAsuZ51uhheWc) | 5:17 | 2019-03-22 |  |
@@ -72,6 +72,7 @@
 | [Somebody's Gonna Lose or Win](https://open.spotify.com/track/6YnhY4SuFyx3gMgeyTlVdI) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:09 | 2019-03-22 |  |
 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 | 2019-03-22 |  |
 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 | 2019-03-22 |  |
+| [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-02-03 |  |
 | [This Hustling World](https://open.spotify.com/track/2qWDv8zJ4xRQWMT6BSjCNk) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Simigwa](https://open.spotify.com/album/72batX8m52vXaZwCTXkunL) | 4:18 | 2019-03-22 |  |
 | [Tire Loma da Nigbehin](https://open.spotify.com/track/1106NpuH96tUmf53qlKsoA) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Tire Loma Da Nigbehin](https://open.spotify.com/album/1wmnnD0JYdybQhfmis8CxK) | 4:48 | 2019-03-22 |  |
 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 | 2019-03-22 |  |

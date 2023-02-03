@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-102 songs - 5 hr 53 min
+103 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2022-12-22 |  |
 | [Lemaire \- Radio Edit](https://open.spotify.com/track/05S78KurkT90dskEXozaE4) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Lemaire](https://open.spotify.com/album/1QwnEILfsLf5hb34vKKnhq) | 3:40 | 2022-12-22 |  |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-12-22 |  |
-| [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 |  |
+| [Lights Off](https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/5Zd2cdDVrRrFJsjiSpo1m5) | 3:30 | 2023-01-16 |  |
+| [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 | 2023-02-03 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-22 |  |
 | [Little Things](https://open.spotify.com/track/5hePt3wJ1b8qQOC7memXx2) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Little Things](https://open.spotify.com/album/6NjrDiHojlQsmU2EXlqLGp) | 3:06 | 2022-12-22 |  |
 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/3uGJfbP8pV3zTIH6Vi8G8x) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 2:37 | 2022-12-22 |  |

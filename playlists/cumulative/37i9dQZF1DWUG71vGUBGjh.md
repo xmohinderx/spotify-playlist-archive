@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-169 songs - 10 hr 13 min
+171 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Caravanas](https://open.spotify.com/track/5jcQppmseKEuvLHbpFV1Vt) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y) | [Tropical Cosmic Sounds From Space \(Compiled By El Palmas\)](https://open.spotify.com/album/3bBEU4DrtDbCQHleE5gm0H) | 5:05 | 2021-08-17 | 2022-11-13 |
 | [Cat In The Night](https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 3:34 | 2021-08-17 |  |
 | [Chicken on the Rocks](https://open.spotify.com/track/6ZY14oBfrMJZKpYqLDilwu) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:25 | 2021-08-17 |  |
-| [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 | 2021-08-17 |  |
+| [Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 5:05 | 2021-08-17 |  |
+| [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 | 2021-08-17 | 2023-02-03 |
 | [Clair de Lune, No\. 3](https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Tomita's Greatest Hits](https://open.spotify.com/album/7yAuhoZXCopPOlaCh21Xlt) | 5:51 | 2021-08-17 |  |
 | [Cosmic Bust](https://open.spotify.com/track/0BufJVMmsjjrL0MdwIS0Md) | [Colonel Elliott & The Lunatics](https://open.spotify.com/artist/4ntYHeXkHdaw8dH6Fsv7lj) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 2:39 | 2021-08-17 |  |
 | [Cul\-De\-Sac](https://open.spotify.com/track/1XXOdq1sBD0cSyN3DjzKlt) | [Krzysztof Komeda](https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC) | [Cul\-De\-Sac & Knife In The Water](https://open.spotify.com/album/3M6aFO2t4IVkK1gMUlOg1W) | 2:38 | 2021-08-17 |  |
@@ -163,7 +164,8 @@
 | [Tu y Yo](https://open.spotify.com/track/0Rq6XEX3ga409Bf8JPOt1F) | [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 4:28 | 2021-08-17 | 2022-07-29 |
 | [Tu y Yo](https://open.spotify.com/track/5fBFdaomCwZzSlZi4c56Z1) | [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Tu y Yo](https://open.spotify.com/album/1WfHBjvJIz8N4Z1BDr6PDz) | 4:28 | 2021-08-17 | 2022-11-13 |
 | [Unavailable Memory](https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:54 | 2021-08-17 |  |
-| [Variation One](https://open.spotify.com/track/0qkdMZQcLBvuCOrlBWSOI5) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Electrically Possessed \[Switched On Volume 4\]](https://open.spotify.com/album/1U0PyUTv5M1RTUM588771z) | 4:01 | 2021-08-17 |  |
+| [Variation One](https://open.spotify.com/track/0qkdMZQcLBvuCOrlBWSOI5) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Electrically Possessed \[Switched On Volume 4\]](https://open.spotify.com/album/1U0PyUTv5M1RTUM588771z) | 4:01 | 2021-08-17 | 2023-02-03 |
+| [Variation One](https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Electrically Possessed \[Switched On Volume 4\]](https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw) | 4:01 | 2021-08-17 |  |
 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 | 2021-08-17 | 2022-07-29 |
 | [Video Game](https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Tropical Cosmic Sounds from Space \(Compiled by El Palmas\)](https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ) | 4:19 | 2021-08-17 | 2022-07-29 |
 | [Video Game](https://open.spotify.com/track/5yGzW0Hmztr0C0PChEwK0I) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Upadesa](https://open.spotify.com/album/2YtFlbonci7Y7SDjyXc2Kw) | 4:19 | 2021-08-17 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201chttps://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg\u201d>Zolita</a>  ",
-  "num_followers": 33726,
+  "num_followers": 33833,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMDE4ZGQ3NWQxODRlNzQyMzlkMzQ4OTBhZDM4MDRmYWJi",
+  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMGZkNjdiYjMyNjM5MzQ4NmQ3NDJmNzdlYWIyNmRhN2Nl",
   "tracks": [
     {
       "added_at": "2023-02-01 05:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "Where do we go now?",
         "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0KcL04RiYSmfbGkpDxLXvj"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 202524,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9"
+        "name": "Blood And Butter",
+        "url": "https://open.spotify.com/album/3dedSM3XVmO5P5cSxXdU7K"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 202524,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b"
+      "duration_ms": 268766,
+      "name": "Blood And Butter",
+      "url": "https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 158146,
       "name": "Porque Soy Abeja Reina",
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Blood And Butter",
-        "url": "https://open.spotify.com/album/3dedSM3XVmO5P5cSxXdU7K"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 268766,
-      "name": "Blood And Butter",
-      "url": "https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn"
     },
     {
       "added_at": "2023-02-01 05:00:00",

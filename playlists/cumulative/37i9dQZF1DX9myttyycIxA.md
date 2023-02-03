@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: ghost orchard
 
-791 songs - 1 day 21 hr 17 min
+792 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-06-17 | 2022-07-23 |
 | [2007](https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [2007](https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV) | 4:09 | 2022-09-16 | 2022-10-15 |
 | [27](https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [27 / Hologram](https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu) | 3:12 | 2022-11-17 |  |
+| [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 |  |
 | [9/10](https://open.spotify.com/track/3oVJlt8KOIh6soEBp0DSuR) | [Keyboard Dog](https://open.spotify.com/artist/2nF1Bu7mDkYoeEYt02OU8z) | [9/10](https://open.spotify.com/album/6s5QGDRXgsjaEAcQsaEJh6) | 3:23 | 2022-04-01 | 2022-05-13 |
 | [A Dream With a Baseball Player](https://open.spotify.com/track/77kcmLEFqsXAeNaOj6orGN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [A Dream With a Baseball Player](https://open.spotify.com/album/0LmeiO3eL76aYTWdzW2QgB) | 3:41 | 2021-06-25 | 2022-04-27 |
 | [a vision of you](https://open.spotify.com/track/6jsg8ZDaCjAwFHYvdkzI2M) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [a vision of you](https://open.spotify.com/album/5YVWwGXF1In8WQgk6snPfL) | 3:22 | 2021-04-02 | 2022-04-21 |
@@ -740,7 +741,7 @@
 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 | 2021-07-23 | 2022-04-29 |
 | [UFOF](https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p) | 3:08 | 2021-03-05 | 2022-04-29 |
 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 | 2023-01-13 |  |
-| [Unfun](https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Unfun / Sleep In](https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t) | 4:22 | 2022-08-19 |  |
+| [Unfun](https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Unfun / Sleep In](https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t) | 4:22 | 2022-08-19 | 2023-02-03 |
 | [unravel](https://open.spotify.com/track/45owx3gqy8vAfQhGGXWD5j) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [unravel / ruby at dawn](https://open.spotify.com/album/5jdBnUmUdTnINH3An2iHiw) | 3:17 | 2022-01-28 | 2022-04-25 |
 | [Unrequited Love \(& other clichés\)](https://open.spotify.com/track/1K0AENxzuLi4M420wUlvPT) | [Breakup Shoes](https://open.spotify.com/artist/3kE0TeA4n6FZD1UG6ctB0m) | [Unrequited Love \(& other clichés\)](https://open.spotify.com/album/0VQz560TqtB7FcrY51VjyX) | 4:46 | 2022-03-26 | 2022-08-20 |
 | [untangle me](https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [untangle me](https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB) | 1:45 | 2022-06-24 | 2022-09-29 |

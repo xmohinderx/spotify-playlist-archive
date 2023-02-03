@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Yaeji",
+  "description": "a new world of alternative electronic music. Cover: Baltra",
   "name": "Portal",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 188000,
       "name": "All Over This Party - salute Remix",
       "url": "https://open.spotify.com/track/74y9q95NblVSvnurtU62WR"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 268900,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 169730,
       "name": "Break",
       "url": "https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP"
@@ -487,6 +487,28 @@
     },
     {
       "album": {
+        "name": "Can't Hang (Disco Lines Remix)",
+        "url": "https://open.spotify.com/album/5885LHE57QcvhGUuk6ABeg"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Can't Hang - Disco Lines Remix",
+      "url": "https://open.spotify.com/track/2O6Om9fTQr9VyUYp3C27Zk"
+    },
+    {
+      "album": {
         "name": "Coming On Strong",
         "url": "https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ"
       },
@@ -541,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Conveniency",
+        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "Conveniency",
+      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "album": {
         "name": "Cool Down",
         "url": "https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w"
       },
@@ -574,6 +614,24 @@
       "duration_ms": 308965,
       "name": "Cyber",
       "url": "https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd"
+    },
+    {
+      "album": {
+        "name": "Daggers",
+        "url": "https://open.spotify.com/album/1joVdJWVO7E3ulPMvwJwl3"
+      },
+      "artists": [
+        {
+          "name": "Pugilist",
+          "url": "https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Daggers",
+      "url": "https://open.spotify.com/track/7DMoJXTtrMxHWZJkOnmHm2"
     },
     {
       "album": {
@@ -848,7 +906,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 393567,
       "name": "floor science",
       "url": "https://open.spotify.com/track/0lb6BXputdTUtIoWHQnVBn"
@@ -932,7 +990,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 207000,
       "name": "Gangster Time",
       "url": "https://open.spotify.com/track/4LEU14gZpGPwjbdJm58fz4"
@@ -950,7 +1008,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 341909,
       "name": "Gondwana Dance",
       "url": "https://open.spotify.com/track/53gmGNC4ntumOGXN5pq5DO"
@@ -1300,7 +1358,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 376875,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3I0wRy2hFBlVI6YxaJtzmE"
@@ -1509,6 +1567,42 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220393,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
+    },
+    {
+      "album": {
+        "name": "On The Eve Of The Rush [134bpm VIP]",
+        "url": "https://open.spotify.com/album/07vFImZlzxhilO1sjokl5O"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337080,
+      "name": "On The Eve Of The Rush [134bpm VIP]",
+      "url": "https://open.spotify.com/track/4USV70gRKevsvJE0BDOI38"
+    },
+    {
+      "album": {
         "name": "Only If U",
         "url": "https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN"
       },
@@ -1546,6 +1640,24 @@
       "duration_ms": 307237,
       "name": "Pink Television",
       "url": "https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww"
+    },
+    {
+      "album": {
+        "name": "Pioneer Digital Plastic Sound",
+        "url": "https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304107,
+      "name": "Pioneer Digital Plastic Sound",
+      "url": "https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS"
     },
     {
       "album": {
@@ -1847,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Shaker",
+        "url": "https://open.spotify.com/album/6ZVD5KmOrlu3J1i762F3my"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        },
+        {
+          "name": "Christopher Tubbs",
+          "url": "https://open.spotify.com/artist/5KVsrGWZHHoUpsuw4sXyn9"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439205,
+      "name": "Shaker",
+      "url": "https://open.spotify.com/track/46n0wrSJEaMogpv54UWFgi"
+    },
+    {
+      "album": {
         "name": "Red Sky EP",
         "url": "https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG"
       },
@@ -1910,6 +2044,32 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
+    },
+    {
+      "album": {
+        "name": "Strong Remixes",
+        "url": "https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269995,
+      "name": "Strong - Pretty Girl Remix",
+      "url": "https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po"
     },
     {
       "album": {
@@ -2145,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Where I End",
+        "url": "https://open.spotify.com/album/6NG6L5FQacqXP3KJhHfsAg"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Wabi-Sabi",
+      "url": "https://open.spotify.com/track/5q5OIJJmqr3slrtZUdpcXs"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/2LEqEbguIzAjPskO59oHje"
       },
@@ -2200,7 +2378,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 241386,
       "name": "We Are Love",
       "url": "https://open.spotify.com/track/6TztmENI0Fm3FUK77wGoHi"
@@ -2366,7 +2544,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 342463,
       "name": "Zwarte Pad",
       "url": "https://open.spotify.com/track/03YyIDJad7Pdk0IGczwzwJ"

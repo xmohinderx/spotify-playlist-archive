@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > Turn the energy levels up and join the party wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,482 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,481 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 91 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
 | 92 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 |
 | 93 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 |
-| 94 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
-| 95 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 |
+| 94 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 |
+| 95 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 96 | [Peaches & Cream](https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Peaches & Cream](https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36) | 3:18 |
 | 97 | [Everybody Dance](https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance](https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD) | 2:48 |
-| 98 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 |
-| 99 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
+| 98 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
+| 99 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 |
 | 100 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
 
-Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMGZmOWE1ZDUxMTE1ZWI2NDFiZjU0MmIzYzBjMmM3ZDUy`
+Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMDFmZTU0ODk5M2QyOTJjYzcwODg3OGQ4ZjcxNTVkMzMy`

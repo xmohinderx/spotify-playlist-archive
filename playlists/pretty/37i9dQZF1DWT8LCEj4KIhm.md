@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,938 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,936 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 37 | [VALENTINO \- Imanbek Remix](https://open.spotify.com/track/660BgHpKo1jhR9MMSFn7CF) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [VALENTINO \(Imanbek Remix\)](https://open.spotify.com/album/2v44hAIsegAFzILiv6ghx8) | 2:57 |
 | 38 | [White Lies](https://open.spotify.com/track/2UkF0EWfh0T90ScJzGqnD1) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [White Lies](https://open.spotify.com/album/0JsabMB0lptwSFeqdBhVB4) | 2:56 |
 | 39 | [Trap \- Rompasso Remix](https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Trap \(Rompasso Remix\)](https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv) | 2:48 |
-| 40 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
-| 41 | [Who's Got Your Love](https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Who's Got Your Love](https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3) | 2:37 |
+| 40 | [Who's Got Your Love](https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Who's Got Your Love](https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3) | 2:37 |
+| 41 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
 | 42 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 43 | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/track/4jbWeX5w0Sa5BWBZpq5JU2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [7 Skies](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5), [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/album/2ummn9lAG2z6GwpMurpkUJ) | 2:21 |
 | 44 | [Aftertaste](https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:17 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 48 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 |
 | 49 | [Bénis](https://open.spotify.com/track/1Zx3yz24uK4mbutGuRykbG) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Génies en herbe](https://open.spotify.com/album/5CEsGFsDODbl9XIaiW03lD) | 3:40 |
 | 50 | [High On You](https://open.spotify.com/track/6aTW3yrl33mThi0v6Z88Oq) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [High On You](https://open.spotify.com/album/40UNLOijHxkFEHVuCxqkiC) | 3:59 |
-| 51 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
-| 52 | [Woosh](https://open.spotify.com/track/1yjxDosub6RIHotGYZBWuR) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [ZayZay](https://open.spotify.com/album/7x3LCLU2w00wLSHOUbTcRB) | 2:57 |
+| 51 | [Woosh](https://open.spotify.com/track/1yjxDosub6RIHotGYZBWuR) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [ZayZay](https://open.spotify.com/album/7x3LCLU2w00wLSHOUbTcRB) | 2:57 |
+| 52 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
 | 53 | [G\-code](https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Cash Out](https://open.spotify.com/album/0IylneHtusMBsWufSs54aE) | 2:51 |
 | 54 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
 | 55 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 75 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGQ5Y2UzMzIwOTBiOTI1MjM0YzM5MjFjZjE3ZWJhNGQ2`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGU4ODQ2ZDIwNGI2YmE5ZmVjMjE5M2U0NGNlZDRmZmVi`

@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Boldy James
 
-403 songs - 22 hr 3 min
+404 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [tarragonbutter](https://open.spotify.com/track/2fFo8AvFqnW88MX2dXdJpI) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [mangalica mink](https://open.spotify.com/album/2zRd1PzAQgdrAA0hK0cevF) | 2:53 | 2022-12-02 |  |
 | [Tell Me What It Is](https://open.spotify.com/track/2INXwkCx0NwBzypT8qCv2z) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Tell Me What It Is](https://open.spotify.com/album/4E7Tj0EMyTdeMZ0c08ani5) | 2:16 | 2022-11-18 | 2022-12-03 |
 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 | 2022-05-06 | 2022-10-22 |
-| [The Fonz](https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [The Fonz](https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS) | 4:48 | 2022-10-07 |  |
+| [The Fonz](https://open.spotify.com/track/5aBIEKP7FV0cIJb5W3mu0d) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [Cold Cuts](https://open.spotify.com/album/16oGRWv9NRmQOrbDQbEi26) | 4:48 | 2023-01-27 |  |
+| [The Fonz](https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [The Fonz](https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS) | 4:48 | 2022-10-07 | 2023-02-03 |
 | [The Gift \(Patience\)](https://open.spotify.com/track/0HItmlv0OG7xe00N1nQHsC) | [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [WHEN THE SMOKE CLEARS](https://open.spotify.com/album/4lJqysez134v4UCSzvYcnP) | 5:02 | 2021-06-18 | 2022-05-07 |
 | [The Greatest](https://open.spotify.com/track/2q88tYMUUZ03hN9hjFZVDC) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [RAY HMND](https://open.spotify.com/artist/6c9b99Nr2VIAyrWLfe9Cc2) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/7ETTDhgXd7FVC5zflxyx9d) | 2:18 | 2021-09-17 | 2022-04-23 |
 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 | 2022-02-11 | 2022-11-12 |

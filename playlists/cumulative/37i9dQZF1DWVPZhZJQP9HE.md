@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-324 songs - 19 hr 13 min
+326 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,8 +260,10 @@
 | [Saaya\-Tamil](https://open.spotify.com/track/6uizpDr1wwR7xQS4Jkw6mm) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Saaya\-Tamil](https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika) | 3:59 | 2022-01-17 | 2022-07-16 |
 | [Saayai](https://open.spotify.com/track/640AcZ81A5sJAO4lFB7Kx0) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Saayai](https://open.spotify.com/album/1rAxjPAKFe0hAnS88KSN22) | 4:09 | 2022-05-11 | 2022-07-16 |
 | [Sadugudu Sadugudu](https://open.spotify.com/track/3udIFY3400VmyKmUWteuM5) | [Krishna Kumar](https://open.spotify.com/artist/5tZcEf1A05HXjuROID5h32), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Bamba Bakiya](https://open.spotify.com/artist/4nC62crROohMqhekvn3Uoy) | [Sadugudu Sadugudu](https://open.spotify.com/album/3L9YISokNe5HFlEbQRx77a) | 3:40 | 2023-01-25 |  |
+| [Sagavaasi](https://open.spotify.com/track/6e1AEcNa3ECIOJPw4xpMjb) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP) | [Sagavaasi](https://open.spotify.com/album/0lYfNFeX2w67OMAEm7mxst) | 6:22 | 2023-02-02 |  |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 | 2022-12-20 |
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2021-12-01 |  |
+| [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-02-02 |  |
 | [Scene\-U Singaari](https://open.spotify.com/track/7MUFv0xMRBgA0zqgdMaI7A) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET), [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45) | [Scene\-U Singaari](https://open.spotify.com/album/0vuhvk9LTtGNPer0oEQh8G) | 3:40 | 2022-01-06 | 2022-07-08 |
 | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/track/4tugggYmgNVjmMPIMzLC45) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/album/7nC9Y3QpO4fWpj0FfqMJMA) | 3:16 | 2021-12-01 |  |
 | [Shades of Kadhal](https://open.spotify.com/track/7kJVLzF7COXgFVlKRaYwoK) | [Maran](https://open.spotify.com/artist/7JhSxGPLRqMPRncKAaNCmU) | [Shades of Kadhal](https://open.spotify.com/album/17zOJvxutXuxVYYx9O1Zsk) | 2:56 | 2021-12-01 |  |

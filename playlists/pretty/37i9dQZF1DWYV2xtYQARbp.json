@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 9894,
+  "num_followers": 9905,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDVjZmNlZTEzNzk0ZDE2NDU1ZWU3Mjg2NjIxNDAyNTVk",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGFmNzRmYThhNmU0NjM4ODZkNDdkMzBhM2ZhZDhkOWRm",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Junkyard",
-        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
-      },
-      "artists": [
-        {
-          "name": "The Birthday Party",
-          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Release The Bats",
-      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The King Khan & Bbq Show",
         "url": "https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 170520,
       "name": "Fishfight",
       "url": "https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Horndog Fest",
-        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "I Can't Stop Thinking About It",
-      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Root Damage",
         "url": "https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 205266,
       "name": "Shakey Puddin'",
       "url": "https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Horndog Fest",
+        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "I Can't Stop Thinking About It",
+      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Nothing Can Stop These Men",
-        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
       "artists": [
         {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
         }
       ],
-      "duration_ms": 135400,
-      "name": "Ida Honey (Tell Me You'll Be Mine)",
-      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+        "name": "Nothing Can Stop These Men",
+        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
       "artists": [
         {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
         }
       ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
+      "duration_ms": 135400,
+      "name": "Ida Honey (Tell Me You'll Be Mine)",
+      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
     },
     {
       "added_at": "2022-03-28 20:14:58",

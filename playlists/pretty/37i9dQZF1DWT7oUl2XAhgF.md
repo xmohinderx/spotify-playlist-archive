@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Phillip\-Michael Scales
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,891 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,014 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 7 | [Tryin' to Get By](https://open.spotify.com/track/5oKR1mBL3cN7iiGFpovuH4) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Capricorn](https://open.spotify.com/album/34kckA5C2zC6ouE5ncMJfI) | 3:19 |
 | 8 | [Two Jobs](https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Two Jobs](https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG) | 3:22 |
 | 9 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 |
-| 10 | [Tumblin'](https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Tumblin'](https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8) | 3:44 |
+| 10 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 |
 | 11 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 12 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 13 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 66 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 |
 | 67 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 |
 | 68 | [Blow My Mind](https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Blow My Mind](https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR) | 4:08 |
-| 69 | [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 |
-| 70 | [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 |
+| 69 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 |
+| 70 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 |
 
-Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMDI0NDUxMTYxNmJhZWRjMzM5MzI3NDM2MTA5MmQ5ODVj`
+Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMDc1ZjE5MzhlNWU4NmI1NDhhMjg5NWE5ODI3ZDc4NDUz`

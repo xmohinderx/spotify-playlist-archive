@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 464293,
       "name": "#3",
       "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "album": {
@@ -368,7 +386,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 414026,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 245927,
       "name": "Palace Posy",
       "url": "https://open.spotify.com/track/3OtXrdgyepq7uDp96ewVqF"

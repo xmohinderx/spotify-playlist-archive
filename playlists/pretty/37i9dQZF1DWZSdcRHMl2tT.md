@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,387 likes - 224 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,446 likes - 224 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 141 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
 | 142 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 |
 | 143 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 |
-| 144 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 |
+| 144 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 |
 | 145 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
 | 146 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 |
 | 147 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 |
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 172 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 |
 | 173 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 |
 | 174 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 |
-| 175 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 |
+| 175 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 |
 | 176 | [beach sins](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA) | [ftono](https://open.spotify.com/artist/161AbwCisiojaqrwqJf9Uu) | [beach sins](https://open.spotify.com/album/3NMdYsVz9daSXKyUu4aKnX) | 2:41 |
 | 177 | [New Body](https://open.spotify.com/track/25hdCrZ2At7T6rb83Cuqyk) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [SUCIA!](https://open.spotify.com/artist/4phVhN1ZvL8HshQ5UE7Wec) | [Half Moon Bay](https://open.spotify.com/album/1m8EjkInRMWiIxtJLYBfRI) | 4:07 |
 | 178 | [Sand Clock](https://open.spotify.com/track/6IwHwlClGKuBK7AicClQps) | [Baan Sabai](https://open.spotify.com/artist/35XxjWLe2q44WiwdVpfiQe), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob), [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq) | [Sand Clock](https://open.spotify.com/album/046yIr7qerLKIDqaAKopNf) | 2:09 |

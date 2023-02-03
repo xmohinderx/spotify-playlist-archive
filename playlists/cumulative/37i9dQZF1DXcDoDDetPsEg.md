@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-427 songs - 21 hr 49 min
+428 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-03-11 | 2022-05-14 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-04 | 2022-04-13 |
 | [G Lock](https://open.spotify.com/track/3t3nbdh2RGjhdl9bn9YGF2) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [G Lock](https://open.spotify.com/album/4qrLEoJPnnNZKKWOnXqY3Z) | 1:58 | 2022-08-30 | 2022-10-14 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 | 2023-02-03 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-30 |  |
 | [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 | 2022-03-22 | 2022-04-26 |
 | [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/track/3Efqg1BYDiVvRa6MLeVogB) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/album/5RTzogZIo2ezzBW0rvUjfd) | 3:01 | 2022-04-25 | 2022-07-15 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-03-08 | 2022-03-09 |

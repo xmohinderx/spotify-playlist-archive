@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,985 likes - 52 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,025 likes - 52 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 26 | [Jah Do That](https://open.spotify.com/track/3gH0VFRynyl6xC6nfFZYG7) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 3:57 |
 | 27 | [Fisher Man Dub](https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Essential Dub Masters](https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN) | 3:38 |
 | 28 | [Roots and Culture](https://open.spotify.com/track/2FvW1kJGtL2gx9xUT7Zfo2) | [Mikey Dread](https://open.spotify.com/artist/6xKQ3GOnt3gjzja4IcLyg4) | [The Prime of Mikey Dread](https://open.spotify.com/album/7dlFlZoYIJSaEX7zc8ZhZ8) | 6:05 |
-| 29 | [Irie Warrior](https://open.spotify.com/track/0meBxg5YqkOkxViCw38udQ) | [Revolutionary Dub Warriors](https://open.spotify.com/artist/6Rm6NVcciywWEZXRJRkNIu) | [State Of Evolution](https://open.spotify.com/album/6MUtJAAWkL8uNMecX7iJ4M) | 7:51 |
+| 29 | [Irie Warrior](https://open.spotify.com/track/3H5i4gzy3H6hWhM90oqy7Z) | [Revolutionary Dub Warriors](https://open.spotify.com/artist/6Rm6NVcciywWEZXRJRkNIu) | [State Of Evolution](https://open.spotify.com/album/1ps2bfGmthXxS4GCOI1O5E) | 7:51 |
 | 30 | [Satta Dub](https://open.spotify.com/track/3Rh4wkbhJihnCkTITD2b74) | [Jah Shaka & Mad Professor](https://open.spotify.com/artist/7uyJYWtpq9vKSgCz35dfEJ) | [Jah Shaka Meets Mad Professor at Ariwa Sounds](https://open.spotify.com/album/4jIChdFhiHXOtCP8tOxD8a) | 4:38 |
 | 31 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 32 | [Waiting In The Park Dub](https://open.spotify.com/track/5mtj35n4s76W4N03p1x4i0) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Essential Dub 1977](https://open.spotify.com/album/4XCmpOHan0DRPWFVUSxaIN) | 6:38 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 51 | [Hit the Road Jack](https://open.spotify.com/track/4EXKqlpnpSamlN1YgFGo0O) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Lov3](https://open.spotify.com/album/2LQ8WI3myWEdXPOsVoCYSb) | 3:10 |
 | 52 | [Dub To Africa](https://open.spotify.com/track/7pf8Z5F8XvsGbxAIC1SRRu) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL), [The Arabs](https://open.spotify.com/artist/0S2viS9F705zYKiMW13XeV) | [Dub To Africa](https://open.spotify.com/album/5SzyrmaXqCRRzTeQQAXi7i) | 3:19 |
 
-Snapshot ID: `MTY3MTQ0Nzc3MywwMDAwMDAwMDY5OGU4M2U0NDk3ZDVlMjQ4NTdhZTJjNDlkZWI1Yjg0`
+Snapshot ID: `MTY3MTQ0Nzc3MywwMDAwMDAwMDNkNDllYTJmNWM2NjdlM2MwYTM3MTBkYjY1YjZlNmYy`

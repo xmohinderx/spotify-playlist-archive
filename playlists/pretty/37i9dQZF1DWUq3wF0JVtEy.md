@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,263 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,551 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 42 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 |
 | 43 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 |
 | 44 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 |
-| 45 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 |
-| 46 | [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 |
+| 45 | [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 |
+| 46 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 |
 | 47 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 |
 | 48 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 |
 | 49 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 83 | [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 |
 | 84 | [Broke Bitch](https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Broke Bitch](https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB) | 3:21 |
 | 85 | [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 |
-| 86 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 |
-| 87 | [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 |
+| 86 | [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 |
+| 87 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 |
 | 88 | [Listen Up](https://open.spotify.com/track/0qYS0cbvf7Ey5Hb0Af9pt3) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Listen Up](https://open.spotify.com/album/4LwxOAjsdpro1lF8gfw1yN) | 2:03 |
 | 89 | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN) | 3:03 |
 | 90 | [Policia](https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Policia](https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 |
 | 100 | [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDUyOTQ5OWZjNTQzZGViNTEzNzlkMjM3Mjc2OWYwZTJm`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDc2MmYzZGI0ZjFhYWMzMDE5MzBjNDMyODZlNTJkMDgw`

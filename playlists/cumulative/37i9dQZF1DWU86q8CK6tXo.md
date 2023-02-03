@@ -4,7 +4,7 @@
 
 > New music from female\-identifying artists\. Cover: <a href=“https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg”>Zolita</a>
 
-762 songs - 1 day 17 hr 10 min
+763 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [IM NOT SORRY](https://open.spotify.com/track/1p7CC1v247IBsIGplONX2c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM NOT SORRY](https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC) | 2:41 | 2021-12-01 | 2022-01-06 |
 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 | 2022-04-06 | 2022-04-20 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-09-07 | 2022-10-06 |
-| [In Ha Mood](https://open.spotify.com/track/0KcL04RiYSmfbGkpDxLXvj) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:09 | 2023-02-01 |  |
+| [In Ha Mood](https://open.spotify.com/track/0KcL04RiYSmfbGkpDxLXvj) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:09 | 2023-02-01 | 2023-02-03 |
+| [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-01 |  |
 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 | 2022-11-30 | 2023-01-05 |
 | [In Jesus Name \(God Of Possible\) \- Piano Version](https://open.spotify.com/track/1H4n9Bm5Xrv8OTrJgLpyb5) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\) \[Piano Version\]](https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [In My Bag](https://open.spotify.com/track/5aKvdpWyjO14xB04CTEpEw) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 3:28 | 2022-01-05 | 2022-02-03 |

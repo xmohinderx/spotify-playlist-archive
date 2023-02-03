@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,210 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,231 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 5 | [Hott](https://open.spotify.com/track/31Xdw0ZM27KYZC4vLTY7Gw) | [Jasmine Infiniti](https://open.spotify.com/artist/4Ii6N7zTISiFbVsUPPD0sE) | [Bxtch Släp](https://open.spotify.com/album/5ZQgUIk9rZc7JpbTqwpp2F) | 5:47 |
 | 6 | [Lux 2](https://open.spotify.com/track/5UMauUXLf6lWbi1eH6MdME) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 3:31 |
 | 7 | [Babysitter \(feat\. Trent Reznor\)](https://open.spotify.com/track/6WiquOyTwUPnhFomdiPRzX) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma) | [Hot Wet & Sassy](https://open.spotify.com/album/4AwRfUkwwP6h8QSMl1Fzpt) | 2:17 |
-| 8 | [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 |
+| 8 | [REACHUPDONTSTOP](https://open.spotify.com/track/3yd8ahe0iux1u6LyUWp26v) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/3q1BSfc3AumAd7oSk11XFd) | 4:00 |
 | 9 | [Monkey See...](https://open.spotify.com/track/42zqi6m9L89EPBIlBeQ16U) | [Aardvarck](https://open.spotify.com/artist/3JR7NAWvzkrZR3pKwrixS3) | [Monkey See...](https://open.spotify.com/album/50bZiYghbY2zlcMgoc3lX4) | 5:47 |
 | 10 | [Silkworm](https://open.spotify.com/track/6kfGTQ19X0QCN7mOvxXcH0) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/5tHnpwtNjuutI0hIsmsTMN) | 5:25 |
 | 11 | [Foh](https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog) | 4:06 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 13 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 |
 | 14 | [Familiars](https://open.spotify.com/track/5ckxGXw6Awq0Qrzj2IjmVd) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/1vx9B58AqRjAlvzH0pOWgu) | 2:54 |
 | 15 | [Jinn](https://open.spotify.com/track/1eu1i0zc9KNa7GOzoFl7It) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 5:23 |
-| 16 | [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 |
+| 16 | [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 |
 | 17 | [Moo Orphaned Drift](https://open.spotify.com/track/0cmk7Q6WwhsP6PR6WjjqLR) | [Lanark Artefax](https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2) | [Corra Linn](https://open.spotify.com/album/0bSbfW1TMuJlJpL53ghtn5) | 4:44 |
 | 18 | [Alien 3](https://open.spotify.com/track/0p1mXyTLG962tEKo6g5NBb) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Alien 3](https://open.spotify.com/album/1oiHh5cTcLLZBbYXa2Oht8) | 6:17 |
 | 19 | [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDc5MDdlMTMzNWE0MzNlYzI5ZjM1NjY0ZDIyODAzODFh`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMGU2ZGIyZDE1MDVlNjNmNjhmZWRkMGQ2ODgyMjc5ZjBl`

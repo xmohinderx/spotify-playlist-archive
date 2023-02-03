@@ -1,29 +1,13 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 11862,
+  "num_followers": 11887,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY1NjAyOSwwMDAwMDAwMDRkYjM3M2JlYjZkNjQ5NDZkMjZmNGZmYmNjNzZjNzg3",
+  "snapshot_id": "MTY3MTY1NjAyOSwwMDAwMDAwMDg1NmVjMzA4ODk2ZDBhYTE1NTc1ZDQzMjNhOTMyNzg5",
   "tracks": [
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 464293,
-      "name": "#3",
-      "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
-    },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Poa Alpina",
+      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+    },
+    {
       "added_at": "2022-12-20 22:19:56",
       "album": {
         "name": "Whatever The Weather",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Poa Alpina",
-      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Music for Nine Post Cards",
         "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 354693,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2022-12-21 06:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
       "artists": [
         {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+      "duration_ms": 421463,
+      "name": "Suite Pour L'invisible",
+      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
     },
     {
       "added_at": "2022-12-21 20:36:53",
@@ -175,22 +175,6 @@
       "duration_ms": 309999,
       "name": "Mamba Negra",
       "url": "https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 421463,
-      "name": "Suite Pour L'invisible",
-      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -225,22 +209,6 @@
       "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
     },
     {
-      "added_at": "2022-12-21 20:53:49",
-      "album": {
-        "name": "Fungipedia",
-        "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
-      },
-      "artists": [
-        {
-          "name": "Azulina",
-          "url": "https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Inocybe",
-      "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "No Home of the Mind",
@@ -255,6 +223,22 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2022-12-21 20:53:49",
+      "album": {
+        "name": "Fungipedia",
+        "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
+      },
+      "artists": [
+        {
+          "name": "Azulina",
+          "url": "https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Inocybe",
+      "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -369,22 +353,6 @@
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 245418,
-      "name": "Le ch\u00e2teau de corail",
-      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
-    },
-    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -405,20 +373,20 @@
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
-      "added_at": "2021-11-25 22:14:03",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Haut",
-        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
       },
       "artists": [
         {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Haut",
-      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+      "duration_ms": 245418,
+      "name": "Le ch\u00e2teau de corail",
+      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -435,6 +403,22 @@
       "duration_ms": 434716,
       "name": "Subtotem",
       "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
+    },
+    {
+      "added_at": "2021-11-25 22:14:03",
+      "album": {
+        "name": "Haut",
+        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Haut",
+      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -485,22 +469,6 @@
       "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
     },
     {
-      "added_at": "2022-12-21 20:53:49",
-      "album": {
-        "name": "Patrimonio Inmaterial de la Nada",
-        "url": "https://open.spotify.com/album/1z7yS6GTqHKqG8cKDDMTGQ"
-      },
-      "artists": [
-        {
-          "name": "Ezmeralda",
-          "url": "https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Lucerito Mirando a la Nada",
-      "url": "https://open.spotify.com/track/5XN7z1RPOZhguyhDNZuODa"
-    },
-    {
       "added_at": "2022-04-07 05:02:08",
       "album": {
         "name": "Forest Dreams",
@@ -515,6 +483,22 @@
       "duration_ms": 222511,
       "name": "Forest Dreams",
       "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
+    },
+    {
+      "added_at": "2022-12-21 20:53:49",
+      "album": {
+        "name": "Patrimonio Inmaterial de la Nada",
+        "url": "https://open.spotify.com/album/1z7yS6GTqHKqG8cKDDMTGQ"
+      },
+      "artists": [
+        {
+          "name": "Ezmeralda",
+          "url": "https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Lucerito Mirando a la Nada",
+      "url": "https://open.spotify.com/track/5XN7z1RPOZhguyhDNZuODa"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -643,18 +627,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 245927,
-      "name": "Palace Posy",
-      "url": "https://open.spotify.com/track/3OtXrdgyepq7uDp96ewVqF"
+      "duration_ms": 210000,
+      "name": "Touch me & die",
+      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
     },
     {
       "added_at": "2022-09-21 02:21:27",
@@ -675,22 +659,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Touch me & die",
-      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tower of Silence",
         "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
@@ -703,22 +671,6 @@
       "duration_ms": 369765,
       "name": "Nexus On The Beach",
       "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
-    },
-    {
-      "added_at": "2022-02-18 05:44:07",
-      "album": {
-        "name": "I Remember You Like the Best Song",
-        "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
-      },
-      "artists": [
-        {
-          "name": "Anenon",
-          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
-        }
-      ],
-      "duration_ms": 1077812,
-      "name": "I Remember You Like the Best Song",
-      "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -735,6 +687,22 @@
       "duration_ms": 356520,
       "name": "Glass Chattering",
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
+    },
+    {
+      "added_at": "2022-02-18 05:44:07",
+      "album": {
+        "name": "I Remember You Like the Best Song",
+        "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
+      },
+      "artists": [
+        {
+          "name": "Anenon",
+          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
+        }
+      ],
+      "duration_ms": 1077812,
+      "name": "I Remember You Like the Best Song",
+      "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
     },
     {
       "added_at": "2022-02-16 01:53:19",
@@ -755,22 +723,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 370476,
-      "name": "Water Soaked In Forever",
-      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tumblers from the Vault",
         "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
       },
@@ -783,6 +735,22 @@
       "duration_ms": 313746,
       "name": "Hollywood Dream Trip",
       "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 370476,
+      "name": "Water Soaked In Forever",
+      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
       "added_at": "2022-02-12 01:31:39",
@@ -1041,6 +1009,22 @@
       "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
+      "added_at": "2022-02-18 05:44:07",
+      "album": {
+        "name": "Starburst",
+        "url": "https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j"
+      },
+      "artists": [
+        {
+          "name": "Muffler",
+          "url": "https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Beyond Contact",
@@ -1057,20 +1041,20 @@
       "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
-      "added_at": "2022-02-18 05:44:07",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Starburst",
-        "url": "https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Muffler",
-          "url": "https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 247124,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI"
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1109,22 +1093,6 @@
       "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
     },
     {
-      "added_at": "2022-09-30 02:47:05",
-      "album": {
-        "name": "DLY",
-        "url": "https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r"
-      },
-      "artists": [
-        {
-          "name": "Popp",
-          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
-        }
-      ],
-      "duration_ms": 299861,
-      "name": "DLY",
-      "url": "https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85"
-    },
-    {
       "added_at": "2022-03-17 01:20:50",
       "album": {
         "name": "Skyline - Instant Composition Vol. 2",
@@ -1143,6 +1111,22 @@
       "duration_ms": 257000,
       "name": "Time Changes",
       "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"
+    },
+    {
+      "added_at": "2022-09-30 02:47:05",
+      "album": {
+        "name": "DLY",
+        "url": "https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r"
+      },
+      "artists": [
+        {
+          "name": "Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "DLY",
+      "url": "https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1175,6 +1159,26 @@
       "duration_ms": 357509,
       "name": "The Loss of Wilderness",
       "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 414026,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA"
     }
   ],
   "unique_name": "Planetary Soul",

@@ -4,7 +4,7 @@
 
 > 
 
-170 songs - 4 hr 40 min
+173 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [At the end of the rainbow](https://open.spotify.com/track/2NbeFx2EkyKSBO6FgplMtu) | [Marla Palmer](https://open.spotify.com/artist/0Lb5pc59B3IA8uJj6eDcc1) | [At the end of the rainbow](https://open.spotify.com/album/0xoqZY93uOgFAoj5cgR5D0) | 1:07 | 2021-11-11 |  |
 | [Ave Maria](https://open.spotify.com/track/24ibSZ5jmqphjFRNZNS9QK) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Ave Maria](https://open.spotify.com/album/2wJ3eAgiajdmxhJOasus5a) | 2:12 | 2021-11-11 | 2022-01-22 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4sivZLx2TJPQJOdSi4JJ9A) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 1](https://open.spotify.com/album/3wZWJPLXoP5Yi1tp0F2q4q) | 1:07 | 2022-04-22 |  |
-| [Baa Baa Black Sheep](https://open.spotify.com/track/2CRxToNRHKr24TS8e0Jcyl) | [Pia Rojas](https://open.spotify.com/artist/0dhlr2Kk6oiepKe5G3QLG9) | [Good Night Baby](https://open.spotify.com/album/1ld9IJ5EDnQbGnPyo1kNQy) | 1:48 | 2022-12-22 |  |
+| [Baa Baa Black Sheep](https://open.spotify.com/track/2CRxToNRHKr24TS8e0Jcyl) | [Pia Rojas](https://open.spotify.com/artist/0dhlr2Kk6oiepKe5G3QLG9) | [Good Night Baby](https://open.spotify.com/album/1ld9IJ5EDnQbGnPyo1kNQy) | 1:48 | 2022-12-22 | 2023-02-03 |
 | [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 | 2022-11-26 |
 | [Baby Sleep](https://open.spotify.com/track/5WyqPzL5Zq1gNQWyRJYen2) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [Bä, bä, vita lamm](https://open.spotify.com/album/2vdvrIlyOOvzVoXRWj5jxg) | 1:56 | 2021-11-11 |  |
@@ -34,6 +34,7 @@
 | [Cada segundo](https://open.spotify.com/track/6GdLE9HexA4DvdcusaSzoH) | [Hermosa Núñez](https://open.spotify.com/artist/0ai7WgUpMnxiGWHM7WAzre) | [Mi oso de peluche](https://open.spotify.com/album/47IEuYtG6qxWadt7zieiAQ) | 1:33 | 2021-11-11 |  |
 | [Call Of The Night](https://open.spotify.com/track/5TzH8tJ3aYy8u6cTdePUgv) | [Timmy Ting](https://open.spotify.com/artist/65hTxjRM4vyFxH4y1OXJtk) | [Call Of The Night](https://open.spotify.com/album/1BozHl9BaO2TNlN7rX0F42) | 1:17 | 2021-11-11 | 2022-06-11 |
 | [Can You Feel the Love Tonight \- Wurlitzer](https://open.spotify.com/track/75ek2fdi2kptubO4nUyXjt) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Wurlitzer Covers](https://open.spotify.com/album/2T4wG1cZdiischcHxWQfDJ) | 3:28 | 2021-11-11 | 2023-01-13 |
+| [Chanson De Berceau](https://open.spotify.com/track/1WGwPj85mKjUPez8MC5k85) | [Nadia Chung](https://open.spotify.com/artist/57HS1u0byJ0gjSNk0LNmm7) | [Chanson De Berceau](https://open.spotify.com/album/7zZtmFtEgNOUWjOny8ThQn) | 1:40 | 2023-02-02 |  |
 | [Charlie Is Crazy](https://open.spotify.com/track/1T7ZYDu4KEF2VLEFOM5I9W) | [Bessie Daniels](https://open.spotify.com/artist/5mBdLluwtFJ2vN5icDaphq) | [Every Time I Climb a Tree](https://open.spotify.com/album/5d337jwGSUuqYEDty1tgHa) | 1:11 | 2021-11-11 |  |
 | [Cherry Blossom](https://open.spotify.com/track/0o2aRofjUASZegJK5QWamw) | [Juliane Waechter](https://open.spotify.com/artist/7IsD38M0WKhRpntIENOowC) | [Cherry Blossom](https://open.spotify.com/album/3veJInkFZ8qDMJClxGh7DR) | 2:12 | 2022-05-17 |  |
 | [Concerto for Clarinet in Bb](https://open.spotify.com/track/7q8eirAeTDzrzUfew3qiXg) | [Shiba Nariaki](https://open.spotify.com/artist/7Er9QnJud4lxU0CGSdQpDp) | [Concerto for Clarinet in Bb](https://open.spotify.com/album/2ZNiHZKMSq1Ji5a7Ki5kWy) | 1:41 | 2021-11-11 | 2022-06-11 |
@@ -47,7 +48,7 @@
 | [Don’t Be Afraid](https://open.spotify.com/track/4e2Nt0Vn5yV1RC7jTEyHNQ) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [Don’t Be Afraid](https://open.spotify.com/album/3dYDDxkFInOqFf2uCWWKaY) | 1:20 | 2022-06-10 |  |
 | [Doris the Dinosaur](https://open.spotify.com/track/66TR57LOceNV0jviVsp6HC) | [Jay Orsini](https://open.spotify.com/artist/2jIhq7p0P8ulIWQRiw0UD3) | [Doris the Dinosaur](https://open.spotify.com/album/5xjlG275KygrEUHhap5QtW) | 1:39 | 2021-11-11 |  |
 | [Dream Big](https://open.spotify.com/track/4BJhESuBfCJIPM8ZIr1rm3) | [Saxon Howland](https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9) | [Dream Big](https://open.spotify.com/album/4tUpNJ2xyrZedbfWYMug7W) | 1:44 | 2022-06-10 |  |
-| [Edelweiss](https://open.spotify.com/track/6E16o4Jn7ZLFGfUGZhiJkg) | [Hand in Hand Band](https://open.spotify.com/artist/6DSABcLddTZdn0F8k24Jed) | [Musique](https://open.spotify.com/album/2zjKy5XovBxQHh0lPt0Ptl) | 1:32 | 2021-11-11 |  |
+| [Edelweiss](https://open.spotify.com/track/6E16o4Jn7ZLFGfUGZhiJkg) | [Hand in Hand Band](https://open.spotify.com/artist/6DSABcLddTZdn0F8k24Jed) | [Musique](https://open.spotify.com/album/2zjKy5XovBxQHh0lPt0Ptl) | 1:32 | 2021-11-11 | 2023-02-03 |
 | [Ein Lied fur meine Kinder](https://open.spotify.com/track/2k6naWzIhvZssLfv6Pznmz) | [Morley Leighton](https://open.spotify.com/artist/4a8cLnTshr81Mek60xT7bk) | [Arietta Bambina](https://open.spotify.com/album/3ISFsMSmllXcwe9RL5WDgk) | 1:50 | 2021-11-11 |  |
 | [Every Dream](https://open.spotify.com/track/3iCWZyQVbNBHw4CGd5JE4k) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Every Dream](https://open.spotify.com/album/4Pe6bZMYHyhHTqBiW9InC7) | 1:27 | 2022-05-17 |  |
 | [Feeling Free](https://open.spotify.com/track/03gUScIqSM3qxx82hWOtWf) | [Wilbur Aiken](https://open.spotify.com/artist/6CjjZDbsjGRhjE9dwk0nTY) | [Feeling Free](https://open.spotify.com/album/7csKVissOSf5Rmc1jgWUrh) | 1:40 | 2021-11-11 |  |
@@ -63,7 +64,7 @@
 | [Good Tidings](https://open.spotify.com/track/49eTLnPpcj4OFSGPeFSKOl) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Clementine](https://open.spotify.com/album/6Uxl43a90seUzkTdWIB6gm) | 2:35 | 2022-07-29 |  |
 | [Goodnight Kiss](https://open.spotify.com/track/2HesqUQfm0I4vGd5EbMbec) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 | 2023-01-13 |
 | [Goodnight My Someone](https://open.spotify.com/track/5T8AIfwSsH43gnDm3C0pTR) | [Asma Everett](https://open.spotify.com/artist/2Yz8qK2KqZDmcXd2eEQ9s5) | [Goodnight My Someone](https://open.spotify.com/album/3PiuFALmZpqSUXHr3IdWQk) | 1:17 | 2022-09-22 |  |
-| [Greensleaves](https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn) | [Mino Mentoni](https://open.spotify.com/artist/3xf1BsykKMqHCxmJBRGlBX) | [Greensleaves](https://open.spotify.com/album/52wztb50Swni7LsmJgVLmm) | 1:28 | 2021-11-11 |  |
+| [Greensleaves](https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn) | [Mino Mentoni](https://open.spotify.com/artist/3xf1BsykKMqHCxmJBRGlBX) | [Greensleaves](https://open.spotify.com/album/52wztb50Swni7LsmJgVLmm) | 1:28 | 2021-11-11 | 2023-02-03 |
 | [Gymnopedie 1](https://open.spotify.com/track/06KNFx94OikYSlAxZGgQgW) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Gymnopedie 1](https://open.spotify.com/album/2fy8R2V6a6BHHTyQgssKsu) | 3:00 | 2023-01-13 |  |
 | [Gymnopédie](https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Gymnopédie](https://open.spotify.com/album/3OWu5CyQaClgpCW8HktVkO) | 3:05 | 2021-11-11 | 2022-10-27 |
 | [Head Shoulders Knees And Toes](https://open.spotify.com/track/2CFgvvFJtqQo4E2ZzA8NdC) | [Zachary Landon](https://open.spotify.com/artist/6OBnS3jI2F9gSlemw9qalk) | [Head Shoulders Knees And Toes](https://open.spotify.com/album/1B71f2slh93Y2nebgTXpAJ) | 1:51 | 2021-11-11 |  |
@@ -121,6 +122,7 @@
 | [När du somnat](https://open.spotify.com/track/3QZE0HhI3LkEjuEMw5gQT5) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [När du somnat](https://open.spotify.com/album/0OVh3eYoUP3hCqu2upV0w2) | 1:47 | 2022-05-17 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/6XhB9iK4XYIvPl8Ofdtw9B) | [Chile Bellamy](https://open.spotify.com/artist/107IKw3J6M1kySaTwoiA0k) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2M80JNa7W78U46SfiV1HBb) | 1:38 | 2021-11-11 |  |
 | [One day I'll fly away](https://open.spotify.com/track/2vTV4arQgo5bKYVBiP1Fz8) | [Well Ness](https://open.spotify.com/artist/6CCYWWZWKyTQM8veKYJcuY) | [Nap Time Glockenspiel](https://open.spotify.com/album/3xq2fiVAhgB4m3pnOmFWT9) | 3:28 | 2021-11-11 | 2022-06-11 |
+| [Picture The Most Beautiful Place](https://open.spotify.com/track/5Tct8wN66BHyt0wgKuBwGw) | [Anna Magnolia](https://open.spotify.com/artist/1JcLJjzgzqnBNitxeJWUDx) | [Picture The Most Beautiful Place](https://open.spotify.com/album/6gCwixQHxGry7WLb8nNczh) | 1:19 | 2023-02-02 |  |
 | [Play Date](https://open.spotify.com/track/0gMfP5nSvwTMt2TRnC6uos) | [Tomas Stork](https://open.spotify.com/artist/7aalEV35bfPJRpQPGNKCWb) | [Glockenspiel](https://open.spotify.com/album/7vjJFbFpgyxlnRDUYyBSNJ) | 2:47 | 2021-11-11 |  |
 | [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 1:03 | 2021-11-11 |  |
 | [Porque eu te amo](https://open.spotify.com/track/0vEfpWpXFQ1PvNjsyiGVxR) | [Leonora Magalhães](https://open.spotify.com/artist/7jpsbb109bwLhTQhqpPaOV) | [Porque eu te amo](https://open.spotify.com/album/6ivfoZDZ58MH7O1O2wzFt0) | 1:38 | 2021-11-11 |  |
@@ -139,6 +141,7 @@
 | [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 |  |
 | [Squirrels Dancing](https://open.spotify.com/track/7b6hFe41niNm2aUcTcgR60) | [Miss Goleta](https://open.spotify.com/artist/4gSHS9XFrN73A6cBEbhSG8) | [Squirrels Dancing](https://open.spotify.com/album/2QFk3E4Jpl1CyCFOfzIGhU) | 1:39 | 2022-11-25 |  |
 | [Stars Above](https://open.spotify.com/track/4dqmR8MD5E9mMThNG1bXuB) | [Kaiden Hawk](https://open.spotify.com/artist/1YhKED579GDUJbwmCUnkKe) | [Stars Above](https://open.spotify.com/album/4pFvGbhYxFEEU8TziuxVP2) | 1:24 | 2022-06-30 |  |
+| [Stilla Slummer](https://open.spotify.com/track/4zDYRX67YPtXhoZK8emV4Y) | [Viola Auno](https://open.spotify.com/artist/1mi0dyt7WAk3TsooUBlsvS) | [Stilla Slummer](https://open.spotify.com/album/0iJbHz5ZzNvAVd3qaQiSqM) | 1:25 | 2023-02-02 |  |
 | [Sun In My Eyes](https://open.spotify.com/track/1QEiKQbesLEcfCKMvMoyDU) | [Blaire Sparks](https://open.spotify.com/artist/7rnVXAl4bjbUK8Tm8HiUg1) | [Sun In My Eyes](https://open.spotify.com/album/5cq6iJflctdfttzrimdfMm) | 2:00 | 2021-11-11 |  |
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-11 |  |
 | [Sunday Best](https://open.spotify.com/track/13JaY16Co0IQ86s2Zd9gXK) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 3:01 | 2021-11-11 |  |

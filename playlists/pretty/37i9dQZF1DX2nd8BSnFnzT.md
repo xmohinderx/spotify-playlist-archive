@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Jambu
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,198 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,194 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 68 | [No Dope](https://open.spotify.com/track/6hK9ZwfGFXChenmoRMA3QO) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Autointitulado](https://open.spotify.com/album/11vCaFZctm7B0iZZHWF1gq) | 2:42 |
 | 69 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 |
 | 70 | [Bucket List](https://open.spotify.com/track/3PK0Lww2PbK9K808Pd3vJx) | [Long Past Overdue](https://open.spotify.com/artist/0epGwikvhwBH94d18WBMgb) | [Bucket List](https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0) | 3:43 |
-| 71 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 |
+| 71 | [Permita\-Se](https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [A Vida Sempre Se Vai, Ela Nunca Volta](https://open.spotify.com/album/12d5gyh018ffIjCvn0LnrS) | 3:11 |
 | 72 | [Dia 14, Pt\. 2](https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx) | [Dia 14, Pt\. 2](https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp) | 3:28 |
 | 73 | [A Lanterna](https://open.spotify.com/track/61xLUyCTm7FVbzQUO7ihg6) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [A Lanterna](https://open.spotify.com/album/2wv7RXiKwdUu4si362Dj3P) | 1:35 |
 | 74 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 |
 | 75 | [Kind](https://open.spotify.com/track/5knlppPUmTNFVkTul5EjnI) | [10mg](https://open.spotify.com/artist/6QjMOUyw2ZgPM5mIB61PF6) | [Kind](https://open.spotify.com/album/3EmC0PchFOT5eRyXIvy8N2) | 5:01 |
 
-Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMDI5YTNiNjY4NzE3MmU0YjUwZTY0NTNmMjcyNzEwNGY3`
+Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMGM5NjE3ODY0MzJlOGQ2ZDA5MDZhNTIwZDU3ZjhhZGY3`

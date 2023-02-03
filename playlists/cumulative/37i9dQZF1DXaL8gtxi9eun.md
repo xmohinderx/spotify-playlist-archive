@@ -4,7 +4,7 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Assala & Asma Lmnawar
 
-124 songs - 7 hr 29 min
+125 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ana Law Zalana](https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ana Law Zalana](https://open.spotify.com/album/5jlBWv94WL8GY0M1CYqjAj) | 4:11 | 2022-05-04 | 2022-08-10 |
 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 | 2022-05-04 | 2022-07-15 |
 | [Ard Mostamer](https://open.spotify.com/track/1gIaBb1TIc7tmYJz1dfwst) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ard Mostamer](https://open.spotify.com/album/6n8z8mpak5pywihd9rOj8G) | 4:00 | 2022-05-04 | 2022-07-10 |
+| [Ayesh Fel Dabab](https://open.spotify.com/track/0VgIjzbIUIBSl1UIA59722) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ayesh Fel Dabab](https://open.spotify.com/album/3X3PqXNxJ5giXq2HIcngnH) | 3:16 | 2023-02-02 |  |
 | [Ayshin W Mesh Ayshin](https://open.spotify.com/track/43sJhmAjcJ98VVuO2XPpZD) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ayshin W Mesh Ayshin](https://open.spotify.com/album/5e8IEDGudsiSbHWSA9J7i1) | 3:18 | 2022-05-04 |  |
 | [Ba'ad Gheyabo](https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ba'ad Gheyabo](https://open.spotify.com/album/0OpsjTdA2truxxmYDDWR24) | 4:02 | 2022-05-04 |  |
 | [Baoul Aady](https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Baoul Aady](https://open.spotify.com/album/0bhJo37hJelIC0qkLcUVZU) | 5:31 | 2022-05-04 | 2022-07-15 |
@@ -104,7 +105,7 @@
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-05-04 | 2022-07-13 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-14 |  |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2022-05-04 | 2022-07-29 |
-| [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 |  |
+| [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 | 2023-02-03 |
 | [Tole' El Nahar](https://open.spotify.com/track/2EstObS1EdvkKEF6Z9O1He) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Tole' El Nahar](https://open.spotify.com/album/4hHQf6eAsefx9tRCOpsvEc) | 4:04 | 2022-10-24 |  |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 |  |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 | 2022-07-15 |

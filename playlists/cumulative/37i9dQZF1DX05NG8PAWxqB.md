@@ -4,7 +4,7 @@
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-213 songs - 17 hr 24 min
+214 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [今夜はブギー・バック<Live at BIG EGG ?>](https://open.spotify.com/track/1sco77iBXdmAZgPBWULTq6) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [ポテン・ヒッツ〜シングル・コレクション](https://open.spotify.com/album/0HfG1LveJ1jI2e1SDcpRda) | 4:16 | 2023-01-31 |  |
 | [全力少年](https://open.spotify.com/track/4oN69oM5Kv92q4GCEzLozn) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [SUKIMASWITCH 15th Anniversary Special at YOKOHAMA ARENA \~Reversible\~](https://open.spotify.com/album/3XwSF1FZXKk2SO06SDLYaS) | 4:50 | 2023-01-31 |  |
 | [午後のパレード \- '07 日本武道館](https://open.spotify.com/track/3khe1Kb08Oz5DdgtYeB6I2) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [ALL LIVE BEST](https://open.spotify.com/album/47faTEtj8XPtMMgqnlZDN2) | 8:45 | 2023-01-31 |  |
-| [君に、胸キュン。\-浮気なヴァカンス\- \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/7GjVIsnj4kGVtTavhOl7S6) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [After Service \[\(live 1983\) \[2019 Bob Ludwig Remastering\]\]](https://open.spotify.com/album/0azLJdDYFDnYRISextFQUu) | 4:31 | 2023-01-31 |  |
+| [君に、胸キュン。\-浮気なヴァカンス\- \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/0xY9noEXGECyxHNdRdvtDv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [アフター・サーヴィス \(live 1983\) \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4mphYsK0ZcG8wRlGkLd7rr) | 4:31 | 2023-01-31 |  |
+| [君に、胸キュン。\-浮気なヴァカンス\- \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/7GjVIsnj4kGVtTavhOl7S6) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [After Service \[\(live 1983\) \[2019 Bob Ludwig Remastering\]\]](https://open.spotify.com/album/0azLJdDYFDnYRISextFQUu) | 4:31 | 2023-01-31 | 2023-02-03 |
 | [夜を使いはたして \[Live\]](https://open.spotify.com/track/2yf35sU26uC18f2h8qqw3P) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [STUTS Band Set Live ''90 Degrees''](https://open.spotify.com/album/2FgY7rO8fFpOYuaZ3BrgGC) | 5:15 | 2023-01-31 |  |
 | [夜明けのBEAT\(Live at 日本武道館\)](https://open.spotify.com/track/24xCRs0qRA1oqv7jri81qk) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [Live at 日本武道館](https://open.spotify.com/album/1o2fG598WhvM2H4KRcy2z5) | 4:10 | 2023-01-31 |  |
 | [夜間飛行](https://open.spotify.com/track/5LUnZRZ33rG710b29vT9Ib) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [CHRONICLE / White Preview Edition](https://open.spotify.com/album/2P6TD9HhuwlpJPHehb5qJd) | 5:38 | 2023-01-31 |  |

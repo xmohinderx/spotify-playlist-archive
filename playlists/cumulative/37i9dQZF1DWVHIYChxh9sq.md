@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-319 songs - 17 hr 33 min
+320 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Gracias \- En Vivo Con Tololoche](https://open.spotify.com/track/6LploXlGDnJqHbOTcocm59) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Gracias \(En Vivo Con Tololoche\)](https://open.spotify.com/album/5iSuTo5v6QXZXQggakydPj) | 4:12 | 2022-05-12 | 2022-12-09 |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-12 |  |
 | [Hace Un Año \- En Vivo](https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:31 | 2022-05-12 |  |
+| [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Volumen 2](https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe) | 4:00 | 2023-01-27 |  |
 | [Hermosisimo Lucero](https://open.spotify.com/track/4wkSRTjFIkZ5NbWUQJIClb) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Hermosisimo Lucero](https://open.spotify.com/album/5hVJ64zOopTxgbHrUDDu21) | 1:56 | 2022-05-12 | 2022-12-09 |
 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 | 2022-12-08 |  |
 | [Ivan Y Vienen \(En Vivo\)](https://open.spotify.com/track/1tqGryfv1jW87p87Lb7UCO) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [En Vivo: OK Corral De Dallas Texas](https://open.spotify.com/album/6PfG6HCjoTe9YdpR1ebhSE) | 2:38 | 2022-05-12 | 2022-12-09 |
@@ -195,7 +196,7 @@
 | [La Flechita](https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 2:14 | 2022-12-08 |  |
 | [La Historia \- En Vivo](https://open.spotify.com/track/2b7cnILSmRmMQCa6yjo6X9) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/29IExwaTvucEPrcKSn7Mkm) | 4:00 | 2022-05-12 |  |
 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2022-05-12 |  |
-| [La Mejor De Todas \- En Vivo](https://open.spotify.com/track/1Zcd5ZiB8YdfFJmTCQI9mg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 3:57 | 2022-05-12 |  |
+| [La Mejor De Todas \- En Vivo](https://open.spotify.com/track/1Zcd5ZiB8YdfFJmTCQI9mg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 3:57 | 2022-05-12 | 2023-02-03 |
 | [La Mitad \- en Vivo](https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:22 | 2022-05-12 | 2022-12-09 |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-12-08 |  |
 | [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7) | 2:56 | 2022-12-08 |  |

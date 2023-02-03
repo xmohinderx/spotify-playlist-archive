@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq?si=yQkVTVMOQJ22ycCBFHPtKw\">Jack and June</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM?si=tx_3pY7VR3-4Mr_05UHtVQ\">Janie Bay</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 172626,
       "name": "Bring Dit",
       "url": "https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz"
@@ -308,6 +308,24 @@
       "duration_ms": 249506,
       "name": "Dans Met Gevaar",
       "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
+    },
+    {
+      "album": {
+        "name": "Die Dansvloer",
+        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
+      },
+      "artists": [
+        {
+          "name": "Janie Bay",
+          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184405,
+      "name": "Die Dansvloer",
+      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
     },
     {
       "album": {
@@ -344,7 +362,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 243893,
       "name": "Dogter",
       "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
@@ -702,6 +720,24 @@
       "duration_ms": 238615,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
+    },
+    {
+      "album": {
+        "name": "Jinne Maar Dis Lekker",
+        "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9",
+          "url": "https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186179,
+      "name": "Jinne Maar Dis Lekker",
+      "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
       "album": {
@@ -1125,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
+    },
+    {
+      "album": {
         "name": "Opsoek Na Liefde",
         "url": "https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX"
       },
@@ -1208,7 +1262,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 170684,
       "name": "Plathond",
       "url": "https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk"

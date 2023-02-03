@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Fe Einy",
+        "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "Fe Einy - Deep House",
+      "url": "https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni"
+    },
+    {
+      "album": {
         "name": "Fe Hetta Tanya",
         "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
       },
@@ -945,6 +963,24 @@
     },
     {
       "album": {
+        "name": "M3ALLA2 FIKI",
+        "url": "https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ"
+      },
+      "artists": [
+        {
+          "name": "RABS",
+          "url": "https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "M3ALLA2 FIKI",
+      "url": "https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP"
+    },
+    {
+      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1142,7 +1178,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 555900,
       "name": "Nagham",
       "url": "https://open.spotify.com/track/2X3XbK8XGq6kDjhEYu3gxF"
@@ -1576,6 +1612,28 @@
       "duration_ms": 249411,
       "name": "Wesh Gabak",
       "url": "https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF"
+    },
+    {
+      "album": {
+        "name": "Weyna Wassim",
+        "url": "https://open.spotify.com/album/539ieTc3bavENUkGBu4LxJ"
+      },
+      "artists": [
+        {
+          "name": "Mel7em",
+          "url": "https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi"
+        },
+        {
+          "name": "Wassim Younes",
+          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402857,
+      "name": "Weyna - Wassim Younes",
+      "url": "https://open.spotify.com/track/0Tv9RfkmEFwpR2phzJHf1F"
     },
     {
       "album": {

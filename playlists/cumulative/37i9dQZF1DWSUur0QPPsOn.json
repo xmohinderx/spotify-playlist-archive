@@ -9015,6 +9015,24 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/4jovLVRCu6H0Ce6NHR4eTZ"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Mary's Joint",
+      "url": "https://open.spotify.com/track/7ab8LxqRjqHVs5FmmEi6iy"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },

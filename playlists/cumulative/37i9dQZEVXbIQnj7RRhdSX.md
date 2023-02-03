@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,114 songs - 2 day 9 hr 19 min
+1,115 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Giorno del giudizio \(feat\. Luchè & Mahmood\)](https://open.spotify.com/track/3ERsuauNoR8WVbCdJRHo1P) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:50 | 2022-03-12 | 2022-03-21 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2021-10-20 | 2022-02-05 |
 | [Giovani Wannabe](https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Giovani Wannabe](https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA) | 3:32 | 2022-05-29 | 2022-12-04 |
+| [Giovani Wannabe](https://open.spotify.com/track/4z48kVLZOFuRYWSVwzFI5q) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/3ahrf3cEevIthgGeNcJyZF) | 3:34 | 2023-02-02 |  |
 | [Giovani Wannabe](https://open.spotify.com/track/58ePbnPGFlX1gBblI23RiG) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:34 | 2022-12-03 | 2023-02-01 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-12 |
 | [Gironi](https://open.spotify.com/track/0crkrMINYEVt1qmBCJEPEZ) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Don't Panic](https://open.spotify.com/album/6bm3XAVxep0Yj3uWnnPWZU) | 1:30 | 2021-05-07 | 2021-05-09 |
@@ -632,7 +633,7 @@
 | [Me & My B](https://open.spotify.com/track/68vom3bFBcSzohVB8AjexB) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:28 | 2021-04-11 | 2021-04-18 |
 | [ME O LE MIE CANZONI? \(con GAZZELLE\)](https://open.spotify.com/track/6ejXRb28P9wvSU4CRdIcbm) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:47 | 2021-05-03 | 2021-05-23 |
 | [ME STAJE APPENNENN' AMÒ](https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 5:06 | 2022-01-10 | 2022-02-05 |
-| [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 | 2023-01-07 |  |
+| [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 | 2023-01-07 | 2023-02-03 |
 | [Mediterranea](https://open.spotify.com/track/2Up8QSKRV7WnZxZAQasEUq) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Crepe](https://open.spotify.com/album/5yoIA4Z5w1bYOKzQE0MStC) | 2:57 | 2021-04-26 | 2021-04-28 |
 | [MEGLIO DEL CINEMA](https://open.spotify.com/track/58P3eeXDfBPfgrX2fQ1URh) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [DISUMANO](https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9) | 3:08 | 2021-11-28 | 2022-01-08 |
 | [MEGLIO DEL CINEMA](https://open.spotify.com/track/6byHOsfSzBH0R5WQ6QRv54) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [MEGLIO DEL CINEMA](https://open.spotify.com/album/4gyyzGDsrdEmYxgYmAzJLW) | 3:08 | 2021-09-26 | 2021-11-28 |

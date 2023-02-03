@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp?si=YTxEb8QVRxSsJ43sK_RcXw\">Robot Boii</a>, <a href=\"https://open.spotify.com/artist/1fErdUx62sEWHPM385qPJI?si=Qk9D-GzRQ8qZdEJLu6Da9Q\">The Alpha Boyz</a>, <a href=\"https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107?si=lUv1aZJ-TB-hDNv9NLNz9A\">ilovelethu</a> and <a href=\"https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1?si=QbXJbKBJT5Gc9BJH4q45lQ\">PD Jokes</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=8gF_bzusSGu6Cc4NeXNWHQ\">Kabza De Small</a> and <a href=\"https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw?si=tpXXC2w-SZqzSJmr_tXG9Q\">Stakev</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 467478,
       "name": "325 i",
       "url": "https://open.spotify.com/track/5MCvCzCBmcbhOOTxoqy9xl"
@@ -3511,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Chal\u00e9",
+        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374009,
+      "name": "Chal\u00e9",
+      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
+    },
+    {
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -4759,6 +4777,28 @@
     },
     {
       "album": {
+        "name": "Duck Vibes",
+        "url": "https://open.spotify.com/album/6dyYGodC0Hwf7MXcjengzC"
+      },
+      "artists": [
+        {
+          "name": "Vibekulture Sa",
+          "url": "https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd"
+        },
+        {
+          "name": "Mcdeez Fboy",
+          "url": "https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387395,
+      "name": "Duck Vibes",
+      "url": "https://open.spotify.com/track/2KmV9CPGwUBwGRLSoiI4tX"
+    },
+    {
+      "album": {
         "name": "Dwah",
         "url": "https://open.spotify.com/album/1f6Tw3llcMZwRHxl0aT2Fn"
       },
@@ -5218,7 +5258,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 472111,
       "name": "Emazulwini",
       "url": "https://open.spotify.com/track/5NqzP1KODFELOjQkfXqIT8"
@@ -6246,6 +6286,32 @@
       "duration_ms": 385724,
       "name": "Ghost Wayy",
       "url": "https://open.spotify.com/track/77wdCDQtN4VHmimAMIVMuT"
+    },
+    {
+      "album": {
+        "name": "Gibela",
+        "url": "https://open.spotify.com/album/6DvSWEU2tiK4y4fZkykrQ2"
+      },
+      "artists": [
+        {
+          "name": "Chino Kidd",
+          "url": "https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "S2kizzy",
+          "url": "https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297345,
+      "name": "Gibela",
+      "url": "https://open.spotify.com/track/0jfPzWF6OEnIse7WL5niyG"
     },
     {
       "album": {
@@ -9605,6 +9671,48 @@
     },
     {
       "album": {
+        "name": "Kancane Kancane",
+        "url": "https://open.spotify.com/album/3NFejv9LlxOuyrtEZCazXp"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2DmC0MVQgL6C9vUmBkkAie"
+        },
+        {
+          "name": "Boontle RSA",
+          "url": "https://open.spotify.com/artist/0FwiwkcXDMhVK93RtUpVSQ"
+        },
+        {
+          "name": "King Monopoly",
+          "url": "https://open.spotify.com/artist/4eSVzgB4BdEodAlWx6gqaD"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/6F6Z39DtGD6PnmL1b79U6X"
+        },
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421842,
+      "name": "Kancane Kancane",
+      "url": "https://open.spotify.com/track/1XacggiAi9HqeXYl1ybVh9"
+    },
+    {
+      "album": {
         "name": "Kao rata",
         "url": "https://open.spotify.com/album/2xEHxOAwbGirQ0MLPv9NPq"
       },
@@ -9858,7 +9966,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 501283,
       "name": "Khusela (feat. Msaki)",
       "url": "https://open.spotify.com/track/1ULFJZX54HXXjSTMx63dk0"
@@ -10522,6 +10630,28 @@
       "duration_ms": 382317,
       "name": "Kwelizayo",
       "url": "https://open.spotify.com/track/3kv0NJ4RvLtBWKmwWMKLPU"
+    },
+    {
+      "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "album": {
@@ -12586,7 +12716,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 428850,
       "name": "My Love (feat. Daliwonga & Mas Musiq)",
       "url": "https://open.spotify.com/track/28VVriZtdM6an4cUcPPLIY"
@@ -12882,7 +13012,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 325731,
       "name": "Nazoke(Akana zol) (feat. Jandas & Zan'Ten)",
       "url": "https://open.spotify.com/track/4FYjstGlWs9de3Lw8hgunF"
@@ -13406,6 +13536,36 @@
       "duration_ms": 402912,
       "name": "Ngiya'saba",
       "url": "https://open.spotify.com/track/1VLNKmIJb6LzVPXKUA0fjO"
+    },
+    {
+      "album": {
+        "name": "Ngiyafuna",
+        "url": "https://open.spotify.com/album/0et1OhDLDobwMXXQo1HI1j"
+      },
+      "artists": [
+        {
+          "name": "KissBeatz",
+          "url": "https://open.spotify.com/artist/1JsMUlVAuMujNThwU7KnRb"
+        },
+        {
+          "name": "Soul Jam",
+          "url": "https://open.spotify.com/artist/3V9ibfGY77VOMUTdy5KwSj"
+        },
+        {
+          "name": "Reelow Mash",
+          "url": "https://open.spotify.com/artist/3Xcl1XzrvqjVRe2apzWeHU"
+        },
+        {
+          "name": "Rhey Osborne",
+          "url": "https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Ngiyafuna",
+      "url": "https://open.spotify.com/track/5Xi2OW3tzadYloJYfYdqRw"
     },
     {
       "album": {
@@ -14858,7 +15018,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 454375,
       "name": "Pula Ya Lerato (feat. Valentine & Bean RSA)",
       "url": "https://open.spotify.com/track/3C3qdDPLU1CKNT9OSQntG4"
@@ -14986,7 +15146,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 460094,
       "name": "Qhude",
       "url": "https://open.spotify.com/track/2gFVkL0ZoPvYbsHlJu7YMh"
@@ -15034,6 +15194,32 @@
       "duration_ms": 352226,
       "name": "Red Velvet",
       "url": "https://open.spotify.com/track/6n4GfNvmQnTL08fyaLafCu"
+    },
+    {
+      "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350818,
+      "name": "Rekere 4 (Reloaded) (feat. DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/3YIiUgzweY28enRsqSLDAo"
     },
     {
       "album": {
@@ -17143,6 +17329,40 @@
     },
     {
       "album": {
+        "name": "Sqhebe",
+        "url": "https://open.spotify.com/album/4DdseqIRkHXlSgrrr1e6pQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Dlala Regal",
+          "url": "https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK"
+        },
+        {
+          "name": "Mpura",
+          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
+        },
+        {
+          "name": "Lebo Lenyora",
+          "url": "https://open.spotify.com/artist/1Y7P9wLnebhgdD4km5yuni"
+        },
+        {
+          "name": "Almighty SA",
+          "url": "https://open.spotify.com/artist/3hw3R4WjT7w3S4Vjnbwx7K"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360558,
+      "name": "Sqhebe",
+      "url": "https://open.spotify.com/track/0loNtdzHZnkNOqZ86PJPsl"
+    },
+    {
+      "album": {
         "name": "Pretty Girls Love Amapiano 3",
         "url": "https://open.spotify.com/album/146q0y486NGHs9Nu6wjl9A"
       },
@@ -17872,6 +18092,32 @@
       "duration_ms": 356865,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/5A41EMznk0fW7kWDkGeJ4A"
+    },
+    {
+      "album": {
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/0ceNIR1fRMz6vRGvccv3eS"
+      },
+      "artists": [
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378978,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC"
     },
     {
       "album": {
@@ -18728,7 +18974,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 390840,
       "name": "Tobetsa",
       "url": "https://open.spotify.com/track/2KWbBP2ddjo6t5aMOJeItK"

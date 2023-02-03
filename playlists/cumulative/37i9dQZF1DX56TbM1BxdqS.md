@@ -2,7 +2,7 @@
 
 ### [Starring: Raj Kapoor](https://open.spotify.com/playlist/37i9dQZF1DX56TbM1BxdqS)
 
-> Remembering the showman Raj Kapoor with these hits.
+> Remembering the showman Raj Kapoor with his biggest hits.
 
 54 songs - 4 hr 7 min
 

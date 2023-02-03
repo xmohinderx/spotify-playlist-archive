@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-504 songs - 1 day 4 hr 37 min
+506 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-05-01 | 2022-01-17 |
 | [Bon Dance](https://open.spotify.com/track/5qSXYD0fEuTOHfXZxH8arx) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [THE MILLENNIUM PARADE](https://open.spotify.com/album/5eDx77cI1mT3psVn6cUFjI) | 3:48 | 2021-05-01 | 2022-04-14 |
 | [Bored Again!](https://open.spotify.com/track/3ufH99mUTvwXajptLNsPQi) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn), [Gabriel Delicious](https://open.spotify.com/artist/3DYynjdQqDEoGqwLtHm3Hh) | [Bored Again!](https://open.spotify.com/album/3sQW1u7UaAprUmzDOhUO18) | 4:18 | 2021-05-01 | 2022-03-22 |
-| [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-04-13 |  |
+| [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-04-13 | 2023-02-03 |
 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 | 2021-05-01 |  |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-04-13 |  |
 | [Brian's Movie](https://open.spotify.com/track/2B8A2Ww4nBypZqhRZVqJPV) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:53 | 2021-05-01 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [Control](https://open.spotify.com/track/6jKOxnQ1Pdsr4KblSSeA0j) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1) | 3:04 | 2022-04-13 | 2022-04-21 |
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-05-01 | 2022-07-23 |
 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 | 2021-05-01 | 2022-04-14 |
+| [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 |  |
 | [Crash My Car](https://open.spotify.com/track/0X5mtNbqxbiTYkwj0CQc2f) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 3:08 | 2022-04-13 | 2022-12-01 |
 | [Crash My Car](https://open.spotify.com/track/5SN3mwuodiwY3jPejBuUD5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB) | 3:08 | 2022-11-07 |  |
 | [Crawling Home When the Morning Comes](https://open.spotify.com/track/3IxyQP9V0vE7Z7LCkLz7n9) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Crawling Home When the Morning Comes](https://open.spotify.com/album/4XEgFZJ17LOZJMOdlxB8QL) | 2:25 | 2021-05-01 | 2022-03-19 |
@@ -226,7 +227,7 @@
 | [I Shouldn't Ghost My Therapist](https://open.spotify.com/track/1CrtL00NhzSpCCHnR8fTPR) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Bad Vacation](https://open.spotify.com/album/0CpVgjJhlYOdqklbhANGrD) | 3:00 | 2021-05-01 | 2022-02-07 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2021-05-01 |  |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-04-13 | 2022-10-13 |
-| [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-10-14 |  |
+| [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-10-14 | 2023-02-03 |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-05-01 | 2022-07-29 |
 | [I'm So Bored](https://open.spotify.com/track/1SAF9h8xdE1YV02Dbgrn2L) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/0NWdGnIgHhsQ4ZwXPe1lUF) | 3:28 | 2021-05-01 | 2022-07-29 |
 | [If I Were You](https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [If I Were You](https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT) | 2:51 | 2021-05-01 | 2022-04-14 |
@@ -324,7 +325,7 @@
 | [Nobody Gets Me \(Like You\)](https://open.spotify.com/track/6XjNM7KyApEaLwRZEZkb0X) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:37 | 2022-04-13 | 2022-04-19 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-05-01 | 2022-07-29 |
 | [Nothing in This Town](https://open.spotify.com/track/4dxn0RkvNq30VrB77J9Uuw) | [The Dig](https://open.spotify.com/artist/2Ki2mlU4LhZZ0BOYHWbcot) | [Nothing in This Town](https://open.spotify.com/album/29vpuEwwHXg8CWc2HHASR4) | 4:34 | 2021-05-01 | 2022-04-14 |
-| [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-07-22 |  |
+| [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-07-22 | 2023-02-03 |
 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2021-05-01 | 2022-03-23 |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-05-01 | 2022-04-13 |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-05-01 | 2022-04-13 |
@@ -348,7 +349,7 @@
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2022-04-13 | 2022-06-21 |
 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 | 2022-12-07 |  |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2021-05-01 | 2022-10-13 |
-| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 | 2022-11-13 |
+| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 |  |
 | [Pity Party](https://open.spotify.com/track/755ZtEcRE6wHKnqWMsDzWK) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/69Ezb3xqAZREwiNLdm1JFq) | 1:31 | 2022-04-13 | 2022-04-20 |
 | [Poor Boy \(Radio Edit\)](https://open.spotify.com/track/5Z6DxJNKw4jUiSDy95A0fp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Poor Boy \(Radio Edit\)](https://open.spotify.com/album/0QtXSzonmfOkR6jWtle4T5) | 3:25 | 2021-05-01 | 2022-04-14 |
 | [Poor Grammar](https://open.spotify.com/track/1Tdcb66Gwr5sczO5CJhmPc) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 2:36 | 2022-04-14 | 2022-10-08 |
@@ -454,6 +455,7 @@
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2023-01-03 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-17 | 2022-11-13 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-05-01 | 2022-10-14 |
+| [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2023-02-03 |  |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2021-05-01 | 2022-01-08 |
 | [This Must Be the Place](https://open.spotify.com/track/5XNFqqY6uEeHecY4vkYfwC) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Must Be the Place](https://open.spotify.com/album/0c2l7sS8kYtPrUouP4dbos) | 3:39 | 2021-05-01 | 2022-07-29 |
 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 | 2022-07-22 |  |

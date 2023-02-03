@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 75076,
+  "num_followers": 75257,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDY3NjhmNjJkZjcyMDIxZjNkZmFjZmNjOWVmNzNlYWEw",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGYwNzg1N2M4ZGJmYTk5ZWIwMmMxMDdlZWIyMGNjMDFj",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -375,6 +375,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "R & BW",
-        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Yes/No",
-      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Nwa Baby (Ashawo Remix)",
+        "url": "https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Nwa Baby (Ashawo Remix)",
+      "url": "https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Nwa Baby (Ashawo Remix)",
-        "url": "https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Nwa Baby (Ashawo Remix)",
-      "url": "https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC"
     },
     {
       "added_at": "2020-11-06 13:21:21",

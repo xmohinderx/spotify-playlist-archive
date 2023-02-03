@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Melle Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,113 likes - 119 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,171 likes - 119 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 92 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 |
 | 93 | [Desire](https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN) | 1:48 |
 | 94 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
-| 95 | [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 |
+| 95 | [Satellite 9](https://open.spotify.com/track/3FqpMDBmmQJmJOBAkMWors) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 3:01 |
 | 96 | [Sadhana](https://open.spotify.com/track/6ilWOSGCIpyRCnVUZsSbEB) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 2:53 |
 | 97 | [f1 racer](https://open.spotify.com/track/52Pyhmuoxg9LmxO6L4qnsA) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 2:26 |
 | 98 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 118 | [Over](https://open.spotify.com/track/7j8ZIYTv5F5hIXY9IRIZnY) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Over](https://open.spotify.com/album/4LdTjdQXW6E6Y1hrj9E5BS) | 3:28 |
 | 119 | [Tommy's Dream](https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO) | 3:39 |
 
-Snapshot ID: `MTY3NDc3NzYwMCwwMDAwMDAwMDA3MDk4N2MyN2RjMjM3M2M4MWVlOTExYTJjNDRjNjU3`
+Snapshot ID: `MTY3NDc3NzYwMCwwMDAwMDAwMGEzNTIxOWU4ZDMzYWQyMWZjOTk3NWZhNWE2ZTBjMGQw`

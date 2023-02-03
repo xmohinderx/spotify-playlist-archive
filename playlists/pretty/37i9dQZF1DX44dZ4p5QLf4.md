@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,407 likes - 119 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,482 likes - 119 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 115 | [RISE](https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [L V J](https://open.spotify.com/artist/6nbOYUQOlOoU5C0p2I6zGk) | [RISE](https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN) | 3:34 |
 | 116 | [Get By](https://open.spotify.com/track/6aL5k7WuvtlCSKEvPWuwFP) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:42 |
 | 117 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 |
-| 118 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 |
+| 118 | [MIDSKY](https://open.spotify.com/track/2XTq0vKOx4eSdh6HsUQ8gJ) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/06uE9ysbdWA219rbAtpaAI) | 3:36 |
 | 119 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDdlYTg2ODJlOWNlOGM3MzIxM2Y2Y2MyYzM4OGIzZDMz`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGRhODRlZDIwNTU1OGEyZWUyMTVmYTBhZTA4NWNhNzc5`

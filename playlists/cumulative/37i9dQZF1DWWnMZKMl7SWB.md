@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-305 songs - 19 hr 39 min
+306 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Looped](https://open.spotify.com/track/4zSbFrERDuBdZ1Bio9uee4) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/5M7H7J3LJfIk9zqcDJVi6T) | 6:00 | 2022-04-12 | 2022-07-29 |
 | [Lost in America Part II](https://open.spotify.com/track/0QyOt78rIAlyyaceTVVhOG) | [Daniel Kadawatha](https://open.spotify.com/artist/2eDGCAUPtznGnGKQ2uP3GZ) | [Lost In America Part II](https://open.spotify.com/album/64DKeK03lXDQ8iZIjf95xG) | 3:33 | 2022-04-12 |  |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2022-04-12 |  |
-| [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2022-04-12 |  |
+| [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 | 2023-01-06 |  |
+| [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2022-04-12 | 2023-02-03 |
 | [Luciérnaga](https://open.spotify.com/track/0kxJ3Xd4BgyJKCT0gfYJuD) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Luciérnaga](https://open.spotify.com/album/7rjUt0ROpKZiGZlT2aGp05) | 2:51 | 2022-04-12 |  |
 | [Luminescence](https://open.spotify.com/track/0pDug97KNMJ7EqT4GdIBeC) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Luminescence](https://open.spotify.com/album/2b3TrpF9eaEfzYDz9NTDks) | 1:29 | 2022-04-12 |  |
 | [Luminous](https://open.spotify.com/track/5Nysjljr2cotY9HeW74GHh) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 3:31 | 2022-04-12 |  |

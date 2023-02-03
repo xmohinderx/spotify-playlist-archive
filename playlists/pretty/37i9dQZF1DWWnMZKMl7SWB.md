@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,545 likes - 220 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,550 likes - 220 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 177 | [Again \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/114BzpOMtJscxWepVeoRmF) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 5:26 |
 | 178 | [Plätscher](https://open.spotify.com/track/4fBHiFOlhyuQ5yFcUIAKmP) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/4EvaziSKIjq0LNifgfnjld) | 4:13 |
 | 179 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
-| 180 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 180 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 181 | [1988 \- Original Mix](https://open.spotify.com/track/68YRdMv167zby0ceobW8em) | [Youandewan](https://open.spotify.com/artist/4z6FshDl8yeHQSpFWdgN32) | [Luca Ricci Presents: Aenaria Chill Wmc '09 @ Night](https://open.spotify.com/album/6bzOtmrMzoXqkPa2WKj6yC) | 10:32 |
 | 182 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 |
 | 183 | [We Stayed Up All Night](https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/0iKdUVQXTroQwMLsCEaVPy) | 4:25 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 219 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 220 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY3MzAxOTk5NSwwMDAwMDAwMGRmZjU4OGY4MDM2OWFkMWJmY2QwYmY2NzUwNTUxYmQ2`
+Snapshot ID: `MTY3MzAxOTk5NSwwMDAwMDAwMDI2Mzc2MWI0MGY1Mzk5ODNiNmEzMzAxZWU1YjM0YzVl`

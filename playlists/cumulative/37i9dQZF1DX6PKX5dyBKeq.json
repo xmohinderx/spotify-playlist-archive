@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Russ Millions",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AntsLive",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 188333,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq"
@@ -7802,7 +7802,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 230621,
       "name": "Don\u2019t Like Drill (feat. Central Cee)",
       "url": "https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC"
@@ -8070,7 +8070,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 208111,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0UPRakQPnFH6xM1IJ03NHN"
@@ -9496,6 +9496,24 @@
       "duration_ms": 226250,
       "name": "Flick Of The Wrist",
       "url": "https://open.spotify.com/track/4suhVGmBYYOn4tTAMk2pzV"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
       "album": {
@@ -14836,7 +14854,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 206694,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4E6KYlUY2wTVciZz9kwnBG"
@@ -20809,6 +20827,28 @@
     },
     {
       "album": {
+        "name": "Legitimate Cause",
+        "url": "https://open.spotify.com/album/1LPZpvN2QMnfZugwz5rP3r"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        },
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240769,
+      "name": "Same Team",
+      "url": "https://open.spotify.com/track/5Z0bbZMs1nIrDv7S3hSyRs"
+    },
+    {
+      "album": {
         "name": "Sasuke",
         "url": "https://open.spotify.com/album/2MsdnHASkr4LyTS938BOCb"
       },
@@ -25826,6 +25866,24 @@
       "duration_ms": 232060,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3scpdF0mhONL4alLWQDYQM"
+    },
+    {
+      "album": {
+        "name": "Who Said Goons Don't Cry?",
+        "url": "https://open.spotify.com/album/18ChxxsuGLdXXzzaRLQCJE"
+      },
+      "artists": [
+        {
+          "name": "Nino Uptown",
+          "url": "https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Who Said Goons Don't Cry?",
+      "url": "https://open.spotify.com/track/7bwUY127pZvvB7ChnZ03ds"
     },
     {
       "album": {

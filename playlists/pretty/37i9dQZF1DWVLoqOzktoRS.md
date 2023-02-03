@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relájate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,232 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,229 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 13 | [The Poet Acts](https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Hours \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil) | 3:43 |
 | 14 | [Naval](https://open.spotify.com/track/7ujnUuc5TWgPLL1RK2IUz2) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Tabarly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lhd6tN5IW7Ou3ZtX1MGFF) | 3:38 |
 | 15 | [Vals Poético \(feat\. Los Macorinos\) \- Instrumental](https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:17 |
-| 16 | [Lucía](https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 1:56 |
+| 16 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 17 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
 | 18 | [El Bueno Y El Malo](https://open.spotify.com/track/07S694jiKDLkJLyBa7pdMn) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:25 |
 | 19 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 23 | [Married Life \(From "Up"\)](https://open.spotify.com/track/7KnFT8NQPRYtWOZXhWcGGZ) | [Mark Northam](https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg) | [Up: Music From The Pixar Films For Solo Piano](https://open.spotify.com/album/2VILAmwCpOQhPe4I6lCPlE) | 4:35 |
 | 24 | [Farewell](https://open.spotify.com/track/1BEYD0bZSeaA8OlMGnyLpj) | [Emilio Kauderer](https://open.spotify.com/artist/3Ie0iKmYPXlTXUzCiGOmDq), [Federico Jusid](https://open.spotify.com/artist/4Bjfwb6PiXwqru4DHOMwIq), [Sebastian Kauderer](https://open.spotify.com/artist/18tRinDA2SAp0t3qmrh4Ce) | [El Secreto de Sus Ojos \(The Original Motion Pictures Soundtrack\) \(The Secret In Their Eyes, By Juan José Campanella\)](https://open.spotify.com/album/3cdaDNvGnfQiOqzl28VL0c) | 1:41 |
 | 25 | [Maria Carolina](https://open.spotify.com/track/2GjLFzB8GQBjk8uBVkgGAD) | [Antonio Lauro](https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Lauro: Guitar Music, Vol\. 1 \- Venezuelan Waltzes](https://open.spotify.com/album/1U7J8B2DkCOYqYQSrBw4VE) | 3:05 |
-| 26 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
+| 26 | [Lucía](https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 1:56 |
 | 27 | [Reflejo De Luna](https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Integral](https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E) | 3:54 |
 | 28 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 |
 | 29 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 59 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
 | 60 | [Los abrazos rotos \(From "Los abrazos rotos"\)](https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Pedro Almodóvar & Alberto Iglesias Film Music Collection](https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ) | 3:00 |
 
-Snapshot ID: `MTY3NDc5MTYxOCwwMDAwMDAwMGJlZTRjZTIyNTY5YmNjNmQ5MTFhYThlZTdhOTU2MzI1`
+Snapshot ID: `MTY3NDc5MTYxOCwwMDAwMDAwMDBkNzVhYTQ1MmMzMTY2NzUzZDRlYTgwMmM5YTcyMWM2`

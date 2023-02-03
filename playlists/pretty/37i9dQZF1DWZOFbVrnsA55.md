@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,493 likes - 291 songs - 4 day 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,549 likes - 291 songs - 4 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 220 | [Hymn](https://open.spotify.com/track/5RupoQ9GAEN4k40jdHeXPD) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3), [Mixmaster Morris](https://open.spotify.com/artist/4YuO08xFlO9FYWKC73zov9) | [Dreamfish](https://open.spotify.com/album/0YT22XVTkzZ61STHHpruVI) | 27:54 |
 | 221 | [Prism](https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK) | [Chris Spheeris](https://open.spotify.com/artist/42hAALNK37w5Zx8dnGGLZ6), [Paul Voudouris](https://open.spotify.com/artist/5Qwks7s6d53U9yYy9jyQfh) | [Passage](https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB) | 12:34 |
 | 222 | [Danfo Mellow](https://open.spotify.com/track/413cuZEcMxiXocsO0qXGHc) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [Beyond The Yellow Haze](https://open.spotify.com/album/4EjBca2aqF7mMRkDkXSrNN) | 11:24 |
-| 223 | [The Stranger's House](https://open.spotify.com/track/2OM8TfeXCJHtpBEDHl2hFE) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/23JC7fsMtFwA2HtaccrgjD) | 11:23 |
+| 223 | [The Stranger's House](https://open.spotify.com/track/3exdzBiyPOxYcYnQ3CRcKX) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/3wEyGlUwaK3EdCLBqBzLvi) | 11:23 |
 | 224 | [Sketch VII\_II](https://open.spotify.com/track/5m4lIPWyM89lcWLaN2zzJT) | [Black Elk](https://open.spotify.com/artist/3LruscMfdxyvqJpFzywkfb) | [Sketches II](https://open.spotify.com/album/5GJSd2WddYrJfazgpJxUf6) | 42:28 |
 | 225 | [Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 11:57 |
 | 226 | [Music for Aquariums: Night Shift](https://open.spotify.com/track/4j7Edwz5XM8jK8rl7UINkX) | [Robotboot](https://open.spotify.com/artist/6GEf8q5JgyPzWfGFWQ7YhE) | [Music for Aquariums: Night Shift](https://open.spotify.com/album/3wz7DKidU2AXE4asIGiliI) | 11:39 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 290 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
 | 291 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDE3ZTNmZTBjMWI0YTk0YWEyNWFlYzRjMzdjYTA4Njg0`
+Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDk2YmYxMjFjZWMyMDNlNmE4MjZiMzM3NDBjNDQzNjIx`

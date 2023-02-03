@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Sam Smith, Alexandre Pires com Ferrugem, Simone Mendes, Gusttavo Lima e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,112 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,227 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 20 | [Brisa da Boa](https://open.spotify.com/track/5CEqBRJElCZfvj4W6PQ9TM) | [Kamatos](https://open.spotify.com/artist/3aANIxbg5GNj2aGxxpg4Mr), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Brisa da Boa](https://open.spotify.com/album/0gsj5pRQFzOTf9GSGeVoxC) | 2:08 |
 | 21 | [Amor e Prazer](https://open.spotify.com/track/4goRJ2C1Jd4mdt3ZA8f3Pw) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Amor e Prazer](https://open.spotify.com/album/7q549GCk5TltinpUIAyihq) | 2:08 |
 | 22 | [Papo Reto](https://open.spotify.com/track/2zKo0ACLlB9TOuzeVhMjjq) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Papo Reto](https://open.spotify.com/album/1FUpuwNLfw4qhiGneHh1zg) | 3:02 |
-| 23 | [Diamante](https://open.spotify.com/track/1Ow0D2ktm4rT28oxe4BUR4) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Diamante](https://open.spotify.com/album/5hZTiUn0LUaOBEXYPCA4W8) | 2:47 |
+| 23 | [Diamante](https://open.spotify.com/track/1Ow0D2ktm4rT28oxe4BUR4) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Diamante](https://open.spotify.com/album/5hZTiUn0LUaOBEXYPCA4W8) | 2:47 |
 | 24 | [Abracadabra](https://open.spotify.com/track/00mqszWSWG8sUSMGguI3WJ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Abracadabra](https://open.spotify.com/album/068bY5hrHI3j3PTKIK1wqO) | 3:12 |
 | 25 | [Culpa Sua](https://open.spotify.com/track/064niTEeR42yCjukSK8sW1) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Culpa Sua](https://open.spotify.com/album/5wsehGI7uYs8uh8VZWdeTX) | 2:35 |
 | 26 | [Nunca Mais Vou Te Botar](https://open.spotify.com/track/5j6Ccc1No8TlerCTVUuo0y) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Nunca Mais Vou Te Botar](https://open.spotify.com/album/2IK6t2EsABDIuD5ZVKChld) | 3:26 |

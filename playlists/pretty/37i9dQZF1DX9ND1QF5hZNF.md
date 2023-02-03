@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,545 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,587 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 16 | [Pink Soldiers](https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Pink Soldiers](https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4) | 2:15 |
 | 17 | [Sunset Memories](https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Sunset Memories](https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj) | 3:04 |
 | 18 | [Cool Kids](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Cool Kids](https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK) | 2:33 |
-| 19 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 |
+| 19 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 |
 | 20 | [Highs & Lows](https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Highs & Lows](https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR) | 3:04 |
 | 21 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 |
 | 22 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,197 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 8 | [TU QUER MAIS OQ?](https://open.spotify.com/track/1ZoIvym8kI3yaW1IwUHk0r) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Africa DJ](https://open.spotify.com/artist/6ODWLh2vEua5c76R7QeePM), [MC Zanquetta](https://open.spotify.com/artist/6df8YSqZbkPoNET9ImQKIk), [MC VITIN DA DZ7](https://open.spotify.com/artist/4pjhiFD8ZOpM17TSOJ7V21) | [No Susto](https://open.spotify.com/album/5F7IR1M0n8TJcEv1TytwPB) | 2:10 |
 | 9 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 |
 | 10 | [Sabe Quem Sou](https://open.spotify.com/track/6OTrz742PNDwQli7oPSCvQ) | [Raul Conrado](https://open.spotify.com/artist/1kgJFO4V7zbKNadlpeifdh), [MGO](https://open.spotify.com/artist/1lNqWxcJuAOcggIzO7RyIP), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sabe Quem Sou](https://open.spotify.com/album/2qA7qw0z0I27MzkIdglpIW) | 3:29 |
-| 11 | [Sigo Frio](https://open.spotify.com/track/58rixyMbSeAoOqdYXu19Fw) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Sigo Frio](https://open.spotify.com/album/5oUDoKblGrcr5STXUGkJB1) | 3:38 |
+| 11 | [Sigo Frio](https://open.spotify.com/track/5fcwXqL0nB4OIx5VRXEKAD) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:38 |
 | 12 | [Menor Revoltado](https://open.spotify.com/track/2BXOXDQPVHBsyRFKtpVEEU) | [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt) | [PROIBIDRILL](https://open.spotify.com/album/1MndcCC7a7N1qSfAg1Z1S6) | 3:13 |
 | 13 | [Melhor Agora](https://open.spotify.com/track/2zsjWBqJohc4Vk8YKZJGfT) | [Vivari](https://open.spotify.com/artist/08z7iBSC01CNhxoRmHmpx7), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Melhor Agora](https://open.spotify.com/album/0TGsmtNrPS3w3gN66NM4zb) | 3:25 |
 | 14 | [Pop Smoke Freestyle](https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Artilheiro](https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Artilheiro](https://open.spotify.com/album/4KGIXDOJ3hiZO4DGyVC8pn) | 2:26 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMDhlOGE5NDA5N2ViNWU3MjNkYTJhYTQxNmUxMGNjNDg2`
+Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMGI5YTM0YWE4ZWIzMjY1ZmE3ZjYxOTQzNDIxNzk5ODJj`

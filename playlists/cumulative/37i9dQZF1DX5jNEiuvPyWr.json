@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Rounhaa",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "CASCADE",
+        "url": "https://open.spotify.com/album/3Coi3CC35a80Y5WXwlHMo2"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168580,
+      "name": "CASCADE",
+      "url": "https://open.spotify.com/track/2OBxlYIG1JCFQuCKdn2177"
+    },
+    {
+      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 188989,
       "name": "SANS TOI",
       "url": "https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn"
@@ -2610,6 +2628,24 @@
       "duration_ms": 160000,
       "name": "UBER",
       "url": "https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD"
+    },
+    {
+      "album": {
+        "name": "Ulyss",
+        "url": "https://open.spotify.com/album/20wAvXHkfRKHNqAx9xQRbz"
+      },
+      "artists": [
+        {
+          "name": "Captaine Roshi",
+          "url": "https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Ulyss",
+      "url": "https://open.spotify.com/track/6SLrsf0RoSwEWo6jp8fF7P"
     },
     {
       "album": {

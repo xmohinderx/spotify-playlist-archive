@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > gente a sexta\-feira eh daqui qntos anos alguem sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,728 likes - 78 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,517 likes - 78 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 24 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 25 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 26 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 |
-| 27 | [Brotou no Baile](https://open.spotify.com/track/3F83yryYWw4Qs0sVRpoMF3) | [Mc Agabê](https://open.spotify.com/artist/79KRb6pfmG8T3Biypzm8sk), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Dj Terrorista](https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC) | [Brotou no Baile](https://open.spotify.com/album/6zVLn50KohcFWYI7FNKket) | 2:01 |
+| 27 | [Brotou no Baile](https://open.spotify.com/track/3F83yryYWw4Qs0sVRpoMF3) | [Mc Agabê](https://open.spotify.com/artist/79KRb6pfmG8T3Biypzm8sk), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Dj Terrorista](https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotou no Baile](https://open.spotify.com/album/6zVLn50KohcFWYI7FNKket) | 2:01 |
 | 28 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 |
 | 29 | [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:56 |
 | 30 | [Me Evita Mais](https://open.spotify.com/track/6qPCDdlx08sKOnlLKZW6h0) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Pra Beber e Amar](https://open.spotify.com/album/1UDHGRm4svqknx3HScd6uX) | 2:19 |

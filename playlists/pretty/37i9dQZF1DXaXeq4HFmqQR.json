@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Loyaltty y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10999,
+  "num_followers": 11008,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDI0NWYyMWM2MzgzNTY5ODU0NzdlM2RlNTYyYmIxNmQ1",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDc0MGQyNzBhZTQ1M2JkMzk3MjU5MThjNjJjMDU1M2Yz",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Agarra",
+        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Agarra",
+      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/15ww8sGn53UcsQ6fSPcnji"
       },
@@ -171,26 +187,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "\u00c9xtasis",
-        "url": "https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Mami Trap",
         "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
       },
@@ -215,6 +211,42 @@
       "duration_ms": 220800,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "\u00c9xtasis",
+        "url": "https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Maquiav\u00e9lica",
+        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Maquiav\u00e9lica",
+      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -255,22 +287,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Agarra",
-        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Agarra",
-      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
       },
@@ -283,38 +299,6 @@
       "duration_ms": 182384,
       "name": "Fine",
       "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Maquiav\u00e9lica",
-        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
-      },
-      "artists": [
-        {
-          "name": "VaniaJoplin",
-          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Maquiav\u00e9lica",
-      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -351,6 +335,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "COPACABANA",
         "url": "https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ"
       },
@@ -379,26 +379,6 @@
       "duration_ms": 135529,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3HU1hZwW0Ga7QUng9Qsc0e"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -455,22 +435,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 172857,
-      "name": "Histeria",
-      "url": "https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Nunca Fue",
         "url": "https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 282271,
       "name": "Nunca Fue",
       "url": "https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "Histeria",
+      "url": "https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 173158,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -643,26 +643,26 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Hood",
-        "url": "https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE"
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
       "artists": [
         {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
           "name": "Cheskv Liz",
           "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Bzro89",
-          "url": "https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t"
         }
       ],
-      "duration_ms": 176410,
-      "name": "Hood",
-      "url": "https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt"
+      "duration_ms": 200425,
+      "name": "Ella Fuma",
+      "url": "https://open.spotify.com/track/4Q8woCjhHUoic8IrpIMKr9"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -687,26 +687,26 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
+        "name": "Hood",
+        "url": "https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE"
       },
       "artists": [
         {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
           "name": "Cheskv Liz",
           "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Bzro89",
+          "url": "https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t"
         }
       ],
-      "duration_ms": 200425,
-      "name": "Ella Fuma",
-      "url": "https://open.spotify.com/track/4Q8woCjhHUoic8IrpIMKr9"
+      "duration_ms": 176410,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Teteo",
-        "url": "https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6"
-      },
-      "artists": [
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        }
-      ],
-      "duration_ms": 151967,
-      "name": "Teteo",
-      "url": "https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Nadie Sabe",
         "url": "https://open.spotify.com/album/1hxkLA3bLg96weMY7b6hcL"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 182488,
       "name": "Pa Brillar",
       "url": "https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Teteo",
+        "url": "https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6"
+      },
+      "artists": [
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        }
+      ],
+      "duration_ms": 151967,
+      "name": "Teteo",
+      "url": "https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC"
     },
     {
       "added_at": "2023-02-01 03:00:00",

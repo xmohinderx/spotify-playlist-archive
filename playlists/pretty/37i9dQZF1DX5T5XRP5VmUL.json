@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 136718,
+  "num_followers": 136689,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMGQ2NWQ2NTdiNjQ4ODY2NTYwYjViZjdmMDNkMGQ0MjEx",
+  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMGZjOTBkOGRiMjEzMWRmNTk1YWJkYTcxNmI4MjVlZTM0",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "All We Need",
-        "url": "https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 182702,
-      "name": "All We Need",
-      "url": "https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175318,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 182702,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 197229,
       "name": "River",
       "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas Time's A Comin'",
-        "url": "https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN"
+        "name": "It's Me & You (This Christmas)",
+        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
       },
       "artists": [
         {
-          "name": "Good Lovelies",
-          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+          "name": "Elijah Woods x Jamie Fine",
+          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
         }
       ],
-      "duration_ms": 163510,
-      "name": "Christmas Time's A Comin'",
-      "url": "https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i"
+      "duration_ms": 148202,
+      "name": "It\u2019s Me & You (This Christmas)",
+      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "It's Me & You (This Christmas)",
-        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
+        "name": "Christmas Time's A Comin'",
+        "url": "https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN"
       },
       "artists": [
         {
-          "name": "Elijah Woods x Jamie Fine",
-          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
         }
       ],
-      "duration_ms": 148202,
-      "name": "It\u2019s Me & You (This Christmas)",
-      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
+      "duration_ms": 163510,
+      "name": "Christmas Time's A Comin'",
+      "url": "https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Yet Another BROS Christmas",
-        "url": "https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ"
-      },
-      "artists": [
-        {
-          "name": "BROS",
-          "url": "https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc"
-        }
-      ],
-      "duration_ms": 145425,
-      "name": "Christmas Morning is Finally Here!",
-      "url": "https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "The Ballad of Mrs. Claus",
         "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 221000,
       "name": "The Ballad of Mrs. Claus",
       "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Yet Another BROS Christmas",
+        "url": "https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ"
+      },
+      "artists": [
+        {
+          "name": "BROS",
+          "url": "https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc"
+        }
+      ],
+      "duration_ms": 145425,
+      "name": "Christmas Morning is Finally Here!",
+      "url": "https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU"
     },
     {
       "added_at": "2022-12-16 16:34:09",

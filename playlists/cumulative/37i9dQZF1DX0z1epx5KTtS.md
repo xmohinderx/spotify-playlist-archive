@@ -2,13 +2,13 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Shado Chris
+> African dance party music from Paris to Abidjan\. Photo : DJ KEROZEN
 
-108 songs - 6 hr 27 min
+110 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 |  |
+| [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 | 2023-02-03 |
 | [Abacou](https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [Aboutou Roots](https://open.spotify.com/artist/4Mg9ctyuvtX852SAMNfLso) | [Abacou](https://open.spotify.com/album/5oko0ARkOH4fnLFuABsdqR) | 4:02 | 2022-09-15 | 2022-12-09 |
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 | 2022-12-16 |
 | [Allez Dire](https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Allez Dire](https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve) | 3:31 | 2022-10-27 |  |
@@ -66,7 +66,7 @@
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |
-| [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 |  |
+| [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 | 2023-02-03 |
 | [La vérité](https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT) | [2Boyz](https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [La vérité](https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC) | 3:33 | 2021-12-20 | 2022-06-03 |
 | [Le Beau des beaux](https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf) | [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Le Beau des beaux](https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70) | 4:07 | 2022-09-29 |  |
 | [Le carburant](https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ) | [Prince Kiala](https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy) | [Le carburant](https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r) | 4:33 | 2021-12-20 | 2022-09-02 |
@@ -98,12 +98,14 @@
 | [Retour à l'envoyeur](https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Retour à l'envoyeur](https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl) | 3:53 | 2022-08-25 | 2023-01-27 |
 | [Sac à main](https://open.spotify.com/track/66NOf4gM87dJHggT574dnL) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 4:06 | 2022-09-29 | 2023-01-20 |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 | 2022-10-28 |
+| [Solé Molé](https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Solé Molé](https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF) | 3:36 | 2023-02-02 |  |
 | [Statut visé](https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Statut visé](https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom) | 3:35 | 2022-07-21 | 2023-01-06 |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 | 2022-06-03 |
 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 | 2022-07-22 |
 | [Sur le beat](https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Sur le beat](https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz) | 3:29 | 2023-01-26 |  |
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 | 2022-07-29 |
 | [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 | 2023-01-06 |
+| [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 |  |
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 |  |
 | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 | 2022-12-09 |

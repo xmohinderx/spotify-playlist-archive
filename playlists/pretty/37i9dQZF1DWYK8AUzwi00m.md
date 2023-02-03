@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,101 likes - 220 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,043 likes - 220 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 46 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 |
 | 47 | [My Mistletoe](https://open.spotify.com/track/5xGOCagb5VvPzdolvCmiWw) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [My Mistletoe](https://open.spotify.com/album/62pk1aYQuUcyml4qe0Dpoc) | 2:27 |
 | 48 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
-| 49 | [Rudolph The Red Nose Reindeer](https://open.spotify.com/track/6oMFDK0E0KdZ9EtXHq7s9z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Rudolph The Red Nose Reindeer](https://open.spotify.com/album/3G9ms9MOV4hYdEKlo9RrZ5) | 1:33 |
+| 49 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/6oMFDK0E0KdZ9EtXHq7s9z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/3G9ms9MOV4hYdEKlo9RrZ5) | 1:33 |
 | 50 | [Winter Wonderland \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/7wYEMHnKYNqIMxDmJL8l4n) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 2:11 |
 | 51 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 |
 | 52 | [Snowflakes Falling](https://open.spotify.com/track/4dst2H6GqLCXQ1PdtaXSru) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Snowflakes Falling](https://open.spotify.com/album/2QVtKjHLLHFrHDTQJLEw03) | 2:06 |

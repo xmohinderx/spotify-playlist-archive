@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Demob Happy",
+  "description": "The UK's biggest rock playlist. Cover: YONAKA",
   "name": "The Rock List",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 171133,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Untethered",
+        "url": "https://open.spotify.com/album/5w7LosrCdnBUoQJnCavlY3"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Chain Reactions",
+      "url": "https://open.spotify.com/track/4UejYXB2uDM2Aw6bZUG6IM"
+    },
+    {
+      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "delirious",
+        "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
+      },
+      "artists": [
+        {
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171443,
+      "name": "delirious",
+      "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "album": {
         "name": "Died in My Twenties",
         "url": "https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2"
       },
@@ -272,7 +308,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 341986,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
@@ -290,7 +326,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 160937,
       "name": "Fugazi",
       "url": "https://open.spotify.com/track/4zv0Q89ALcQ0PETBAXE3b6"
@@ -348,6 +384,24 @@
       "duration_ms": 100467,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S"
+    },
+    {
+      "album": {
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Give It up to Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "album": {
@@ -420,7 +474,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 147378,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
@@ -460,6 +514,42 @@
       "duration_ms": 269666,
       "name": "I EXIST",
       "url": "https://open.spotify.com/track/4jJ6h9LNJ36huNd2sjR73M"
+    },
+    {
+      "album": {
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "album": {
+        "name": "If You\u2019re Gonna Break My Heart",
+        "url": "https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266818,
+      "name": "If You\u2019re Gonna Break My Heart",
+      "url": "https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP"
     },
     {
       "album": {
@@ -626,7 +716,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 165831,
       "name": "Moto",
       "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
@@ -662,7 +752,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 191853,
       "name": "Okay That's Me",
       "url": "https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn"
@@ -684,6 +774,24 @@
       "duration_ms": 212964,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
+    },
+    {
+      "album": {
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174259,
+      "name": "PANIC",
+      "url": "https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8"
     },
     {
       "album": {
@@ -842,10 +950,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 136066,
       "name": "SHE\u2019S MY (SEXI BOY)",
       "url": "https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2qqtSS2ug1CM1UncwBi66w"
+      },
+      "artists": [
+        {
+          "name": "The Sherlocks",
+          "url": "https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202287,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4eGua701gIqWxYrETSpHGK"
     },
     {
       "album": {
@@ -864,6 +990,24 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+    },
+    {
+      "album": {
+        "name": "So So Soon",
+        "url": "https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "So So Soon",
+      "url": "https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G"
     },
     {
       "album": {
@@ -932,7 +1076,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 233000,
       "name": "Taunt Me",
       "url": "https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77"
@@ -1120,6 +1264,24 @@
       "duration_ms": 191599,
       "name": "Where Do I Sign?",
       "url": "https://open.spotify.com/track/2iS56f2r8QJT5v6dykQUbV"
+    },
+    {
+      "album": {
+        "name": "Wide Asleep",
+        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Wide Asleep",
+      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Melle Brown
 
-576 songs - 1 day 18 hr 2 min
+577 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,8 @@
 | [Salt](https://open.spotify.com/track/3qGU5R3DwpjbQzknfy4Ci9) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Salt](https://open.spotify.com/album/0Tn4IqUFauNbb6BP3sL5oO) | 3:52 | 2022-05-13 | 2022-09-30 |
 | [Salta \- Edit](https://open.spotify.com/track/2Tus0pKx1132r4mUjZ0maC) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Salta](https://open.spotify.com/album/7ES0OnrC9DzAN2rhfxCj7s) | 4:09 | 2022-03-04 | 2022-04-23 |
 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 | 2022-12-16 |  |
-| [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 | 2022-10-28 |  |
+| [Satellite 9](https://open.spotify.com/track/3FqpMDBmmQJmJOBAkMWors) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 3:01 | 2023-01-27 |  |
+| [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 | 2022-10-28 | 2023-02-03 |
 | [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 | 2022-05-06 | 2022-07-29 |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-10-14 |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2022-10-20 | 2022-12-17 |

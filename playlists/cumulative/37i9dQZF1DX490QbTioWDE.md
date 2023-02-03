@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-292 songs - 19 hr 15 min
+293 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Baño de Luna / La Morena](https://open.spotify.com/track/4mhdgivjL1gXhh3DU1Jy4M) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [El Tano Romero](https://open.spotify.com/artist/3CzLe0eqm2dY4Dbo8qtNrm) | [Baño de Luna /La Morena](https://open.spotify.com/album/5nyudEcKLTX7ZKujq9z7Xs) | 4:25 | 2022-04-01 | 2022-04-25 |
 | [Bebé](https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Bebé](https://open.spotify.com/album/5kp9KP5edbBulAcqClNeLx) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 | 2021-12-24 |  |
+| [Bésame Bonito \(Cover\) \- En Vivo](https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Bésame Bonito \(Cover\) \[En Vivo\]](https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd) | 3:52 | 2023-01-27 |  |
 | [Carne y Hueso](https://open.spotify.com/track/1r1zoTsPGIm20PaY3vkcVn) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Carne y Hueso](https://open.spotify.com/album/79zO4F3krOtJl4NevEku1F) | 3:20 | 2022-07-15 | 2022-09-09 |
 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 | 2021-12-24 |  |
 | [Celosa](https://open.spotify.com/track/7vISoRZFPNYpKvsGzKCiSW) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Celosa](https://open.spotify.com/album/37g6jsBoe2sCnSiEnfc3Rg) | 4:09 | 2022-01-21 | 2022-05-12 |
@@ -230,7 +231,7 @@
 | [Si Faltas Tú](https://open.spotify.com/track/5qg6DJXbQTPTGGF5Ft94Oa) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Cuarteto Premium](https://open.spotify.com/album/5Bzeyk1auK1ebXzNZRnXvz) | 2:59 | 2022-06-03 | 2022-09-23 |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 | 2023-02-01 |
 | [Si Te Vas de Mí \- Live](https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si Te Vas de Mí \(Live\)](https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc) | 3:00 | 2022-01-07 | 2022-07-21 |
-| [Si Tu No Estas](https://open.spotify.com/track/3pgPOehuHA8I85GN7YfpiR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Si Tu No Estás](https://open.spotify.com/album/45lk2mZV4w5IKtcvdmErAU) | 2:28 | 2023-01-13 |  |
+| [Si Tu No Estas](https://open.spotify.com/track/3pgPOehuHA8I85GN7YfpiR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Si Tu No Estás](https://open.spotify.com/album/45lk2mZV4w5IKtcvdmErAU) | 2:28 | 2023-01-13 | 2023-02-03 |
 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 | 2021-12-24 | 2022-07-29 |
 | [Si Va A Ser...Será](https://open.spotify.com/track/3R3SF0dXWShukKIaGUli43) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Sin Límites](https://open.spotify.com/album/587Ocz3UuEOvVcwwyzvacw) | 4:24 | 2022-11-04 | 2022-12-08 |
 | [Sobrio](https://open.spotify.com/track/6UfZkwIlrw4FouM2AY3kFR) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Sobrio](https://open.spotify.com/album/2vl2hR71GKwSE1D9jBpkl4) | 3:50 | 2022-04-15 | 2022-04-23 |

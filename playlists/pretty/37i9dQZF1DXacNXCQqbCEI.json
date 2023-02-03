@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 335100,
+  "num_followers": 335223,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDAxNTJmZTQ2MTQ4ZmUyM2E0NmE1YzdlMTQzNjM4MGVk",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGYxYjZjYWMzNmQwYWExNDM4MzY3MmFiY2M2ODI3ZDE3",
   "tracks": [
     {
       "added_at": "2022-10-10 15:18:57",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Sonido Campechano",
-        "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
-      },
-      "artists": [
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        },
-        {
-          "name": "Digital Charanga",
-          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
-        }
-      ],
-      "duration_ms": 271128,
-      "name": "Sonido Campechano",
-      "url": "https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Siku",
         "url": "https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Sonido Campechano",
+        "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
+      },
+      "artists": [
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        },
+        {
+          "name": "Digital Charanga",
+          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
+        }
+      ],
+      "duration_ms": 271128,
+      "name": "Sonido Campechano",
+      "url": "https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U"
     },
     {
       "added_at": "2022-10-10 15:18:57",

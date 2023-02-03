@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Kleber Lucas, Caetano Veloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,081 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,116 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 64 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 |
 | 65 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 |
 | 66 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
-| 67 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 |
-| 68 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 67 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 68 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 |
 | 69 | [O Tempo Voa](https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [O Tempo Voa](https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8) | 4:37 |
 | 70 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
 | 71 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Ao Único](https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Ao Único](https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL) | 4:17 |
 | 80 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDI1M2E1ZDJlMWRlMDk1ZDJmYjcwMTg2YmRlZDc3Yzc5`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDM2NjkxZGE5ODI0MWM2MzlkNjVkNjc0YzFhYjdiY2Vi`

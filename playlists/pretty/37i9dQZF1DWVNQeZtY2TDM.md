@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 小人
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,101 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,100 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 5 | [Realize](https://open.spotify.com/track/4wBO2jqgWccyrg1dQaAxX7) | [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [4MG Billy](https://open.spotify.com/artist/0I0eDfomg8shM0Pm0nLmCL), [Flomosa Media](https://open.spotify.com/artist/5GMBqjlvRxThEATjgXnqiB) | [Realize](https://open.spotify.com/album/6Yg2Nb5b3z9D8A4hLiv2LK) | 2:33 |
 | 6 | [Drowning](https://open.spotify.com/track/1XXvo0XLQqEnIb0fjEr0C8) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Drowning](https://open.spotify.com/album/6tC3xfxVub5WUYcWlO7PG3) | 2:36 |
 | 7 | [歡迎光臨](https://open.spotify.com/track/3z1fDUPBQL43PrcmkQ7IY5) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq) | [枉少年](https://open.spotify.com/album/5oeCirhdu856CeS3S6O0Nv) | 3:36 |
-| 8 | [出來玩](https://open.spotify.com/track/37klS3XSjdMSEYvWTZulOY) | [小人](https://open.spotify.com/artist/1VBpXNWPZII75dzhJFdqNP) | [出來玩](https://open.spotify.com/album/3lQT3alsMs5aNLCT0Vw0iU) | 3:54 |
+| 8 | [出來玩](https://open.spotify.com/track/37klS3XSjdMSEYvWTZulOY) | [小人](https://open.spotify.com/artist/4OyHaNDJ7PskXAIjZ8tBzK) | [出來玩](https://open.spotify.com/album/3lQT3alsMs5aNLCT0Vw0iU) | 3:54 |
 | 9 | [是你.](https://open.spotify.com/track/3fiXwwPL7cUvD7BqkHdN0J) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [是你.](https://open.spotify.com/album/46mCiXY4QlWCV2q34BQlG9) | 1:35 |
 | 10 | [She's my Angel](https://open.spotify.com/track/3vC5pSvyBaX8apdX9FlSA3) | [Namz528](https://open.spotify.com/artist/4ZAC7xRO5PxFI9NCEeODMI) | [Just another rainy day](https://open.spotify.com/album/2omGwfCACy0WmLNVUnZaUS) | 3:27 |
 | 11 | [Shawty](https://open.spotify.com/track/6p5d0gVSIDOBEc2YaRygox) | [RYL](https://open.spotify.com/artist/0ZRlG17oF5oBb0PBnawQ7B) | [Shawty](https://open.spotify.com/album/0eetw6AUhqabp0quVtwKT2) | 2:42 |

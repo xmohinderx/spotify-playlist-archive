@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-137 songs - 8 hr 46 min
+139 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,15 +95,17 @@
 | [Mestre Sala](https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 4:32 | 2022-12-01 |  |
 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 | 2022-04-26 | 2022-05-11 |
 | [Nado Borboleta](https://open.spotify.com/track/1LK94Pkl6MQJouTSi8MyLS) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 4:26 | 2022-04-26 | 2022-09-30 |
+| [Nana](https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Nana](https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484) | 4:33 | 2023-02-02 |  |
 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 | 2022-04-26 |  |
 | [Noite Suave](https://open.spotify.com/track/5dVUdUdr5CXEpC6Lu0pb2U) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Noite Suave](https://open.spotify.com/album/4BEKXeaDkF5uvYkhEY2Fhk) | 4:24 | 2022-08-10 |  |
 | [Nothing To Lose \(from The Party\)](https://open.spotify.com/track/6hoPWPOBh92PQqkbqJmqdX) | [Owen Silberman](https://open.spotify.com/artist/7elv0yvaQGqWdcnwV1VVUy) | [Out of Tinseltown](https://open.spotify.com/album/4kihph6RfV3BjW5jrjYWJ4) | 3:22 | 2022-04-26 |  |
 | [O Amor é Complicado](https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Amore e Complicado](https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ) | 3:34 | 2022-10-27 |  |
 | [O Maior Sol](https://open.spotify.com/track/63wRyjLypeKCjDIKZjdRM4) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:11 | 2022-04-26 |  |
 | [O Que Será](https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Eu vim da Bahia](https://open.spotify.com/album/1tQ1u6Kms69YAw9tjWMdF3) | 3:45 | 2022-04-26 |  |
+| [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-02-02 |  |
 | [O Sabor Mais Doce](https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:03 | 2022-04-26 |  |
 | [O Viajante](https://open.spotify.com/track/1chb80aIieV42kYzBVQwTK) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 2:55 | 2022-04-26 |  |
-| [Ocean Love](https://open.spotify.com/track/76Y1aQHyjMst7Fm6rvjzvc) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Ocean Love](https://open.spotify.com/album/3j6NuIuIVKR6UxCOVqV7rA) | 3:55 | 2022-10-06 |  |
+| [Ocean Love](https://open.spotify.com/track/76Y1aQHyjMst7Fm6rvjzvc) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Ocean Love](https://open.spotify.com/album/3j6NuIuIVKR6UxCOVqV7rA) | 3:55 | 2022-10-06 | 2023-02-03 |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/3dtb16fVorx31i70fUkJMA) | [Leland Stein Quartet](https://open.spotify.com/artist/4P0NAt5XSbTNfm9Wsx2Fa0) | [Good Bait](https://open.spotify.com/album/5A6inRzYr8S4GB2X3zoOrB) | 2:50 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2022-04-26 |  |

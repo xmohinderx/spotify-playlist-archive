@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,944 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,106 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 67 | [Dream Baby Dream](https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 6:24 |
 | 68 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 69 | [My Way \- 1993 Remastered Version](https://open.spotify.com/track/0TaWdoJiAJoln9OQ1RbdNs) | [Sid Vicious](https://open.spotify.com/artist/1YnxVTLZQkk6KJI2c5sBqU) | [Playlist: New Wave](https://open.spotify.com/album/3EZ09EIoMr6Y5Q9aidbnhy) | 4:04 |
-| 70 | [Search and Destroy \- Iggy Pop Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:28 |
+| 70 | [Search and Destroy \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:30 |
 | 71 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
 | 72 | [\(I Married a\) Monster from Outer Space](https://open.spotify.com/track/0FnmRkP81O1I6oeOeU1xXS) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [Disguise In Love](https://open.spotify.com/album/1aIqKIruBug4AOhVuu9AGh) | 3:31 |
 | 73 | [One Of These Things First](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:50 |

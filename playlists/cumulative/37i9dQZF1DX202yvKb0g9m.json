@@ -480,7 +480,7 @@
     {
       "album": {
         "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -491,6 +491,24 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 134840,
       "name": "Cornish Acid",
       "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
@@ -768,7 +786,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 259026,
       "name": "I Love Acid",
       "url": "https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe"
@@ -822,7 +840,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Land Of Confusion",
       "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"

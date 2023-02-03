@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,395 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,450 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 93 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 |
 | 94 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 |
 | 95 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
-| 96 | [again](https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [again](https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ) | 3:48 |
+| 96 | [Again](https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Again](https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ) | 3:48 |
 | 97 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 |
 | 98 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 99 | [Paradise](https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2) | 3:22 |

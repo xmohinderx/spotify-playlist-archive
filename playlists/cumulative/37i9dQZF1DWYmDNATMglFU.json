@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. baby fisher",
+  "description": "it's a generation \u26d3 ft. waterparks",
   "name": "The Locker",
   "tracks": [
     {
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 182349,
       "name": "Call Me Never",
       "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
@@ -3841,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "I Never Say No",
+        "url": "https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198835,
+      "name": "I Never Say No",
+      "url": "https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC"
+    },
+    {
+      "album": {
         "name": "I Think I Hate Myself",
         "url": "https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA"
       },
@@ -6149,6 +6167,28 @@
     },
     {
       "album": {
+        "name": "God Save The Teen",
+        "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190137,
+      "name": "Shelter (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+    },
+    {
+      "album": {
         "name": "My Favorite Blue Jeans",
         "url": "https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8"
       },
@@ -7634,7 +7674,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 175555,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f"

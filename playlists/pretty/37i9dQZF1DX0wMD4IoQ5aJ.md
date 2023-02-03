@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,814 likes - 164 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,074 likes - 164 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 151 | [ALFA](https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [ALFA\-DELTA](https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a) | 5:09 |
 | 152 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 |
 | 153 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 |
-| 154 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 154 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 | 155 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 |
 | 156 | [Feel Free](https://open.spotify.com/track/3fzi3cbZdfxc1lMTY7vKFC) | [Liléa Narrative](https://open.spotify.com/artist/3zdmSedktArdETaKwrzv92) | [Co/ll\-nn/ection](https://open.spotify.com/album/626F8sjLoDYXAwwDakwiAd) | 4:05 |
 | 157 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 |

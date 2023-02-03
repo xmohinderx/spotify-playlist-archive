@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,622 likes - 300 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,700 likes - 300 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,7 +238,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 228 | [Liquid Dust](https://open.spotify.com/track/1dLB5DEAqbjUPc9C8W7Nfb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Liquid Dust](https://open.spotify.com/album/5C6uyXdkPilcqLLEvmkSi2) | 3:33 |
 | 229 | [San Blas](https://open.spotify.com/track/7hTxggsd00sOUlXhBMsonM) | [Basic Amaury](https://open.spotify.com/artist/1IJxQCtcWIJ05bXGJHBMwe) | [San Blas](https://open.spotify.com/album/0vV153pcazJCHud3jTvcTH) | 2:00 |
 | 230 | [Inner Sphere](https://open.spotify.com/track/02qZutrIVgi1MaxeWUKUR0) | [Kiyola](https://open.spotify.com/artist/6HJrC3CzHGz4oTUBDhD7ex) | [Inner Sphere](https://open.spotify.com/album/229QaIgoOgjBrjdQbqxkjE) | 2:26 |
-| 231 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 231 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 | 232 | [Sapphire](https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Sapphire](https://open.spotify.com/album/2vHfkFEiulvbOSBu3XQ9Y4) | 2:28 |
 | 233 | [Indigo](https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Indigo](https://open.spotify.com/album/7FSDgHsFvuoSkLmJqWifn0) | 2:23 |
 | 234 | [Toyama](https://open.spotify.com/track/0fNvCaHFdc8gmP5c3OJLgs) | [Moy\-ya](https://open.spotify.com/artist/5khRduXj2TwOW0awj5q0zS) | [Toyama](https://open.spotify.com/album/11CN73XzqHhOor1vuqIzHt) | 3:18 |

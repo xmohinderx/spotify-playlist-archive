@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-294 songs - 17 hr 18 min
+295 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Make A Place](https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Make A Place](https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB) | 3:19 | 2022-09-29 |  |
 | [Meant To Be](https://open.spotify.com/track/38L2DeWjO0JogrpCNyiJRF) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [Meant To Be](https://open.spotify.com/album/5V5h7iHklmqmGlAFIpgJiB) | 3:01 | 2021-12-16 | 2022-06-17 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-20 |  |
-| [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 | 2022-02-10 |  |
+| [MIDSKY](https://open.spotify.com/track/2XTq0vKOx4eSdh6HsUQ8gJ) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/06uE9ysbdWA219rbAtpaAI) | 3:36 | 2023-01-19 |  |
+| [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 | 2022-02-10 | 2023-02-03 |
 | [MilkShake & FriES \- Demo](https://open.spotify.com/track/5T5uxgC1lWESmsXFHlXbIs) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [MilkShake & FriES \(Demo\)](https://open.spotify.com/album/0CZMcf4cXdbwL7WwlR83NW) | 2:50 | 2021-12-16 | 2022-10-15 |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 |  |
 | [Moonlight](https://open.spotify.com/track/4rdQivUpY3faWSm98gMplo) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:46 | 2021-12-16 | 2022-02-11 |

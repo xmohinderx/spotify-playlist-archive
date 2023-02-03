@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: MOD SUN, Avril Lavigne",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 184124,
       "name": "(pls) set me on fire",
       "url": "https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 169142,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/5juzi6Bpqi7cf3lh9xLSYB"
@@ -392,6 +392,24 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "album": {
@@ -988,6 +1006,24 @@
       "duration_ms": 341986,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
+    },
+    {
+      "album": {
+        "name": "ATUM - Act I & II",
+        "url": "https://open.spotify.com/album/2ZagNJdDOXRHe3W5f4ov4W"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/6W2PWC5H7FSG3fdWc70EgZ"
     },
     {
       "album": {
@@ -2335,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Requiem Mass (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240591,
+      "name": "Lost In The Grandeur - Requiem Mass",
+      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
+    },
+    {
+      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -3180,7 +3234,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 143552,
       "name": "Punk Tactics",
       "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
@@ -3484,6 +3538,28 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS"
+    },
+    {
+      "album": {
+        "name": "God Save The Teen",
+        "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190137,
+      "name": "Shelter (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
     },
     {
       "album": {
@@ -4012,7 +4088,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 129104,
       "name": "The Grouch - Demo",
       "url": "https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS"
@@ -4608,7 +4684,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 244135,
       "name": "Waiting On The Sky To Change",
       "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
@@ -4648,6 +4724,24 @@
       "duration_ms": 302346,
       "name": "Was It All Worth It - Original Take",
       "url": "https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w"
+    },
+    {
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "album": {

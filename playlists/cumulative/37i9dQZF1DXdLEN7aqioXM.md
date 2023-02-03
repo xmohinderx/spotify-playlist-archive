@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-387 songs - 1 day 3 hr 42 min
+388 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Daytona](https://open.spotify.com/track/1RWMydoqnPlMiHV7oEPwHo) | [Russ Chimes](https://open.spotify.com/artist/5L1ueznqwXIHAimfnhfftF) | [Valerie and Friends](https://open.spotify.com/album/4mpzuBJYmwO7fzkMr43oT7) | 5:07 | 2022-04-01 | 2022-04-19 |
 | [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 | 2022-02-04 |  |
 | [Delorean Dynamite \- Disco Mix](https://open.spotify.com/track/5WJEShsmfEDZramr8OKrHJ) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Delorean Dynamite](https://open.spotify.com/album/3v0SOK6IrTMgza0l6Aqs5H) | 6:40 | 2022-04-01 | 2022-04-09 |
-| [Delusive Bunker \- Live Version](https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Delusive Bunker \(Live Version\)](https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0) | 6:11 | 2021-10-15 |  |
+| [Delusive Bunker \- Live Version](https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Delusive Bunker \(Live Version\)](https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0) | 6:11 | 2021-10-15 | 2023-02-03 |
 | [Diabolic](https://open.spotify.com/track/68ngtC3pGiTjXcFwxYCJ7Z) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [The Shape](https://open.spotify.com/album/6FrmsWgHEf8JGco0YPFOjJ) | 4:19 | 2021-10-15 | 2022-04-08 |
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2022-04-01 | 2022-04-19 |
 | [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 | 2022-08-19 |  |
@@ -101,6 +101,7 @@
 | [Dream Theater](https://open.spotify.com/track/7zqS6rZTqQiL2OzNKMO3Fb) | [Punker](https://open.spotify.com/artist/1uoxgTFCl7K0oyamLeTx2F) | [Dream Theater](https://open.spotify.com/album/42OZ0kcevCCilxs9SzlAEB) | 3:36 | 2022-12-09 |  |
 | [Dreams](https://open.spotify.com/track/2jbtkmkMgu0QzuaWi1boGI) | [Peaking Lights](https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc) | [E S C A P E](https://open.spotify.com/album/0MWNTj4Vy7FpJdDaFq3yl2) | 5:28 | 2022-04-01 | 2022-04-09 |
 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 | 2021-10-15 | 2023-01-26 |
+| [Drift](https://open.spotify.com/track/5HL2seL3g380ByRrIGjXC2) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Dark Nation](https://open.spotify.com/album/48SMSCylwABIUqES42tNRO) | 5:07 | 2023-01-13 |  |
 | [Drive](https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C) | [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Drive](https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC) | 2:49 | 2022-11-04 |  |
 | [Drive\-by Stalking](https://open.spotify.com/track/6ME1VoSzgeICC3LERDfq0d) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/06rUenebSdb4u81wj4tK8H) | 5:20 | 2022-02-04 | 2022-07-29 |
 | [Drive\-by Stalking](https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9) | 5:20 | 2022-07-22 |  |

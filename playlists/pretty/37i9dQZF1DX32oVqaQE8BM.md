@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,607 likes - 248 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,707 likes - 248 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 188 | [Heaven](https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Heaven](https://open.spotify.com/album/0C6hqHyCFgiH1OEdWWOLyM) | 3:06 |
 | 189 | [Human](https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w) | [Ebende](https://open.spotify.com/artist/0DOiT9J5OrviDfUhBAkJAE) | [Human](https://open.spotify.com/album/5lQJwFSf6G5RTpyCYt5kSW) | 4:13 |
 | 190 | [desert days](https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [Trankilo](https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP) | [desert days](https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF) | 2:32 |
-| 191 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 |
+| 191 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 |
 | 192 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 |
 | 193 | [Levitation](https://open.spotify.com/track/6DZNRRRYdh8GGMFCWGQph2) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Levitation](https://open.spotify.com/album/1dFGxCa64YyA4rk5x2VdrJ) | 3:16 |
 | 194 | [Midnight Sessions](https://open.spotify.com/track/7u0N11DPQKRk2qN0zcZzAC) | [Yungie x 2](https://open.spotify.com/artist/41zvwhWE9oBEaaaAKFqpn9) | [Midnight Sessions](https://open.spotify.com/album/2BxmMhK7o7OvFWT280Nutt) | 2:17 |

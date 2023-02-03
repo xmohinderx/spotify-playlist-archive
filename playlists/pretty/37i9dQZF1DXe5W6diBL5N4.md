@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: VIVIZ \(비비지\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,557 likes - 115 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,676 likes - 115 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 5 | [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 |
 | 6 | [snow light](https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [snow light](https://open.spotify.com/album/795rDvVKt9nAga7CBw6NLi) | 3:57 |
 | 7 | [After Love](https://open.spotify.com/track/34tpa7ePGVugKLVq9aFjnh) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 1\)](https://open.spotify.com/album/4CIuoaHz8qZ6NbUI8Lb4K4) | 4:07 |
-| 8 | [The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 |
+| 8 | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 |
 | 9 | [Factfree](https://open.spotify.com/track/6LmEu9Z1kTQMfGuUcDxPGI) | [kweeel](https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO), [souve](https://open.spotify.com/artist/3OPsX3n3PIED8AVcWitqIj) | [Factfree](https://open.spotify.com/album/6iykPb5INHaLSmP0DaNUU9) | 3:04 |
 | 10 | [TIC TAC](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [8TURNRISE](https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ) | 3:22 |
 | 11 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 29 | [The opposite side](https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Crash Course in Romance OST Part 3](https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH) | 4:10 |
 | 30 | [Once Again](https://open.spotify.com/track/4shzLSlIHhyKmTY7xRQRwU) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Once Again](https://open.spotify.com/album/05ptYQOuOL5bMv2IVEr3lP) | 3:28 |
 | 31 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 |
-| 32 | [Seanson that doesn't exist](https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Seanson that doesn't exist](https://open.spotify.com/album/7CWzdLS0zw8drF8L5Ss4W7) | 4:32 |
+| 32 | [Season that doesn't exist](https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Season that doesn't exist](https://open.spotify.com/album/7CWzdLS0zw8drF8L5Ss4W7) | 4:32 |
 | 33 | [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 |
 | 34 | [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 |
 | 35 | [Dreaming Of You](https://open.spotify.com/track/2VIuL4fIdif8EL7ci63xjY) | [Soansi](https://open.spotify.com/artist/31BkgOaNkTHl4kzcJn38Ta) | [Time to hug the sound](https://open.spotify.com/album/6rlc0k6mLIhhaiX7i1AsUz) | 3:31 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 58 | [Vision Freestyle 2023](https://open.spotify.com/track/2jeYmlsmwSUWtPkRemb37H) | [Young Jay](https://open.spotify.com/artist/31Th370DhMKD0CgCV6Ma3J) | [Vision Freestyle 2023](https://open.spotify.com/album/4EmsM629RqgKP0cuIjeeQR) | 2:36 |
 | 59 | [Purple \(feat\. Q the trumpet\)](https://open.spotify.com/track/5LkRZ9jS8ag2sh1FuDD6dP) | [Nihil](https://open.spotify.com/artist/612P3YJsaXeFpupmGjs3Qq), [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Rainbow](https://open.spotify.com/album/58Ce3beflUYwbD0veFuXTW) | 4:03 |
 | 60 | [911](https://open.spotify.com/track/0eZhYAlCbRabmUwBTySHzz) | [HEUN](https://open.spotify.com/artist/4ulWyVHfnZcF0mR9FlRH2c) | [911](https://open.spotify.com/album/2eWXD2RzxuukaKuNXr5odA) | 3:14 |
-| 61 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [GUMMY](https://open.spotify.com/artist/0Uq946Jy0jtL8oJayJF6wK) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
+| 61 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
 | 62 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
 | 63 | [Back In The Game](https://open.spotify.com/track/4nzlN1G5yYdtkeheCsOmL2) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Back In The Game \(Payback X Kim ki Tae\)](https://open.spotify.com/album/4gqx7y9Z31ZmvIXijb8ehz) | 2:58 |
 | 64 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 |

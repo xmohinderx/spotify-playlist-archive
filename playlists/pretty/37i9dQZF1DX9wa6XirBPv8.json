@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1439814,
+  "num_followers": 1440469,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDg0NWMxZjZkMTY2MGVjMjc0YzRmODkxZmNmOTA1NGVk",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDQ2MzFlOTlhODgyMGZmYWE4MzM2MjgyNGNiOWRiZDE2",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Boys Like Girls",
-        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
-      },
-      "artists": [
-        {
-          "name": "Boys Like Girls",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Boys Like Girls",
+        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
+      },
+      "artists": [
+        {
+          "name": "Boys Like Girls",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "A Boy Brushed Red Living In Black And White",
-      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "A Boy Brushed Red Living In Black And White",
+      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
       "added_at": "2022-08-02 18:47:58",

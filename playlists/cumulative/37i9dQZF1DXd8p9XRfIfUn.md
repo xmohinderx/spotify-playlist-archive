@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-171 songs - 9 hr 4 min
+172 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-05-13 | 2022-07-24 |
 | [HORÓSCOPO](https://open.spotify.com/track/49RWuFAfLDr1zPYAggA3NY) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/0rWy1o12psdJXP7J9ZCekT) | 4:08 | 2022-05-13 | 2022-09-23 |
 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 | 2022-09-30 |  |
-| [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-05-13 |  |
+| [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-05-13 | 2023-02-03 |
 | [Indecente](https://open.spotify.com/track/0EZInKKYTW5LanhkBC8JIj) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Indecente](https://open.spotify.com/album/7jPZlZ5cNZSpmjX6dSr3Wd) | 3:15 | 2022-05-13 | 2022-07-25 |
 | [Inédito](https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [Inédito](https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ) | 2:42 | 2022-05-13 | 2022-11-19 |
 | [joda](https://open.spotify.com/track/6JuPMiM57RIoWNxfV0az9u) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [joda](https://open.spotify.com/album/4HyIl22on0kp0hm7XuBRw4) | 3:00 | 2022-05-13 | 2022-07-28 |
@@ -125,6 +125,7 @@
 | [Problemática](https://open.spotify.com/track/0ZHUkajorgCKE9gaHgWals) | [Pou](https://open.spotify.com/artist/52bF8EWsS1h11DXI1mXSEW) | [Problemática](https://open.spotify.com/album/3kFnjHMxu7odqzErSotdG2) | 3:26 | 2022-05-13 | 2022-07-09 |
 | [Profuga](https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL) | [Alex Got](https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Profuga](https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-05-13 | 2022-07-29 |
+| [Pégate](https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Pégate](https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI) | 2:00 | 2023-01-27 |  |
 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 | 2022-07-01 |  |
 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 | 2022-05-13 |  |
 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 | 2022-05-13 |  |

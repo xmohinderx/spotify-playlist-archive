@@ -4,14 +4,17 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-80 songs - 8 hr 0 min
+85 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#11](https://open.spotify.com/track/00rqHqrLS3ZZCqRLsMSPXs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:18 | 2021-12-23 |  |
-| [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 | 2022-12-30 |  |
+| [\#11](https://open.spotify.com/track/00rqHqrLS3ZZCqRLsMSPXs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:18 | 2021-12-23 | 2023-02-03 |
+| [\#11](https://open.spotify.com/track/1J9HzZ1mPuFafLSTRU2a6F) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:18 | 2022-12-30 |  |
+| [\#17](https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 2:05 | 2022-12-30 |  |
+| [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 | 2022-12-30 | 2023-02-03 |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2021-12-23 | 2022-12-31 |
-| [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2021-12-23 |  |
+| [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2021-12-23 | 2023-02-03 |
+| [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 | 2022-12-30 |  |
 | [12:18](https://open.spotify.com/track/4GgIxF4YtxQl8Dj9MJIjOA) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 12:17 | 2021-12-23 |  |
 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-23 |  |
 | [5](https://open.spotify.com/track/31Fh0P3RuBgqr4Q98fySA5) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Hotel Paral.lel](https://open.spotify.com/album/1dE84ei4z2SdzcQIbQIfwX) | 6:59 | 2021-12-23 |  |
@@ -73,7 +76,8 @@
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2021-12-23 |  |
 | [Shinsen](https://open.spotify.com/track/00J8P1V7Vbwyh8QLnvbGAL) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:33 | 2021-12-23 |  |
 | [Shipgate](https://open.spotify.com/track/46H94greW63poe7V2ixSsx) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:27 | 2021-12-23 |  |
-| [Slip, Dip](https://open.spotify.com/track/2YyXej3Cwztlc8ijBDh5vR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/6Fb5fYghhLgnEniAMICvjA) | 2:18 | 2021-12-23 |  |
+| [Slip, Dip](https://open.spotify.com/track/0WEw3j0294lP22HJsePQLJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop \(Expanded Edition\)](https://open.spotify.com/album/4sZvfu1CSNQg7qbYWLKyb5) | 2:18 | 2022-12-30 |  |
+| [Slip, Dip](https://open.spotify.com/track/2YyXej3Cwztlc8ijBDh5vR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/6Fb5fYghhLgnEniAMICvjA) | 2:18 | 2021-12-23 | 2023-02-03 |
 | [Store Check](https://open.spotify.com/track/7c0T2g54R3Ig28W57TCXKy) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:00 | 2021-12-23 |  |
 | [Surfacing](https://open.spotify.com/track/6YATWkNk120ofMCau5ePPx) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 13:17 | 2021-12-23 |  |
 | [Teimo \(Schluss\)](https://open.spotify.com/track/6LYfs6v1boQ62a8NxdXYhX) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Teimo](https://open.spotify.com/album/76FkQcJMz7ichnvIUZoYRm) | 4:22 | 2021-12-23 |  |
@@ -81,7 +85,8 @@
 | [The Atomium Part 1](https://open.spotify.com/track/2uuJ3VKeI5FVV8nPkUD8r8) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Avec Laudenum](https://open.spotify.com/album/7GAdWrS7xbumDLadbeOAbB) | 5:32 | 2021-12-23 |  |
 | [The Tower](https://open.spotify.com/track/2Ew9aqhpxnNLxZgLdgdoki) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:43 | 2021-12-23 |  |
 | [The Well of Sadness](https://open.spotify.com/track/6UGe3souOEyLAGTPk5KJNe) | [Raison D'être](https://open.spotify.com/artist/0NOdtBd6AUb9WLGfVU1yDR) | [In Sadness, Silence and Solitude \(Expanded\)](https://open.spotify.com/album/0P45LydyGcy4a2MK0peptI) | 8:19 | 2021-12-23 | 2022-03-11 |
-| [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-23 |  |
+| [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-23 | 2023-02-03 |
+| [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 | 2022-12-30 |  |
 | [Uds](https://open.spotify.com/track/0loEkNLUcvea4FK4yFEtni) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Hotel Paral.lel](https://open.spotify.com/album/1dE84ei4z2SdzcQIbQIfwX) | 3:33 | 2021-12-23 |  |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-12-23 |  |
 | [Waveform \- 1996 Remix](https://open.spotify.com/track/3YfaYTexBvb3O3lqYVcBER) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 7:32 | 2021-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,019 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,027 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 108 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:45 |
 | 109 | [Stand Up Jamrock](https://open.spotify.com/track/1SL530xuXv4aqHnLPR8zQG) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [The Music of Grand Theft Auto IV](https://open.spotify.com/album/1TbLVY5HqL8DPlHtAVXlVj) | 5:45 |
 | 110 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
-| 111 | [Peace Sells \- Remastered](https://open.spotify.com/track/3pIU81Fd7sTMdaaZ5GI9Vj) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:02 |
+| 111 | [Peace Sells](https://open.spotify.com/track/3pIU81Fd7sTMdaaZ5GI9Vj) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:02 |
 | 112 | [Flash](https://open.spotify.com/track/2L9BBx9601VBbqTdVNtvPC) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Move With Me](https://open.spotify.com/album/3TBMoRfijzhUpcO9Rt4fNf) | 5:13 |
 | 113 | [Stonecutters](https://open.spotify.com/track/4w8GzssMiUNcrmkJkal6nh) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 4:18 |
 | 114 | [Es\-Toy](https://open.spotify.com/track/7xmGMLRtaMWPzOSgq6HEiT) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Político](https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt) | 3:19 |

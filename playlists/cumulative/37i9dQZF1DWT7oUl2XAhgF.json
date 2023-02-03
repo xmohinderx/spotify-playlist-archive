@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Cheating in the Daylight",
+        "url": "https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        },
+        {
+          "name": "Willie Clayton",
+          "url": "https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327680,
+      "name": "Cheating in the Daylight",
+      "url": "https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh"
       },
@@ -506,7 +528,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138223,
       "name": "Come On Through",
       "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
@@ -684,7 +706,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 207240,
       "name": "Dare You Be Mine",
       "url": "https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467"
@@ -4043,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+    },
+    {
+      "album": {
         "name": "Tumblin'",
         "url": "https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8"
       },
@@ -4054,7 +4094,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV"

@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. baby fisher
+> it's a generation ⛓ ft\. waterparks
 
-459 songs - 23 hr 6 min
+461 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Bye, Insecurity](https://open.spotify.com/track/0ksd4bKAXV10u3gUQxWYXu) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Trust Issues](https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL) | 3:26 | 2022-01-07 | 2022-02-04 |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-15 |  |
 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 | 2021-12-31 | 2022-01-08 |
-| [Call Me Never](https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Call Me Never](https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS) | 3:02 | 2022-07-14 |  |
+| [Call Me Never](https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Call Me Never](https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS) | 3:02 | 2022-07-14 | 2023-02-03 |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-20 | 2022-11-01 |
 | [Cannonball](https://open.spotify.com/track/6xXzhKhNNmBJ4q0Qzw485o) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:18 | 2022-02-25 | 2022-07-22 |
 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 | 2022-10-20 | 2022-11-01 |
@@ -210,6 +210,7 @@
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-10-20 | 2022-11-01 |
 | [I Hope You're Happy](https://open.spotify.com/track/0R8clsMFyCYRN7iYRKTiuE) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0GrNWYEjMvterOotBAbkNa) | 2:59 | 2022-01-28 | 2022-07-22 |
 | [I JUST WON’T CARE](https://open.spotify.com/track/0BhpMWlDaG0zAfI5nTuBqf) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:26 | 2022-06-02 | 2022-08-05 |
+| [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 |  |
 | [I Think I Hate Myself](https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Think I Hate Myself](https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA) | 3:34 | 2022-03-08 | 2022-03-09 |
 | [I'd Do Anything](https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:17 | 2021-12-31 | 2022-01-08 |
 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 | 2022-06-02 | 2022-07-22 |
@@ -334,6 +335,7 @@
 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-01-07 | 2022-01-28 |
 | [SHE'S GOTTA GO!](https://open.spotify.com/track/5UOMvxAW9elVifLPAA12jE) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [SHE'S GOTTA GO!](https://open.spotify.com/album/4oRU4PoaDmKrcipSk7Yq2B) | 2:45 | 2022-01-07 | 2022-02-04 |
 | [She's My Religion](https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 3:09 | 2022-03-08 | 2022-03-09 |
+| [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 | 2023-02-03 |  |
 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 | 2022-10-31 |  |
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-04-07 | 2022-09-23 |
 | [SiCK ABOuT U](https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [SiCK ABOuT U](https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4) | 3:08 | 2022-01-07 | 2022-03-25 |
@@ -413,7 +415,7 @@
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 |  |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2021-12-31 | 2022-01-08 |
 | [Time Machine](https://open.spotify.com/track/0tYfi7vl6FbspcxyGHCDCu) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Time Machine](https://open.spotify.com/album/30w21xul3TETE8LNZGLE5l) | 2:33 | 2022-01-07 | 2022-03-25 |
-| [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 |  |
+| [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 | 2023-02-03 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 |  |
 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2022-11-04 |  |

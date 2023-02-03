@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 65096,
+  "num_followers": 65374,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDVlMmMwN2I1MWZkMGNkZTAzNzFiMzEyNGIwZjFlNDBh",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDA4MTU2MzA4NzgyYWE3N2I3NDk1ODM4YmVlMWM3Mzdm",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
-      },
-      "artists": [
-        {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 223066,
       "name": "Westside Story",
       "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+      },
+      "artists": [
+        {
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 229813,
       "name": "Lean Wit It, Rock Wit It",
       "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Hunger For More",
-        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
       },
       "artists": [
         {
@@ -1628,17 +1628,21 @@
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
         },
         {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+          "name": "Freekey Zeekey",
+          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+        },
+        {
+          "name": "Toya",
+          "url": "https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml"
         }
       ],
-      "duration_ms": 248626,
-      "name": "Down And Out",
-      "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
+      "duration_ms": 230080,
+      "name": "Hey Ma",
+      "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1735,8 +1739,8 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
       "artists": [
         {
@@ -1744,21 +1748,17 @@
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Freekey Zeekey",
-          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
-        },
-        {
-          "name": "Toya",
-          "url": "https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml"
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
         }
       ],
-      "duration_ms": 230080,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
+      "duration_ms": 248626,
+      "name": "Down And Out",
+      "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1851,30 +1851,18 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Golden Grain",
-        "url": "https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV"
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
       "artists": [
         {
-          "name": "Disturbing Tha Peace",
-          "url": "https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 272293,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0"
+      "duration_ms": 232333,
+      "name": "What's My Name",
+      "url": "https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

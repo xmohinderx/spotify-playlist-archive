@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 44852,
+  "num_followers": 44882,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGEzMTkwNWExZTExMjdjMDY1YjJmYjg4NjQ1ODU4ODM0",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGJjY2M5NDI1OTU0YjEwM2NkNGM2MmFlYTJlMThkNjlm",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 302813,
       "name": "Soul Dream",
       "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Metro Blue",
-        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "People Make the World Go Round",
-      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "The Limit's The Sky",
         "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 223666,
       "name": "Chill Or Be Chilled",
       "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Metro Blue",
+        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
     },
     {
       "added_at": "2020-08-19 19:15:51",

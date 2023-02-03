@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Nicole Favre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,334 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,340 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 50 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 |
 | 51 | [Calle](https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Calle](https://open.spotify.com/album/2cDBVi3YVK3XIURShVLFDb) | 3:28 |
 | 52 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 |
-| 53 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
-| 54 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
-| 55 | [Modales](https://open.spotify.com/track/6QN7NiSb37BDD7VGMBmCv0) | [A\. Bahena](https://open.spotify.com/artist/45M9Trx3miT27vCuZNW1m8), [Naldo Br](https://open.spotify.com/artist/48xhWmlyKv5ETSCtJb91IA), [Barbie beat](https://open.spotify.com/artist/3XPACYhBGd2y2wX5yq4JiR), [C.Cazanova](https://open.spotify.com/artist/33CizBuVuc0mibmVAzXbIz) | [LOS GALACTICOS Vol.1](https://open.spotify.com/album/6K7m6IhpfUzMMS8OGd3ILI) | 5:02 |
+| 53 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
+| 54 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
+| 55 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
 
-Snapshot ID: `MTY3NDg0MjQwMCwwMDAwMDAwMGU1Y2NiNzg4ZThkZDQ3N2Y0Yzc4YTZjMWE2MTc2MTUx`
+Snapshot ID: `MTY3NDg0MjQwMCwwMDAwMDAwMGE5ZjRkNTI1YzRhOGRlMzA0ZDQxMjI0YWQyMTVlMTJm`

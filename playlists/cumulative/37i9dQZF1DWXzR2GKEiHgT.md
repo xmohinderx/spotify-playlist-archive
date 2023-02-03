@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-211 songs - 10 hr 21 min
+212 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Shoreline Sound](https://open.spotify.com/track/1K8VTg78Jo4BWAC1FAiGZz) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 5:42 | 2021-11-11 | 2022-10-12 |
 | [Sleep Refreshed](https://open.spotify.com/track/73zohs74P55sdkTRIzIuqN) | [Beach Top Sounders](https://open.spotify.com/artist/2MpXnqfEhxozPnAndJjTWM) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:32 | 2021-11-11 |  |
 | [Slow Waves](https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Slow Waves](https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d) | 1:47 | 2021-11-11 |  |
-| [Soft Rolling Waves](https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Relax At Sea](https://open.spotify.com/album/7Ics0LpJ0tvnuJXWIXjSLr) | 2:27 | 2021-11-11 |  |
+| [Soft Rolling Waves](https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Relax At Sea](https://open.spotify.com/album/7Ics0LpJ0tvnuJXWIXjSLr) | 2:27 | 2021-11-11 | 2023-02-03 |
 | [Soothing Carmel Waves](https://open.spotify.com/track/39hIhbVAwHcIHnwaTxM98v) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 4:56 | 2021-11-11 |  |
 | [Soothing Evening waves Of Nerja 3](https://open.spotify.com/track/2AFka6kv2ZNapN66OoMAcn) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 3:10 | 2021-11-11 |  |
 | [Soothing Evening waves Of Nerja 4](https://open.spotify.com/track/0gJZa23KwVDfghKSGoWoHr) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 2:04 | 2021-11-11 |  |
@@ -178,6 +178,7 @@
 | [Thunderstorm By The Waterfall](https://open.spotify.com/track/5dqINJU28icQujnJU37BJS) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 2:13 | 2021-11-11 |  |
 | [Thunderstorm In The Cabin](https://open.spotify.com/track/5PmVqECxxW8pix05pb5gjv) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 3:45 | 2021-11-11 | 2022-11-17 |
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2021-11-11 |  |
+| [Tulum Beach Mexico](https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730) | [Beaches Of Mexico](https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy) | [Tulum Beach Mexico](https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF) | 3:03 | 2022-12-19 |  |
 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 | 2021-11-11 |  |
 | [Vagues Secrètes](https://open.spotify.com/track/1SJWEPfDt9U4t9q2w2UtXv) | [Vagues Dans La Mer](https://open.spotify.com/artist/6DxfAk7g7J4PUg4zFvOK9t) | [Surfez Sur Les Vagues](https://open.spotify.com/album/11VPKyawPrb6lOe2fGQZVZ) | 1:43 | 2021-11-11 |  |
 | [Venice Beach Waves](https://open.spotify.com/track/7hyGZCYCcnBWpvMrnTpFjC) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:09 | 2021-11-11 |  |

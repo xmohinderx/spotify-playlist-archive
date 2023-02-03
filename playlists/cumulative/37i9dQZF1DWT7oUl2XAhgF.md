@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Phillip\-Michael Scales
 
-227 songs - 13 hr 56 min
+229 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Little Honey](https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:10 | 2021-07-09 |  |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 |  |
 | [All My Love](https://open.spotify.com/track/2RYxyOzv9g2llmMTnR8eQo) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [All My Love](https://open.spotify.com/album/2vrwrP2BU6HFhs3rhvAAq6) | 5:16 | 2022-07-01 | 2022-07-30 |
-| [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 | 2022-11-18 |  |
+| [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 | 2022-11-18 | 2023-02-03 |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
 | [Atlas](https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:47 | 2021-07-09 | 2022-07-30 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2022-07-29 |
@@ -32,8 +32,9 @@
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-09-10 | 2022-07-29 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 | 2023-01-28 |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
+| [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 |  |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 | 2022-09-10 |
-| [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-04 | 2022-07-29 |
+| [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-04 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 |  |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 |  |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-07-09 | 2023-01-28 |
@@ -42,7 +43,7 @@
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 |  |
 | [Damaged Heart](https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 3:10 | 2021-07-09 | 2022-06-26 |
 | [Dancing Dimensions](https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [Dancing Dimensions](https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC) | 3:36 | 2022-03-04 | 2022-07-29 |
-| [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 | 2022-12-16 |  |
+| [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 | 2022-12-16 | 2023-02-03 |
 | [Dawn](https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [The Putbacks](https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR) | [Dawn](https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR) | 3:52 | 2021-07-09 | 2022-07-24 |
 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 |  |
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
@@ -219,7 +220,8 @@
 | [Trade of Hearts](https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-01-14 | 2022-08-29 |
 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-01-14 |  |
 | [Tryin' to Get By](https://open.spotify.com/track/5oKR1mBL3cN7iiGFpovuH4) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Capricorn](https://open.spotify.com/album/34kckA5C2zC6ouE5ncMJfI) | 3:19 | 2023-01-27 |  |
-| [Tumblin'](https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Tumblin'](https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8) | 3:44 | 2022-10-07 |  |
+| [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 | 2022-10-07 |  |
+| [Tumblin'](https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Tumblin'](https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8) | 3:44 | 2022-10-07 | 2023-02-03 |
 | [Two Jobs](https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Two Jobs](https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG) | 3:22 | 2022-10-14 |  |
 | [Under The Sun](https://open.spotify.com/track/4fk2ZZxo8m9hGS3XSij883) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 | 2021-12-17 |  |

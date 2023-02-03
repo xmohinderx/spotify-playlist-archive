@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 113161,
+  "num_followers": 113216,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDcyNDQ0YzdjNzNmMTkwM2U0MDJiNDE2Zjk5NTU5NTI2",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDRkYzc1OWY3MzE1MzUwYzk3ZDA1OWQxMGU3Y2E5NzRk",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -721,6 +721,26 @@
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
     },
     {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Iced Tea",
@@ -759,26 +779,6 @@
       "duration_ms": 277786,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
-    },
-    {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 196965,
-      "name": "Bleu (better with time)",
-      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Abhi vs The Universe",
@@ -899,22 +915,6 @@
       "duration_ms": 112762,
       "name": "Bag",
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Ease Up",
-        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
     },
     {
       "added_at": "2022-05-02 22:05:00",

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,887 songs - 5 day 6 hr 59 min
+1,888 songs - 5 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1709,6 +1709,7 @@
 | [Timbarma](https://open.spotify.com/track/2DMNbBoZnuDkQcoFjRiAMb) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:08 | 2022-07-27 |  |
 | [Time Beat \(Remastered\)](https://open.spotify.com/track/7MaEgX6r91pPKbsnm8Pm2Q) | [Ray Cathode](https://open.spotify.com/artist/4Nh3NT4pSM3T8KNbxOPJmO) | [Time Beat \(Remastered\)](https://open.spotify.com/album/6vf5UtpJVxLbRxVzG1mF0H) | 2:12 | 2022-06-09 |  |
 | [Timida serenata](https://open.spotify.com/track/0yWAeUs9UxuCE6PWFf7Jai) | [Gloria Christian](https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI) | [Successi da Sanremo](https://open.spotify.com/album/2WO9YgLUBVKkBCrMhSlKqZ) | 3:03 | 2022-12-20 |  |
+| [Tin Hinane](https://open.spotify.com/track/6Rsi9LoLZ6EjumotqsY7HN) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 4:17 | 2023-02-02 |  |
 | [Title Music from Merchant Ivory's film BOMBAY TALKIE](https://open.spotify.com/track/4w7lZXdGNaYMJMdXmLYde5) | [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [The Darjeeling Limited](https://open.spotify.com/album/5ZYgdnOWgfgruHFLt1J3Ss) | 2:32 | 2022-07-12 |  |
 | [Titrit](https://open.spotify.com/track/2MpkOip9Tt8YjZM3nVl361) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Titrit](https://open.spotify.com/album/40PAepe77CabuqWBN26OfN) | 3:21 | 2022-06-09 |  |
 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 | 2022-06-09 |  |

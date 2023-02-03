@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-361 songs - 1 day 13 hr 25 min
+362 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-08 | 2022-12-17 |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2021-04-21 | 2022-07-29 |
+| [Gaida](https://open.spotify.com/track/4yUnIfJyactd9T615iFFjQ) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [C'mon](https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394), [Otistic](https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd) | [Gaida](https://open.spotify.com/album/3YXUofA9XSgNaMwW0hTG1B) | 6:13 | 2023-01-27 |  |
 | [Gardens of Elah](https://open.spotify.com/track/1AhOzFuESPwEMoVgo9RKnv) | [Noble Spirits](https://open.spotify.com/artist/6ScxqV1G1ZolFFGlglOyKx) | [Gardens of Elah](https://open.spotify.com/album/0yGk1LE9IV1r2GtjZeDvLl) | 6:42 | 2021-05-07 | 2022-07-25 |
 | [Gargamel](https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Gargamel](https://open.spotify.com/album/3uNQeODzFPkzROw6gNiTFB) | 6:16 | 2022-07-18 | 2022-09-09 |
 | [Gather \- Edit](https://open.spotify.com/track/71rbXzLu3OUC0jlwTZuqPO) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Gather](https://open.spotify.com/album/2MsjLl6RbKQWLWqN2zLaDA) | 4:31 | 2021-06-04 | 2022-07-29 |
@@ -129,7 +130,7 @@
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2021-04-21 | 2022-12-17 |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-02 |  |
-| [Hannah](https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:52 | 2023-01-06 |  |
+| [Hannah](https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:52 | 2023-01-06 | 2023-02-03 |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 | 2023-01-20 |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |

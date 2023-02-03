@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,108 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,137 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Lowo Lowo](https://open.spotify.com/track/1ntjV3CIMC5IYMqNzW0grl) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SUREBOY](https://open.spotify.com/album/63dlFY16kCNUPm5eGrPDLp) | 3:38 |
 | 50 | [Disturbance \(feat\. Peruzzi\)](https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:39 |
 
-Snapshot ID: `Mjc5MjEyMzEsMDAwMDAwMDAzOGY5M2QxYmQwMDYyNjk2YzhiN2E4MWExN2FmNjg3MQ==`
+Snapshot ID: `Mjc5MjI2NzcsMDAwMDAwMDBiNTRkZDU2ZmMwOTYyZDY0NzFhODIxZGFmMTY2ZjA0MQ==`

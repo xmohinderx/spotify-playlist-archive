@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,861,181 likes - 309 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,863,075 likes - 309 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 142 | [Rhetila](https://open.spotify.com/track/63gb8AihdONhOalTRVfo3o) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Rhetila](https://open.spotify.com/album/53390gyS26GUQVLL1nVIec) | 2:14 |
 | 143 | [solitude](https://open.spotify.com/track/6OlFD2bYRtoQexcfexfdvr) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [solitude](https://open.spotify.com/album/33W8LG9eguq9y7r7w44nJB) | 2:12 |
 | 144 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 |
-| 145 | [Afterthought](https://open.spotify.com/track/5BMOKxB68b72YxWVnbq6Zf) | [Elliott Jack Sansom](https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z) | [Finding Beauty](https://open.spotify.com/album/4aASclhgAAad1DTkuYZHPG) | 2:29 |
+| 145 | [Afterthought](https://open.spotify.com/track/5BMOKxB68b72YxWVnbq6Zf) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Finding Beauty](https://open.spotify.com/album/4aASclhgAAad1DTkuYZHPG) | 2:29 |
 | 146 | [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 |
 | 147 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
 | 148 | [My Everything](https://open.spotify.com/track/3oymu4B8YqysHtkQV3oRZ7) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [My Everything](https://open.spotify.com/album/4O0DWCYkKuBZRatFDWKz6i) | 2:36 |
@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 204 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 |
 | 205 | [Bubbles](https://open.spotify.com/track/0D634fov9hm0Yt2wTyAZ4M) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bubbles](https://open.spotify.com/album/2YzqIXyH4Z65yKHvMPVoCf) | 1:54 |
 | 206 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
-| 207 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 |
+| 207 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 |
 | 208 | [Svaj](https://open.spotify.com/track/0RdeSJMPOXBb8a1MmEP7Fq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Svaj](https://open.spotify.com/album/5mxzoB3Xja5f0sVuI1nsv3) | 2:26 |
 | 209 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 |
 | 210 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 |

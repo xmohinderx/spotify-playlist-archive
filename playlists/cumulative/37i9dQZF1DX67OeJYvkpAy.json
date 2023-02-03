@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/0w5iHzH3j7mV8GtIWqPm1R"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/4ai0k3zlivanKlfM3nqtkO"
+    },
+    {
+      "album": {
         "name": "take the risk",
         "url": "https://open.spotify.com/album/5vqqu6b8M6WRj6I8jhJgAZ"
       },
@@ -2672,28 +2690,6 @@
       "duration_ms": 200888,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr"
-    },
-    {
-      "album": {
-        "name": "Take The Risk (xSyborg Remix)",
-        "url": "https://open.spotify.com/album/0w5iHzH3j7mV8GtIWqPm1R"
-      },
-      "artists": [
-        {
-          "name": "Ayparia",
-          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
-        },
-        {
-          "name": "xSyborg",
-          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
-        }
-      ],
-      "date_added": "2022-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200039,
-      "name": "Take The Risk - xSyborg Remix",
-      "url": "https://open.spotify.com/track/4ai0k3zlivanKlfM3nqtkO"
     },
     {
       "album": {

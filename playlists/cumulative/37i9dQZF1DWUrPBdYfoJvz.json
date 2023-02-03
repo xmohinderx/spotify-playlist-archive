@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 255333,
       "name": "#20",
       "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
@@ -34,10 +52,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 464293,
       "name": "#3",
       "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "album": {
@@ -700,6 +736,32 @@
     {
       "album": {
         "name": "Small Craft On A Milk Sea",
+        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Complex Heaven",
+      "url": "https://open.spotify.com/track/0EexLNtuKRBPmhc2XdFQKl"
+    },
+    {
+      "album": {
+        "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
       },
       "artists": [
@@ -718,7 +780,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 185226,
       "name": "Complex Heaven",
       "url": "https://open.spotify.com/track/5EhvDAos2Ppf82XN5EV60u"
@@ -1064,10 +1126,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 364733,
       "name": "Foil",
       "url": "https://open.spotify.com/track/07C2MiIIwVUEqcnwXpHO67"
+    },
+    {
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364733,
+      "name": "Foil",
+      "url": "https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS"
     },
     {
       "album": {
@@ -1498,10 +1578,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 699853,
       "name": "Le Jardin De Barbican",
       "url": "https://open.spotify.com/track/1G1VzFavmUG2CPoIymIWKA"
+    },
+    {
+      "album": {
+        "name": "3 Commissions",
+        "url": "https://open.spotify.com/album/3y1PLX4D9iUkeSlKI0M8dF"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699853,
+      "name": "Le Jardin De Barbican",
+      "url": "https://open.spotify.com/track/1ZxUx7Yff4DabKmlpwISHY"
     },
     {
       "album": {
@@ -1704,10 +1802,28 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 360333,
       "name": "Nove Alberi",
       "url": "https://open.spotify.com/track/0qR4944z41aPHStt3EtJuk"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
     },
     {
       "album": {
@@ -2696,10 +2812,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 246066,
       "name": "Triennale",
       "url": "https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa"
+    },
+    {
+      "album": {
+        "name": "The Shutov Assembly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246066,
+      "name": "Triennale",
+      "url": "https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa"
     },
     {
       "album": {
@@ -3010,10 +3144,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
+    },
+    {
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "album": {

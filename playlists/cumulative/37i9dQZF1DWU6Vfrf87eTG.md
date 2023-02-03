@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-172 songs - 10 hr 14 min
+174 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Gone Clear](https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Gone Clear](https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u) | 6:07 | 2020-07-13 | 2022-07-29 |
 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 | 2020-07-13 |  |
 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2020-07-13 |  |
-| [Granny Diner](https://open.spotify.com/track/0cad378gGsvZfnmE7Sxe9w) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend EP](https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ) | 4:48 | 2020-07-13 |  |
+| [Granny Diner](https://open.spotify.com/track/1zbBPMzpTqsXVbs7OHE0rI) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Blue Valentine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47trTvq8D3X8PH4CzrcpDW) | 4:43 | 2023-01-20 |  |
+| [Granny Diner](https://open.spotify.com/track/0cad378gGsvZfnmE7Sxe9w) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend EP](https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ) | 4:48 | 2020-07-13 | 2023-02-03 |
 | [Great Big God of Hands](https://open.spotify.com/track/1knn3wzmWUQWC4SFYhaqrX) | [James Elkington](https://open.spotify.com/artist/7COf7QkYuPrzl1lVrR1sIE), [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Ambsace](https://open.spotify.com/album/0LMs0t9oWggaYR0bnwzcbd) | 3:14 | 2020-07-13 |  |
 | [Great Big God of Hands](https://open.spotify.com/track/7hpOIIRXsBLVdidajcJ06R) | [James Elkington](https://open.spotify.com/artist/7COf7QkYuPrzl1lVrR1sIE), [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Great Big God of Hands](https://open.spotify.com/album/60OVJqy6gm2BF9MDSFww78) | 3:14 | 2020-07-13 | 2022-07-29 |
 | [Green Arrow](https://open.spotify.com/track/43x3Mgyfiw2XZJ48quyA15) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/0BpCcCe0SbfFybKzo6mGOF) | 5:43 | 2020-07-13 | 2022-07-29 |
@@ -111,7 +112,8 @@
 | [Itasca](https://open.spotify.com/track/3qsfBj0XK75ndx6adpE656) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Borderline EP](https://open.spotify.com/album/1VxX55qCuKaP5gjHspVWgb) | 2:49 | 2020-07-13 |  |
 | [La Mer Peu Profonde](https://open.spotify.com/track/0qlwfXNM5YTxYzLMtZuTym) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/54P7mAzX2sFa5iQ6rH1q60) | 1:00 | 2020-07-13 | 2022-07-29 |
 | [La Mer Peu Profonde](https://open.spotify.com/track/78ep8sfWvue1CtCfgWijad) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 1:00 | 2020-07-13 |  |
-| [Lakeside](https://open.spotify.com/track/7FVeGaVeBzyw2SKbHOWKMv) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 3:40 | 2020-07-13 |  |
+| [Lakeside](https://open.spotify.com/track/3ixOxnhDlzFguyEl2oXVm5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 3:40 | 2023-01-20 |  |
+| [Lakeside](https://open.spotify.com/track/7FVeGaVeBzyw2SKbHOWKMv) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 3:40 | 2020-07-13 | 2023-02-03 |
 | [Leather and Lace](https://open.spotify.com/track/0w5meNXPj2syJfQSekRA2Y) | [amiina](https://open.spotify.com/artist/79MO0KcrOdScKyzuDTtI3k) | [The Lighthouse Project](https://open.spotify.com/album/6ZnyPdZT3mDvWDPWMgcnN1) | 4:04 | 2020-07-13 |  |
 | [Less Is Moi](https://open.spotify.com/track/0ApXNW3Y24czCz7WevtqzH) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Yo\-Yo Ma \- The Classic Albums Collection](https://open.spotify.com/album/2ZyfAh7pKXUKgEZr6DhCdx) | 7:27 | 2020-07-13 | 2022-11-13 |
 | [Less Is Moi](https://open.spotify.com/track/0hBEFuRbCZQxaVgbnIeMqU) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [The Goat Rodeo Sessions](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) | 7:27 | 2020-07-13 |  |

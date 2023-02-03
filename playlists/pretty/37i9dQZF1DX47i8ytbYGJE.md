@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,995 likes - 204 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,034 likes - 204 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 173 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 |
 | 174 | [Somethin' Else](https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 2:10 |
 | 175 | [Money Honey \- Remastered](https://open.spotify.com/track/0wad7mR238px30uUsnkWik) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:15 |
-| 176 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/4I2D0Vxhdbv18uUCurfeUd) | [Sticks McGhee & His Buddies](https://open.spotify.com/artist/7Mf9yaCy4Ygio589KKXWY9) | [Drinkin' Wine Spo\-De\-O\-Dee](https://open.spotify.com/album/346oCGvr1RbYPgc1vHvJOA) | 3:15 |
+| 176 | [Drinking Wine, Spo\-dee\-o\-dee, Drinking Wine](https://open.spotify.com/track/7mTYgMATyKkwMLqvJrmVc6) | [Stick McGhee](https://open.spotify.com/artist/6mz0nZMPxXWttuQwoyIMyn) | [The Music You Need](https://open.spotify.com/album/4zCeyqI5BapQ3SLZgOuNj7) | 3:14 |
 | 177 | [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 |
 | 178 | [I Walk the Line](https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:34 |
 | 179 | [Glad All Over](https://open.spotify.com/track/6Xs8va9c9ZgR2cLKSlo466) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Blue Suede Shoes](https://open.spotify.com/album/120QlqCRbDq0MQdDBZa3c7) | 1:39 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 203 | [I'm Lookin' For Someone To Love](https://open.spotify.com/track/7oC0KDOtMskJWCoTCR0wZC) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 1:56 |
 | 204 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 
-Snapshot ID: `MTYwMjQzODU4NCwwMDAwMDAwMDdlMzE4YmVmMzNlNTYzZjYyNTQwNWI2OWUxNDAxOGQw`
+Snapshot ID: `MTYwMjQzODU4NCwwMDAwMDAwMGMzNjVkMjA5ODA3NTBiN2NmNTE5NTVmNWQ2ZDEyNmM3`

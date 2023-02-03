@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 62090,
+  "num_followers": 62110,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDY4OWM0NWJlOWM0ZWRhMmJjMjFmMmQzN2JkN2ZjNDU0",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDVkM2YxM2E2NzNmYTc2Mjg0MmE0NTRkODBjYTEwOWU3",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -475,30 +475,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "YO SE QUE TU (feat. Rusherking)",
-        "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 193043,
-      "name": "YO SE QUE TU (feat. Rusherking)",
-      "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -523,22 +515,30 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+        "name": "YO SE QUE TU (feat. Rusherking)",
+        "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+      "duration_ms": 193043,
+      "name": "YO SE QUE TU (feat. Rusherking)",
+      "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Dimelo Ma",
-        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Dimelo Ma",
-      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Dimelo Ma",
+        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Dimelo Ma",
+      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -679,34 +679,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Combi Nueva",
-        "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
-      },
-      "artists": [
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Combi Nueva",
-      "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -735,6 +707,34 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Combi Nueva",
+        "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Combi Nueva",
+      "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 197312,
       "name": "Codigo Secreto",
       "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
+      },
+      "artists": [
+        {
+          "name": "ONIX",
+          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
+        },
+        {
+          "name": "castleurbano",
+          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Sigue Sola (with Juhn & KHEA feat. Totoy El Frio, Jerry Di & Be\u00e9le)",
         "url": "https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag"
       },
@@ -1247,22 +1267,6 @@
       "duration_ms": 293000,
       "name": "Sigue Sola (with Juhn & KHEA feat. Totoy El Frio, Jerry Di & Be\u00e9le)",
       "url": "https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "IMPOSIBLE",
-        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "IMPOSIBLE",
-      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

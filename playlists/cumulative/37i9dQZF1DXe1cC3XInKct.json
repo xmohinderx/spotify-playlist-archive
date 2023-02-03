@@ -482,10 +482,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 268906,
       "name": "Burned",
       "url": "https://open.spotify.com/track/32bSNM2r6rNrj8abnSaXxP"
+    },
+    {
+      "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268906,
+      "name": "Burned",
+      "url": "https://open.spotify.com/track/61MsKclgxBLHoBegbVBdii"
     },
     {
       "album": {

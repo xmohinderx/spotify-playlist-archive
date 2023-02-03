@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Malcolm VL, Jotapê
 
-120 songs - 5 hr 42 min
+121 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [12](https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [12](https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb) | 2:00 | 2022-03-11 |  |
 | [2Girls1Maridão Freestyle](https://open.spotify.com/track/6n2Bvxo7WUzij0GCM3BMUj) | [HAKAIGOD](https://open.spotify.com/artist/3NvymzjC3uLlxqab2Mtigb) | [2Girls1Maridão Freestyle](https://open.spotify.com/album/6XpmiqsSPjsUALr1qmAcKB) | 1:23 | 2022-03-25 | 2022-04-23 |
 | [60K](https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [60K](https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT) | 2:38 | 2022-03-11 |  |
-| [99 Não É 100](https://open.spotify.com/track/09fHhIwGvRtvi32cxOmsJQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [99 Não É 100](https://open.spotify.com/album/4O6iZixoEhq4fYTRPHSQy4) | 3:14 | 2022-10-14 |  |
+| [99 Não É 100](https://open.spotify.com/track/09fHhIwGvRtvi32cxOmsJQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [99 Não É 100](https://open.spotify.com/album/4O6iZixoEhq4fYTRPHSQy4) | 3:14 | 2022-10-14 | 2023-02-03 |
+| [99 Não É 100](https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:14 | 2023-01-27 |  |
 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 | 2022-12-02 |  |
 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 | 2022-03-11 |  |
 | [A Carne](https://open.spotify.com/track/6wLaOOvCUJLlu5B1unlkeJ) | [Huzz](https://open.spotify.com/artist/1L8dHj74BnLILHGcwVWMVd) | [A Carne](https://open.spotify.com/album/291VU3hGETSBpUuULFxNKT) | 2:20 | 2022-10-14 | 2022-10-29 |

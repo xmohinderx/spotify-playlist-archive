@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "So So Soon",
+        "url": "https://open.spotify.com/album/73jq7GCwgsVjkV4TJMHF35"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "So So Soon",
+      "url": "https://open.spotify.com/track/0zIpmkbHfzoo3A8lga2Rmv"
+    },
+    {
+      "album": {
         "name": "Live at the Lemon Grove",
         "url": "https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2"
       },

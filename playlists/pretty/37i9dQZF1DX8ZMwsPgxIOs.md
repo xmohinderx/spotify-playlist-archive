@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,992 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,029 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 53 | [Is Mine](https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Is Mine](https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR) | 5:44 |
 | 54 | [Xtatic](https://open.spotify.com/track/4nPDscbfLMm9ahOpPlCw95) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Xtatic](https://open.spotify.com/album/0ECtg43nW7fk15pEywcksv) | 3:51 |
 | 55 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 |
-| 56 | [RRR+1](https://open.spotify.com/track/2ogYAW8UveCqjO24py3lgx) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [RRR+1](https://open.spotify.com/album/6puplqfxGxOSVrbcj3WaS3) | 5:25 |
+| 56 | [RRR+1](https://open.spotify.com/track/1S4SzvAhnPid5WeCOOqf1s) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [RRR+1](https://open.spotify.com/album/3Bpu0JrjM7ALnPY6vm8o8L) | 5:25 |
 | 57 | [Robots Are Forever](https://open.spotify.com/track/35A4h9B0a9c1QTWLwRORW0) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Robots Are Forever](https://open.spotify.com/album/3g58qUg9LrO4pqV4G5EnCd) | 4:53 |
 | 58 | [Seance](https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl) | [Kundai](https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81) | [Glisten](https://open.spotify.com/album/7pqQBz6OVlRO1NxFuGBIk1) | 5:57 |
 | 59 | [Shine](https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Shine](https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 |
 | 100 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 
-Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMGRlY2RhOWIwNGY4MzhmZGQwZWJkNTgzNDBhYzBiNWEy`
+Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMDRmYTVmNDIzNTExNjk2NDlmNDc3ZmQwNWJmNjE1MGVl`

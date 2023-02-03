@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 48197,
+  "num_followers": 48279,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGM3OGNjNWQ3NGQ5NjBkZmFkZWQzZjMwNDZlMWEzMWY5",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGZlNTJiODM1M2NmNmI3NTYzYzgwNTY5Yzk2NzFiMDc4",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
+        "name": "Les Cerre La Boca",
+        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
         "name": "H\u00e1gase Hombre",
         "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "Les Cerre La Boca",
-        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
         "name": "De Botas O Gabanas (En Vivo)",
         "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 154338,
       "name": "De Botas O Gabanas - En Vivo",
       "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "En Vivo De Culiacan",
-        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 158772,
-      "name": "El Dos Sierras ( En Vivo)",
-      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -367,6 +351,22 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "En Vivo De Culiacan",
+        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "El Dos Sierras ( En Vivo)",
+      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -581,20 +581,20 @@
       "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
       },
       "artists": [
         {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -613,20 +613,20 @@
       "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "Este Sentimiento",
-        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Este Sentimiento",
-      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "C\u00f3mo Poder Olvidar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 216208,
-      "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
-      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Refuego por Culiacan",
@@ -675,6 +659,22 @@
       "duration_ms": 210000,
       "name": "Refuego por Culiacan",
       "url": "https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 216208,
+      "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
+      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
       "added_at": "2023-01-27 06:00:00",
       "album": {
         "name": "B\u00e9lico y Cholo",
@@ -901,6 +885,38 @@
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
+    },
+    {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "El Coquito",
+        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "El Coquito",
+      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "F E F",
@@ -915,6 +931,38 @@
       "duration_ms": 273770,
       "name": "F E F",
       "url": "https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74"
+    },
+    {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
+        "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 212004,
+      "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
+      "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+    },
+    {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -969,6 +1017,42 @@
       "url": "https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "De La Nada",
+        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Hd_offisial",
+          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
+        }
+      ],
+      "duration_ms": 264003,
+      "name": "De La Nada",
+      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Me Encantas",
+        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 200882,
+      "name": "Me Encantas",
+      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
+    },
+    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Sigo De Pie (En Vivo)",
@@ -989,52 +1073,20 @@
       "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
+      "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "El Coquito",
-        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
+        "name": "No Soy Un Ilegal",
+        "url": "https://open.spotify.com/album/5TxzydL2Jnm8WwVLGIVJA9"
       },
       "artists": [
         {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+          "name": "Asael gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
         }
       ],
-      "duration_ms": 175080,
-      "name": "El Coquito",
-      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-        "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 212004,
-      "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-      "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Me Encantas",
-        "url": "https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 200882,
-      "name": "Me Encantas",
-      "url": "https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw"
+      "duration_ms": 182111,
+      "name": "No Soy Un Ilegal",
+      "url": "https://open.spotify.com/track/2KoPxrMciBOnbMM0qBh52u"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -1053,38 +1105,6 @@
       "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "No Soy Un Ilegal",
-        "url": "https://open.spotify.com/album/5TxzydL2Jnm8WwVLGIVJA9"
-      },
-      "artists": [
-        {
-          "name": "Asael gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
-        }
-      ],
-      "duration_ms": 182111,
-      "name": "No Soy Un Ilegal",
-      "url": "https://open.spotify.com/track/2KoPxrMciBOnbMM0qBh52u"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Contigo",
@@ -1099,26 +1119,6 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "De La Nada",
-        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        },
-        {
-          "name": "Hd_offisial",
-          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
-        }
-      ],
-      "duration_ms": 264003,
-      "name": "De La Nada",
-      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2023-01-27 06:00:00",
       "album": {
-        "name": "El Wizard Es Mi Apodo",
-        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
         }
       ],
-      "duration_ms": 194040,
-      "name": "El Wizard Es Mi Apodo",
-      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
+      "duration_ms": 201848,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1219,6 +1219,22 @@
       "duration_ms": 82500,
       "name": "nuestro amor",
       "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "El Wizard Es Mi Apodo",
+        "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "El Wizard Es Mi Apodo",
+      "url": "https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1253,40 +1269,24 @@
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+        "name": "Bajo la Lluv\u00eda",
+        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
       },
       "artists": [
         {
           "name": "Los de FL",
           "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        }
-      ],
-      "duration_ms": 201848,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Ven Conmigo",
-        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
         },
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Cuadra FL",
+          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+      "duration_ms": 154017,
+      "name": "Bajo la Lluv\u00eda",
+      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

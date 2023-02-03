@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-38 songs - 2 hr 18 min
+39 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cute](https://open.spotify.com/track/5hISAM5pN7ZI4rlyBA4iKM) | [Prod by Rose](https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Cute](https://open.spotify.com/album/57lPJkjkqRMcWj8KwCwxig) | 2:58 | 2021-05-17 |  |
 | [Foreign Bodies](https://open.spotify.com/track/42kJ4xNjMHEeIuLxfIUOYd) | [Radiation City](https://open.spotify.com/artist/1nlI6sCz1fw135KYwweoCk) | [Animals In The Median](https://open.spotify.com/album/6FJCSBtJHYl1aOXl8iirjz) | 3:57 | 2021-05-17 |  |
 | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/track/1NkyGvvH5Vai7qC24P9bqm) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/album/1tvVMZ79HjX4vwnUXHgJDz) | 5:16 | 2021-05-17 |  |
-| [it's ok, you're ok](https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [it's ok, you're ok](https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG) | 3:35 | 2021-05-17 |  |
+| [it's ok, you're ok](https://open.spotify.com/track/1rpKWA97PYmYI5TLHRuDnV) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [it's ok, you're ok](https://open.spotify.com/album/636BSUptgIPJ0vSeBAQNrm) | 3:35 | 2021-05-17 |  |
+| [it's ok, you're ok](https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [it's ok, you're ok](https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG) | 3:35 | 2021-05-17 | 2023-02-03 |
 | [Jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 | 2021-05-17 |  |
 | [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2021-05-17 |  |
 | [Loading](https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:53 | 2021-05-17 |  |

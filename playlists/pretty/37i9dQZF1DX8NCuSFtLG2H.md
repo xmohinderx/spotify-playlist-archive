@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,215 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,276 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 87 | [Improvisation à la kora](https://open.spotify.com/track/6DI0ZKoeIHdovwg60cRfdk) | [Diamé Benoît](https://open.spotify.com/artist/7MGH4k1azrScWW3iA71BRQ) | [Sénégal \- kora, balafon, guitare, percussions & chants \(Documents collectés par Gérard Krémer\)](https://open.spotify.com/album/7Afp3Z2l2bpGj5so06Dv3I) | 8:34 |
 | 88 | [Tougoude](https://open.spotify.com/track/6Gkoa1dKL34PD7p66wP8wE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:54 |
 | 89 | [Jarabi](https://open.spotify.com/track/40BErAjeAlGuUKNh8AtWSL) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kaira](https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti) | 5:05 |
-| 90 | [Kaira](https://open.spotify.com/track/3zSgTbLfO17pOunhI10UP5) | [Ballaké](https://open.spotify.com/artist/15nK88470G6NXcN9MWdx11) | [Kora Music From Mali](https://open.spotify.com/album/7kO8Gdldw0NADGlTg9txZX) | 7:09 |
+| 90 | [Kaira](https://open.spotify.com/track/0gFU70361CpPcNeDJV7Ui4) | [Jeli Moussa Sissoko](https://open.spotify.com/artist/3fDyeaDagy8d75RM9boabh) | [Ballaké \(Kora Music From Mali\)](https://open.spotify.com/album/1Cj3soZ3q1E3hCDHQyeEZM) | 7:09 |
 | 91 | [Doudou](https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:47 |
 | 92 | [Alpha Yaya](https://open.spotify.com/track/3DuDX894bvkwMSrTuioGEb) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 4:49 |
 | 93 | [Laban Djoro](https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Courage](https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr) | 5:48 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 110 | [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 |
 | 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MTY1ODE1MzM0OCwwMDAwMDAwMDJiM2NmMDM1NThiODllZTk0NjQwNjRjZjczMjFiMTI2`
+Snapshot ID: `MTY1ODE1MzM0OCwwMDAwMDAwMGJhNTdjNjk5MDBhYzE0ZTI1MDYwY2E5MmQ0NmZhMzM5`

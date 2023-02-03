@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-93 songs - 6 hr 29 min
+95 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,11 +84,12 @@
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-26 |  |
 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 | 2022-05-26 |  |
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2022-05-26 | 2022-07-29 |
-| [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-05-26 |  |
+| [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-05-26 | 2023-02-03 |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-26 |  |
 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 | 2022-05-26 |  |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-05-26 | 2022-07-29 |
-| [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2022-05-26 |  |
+| [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 | 2023-02-02 |  |
+| [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2022-05-26 | 2023-02-03 |
 | [Yth: NAIF](https://open.spotify.com/track/0YuZ7HexTHIw6Dm2n9ZDab) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KawaNAIF](https://open.spotify.com/artist/3VRqVXKE255LdwstWIkl0W) | [Yth: NAIF](https://open.spotify.com/album/4nANc60JTeBPqn2j2ZvJZl) | 4:55 | 2022-05-26 |  |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BLISS](https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa) | 4:14 | 2022-05-26 | 2022-11-17 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/3Qoq9Wi8SYn5gnBSn0FPku) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Bliss](https://open.spotify.com/album/2KIuhe1oMCte5xpN9bmDrS) | 4:14 | 2022-05-26 | 2022-07-29 |
@@ -98,6 +99,7 @@
 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 | 2022-07-29 |
+| [容易厭倦的時刻 \- Tsudio Studio Remix](https://open.spotify.com/track/308LFXPTq5qZgqZpKzBr33) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [容易厭倦的時刻 \(Tsudio Studio Remix\)](https://open.spotify.com/album/3LxPlbXVlRges9ZoZbkwv5) | 4:04 | 2023-02-02 |  |
 | [真夜中のドア / STAY WITH ME](https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [真夜中のドア / STAY WITH ME](https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI) | 5:11 | 2022-05-26 |  |
 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 |  |
 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-08-30 |  |

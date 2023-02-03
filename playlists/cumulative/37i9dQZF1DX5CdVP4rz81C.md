@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Matt Hansen
 
-1,150 songs - 2 day 12 hr 20 min
+1,151 songs - 2 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,7 +985,8 @@
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2021-07-17 | 2022-06-04 |
 | [Talking To Myself In The Mirror](https://open.spotify.com/track/0KyNkSSRFGvnkMEVvAGrTa) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Talking To Myself In The Mirror](https://open.spotify.com/album/00NFoF2s1q77JpL1zjlQ5T) | 2:53 | 2021-04-30 | 2021-05-24 |
 | [Talking With Your Ghost](https://open.spotify.com/track/2R5ZVyIXEomgtodwbMteov) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Talking With Your Ghost](https://open.spotify.com/album/0bNv45oXZssbthq2RqFW07) | 3:00 | 2022-09-09 | 2022-10-01 |
-| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-12-09 |  |
+| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-12-09 | 2023-02-03 |
+| [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-01 |  |
 | [Tell Me I'm Pretty](https://open.spotify.com/track/4gfqsWnwbhyeXGBtyLTonu) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Tell Me I'm Pretty](https://open.spotify.com/album/4xCdy8RgwS1k4pJI6ScvUh) | 3:08 | 2021-01-23 | 2021-03-22 |
 | [tendency to be a loner](https://open.spotify.com/track/0PzwDnvMKSBmAw8zrZhf11) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [tendency to be a loner](https://open.spotify.com/album/3LOgsvdQ5sXeAFLYxvYiov) | 3:16 | 2021-05-15 | 2021-08-07 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-09-04 | 2022-01-08 |

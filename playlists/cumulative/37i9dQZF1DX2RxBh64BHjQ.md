@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a>
 
-896 songs - 1 day 16 hr 31 min
+898 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 3:14 | 2022-10-14 | 2022-12-31 |
 | [Gah Damn](https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Gah Damn](https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA) | 3:12 | 2023-01-06 |  |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 |  |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 | 2023-02-03 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-20 |  |
 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 | 2022-10-07 | 2022-12-10 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-02-19 |
 | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/track/58PHa0il1TgjqONQc8ZJ5j) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6) | 2:45 | 2022-02-25 | 2022-04-09 |
@@ -620,7 +621,8 @@
 | [Postman](https://open.spotify.com/track/2w7SwOJdM3hchtwuirdZmb) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:42 | 2021-12-10 | 2022-02-12 |
 | [Pour the Wine \(feat\. Peso Gordon & Chuck Strangers\)](https://open.spotify.com/track/46tM4XygxfD3CdtFCCJMrX) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Peso Gordon](https://open.spotify.com/artist/5uObXnFO5cmhxNT11bnVrR), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Pour the Wine \(feat\. Peso Gordon & Chuck Strangers\)](https://open.spotify.com/album/5JeUjX56YwpnqOgCPzq7LQ) | 4:12 | 2022-09-09 | 2022-09-24 |
 | [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 |  |
-| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 |  |
+| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 | 2023-02-03 |
+| [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-01-27 |  |
 | [Private Phones](https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Private Phones](https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh) | 3:02 | 2021-12-25 | 2022-01-08 |
 | [Product of the Trenches](https://open.spotify.com/track/0udAiP0GuXUI4ntJPX4lkT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Product of the Trenches](https://open.spotify.com/album/15aptOkjKJrzLFeCTOodEF) | 1:46 | 2022-11-11 | 2023-01-21 |
 | [Protest](https://open.spotify.com/track/7xmvra75oRloZw9fHMhtBe) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Protest](https://open.spotify.com/album/0lJ8jE5x7E3RPyOYbU8Omf) | 2:08 | 2022-02-04 | 2022-04-09 |

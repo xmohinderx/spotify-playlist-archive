@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,275 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,839 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

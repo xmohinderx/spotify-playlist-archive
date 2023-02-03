@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL?si=efqSdXErSteCIMvqyvMNaw\">Deidr\u00e9 Barnard</a>",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=uf9dJoJvSKK-Six6oWR6eQ\">Droomsindroom</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 140826,
       "name": "Alweer",
       "url": "https://open.spotify.com/track/7yottsQJIaArBTpeRnvMNJ"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 213734,
       "name": "As die Plaas Byt",
       "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
@@ -338,6 +338,24 @@
       "duration_ms": 190171,
       "name": "BETER DAT DIT STIL IS",
       "url": "https://open.spotify.com/track/0V8nod51VGfo5PA0V9IhzA"
+    },
+    {
+      "album": {
+        "name": "Bietjie Vreemd",
+        "url": "https://open.spotify.com/album/1GSrVFudi5Jb06EvL5E0z0"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162446,
+      "name": "Bietjie Vreemd",
+      "url": "https://open.spotify.com/track/0M6zI04JYw1VKpTJDC2nOe"
     },
     {
       "album": {
@@ -685,6 +703,32 @@
     },
     {
       "album": {
+        "name": "DANS IN AFRIKAANS",
+        "url": "https://open.spotify.com/album/4Nd8axsbqEyRMff4DGXz0u"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        },
+        {
+          "name": "Kenny Lindgren",
+          "url": "https://open.spotify.com/artist/63CLd9qh364gsZdw3bj6TL"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176796,
+      "name": "DANS IN AFRIKAANS",
+      "url": "https://open.spotify.com/track/4GgKpQoLdCyO66UMmKyNo5"
+    },
+    {
+      "album": {
         "name": "Dans Met Gevaar",
         "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
       },
@@ -736,6 +780,24 @@
       "duration_ms": 183000,
       "name": "Die Breils",
       "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
+    },
+    {
+      "album": {
+        "name": "Die Dansvloer",
+        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
+      },
+      "artists": [
+        {
+          "name": "Janie Bay",
+          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184405,
+      "name": "Die Dansvloer",
+      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
     },
     {
       "album": {
@@ -942,6 +1004,24 @@
       "duration_ms": 204816,
       "name": "Ek Like Jou",
       "url": "https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD"
+    },
+    {
+      "album": {
+        "name": "Ek Ly Aan",
+        "url": "https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197828,
+      "name": "Ek Ly Aan",
+      "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
     },
     {
       "album": {
@@ -1340,7 +1420,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 210796,
       "name": "Jakkalsdans",
       "url": "https://open.spotify.com/track/002j5hLHQwXzl0g51aiYbb"
@@ -1412,7 +1492,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 224000,
       "name": "Jou Lewe",
       "url": "https://open.spotify.com/track/2YJQQKNthSG8i443BZ65Np"
@@ -1808,7 +1888,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 173919,
       "name": "Lekker Hou",
       "url": "https://open.spotify.com/track/5vIAa51osMoYOFRXcVxURY"
@@ -2218,7 +2298,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 197230,
       "name": "My Nannas",
       "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
@@ -2504,6 +2584,24 @@
       "duration_ms": 193627,
       "name": "Ons Braai Net",
       "url": "https://open.spotify.com/track/5LUgDfGlQZWVnOi4bITNzf"
+    },
+    {
+      "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
     },
     {
       "album": {
@@ -2800,6 +2898,24 @@
       "duration_ms": 187233,
       "name": "Sal Jy Vir My Wag",
       "url": "https://open.spotify.com/track/0iNTHA6vIhJN671nqIFISV"
+    },
+    {
+      "album": {
+        "name": "Salig onder sterre",
+        "url": "https://open.spotify.com/album/7LFgicJ0s4BJ1vsq8RfRcI"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247222,
+      "name": "Salig onder sterre",
+      "url": "https://open.spotify.com/track/0sIg9epvgjOZkQwRmSYuAh"
     },
     {
       "album": {
@@ -3341,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Tipsy Verby",
+        "url": "https://open.spotify.com/album/26VrqgaiWCY7lRtdrZ0meF"
+      },
+      "artists": [
+        {
+          "name": "Hugh Lynn",
+          "url": "https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179175,
+      "name": "Tipsy Verby",
+      "url": "https://open.spotify.com/track/6gRWV52M8j2bliM66L405p"
+    },
+    {
+      "album": {
         "name": "Toe Roep Ek Jou Naam Velvet Blohm",
         "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
       },
@@ -3852,7 +3986,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 201290,
       "name": "Wind Oor Die Berge",
       "url": "https://open.spotify.com/track/0VJlsGRJCojYup9mWi72t2"

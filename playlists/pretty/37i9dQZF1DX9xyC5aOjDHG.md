@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,711 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,732 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 64 | [swordland\~to be continued](https://open.spotify.com/track/2ymkEAjk4NHGen1wtr1LzJ) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 0:33 |
 | 65 | [think tenderly of you](https://open.spotify.com/track/6G24G2b9bWqz6jZdOmM500) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:03 |
 | 66 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 |
-| 67 | [ピルグリム](https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:05 |
+| 67 | [ピルグリム](https://open.spotify.com/track/2cQYIGCDgr9BAyCnMNehf9) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:05 |
 | 68 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
-| 69 | [step, step](https://open.spotify.com/track/27xkRV5pKfhXryD4eDmbYl) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:59 |
-| 70 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 |
-| 71 | [Independence](https://open.spotify.com/track/3AuXpyDNWx0GYnRg1RJNB9) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:47 |
-| 72 | [ヒカリ](https://open.spotify.com/track/2BvMpA00jH8sl90A9VVuY4) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:46 |
-| 73 | [Disorder](https://open.spotify.com/track/4uOGiGwI26L2jrJ1x2wsMh) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:04 |
-| 74 | [Rea\(s\)oN](https://open.spotify.com/track/7cXiUiPBBvJlrijfy1N0MS) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:27 |
-| 75 | [レプリカ](https://open.spotify.com/track/481leaQhnu88QWqsDEeIru) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:29 |
+| 69 | [step, step](https://open.spotify.com/track/7fgq3c35vndIAwNDY2e1fd) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:59 |
+| 70 | [ALONE](https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 5:01 |
+| 71 | [Independence](https://open.spotify.com/track/1VftzwJX5TeLsHwOSLhLiU) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:47 |
+| 72 | [ヒカリ](https://open.spotify.com/track/72akmQmKvUHQkC44JziD2X) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:46 |
+| 73 | [Disorder](https://open.spotify.com/track/099IISrQlAmu9XOofoIcBo) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:04 |
+| 74 | [Rea\(s\)oN](https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:27 |
+| 75 | [レプリカ](https://open.spotify.com/track/4OqT2KsD1ax6GJJaGufL0W) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:29 |
 
-Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDg5MTY5ZDg0MDdjYTlhOTM3N2Q1YzllYjIzYTg5MDc0`
+Snapshot ID: `MTY3MjE1MzIwMCwwMDAwMDAwMDAxZmZkZmU2YmUwMjkyNjY3OTRjOTNmMTA2NDM2YWM0`

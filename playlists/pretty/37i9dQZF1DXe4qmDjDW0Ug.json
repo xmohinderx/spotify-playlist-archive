@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7384,
+  "num_followers": 7415,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDJhNjE0NDJiNDc5YjQxYWM4N2FlMWRjZmVmY2Y2YjRj",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDhmN2RkMjQ1NTYxODVlMjA1NzI2ZjA0YjllMDhhYzNi",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "I Want To Fall In Love",
-        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
-      },
-      "artists": [
-        {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
-        }
-      ],
-      "duration_ms": 232544,
-      "name": "I Want To Fall In Love",
-      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 230087,
       "name": "JOAH - Remastered",
       "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Miss Ripley OST",
-        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 241690,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "The Wind, The Sea, The Rain",
         "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 263533,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Miss Ripley OST",
+        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 241690,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
     },
     {
       "added_at": "2021-03-11 16:36:50",

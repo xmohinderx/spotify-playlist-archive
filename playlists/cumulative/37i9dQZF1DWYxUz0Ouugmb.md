@@ -2,12 +2,13 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mezzaluna
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
 
-117 songs - 7 hr 19 min
+119 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [20something](https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [20something](https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck) | 2:41 | 2023-02-02 |  |
 | [24 Jam](https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [24 Jam](https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr) | 3:36 | 2021-11-25 | 2022-03-25 |
 | [Ajur Mumur](https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ajur Mumur](https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy) | 4:44 | 2021-11-25 | 2022-03-25 |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 | 2022-07-29 |
@@ -19,6 +20,7 @@
 | [Balada Semburan Naga](https://open.spotify.com/track/2RtoG9G8lFbdcMqXMLP05j) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl), [Adipati 'The Kuda'](https://open.spotify.com/artist/6swIALUfGBjKO9eGwHpipX) | [Balada Semburan Naga](https://open.spotify.com/album/4dlBcajEgrrep6NtFGM0s6) | 4:07 | 2021-11-25 | 2022-03-25 |
 | [Begal](https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Songs To Begal To](https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu) | 2:58 | 2021-11-25 | 2022-03-25 |
 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-10-13 |  |
+| [Benih](https://open.spotify.com/track/2Z00Dv9p5vFWBHay0ZAAs3) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Benih](https://open.spotify.com/album/3KS6UByFSUlxds9m260bz9) | 4:01 | 2023-02-02 |  |
 | [Berlagak Bahagia](https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 4:00 | 2022-03-24 |  |
 | [Bismillah](https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 4:31 | 2021-11-25 | 2022-03-25 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |

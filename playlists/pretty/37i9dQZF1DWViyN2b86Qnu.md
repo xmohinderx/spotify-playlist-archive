@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,206 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,260 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 10 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:41 |
 | 11 | [1994](https://open.spotify.com/track/0nldraDxkeNlhAX5sLrK9u) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:23 |
 | 12 | [space girl](https://open.spotify.com/track/1vzfxEYT3NhXrzzAqxGLPe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:51 |
-| 13 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 |
+| 13 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 |
 | 14 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
 | 15 | [I Wanna Be a Boy](https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y) | 3:19 |
 | 16 | [Change Has To Come](https://open.spotify.com/track/3ap0w77BMoIxTDVrqLP3ds) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Money](https://open.spotify.com/album/27xePvSrtU2d9uC8deq5cy) | 2:52 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [PAPERBAG](https://open.spotify.com/track/0t2vdbbw2HHbPhhZfXk5oc) | [closegood](https://open.spotify.com/artist/5ccNPpXpCTFMhvcytsGahy) | [GRAVEN](https://open.spotify.com/album/3xnGWmpQDODDH8Rx1cEDxQ) | 4:04 |
 | 86 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 
-Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMDZkOGE0ZDQ5MjYwZWE3MzE1YzEzNDkxMDlmYjQ0Njk4`
+Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMDY3NzVlOGY4OGQ2MDA3ZjI3ZDY4YWM3OTcyNDIzYjMy`

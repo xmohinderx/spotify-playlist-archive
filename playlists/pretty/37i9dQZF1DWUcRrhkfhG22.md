@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 ### [Robo\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUcRrhkfhG22)
 
-> Funk\-bots assemble!
+> Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,206 likes - 79 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,253 likes - 79 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 78 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
 | 79 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
 
-Snapshot ID: `MTY3NDQ5MDQ1OCwwMDAwMDAwMGEwMDExMjUwZDc2MWEzNzhhOWU2MzdlOGNiNjhlZmFk`
+Snapshot ID: `MTY3NTM2MDc3MiwwMDAwMDAwMDA0MmEwMzk3YTY3YzdlNTMyYjlkYzNiMTI5OTQzZDVk`

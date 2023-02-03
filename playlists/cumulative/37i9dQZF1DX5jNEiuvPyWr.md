@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Rounhaa
+> Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
-143 songs - 7 hr 23 min
+145 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/track/6Rze4VVS34G8jyume7rIgj) | [Chinwvr](https://open.spotify.com/artist/0FO41jGlT3izLX7oULFUlr) | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/album/4Frq8x9BsYMkWmYi2sPSKO) | 3:39 | 2022-07-14 | 2022-09-30 |
 | [Calciné](https://open.spotify.com/track/1FSDo0QfL9gQh32MxzqsZO) | [SLØW](https://open.spotify.com/artist/6jPpTPMBhULm8sukMmyrTW), [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [Blizzard](https://open.spotify.com/album/49sFNtfB0KYvor4eL1yBJY) | 3:44 | 2022-07-14 | 2022-09-09 |
 | [Cali](https://open.spotify.com/track/3kGMQAKHYYRTKBHnTKC63C) | [Wood](https://open.spotify.com/artist/0kf6QUZVdM4imfVvEmSnm9) | [Pas stable](https://open.spotify.com/album/7oTnxM3xUaU4J3C9LiRAnA) | 4:30 | 2022-11-17 |  |
+| [CASCADE](https://open.spotify.com/track/2OBxlYIG1JCFQuCKdn2177) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [CASCADE](https://open.spotify.com/album/3Coi3CC35a80Y5WXwlHMo2) | 2:48 | 2023-02-02 |  |
 | [CAUCHEMAR](https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit) | 2:52 | 2022-07-14 | 2022-09-30 |
 | [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 | 2022-07-29 |
 | [Coeur abimé](https://open.spotify.com/track/6x40VT2kRXPiM8AiNt3txn) | [Jayel](https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF) | [Coeur abimé](https://open.spotify.com/album/50T8VXZfysf3dcpijH9sPK) | 2:50 | 2022-11-24 |  |
@@ -40,7 +41,7 @@
 | [COUPÉ](https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [COUPÉ](https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY) | 2:58 | 2022-10-20 | 2022-12-16 |
 | [Demain c'est loin](https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9) | [Blasko](https://open.spotify.com/artist/0fUBKEXCJYmCr9vrI66NEJ), [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Demain c'est loin](https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq) | 3:41 | 2022-08-25 | 2022-10-28 |
 | [Dennis Rodman \(feat\. Laylow\)](https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL) | [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Drip Music 2](https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d) | 3:57 | 2022-09-15 |  |
-| [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 |  |
+| [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 | 2023-02-03 |
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 | 2022-09-09 |
 | [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 | 2022-11-18 |
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [Rêves](https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Rêves](https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn) | 3:33 | 2022-09-29 | 2022-10-28 |
 | [SAC CHANEL](https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 2:01 | 2022-09-22 | 2022-11-18 |
 | [Sahara](https://open.spotify.com/track/44vdd8Qop7Xa6PxdDCKlXT) | [Norsacce Berlusconi](https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Propaganda](https://open.spotify.com/album/2NNKLT6lCK6i503EqVfkjy) | 3:37 | 2022-12-15 |  |
-| [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 |  |
+| [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 | 2023-02-03 |
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 |  |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |
 | [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 |  |
@@ -144,6 +145,7 @@
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 | 2023-01-27 |
 | [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 | 2022-11-25 |
 | [UBER](https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [UBER](https://open.spotify.com/album/3jXGdIm7ZG30nb7fNxeQ3J) | 2:40 | 2022-12-22 |  |
+| [Ulyss](https://open.spotify.com/track/6SLrsf0RoSwEWo6jp8fF7P) | [Captaine Roshi](https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry) | [Ulyss](https://open.spotify.com/album/20wAvXHkfRKHNqAx9xQRbz) | 3:17 | 2023-02-02 |  |
 | [Venom](https://open.spotify.com/track/4ko3pKC9xAtGh2pSRLn5ct) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [42 jours avant MRTHN](https://open.spotify.com/album/4eP8OFxMTEQJYJHiWbd9Lv) | 2:55 | 2023-01-19 |  |
 | [Warzone](https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Warzone](https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7) | 3:14 | 2022-10-20 |  |
 | [Zénith \(feat\. Booba\)](https://open.spotify.com/track/6z41QMdRgnRTAUdcQ0pxyH) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Zénith \(feat\. Booba\)](https://open.spotify.com/album/7LIy7jLgPFiNJoYxnbDf8t) | 3:24 | 2023-01-12 |  |

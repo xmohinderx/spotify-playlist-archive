@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,418 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,464 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 28 | [Não Pare](https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS) | [Jessi](https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306), [Jyayo](https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s), [Yaw Faso](https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV) | [Não Pare](https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ) | 3:30 |
 | 29 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 30 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
-| 31 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
+| 31 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
 | 32 | [Rap das Armas](https://open.spotify.com/track/0EHKSDnAqGYn8amrsT31kk) | [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Rap das Armas](https://open.spotify.com/album/4oo4xaeKJGhiN0YzpUH5CG) | 4:52 |
 | 33 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 34 | [O Grave Bater](https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi) | 3:01 |

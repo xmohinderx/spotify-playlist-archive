@@ -4,7 +4,7 @@
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-44 songs - 2 hr 35 min
+45 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-05-02 |  |
 | [Take Me to the Sun](https://open.spotify.com/track/27Qv8OqEi3X35LehBpPnBx) | [ELSZ](https://open.spotify.com/artist/2Hnjczmfb1eNOmoaa5xx5g) | [Take Me to the Sun](https://open.spotify.com/album/4xNknTIlsWrr5VxADTcaGP) | 5:13 | 2022-05-02 |  |
 | [This Is A Life \- Extended](https://open.spotify.com/track/2YDj0uV5P7kKN4gGcUMEJT) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 3:35 | 2022-05-02 |  |
-| [True Blue](https://open.spotify.com/track/1KsPi0McDgRINw6ClJoyUP) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Badlands](https://open.spotify.com/album/5PV54mAI2Vrlbp1SfjeD6a) | 2:51 | 2022-05-02 |  |
+| [True Blue](https://open.spotify.com/track/1KsPi0McDgRINw6ClJoyUP) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Badlands](https://open.spotify.com/album/5PV54mAI2Vrlbp1SfjeD6a) | 2:51 | 2022-05-02 | 2023-02-03 |
+| [True Blue](https://open.spotify.com/track/77dndMwNb4MhNPZAHdzDpb) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Badlands](https://open.spotify.com/album/2vW79BiE5ngvlFe7JMcBAx) | 2:51 | 2022-05-02 |  |
 | [Waiting for You](https://open.spotify.com/track/0Wvj8X9hUt5LYuVJP3odI9) | [Kohinoorgasm](https://open.spotify.com/artist/1cm6EkpiMxuthcu5GUyCSs) | [Chalo \- EP](https://open.spotify.com/album/3pXzxOYtSC86C01aATZ5Pd) | 5:01 | 2022-05-02 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-05-02 |  |
 | [Weather](https://open.spotify.com/track/2D3gvohUyOfXIVX6Mvhqae) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Weather](https://open.spotify.com/album/1RzY5TbPOlmkqAHNbRjQ7q) | 3:42 | 2022-05-02 |  |

@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=HMoLfAWYRmmDRWwq\-g\-v6w">Nasty C</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=C2ztuwaZTNiqEmPHTxCabQ">Blxckie</a>
 
-483 songs - 1 day 2 hr 28 min
+484 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [CONTRABAND](https://open.spotify.com/track/5TrejjHSxvWwl2mXjcvhcV) | [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [IN THE TRAP](https://open.spotify.com/album/5GgeUYVTqbz3OeJimGNAzF) | 3:02 | 2023-02-01 |  |
 | [COP$ AND ROBBER$](https://open.spotify.com/track/7oRxbtVNrwYLQVpuO4ajVV) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [A\-Reece](https://open.spotify.com/artist/3QIhVFZ963H3DIHPdpkPog) | [PRODUCT OF A PRAYING MOTHER](https://open.spotify.com/album/0uSN5rmKPbHq0sGZObZQy2) | 2:55 | 2021-11-04 | 2023-02-01 |
 | [Couldn't Have Said It Better, Pt\. 3](https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Couldn't Have Said It Better, Pt\. 3](https://open.spotify.com/album/6eNaDkgGcqayM2qDL019Ea) | 2:48 | 2022-03-31 | 2022-09-16 |
+| [Creep](https://open.spotify.com/track/3dRc5mtA2UR6gzoKznlevT) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Tx3 ll](https://open.spotify.com/album/4nUzgL5ixVLcFXq1UO6qmi) | 2:49 | 2023-02-02 |  |
 | [Crossed](https://open.spotify.com/track/0YdlVhGYdIylIjkrYUMkR0) | [Yovngb](https://open.spotify.com/artist/7uSFYUGOtMpOsbpEl0WA3y), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w) | [Crossed](https://open.spotify.com/album/2VqjrwMW3GoLvvxsvOwRNE) | 3:40 | 2022-03-17 | 2022-04-23 |
 | [Culture](https://open.spotify.com/track/3moGgZ1itm9HgYuJstsWib) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [Culture](https://open.spotify.com/album/32d7sDMNwsvNjIJ88mfzj7) | 2:27 | 2022-08-11 | 2022-09-10 |
 | [Current State Of Mind](https://open.spotify.com/track/4iu2ofSK6dYBeSnQ6laMpD) | [Daydreamerkev](https://open.spotify.com/artist/7FUaLL5HG2H3LELxSRr4ZG), [Real leshaba](https://open.spotify.com/artist/60pokZtJype5qTW0RgLr0k) | [Current State Of Mind](https://open.spotify.com/album/3XTwECwTavv0evdNXEF2pz) | 3:35 | 2022-03-10 | 2022-03-18 |

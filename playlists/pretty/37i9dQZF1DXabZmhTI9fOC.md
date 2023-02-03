@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,302 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,305 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer of Love](https://open.spotify.com/track/7pMCfAwVZilwuwyGkva2mz) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Anasa](https://open.spotify.com/artist/5v8cJr94pLlPHbnol2HRA5) | [Summer of Love](https://open.spotify.com/album/60nbV9r6kl2AE64qFBG4d7) | 2:37 |
+| 1 | [Summer of Love](https://open.spotify.com/track/7pMCfAwVZilwuwyGkva2mz) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Summer of Love](https://open.spotify.com/album/60nbV9r6kl2AE64qFBG4d7) | 2:37 |
 | 2 | [Little Bit of Love \- Welshy Remix](https://open.spotify.com/track/52HuynyJUW1qyV1TKVvjOq) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [Little Bit of Love \(Remixes\)](https://open.spotify.com/album/2Kb2nUdrSVtqmXXH3qeftu) | 3:15 |
 | 3 | [This Is Love](https://open.spotify.com/track/4MD0T0MNy0yNariTShdRWZ) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Chris Ramos](https://open.spotify.com/artist/18JILdSa5BfdNku8L7xvB1), [Shanahan](https://open.spotify.com/artist/55iQlVy82VOHUZ54INg1Ge) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:38 |
 | 4 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |

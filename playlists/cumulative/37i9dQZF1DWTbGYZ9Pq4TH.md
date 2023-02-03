@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre.
 
-185 songs - 12 hr 1 min
+186 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 | 2021-09-26 | 2022-07-29 |
 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 | 2021-09-26 | 2022-07-29 |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2021-09-26 |  |
-| [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 | 2021-09-26 |  |
+| [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 | 2021-09-26 | 2023-02-03 |
 | [Giudizi universali](https://open.spotify.com/track/5bOE9NDX7dO6q7ZzGKXhiT) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/2RU2nSMerlc8qvcUMvgPqQ) | 3:55 | 2021-09-26 | 2022-07-29 |
 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 | 2021-09-26 |  |
 | [Gli ostacoli del cuore \- feat\. Ligabue](https://open.spotify.com/track/2BpBgGDyko7wzwIXSxjiUB) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/00NzMobGESLy9zbrJD8FUw) | 4:26 | 2021-09-26 | 2022-07-29 |
@@ -89,6 +89,7 @@
 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 | 2022-10-09 |
 | [L'immenso](https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [L'odore del caffè](https://open.spotify.com/track/5HF1iln0igvRCNulsEYvTL) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [L'altra metà](https://open.spotify.com/album/7lsDANKgIEPsTjsFy4XliR) | 3:52 | 2021-09-26 | 2022-07-13 |
+| [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 | 2021-09-26 |  |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-09-26 |  |
 | [La Descrizione Di Un Attimo](https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:29 | 2021-09-26 | 2022-07-07 |
 | [La differenza](https://open.spotify.com/track/4NYQscGbPD7Xn9Z5W1wNio) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:41 | 2021-09-26 | 2022-07-28 |

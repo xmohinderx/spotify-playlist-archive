@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,650 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,805 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 75 | [Patrón](https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 5:30 |
 | 76 | [Kachipun](https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Kachipun](https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW) | 2:48 |
 | 77 | [Sin Drama](https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Sin Drama](https://open.spotify.com/album/7gsfgYpAf2qlXGrQjtq28b) | 4:01 |
-| 78 | [Un Domingo](https://open.spotify.com/track/1OEY0Z5dLj14WQTRES44s5) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Un Domingo](https://open.spotify.com/album/3bx1vymv5nd076Bv8kxEHR) | 3:45 |
+| 78 | [Fuma Fuma](https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2) | 3:10 |
 | 79 | [Freestyle](https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Freestyle](https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7) | 2:47 |
 | 80 | [Problemático](https://open.spotify.com/track/0ZpFL6klWmBauFySgFgURt) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/5e4XIcdU0zAxdqPe4tvcXw) | 4:22 |
 | 81 | [ZAZA](https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [ZAZA](https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8) | 3:27 |
 | 82 | [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 |
 | 83 | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 |
-| 84 | [Fuma Fuma](https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2) | 3:10 |
+| 84 | [Un Domingo](https://open.spotify.com/track/1OEY0Z5dLj14WQTRES44s5) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Un Domingo](https://open.spotify.com/album/3bx1vymv5nd076Bv8kxEHR) | 3:45 |
 | 85 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
 | 86 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
 | 87 | [Qlq](https://open.spotify.com/track/6xVr6Y0vzSBQv4Z01FMdVW) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Qlq](https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt) | 2:26 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 119 | [En una Nota](https://open.spotify.com/track/7gStpbmmzKpj6Q3UQIFStv) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 3:37 |
 | 120 | [Mi Plebada](https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Plebada](https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3) | 3:42 |
 
-Snapshot ID: `MTY3NDYzNDE3NiwwMDAwMDAwMGUwNWFkZmYxODM2NzY3ODM3NDhkNTVhMWNlNDM2MzBk`
+Snapshot ID: `MTY3NDYzNDE3NiwwMDAwMDAwMGM3YTVjYWMxYWI3NWNmNmE3ZmZiNWFjNzc5MDMyMTBh`

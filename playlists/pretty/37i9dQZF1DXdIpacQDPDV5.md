@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Frank Walker, Ella Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,527 likes - 79 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,533 likes - 79 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

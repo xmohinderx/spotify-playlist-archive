@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "A Banda",
+        "url": "https://open.spotify.com/album/75Jl4p55M4M2jKxyCWa4pz"
+      },
+      "artists": [
+        {
+          "name": "Tigres Leones",
+          "url": "https://open.spotify.com/artist/7nPrDCQpkqvDWvBLQS7fPF"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199975,
+      "name": "A Banda",
+      "url": "https://open.spotify.com/track/0mFbRJh8v4YOEH4NkIYMqW"
+    },
+    {
+      "album": {
         "name": "Aguas Locas",
         "url": "https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 190640,
       "name": "Danza de Sol",
       "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"

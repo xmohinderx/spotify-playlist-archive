@@ -4,7 +4,7 @@
 
 > New York salsa...it's home.
 
-169 songs - 13 hr 9 min
+170 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/1KbbxKaj3LK7z8nC3TawqF) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/5d1h1b8M4qsCFjt1Tg8Edj) | 4:52 | 2022-08-17 | 2022-11-03 |
 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 | 2022-08-17 |  |
 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 | 2022-08-17 |  |
-| [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 | 2022-08-17 |  |
+| [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 | 2022-08-17 | 2023-02-03 |
+| [Ran Kan Kan](https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je) | [German Villarreal](https://open.spotify.com/artist/6xdJa13DzDlm5Vb0xXycj2), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [CON PERMISO DE MIS MAYORES](https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm) | 4:05 | 2022-08-17 |  |
 | [Ran Kan Kan](https://open.spotify.com/track/3hHIkH3ozaoLJVtFsvJPME) | [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Mambo No\. 5](https://open.spotify.com/album/1BaGvR3r4lW2xfT7YHg71a) | 2:58 | 2022-08-17 | 2022-11-13 |
 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 | 2022-08-17 |  |
 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 | 2022-08-17 |  |

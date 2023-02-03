@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 17 | [Superman March \- From "Superman"](https://open.spotify.com/track/0jIpvu2Xrb9q2vIKSQZioZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8) | 4:37 |
 | 18 | [Ragnarok Suite](https://open.spotify.com/track/646yYgVW5sZWJloaGEW728) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Thor: Ragnarok \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr) | 8:53 |
 | 19 | [The Incredits](https://open.spotify.com/track/3M7GXKcmP9WzW8zoOeTSTJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 7:21 |
-| 20 | [Main Title](https://open.spotify.com/track/4oNnRYkRnFzEeGnqJ1SuiG) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk Original Motion Picture Score](https://open.spotify.com/album/2PgkQuCa26nQxZrx4ZMHTR) | 2:38 |
+| 20 | [Main Title](https://open.spotify.com/track/6cUKdJOB8sSjZLHcuwFHKJ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk](https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G) | 2:38 |
 | 21 | [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/track/3fTolElkOdrYaWnlc71qJK) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [Agents of S.H.I.E.LD Main Theme](https://open.spotify.com/album/5o6SN2mbbA8c2xsLjT6Zhq) | 1:33 |
 | 22 | [Heroes](https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP) | 2:07 |
 | 23 | [Batman: The Animated Series \(Main Title\)](https://open.spotify.com/track/5l2FbSEaZJtQNv6Z2h1DnK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Batman: The Animated Series, Vol\. 1 \(Original Soundtrack from the Warner Bros\. Television Series\)](https://open.spotify.com/album/7MlfJk6Wh9Ig315YKUDE01) | 1:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 50 | [Supergirl Theme](https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Music Of DC Comics: Vol\. 2](https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N) | 1:11 |
 | 51 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 
-Snapshot ID: `MTYyMDQyMTA0MywwMDAwMDAwMGU4Mjc2OTVmZWI4ODFlMGQ0YWJmOGI2MjIyODYyNGMy`
+Snapshot ID: `MTYyMDQyMTA0MywwMDAwMDAwMDJmNWY0NDYyZWEzOWJkNDA5OTI3ZTc5NDRkMzU3MWQ5`

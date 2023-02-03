@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PRETZELLE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BELL WARISARA",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 212343,
       "name": "JUST DANCE",
       "url": "https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 176842,
       "name": "Pom Pom",
       "url": "https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL"
@@ -806,6 +806,24 @@
       "duration_ms": 241935,
       "name": "Princess",
       "url": "https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk"
+    },
+    {
+      "album": {
+        "name": "R U OK?",
+        "url": "https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95"
+      },
+      "artists": [
+        {
+          "name": "TIGGER",
+          "url": "https://open.spotify.com/artist/3tGVY9gQ2fn0rdfzpZOhgO"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207127,
+      "name": "R U OK?",
+      "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
     },
     {
       "album": {
@@ -904,6 +922,24 @@
       "duration_ms": 257877,
       "name": "SPARE \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e21\u0e32\u0e19\u0e30",
       "url": "https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ"
+      },
+      "artists": [
+        {
+          "name": "DVI",
+          "url": "https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP"
     },
     {
       "album": {
@@ -1518,6 +1554,28 @@
       "duration_ms": 213818,
       "name": "\u0e04\u0e35\u0e22\u0e4c\u0e43\u0e08 (Heart Key)",
       "url": "https://open.spotify.com/track/1tEwJ5B0N3LRDThiwzjiy0"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d (Original soundtrack from \"Cutie Pie 2 You\")",
+        "url": "https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d - Original soundtrack from \"Cutie Pie 2 You\"",
+      "url": "https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9"
     },
     {
       "album": {
@@ -2984,7 +3042,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 197684,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 - From \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ"
@@ -3858,7 +3916,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 148965,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e14\u0e37\u0e49\u0e2d\u0e14\u0e34 - Kissed",
       "url": "https://open.spotify.com/track/0G7rz6YlugHKHUKRtxhpvO"
@@ -4798,6 +4856,24 @@
       "duration_ms": 237772,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e04\u0e15\u0e23\u0e44\u0e21\u0e48\u0e41\u0e1f\u0e23\u0e4c (just friend)",
+        "url": "https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200092,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e44\u0e21\u0e48\u0e41\u0e1f\u0e23\u0e4c (just friend)",
+      "url": "https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover \- Selfiee
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,532 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,745 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Main Khiladi \- From "Selfiee "](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Main Khiladi \(From "Selfiee "\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 |
+| 1 | [Main Khiladi \- From "Selfiee"](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Maya Govind](https://open.spotify.com/artist/1VPlwlXg09ywVA6p1QmACl), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Main Khiladi \(From "Selfiee"\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 |
 | 2 | [Aap Jaisa Koi](https://open.spotify.com/track/5z8P3KHt2ZJUW8XXcaS0vN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [An Action Hero](https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er) | 2:58 |
 | 3 | [Kyaa Baat Haii 2.0](https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO) | 2:56 |
 | 4 | [Phir Dhan Te Nan \(From "Kuttey"\)](https://open.spotify.com/track/201VNiUkMr44r6XbH6Ioz2) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Phir Dhan Te Nan \(From "Kuttey"\)](https://open.spotify.com/album/6SfyHk2RY0vbU6UBgtKogg) | 4:20 |

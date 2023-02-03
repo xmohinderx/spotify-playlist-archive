@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-295 songs - 16 hr 42 min
+296 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hazel Chandeliers](https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:26 | 2021-12-15 | 2022-07-29 |
 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 | 2021-12-15 | 2023-01-28 |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
-| [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 |  |
+| [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-02-03 |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-02-14 | 2022-05-08 |
 | [I Been](https://open.spotify.com/track/1k3batDg2rqg6NjXWDDgsM) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 2:56 | 2021-12-15 | 2022-10-17 |
 | [i don't wanna fall in love, it's too late now](https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 0:55 | 2023-01-27 |  |
@@ -200,6 +200,7 @@
 | [Out of State](https://open.spotify.com/track/5vlqIraHhAtLNw0BQ3iwlV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Out of State](https://open.spotify.com/album/4fRJfG9tarXqhpBq5xzZ2r) | 3:45 | 2021-12-15 | 2022-07-03 |
 | [Out the Way](https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA) | 2:35 | 2021-12-15 | 2022-05-29 |
 | [Out The Window](https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Lost In America](https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T) | 3:52 | 2022-02-11 |  |
+| [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-01-27 |  |
 | [Overreacting](https://open.spotify.com/track/1uhmq7gvmcyfeC2vd96Ns7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Overreacting](https://open.spotify.com/album/1VdFWgk2E4wy3UVBrRct0D) | 3:32 | 2021-12-15 | 2022-07-29 |
 | [Own2](https://open.spotify.com/track/5yeLepyINbTDBadOF56V7i) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [You Are Here](https://open.spotify.com/album/2N1NssWo9QEXqnpKLL3c9a) | 3:37 | 2021-12-15 | 2022-07-29 |
 | [Party On Mars](https://open.spotify.com/track/71Z9IsCkGbbMmVMatELPXa) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Protection](https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F) | 2:58 | 2021-12-15 | 2022-11-13 |

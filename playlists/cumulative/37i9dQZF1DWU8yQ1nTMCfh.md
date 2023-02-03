@@ -4,13 +4,14 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-149 songs - 8 hr 26 min
+150 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 | 2022-12-09 |  |
 | [5 Minutos](https://open.spotify.com/track/6S12TVpYYGbUt4YKTjEGw2) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [5 Minutos](https://open.spotify.com/album/3LiwPb9DEtdv9LTT1wTP5Z) | 3:38 | 2022-04-15 | 2022-12-10 |
 | [@calígula2K25](https://open.spotify.com/track/2ir6z3LKMDEkYPYp1fJLAg) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [@calígula2K25](https://open.spotify.com/album/4ciSWOoRfpQaaCFF6b1MB4) | 2:50 | 2022-04-15 | 2022-12-10 |
+| [A Banda](https://open.spotify.com/track/0mFbRJh8v4YOEH4NkIYMqW) | [Tigres Leones](https://open.spotify.com/artist/7nPrDCQpkqvDWvBLQS7fPF), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [A Banda](https://open.spotify.com/album/75Jl4p55M4M2jKxyCWa4pz) | 3:19 | 2023-01-27 |  |
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Ajedrez](https://open.spotify.com/track/6NwIdN0oKNEYT104g8nWHg) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [Ajedrez](https://open.spotify.com/album/38WngVmHZqofAjJ4ApRsZb) | 3:06 | 2022-07-19 | 2022-12-17 |
 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 | 2022-12-09 | 2023-01-28 |
@@ -39,7 +40,7 @@
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-12-09 |  |
 | [Dame Love \- Remix](https://open.spotify.com/track/0j87wxNxOQtGxFckt6w820) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dame Love \(Remix\)](https://open.spotify.com/album/0nER2H7WylrN5QzZ39aRnR) | 3:11 | 2022-04-15 | 2022-09-07 |
 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 | 2022-04-15 |  |
-| [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 |  |
+| [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 | 2023-02-03 |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-15 | 2022-12-10 |
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-07-19 | 2022-12-17 |
 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 | 2022-12-09 |  |

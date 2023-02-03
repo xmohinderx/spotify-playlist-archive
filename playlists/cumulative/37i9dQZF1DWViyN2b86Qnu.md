@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-196 songs - 10 hr 59 min
+197 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-03-04 |  |
 | [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 | 2022-07-14 | 2023-01-24 |
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-23 |  |
-| [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2021-10-05 |  |
+| [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2021-10-05 | 2023-02-03 |
+| [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-01-23 |  |
 | [Gravity](https://open.spotify.com/track/30WDzCkRBK8GSWPnlJEErx) | [Cuee](https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6), [Lindsey Alderman](https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy) | [Gospel](https://open.spotify.com/album/0OCCDhGevaBWOhQJ5eTz1a) | 3:19 | 2022-07-14 |  |
 | [Gravity](https://open.spotify.com/track/7JPZu1zTiT5lmAfzAVPygy) | [Cuee](https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6), [Lindsey Alderman](https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy) | [Gospel](https://open.spotify.com/album/0zBrFItw6CbYBl9U6rFohA) | 3:19 | 2021-10-05 | 2022-09-09 |
 | [Growing Pains](https://open.spotify.com/track/7vzRDNzVpWF1ZmKAWFcC5c) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Growing Pains](https://open.spotify.com/album/58MvvWFQvdiWNymOSI6fpj) | 3:21 | 2021-10-05 | 2023-01-24 |

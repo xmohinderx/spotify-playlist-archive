@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-71 songs - 3 hr 51 min
+72 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Here's That Rainy Day](https://open.spotify.com/track/2DNS7kGX6HZY4L64nStAld) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 6:30 | 2022-10-13 |  |
 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 | 2022-10-13 |  |
 | [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 | 2022-10-13 |  |
+| [I Should Care](https://open.spotify.com/track/24XjTCIq4WrhUvHtmUd4ju) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [I Should Care](https://open.spotify.com/album/2bZuqVCkXSbjGw5SgBb9cK) | 1:46 | 2023-02-02 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 | 2022-10-13 |  |
 | [Just Friends](https://open.spotify.com/track/3tHg7ih7aOsHUSMEImsLhU) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 2:26 | 2022-10-13 |  |
 | [Lament](https://open.spotify.com/track/4vZhchoL2XrWUwROtCLygh) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 5:01 | 2022-10-13 |  |

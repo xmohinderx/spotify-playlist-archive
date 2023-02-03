@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Zola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "GAULOIS & Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
@@ -1150,6 +1150,28 @@
       "duration_ms": 156600,
       "name": "Joli",
       "url": "https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ"
+    },
+    {
+      "album": {
+        "name": "La Gaule, Vol.1",
+        "url": "https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP"
+      },
+      "artists": [
+        {
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Jolie (feat. Ninho)",
+      "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
     },
     {
       "album": {
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 190466,
       "name": "PAPEL",
       "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
@@ -2094,6 +2116,28 @@
       "duration_ms": 190213,
       "name": "Peur (feat. Ziak)",
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
+    },
+    {
+      "album": {
+        "name": "Philly",
+        "url": "https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228575,
+      "name": "Philly",
+      "url": "https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu"
     },
     {
       "album": {

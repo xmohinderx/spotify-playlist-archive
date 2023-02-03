@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 440333,
       "name": "#13",
       "url": "https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R"
@@ -34,10 +52,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 464293,
       "name": "#3",
       "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "album": {
@@ -818,6 +854,24 @@
     {
       "album": {
         "name": "Spanners",
+        "url": "https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Raxmus",
+      "url": "https://open.spotify.com/track/126vgRdfnOEPCeC2DmUiYU"
+    },
+    {
+      "album": {
+        "name": "Spanners",
         "url": "https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH"
       },
       "artists": [
@@ -828,7 +882,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 184266,
       "name": "Raxmus",
       "url": "https://open.spotify.com/track/7genqLMWdEZrpTMfNFuoTp"

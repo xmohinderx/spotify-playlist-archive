@@ -408,7 +408,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 401696,
       "name": "All the Mornings in the World",
       "url": "https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 376400,
       "name": "Chrome Dreams",
       "url": "https://open.spotify.com/track/2EpCRT1cRcG72NeSI5dYYV"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 512724,
       "name": "Ghosts and All",
       "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 394863,
       "name": "Rushes Recede",
       "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 291818,
       "name": "Shruti",
       "url": "https://open.spotify.com/track/0TgfYjPVPGuWIa3VURQsDL"
@@ -4736,6 +4736,28 @@
       "duration_ms": 189083,
       "name": "Tales From The Trash Stratum",
       "url": "https://open.spotify.com/track/4RsITL6IwjK34hVsaePr3O"
+    },
+    {
+      "album": {
+        "name": "Magic Oneohtrix Point Never (Blu-ray Edition)",
+        "url": "https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189083,
+      "name": "Tales From The Trash Stratum",
+      "url": "https://open.spotify.com/track/6D7R7l2xdFKYkUL9nqEBVW"
     },
     {
       "album": {

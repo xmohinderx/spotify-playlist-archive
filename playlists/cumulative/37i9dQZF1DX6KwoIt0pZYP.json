@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "20something",
+        "url": "https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161785,
+      "name": "20something",
+      "url": "https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "album": {
+        "name": "27 in a 7-Eleven",
+        "url": "https://open.spotify.com/album/2HepEpC2LK5JZ3duY3sxqO"
+      },
+      "artists": [
+        {
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "27 in a 7-Eleven",
+      "url": "https://open.spotify.com/track/7M2WiIMPWioFgdsDUNLPvU"
     },
     {
       "album": {
@@ -312,7 +348,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 189500,
       "name": "ASIAN FLUSH",
       "url": "https://open.spotify.com/track/41mdpjFcVd9uA9rPAoZVRC"
@@ -1649,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Do U Really?",
+        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161123,
+      "name": "Do U Really? (with Ruth B.)",
+      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
+    },
+    {
+      "album": {
         "name": "Do You Feel Like You Have No One to Turn to?",
         "url": "https://open.spotify.com/album/0DNpPinecj0SJVNJTSPoXd"
       },
@@ -1772,7 +1830,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 111655,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY"
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 142489,
       "name": "Future Somebody",
       "url": "https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M"
@@ -2532,7 +2590,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 136800,
       "name": "GO SLOW - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI"
@@ -2686,7 +2744,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 163414,
       "name": "ground zero",
       "url": "https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC"
@@ -2856,7 +2914,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 230340,
       "name": "HAPPYONMYOWN",
       "url": "https://open.spotify.com/track/2S7KQw63melbknupslX5K8"
@@ -3613,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "no more feelings",
+        "url": "https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI"
+      },
+      "artists": [
+        {
+          "name": "Reikko",
+          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160592,
+      "name": "i wrote this song for you",
+      "url": "https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/7DqIKLXVcZhPSXBN8s3DnW"
       },
@@ -3796,7 +3872,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 152360,
       "name": "Imagine (feat. Jackson Wang & Tablo)",
       "url": "https://open.spotify.com/track/5dREBNCLW6fqkY3y3KYRBq"
@@ -3926,6 +4002,24 @@
       "duration_ms": 251440,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
+    },
+    {
+      "album": {
+        "name": "janji kita bertemu lagi",
+        "url": "https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB"
+      },
+      "artists": [
+        {
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258173,
+      "name": "janji kita bertemu lagi",
+      "url": "https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL"
     },
     {
       "album": {
@@ -4693,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "The Greng Jai Piece",
+        "url": "https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Loving And Letting Go",
+      "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
+    },
+    {
+      "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
       },
@@ -4802,6 +4914,24 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "album": {
+        "name": "Maybe?",
+        "url": "https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt"
+      },
+      "artists": [
+        {
+          "name": "RADi",
+          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174152,
+      "name": "Maybe?",
+      "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
     },
     {
       "album": {
@@ -4975,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Mr.Mastermind",
+        "url": "https://open.spotify.com/album/6elizrnDHbL4eo0lsfuODd"
+      },
+      "artists": [
+        {
+          "name": "Sarah L-ee",
+          "url": "https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195975,
+      "name": "Mr.Mastermind",
+      "url": "https://open.spotify.com/track/02m4Xg51PCou6c4gPKLyHB"
+    },
+    {
+      "album": {
         "name": "MY BEST",
         "url": "https://open.spotify.com/album/4J5aiB9seZIjro3cG6xE4Q"
       },
@@ -4986,7 +5134,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 234902,
       "name": "MY BEST",
       "url": "https://open.spotify.com/track/2sYjGMRMMg4o0p0IYLCafl"
@@ -5283,6 +5431,28 @@
     },
     {
       "album": {
+        "name": "not sorry",
+        "url": "https://open.spotify.com/album/3YqOzRpFaqa2a79SN7VkoJ"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "putri dahlia",
+          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "not sorry",
+      "url": "https://open.spotify.com/track/54NOOVmxzoBvz0l7P4RzVl"
+    },
+    {
+      "album": {
         "name": "NOT TODAY",
         "url": "https://open.spotify.com/album/1TOAPy0iy6avdpUcHjXGl7"
       },
@@ -5384,7 +5554,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 230776,
       "name": "oh mia",
       "url": "https://open.spotify.com/track/2ZJBYxThNkxpOrrX43vxNV"
@@ -6299,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/2t3ar6rVWNqkBYU9LibAwi"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179103,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6zlio0K6QpRC4R9czfzPV8"
+    },
+    {
+      "album": {
         "name": "Shortcut To Heaven",
         "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
@@ -6810,7 +6998,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 209480,
       "name": "stupid",
       "url": "https://open.spotify.com/track/5QPMBTEk7kbzEFnVmUbeGU"
@@ -7086,6 +7274,24 @@
       "duration_ms": 226478,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn"
+    },
+    {
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "album": {
@@ -7572,7 +7778,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 130173,
       "name": "TY (for ruining my life)",
       "url": "https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON"
@@ -7738,7 +7944,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 182733,
       "name": "Vast",
       "url": "https://open.spotify.com/track/3zeMHlSsmxidNhLr11wcUN"
@@ -8174,6 +8380,24 @@
       "duration_ms": 220814,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3"
+    },
+    {
+      "album": {
+        "name": "WILL YOU?",
+        "url": "https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222232,
+      "name": "WILL YOU?",
+      "url": "https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS"
     },
     {
       "album": {

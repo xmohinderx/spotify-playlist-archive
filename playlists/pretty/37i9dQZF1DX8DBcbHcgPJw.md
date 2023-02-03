@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes, Nico Valdi & LiL CaKe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,936 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,068 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 43 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 44 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 |
 | 45 | [Llamame Más Temprano](https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:05 |
-| 46 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
+| 46 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 |
 | 47 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
-| 48 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 |
+| 48 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
 | 49 | [No Quiero Verte](https://open.spotify.com/track/5cOL5XhkyhzWbSgSVgRYFc) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [No Quiero Verte](https://open.spotify.com/album/0rdRii7ibKqtqouzPva4qP) | 2:16 |
 | 50 | [Piel a Piel](https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Piel a Piel](https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ) | 2:35 |
 | 51 | [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 63 | [La Sensación del Bloque](https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [La Sensación del Bloque](https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE) | 3:07 |
 | 64 | [Se Picó](https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Se Picó](https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN) | 2:19 |
 | 65 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 |
-| 66 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 |
-| 67 | [C14TORCE V: Balada para un Alien](https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE V: Balada para un Alien](https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO) | 2:50 |
+| 66 | [C14TORCE V: Balada para un Alien](https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE V: Balada para un Alien](https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO) | 2:50 |
+| 67 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 |
 | 68 | [El Equivocado](https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 2:44 |
 | 69 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 |
 | 70 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 100 | [Amor para un Rato](https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58) | [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Amor para un Rato](https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0) | 3:00 |
 
-Snapshot ID: `MTY3NDU4ODM2NCwwMDAwMDAwMDJiNTQwMGY2ZTE2OTc1ZGYwOTFlMDE0YzRkZWFiODZk`
+Snapshot ID: `MTY3NDU4ODM2NCwwMDAwMDAwMDgwNmEzYTNhZTRiOGI2OGRmMDEwZmE1YWM2NmM2NjE3`

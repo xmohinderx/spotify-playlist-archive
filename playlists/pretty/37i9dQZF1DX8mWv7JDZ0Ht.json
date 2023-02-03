@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Hotelo, Ana Gabriela",
-  "num_followers": 416373,
+  "num_followers": 416378,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDE4MGU5NmRmOTE0YmM3M2RjMGY1MGFiOTVjYTgzY2Rh",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDU0Y2VhMmU0MjgyYjY0OGNlOGQ4ZWFlMjYwYmJiMjQy",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Voc\u00ea nasceu para mudar",
-        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 211351,
-      "name": "Voc\u00ea nasceu para mudar",
-      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Amor Sem Pausa",
         "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 177493,
       "name": "Amor Sem Pausa",
       "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Voc\u00ea nasceu para mudar",
+        "url": "https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 211351,
+      "name": "Voc\u00ea nasceu para mudar",
+      "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "MUITA BAD pouca idade",
-        "url": "https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw"
-      },
-      "artists": [
-        {
-          "name": "Mariah Nala",
-          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "MUITA BAD pouca idade",
-      "url": "https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Ningu\u00e9m Precisa Saber",
         "url": "https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 151254,
       "name": "Ningu\u00e9m Precisa Saber",
       "url": "https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "MUITA BAD pouca idade",
+        "url": "https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw"
+      },
+      "artists": [
+        {
+          "name": "Mariah Nala",
+          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "MUITA BAD pouca idade",
+      "url": "https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
         }
       ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Passa",
         "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176804,
       "name": "Passa",
       "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Desajeito",
-        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Eu Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Desajeito",
+        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Eu Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Vou Ficar Bem",
         "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "giz de cera",
         "url": "https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
       },
       "artists": [
         {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+      "duration_ms": 183999,
+      "name": "Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1075,74 +1091,6 @@
       "duration_ms": 304341,
       "name": "fala (t\u00f4 te querendo)",
       "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 183999,
-      "name": "Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Vem Me Encontrar",
-        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 173907,
-      "name": "Vem Me Encontrar",
-      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "tchau, baby!",
-        "url": "https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "tchau, baby!",
-      "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 154611,
-      "name": "Mais de Mim",
-      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1179,6 +1127,38 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "tchau, baby!",
+        "url": "https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "tchau, baby!",
+      "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Vem Me Encontrar",
+        "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Vem Me Encontrar",
+      "url": "https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Prova De Amor",
         "url": "https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE"
       },
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 181419,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
+      "duration_ms": 154611,
+      "name": "Mais de Mim",
+      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 130104,
       "name": "ODEIO GENTE CHATA",
       "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 181419,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
     },
     {
       "added_at": "2023-01-27 03:00:00",

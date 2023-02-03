@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Discover the newest Hardstyle tracks. Cover: D-Sturb & Act of Rage & Nolz",
+  "description": "Discover the newest Hardstyle tracks. Cover: Sound Rush",
   "name": "Hardstyle Adrenaline!",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 224516,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Antenora",
+          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
     },
     {
       "album": {
@@ -457,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Conquer Your Mind (APEX 2023 OST)",
+        "url": "https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267791,
+      "name": "Conquer Your Mind - APEX 2023 OST",
+      "url": "https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/6ju4jSGjr31ZaqqFB17IDV"
       },
@@ -612,6 +656,28 @@
       "duration_ms": 179600,
       "name": "Designed To Dance",
       "url": "https://open.spotify.com/track/3tYmEsZNjkcF6KlNZOcQG2"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0jWqcc5qM4dlZihYYXmDjQ"
+      },
+      "artists": [
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "VDK",
+          "url": "https://open.spotify.com/artist/5prWTMBZTDU2RzpuFhk0mm"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4aSEXxxd8fXP5nw1e8cFOr"
     },
     {
       "album": {
@@ -1027,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Goes Like This",
+        "url": "https://open.spotify.com/album/42daUctji9hiLuz5bbHumY"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146357,
+      "name": "Goes Like This",
+      "url": "https://open.spotify.com/track/3DMzy0qSPA415zU5wJvGlB"
+    },
+    {
+      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/7lDOgZSw4fR5rsdY8Rz4aB"
       },
@@ -1410,6 +1498,28 @@
       "duration_ms": 195919,
       "name": "I Miss Those Days",
       "url": "https://open.spotify.com/track/0N4kiKWiyXKgHZ7GMiaSHv"
+    },
+    {
+      "album": {
+        "name": "I Raise My Glass",
+        "url": "https://open.spotify.com/album/1EwZ1JlLnsa8K74n4FDI27"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203708,
+      "name": "I Raise My Glass",
+      "url": "https://open.spotify.com/track/5qpd9dnhtOojDgdA29BhfO"
     },
     {
       "album": {
@@ -2113,6 +2223,36 @@
     },
     {
       "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "\u00d8ien",
+          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
+        },
+        {
+          "name": "Slenderino",
+          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165844,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1"
+    },
+    {
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/6Q23JLlRz1dJuhTFf78WSs"
       },
@@ -2204,6 +2344,32 @@
       "duration_ms": 262002,
       "name": "on my mind",
       "url": "https://open.spotify.com/track/59QfpSzTdD8qlMDxSFvfga"
+    },
+    {
+      "album": {
+        "name": "One And The Same",
+        "url": "https://open.spotify.com/album/7GKygds15lUloYYV0wyINF"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212658,
+      "name": "One And The Same",
+      "url": "https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb"
     },
     {
       "album": {
@@ -2512,6 +2678,24 @@
       "duration_ms": 162725,
       "name": "Reversed Reality",
       "url": "https://open.spotify.com/track/1KZ6aenxv7P5BKtVu2PMkg"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/1gxoJ9QwxUbckuTKwfOAsc"
+      },
+      "artists": [
+        {
+          "name": "MVTATE",
+          "url": "https://open.spotify.com/artist/16KgfaVMW0Br4MhQ4dGx2R"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2tt1wofNGBSv4vwv9thtZy"
     },
     {
       "album": {
@@ -2893,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Synergy (Reverze Anthem 2023)",
+        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288173,
+      "name": "Synergy (Reverze Anthem 2023)",
+      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
+    },
+    {
+      "album": {
         "name": "Talk About Love",
         "url": "https://open.spotify.com/album/0hsdvnqphHGsU502IjypgO"
       },
@@ -3255,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ"
+    },
+    {
+      "album": {
         "name": "TOO HAPPY",
         "url": "https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna"
       },
@@ -3424,6 +3648,24 @@
       "duration_ms": 177000,
       "name": "Undefeatable",
       "url": "https://open.spotify.com/track/6ib2JAMQv9rqCKXFWL04hj"
+    },
+    {
+      "album": {
+        "name": "UNDRGRND",
+        "url": "https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "UNDRGRND",
+      "url": "https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8"
     },
     {
       "album": {

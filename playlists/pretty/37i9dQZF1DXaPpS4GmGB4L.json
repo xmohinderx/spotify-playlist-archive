@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 35747,
+  "num_followers": 35832,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzE2NiwwMDAwMDAwMDM1ZDk1ZjE1ZjAwYzg3YzM1Y2M2OWIwY2E0ZGYwMjcy",
+  "snapshot_id": "MTY3NDgzNzE2NiwwMDAwMDAwMGMzNWI4YTc2MmM1ODZiZjhkMDkzNTZkMTNkOGZkODZm",
   "tracks": [
     {
       "added_at": "2023-01-20 15:01:49",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-20 15:01:49",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
-    },
-    {
-      "added_at": "2023-01-20 15:01:49",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2023-01-20 15:01:49",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     },
     {
       "added_at": "2023-01-20 15:01:49",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-01-20 15:01:49",
       "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2023-01-20 15:01:49",
+      "album": {
         "name": "Buddy Guy & Junior Wells Plays The Blues",
         "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 135546,
       "name": "Messin' with the Kid",
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": "2023-01-20 15:01:49",
-      "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-01-20 15:01:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-20 15:01:49",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 150616,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
-    },
-    {
-      "added_at": "2023-01-20 15:01:49",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 142813,
       "name": "Madison Blues",
       "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
+    },
+    {
+      "added_at": "2023-01-20 15:01:49",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 150616,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
     },
     {
       "added_at": "2023-01-20 15:01:49",

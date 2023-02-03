@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > 💜 I just need this love spiral! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,977,771 likes - 107 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,978,737 likes - 107 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

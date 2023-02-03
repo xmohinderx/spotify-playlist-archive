@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Catch (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
+    },
+    {
+      "album": {
         "name": "CHASE - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },

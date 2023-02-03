@@ -1,13 +1,49 @@
 {
   "description": "Your essential Max Richter, all in one collection.",
-  "num_followers": 93841,
+  "num_followers": 93946,
   "original_name": "This is Max Richter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgwNzMwMSwwMDAwMDAwMDJkNDNiYjkwZjE1MzUyZjE2YTgwNzU5YWU5ZGRlNjE0",
+  "snapshot_id": "MTY3NTM0OTkyNiwwMDAwMDAwMGMxMzg5YzZmNTI3YjkxYjUzNDRmYzc5OGU4ZTcyMmY2",
   "tracks": [
+    {
+      "added_at": "2022-04-01 10:01:41",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
+    },
     {
       "added_at": "2022-04-01 10:01:41",
       "album": {
@@ -99,42 +135,6 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2022-04-01 10:01:41",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Louisa Fuller",
-          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
-        },
-        {
-          "name": "Natalia Bonner",
-          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
-        },
-        {
-          "name": "John Metcalfe",
-          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
-        },
-        {
-          "name": "Philip Sheppard",
-          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
-        },
-        {
-          "name": "Chris Worsey",
-          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
-        }
-      ],
-      "duration_ms": 371746,
-      "name": "On the Nature of Daylight",
-      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
     },
     {
       "added_at": "2022-04-01 10:01:41",

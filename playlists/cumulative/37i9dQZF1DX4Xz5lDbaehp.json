@@ -2520,7 +2520,7 @@
     {
       "album": {
         "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
       },
       "artists": [
         {
@@ -2531,6 +2531,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 209708,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"

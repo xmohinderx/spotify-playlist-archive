@@ -2158,6 +2158,24 @@
     {
       "album": {
         "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286092,
+      "name": "Wet Flakey Bark",
+      "url": "https://open.spotify.com/track/4Pc6Ds48wkly0cRRxQcKSg"
+    },
+    {
+      "album": {
+        "name": "Fi",
         "url": "https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR"
       },
       "artists": [
@@ -2168,7 +2186,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 286092,
       "name": "Wet Flakey Bark",
       "url": "https://open.spotify.com/track/63CE8uDdIX4MAfKff357zi"

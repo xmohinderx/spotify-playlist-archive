@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO"
+        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
       },
       "artists": [
         {
@@ -35,6 +35,24 @@
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268987,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
+    },
+    {
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 268987,
       "name": "All the Way Down",
       "url": "https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N"

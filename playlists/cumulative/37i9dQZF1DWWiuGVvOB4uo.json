@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 198400,
       "name": "A Hazy Shade Of Winter",
       "url": "https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ"
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+    },
+    {
+      "album": {
         "name": "Songs from Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 219267,
       "name": "Brief and Beautiful",
       "url": "https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY"
@@ -824,7 +842,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 197333,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K"
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 265593,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/6k3wI7hjfJgerqdp7pxnAb"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 229968,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK"
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 208636,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 168635,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7D1eleriDUxiD9BoxnGBV9"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 141880,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az"
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 185600,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz"
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 173043,
       "name": "The Chemicals Between Us",
       "url": "https://open.spotify.com/track/09lHGt2md0FVLwHtnSeMvV"
@@ -4018,6 +4036,24 @@
       "duration_ms": 228938,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe"
+    },
+    {
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
     },
     {
       "album": {
@@ -4382,7 +4418,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 210865,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21"

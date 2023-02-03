@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,997 likes - 212 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,002 likes - 212 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 4 | [Don't Look Back into the Sun \- Live at O2 Academy Glasgow](https://open.spotify.com/track/1pOxHNHjVJZYRlEBHNk45i) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Live at O2 Academy Glasgow, 2015](https://open.spotify.com/album/5c0Ig7bH844E979BcSRcCE) | 5:53 |
 | 5 | [Do I Wanna Know? \- Live](https://open.spotify.com/track/5zDoSmh06F7kjXGIHFhQzh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Live at the Royal Albert Hall](https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE) | 4:41 |
 | 6 | [Down to the Nightclub \- Live Version](https://open.spotify.com/track/4mLgE7Vae3Bk0P2MnEtJVT) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 2:29 |
-| 7 | [君に、胸キュン。\-浮気なヴァカンス\- \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/7GjVIsnj4kGVtTavhOl7S6) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [After Service \[\(live 1983\) \[2019 Bob Ludwig Remastering\]\]](https://open.spotify.com/album/0azLJdDYFDnYRISextFQUu) | 4:31 |
+| 7 | [君に、胸キュン。\-浮気なヴァカンス\- \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/0xY9noEXGECyxHNdRdvtDv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [アフター・サーヴィス \(live 1983\) \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4mphYsK0ZcG8wRlGkLd7rr) | 4:31 |
 | 8 | [Nantettatte Idol \(Live at Nakano Sunplaza Hall 2022.3.21\)](https://open.spotify.com/track/3HhcNxmQRolhCb5nx8KD1f) | [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [KKPP \- TOUR 2022 Live at Nakano Sunplaza Hall](https://open.spotify.com/album/130Mb8o9WX0EKrg2JEgScb) | 4:28 |
 | 9 | [IT'S GONNA WORK OUT \- Live 1982 \- 2022 New Mix & Mastering](https://open.spotify.com/track/6gi23vSQ3DSUAYyQoKaLdO) | [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [IT’S GONNA WORK OUT \~LIVE 82\-83\~](https://open.spotify.com/album/2KoA3AfpEioh4vWyPM6mOE) | 4:25 |
 | 10 | [夢の中へ \- Live at 新宿厚生年金会館 / 1973.4.14 / Remastered 2018](https://open.spotify.com/track/6QONaxpRqROdP5VRO2EuNL) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [陽水ライヴ・もどり道 \(Remastered 2018\)](https://open.spotify.com/album/52OpEsjEjdsyeNaRuQwch8) | 2:48 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 211 | [Hey Jude \- Live](https://open.spotify.com/track/0hospr5viAnCPJuGCRCEz5) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tripping The Live Fantastic](https://open.spotify.com/album/0kaRUxrggtrnJbojB8SHLZ) | 8:03 |
 | 212 | [We Are the World \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/3CwguvgTBq4l9BdEKKn4T2) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are the World \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/1AGo4PjdSILii1xLetA0Hx) | 7:35 |
 
-Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGZlNTdhNjYwOGI4N2MwMDRjZjAyMjE2YjQyODZkOGU0`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGQ3OWQzMWQ4ZTIzODhiNjRlMGFlY2Q3NTg1OTE4MDdk`

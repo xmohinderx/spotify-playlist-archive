@@ -1,15 +1,15 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: 87dance) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 422274,
+  "num_followers": 422346,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA3MjIzNiwwMDAwMDAwMDU5ZWE2OTRiOGY1OTg3N2IwYjExZWI2NGFiZjY2NDU5",
+  "snapshot_id": "MTY3NTA3MjIzNiwwMDAwMDAwMDQzYzBjODAyMGEwMmM1NjU5NjlhNzYyZTFiYmMwNTQ2",
   "tracks": [
     {
-      "added_at": "2023-02-02 01:44:46",
+      "added_at": "2023-02-03 01:50:42",
       "album": {
         "name": "COLOR PAPER HOTEL",
         "url": "https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ"
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-25 07:35:01",
       "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-01-25 07:35:01",
+      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 189533,
       "name": "RAL 9002",
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
-    },
-    {
-      "added_at": "2023-01-25 07:35:01",
-      "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-01-25 07:35:01",

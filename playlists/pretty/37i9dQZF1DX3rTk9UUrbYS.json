@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 39665,
+  "num_followers": 39699,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGE4Yzc1NWE0YmVjOTU2MGIwMmM0NzNiYjViNzM3Mjg3",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDIyNTZlNjVhYWVlZWEwZmQ2ZTM2MzI0NmU1MjU3MDdl",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
-      "added_at": "2020-11-06 04:01:00",
-      "album": {
-        "name": "Blind Fury",
-        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
-      },
-      "artists": [
-        {
-          "name": "AKU!",
-          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
-        }
-      ],
-      "duration_ms": 369172,
-      "name": "Dub Ting",
-      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Life Between The Exit Signs",
@@ -231,6 +215,22 @@
       "duration_ms": 273973,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
+    },
+    {
+      "added_at": "2020-11-06 04:01:00",
+      "album": {
+        "name": "Blind Fury",
+        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
+      },
+      "artists": [
+        {
+          "name": "AKU!",
+          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
+        }
+      ],
+      "duration_ms": 369172,
+      "name": "Dub Ting",
+      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
     },
     {
+      "added_at": "2020-10-23 19:03:00",
+      "album": {
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+      },
+      "artists": [
+        {
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Bugatti (\u00e9tude)",
@@ -333,20 +349,20 @@
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
     },
     {
-      "added_at": "2020-10-23 19:03:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Supersense",
-        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+        "name": "Where Is Brooklyn",
+        "url": "https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z"
       },
       "artists": [
         {
-          "name": "Steph Richards",
-          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+      "duration_ms": 415840,
+      "name": "Awake Nu - 2005 Remastered",
+      "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -363,22 +379,6 @@
       "duration_ms": 200570,
       "name": "WW1",
       "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Where Is Brooklyn",
-        "url": "https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z"
-      },
-      "artists": [
-        {
-          "name": "Don Cherry",
-          "url": "https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI"
-        }
-      ],
-      "duration_ms": 415840,
-      "name": "Awake Nu - 2005 Remastered",
-      "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -489,26 +489,6 @@
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Dolunay",
-        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
-      },
-      "artists": [
-        {
-          "name": "Konstrukt",
-          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
-        },
-        {
-          "name": "Peter Br\u00f6tzmann",
-          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "Tepe",
-      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Old Stories",
@@ -527,6 +507,26 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Dolunay",
+        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
+      },
+      "artists": [
+        {
+          "name": "Konstrukt",
+          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
+        },
+        {
+          "name": "Peter Br\u00f6tzmann",
+          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "Tepe",
+      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Four For Trane",
-        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 461626,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "The Piano Equation",
         "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+        "name": "Four For Trane",
+        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
       },
       "artists": [
         {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
+      "duration_ms": 461626,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -763,6 +747,22 @@
       "duration_ms": 382693,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+        }
+      ],
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -829,20 +829,24 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
+      "added_at": "2021-11-19 05:02:00",
       "album": {
-        "name": "WW5",
-        "url": "https://open.spotify.com/album/0qVI7QwNJP1IyuOd3UplfI"
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
       },
       "artists": [
         {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
         }
       ],
-      "duration_ms": 105358,
-      "name": "WW5",
-      "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -869,50 +873,6 @@
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"
     },
     {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Playing Retention",
-        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Carter",
-          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
-        },
-        {
-          "name": "Jim Clouse",
-          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "Playing Retention",
-      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Problem of Absolute Generality",
-        "url": "https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL"
-      },
-      "artists": [
-        {
-          "name": "Stian Larsen",
-          "url": "https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy"
-        },
-        {
-          "name": "Colin Webster",
-          "url": "https://open.spotify.com/artist/782Lu0pwcnmn5RsSeFZzdV"
-        },
-        {
-          "name": "Andrew Lisle",
-          "url": "https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q"
-        }
-      ],
-      "duration_ms": 763674,
-      "name": "Boltzmann Brain",
-      "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "In Cahoots",
@@ -937,6 +897,62 @@
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
     },
     {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "WW5",
+        "url": "https://open.spotify.com/album/0qVI7QwNJP1IyuOd3UplfI"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        }
+      ],
+      "duration_ms": 105358,
+      "name": "WW5",
+      "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Circle Down",
+        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
+      },
+      "artists": [
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
+        },
+        {
+          "name": "Chris Lightcap",
+          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
+        }
+      ],
+      "duration_ms": 359466,
+      "name": "Box Step",
+      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sonic Fiction",
+        "url": "https://open.spotify.com/album/4bEca57AFNS7bUp9gWmyBB"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp Quartet",
+          "url": "https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "First Step",
+      "url": "https://open.spotify.com/track/5l1UfmhKMQZCavGhxOuUY6"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Morph",
@@ -959,26 +975,6 @@
       "duration_ms": 210440,
       "name": "Blue Threads",
       "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Random Dances and (A)tonalities",
-        "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
-      },
-      "artists": [
-        {
-          "name": "Don Byron",
-          "url": "https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD"
-        },
-        {
-          "name": "Aruan Ortiz",
-          "url": "https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Joe Btfsplk",
-      "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     }
   ],
   "unique_name": "Avant-Jazz",

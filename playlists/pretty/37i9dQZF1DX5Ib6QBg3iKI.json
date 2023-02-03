@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 127225,
+  "num_followers": 127212,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGExYmI5MmQ0ODdkNjhkNjgyYTVmNTY4M2E3NzM4NTVi",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGQzOTY2NTE2ZDI5NzIxODQ0MDU4MmEzYTI1MDI1NzQw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -691,38 +691,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Kacey Musgraves Christmas Show",
-        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 132108,
-      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
-      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Wishes Come True",
-        "url": "https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 164355,
-      "name": "Wishes Come True",
-      "url": "https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg"
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -743,18 +723,38 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+        "name": "Wishes Come True",
+        "url": "https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
         }
       ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+      "duration_ms": 164355,
+      "name": "Wishes Come True",
+      "url": "https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Kacey Musgraves Christmas Show",
+        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 132108,
+      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Loneliest Time Of Year",
+        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Loneliest Time Of Year",
+      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "This Time Of Year",
         "url": "https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Loneliest Time Of Year",
-        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Loneliest Time Of Year",
-      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "River (Live in Studio)",
+        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "River - Live in Studio",
+      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
+    },
+    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
@@ -951,22 +967,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "River (Live in Studio)",
-        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "River - Live in Studio",
-      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
       "added_at": "2022-11-18 01:05:05",

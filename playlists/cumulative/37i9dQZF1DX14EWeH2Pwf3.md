@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: Medy
+> La playlist urban più grande d'Italia\. Cover: Rose Villain
 
 219 songs - 10 hr 53 min
 
@@ -184,7 +184,7 @@
 | [PYPPARE](https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [PYPPARE](https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U) | 2:36 | 2022-07-14 | 2022-09-16 |
 | [QUALCOSA CHE MANCA \(feat\. Rkomi\)](https://open.spotify.com/track/2zjJyRnAFAOlSmEs3u1daV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:57 | 2022-11-17 | 2022-11-25 |
 | [RAP \(feat\. Rondodasosa, Sacky, Neima Ezza\)](https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:35 | 2022-05-26 | 2022-06-10 |
-| [Rappresento \(feat\. Jake La Furia\)](https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [The Illest, Vol 3.](https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P) | 3:07 | 2023-01-26 |  |
+| [Rappresento \(feat\. Jake La Furia\)](https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [The Illest, Vol\. 3](https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P) | 3:07 | 2023-01-26 |  |
 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 | 2022-10-07 | 2022-11-18 |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-04 | 2022-11-18 |
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 | 2022-10-28 |

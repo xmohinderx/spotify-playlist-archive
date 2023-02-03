@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 55051,
+  "num_followers": 55092,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDJjZDIxMmRlOWQzMDE5OWEwZWMzN2M4ZGU1ZGM4M2Yx",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDIxOWZiMDU4NDI5MDI4OTc2Nzk0N2Q5OGE2M2E0ODIx",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "You're A Woman, I'm A Machine",
+        "url": "https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Romantic Rights",
+      "url": "https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Kitsun\u00e9: Lisztomania (Remixes)",
         "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 304413,
       "name": "Lisztomania - Classixx Version",
       "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "You're A Woman, I'm A Machine",
-        "url": "https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Romantic Rights",
-      "url": "https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb"
     },
     {
       "added_at": "2022-08-24 22:29:13",

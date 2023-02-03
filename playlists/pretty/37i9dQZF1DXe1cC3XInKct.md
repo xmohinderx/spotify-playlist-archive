@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > ...and find your focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,151 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,158 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 43 | [Ode to the Vanishing Forests](https://open.spotify.com/track/4r1x4yx3AVBzYJVQrRriIF) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti), [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Ode to the Vanishing Forests](https://open.spotify.com/album/64Em9O0fTaqAuUCYIAqSJP) | 3:01 |
 | 44 | [Spillbase](https://open.spotify.com/track/04kP8Bsx6Zd5LnFE01DQbS) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Spillbase](https://open.spotify.com/album/03mKH8xgeH8kIbz3nzT0Gv) | 4:31 |
 | 45 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 |
-| 46 | [Burned](https://open.spotify.com/track/32bSNM2r6rNrj8abnSaXxP) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 4:28 |
+| 46 | [Burned](https://open.spotify.com/track/61MsKclgxBLHoBegbVBdii) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 4:28 |
 | 47 | [Faded Afternoon Heat](https://open.spotify.com/track/0qZKYqNo2M3MhjCObQoNHH) | [never forget you/re a terrifying freak](https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk) | [Faded Afternoon Heat](https://open.spotify.com/album/08cz1zgqFQTbClYyYzpupf) | 4:22 |
 | 48 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
 | 49 | [AIBT011](https://open.spotify.com/track/2obHM1zkBf24zKy45h3PDd) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [AI Beat Tape](https://open.spotify.com/album/2PgvIOKViA6u74we5C9kEp) | 2:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 69 | [L'architettura Del Mare](https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 5:04 |
 | 70 | [Revegetation Area 2002](https://open.spotify.com/track/3261Kuksr5Yn8nToKvUW12) | [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Revegetation Area 2002](https://open.spotify.com/album/1hcdlX6C2isqG1j42p8lHf) | 3:03 |
 
-Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMDgwOGYzZTYzYzExYjU3OGU0ZWVmZGI5ODkwZDA4OTdj`
+Snapshot ID: `MTY3NDczODAwMCwwMDAwMDAwMGJiMzllMDE1ZGQ2ZmY2Y2ZhN2YxNWE1MzhhYTMwOTM0`

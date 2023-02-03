@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 34081,
+  "num_followers": 34123,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMGFjNGNhZmIwNWQ0MTQ2MzAwZGMxOTliMTc2ODc4NGYw",
+  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMDJmNzE0NmI2MTM2YjY3YTI5OTEyMDJmNDAxNzk4Njg5",
   "tracks": [
     {
       "added_at": "2023-01-10 17:33:42",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Give In Kind",
-        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
-      },
-      "artists": [
-        {
-          "name": "Guy Davis",
-          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Loneliest Road That I Know",
-      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Scoundrel",
         "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "Give In Kind",
+        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
+      },
+      "artists": [
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Loneliest Road That I Know",
+      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "The Chicago Way",
         "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 269560,
       "name": "When Will You Tell Him About Me?",
       "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
+        "name": "Soul for the Heart",
+        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
+      },
+      "artists": [
+        {
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
+        },
+        {
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -947,22 +967,18 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Soul for the Heart",
-        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
       },
       "artists": [
         {
-          "name": "Joe Barr",
-          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
-        },
-        {
-          "name": "Breezy Rodio",
-          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
         }
       ],
-      "duration_ms": 275973,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -979,22 +995,6 @@
       "duration_ms": 180666,
       "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
       "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-01-10 17:33:42",

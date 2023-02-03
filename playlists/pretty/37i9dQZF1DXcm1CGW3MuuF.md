@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 
 > Celebramos a los héroes y heroínas locales que con su talento y osadía nos dan patria musical\. En portada: THE SUPUESTOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,826 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 31 | [Adiós](https://open.spotify.com/track/1DfIErX9sNVpEBuEfMqKNi) | [Cruz Del Monte](https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs) | [Adiós](https://open.spotify.com/album/4KgxovsSKAZB6Ydc4VZYXt) | 4:45 |
 | 32 | [Labios](https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [Sam y Marx](https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv) | 3:14 |
 | 33 | [De donde vienes tú](https://open.spotify.com/track/4c5Sk1LZnsjmgHLEtJ9r6m) | [LEBO](https://open.spotify.com/artist/0dStLBB8XjTyNVzPIhktpo) | [Conmigo mismo](https://open.spotify.com/album/0hGMem3rfci3OiXup09iDl) | 2:16 |
-| 34 | [Arrollar](https://open.spotify.com/track/0yccCBlWH2SLmqy3U7KyhJ) | [Inda Midland](https://open.spotify.com/artist/5nHAmmeVYOfZ0eydaehHbh) | [Arrollar](https://open.spotify.com/album/41tJZm7VPRqR8r6ZLBtKSW) | 3:27 |
-| 35 | [Amor Sin Fin](https://open.spotify.com/track/1usjw4P22wUgTJGDE3ULBu) | [Cardenal](https://open.spotify.com/artist/6xdGYuu56PNTg8yvEwC6AV) | [Amor Sin Fin](https://open.spotify.com/album/5mlstqzIWbIlIKjyuqvYDW) | 3:23 |
+| 34 | [Amor Sin Fin](https://open.spotify.com/track/1usjw4P22wUgTJGDE3ULBu) | [Cardenal](https://open.spotify.com/artist/6xdGYuu56PNTg8yvEwC6AV) | [Amor Sin Fin](https://open.spotify.com/album/5mlstqzIWbIlIKjyuqvYDW) | 3:23 |
+| 35 | [Arrollar](https://open.spotify.com/track/0yccCBlWH2SLmqy3U7KyhJ) | [Inda Midland](https://open.spotify.com/artist/5nHAmmeVYOfZ0eydaehHbh) | [Arrollar](https://open.spotify.com/album/41tJZm7VPRqR8r6ZLBtKSW) | 3:27 |
 | 36 | [¡Hey, Tú!](https://open.spotify.com/track/5nJpekyYgGG9f5o0gaFoqZ) | [Cooper](https://open.spotify.com/artist/5enC1sejhpx5Ggqn3wYa7t) | [¡Hey, Tú!](https://open.spotify.com/album/4AGurXE3pAo4YQpEN7XvBl) | 3:07 |
 | 37 | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl) | 3:24 |
-| 38 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
-| 39 | [Mitad de Nada](https://open.spotify.com/track/20ut1fid2B0j3maj36WMkt) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [El Viaje de Lázaro](https://open.spotify.com/album/5OWQd0NuD2HbP09D07qivw) | 3:41 |
+| 38 | [Mitad de Nada](https://open.spotify.com/track/20ut1fid2B0j3maj36WMkt) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [El Viaje de Lázaro](https://open.spotify.com/album/5OWQd0NuD2HbP09D07qivw) | 3:41 |
+| 39 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
 | 40 | [Escarabajos](https://open.spotify.com/track/6GVgs1iV9gAzXYWCzGZdUk) | [niños rosas](https://open.spotify.com/artist/4Op5dds0nq1iW9B230j18S) | [Escarabajos](https://open.spotify.com/album/75PAb8JlPV4D5p21ePWmPs) | 5:00 |
 | 41 | [¿cómo estoy?](https://open.spotify.com/track/3LRlgPr301xxC17yMT5fqP) | [rotten honney](https://open.spotify.com/artist/1QuIes9Oj5QFapUe9jReYg) | [¿cómo estoy?](https://open.spotify.com/album/4vwfhu43tPmJMA7ygN4hXj) | 3:38 |
 | 42 | [Blusibox](https://open.spotify.com/track/7EUAipiZh9rOdGWVp73pIF) | [Sunozun](https://open.spotify.com/artist/3DApw6y8GAhFcjWIshuTax) | [Blusibox](https://open.spotify.com/album/5IbYlT1SFQzmnzP50bZ7C7) | 2:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 46 | [Se Nos Rompe la Cama \(It's Ok\)](https://open.spotify.com/track/4f9gcmQlm2jjtO0hijPr7t) | [Artero](https://open.spotify.com/artist/46jQfvOF7GzjsMi5huVEWB) | [Se Nos Rompe la Cama \(It's Ok\)](https://open.spotify.com/album/6qPo9BnF5Y1KFayNYCpZlb) | 2:47 |
 | 47 | [Tanto Tiempo](https://open.spotify.com/track/1aj2AdssNHUwGkfcXVlY0F) | [Stereo Mama](https://open.spotify.com/artist/0RNNw744pRewnnpAdkGwUG) | [Tanto tiempo](https://open.spotify.com/album/31PicdkPwrgBgbNoV6NnET) | 3:13 |
 | 48 | [Dagas](https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W) | [Homero III](https://open.spotify.com/artist/2uoCxMOphYKMd0dYZf7bcM) | [Dagas](https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz) | 3:10 |
-| 49 | [Nostalgia Suicida](https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q) | [Vicios Juveniles](https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI) | [Vicios Juveniles, Vol\. 2](https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL) | 1:50 |
-| 50 | [Buenos Días](https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF) | [Rodrigo Pillado](https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO) | [Capricho](https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg) | 3:56 |
+| 49 | [Buenos Días](https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF) | [Rodrigo Pillado](https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO) | [Capricho](https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg) | 3:56 |
+| 50 | [Nostalgia Suicida](https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q) | [Vicios Juveniles](https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI) | [Vicios Juveniles, Vol\. 2](https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL) | 1:50 |
 
-Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMGVkODBmZTlhY2NmMmFmY2E2ZTU0MTNkMTliNDYyY2Jh`
+Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMGIyMjdiNzBlMTA4NmIwNjM0ODY2YmNjMTc3NWQzNDQx`

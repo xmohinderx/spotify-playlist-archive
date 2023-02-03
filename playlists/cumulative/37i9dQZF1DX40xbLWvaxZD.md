@@ -4,7 +4,7 @@
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-94 songs - 6 hr 29 min
+95 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [For Faith](https://open.spotify.com/track/7srBxCuuOUkZTvBhkJ6DXS) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume1\)](https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns) | 3:29 | 2021-05-21 |  |
 | [GET TO THE TOP! \- Remix OF THE END](https://open.spotify.com/track/4AGBW4uky6MckcAWtVwyg8) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 5:16 | 2021-05-21 |  |
 | [GET TO THE TOP! \- Remix OF THE END](https://open.spotify.com/track/72VsXEcsAzFPcfz8MvZbJZ) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [真島吾朗 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w) | 5:16 | 2021-05-21 | 2022-07-29 |
-| [hands \- Full Spec Edition](https://open.spotify.com/track/3WCKcEJrFuvBOzAevvZ12V) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:32 | 2021-05-21 |  |
+| [hands \- Full Spec Edition](https://open.spotify.com/track/2kBo896zEH6RuI82OmLxAA) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [YAKUZA 6: THE SONG OF LIFE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0HMKppHnFphltdEzp3Sz7K) | 3:32 | 2021-05-21 |  |
+| [hands \- Full Spec Edition](https://open.spotify.com/track/3WCKcEJrFuvBOzAevvZ12V) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:32 | 2021-05-21 | 2023-02-03 |
 | [hands \- Full Spec Edition](https://open.spotify.com/track/4swoDlKfBGqhzAWdoSHd7g) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 3:32 | 2021-05-21 | 2022-07-29 |
 | [harukaze \- Full Spec Edition](https://open.spotify.com/track/0UdESiFm3bzaiShAT88Nd1) | [向田 紗栄子<上坂 すみれ>](https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5) | 4:02 | 2021-05-21 | 2023-01-27 |
 | [harukaze \- Full Spec Edition](https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C) | [向田 紗栄子<上坂 すみれ>](https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:02 | 2021-05-21 |  |

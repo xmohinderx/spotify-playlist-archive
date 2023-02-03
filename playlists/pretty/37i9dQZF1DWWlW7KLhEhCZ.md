@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Dalua, Kelvin Beatz
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,523 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,528 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 6 | [Bicho Solto](https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [Bicho Solto](https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy) | 2:39 |
 | 7 | [PSG](https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0) | [PSG](https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl) | 2:19 |
 | 8 | [Ela Me Quis](https://open.spotify.com/track/0VmHtAcOXmPO7KGle2PxEi) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [CandyBoiNarco](https://open.spotify.com/artist/5rFhngLLknG7fm5OUEO2Ze), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ela Me Quis](https://open.spotify.com/album/6FLw6r7vhqO8j1pFGG9EvD) | 3:18 |
-| 9 | [Diamante](https://open.spotify.com/track/1Ow0D2ktm4rT28oxe4BUR4) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Diamante](https://open.spotify.com/album/5hZTiUn0LUaOBEXYPCA4W8) | 2:47 |
+| 9 | [Diamante](https://open.spotify.com/track/1Ow0D2ktm4rT28oxe4BUR4) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Diamante](https://open.spotify.com/album/5hZTiUn0LUaOBEXYPCA4W8) | 2:47 |
 | 10 | [Gasolina](https://open.spotify.com/track/27QbHc3LO4fnFhP0Hh2DRK) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Gasolina](https://open.spotify.com/album/5gzX6kXfruVKsEkefvRN5T) | 3:21 |
 | 11 | [8x5](https://open.spotify.com/track/42LoQtPvGxvZMRD9ltWkaa) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 2:55 |
 | 12 | [Cine\-Freestyle](https://open.spotify.com/track/3iUTq5OLnMmkmLvS9wpvYL) | [Sol](https://open.spotify.com/artist/5ilajOdd3AoPqjku80Jc20), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Cine\-Freestyle](https://open.spotify.com/album/5rmqSAzctokPOIBtWjh3GL) | 3:03 |

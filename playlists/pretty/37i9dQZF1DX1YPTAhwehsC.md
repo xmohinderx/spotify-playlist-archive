@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,204 likes - 99 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,345 likes - 99 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 2 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 3 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
-| 4 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 |
+| 4 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
 | 5 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 | 6 | [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 |
 | 7 | [Sicc & Tired](https://open.spotify.com/track/6tSDBBVEeRGUQLXSZGSXkn) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Sicc & Tired](https://open.spotify.com/album/7FIJ2AxOrNcVm0PtCrWJSK) | 2:44 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 17 | [\#NeverDrinkingAgain](https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [\#NeverDrinkingAgain](https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8) | 3:01 |
 | 18 | [Letter 2 Notti](https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Letter 2 Notti](https://open.spotify.com/album/26LCzQxgr9L97slkouEn80) | 2:07 |
 | 19 | [No Passes](https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [No Passes](https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22) | 2:40 |
-| 20 | [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 |
+| 20 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
 | 21 | [DOOR](https://open.spotify.com/track/1C9kOPsdU2y77BtMCxTtr1) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [DOOR](https://open.spotify.com/album/1jgYVz8SOYZVmDPwhokSRl) | 2:08 |
 | 22 | [SAILS](https://open.spotify.com/track/3gC5ZvWnG2yy2RTQnRRRXq) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [\-95 DEGREES](https://open.spotify.com/album/6pGYzNLRH0Ve8OPjOityaN) | 3:25 |
 | 23 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [Punch Me In](https://open.spotify.com/track/7xf2UVEG08JHdBjaeU6qEE) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Punch Me In](https://open.spotify.com/album/01q79PFHq4WmrCek7xDnxH) | 2:00 |
 | 99 | [Diana \(feat\. Kodak Black\)](https://open.spotify.com/track/6XKK1p38fqbnaN6Z9PPiyZ) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Diana \(feat\. Kodak Black\)](https://open.spotify.com/album/3LOuqf7f01O6TC70sK6f06) | 3:11 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDBmYjY0Y2RmM2VlNzA3NThkOTg5Mjk2MjNkOTMxODhj`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDU3NDQxZTlmN2RjMzY2MTU3NWEwMjRkNDY2YTlmZTBl`

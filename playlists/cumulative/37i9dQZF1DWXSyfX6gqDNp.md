@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-210 songs - 13 hr 58 min
+211 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [How My Heart Sings](https://open.spotify.com/track/5liCciLu82rWull0PwMxBj) | [Dylan Lytle](https://open.spotify.com/artist/0mmQFz47dByQgYVEMqC8fF) | [How My Heart Sings](https://open.spotify.com/album/30wPThO6rsgeDJgvi17ZpP) | 3:05 | 2021-12-14 | 2022-06-01 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/7sJOTQaJtgkqUviKXRmUQe) | [Harper Pepe](https://open.spotify.com/artist/5cSYeS27bdC8UZo83VY7GI) | [Days Of Wine And Roses](https://open.spotify.com/album/4yMvtwVj7GoKsYMt7FXxoc) | 2:52 | 2021-12-14 | 2022-04-27 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2021-12-14 | 2022-09-09 |
+| [I Fall In Love Too Easily](https://open.spotify.com/track/0Bp4wVlm9sA88tMtbDG29p) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Fall In Love Too Easily](https://open.spotify.com/album/7CVL1rAW47IhbxmNv2uM29) | 4:00 | 2023-02-02 |  |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-12-14 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/1p6wxI8LwDcO67o5kS3X2v) | [Ryan Turtle Trio](https://open.spotify.com/artist/7o9xTJw9Cpy1HRZG5fSkQx) | [I Loves You, Porgy](https://open.spotify.com/album/3XE7aC2JbxhYTgJ6ZEJ9z1) | 2:57 | 2021-12-14 | 2023-01-20 |
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-08-30 |  |

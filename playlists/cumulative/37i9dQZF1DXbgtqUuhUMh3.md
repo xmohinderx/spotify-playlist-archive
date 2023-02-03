@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-384 songs - 22 hr 31 min
+385 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-12-23 | 2022-03-01 |
 | [Action](https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Action](https://open.spotify.com/album/5lHKqYoOrYfvWPDPKNDyh9) | 2:46 | 2022-09-20 | 2022-10-07 |
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-09-26 |
-| [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-22 |  |
+| [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-22 | 2023-02-03 |
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 | 2023-01-12 |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Aheb Essmi](https://open.spotify.com/track/1feBcyeSIn8G7yyitzKlM2) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Aheb Essmi](https://open.spotify.com/album/0q0d5bsNYPXmxtvR0P2Q0y) | 3:38 | 2022-10-13 |  |
@@ -118,6 +118,7 @@
 | [Fe Nas](https://open.spotify.com/track/4HAw501fOG5TeZdLibO9kT) | [Nathalie Saba](https://open.spotify.com/artist/0RSZW3LaHlf4SHyRtX5BGe) | [Fe Nas](https://open.spotify.com/album/5WHdiRULGVlAX3W7PUANh0) | 3:36 | 2021-12-23 | 2022-03-01 |
 | [Feny Elly Mkafeny](https://open.spotify.com/track/5j0j6OfAhxbdNVtuX77B6E) | [Mona](https://open.spotify.com/artist/0XDedczfxD2nnwn1Fe0WRr) | [Feny Elly Mkafeny](https://open.spotify.com/album/5oN5wA0j9xoqhaTV98H7JS) | 4:32 | 2021-12-23 | 2022-02-26 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 | 2022-11-08 |  |
+| [Film Helw](https://open.spotify.com/track/25EbCKCq8dQ3YBmwbix7ye) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Film Helw](https://open.spotify.com/album/57b4TTuIJ4znCcAPWqBcIA) | 3:00 | 2023-02-03 |  |
 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 | 2022-07-07 |  |
 | [Ftila](https://open.spotify.com/track/4geJdEK32VaCsvb1RH557R) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Ftila](https://open.spotify.com/album/02azIN5J0Khi8LDk5uoyhI) | 2:40 | 2021-12-23 | 2022-03-02 |
 | [Galactique](https://open.spotify.com/track/53pSQJP7qVhz9HDbTcTX4J) | [MAYA VI](https://open.spotify.com/artist/56e98wB8v0F4YUayj1tF7d) | [Galactique](https://open.spotify.com/album/5zigO1sNqarEOiLICUJt5d) | 3:12 | 2021-12-23 | 2022-03-02 |

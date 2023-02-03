@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 89969,
+  "num_followers": 90005,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ4OTM4NCwwMDAwMDAwMGI4NjdhZGE1YjU3OTg2M2JmNWJkNDYyMjQ2YmIyYThl",
+  "snapshot_id": "MTY3NDQ4OTM4NCwwMDAwMDAwMDE0NmY2OTk5NmI4ZDJmMDI0Nzc0NmM1MTNjYTgzOTBi",
   "tracks": [
     {
       "added_at": "2023-01-23 15:56:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-23 15:56:23",
       "album": {
-        "name": "MUJER",
-        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "MUJER",
-      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
-    },
-    {
-      "added_at": "2023-01-23 15:56:23",
-      "album": {
         "name": "Bellissima",
         "url": "https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 201334,
       "name": "Bellissima",
       "url": "https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI"
+    },
+    {
+      "added_at": "2023-01-23 15:56:23",
+      "album": {
+        "name": "MUJER",
+        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     }
   ],
   "unique_name": "Tra Amiche",

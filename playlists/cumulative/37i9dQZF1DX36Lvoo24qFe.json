@@ -364,7 +364,7 @@
     {
       "album": {
         "name": "it's ok, you're ok",
-        "url": "https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG"
+        "url": "https://open.spotify.com/album/636BSUptgIPJ0vSeBAQNrm"
       },
       "artists": [
         {
@@ -375,6 +375,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215510,
+      "name": "it's ok, you're ok",
+      "url": "https://open.spotify.com/track/1rpKWA97PYmYI5TLHRuDnV"
+    },
+    {
+      "album": {
+        "name": "it's ok, you're ok",
+        "url": "https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG"
+      },
+      "artists": [
+        {
+          "name": "Bonjr",
+          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 215510,
       "name": "it's ok, you're ok",
       "url": "https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO"

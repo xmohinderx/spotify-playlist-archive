@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 192958,
+  "num_followers": 193003,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDQzN2Q4ZWFiZmI5MzkwYThmMThjYWFjMWFmNWY0ODA5",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDJlMjExMGQ2NzU4MjU3YTRjYWM5OWNkN2E4ZWFhYzNj",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -947,26 +947,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Jeff Beck's Guitar Shop With Terry Bozzio And Tony Hymas (with Terry Bozzio & Tony Hymas)",
-        "url": "https://open.spotify.com/album/1JJtA0AmTd6N72qzbPOAjA"
+        "name": "Punch The Clock",
+        "url": "https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        },
-        {
-          "name": "Terry Bozzio",
-          "url": "https://open.spotify.com/artist/4Mg2halT7xTynJTPbyddHr"
-        },
-        {
-          "name": "Tony Hymas",
-          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
         }
       ],
-      "duration_ms": 292666,
-      "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
-      "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
+      "duration_ms": 292720,
+      "name": "Shipbuilding",
+      "url": "https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -987,18 +979,26 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Punch The Clock",
-        "url": "https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs"
+        "name": "Jeff Beck's Guitar Shop With Terry Bozzio And Tony Hymas (with Terry Bozzio & Tony Hymas)",
+        "url": "https://open.spotify.com/album/1JJtA0AmTd6N72qzbPOAjA"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "Terry Bozzio",
+          "url": "https://open.spotify.com/artist/4Mg2halT7xTynJTPbyddHr"
+        },
+        {
+          "name": "Tony Hymas",
+          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
         }
       ],
-      "duration_ms": 292720,
-      "name": "Shipbuilding",
-      "url": "https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb"
+      "duration_ms": 292666,
+      "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
+      "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
     },
     {
       "added_at": "2018-12-12 11:36:39",

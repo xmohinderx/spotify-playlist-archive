@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-442 songs - 1 day 2 hr 32 min
+443 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Agua Salada](https://open.spotify.com/track/4zZU1HHT7TcfluhNFfIyLN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuba Pintada](https://open.spotify.com/album/4aq6JOU5CaorKccaLlzxAi) | 3:30 | 2021-10-20 | 2022-06-14 |
 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 | 2022-04-17 | 2022-06-08 |
 | [Aguacate](https://open.spotify.com/track/3lG6ZghgTwSbF3c3oM1GkT) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Aguacate](https://open.spotify.com/album/3ehpAsvIKmRkW3pieAHzG2) | 3:27 | 2021-10-20 | 2022-07-29 |
+| [Aguacate](https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Aguacate](https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh) | 3:27 | 2021-10-20 |  |
 | [Aguacate](https://open.spotify.com/track/6AerfqsL2ISs64dixwrfM5) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9) | 3:08 | 2021-10-20 | 2022-04-21 |
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-07-29 |
 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 | 2021-11-12 | 2022-07-29 |
@@ -383,7 +384,7 @@
 | [Sirena](https://open.spotify.com/track/5BkfQ5o9XfCqvdkWqG6Dya) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:51 | 2022-04-17 | 2022-07-29 |
 | [Sobre La Mesa](https://open.spotify.com/track/6QcTLtjZUX9Ft2tWly8mYq) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Sobre La Mesa](https://open.spotify.com/album/3h89aQXyLnnYPBPGnxcWmM) | 3:22 | 2021-10-20 | 2022-07-16 |
 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 | 2021-10-20 |  |
-| [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2021-10-20 |  |
+| [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2021-10-20 | 2023-02-03 |
 | [Sonora](https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 5:27 | 2021-10-20 | 2023-01-24 |
 | [Sonreír](https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Sonreír](https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk) | 3:31 | 2021-10-20 |  |
 | [Sopla Mi Vela](https://open.spotify.com/track/5Ri0lGNUv8YBSm4DenE53g) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Sopla Mi Vela](https://open.spotify.com/album/3dhVsobHuBOE7c3LeHmFeZ) | 3:18 | 2022-08-13 | 2022-09-28 |

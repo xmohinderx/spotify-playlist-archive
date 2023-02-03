@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Ach Dani Lik",
+        "url": "https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy"
+      },
+      "artists": [
+        {
+          "name": "Echbiy",
+          "url": "https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Ach Dani Lik",
+      "url": "https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8"
+    },
+    {
+      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 247392,
       "name": "Dj",
       "url": "https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 229565,
       "name": "Jamais de la vie",
       "url": "https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4"

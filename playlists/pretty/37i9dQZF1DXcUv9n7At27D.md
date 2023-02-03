@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の冬に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,136 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,157 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 3 | [Piano Sonata No\. 4 in E\-Flat Major, K\. 282: I\. Adagio](https://open.spotify.com/track/7D3sh1V2RA5fviB1PccfgR) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Mozart: The Complete Piano Sonatas](https://open.spotify.com/album/4pMwtuowDtXHviE9xPp6gi) | 4:24 |
 | 4 | [Es \- piano room](https://open.spotify.com/track/54898GdeiRQr1QurG91Ude) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es \- piano room](https://open.spotify.com/album/4gXc9xsSZB6IYaCv59I5ai) | 3:13 |
 | 5 | [In the Mist](https://open.spotify.com/track/3UrztnIFSszMogk91JNlci) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz) | [Arietta](https://open.spotify.com/album/6h9VfhYdxzNbCtoKWmnkYX) | 1:33 |
-| 6 | [ベルガマスク組曲\~第3曲: 月の光\(チェロとハープ編\)](https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [佐藤晴真](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 4:59 |
+| 6 | [ベルガマスク組曲\~第3曲: 月の光\(チェロとハープ編\)](https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 4:59 |
 | 7 | [子供のためのアルバム 作品 68第1部 幼い子供たちのために 14 小さな練習曲](https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Masako Ezaki](https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2) | [シューマン:子供のためのアルバム 作品68](https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W) | 2:04 |
 | 8 | [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 |
 | 9 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 |

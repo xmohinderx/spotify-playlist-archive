@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-298 songs - 15 hr 57 min
+299 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-06-08 | 2022-12-31 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-06-08 | 2023-01-30 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Antología \(80 Clásicos\)](https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG) | 3:45 | 2022-06-08 | 2022-07-29 |
-| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 |  |
+| [Mi Eterno Amor Secreto](https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [FAVORITAS CON AMOR Vol\. 2](https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ) | 3:48 | 2022-12-30 |  |
+| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 | 2023-02-03 |
 | [Mi Pasión Recordaras](https://open.spotify.com/track/3ewCNnIQmHB8gh8zvwRMKQ) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [Los Inolvidables de Apia](https://open.spotify.com/artist/5M6A7BlORhTtf2B2lEsu6l) | [Grandes Éxitos de Luis Alberto Posada Con los Inolvidables de Apia](https://open.spotify.com/album/6QLtJEtHHAkmH0Tn7zhW4c) | 3:25 | 2022-06-08 | 2022-07-29 |
 | [Mi Renuncia](https://open.spotify.com/track/7em1GCdeDU60h5r6WUlEIU) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Que Sea un Motivo \(30 Años de Vida Artística\)](https://open.spotify.com/album/5aKg3XbB8O5OJ95PnCOs8B) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2022-06-08 | 2022-07-29 |

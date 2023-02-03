@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: The Kid Laroi",
-  "num_followers": 1436428,
+  "num_followers": 1437082,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NTc5MiwwMDAwMDAwMDZjMGJiNzE3YjJiMmJkMmI2ZDM2ODI5NWRmYzhlZWQ2",
+  "snapshot_id": "MTY3NTI2NTc5MiwwMDAwMDAwMDAwN2Q2ZTY0ZDZiMzliOTc3M2UyZjZkNmZkYjNkYmYz",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 124188,
-      "name": "ay! (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "I'm Gone",
         "url": "https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 144000,
       "name": "Sick and Tired (ft. Machine Gun Kelly and Travis Barker)",
       "url": "https://open.spotify.com/track/0DILU9jjSTnCv1dcbUH3ib"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 124188,
+      "name": "ay! (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 87408,
       "name": "dream girl",
       "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "agoraphobic",
         "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*ck Love",
         "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197368,
       "name": "F*ck Love",
       "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Can't Love Myself",
-        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
-      },
-      "artists": [
-        {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 122723,
-      "name": "Can't Love Myself",
-      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 139040,
       "name": "FEEL SOMETHING (feat. Marshmello)",
       "url": "https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Can't Love Myself",
+        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
+      },
+      "artists": [
+        {
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "Can't Love Myself",
+      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "The Two of Us Are Dying",
-        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
-      },
-      "artists": [
-        {
-          "name": "Killstation",
-          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
-        }
-      ],
-      "duration_ms": 134209,
-      "name": "Sarcoma",
-      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
@@ -1191,6 +1175,22 @@
       "duration_ms": 184900,
       "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "The Two of Us Are Dying",
+        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
+      },
+      "artists": [
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 134209,
+      "name": "Sarcoma",
+      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "duration_ms": 136776,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Suicidal",
         "url": "https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 142988,
       "name": "Suicidal",
       "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
-      },
-      "artists": [
-        {
-          "name": "Thekidszn",
-          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
-        }
-      ],
-      "duration_ms": 136776,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Proud of Myself",
+        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Proud of Myself",
+      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Seen It All Before",
@@ -1495,22 +1511,6 @@
       "duration_ms": 187767,
       "name": "Seen It All Before",
       "url": "https://open.spotify.com/track/7wQbjBKlkfy4Cf1kq2fHVn"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Proud of Myself",
-        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Proud of Myself",
-      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
     },
     {
       "added_at": "2022-10-07 04:18:00",

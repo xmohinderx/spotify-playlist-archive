@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-330 songs - 20 hr 36 min
+331 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Better Off](https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Better Off](https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn) | 3:46 | 2021-12-06 | 2022-07-29 |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2022-01-05 | 2022-04-21 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-07-08 |  |
+| [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-02-02 |  |
 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 | 2022-01-05 |  |
 | [Blink Twice](https://open.spotify.com/track/5VQ1j0nlkUpXMNdnY5cDH0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blink Twice](https://open.spotify.com/album/15wqrRVQe2JDnQHlpLLiTy) | 3:17 | 2021-12-06 | 2022-07-29 |
 | [Break My Broken Heart](https://open.spotify.com/track/2UfDeOnKQgquiKyStdgCDj) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Break My Broken Heart](https://open.spotify.com/album/44KkghWRHAWdnTlDRAGjK3) | 3:34 | 2021-12-06 | 2022-01-19 |
@@ -143,7 +144,7 @@
 | [Island](https://open.spotify.com/track/7AQZiIh2HMDwqGm9AQy96k) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [Island](https://open.spotify.com/album/6QBYDmCgUBUZYGKQ6lBK9w) | 2:15 | 2021-12-06 | 2022-07-29 |
 | [It Only Gets Much Worse](https://open.spotify.com/track/61IsztUa3EPy7L0VyfUCAg) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 4:17 | 2022-01-05 | 2022-04-21 |
 | [It Will Rain](https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:17 | 2021-12-06 |  |
-| [It's Over](https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [It's Over](https://open.spotify.com/album/0ygKnSCZS4GmTJV2sn0kC1) | 3:01 | 2022-05-13 |  |
+| [It's Over](https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [It's Over](https://open.spotify.com/album/0ygKnSCZS4GmTJV2sn0kC1) | 3:01 | 2022-05-13 | 2023-02-03 |
 | [I’ll Still Have Me](https://open.spotify.com/track/71HEg3bYLyMAxHuJ3a6KIM) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [I’ll Still Have Me](https://open.spotify.com/album/0bO19AlrcNsk8t5gOqKDgX) | 3:39 | 2021-12-06 | 2022-11-13 |
 | [Jar of Hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 | 2021-12-06 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 20428,
+  "num_followers": 20443,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0ODA1NiwwMDAwMDAwMGYyNjZjMDQ1YjBlNjlkOTc1ZDk1MjhhZmVhMmYxY2Q1",
+  "snapshot_id": "MTY3NDg0ODA1NiwwMDAwMDAwMDVjYmJmZDk5ZGYwMGM3MzU0MzQ4OTRiZTQ3ODBiY2Vm",
   "tracks": [
     {
       "added_at": "2023-01-27 19:34:16",
@@ -307,22 +307,26 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
-        "name": "Tour Files",
-        "url": "https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF"
+        "name": "Frontline",
+        "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
       },
       "artists": [
         {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
         },
         {
           "name": "Cypress Moreno",
           "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
         }
       ],
-      "duration_ms": 92135,
-      "name": "Known Spenders",
-      "url": "https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd"
+      "duration_ms": 184272,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
     },
     {
       "added_at": "2023-01-27 19:34:16",
@@ -347,26 +351,22 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
-        "name": "Frontline",
-        "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
+        "name": "Tour Files",
+        "url": "https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF"
       },
       "artists": [
         {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         },
         {
           "name": "Cypress Moreno",
           "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
         }
       ],
-      "duration_ms": 184272,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
+      "duration_ms": 92135,
+      "name": "Known Spenders",
+      "url": "https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd"
     },
     {
       "added_at": "2023-01-27 19:34:16",

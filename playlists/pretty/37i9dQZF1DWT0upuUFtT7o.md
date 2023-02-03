@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: romeo + juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,808 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,944 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 38 | [Gallows](https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Gallows](https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh) | 3:06 |
 | 39 | [Sour Apple](https://open.spotify.com/track/30QoxncreJHjHwsvlTlHTl) | [Sundarta](https://open.spotify.com/artist/7h3Gz1wNpOgcM04KbNeuZJ) | [Sour Apple](https://open.spotify.com/album/00hJ6NRmX5LfBKGUbKb4TB) | 5:47 |
 | 40 | [Black Hills](https://open.spotify.com/track/2PYS4tFLGYDeQ0K7FKVKEj) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 2:56 |
-| 41 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 |
+| 41 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 |
 | 42 | [Overseas/BACK 2 U](https://open.spotify.com/track/17AR21VFQPJYTRC2eNXXfS) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Overseas/BACK 2 U](https://open.spotify.com/album/1SIO06U8gTdx70MgytjUuK) | 4:39 |
 | 43 | [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 |
 | 44 | [Problem Child](https://open.spotify.com/track/2Btifh0oYMDhSUOaTNC10d) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/2zwbcI5dCRCBUO3pjIs2E9) | 3:42 |

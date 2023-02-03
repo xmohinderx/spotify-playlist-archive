@@ -2349,6 +2349,32 @@
     },
     {
       "album": {
+        "name": "Gaida",
+        "url": "https://open.spotify.com/album/3YXUofA9XSgNaMwW0hTG1B"
+      },
+      "artists": [
+        {
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "C'mon",
+          "url": "https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394"
+        },
+        {
+          "name": "Otistic",
+          "url": "https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Gaida",
+      "url": "https://open.spotify.com/track/4yUnIfJyactd9T615iFFjQ"
+    },
+    {
+      "album": {
         "name": "Gardens of Elah",
         "url": "https://open.spotify.com/album/0yGk1LE9IV1r2GtjZeDvLl"
       },
@@ -2506,7 +2532,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 412561,
       "name": "Hannah",
       "url": "https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv"

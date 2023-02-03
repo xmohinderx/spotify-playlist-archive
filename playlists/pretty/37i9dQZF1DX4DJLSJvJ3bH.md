@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,681 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,638 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 85 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas With The Andrews Sisters](https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo) | 3:00 |
 | 86 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/2SGWl7dI4dFSpHad6o95pm) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Christmas Jazz](https://open.spotify.com/album/6Kwbqxv0h4YLHhLcU34GFC) | 2:18 |
 | 87 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 |
-| 88 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
-| 89 | [The Little Drummer Boy](https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:05 |
+| 88 | [The Little Drummer Boy](https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:05 |
+| 89 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
 | 90 | [Winter Wonderland](https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:14 |
 | 91 | [Ding Dong Merrily on High](https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9) | [Meadowpoint](https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21) | [White Nights](https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst) | 2:25 |
 | 92 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
 | 100 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDkxYWZjMjJiZjc0ZTcxMWEzOWFmYjQyMWM2Mzg4ZDMz`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDM3ZDFkNzhiM2JlNGQzODQwMTIwMzIzZjk3OTk3MDA0`

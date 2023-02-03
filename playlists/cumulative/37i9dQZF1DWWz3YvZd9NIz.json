@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 126000,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 251097,
       "name": "Africa (Shinzo Radio Edit)",
       "url": "https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj"
@@ -561,6 +561,58 @@
     },
     {
       "album": {
+        "name": "Faded (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/4BDXzHXyoFG0zuyhClsD2X"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Provenzano",
+          "url": "https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K"
+        },
+        {
+          "name": "Sound Made Clearer",
+          "url": "https://open.spotify.com/artist/5IIgNsjwbbORsV373EeBMy"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166789,
+      "name": "Faded - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/5Cd0dIqyb1t66bZw8vWASw"
+    },
+    {
+      "album": {
+        "name": "Feel (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/4YyPm2yc7HQIIQxgQawOiw"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Bruno Power",
+          "url": "https://open.spotify.com/artist/6G6JlX1DE2Val7zPadVTzY"
+        },
+        {
+          "name": "EGGWYTE",
+          "url": "https://open.spotify.com/artist/3FGyHwCfYQXtjsnE1eBW7I"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Feel - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/3gxvKQig5mhR52ypQL41iF"
+    },
+    {
+      "album": {
         "name": "Firework",
         "url": "https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w"
       },
@@ -1055,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Mirrors (Hardstyle)",
+        "url": "https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116117,
+      "name": "Mirrors (Hardstyle)",
+      "url": "https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx"
+    },
+    {
+      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1092,7 +1162,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 230412,
       "name": "Mr Brightside",
       "url": "https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp"
@@ -1114,7 +1184,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Never Alone - Re-Style Remix",
       "url": "https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe"
@@ -1184,7 +1254,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 169487,
       "name": "Outside (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/5idLCQX198buvDTviDEPP2"
@@ -1246,10 +1316,36 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 198045,
       "name": "Pianoman (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9mon Theme (Fallen Superhero Remix)",
+        "url": "https://open.spotify.com/album/3n4BJ2tUGYSf370SIIXEY3"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Fallen Superhero",
+          "url": "https://open.spotify.com/artist/4XFbi551hXFADmZ7HHCiyY"
+        },
+        {
+          "name": "Austin Christopher",
+          "url": "https://open.spotify.com/artist/3B6pf3aw8UNJLwjgei3Vnr"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167229,
+      "name": "Pok\u00e9mon Theme (Fallen Superhero Remix)",
+      "url": "https://open.spotify.com/track/0rgLJMtbtKIsTHFB52WnAS"
     },
     {
       "album": {
@@ -1352,7 +1448,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 165643,
       "name": "Shirt Off & Twist It",
       "url": "https://open.spotify.com/track/0G3wGKSz3Anx87GsRh0xJu"
@@ -1470,7 +1566,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 177494,
       "name": "Summer Of '69 - Happy H\u00f8ken Remix",
       "url": "https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu"
@@ -1562,7 +1658,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "The Game - Dr. Rude & Lunaticz Remix",
       "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
@@ -1624,6 +1720,24 @@
       "duration_ms": 208979,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7"
+    },
+    {
+      "album": {
+        "name": "Twerk Anthem",
+        "url": "https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Twerk Anthem",
+      "url": "https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No"
     },
     {
       "album": {

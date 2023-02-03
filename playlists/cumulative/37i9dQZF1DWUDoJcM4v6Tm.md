@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-232 songs - 14 hr 33 min
+233 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Seventeen](https://open.spotify.com/track/0eckrKW5fvpbYGaFxx0RkF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/3fNsNoodAejnATNg10sXgr) | 4:31 | 2022-05-02 |  |
 | [Seventeen](https://open.spotify.com/track/3ctBlLC81pc2TMriIxnXxN) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/1v55LXxVAFvFV02xGMImwP) | 4:31 | 2021-10-08 | 2022-07-29 |
 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 | 2021-10-08 |  |
-| [Shadow in the Frame](https://open.spotify.com/track/1ZAAAOmcklGTQDrArjLBxa) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 5:16 | 2022-04-13 |  |
+| [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2022-11-17 |  |
+| [Shadow in the Frame](https://open.spotify.com/track/1ZAAAOmcklGTQDrArjLBxa) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 5:16 | 2022-04-13 | 2023-02-03 |
 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 | 2021-10-08 | 2022-01-06 |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2021-10-08 |  |
 | [Stargazer](https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Stargazer](https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl) | 3:45 | 2022-05-02 |  |

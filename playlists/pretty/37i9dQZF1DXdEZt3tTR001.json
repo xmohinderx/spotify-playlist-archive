@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 96817,
+  "num_followers": 96998,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIxNTcwMSwwMDAwMDAwMDY2ZjMyZGI3NmNkYTE2OTQyZTdhOGNmODkwYWIwZDdk",
+  "snapshot_id": "MTY3NTIxNTcwMSwwMDAwMDAwMGI4MGQxYWM3M2E2ZGQ1ODUxMWQzNmU3MmM3YzE5ZGQz",
   "tracks": [
     {
       "added_at": "2023-02-01 01:41:41",
@@ -463,30 +463,6 @@
     {
       "added_at": "2023-02-01 01:41:41",
       "album": {
-        "name": "Good & Plenty",
-        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty",
-      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2023-02-01 01:41:41",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -523,6 +499,30 @@
     {
       "added_at": "2023-02-01 01:41:41",
       "album": {
+        "name": "Good & Plenty",
+        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Good & Plenty",
+      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2023-02-01 01:41:41",
+      "album": {
         "name": "Fortunate",
         "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 301160,
       "name": "Fortunate",
       "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
-    },
-    {
-      "added_at": "2023-02-01 01:41:41",
-      "album": {
-        "name": "Lyfe 268-192",
-        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
-      },
-      "artists": [
-        {
-          "name": "Lyfe Jennings",
-          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "Must Be Nice",
-      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
     },
     {
       "added_at": "2023-02-01 01:41:41",
@@ -571,22 +555,18 @@
     {
       "added_at": "2023-02-01 01:41:41",
       "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
         }
       ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
     },
     {
       "added_at": "2023-02-01 01:41:41",
@@ -615,6 +595,26 @@
       "duration_ms": 202451,
       "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz"
+    },
+    {
+      "added_at": "2023-02-01 01:41:41",
+      "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2023-02-01 01:41:41",

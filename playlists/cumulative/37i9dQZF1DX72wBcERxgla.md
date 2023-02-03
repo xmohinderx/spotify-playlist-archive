@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-229 songs - 13 hr 18 min
+235 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
 | [Ballad For Hilda](https://open.spotify.com/track/0GGnf4gQNCrvwC32lroIJv) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 1:53 | 2022-12-01 |  |
 | [Be Free](https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Be Free](https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ) | 2:17 | 2022-11-17 |  |
+| [Beautiful Love](https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Beautiful Love](https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD) | 2:58 | 2023-02-02 |  |
 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2023-01-19 |  |
 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 | 2022-04-12 |  |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
@@ -52,6 +53,7 @@
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-30 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
 | [detour ahead](https://open.spotify.com/track/5EbkSAI9fgAtPsi2uHSKOF) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 3:27 | 2022-04-12 |  |
+| [Didn't We](https://open.spotify.com/track/2mDRMm2mnegdONfu6RviPx) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Didn't We](https://open.spotify.com/album/4k109TZny7qG5NFHe29c3c) | 2:49 | 2023-02-02 |  |
 | [Do You Mind If I Smoke](https://open.spotify.com/track/4kFDH0KwaJVLz9UrYd3tPG) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [Do You Mind If I Smoke](https://open.spotify.com/album/4B9At7kBfjAyyNLg1SpG0R) | 4:05 | 2023-01-26 |  |
 | [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Doldrums](https://open.spotify.com/track/0SAS6ARxYiOJT1OTUYakLf) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:12 | 2022-04-12 | 2022-11-25 |
@@ -65,6 +67,7 @@
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 |  |
 | [Eventide](https://open.spotify.com/track/7nO04XqvyNvkTtaUcgoPas) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Eventide](https://open.spotify.com/album/5rGNwZOi7HmnCVQlpes1bp) | 2:35 | 2022-04-12 |  |
 | [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-10 |  |
+| [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-04-12 |  |
@@ -182,6 +185,7 @@
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2022-04-12 | 2022-09-07 |
 | [Sophisticated Lady](https://open.spotify.com/track/5pu6BLvhSxvgcWYz8hbJyY) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Sophisticated Lady](https://open.spotify.com/album/3b5NqlRzLBwJ3vckec2l93) | 3:31 | 2022-08-10 |  |
 | [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2022-04-12 | 2022-06-09 |
+| [Sort Of Sentimental](https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Sort Of Sentimental](https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO) | 3:05 | 2023-02-02 |  |
 | [Soul Eyes](https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD) | [Dabria Martin](https://open.spotify.com/artist/5hxC2YJZBRliZhDyewZ4bG) | [Soul Eyes](https://open.spotify.com/album/433xCyuJbk1ymPZEfhuhJP) | 3:44 | 2022-09-06 |  |
 | [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 | 2022-06-15 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/0cm5nvQQ3rAq5GlV3UL5nr) | 6:02 | 2022-06-08 |  |
@@ -211,6 +215,7 @@
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-04-12 |  |
 | [Thinking Of You](https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Thinking Of You](https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0) | 4:22 | 2022-10-06 |  |
 | [Thoughts Of Yesterday](https://open.spotify.com/track/0ZtfGOP5WB9rosemFD5c6e) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Thoughts Of Yesterday](https://open.spotify.com/album/1QyKUmbdbAGuOrj2iRzF14) | 3:17 | 2022-10-27 |  |
+| [Time After Time](https://open.spotify.com/track/7IbI6WVoXnkqeQf4pLAwDU) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Time After Time](https://open.spotify.com/album/4M6Bq1RqYhUntzbNeRzwJr) | 3:55 | 2023-02-02 |  |
 | [Time Remembered](https://open.spotify.com/track/6QVNNtFa2zVy9kbE5DyGQA) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Time Remembered](https://open.spotify.com/album/313pbQgHhe9UguJEKfvFKn) | 2:02 | 2022-04-12 | 2022-05-04 |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-12 |  |
 | [Underbart är kort](https://open.spotify.com/track/0cMLTbR7VyjsYc1267fp2M) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 4:04 | 2022-04-12 | 2022-08-11 |
@@ -218,6 +223,7 @@
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-10 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-17 |  |
+| [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-02-02 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 | 2022-10-14 |

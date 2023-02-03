@@ -2,7 +2,7 @@
 
 ### [Disco Deewane](https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x)
 
-> Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
+> Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
 74 songs - 6 hr 57 min
 

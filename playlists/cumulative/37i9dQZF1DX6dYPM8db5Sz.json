@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX_ZhuEvg\">Matthew Mole",
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=Ow5ms3yFToCElCBxfriMRg\">Internet Girl",
   "name": "SAlt",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 140494,
       "name": "Above Water",
       "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
+    },
+    {
+      "album": {
+        "name": "Action Figures Fighting",
+        "url": "https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Action Figures Fighting",
+      "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
     },
     {
       "album": {
@@ -602,7 +620,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 271229,
       "name": "cold",
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 175862,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
@@ -974,6 +992,24 @@
       "duration_ms": 243480,
       "name": "Giving My Love",
       "url": "https://open.spotify.com/track/74dwHoS4dUx7QHElINW0a0"
+    },
+    {
+      "album": {
+        "name": "Happier (Radio Remix)",
+        "url": "https://open.spotify.com/album/4dmgyRNF1FyHU9Jm94ss5Z"
+      },
+      "artists": [
+        {
+          "name": "Tuelo",
+          "url": "https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215171,
+      "name": "Happier - Radio Remix",
+      "url": "https://open.spotify.com/track/2dM434jTJ5oC51IFViMvv5"
     },
     {
       "album": {
@@ -1176,7 +1212,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 178246,
       "name": "How Do I Tell You",
       "url": "https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t"
@@ -1238,6 +1274,28 @@
       "duration_ms": 196522,
       "name": "I Don't Miss You (Except For When I Do)",
       "url": "https://open.spotify.com/track/0t0iEf8iXrg0OQeqO2jm9C"
+    },
+    {
+      "album": {
+        "name": "i don't reply",
+        "url": "https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "i don't reply",
+      "url": "https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii"
     },
     {
       "album": {
@@ -1722,7 +1780,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 169285,
       "name": "Norton Howard",
       "url": "https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD"
@@ -2496,6 +2554,24 @@
       "duration_ms": 246095,
       "name": "Vonkel",
       "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
+    },
+    {
+      "album": {
+        "name": "Vuka Sizwe",
+        "url": "https://open.spotify.com/album/0yimQOfR8HHoBKMWEoFl3v"
+      },
+      "artists": [
+        {
+          "name": "Ruzza Wazzi",
+          "url": "https://open.spotify.com/artist/6bCOMF4KxMWfP6zd2j3eGZ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "Vuka Sizwe",
+      "url": "https://open.spotify.com/track/7dgjQyk5CEdJ3Z7zkYemDV"
     },
     {
       "album": {

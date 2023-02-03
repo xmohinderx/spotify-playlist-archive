@@ -554,7 +554,7 @@
     {
       "album": {
         "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -565,6 +565,24 @@
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Fingerbib",
+      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 228866,
       "name": "Fingerbib",
       "url": "https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19"

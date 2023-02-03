@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121063,
+  "num_followers": 121056,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGExOWFhODgwZTMwMWVlNGQyNDExMGY5NTMwOGU3MGFm",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDU1ZjhlNTk3ZTcxMDc4MGY2OTNlOGUzMTA4MDQzZDUy",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
       "artists": [
         {
-          "name": "Julian Campos",
-          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Notifica\u00e7\u00e3o Ligada",
-      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+        "name": "28",
+        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "Julian Campos",
+          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
         }
       ],
-      "duration_ms": 236372,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+      "duration_ms": 142153,
+      "name": "Notifica\u00e7\u00e3o Ligada",
+      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Bonita y Triste",
-        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216745,
-      "name": "Bonita y Triste",
-      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 259040,
       "name": "Vem Menina",
       "url": "https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Bonita y Triste",
+        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216745,
+      "name": "Bonita y Triste",
+      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
       "added_at": "2022-11-25 03:00:00",

@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-337 songs - 5 day 5 hr 21 min
+338 songs - 5 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [The Psychologically Ultimate Seashore](https://open.spotify.com/track/35McfxrHiI8EfngVzxxMX9) | [Environments](https://open.spotify.com/artist/72DfMqmMQyr6LraqB7nEKv) | [Environments 1](https://open.spotify.com/album/7fuYzFfLvmByCvxCAhcTd1) | 29:38 | 2022-05-25 | 2022-07-29 |
 | [The Space Between](https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 21:53 | 2022-05-25 | 2022-07-29 |
 | [The Space Between](https://open.spotify.com/track/7pes8uQmsmsHtFiG1eFsJM) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 21:53 | 2022-07-15 |  |
-| [The Stranger's House](https://open.spotify.com/track/2OM8TfeXCJHtpBEDHl2hFE) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/23JC7fsMtFwA2HtaccrgjD) | 11:23 | 2022-05-25 |  |
+| [The Stranger's House](https://open.spotify.com/track/2OM8TfeXCJHtpBEDHl2hFE) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/23JC7fsMtFwA2HtaccrgjD) | 11:23 | 2022-05-25 | 2023-02-03 |
+| [The Stranger's House](https://open.spotify.com/track/3exdzBiyPOxYcYnQ3CRcKX) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/3wEyGlUwaK3EdCLBqBzLvi) | 11:23 | 2023-01-27 |  |
 | [The Wasted Consequence](https://open.spotify.com/track/6zDGnFjoBmp0V1mwVA2a2A) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Giulio Aldinucci](https://open.spotify.com/artist/0nKxkIuJjb8gmvW6rATnsm) | [Consequence Shadows](https://open.spotify.com/album/2yT9OVMU3o5Ldj7oQmw9bY) | 12:10 | 2022-05-25 |  |
 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 | 2022-05-25 |  |
 | [Theme The Antwerp Killer](https://open.spotify.com/track/2etGfO1DiRu4miFJiiwhMm) | [Eric Feremans](https://open.spotify.com/artist/1H8r19XbTTVokkSkSzdU5n) | [The Antwerp Killer](https://open.spotify.com/album/2ySpwANL8Kge95gRWjXmAN) | 11:26 | 2022-05-25 | 2022-07-29 |

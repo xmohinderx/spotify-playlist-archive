@@ -1525,6 +1525,42 @@
     },
     {
       "album": {
+        "name": "Decency",
+        "url": "https://open.spotify.com/album/4OoW6upTBO0ZfkHDGEDTh1"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Decency",
+      "url": "https://open.spotify.com/track/4bgvbMk4pw19Dk62Q6ClPz"
+    },
+    {
+      "album": {
+        "name": "DEMONS",
+        "url": "https://open.spotify.com/album/1d5CpqkzGNcEAZvemWp2KL"
+      },
+      "artists": [
+        {
+          "name": "WHO SHOT SCOTT",
+          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/2EI5puz3355OrlbJbJARgS"
+    },
+    {
+      "album": {
         "name": "Designer Love",
         "url": "https://open.spotify.com/album/19mewYhS8cosKSnVJczvYW"
       },
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 137943,
       "name": "Flex",
       "url": "https://open.spotify.com/track/3Cijp6fEvRThV1D0Xj9ux7"
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 165480,
       "name": "Foreign Currency",
       "url": "https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu"
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 164000,
       "name": "Get Like Me",
       "url": "https://open.spotify.com/track/3SOJHgd3Q0BWT2gVQ7bgoe"
@@ -3165,6 +3201,28 @@
     },
     {
       "album": {
+        "name": "THE EVIL IN WHICH WE THRIVE",
+        "url": "https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!",
+      "url": "https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs"
+    },
+    {
+      "album": {
         "name": "ARIKI",
         "url": "https://open.spotify.com/album/2mOraxK8PvqN5jnBD8xIGh"
       },
@@ -3436,6 +3494,24 @@
       "duration_ms": 226063,
       "name": "Like I'm Trapped",
       "url": "https://open.spotify.com/track/7bHcQkBfaL38cxdABSOoi3"
+    },
+    {
+      "album": {
+        "name": "LIKE THAT!",
+        "url": "https://open.spotify.com/album/2kBVyodgrV29T3OEbDPDEb"
+      },
+      "artists": [
+        {
+          "name": "MVRTYR",
+          "url": "https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98769,
+      "name": "LIKE THAT!",
+      "url": "https://open.spotify.com/track/5FIF3EMXHbHjjGzCPfnhh8"
     },
     {
       "album": {
@@ -3883,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Mi Nuh Like",
+        "url": "https://open.spotify.com/album/75RqkVHqZyV6wJCqFyP2XH"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195432,
+      "name": "Mi Nuh Like",
+      "url": "https://open.spotify.com/track/3zLc3jFkHu9ZUAwR83LDyZ"
+    },
+    {
+      "album": {
         "name": "FS Type Beats",
         "url": "https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL"
       },
@@ -4288,6 +4382,32 @@
       "duration_ms": 165521,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/6evG9IJ0ewjyHtRyWSCm4r"
+    },
+    {
+      "album": {
+        "name": "Woodrich",
+        "url": "https://open.spotify.com/album/5yUp2iOWGcQXN7I9qE5EOg"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5"
+        },
+        {
+          "name": "Bently",
+          "url": "https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/5Ia4Fea9xBJl5ijUiJAY0V"
     },
     {
       "album": {
@@ -5460,7 +5580,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 212571,
       "name": "S T C",
       "url": "https://open.spotify.com/track/0xu6kL34INHn1dz9LEGZGR"
@@ -5770,6 +5890,36 @@
       "duration_ms": 179130,
       "name": "Sneaky Link (feat. Hooks & Lisi)",
       "url": "https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON"
+    },
+    {
+      "album": {
+        "name": "Solid Rock (feat. William Barton)",
+        "url": "https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU"
+      },
+      "artists": [
+        {
+          "name": "Goanna",
+          "url": "https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el"
+        },
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6"
+        },
+        {
+          "name": "Tasman Keith",
+          "url": "https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1"
+        },
+        {
+          "name": "William Barton",
+          "url": "https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Solid Rock (feat. William Barton)",
+      "url": "https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6"
     },
     {
       "album": {
@@ -6130,7 +6280,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 114000,
       "name": "The One",
       "url": "https://open.spotify.com/track/20v2DDGhE0QJCMqbcuowxg"
@@ -6178,8 +6328,8 @@
       },
       "artists": [
         {
-          "name": "Jono",
-          "url": "https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR"
+          "name": "Jono The Six",
+          "url": "https://open.spotify.com/artist/70xrtywVPXYqs3dkIUUME8"
         },
         {
           "name": "JAHMED",
@@ -6460,6 +6610,24 @@
       "duration_ms": 162592,
       "name": "Tracy Grimshaw",
       "url": "https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya"
+    },
+    {
+      "album": {
+        "name": "Tragic",
+        "url": "https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq"
+      },
+      "artists": [
+        {
+          "name": "Sacredd",
+          "url": "https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Tragic",
+      "url": "https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE"
     },
     {
       "album": {
@@ -6912,6 +7080,24 @@
       "duration_ms": 195918,
       "name": "We Ain't The Same",
       "url": "https://open.spotify.com/track/239x84VQ0LsmOHTxkaGb33"
+    },
+    {
+      "album": {
+        "name": "WE HERE NOW",
+        "url": "https://open.spotify.com/album/67CEXT1GE4V9iK1jNmaNta"
+      },
+      "artists": [
+        {
+          "name": "Th4 W3st",
+          "url": "https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "WE HERE NOW",
+      "url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166"
     },
     {
       "album": {

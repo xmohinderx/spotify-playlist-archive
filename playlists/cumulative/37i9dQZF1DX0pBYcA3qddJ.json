@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 173069,
       "name": "Far from Me, a Memory",
       "url": "https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 210000,
       "name": "Me Time",
       "url": "https://open.spotify.com/track/2wd6t9a86EJhesgMIv33FJ"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 165281,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6yEdyZYuw1XfX2wVpcjhvk"
@@ -3318,6 +3318,46 @@
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "album": {
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
+      "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
+    },
+    {
+      "album": {
+        "name": "sun",
+        "url": "https://open.spotify.com/album/2t22KCfl9jNCnJVu6e3LYg"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "sun",
+      "url": "https://open.spotify.com/track/0Q7MYDTYYQPjjHT3HejBe9"
     },
     {
       "album": {
@@ -4323,6 +4363,32 @@
     },
     {
       "album": {
+        "name": "Two Pianos 2",
+        "url": "https://open.spotify.com/album/4HLbVKaMnS7HmHzzALpc3V"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Kyohei Sorita",
+          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
+        },
+        {
+          "name": "Keigo Mukawa",
+          "url": "https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1226234,
+      "name": "\u30cf\u30a4\u30c9\u30f3\u306e\u4e3b\u984c\u306b\u3088\u308b\u5909\u594f\u66f2 \u4f5c\u54c156b",
+      "url": "https://open.spotify.com/track/4jzys4wseDYT1w3V85ESGC"
+    },
+    {
+      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -4378,7 +4444,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 366866,
       "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u7b2c2\u756a\u5909\u30ed\u77ed\u8abf\u4f5c\u54c136 \u7b2c2\u697d\u7ae0: \u30ce\u30f3\u30fb\u30a2\u30ec\u30b0\u30ed\u301c\u30ec\u30f3\u30c8 - 1931\u5e74\u7248",
       "url": "https://open.spotify.com/track/6Bp3xMcWwvBAZn8YYM6V9w"
@@ -4468,7 +4534,7 @@
           "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
-          "name": "\u4f50\u85e4\u6674\u771f",
+          "name": "Haruma Sato",
           "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
         },
         {
@@ -4792,6 +4858,28 @@
       "duration_ms": 186125,
       "name": "\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV1007 ~\u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/1pXdThGmXy4v3RlCQnFTSE"
+    },
+    {
+      "album": {
+        "name": "\u77f3\u306e\u6559\u4f1a -\u96e8\u97f3\u306e\u4e8c\u91cd\u594f-",
+        "url": "https://open.spotify.com/album/3EGtWWXcd5jJWM6qTjxnDa"
+      },
+      "artists": [
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        },
+        {
+          "name": "\u6728\u6751\u4ec1\u661f",
+          "url": "https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329159,
+      "name": "\u77f3\u306e\u6559\u4f1a - \u96e8\u97f3\u306e\u4e8c\u91cd\u594f",
+      "url": "https://open.spotify.com/track/65SWWSNv8prKy3UCF4oJLX"
     },
     {
       "album": {

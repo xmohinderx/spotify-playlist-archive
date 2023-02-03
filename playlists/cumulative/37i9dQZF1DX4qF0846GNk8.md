@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: علي قدورة ونور التوت
 
-126 songs - 7 hr 49 min
+127 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 | 2022-11-24 |
 | [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 | 2022-10-17 |
 | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/track/6cTjz8NSpckBwPwSmrILZd) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/album/4kiupm5N7gg9BD22G03eVC) | 3:29 | 2022-10-24 |  |
+| [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 | 2023-02-02 |  |
 | [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 | 2022-11-14 |  |
 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2022-07-19 |  |
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-12-16 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 | 2022-12-24 |
 | [ندمان يا باشا عارف انى غلطان](https://open.spotify.com/track/65m44BVw6gFWS9ep5hkjg9) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ندمان عارف يا باشا اني انا غلطان](https://open.spotify.com/album/2sazOwQENSqmf0TWo5oww7) | 4:15 | 2022-10-07 | 2023-01-03 |
 | [نفسي ثم نفسي](https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx) | [نفسي ثم نفسي](https://open.spotify.com/album/044urXR20UqWyDbYmQ7moP) | 4:04 | 2021-12-16 | 2022-02-25 |
-| [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-16 |  |
+| [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-16 | 2023-02-03 |
 | [هل تعلم ان المصلحه](https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هل تعلم ان المصلحه](https://open.spotify.com/album/08D2FBmma4ZQWHICYpqywb) | 6:20 | 2022-01-10 | 2022-07-20 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 |  |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/4qE4iUKv7mH6mdpsiBJSko) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/7LgRSY8OKHAGmejreFPGwz) | 6:25 | 2021-12-16 | 2022-07-29 |

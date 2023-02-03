@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Gabi Hartmann",
+  "description": "The best jazz new releases. Photo : Alfa Mist",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 316852,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz"
+    },
+    {
+      "album": {
+        "name": "4th Feb (Stay Awake) / BC",
+        "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
     },
     {
       "album": {
@@ -740,7 +758,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 294840,
       "name": "Convergency",
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 290259,
       "name": "Purple Soul",
       "url": "https://open.spotify.com/track/0UBw67u8gN9khlkXWjT84V"
@@ -3369,6 +3387,44 @@
     },
     {
       "album": {
+        "name": "Street of Minarets",
+        "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Adriano Dos Santos Tenorio",
+          "url": "https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261614,
+      "name": "Sudra Funk",
+      "url": "https://open.spotify.com/track/6DFJkfHrSzpBT8vU2APNDe"
+    },
+    {
+      "album": {
         "name": "Sugar Boogie",
         "url": "https://open.spotify.com/album/3cBiGBlG8iO4b3ApFACage"
       },
@@ -3460,6 +3516,24 @@
       "duration_ms": 189542,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g"
+    },
+    {
+      "album": {
+        "name": "Taking a Chance on Love",
+        "url": "https://open.spotify.com/album/4M0mXr3Tqlik3mEq8gd6Sa"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/00ItGhp6jpOUHX7ELUTcNB"
     },
     {
       "album": {
@@ -3558,7 +3632,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 288231,
       "name": "The Only Thing Missing Is You",
       "url": "https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh"

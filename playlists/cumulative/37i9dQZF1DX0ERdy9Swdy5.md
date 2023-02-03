@@ -2,7 +2,7 @@
 
 ### [Salsa Hits: Los 90s](https://open.spotify.com/playlist/37i9dQZF1DX0ERdy9Swdy5)
 
-> Los mejor de los 90s\. The Best of the 90s
+> Los mejor de los 90s\. The Best of the 90s.
 
 155 songs - 12 hr 33 min
 

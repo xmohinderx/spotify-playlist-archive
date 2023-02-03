@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-98 songs - 6 hr 20 min
+100 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Closed Curve](https://open.spotify.com/track/3tXMsUB2y34fg0FHvI4XJj) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY) | 5:09 | 2021-02-19 |  |
 | [Discreet](https://open.spotify.com/track/5XY5AQGbImphGlfbPQBuYd) | [Sami Baha](https://open.spotify.com/artist/0NqV34fP3RUaWutqpupv7c), [Dimzy](https://open.spotify.com/artist/45L2JKXSD1OAxJSKpMjZie) | [Free For All](https://open.spotify.com/album/6WqcdCBbOxEKDxRDWs9cQF) | 2:31 | 2021-02-19 | 2022-07-29 |
 | [Discreet](https://open.spotify.com/track/7gcqRGADHoNfA2wEhbE0S1) | [Sami Baha](https://open.spotify.com/artist/0NqV34fP3RUaWutqpupv7c), [Dimzy](https://open.spotify.com/artist/45L2JKXSD1OAxJSKpMjZie) | [Free for All](https://open.spotify.com/album/2xS0JhHacgOzFSwDdt9Pzk) | 2:31 | 2021-02-19 |  |
+| [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 | 2021-02-19 |  |
 | [Dollaz](https://open.spotify.com/track/3xYQWpjVadKo8ybW0orIHL) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [First Body](https://open.spotify.com/album/2DGdiYDV8l74b53vUiW3K2) | 3:13 | 2021-02-19 | 2022-07-29 |
-| [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 | 2021-02-19 |  |
+| [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 | 2021-02-19 | 2023-02-03 |
 | [Drown U](https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 2:37 | 2021-02-19 |  |
 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 | 2021-02-19 |  |
 | [Familiars](https://open.spotify.com/track/5ckxGXw6Awq0Qrzj2IjmVd) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/1vx9B58AqRjAlvzH0pOWgu) | 2:54 | 2021-02-19 |  |
@@ -91,7 +92,8 @@
 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 | 2021-02-19 |  |
 | [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 | 2021-02-19 |  |
 | [Razzy Beat](https://open.spotify.com/track/7ycvxGV9cnYbyMvoBOvQVg) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/4PAXUJHrxzSqPqt3tmCc34) | 3:19 | 2021-02-19 | 2022-07-29 |
-| [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 | 2021-02-19 |  |
+| [REACHUPDONTSTOP](https://open.spotify.com/track/3yd8ahe0iux1u6LyUWp26v) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/3q1BSfc3AumAd7oSk11XFd) | 4:00 | 2021-02-19 |  |
+| [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 | 2021-02-19 | 2023-02-03 |
 | [Scanners 2002](https://open.spotify.com/track/3i4r6I6CQB8eO6DKXl9pF7) | [Lurka](https://open.spotify.com/artist/1fRMz4kvu4hItUYYZHwZ08) | [Damage EP](https://open.spotify.com/album/7xHOM03xLz7cEfNDRTVy11) | 2:42 | 2021-02-19 |  |
 | [Silkworm](https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/3kmokPfbCakHuInhmWz1xp) | 5:25 | 2021-02-19 | 2023-02-02 |
 | [Silkworm](https://open.spotify.com/track/6kfGTQ19X0QCN7mOvxXcH0) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/5tHnpwtNjuutI0hIsmsTMN) | 5:25 | 2021-02-19 |  |

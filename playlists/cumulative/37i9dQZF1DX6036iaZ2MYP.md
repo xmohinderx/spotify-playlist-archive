@@ -4,7 +4,7 @@
 
 > 
 
-124 songs - 6 hr 18 min
+126 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-07-13 | 2022-09-15 |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-07-13 | 2022-08-26 |
 | [Bella](https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Bella](https://open.spotify.com/album/0m06zefSt575K7uCdShGxr) | 3:20 | 2022-12-08 |  |
+| [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-02 |  |
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-19 |  |
 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 | 2022-07-13 | 2022-12-02 |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-07-13 | 2023-01-13 |
@@ -71,6 +72,7 @@
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-08-25 |  |
 | [Likkle Bit](https://open.spotify.com/track/15zO55hNovkg2mjCW2AiD9) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Likkle Bit](https://open.spotify.com/album/3UuoJvhfAud6cN8mbVCUC3) | 3:37 | 2022-08-29 |  |
 | [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 |  |
+| [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 | 2023-02-02 |  |
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2022-11-10 |  |
 | [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 | 2022-09-01 | 2022-09-15 |
 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 | 2022-09-08 |  |

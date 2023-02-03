@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,012 likes - 95 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,097 likes - 95 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 31 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
 | 32 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
 | 33 | [Heart Chakra \- Breath of Love](https://open.spotify.com/track/0AvQspmvZCDfbTAJVphhwW) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Chakra Healing](https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O) | 7:45 |
-| 34 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
-| 35 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
+| 34 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
+| 35 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
 | 36 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
 | 37 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 38 | [Storm of Prayers](https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI) | [Prana: Music for Yoga, Meditation & Relaxation](https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1) | 10:24 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 59 | [Barefoot](https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:07 |
 | 60 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
 | 61 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 |
-| 62 | [Unbroken Flow](https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn) | [Anzan](https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA), [Tomas Walker](https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr) | [Zen Music for Relaxation Vol\. 1 & 2](https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts) | 2:06 |
-| 63 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
+| 62 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
+| 63 | [Unbroken Flow](https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn) | [Anzan](https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA), [Tomas Walker](https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr) | [Zen Music for Relaxation Vol\. 1 & 2](https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts) | 2:06 |
 | 64 | [Loving Kindness](https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd) | [Ashana](https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW) | [All Is Forgiven](https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3) | 9:21 |
 | 65 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 |
 | 66 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 80 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 81 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Indian Music Prime](https://open.spotify.com/artist/63GuvIS5DZF57t28VmMiR2) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
 | 82 | [Spheres Of The Angels](https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1) | [Shajan](https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv) | [The Healing Touch \- Music for Reiki and Meditation, Vol\. 2](https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp) | 15:03 |
-| 83 | [Light and Color](https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb) | [One Trybal](https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh) | [Yoga World Meditation Vol .1](https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h) | 4:34 |
-| 84 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
+| 83 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
+| 84 | [Light and Color](https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb) | [One Trybal](https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh) | [Yoga World Meditation Vol .1](https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h) | 4:34 |
 | 85 | [Singing Wire](https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY) | [\#Sereneyogaselection](https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw) | 6:58 |
 | 86 | [Relaxation Music](https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt) | [Qi Gong Academy](https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN) | [Jardin Zen \- Musique Asiatique avec des Sons de la Nature](https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM) | 5:22 |
 | 87 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 | 95 | [Approaching the North](https://open.spotify.com/track/0YrE5p5ObxDRUhBJR3jyN2) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Reiki Mountains](https://open.spotify.com/album/4XIQVj9V9Q2lHW5Vos4r2Z) | 5:15 |
 
-Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDNkMmExN2YyOWU0MDcwZDM2YzYxY2QyYjcyZGZhNWRk`
+Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDY1NzAzZjgxNThmMGVhYzBhOTVjZmVjZjNmODBmOTM4`

@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 231579,
       "name": "Aalum Thee - From \"Jana Gana Mana\"",
       "url": "https://open.spotify.com/track/0qUKUXQj2xlTrAKMG4xTG6"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 202500,
       "name": "Aaraanu Athu? (From \"Jo & Jo\")",
       "url": "https://open.spotify.com/track/45hT6fBPYL0T0nXGxetOql"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 86999,
       "name": "Ingaatt Nokanda Kannukale (Male Version) (From \"Jaya Jaya Jaya Jaya Hey\")",
       "url": "https://open.spotify.com/track/1BSEqzHnRgJK1nGI7WcPVR"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 232513,
       "name": "Kannil Kannil",
       "url": "https://open.spotify.com/track/380y4r3fjQgSnU8pOZ2qzi"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 232513,
       "name": "Kannil Kannil (From \"Sita Ramam (Malayalam)\")",
       "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 234135,
       "name": "Maangalyam",
       "url": "https://open.spotify.com/track/2h9kdoLQVD3a4XFrOePsAd"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 212330,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 241042,
       "name": "Nazarethin",
       "url": "https://open.spotify.com/track/174Okcb7FsHk1RD5mna3UZ"
@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Major - Malayalam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dRUHOrR5JC1COoUbQEicf"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Oh Isha",
+      "url": "https://open.spotify.com/track/0uiHifJimwcLNdWkpBehhz"
+    },
+    {
+      "album": {
         "name": "Ole Melody (From \"Thallumaala\")",
         "url": "https://open.spotify.com/album/4clqjLZyp6cmtvb0KJwFkQ"
       },
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 242005,
       "name": "Ole Melody",
       "url": "https://open.spotify.com/track/1rMEccgwbKt3qmAXeBqOyZ"
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 242005,
       "name": "Ole Melody - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/4wMpv5KCDYSCQ0rWwKON0E"
@@ -1674,10 +1696,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 118688,
       "name": "Onakka Munthiri",
       "url": "https://open.spotify.com/track/6r3Xe2n6lzIV3SrP2s0teO"
+    },
+    {
+      "album": {
+        "name": "Onakka Munthiri (From \"Hridayam\")",
+        "url": "https://open.spotify.com/album/5oaae3jvP4INbR9G3OwnTN"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Divya Vineeth",
+          "url": "https://open.spotify.com/artist/6Tbn00OQg5ZSjtvHOez29z"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118688,
+      "name": "Onakka Munthiri - From \"Hridayam\"",
+      "url": "https://open.spotify.com/track/456k6sqokXjOgnxzC71UQG"
     },
     {
       "album": {
@@ -1908,7 +1952,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 203180,
       "name": "Poomaram",
       "url": "https://open.spotify.com/track/6WwyJN6PQ0ptirc0dU4RZM"
@@ -1978,6 +2022,32 @@
       "duration_ms": 376057,
       "name": "Raftaara - From \"Lucifer\"",
       "url": "https://open.spotify.com/track/4BnwmUfcnypLs5EGGCljIR"
+    },
+    {
+      "album": {
+        "name": "Rithuragam (From \"Vaashi\")",
+        "url": "https://open.spotify.com/album/5BV41gcOJcp88Yq2F6irZw"
+      },
+      "artists": [
+        {
+          "name": "Kailas",
+          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
+        },
+        {
+          "name": "Keshav Vinod",
+          "url": "https://open.spotify.com/artist/1wu1Pg4sb54JwUhlfBP5FS"
+        },
+        {
+          "name": "Sruthy Sivadas",
+          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287183,
+      "name": "Rithuragam - From \"Vaashi\"",
+      "url": "https://open.spotify.com/track/0bAA7DMEYn8oWchAyU8ZhR"
     },
     {
       "album": {
@@ -2231,6 +2301,32 @@
     },
     {
       "album": {
+        "name": "Minnal Murali",
+        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
+      },
+      "artists": [
+        {
+          "name": "Narayani Gopan",
+          "url": "https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI"
+        },
+        {
+          "name": "Mithun Jayaraj",
+          "url": "https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh"
+        },
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327155,
+      "name": "Uyire",
+      "url": "https://open.spotify.com/track/14eXAcAvCvirf0dSdDrgu2"
+    },
+    {
+      "album": {
         "name": "Gauthamante Radham",
         "url": "https://open.spotify.com/album/4zWNhzZELsqulV8Y2aSZeq"
       },
@@ -2272,7 +2368,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 327155,
       "name": "Uyire - From \"Minnal Murali\"",
       "url": "https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg"

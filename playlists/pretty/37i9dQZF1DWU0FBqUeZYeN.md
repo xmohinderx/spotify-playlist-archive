@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,986 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,159 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 21 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 22 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 23 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
-| 24 | [Hero](https://open.spotify.com/track/3MBImoJoOnqCyzW3L4WKfK) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! 75](https://open.spotify.com/album/5WvkGu24ipDKjOFzlXsDIy) | 7:11 |
+| 24 | [Hero](https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2) | 7:11 |
 | 25 | [Nadir's Big Chance \- 2006 Digital Remaster](https://open.spotify.com/track/4tu0NNBNeVMIjMznKBHjtn) | [Peter Hammill](https://open.spotify.com/artist/7uBH52YnXUbJ0ssoyNqQTB) | [Nadir's Big Chance](https://open.spotify.com/album/0BDKAyEOyGkWLNkXIf53S3) | 3:33 |
 | 26 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 27 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 58 | [I'm Eighteen](https://open.spotify.com/track/3YU9X8ryOR20beT7wOlDIJ) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Love It to Death](https://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7) | 3:00 |
 | 59 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 60 | [I'm a Bug](https://open.spotify.com/track/5g9utKqn0nJQr1MVvGbVCy) | [Urinals](https://open.spotify.com/artist/0fWJsXOUH83NNlUuVcszVK) | [Negative Capability...Check it Out!](https://open.spotify.com/album/1UN3YfkaEQN2b5qqis1J0H) | 1:12 |
-| 61 | [Search and Destroy \- Iggy Pop Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:28 |
+| 61 | [Search and Destroy \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:30 |
 | 62 | [Dirty Water](https://open.spotify.com/track/3NINDFPIYnyT26cWWRomOQ) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Dirty Water \(Expanded Edition\)](https://open.spotify.com/album/621zErvBJeovty6dAx4PDn) | 2:47 |
 | 63 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 64 | [We're Pretty Quick](https://open.spotify.com/track/0hoVOqZJefCa82xfC91Kr7) | [The Chob](https://open.spotify.com/artist/6ob2BuDopHhOgjLascXxLH) | [Sixties Archives, Vol\. 4: Florida & New Mexico Punk](https://open.spotify.com/album/1n0FH0bBSkSu6kDElKCeNa) | 2:24 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMDUxMGFiMzFhNDhmZjY5Y2I3OTE1MjY2ZGViNTZlMTE1`
+Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMGEwOTQyYmVmNjgwMGYwYzE0YjYyYTBhMGFjNThmMjBh`

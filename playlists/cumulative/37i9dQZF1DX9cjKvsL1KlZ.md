@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-301 songs - 14 hr 26 min
+303 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Free Bizzy , Pt\. 2](https://open.spotify.com/track/122HITMgjIRIWpWWrGs4ub) | [Leeky G Bando](https://open.spotify.com/artist/6YEOsQM04mRbJT3dRDv9Ag) | [Free Bizzy , Pt\. 2](https://open.spotify.com/album/6pVIB7YaHu00iHiPWkcfND) | 2:15 | 2022-07-29 | 2022-10-25 |
 | [Free Bizzy, Pt\. 2](https://open.spotify.com/track/3qYvUTA7AhJwx6lvxvCik1) | [Leeky G Bando](https://open.spotify.com/artist/2DDdkJNNuomH4Px5AJ8p2d) | [Free Bizzy, Pt\. 2](https://open.spotify.com/album/6sr74fUn57D13Nje1chRdF) | 2:15 | 2022-07-29 | 2022-11-09 |
 | [G in his grill](https://open.spotify.com/track/1HGbS14PUxiG1QQJ7KYnKw) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Merry Wickmas 2 \(Deluxe\)](https://open.spotify.com/album/4k1GwL4EHbSozGmKpBLmV7) | 1:20 | 2022-06-17 | 2022-07-02 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-02-01 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-02-01 | 2023-02-03 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-02-01 |  |
 | [Gangstas](https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 | 2022-03-01 | 2022-05-11 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2022-03-25 | 2022-12-06 |
 | [Get Low](https://open.spotify.com/track/1giM5WoZV4CZ2yhSdRqDCa) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [ABG Neal](https://open.spotify.com/artist/6GiUHOmKrEanWhJp5QZvfV) | [DON'T SLEEP](https://open.spotify.com/album/0giyK2LuJ6wcfVN2QXDIlB) | 2:08 | 2022-03-01 | 2022-05-11 |
@@ -205,7 +206,8 @@
 | [Popped & Panicking](https://open.spotify.com/track/0P2L3n7rwiNX0KUfoy1Wuh) | [ABG Neal](https://open.spotify.com/artist/6GiUHOmKrEanWhJp5QZvfV) | [Popped & Panicking](https://open.spotify.com/album/0iIiYQgOE9dShhZmz84uSC) | 1:21 | 2022-07-29 | 2022-08-17 |
 | [Pray 4 Me](https://open.spotify.com/track/1wDAnC2XbwoDwbOpowab5H) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Pray 4 Me](https://open.spotify.com/album/0mipBFGRTFVyKeCupIXgly) | 2:14 | 2022-06-17 |  |
 | [Pretendo](https://open.spotify.com/track/1ZRlDcwda9ipvwlYLxdZ3G) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wick The Wizard](https://open.spotify.com/album/24lIwmoIuDulxSR9u5crmP) | 1:23 | 2022-10-07 |  |
-| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-02-01 |  |
+| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-02-01 | 2023-02-03 |
+| [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-02-01 |  |
 | [Promises](https://open.spotify.com/track/5LCNAtpHz2UekgRCkUedug) | [Leeky Bandz](https://open.spotify.com/artist/08UUGGbQJQENS4gOd6VU00) | [Life After Future](https://open.spotify.com/album/2fQ5deidLKC9hkT00trC4y) | 3:03 | 2022-06-17 | 2022-07-02 |
 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 | 2022-03-25 |  |
 | [PTSD](https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:19 | 2022-12-05 |  |

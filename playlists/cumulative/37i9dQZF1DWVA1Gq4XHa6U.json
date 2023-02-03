@@ -941,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Eye Know",
+        "url": "https://open.spotify.com/album/22t2IibRXLtbyPriEJgm41"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252671,
+      "name": "Eye Know",
+      "url": "https://open.spotify.com/track/4sDXEltU35xgga78VFvmJe"
+    },
+    {
+      "album": {
         "name": "It Takes a Thief",
         "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
       },

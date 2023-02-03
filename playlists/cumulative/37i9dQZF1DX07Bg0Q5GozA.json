@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Patrick Wolf",
+  "description": "New music off the beaten track. Cover: Amtrac",
   "name": "OFF POP",
   "tracks": [
     {
@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Are You Alive?",
+        "url": "https://open.spotify.com/album/1KGbqzfRRBbk5H6xlvjZj7"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Penelope Isles",
+          "url": "https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Are You Alive? - Edit",
+      "url": "https://open.spotify.com/track/3wAzKpN1NSsvTlNN69Zm7x"
+    },
+    {
+      "album": {
         "name": "In The Shadows",
         "url": "https://open.spotify.com/album/0nM2K0f7dtBjgkufELqfhC"
       },
@@ -164,7 +186,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 201356,
       "name": "Bait",
       "url": "https://open.spotify.com/track/3aEqoNDaoHSGDjH6GuZu9o"
@@ -890,7 +912,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 193435,
       "name": "echo",
       "url": "https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00"
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 270813,
       "name": "get it done - Edit",
       "url": "https://open.spotify.com/track/62zJ1of7rLArVHfizrvCiO"
@@ -1521,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
+        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "Is It What It Feels Like to Feel Like This? - Myd Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0jL7eFRciFuzPnFU4hLjUG"
+    },
+    {
+      "album": {
         "name": "It Could Be Nice",
         "url": "https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK"
       },
@@ -1758,6 +1802,24 @@
       "duration_ms": 207775,
       "name": "La Danse Heureuse - Edit",
       "url": "https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH"
+    },
+    {
+      "album": {
+        "name": "Eleganza",
+        "url": "https://open.spotify.com/album/5IbiJ323rZDRK6XqK9PAXR"
+      },
+      "artists": [
+        {
+          "name": "Rhode & Brown",
+          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Let Yoself Go - Edit",
+      "url": "https://open.spotify.com/track/3DH2EGnxAuunk59UDFs9EA"
     },
     {
       "album": {
@@ -2199,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220393,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
+    },
+    {
+      "album": {
         "name": "No Answer",
         "url": "https://open.spotify.com/album/0kBKYtFUusBMfhHMF6tR6H"
       },
@@ -2214,6 +2294,24 @@
       "duration_ms": 343933,
       "name": "No Answer",
       "url": "https://open.spotify.com/track/1Mn00Kq0cBXgksYJ3ERnwc"
+    },
+    {
+      "album": {
+        "name": "Extra Time",
+        "url": "https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/0D8T0ibtaX7PkBcpKlzo3Z"
     },
     {
       "album": {
@@ -2304,7 +2402,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 271656,
       "name": "Oceans Niagara",
       "url": "https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ"
@@ -2494,7 +2592,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 175520,
       "name": "Picking Up (feat. Deb Never)",
       "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
@@ -2694,7 +2792,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 208480,
       "name": "running in circles",
       "url": "https://open.spotify.com/track/2Nek0E8RoW0RshXtE0N3DT"
@@ -3163,6 +3261,32 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1O5xnJpHgn1KeCKf4lII0G"
+      },
+      "artists": [
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
+        },
+        {
+          "name": "Feral Garden",
+          "url": "https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251803,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6VkEyJbgKPyXtweiYsEPcj"
+    },
+    {
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -3222,7 +3346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
@@ -3488,6 +3612,24 @@
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2R41dEy2THxQO6FJcqBZF8"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296750,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4fPbI1iRkmQcJaghebMG2u"
     },
     {
       "album": {

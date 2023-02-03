@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vaathi
 
-464 songs - 1 day 4 hr 50 min
+465 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Paruvame](https://open.spotify.com/track/1zNojl3cLPd7YUMvFm4IzO) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 3:28 | 2022-08-23 | 2022-09-15 |
 | [Patak Patak \- 1 Min Music](https://open.spotify.com/track/31kAiaXUVp1ZLtuFmkhkYr) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manasvini Gopal](https://open.spotify.com/artist/1BrCEQF7TR8lWb933yxYTO) | [Patak Patak \- 1 Min Music](https://open.spotify.com/album/1PrSA2WF0n04Xjvk1wq9Xg) | 1:06 | 2022-09-13 | 2022-10-15 |
 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 | 2022-05-11 | 2022-12-27 |
+| [Pathu Murai \(From "Kick"\)](https://open.spotify.com/track/48MmEkQTLDaDNWrZ0immjE) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Pathu Murai \(From "Kick"\) \- Single](https://open.spotify.com/album/3caRgmYWGA8rNa9vJ9hpgr) | 4:34 | 2023-02-02 |  |
 | [Pattiyaare \(From "One Way"\)](https://open.spotify.com/track/530mvB2dyK3zAlNMu0dunW) | [Sundarayyar](https://open.spotify.com/artist/0RsXi2EHJ5ZqODk5NcdMUi), [Jayalakshmi Gopalan](https://open.spotify.com/artist/4aphdbTiTKtTIVm77kYGKf), [Ashwin Hemanth](https://open.spotify.com/artist/0Utvb3mZn8pjs9AI2dM8DG) | [Pattiyaare \(From "One Way"\)](https://open.spotify.com/album/3HydTyt6mKtbtrf5ZVevyG) | 3:48 | 2022-11-02 | 2022-11-10 |
 | [Pennin Nilai Idhu Dhaana \(From "Banaras"\)](https://open.spotify.com/track/6rzywbloxqgI7lg6II3ooi) | [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Pennin Nilai Idhu Dhaana \(From "Banaras"\)](https://open.spotify.com/album/0hZM5GFWvWPmKNBE1nRitH) | 4:01 | 2022-07-25 | 2022-08-03 |
 | [Perinba Kadhal](https://open.spotify.com/track/60lEJmL7rSTVzU021Ht7z2) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 3:37 | 2022-08-23 | 2022-09-09 |

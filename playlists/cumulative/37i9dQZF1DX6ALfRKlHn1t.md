@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-207 songs - 11 hr 52 min
+208 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 | 2021-03-24 |  |
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2021-03-24 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-06-17 | 2023-02-01 |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-10-07 |  |
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 | 2022-07-29 |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-24 |  |
 | [Golden Age](https://open.spotify.com/track/1bFjZtKMLAd63AILwrGl5l) | [Late Night Episode](https://open.spotify.com/artist/3ZvruFeycdpcMPS4EfESRk) | [Golden Age](https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z) | 2:52 | 2021-03-24 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-26 | 2022-06-16 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-06-24 |  |
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2021-03-24 | 2022-07-29 |
-| [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 | 2022-06-24 |  |
+| [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 | 2022-06-24 | 2023-02-03 |
 | [That's All I Need](https://open.spotify.com/track/60p2R7bCS2DW1mixI5HUv9) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [That's All I Need](https://open.spotify.com/album/5ftiJJN6Xz3pmtE197hyJS) | 3:33 | 2021-03-24 | 2022-04-27 |
 | [The Way It Was](https://open.spotify.com/track/1b91Hfg3v9vxqkAxRZCSEc) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [The Way It Was](https://open.spotify.com/album/4VRfCkxgVua6OCPlTn1ubu) | 3:49 | 2021-03-24 | 2022-04-27 |
 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 | 2021-03-24 |  |

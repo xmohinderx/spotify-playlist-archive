@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156357,
+  "num_followers": 156342,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDk5YWVhMDMxZDg3NzBjNDk5MTZmNzNiZWE3MDFiNTg4",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDY5ZTIyNGRhNmFhODBiM2IxZWMzYzZmNjIxZjJlYTZk",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "If I Ruled The World",
+        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Mila Josef",
+          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "If I Ruled The World",
+      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Impossible (feat. John Martin)",
         "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 171133,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "If I Ruled The World",
-        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Mila Josef",
-          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "If I Ruled The World",
-      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Remember (David Guetta VIP Remix)",
-        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 230443,
-      "name": "Remember - David Guetta VIP Remix",
-      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn) [Topic Remix]",
         "url": "https://open.spotify.com/album/4ymy3CNtwCS2eCKMa4G88C"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 152986,
       "name": "Tick Tock (feat. 24kGoldn) - Topic Remix",
       "url": "https://open.spotify.com/track/7rOkOLolHVsZP6GQ6UPo0e"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Remember (David Guetta VIP Remix)",
+        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 230443,
+      "name": "Remember - David Guetta VIP Remix",
+      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
     },
     {
       "added_at": "2022-11-10 23:00:00",

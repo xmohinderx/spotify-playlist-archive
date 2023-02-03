@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,727,180 likes - 101 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,727,440 likes - 101 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 |
+| 1 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
 | 2 | [JUST FRIENDS ?](https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [JUST FRIENDS ?](https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax) | 2:43 |
 | 3 | [Back Flippin](https://open.spotify.com/track/112f64x3xitpDPHfr98T01) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Back Flippin](https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY) | 2:22 |
 | 4 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 31 | [Overdose](https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Overdose](https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C) | 2:08 |
 | 32 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 |
 | 33 | [Tuci](https://open.spotify.com/track/2aZP3ISsBBOGpNRU672aQV) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Tuci](https://open.spotify.com/album/4onDNOAndPqPHuqfHNqwiQ) | 1:36 |
-| 34 | [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 |
+| 34 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
 | 35 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [Official Breezy](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
 | 36 | [Luv Drunk](https://open.spotify.com/track/0QOXUbu5PXFPEsle2RphS2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:24 |
 | 37 | [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [My Way](https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Emotional Gangsta](https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C) | 4:23 |
 | 101 | [Flip Phone \(with Rylo Rodriguez\)](https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [The Largest](https://open.spotify.com/album/49p52K2THX4ITtv8Hu6Uj0) | 2:40 |
 
-Snapshot ID: `MTY3NTIwMzQ3MSwwMDAwMDAwMGNiMzgzZmE5Yzk4MzNkZDc2ZGFhM2IwNjdjNmJlZGI2`
+Snapshot ID: `MTY3NTIwMzQ3MSwwMDAwMDAwMGI1OTkzZjhmNTdjZGE2YjE0ZmRmZWIyYWNjZDc1NzZk`

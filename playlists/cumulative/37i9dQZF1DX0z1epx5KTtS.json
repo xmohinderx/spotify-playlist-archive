@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Shado Chris",
+  "description": "African dance party music from Paris to Abidjan. Photo : DJ KEROZEN",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 231194,
       "name": "225",
       "url": "https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 261971,
       "name": "LA VOIX AUTORIS\u00c9E",
       "url": "https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT"
@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Sol\u00e9 Mol\u00e9",
+        "url": "https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216859,
+      "name": "Sol\u00e9 Mol\u00e9",
+      "url": "https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC"
+    },
+    {
+      "album": {
         "name": "Statut vis\u00e9",
         "url": "https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom"
       },
@@ -1894,6 +1912,28 @@
       "duration_ms": 233999,
       "name": "Tala n'dil\u00e9",
       "url": "https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC"
+    },
+    {
+      "album": {
+        "name": "TCH\u00d4K\u00d4R\u00d4BA",
+        "url": "https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "TCH\u00d4K\u00d4R\u00d4BA",
+      "url": "https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa"
     },
     {
       "album": {

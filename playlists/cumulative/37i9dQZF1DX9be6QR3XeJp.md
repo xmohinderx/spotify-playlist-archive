@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9be6QR3XeJp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9be6QR3XeJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9be6QR3XeJp)
 
-### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
+### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Caity Baser
+> Discover your new favourite artists from UK&IE\. Cover: yunè pinku
 
-186 songs - 10 hr 17 min
+188 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Nashville](https://open.spotify.com/track/0GoptW8lwK7Y1iOAVaVxiA) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 5:16 | 2022-10-06 |  |
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-03-04 | 2022-10-13 |
 | [Nashville](https://open.spotify.com/track/6aQ4r8oKFAX6mJhhwPjgpf) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead](https://open.spotify.com/album/0jk8QfkoB9qeqPHxiWkLQR) | 5:16 | 2022-11-11 | 2022-11-13 |
+| [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-03 |  |
 | [nightmares](https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [withdrawal symptoms](https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT) | 2:41 | 2022-08-11 |  |
 | [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 | 2023-01-09 |  |
 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-02-18 | 2022-12-01 |
@@ -166,7 +167,8 @@
 | [Stuck](https://open.spotify.com/track/1JzKProcrUzCxImOP23hXb) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/2LugScLewUNGEC1CdfE2un) | 3:07 | 2022-10-06 |  |
 | [Stuck](https://open.spotify.com/track/1MkOIf6TbyY5DKYltfXD9o) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/5A9kxjtm6IJQcqSnXlFom8) | 3:07 | 2022-11-11 | 2022-11-13 |
 | [Stuck](https://open.spotify.com/track/6RkRUuD6TowtgTZhPl6mSi) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/36c3aMnPKZFg8QFvCPVkte) | 3:07 | 2022-02-18 | 2022-10-13 |
-| [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 | 2022-02-18 |  |
+| [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 | 2023-01-09 |  |
+| [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 | 2022-02-18 | 2023-02-03 |
 | [Sundown](https://open.spotify.com/track/6e40VGmlR2S8yhmBNkISlP) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Sundown](https://open.spotify.com/album/3FIEevE1XXBP1rg4BCdBcH) | 3:01 | 2022-02-18 |  |
 | [Terrified](https://open.spotify.com/track/3ucxOAE4Is58lEIDMaAznA) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Terrified](https://open.spotify.com/album/4Oq1iLRq5iQ3VjVVWvEoCy) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [Terrified](https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:12 | 2022-07-28 |  |

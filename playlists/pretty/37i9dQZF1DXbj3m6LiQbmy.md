@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,155 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,160 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 60 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
 | 61 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 |
 | 62 | [Lingua in Fiamme](https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2Ma0QxRuiFjfQd35owYuXy) | 3:03 |
-| 63 | [Fall \(feat\. Cuushe\)](https://open.spotify.com/track/1DhN0hYneezQL2nQnTChnQ) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Night Safari](https://open.spotify.com/album/1NsQzdcl5VnJDgTGLkvLoj) | 4:32 |
-| 64 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 |
+| 63 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 |
+| 64 | [Fall \(feat\. Cuushe\)](https://open.spotify.com/track/1DhN0hYneezQL2nQnTChnQ) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Night Safari](https://open.spotify.com/album/1NsQzdcl5VnJDgTGLkvLoj) | 4:32 |
 | 65 | [matta vera](https://open.spotify.com/track/7iAJzwSCs5nJidpFoQWMeP) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:46 |
-| 66 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
-| 67 | [A Che Ora l'Amore](https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc) | [Club Domani](https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL) | 4:17 |
+| 66 | [A Che Ora l'Amore](https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc) | [Club Domani](https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL) | 4:17 |
+| 67 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
 | 68 | [La Suora](https://open.spotify.com/track/0IGvfJenQDntbHqBl7UtuU) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/6ARW2IzeRLXYElCNrLBL39) | 3:03 |
 | 69 | [Godi](https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p) | [Faust'o](https://open.spotify.com/artist/4BgqktLeGqB17L9WEVoGjV) | [Suicidio](https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA) | 3:24 |
 | 70 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
 | 71 | [We're So Lovely \- Hard Ton Remix](https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [We're So Lovely \(Hard Ton Remix\)](https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj) | 4:14 |
 | 72 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 73 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
-| 74 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 |
+| 73 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 |
+| 74 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
 | 75 | [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 |
 
-Snapshot ID: `MTY3NDgyMzg3OSwwMDAwMDAwMGNmZjE1OWM2NTc1YzkxM2Q1ZDhkM2M3N2M1NjczNWMy`
+Snapshot ID: `MTY3NDgyMzg3OSwwMDAwMDAwMDU3ZDJlYTBlMzJkYTI1ODc0NmU1MzdmN2ZhY2YwZTlm`

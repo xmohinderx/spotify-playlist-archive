@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,599 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,630 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,17 +97,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 87 | [Camden Free Public Library](https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Camden Free Public Library](https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki) | 5:04 |
 | 88 | [I'm in Luv](https://open.spotify.com/track/4zWhqchiX7mc9qt0Tj933e) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Iceland](https://open.spotify.com/album/6n9SqKcGCx1RWJ7m1v8of8) | 3:21 |
 | 89 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
-| 90 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 |
+| 90 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 |
 | 91 | [Chameleons](https://open.spotify.com/track/2AD9ksH0C7hJrSXZMllbgh) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Chameleons](https://open.spotify.com/album/4bZLJJlvkGpCV0n8xU2duC) | 3:15 |
 | 92 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 93 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 94 | [Louphoria \(with Cruza\)](https://open.spotify.com/track/0E1GJFHAHBQLNyh7VZqDoZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:46 |
 | 95 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 |
-| 96 | [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 |
+| 96 | [Satellite 9](https://open.spotify.com/track/3FqpMDBmmQJmJOBAkMWors) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 3:01 |
 | 97 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
 | 98 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 |
 | 99 | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/track/4AYjxKVZaR3iyQ7YAUFWiu) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/76xi8yJFqCFBa7O9mixYbm) | 5:15 |
 | 100 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 101 | [Still](https://open.spotify.com/track/2rbSlNYTYboHHWelF0xSAQ) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:42 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDI5OTQzNTg1MTQ3OWQ5YzRhNTAxODMxMDNkMmMzMDUz`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDc4MGFlODhmNzMyYjQzZTgzNGUxYmJiNDJlY2M4ZDc3`

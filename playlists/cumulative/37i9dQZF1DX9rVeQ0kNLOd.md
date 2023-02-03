@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-116 songs - 6 hr 59 min
+117 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-10-20 | 2023-01-25 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2022-12-13 | 2023-02-01 |
 | [set me free](https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU) | 3:50 | 2022-12-13 | 2022-12-15 |
+| [Simple and Sweet](https://open.spotify.com/track/3l9S4RkBPkAuspL6spxzzv) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Simple and Sweet](https://open.spotify.com/album/1cYffJtaJx5J1eQJ3Arwxe) | 2:53 | 2023-02-02 |  |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6PjUPRfDLbzXqjU5CdiMtV) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/37ETovdRL3wZRNAxcEywzS) | 3:40 | 2023-01-24 | 2023-01-26 |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-25 |  |
 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 | 2022-10-20 |  |
@@ -102,7 +103,7 @@
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
 | [ゆめのなか](https://open.spotify.com/track/53znW6LyTXs7bWTPU7NJ4X) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3), [usushio](https://open.spotify.com/artist/1baUoO8mV7lVVzsEooqzgd), [summersoft](https://open.spotify.com/artist/1up3a5Bs3axT3JPBLLMGQV) | [ゆめのなか](https://open.spotify.com/album/7iKdg4i81g0pD0kWJJYH34) | 4:15 | 2023-01-17 | 2023-02-01 |
 | [アーモンド \- feat\. りりあ。](https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [アーモンド \(feat\. りりあ。\)](https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ) | 4:33 | 2022-12-13 | 2022-12-18 |
-| [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 |  |
+| [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 | 2023-02-03 |
 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 | 2022-10-20 |  |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-23 |  |
 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 | 2022-10-20 | 2022-12-24 |

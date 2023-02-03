@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-138 songs - 8 hr 2 min
+139 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 | 2021-12-01 |  |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2021-12-01 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-01 |  |
-| [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-01 |  |
+| [I See You Sometimes](https://open.spotify.com/track/0FBqO0pBgYmtQfRFXp2UwW) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6EbLhss9FGRx89U6Oo4DkB) | 3:05 | 2021-12-01 |  |
+| [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-01 | 2023-02-03 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2021-12-01 |  |
 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 | 2021-12-01 |  |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:17 | 2021-12-01 |  |

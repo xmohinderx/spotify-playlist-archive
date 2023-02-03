@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 5449,
+  "num_followers": 5459,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMGEwMjRiOGYwYzg3Y2MwNjg3ZjNkN2ZmYWYyZjc2NmNm",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDI0MmNiN2IyYzlhZWJjZGM0NTBkYmJiZGFjNTRkZDY3",
   "tracks": [
     {
       "added_at": "2023-01-18 10:00:22",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-18 10:00:22",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ"
+      },
+      "artists": [
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "duration_ms": 224807,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
+    },
+    {
+      "added_at": "2023-01-18 10:00:22",
+      "album": {
         "name": "Lie To Me (Tell Me a Fairy Tale)",
         "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 198000,
       "name": "Lie To Me (Tell Me a Fairy Tale)",
       "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
-    },
-    {
-      "added_at": "2023-01-18 10:00:22",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ"
-      },
-      "artists": [
-        {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
-        }
-      ],
-      "duration_ms": 224807,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
     },
     {
       "added_at": "2023-01-18 10:00:22",

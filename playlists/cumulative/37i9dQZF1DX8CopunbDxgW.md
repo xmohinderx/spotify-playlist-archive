@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Yaeji.
 
-684 songs - 1 day 20 hr 46 min
+685 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Everything About You](https://open.spotify.com/track/7x6Mrgiwy7d4tpcbpRaOLa) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Everything About You](https://open.spotify.com/album/2BtaClRcKChvRbiJybmK03) | 3:43 | 2022-04-29 | 2022-07-23 |
 | [Everything Is Everything](https://open.spotify.com/track/1CWG6auQo6ctDPt6wXXHy2) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Raving Dahlia](https://open.spotify.com/album/5DC6XLIcCL7VqCq9LYyuVn) | 3:49 | 2022-02-25 | 2022-04-21 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2021-12-17 | 2022-02-12 |
+| [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-20 |  |
 | [Evolve](https://open.spotify.com/track/6hAhLp5sHItLXj1Qcp3eWU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Evolve](https://open.spotify.com/album/4tUHtE595cOKUWY59IMDB5) | 5:58 | 2022-04-08 | 2022-04-14 |
 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 | 2022-09-09 |  |
 | [EXCEPTIONAL](https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl) | 2:17 | 2021-09-17 | 2022-08-25 |
@@ -519,7 +520,7 @@
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2021-06-04 | 2022-07-29 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-15 | 2022-08-13 |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2021-11-26 | 2022-08-13 |
-| [Sensitive Child \- Soulwax Remix](https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Sensitive Child \(Soulwax Remix\)](https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA) | 5:46 | 2022-12-02 |  |
+| [Sensitive Child \- Soulwax Remix](https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Sensitive Child \(Soulwax Remix\)](https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA) | 5:46 | 2022-12-02 | 2023-02-03 |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2021-12-03 | 2022-01-08 |
 | [Shade](https://open.spotify.com/track/07HVC93z0Ea7zhntydwv8s) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5) | [Shade](https://open.spotify.com/album/6o4NpsnJZHtgRKVmLSKYVk) | 3:37 | 2022-03-18 | 2022-04-13 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2021-12-03 | 2022-01-15 |

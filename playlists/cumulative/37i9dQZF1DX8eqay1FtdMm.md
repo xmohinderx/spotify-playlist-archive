@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover: GUMMY\(거미\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover: TAEYEON\(태연\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-382 songs - 1 day 1 hr 3 min
+383 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 | 2022-07-25 |  |
 | [A Daily Song](https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Ordinary](https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5) | 4:19 | 2021-12-20 | 2022-07-27 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-24 | 2022-07-23 |
-| [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [GUMMY](https://open.spotify.com/artist/0Uq946Jy0jtL8oJayJF6wK) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-28 |  |
+| [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-28 |  |
 | [A Song For You](https://open.spotify.com/track/28ocL3QAnZYKfC6KKHYSq3) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [A Song For You \(2nd MAKE:UP\)](https://open.spotify.com/album/5SPMrBVM6ZOg2DBRHR2s3D) | 4:03 | 2022-01-18 | 2022-06-01 |
 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 | 2021-12-20 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 |  |
@@ -228,6 +228,7 @@
 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 | 2022-08-04 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
+| [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |
 | [Nobody else \(Under the Oak Tree\) \- Original Soundtrack, Part\. 3](https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Nobody else \(Under the Oak Tree\) \[Original Soundtrack, Part\. 3\]](https://open.spotify.com/album/0HYFc6RTdNzocWOcSKkVP7) | 3:45 | 2022-01-27 | 2022-07-27 |
 | [Not Anyone Else](https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Anyone Else](https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR) | 4:18 | 2021-12-20 | 2022-07-23 |
@@ -355,7 +356,7 @@
 | [You will shine](https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi), [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [You will shine](https://open.spotify.com/album/74hfH7A2FyGp7R5SR0m0wG) | 4:04 | 2022-05-11 | 2022-07-04 |
 | [You&I](https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I](https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA) | 3:41 | 2022-09-06 |  |
 | [You&I 인사](https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I 인사](https://open.spotify.com/album/23NbTefiEEVOUKekR8ocYT) | 3:41 | 2021-12-27 | 2022-07-26 |
-| [You're My End and My Beginning](https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd) | 4:11 | 2022-09-06 |  |
+| [You're My End and My Beginning](https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd) | 4:11 | 2022-09-06 | 2023-02-03 |
 | [You're My End and My Beginning](https://open.spotify.com/track/6AlOR9CVOvGsmF6c8GFt3C) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/2VGi9QEiqVmr1b9DP6BkHo) | 4:11 | 2022-03-29 | 2022-04-20 |
 | [You, again \(Prod\. Humbert\)](https://open.spotify.com/track/5BhXBPf3kHOgArWYtXHQar) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 1](https://open.spotify.com/album/1YSagCBdK1uLO0ujCmscXN) | 3:49 | 2022-01-27 | 2022-04-19 |
 | [Your flower language](https://open.spotify.com/track/0k9VK3UPPAvNaJlrlQ4N2O) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Your flower language](https://open.spotify.com/album/04dfcardIJlYwRwJEufWl7) | 3:58 | 2022-04-01 | 2022-04-20 |

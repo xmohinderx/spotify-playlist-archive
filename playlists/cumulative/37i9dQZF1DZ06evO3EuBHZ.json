@@ -396,7 +396,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 155120,
       "name": "I'm All Fed Up",
       "url": "https://open.spotify.com/track/3lz4NsL7dgpkZcHQbViZP1"
@@ -696,6 +696,24 @@
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/7EHM2kH6qSrSNnI7xOe5j3"
     },
     {
       "album": {
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/6pbty1OxEC31a2NdhiHhbq"

@@ -4,7 +4,7 @@
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-969 songs - 2 day 5 hr 20 min
+970 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-01-05 | 2022-02-03 |
 | [Dati\-Dati](https://open.spotify.com/track/3b1P0s0bbeJhV5ZM5uv2oP) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Dati\-Dati](https://open.spotify.com/album/0vWLVoS1AcxTICsK49VfUj) | 5:42 | 2022-11-02 | 2022-12-01 |
 | [Day Off](https://open.spotify.com/track/3HV9EPgIUq0SM4NZfJvBHs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/6EM4z696J7abauiSw0RtXZ) | 4:04 | 2022-10-04 | 2022-11-03 |
+| [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-01 |  |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-08 | 2023-01-05 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2023-02-01 |  |
 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 | 2022-10-04 | 2022-11-03 |

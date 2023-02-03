@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Kimbra
 
-480 songs - 1 day 5 hr 50 min
+481 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-06-03 | 2022-04-18 |
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-06-03 |  |
 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 | 2023-01-25 |  |
+| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-27 |  |
 | [Addict](https://open.spotify.com/track/6LEG349yBthHmCjGMfd3g8) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:26 | 2021-06-03 | 2022-04-23 |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-20 | 2022-06-04 |
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-07-15 | 2022-07-23 |
@@ -57,7 +58,7 @@
 | [Best for You](https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX) | 3:33 | 2022-04-08 | 2022-07-29 |
 | [Better Off Alone](https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Better Off Alone](https://open.spotify.com/album/7JsNiZN7qYUOwBmWRvk9EK) | 3:52 | 2021-06-03 | 2022-07-27 |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2021-06-03 | 2022-07-29 |
-| [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-24 |  |
+| [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-24 | 2023-02-03 |
 | [Birthday](https://open.spotify.com/track/5ZPri1behLoQ6UhTcGsTth) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [Birthday](https://open.spotify.com/album/6Jgc40cCjr52k0BIi8lfPh) | 6:19 | 2022-03-31 | 2022-07-28 |
 | [Bitch](https://open.spotify.com/track/1CVQ8euBNROz7KDPeNqwWE) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:27 | 2021-10-08 | 2022-06-01 |
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-24 | 2022-06-03 |

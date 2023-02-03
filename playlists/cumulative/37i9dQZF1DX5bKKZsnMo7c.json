@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Danke Schoen",
+        "url": "https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158674,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL"
+    },
+    {
+      "album": {
         "name": "despair",
         "url": "https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr"
       },
@@ -1263,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Flying Fish",
+        "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Flying Fish",
+      "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL"
       },
@@ -1632,6 +1668,24 @@
       "duration_ms": 215960,
       "name": "Hermit the Frog",
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+    },
+    {
+      "album": {
+        "name": "How I'd Kill",
+        "url": "https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Malfoy",
+          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "How I'd Kill",
+      "url": "https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn"
     },
     {
       "album": {
@@ -3106,6 +3160,24 @@
       "duration_ms": 137543,
       "name": "Soft Boy",
       "url": "https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag"
+    },
+    {
+      "album": {
+        "name": "Someone On The Internet",
+        "url": "https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX"
+      },
+      "artists": [
+        {
+          "name": "Will Jay",
+          "url": "https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182351,
+      "name": "Someone On The Internet",
+      "url": "https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM"
     },
     {
       "album": {

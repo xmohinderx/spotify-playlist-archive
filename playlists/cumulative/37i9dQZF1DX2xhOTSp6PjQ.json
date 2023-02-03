@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Maskandi favourites for every day of the week. Cover: <a href=\"https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=F0FrV_10Simi5ZhPJ3Nyvg\">Mzukulu</a>",
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=UghsrDCcQTSrclUbcr7zTA\">Sjava</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 283557,
       "name": "Abafana Badlala Ngathi",
       "url": "https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ"
+    },
+    {
+      "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328060,
+      "name": "Akabuye",
+      "url": "https://open.spotify.com/track/6eAvjdlcZ6t5K9lvslRv1D"
     },
     {
       "album": {
@@ -89,6 +115,36 @@
     },
     {
       "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Udumakahle",
+          "url": "https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv"
+        },
+        {
+          "name": "Vernotile",
+          "url": "https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Amakhehla",
+      "url": "https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc"
+    },
+    {
+      "album": {
         "name": "Ekhayakomama",
         "url": "https://open.spotify.com/album/2Bv75VXnuvVE9TbeNxUFuy"
       },
@@ -100,7 +156,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 202879,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH"
@@ -274,7 +330,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 824528,
       "name": "Baxabene",
       "url": "https://open.spotify.com/track/1YQ0TnVKPgJ5GcWGLjcSrg"
@@ -412,7 +468,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 497295,
       "name": "Ebusuku (feat. Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/1T85qf7aGYCd7wA793pfRR"
@@ -1102,7 +1158,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 266971,
       "name": "Inhlupheko",
       "url": "https://open.spotify.com/track/56DdoyS1IY3ZYhRYa1ELQ8"
@@ -1120,7 +1176,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 255373,
       "name": "Inja Nodogo",
       "url": "https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl"
@@ -1156,7 +1212,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 252263,
       "name": "Intencane",
       "url": "https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR"
@@ -1308,7 +1364,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 450304,
       "name": "Isoka (feat. Nkosazana Daughter & Murumba Pitch)",
       "url": "https://open.spotify.com/track/39sSsu4g7vjVOax8DU98NX"
@@ -1532,7 +1588,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 260036,
       "name": "Kuthiwa sizomlanda",
       "url": "https://open.spotify.com/track/2esrQHLsVsxLxAp2HSOTTB"
@@ -1576,7 +1632,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 264000,
       "name": "Mayeh",
       "url": "https://open.spotify.com/track/6PvacSpTgz00qNjJxlmXGn"
@@ -1746,6 +1802,24 @@
       "duration_ms": 297520,
       "name": "Ngiyashisa Bhe!",
       "url": "https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu"
+    },
+    {
+      "album": {
+        "name": "Ngiyeza",
+        "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Ngiyeza",
+      "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
     },
     {
       "album": {
@@ -2116,7 +2190,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 287426,
       "name": "SUKA SISHIMANE",
       "url": "https://open.spotify.com/track/5TnQwPe4OXkERufcBadlze"
@@ -2322,7 +2396,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 276610,
       "name": "Umuzi Wethu (feat. Madumane)",
       "url": "https://open.spotify.com/track/7dsfUUmH0K8RSo8agTACpe"
@@ -2570,7 +2644,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 450320,
       "name": "Xola (feat. Nobuhle, Ze2 & Young Stunna)",
       "url": "https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo"

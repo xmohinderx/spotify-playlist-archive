@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Base Ball Bear
 
-461 songs - 1 day 6 hr 24 min
+462 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Crap Shit](https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Crap Shit](https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv) | 2:30 | 2022-08-16 | 2022-08-24 |
 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 | 2022-11-22 | 2022-12-14 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
+| [Dissonance](https://open.spotify.com/track/3uOdwLjez9Zq4jQcMSlajN) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/3q13ZnL6DVS8xnvBx2wG5e) | 4:57 | 2023-02-02 |  |
 | [Do you wanna dance?](https://open.spotify.com/track/4M2sfOnI5o3VU6GyYoKPOf) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/470wDFggB1BlolvYXsLFvj) | 4:26 | 2022-05-17 | 2022-07-08 |
 | [Don't Think Twice \(It's not over\)](https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:09 | 2022-11-22 | 2022-12-21 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-10 |  |
@@ -150,7 +151,7 @@
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-25 |
 | [Moonlight](https://open.spotify.com/track/4hfBibBqDQFOPANcqR2ODh) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Moonlight](https://open.spotify.com/album/5Qkw9pXEw3swmDQRmB1xQg) | 3:39 | 2022-05-10 | 2022-07-29 |
-| [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 | 2022-05-10 |  |
+| [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 | 2022-05-10 | 2023-02-03 |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2022-09-08 |  |
 | [Move on Fast](https://open.spotify.com/track/5W3EUo8Exi8WlAoSjuOeZ6) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Steve Khan](https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3), [Andy Muson](https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG), [Rick Marotta](https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Don Grolnick](https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Move on Fast](https://open.spotify.com/album/7K2ZkG0HJFCwpSoozDJ8oV) | 3:57 | 2022-08-23 | 2022-09-07 |
 | [Ms\. Phenomenal](https://open.spotify.com/track/7C9g7mGIpiMgeWauQ5ueBL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Original Soundtrack of "The Last Ten Years"](https://open.spotify.com/album/3FyR41ewiOZHop9rFnOZ1m) | 5:18 | 2022-07-28 | 2022-08-31 |

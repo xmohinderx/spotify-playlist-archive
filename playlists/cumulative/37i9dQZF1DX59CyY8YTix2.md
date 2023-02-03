@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: Chilli Beans.
 
-768 songs - 2 day 1 hr 12 min
+769 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Laid back \(feat\. Kazma Kobayashi\)](https://open.spotify.com/track/5EwJvQdjjvBbKrZQzShYIR) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s), [Kazuma Kobayashi](https://open.spotify.com/artist/2Alp7bBEvBhzmxDaiHtSXZ) | [Bearwear/The tiva](https://open.spotify.com/album/5XAIEWhmdFMVt6Cagjd8BN) | 3:54 | 2022-05-26 | 2022-07-16 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-05-26 | 2022-12-14 |
 | [Language of flowers](https://open.spotify.com/track/5npVUGJB7vF2Q4PHriYVJR) | [Suichu Spica](https://open.spotify.com/artist/1amlHJJSHHZ7fo8FM1vlmM) | [Osm](https://open.spotify.com/album/6p4MTKjElaPhKVxZvAI6TJ) | 4:54 | 2022-11-17 | 2022-11-23 |
+| [Laundry](https://open.spotify.com/track/4Th0wvx6jH8OtJTcb7JTEW) | [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A) | [Laundry](https://open.spotify.com/album/5dF9AZkQVGopxCj3ZpKT7Q) | 3:52 | 2023-02-02 |  |
 | [Le Le bonheur](https://open.spotify.com/track/03EkAOW70dbyAV13VopYVB) | [Wada Ayaka](https://open.spotify.com/artist/1VITmQ9slw2sdo9L28BPB6) | [Le Le bonheur](https://open.spotify.com/album/05gpDbYSKKovReOSeN4T6A) | 5:20 | 2022-12-13 | 2023-01-11 |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-28 | 2022-06-30 |
 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 | 2023-01-18 |
@@ -715,7 +716,7 @@
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |
 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 | 2022-06-07 | 2022-07-25 |
 | [私は私なりの言葉でしか愛してると伝えることができない](https://open.spotify.com/track/4saxmZpBcXqATEcZeAGEb2) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/67Ip2mqCJLhgP4V93lk8tV) | 3:33 | 2023-01-10 | 2023-01-12 |
-| [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 |  |
+| [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 | 2023-02-03 |
 | [積乱雲の下で](https://open.spotify.com/track/6fNtxTx6Ic15mlXlGiNXG6) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [積乱雲の下で](https://open.spotify.com/album/1PtvRzDk8nMaURJ3G0fs55) | 3:30 | 2022-06-02 | 2022-06-28 |
 | [空とビール](https://open.spotify.com/track/74qvHeWqG6wjvEqnc46vuJ) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [空とビール](https://open.spotify.com/album/5RixdW8Oe3w9xJbKdwOSF4) | 3:33 | 2022-05-31 | 2022-07-08 |
 | [終末時計の音が鳴る](https://open.spotify.com/track/6QkngCDHTaduoIyeXN8AVB) | [プランクトン](https://open.spotify.com/artist/4Q8UvCP77UmlQv1oSUMkYF) | [終末時計の音が鳴る](https://open.spotify.com/album/4yn1mj78ZHAzLpwQc9I1lS) | 3:43 | 2022-11-23 | 2022-12-07 |

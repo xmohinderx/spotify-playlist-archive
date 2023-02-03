@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 876861,
+  "num_followers": 877595,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA1NzM0OCwwMDAwMDAwMGRiZDgxZDJkZWI5MWViZmJkN2E1YTQwMDhkMjQxNDJh",
+  "snapshot_id": "MTY3NTA1NzM0OCwwMDAwMDAwMGI5NGUyYjNlNjc4MWZkNDk1ZjkwMDMyNGU3NTFlMjNl",
   "tracks": [
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -1111,38 +1127,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Fun Machine EP",
-        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Fun Machine EP",
+        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "What Goes Around...Comes Around",
-        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "What Goes Around...Comes Around - Radio Edit",
-      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "What Goes Around...Comes Around",
+        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "What Goes Around...Comes Around - Radio Edit",
+      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "Saturday Songs",
+        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Saturday Songs",
-        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Get Down Saturday Night",
-      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "You're the Reason Why",
+      "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 197886,
-      "name": "You're the Reason Why",
-      "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
+      "duration_ms": 269815,
+      "name": "South of the River",
+      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1763,22 +1779,6 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "South of the River",
-      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Playing For You",
         "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 258895,
       "name": "Playing For You",
       "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Much Love",
-        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 172874,
       "name": "Little Bit of Lovin",
       "url": "https://open.spotify.com/track/15iPPD2UhkZs71jPXG8a08"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
     },
     {
       "added_at": "2023-01-30 05:42:28",

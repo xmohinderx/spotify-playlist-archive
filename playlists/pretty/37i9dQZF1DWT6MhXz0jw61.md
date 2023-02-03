@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,555 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,325 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 92 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 |
 | 93 | [Snow Cones](https://open.spotify.com/track/5CFDY0ongHhmVWSwkgZqkl) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [Snow Cones](https://open.spotify.com/album/4Zl1QD4pz3CqUR1lGDSdAr) | 4:00 |
 | 94 | [For DOOM](https://open.spotify.com/track/0xFiDbmCNEcs8TE9hToHpa) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Component System with the Auto Reverse](https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk) | 2:02 |
-| 95 | [The Fonz](https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [The Fonz](https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS) | 4:48 |
+| 95 | [The Fonz](https://open.spotify.com/track/5aBIEKP7FV0cIJb5W3mu0d) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [Cold Cuts](https://open.spotify.com/album/16oGRWv9NRmQOrbDQbEi26) | 4:48 |
 | 96 | [Designer Drugs](https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:31 |
 | 97 | [Kool Aid \(with Dave B.\)](https://open.spotify.com/track/1spizWhedqBEs55T7UQghA) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [Kool Aid \(with Dave B.\)](https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR) | 2:33 |
 | 98 | [Conversations](https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [No Pants Till February](https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4) | 4:24 |
 | 99 | [3 Left Feet](https://open.spotify.com/track/6H3eLnUGTeiobrCia2wTNj) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 3:05 |
 | 100 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDNjNzFjNWUxMzA0MTJhNDM0YjQzM2VmNDQ1NzM1ZDc3`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGM3Nzc1MzU3ZTkyODQyOTU1OGYyZjJhZGJjNGMxMzVh`

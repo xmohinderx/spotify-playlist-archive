@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YESUNG\(예성\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,295 likes - 105 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,335 likes - 105 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
 | 2 | [Small Things](https://open.spotify.com/track/4tnz79vOfi6zwq4sWr2MVD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Sensory Flows \- The 1st Album](https://open.spotify.com/album/1JTBgKjJ7WnUtYvKVBH5fU) | 3:22 |
-| 3 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [GUMMY](https://open.spotify.com/artist/0Uq946Jy0jtL8oJayJF6wK) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
+| 3 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
 | 4 | [Miracle](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Miracle \- SM STATION](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) | 4:12 |
 | 5 | [Wonder Why](https://open.spotify.com/track/4OLpX8QqAqU3Km2PVUhrEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [The Interest of Love \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/6jJafoL33IKBwTif7ij9vF) | 3:20 |
 | 6 | [Everyday waiting you](https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Everyday waiting you](https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb) | 4:01 |

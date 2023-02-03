@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,121 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,127 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 33 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 |
 | 34 | [Correct Me If I'm Wrong \- Single Version](https://open.spotify.com/track/3ve82BOHCZr40vEPa1vGUU) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Correct Me If I'm Wrong](https://open.spotify.com/album/1pFaO1ohRatcUidOKryU2d) | 3:26 |
 | 35 | [The Room](https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Room](https://open.spotify.com/album/7Lc8y1N0fhcYHWQbBimu3Z) | 4:04 |
-| 36 | [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 |
+| 36 | [Lights Off](https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/5Zd2cdDVrRrFJsjiSpo1m5) | 3:30 |
 | 37 | [Make it a Memory](https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Make it a Memory](https://open.spotify.com/album/5SxOgwsyojWkxjknZwFusM) | 3:29 |
 | 38 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 |
 | 39 | [Hold Me Like You Used To \- Piano Version](https://open.spotify.com/track/4dazSSg1ZHXpsmtgH9wZve) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Hold Me Like You Used To \(Piano Version\)](https://open.spotify.com/album/1c3VTBfheFbl939ne6zSaU) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 |
 | 100 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 |
 
-Snapshot ID: `MTY3NTI2MTYzMiwwMDAwMDAwMDE4YzI0NGY0ZmY0ZWYwMGZjYzE4NTE0OGMxYzg5NDg2`
+Snapshot ID: `MTY3NTI2MTYzMiwwMDAwMDAwMDEzYTk5Yzc4ODI4ODRjNDUzMDI4OWFjYjZkM2VhZDIz`

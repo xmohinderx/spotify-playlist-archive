@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 274823,
+  "num_followers": 274950,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MTQ0NiwwMDAwMDAwMDRiNTFjN2EwYmQ2YjMyMWE5ZWFmZjlkM2Y2OGMzMzY3",
+  "snapshot_id": "MTY3MzI2MTQ0NiwwMDAwMDAwMDU3ZTRjMmNjMGY3Mjk5NjE0NWZlYjEyYzkwNTQyZWVj",
   "tracks": [
     {
       "added_at": "2023-01-09 10:50:46",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-01-09 10:50:46",
       "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2023-01-09 10:50:46",
+      "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 159466,
       "name": "Machine Gun",
       "url": "https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff"
-    },
-    {
-      "added_at": "2023-01-09 10:50:46",
-      "album": {
-        "name": "Sweet Soul Music",
-        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "added_at": "2023-01-09 10:50:46",

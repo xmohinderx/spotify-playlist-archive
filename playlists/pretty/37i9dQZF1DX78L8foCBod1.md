@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,191 likes - 84 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,208 likes - 84 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 40 | [Tranquility](https://open.spotify.com/track/4U5PadmkZvwnEixcCVTuGM) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:43 |
 | 41 | [祓魔師強奏曲 第一楽章: Me & Creed](https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:21 |
 | 42 | [アッシャー幻saw曲 第一楽章: Call me later](https://open.spotify.com/track/4Ubtpg1kZYDfc2S2UhwW54) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:19 |
-| 43 | [gravityWall](https://open.spotify.com/track/7wW7booCIm4h6a9upgAyLy) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:46 |
+| 43 | [gravityWall](https://open.spotify.com/track/7rKiGoTbE1jCKSUbMAHGkd) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:46 |
 | 44 | [AL:Lu](https://open.spotify.com/track/40QCH2u7X2ztyxrTW9mfEj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:12 |
 | 45 | [BRAVE THE OCEAN](https://open.spotify.com/track/0hmk2Wp5zmsH4tRpgGG61b) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:24 |
 | 46 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 66 | [The Dogs](https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:35 |
 | 67 | [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 |
 | 68 | [Barricades](https://open.spotify.com/track/6iaQi9uPzHoXLMo5g490Bj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 3:41 |
-| 69 | [sh0ut](https://open.spotify.com/track/0JUdNScTFs37m9dFGC07qp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 4:05 |
+| 69 | [sh0ut](https://open.spotify.com/track/0q02P4yUz4BAcmzbGVrCEU) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:05 |
 | 70 | [Bauklotze](https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:56 |
 | 71 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 |
 | 72 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 83 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 84 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MTY3Mzk2NzYwMCwwMDAwMDAwMGExNDkxOTlkMTlmMGY5MDMxNWU0NWE1MTcyNDI4YWY2`
+Snapshot ID: `MTY3Mzk2NzYwMCwwMDAwMDAwMDQ3OTJlZjE4NmQ4NmVhYWI0MTY0YmE0YmJjOWE0NjU0`

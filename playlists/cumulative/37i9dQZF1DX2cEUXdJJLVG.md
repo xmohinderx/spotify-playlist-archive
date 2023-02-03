@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-212 songs - 12 hr 51 min
+214 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Call Me](https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Call Me](https://open.spotify.com/album/2EAoeBk0yH5I6kVMaXJCV0) | 3:18 | 2022-10-27 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-09-09 |  |
 | [Ceramic](https://open.spotify.com/track/2jN9H14xlf2KuDsqKV6wsG) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Ceramic](https://open.spotify.com/album/7ooSC9euPaRQCGjPMwOMQL) | 4:01 | 2022-09-09 | 2022-09-16 |
+| [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-02 |  |
 | [Clinging On Me](https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [On My Way](https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG) | 5:04 | 2022-12-01 |  |
 | [Clouds](https://open.spotify.com/track/5bfuYOSY3lC5KRjKaPs7hx) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Clouds](https://open.spotify.com/album/0bd4sxHpZedop36TTS5Mkd) | 4:09 | 2022-09-09 |  |
 | [Colours](https://open.spotify.com/track/7s94DZ7wrUSlDvPZasqEux) | [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Colours](https://open.spotify.com/album/0CRsO4ZeFqnjp2vX7dn7O0) | 5:11 | 2022-09-09 |  |
@@ -114,6 +115,7 @@
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 |  |
 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 |  |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 |  |
+| [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 |  |
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 |  |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 |  |
 | [Mary Jane \- Young Franco Remix](https://open.spotify.com/track/5XGTp5ayYBBbndSQMSuEWB) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Mary Jane \(Young Franco Remix\)](https://open.spotify.com/album/73PV84Kf1waPhVoHNyCt78) | 2:46 | 2022-09-09 |  |

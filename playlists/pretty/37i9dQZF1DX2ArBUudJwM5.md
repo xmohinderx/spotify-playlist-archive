@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Yami Safdie y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,768 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,785 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 12 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 13 | [Lo Que Dicen de Mí](https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Lo Que Dicen de Mí](https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH) | 3:23 |
 | 14 | [En Mi Cuarto](https://open.spotify.com/track/0B5GEQLMwjHbUGnZDTF4Xo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:01 |
-| 15 | [Pedazo de Cielo](https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pedazo de Cielo](https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG) | 3:29 |
-| 16 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
+| 15 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
+| 16 | [Pedazo de Cielo](https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pedazo de Cielo](https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG) | 3:29 |
 | 17 | [Rápido y Furioso](https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [Rápido y Furioso](https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx) | 2:33 |
 | 18 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 19 | [De Fiesta](https://open.spotify.com/track/23wYKiztl4FUFXLiZiIeQh) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [De Fiesta](https://open.spotify.com/album/65xcr6qMi0C0t1EO0NS5Tz) | 3:13 |
 | 20 | [Lotería](https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Lotería](https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa) | 2:13 |
 | 21 | [La historia de la sensibilidad](https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [El terciopelo](https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1) | 2:18 |
 | 22 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
-| 23 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 |
-| 24 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
-| 25 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 26 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
-| 27 | [Ella](https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Ella](https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r) | 3:42 |
-| 28 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
+| 23 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 24 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 |
+| 25 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
+| 26 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
+| 27 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
+| 28 | [Ella](https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Ella](https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r) | 3:42 |
 | 29 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
 | 30 | [Bellaca](https://open.spotify.com/track/4ete7zWr70bdvUBhq8CEZt) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bellaca](https://open.spotify.com/album/2Ff3G9rBwSjr5D2C4hxDEl) | 2:25 |
 | 31 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/3BeDygN8kF3KTYt1Uk7trO) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/4mAIuhNoyIVljEC1KCKNYd) | 4:13 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGYxNzMxMTkzZWU1NDM3OGRlZjA0ZDhjMmIzMzgwNmU0`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGVhMTMwZDI4YjkyNWI0OGQ1NGEzOTg4N2UxY2YzZDk2`

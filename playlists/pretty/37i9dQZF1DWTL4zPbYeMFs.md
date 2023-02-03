@@ -1,19 +1,19 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain](/playlists/plain/37i9dQZF1DWTL4zPbYeMFs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTL4zPbYeMFs)
 
-### [Mehndi](https://open.spotify.com/playlist/37i9dQZF1DWTL4zPbYeMFs)
+### [Mehendi](https://open.spotify.com/playlist/37i9dQZF1DWTL4zPbYeMFs)
 
 > A perfect mix for your Mehendi evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,932 likes - 40 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,964 likes - 40 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 |
-| 2 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
-| 3 | [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 |
-| 4 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
-| 5 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 |
-| 6 | [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 |
+| 1 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
+| 2 | [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 |
+| 3 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 |
+| 4 | [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 |
+| 5 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
+| 6 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 |
 | 7 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 |
 | 8 | [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 |
 | 9 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 39 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 | 40 | [Boliyan](https://open.spotify.com/track/1CG8ODAay6SHhlpgyshfJu) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Minda](https://open.spotify.com/artist/7mPA0gY5QgapTMfgLplro0) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:04 |
 
-Snapshot ID: `MTY0NzI0ODkzMiwwMDAwMDAwMGNmZjE4YTNlYjllMThkZTgzNWI3ZmY3YzE1NWNjOThk`
+Snapshot ID: `MTY3NTMxODUzNCwwMDAwMDAwMGM0NDA4Y2EyZjZkNTUzOTEyNGQ4OGZmNzRlOWNiZjAx`

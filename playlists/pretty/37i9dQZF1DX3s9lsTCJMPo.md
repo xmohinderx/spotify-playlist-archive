@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,977 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,030 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 30 | [Zouk\-La\-Se Sel Medikaman Nou Ni](https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |
 | 31 | [Single \(Answer Back\)](https://open.spotify.com/track/5rGKQyggZncwPhpf3LprKd) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Single \(Answer Back\)](https://open.spotify.com/album/5dqss47asg9N8IOB3t12tu) | 3:00 |
 | 32 | [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 |
-| 33 | [Roll It Gal \- Feat\. Machel Montano](https://open.spotify.com/track/4YE1KXJ0nVjDS6enhUS6pP) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Roll It Gal](https://open.spotify.com/album/6oKaVhH0pn4UfOvn97wMf4) | 5:08 |
+| 33 | [Roll It Gal \- Machel Montano Mix](https://open.spotify.com/track/6DWFBlwZEnPTuUgyx6TF6S) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Roll It Gal](https://open.spotify.com/album/2G6BUfcpyPYUxhJ4kRV2yg) | 5:06 |
 | 34 | [Monster Winer \(feat\. Lil Rick\)](https://open.spotify.com/track/1hYP5N0FKFMYE5VByqgmGT) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2014](https://open.spotify.com/album/1OWjsordHSVqNRJX6dq28b) | 2:38 |
 | 35 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 36 | [Til Morning](https://open.spotify.com/track/0aZ8wLtdjNoUlPmXmF0RS9) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2006](https://open.spotify.com/album/1rDmxLHbf7qdsWXPHBuA4I) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
 | 80 | [Santorini \- Toutouni](https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22) | [Gamma](https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM) | [Santorini \(Toutouni\)](https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP) | 1:50 |
 
-Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMDI1YmFiZTBhMmZmNGZjODY2MWEzNWZhMjUyZjQ3YmRk`
+Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMDVjZjNlZDQ2YTFlZmNlMDIxODNjY2YwNTlkNzIzZWQ4`

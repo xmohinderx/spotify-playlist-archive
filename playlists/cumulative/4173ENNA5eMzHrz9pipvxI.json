@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve x Yves V",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Sick Individuals x Alle Farben",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 228923,
       "name": "48 Hours - Radio edit",
       "url": "https://open.spotify.com/track/71YW4ULePshglTMFK3xc29"
@@ -86,6 +86,24 @@
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "album": {
+        "name": "Shaman EP",
+        "url": "https://open.spotify.com/album/4Kr0R4hyXt1nBrKVyjTHvj"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183338,
+      "name": "A Shaman\u2019s Mantra",
+      "url": "https://open.spotify.com/track/6bPtNfftPzeFNTTtfiUgD3"
     },
     {
       "album": {
@@ -766,10 +784,36 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 180782,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/6C3fichCKetr98gYfulJgn"
+    },
+    {
+      "album": {
+        "name": "Be Somebody (Achilles Club Mix)",
+        "url": "https://open.spotify.com/album/0EkXlNBvNWFkp5xDvRnl8k"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Hagen",
+          "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
+        },
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        },
+        {
+          "name": "ALIUS",
+          "url": "https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158809,
+      "name": "Be Somebody - Achilles Club Mix",
+      "url": "https://open.spotify.com/track/6aPyvA6WN4Pt6qW1SAWybY"
     },
     {
       "album": {
@@ -1405,6 +1449,32 @@
     },
     {
       "album": {
+        "name": "Can't Hide (feat. Emma Zander)",
+        "url": "https://open.spotify.com/album/2KczYVq6l8Sys9ix4bjZX6"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Corporate Slackrs",
+          "url": "https://open.spotify.com/artist/57TvkbpmyWEXja8k98ZFFB"
+        },
+        {
+          "name": "Emma Zander",
+          "url": "https://open.spotify.com/artist/1e5shldsBYSPVVugyEzvcQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191419,
+      "name": "Can't Hide (feat. Emma Zander)",
+      "url": "https://open.spotify.com/track/2iVRhkhzByDj018PP6qFXB"
+    },
+    {
+      "album": {
         "name": "Can't Stop Me",
         "url": "https://open.spotify.com/album/0CDqwh4ucBEf5PgS33fr04"
       },
@@ -1826,7 +1896,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 151065,
       "name": "Dance Dance (feat. Alessandra)",
       "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
@@ -2415,6 +2485,32 @@
     },
     {
       "album": {
+        "name": "Elegibo (Uma Historia De Ifa)",
+        "url": "https://open.spotify.com/album/0UI7aUhxJM6okLB8P2MYrK"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        },
+        {
+          "name": "Mildenhaus",
+          "url": "https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Elegibo (Uma Historia De Ifa)",
+      "url": "https://open.spotify.com/track/2Tr1U7YMP4Z9x4ItgHB34o"
+    },
+    {
+      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK"
       },
@@ -2820,7 +2916,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 157401,
       "name": "Feel Alive (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
@@ -3002,6 +3098,28 @@
       "duration_ms": 154560,
       "name": "Feel The Same (feat. Jordan Grace) - Alternative Mix",
       "url": "https://open.spotify.com/track/7oIRkPpm2PwTniDA85qOky"
+    },
+    {
+      "album": {
+        "name": "Feel Your Love",
+        "url": "https://open.spotify.com/album/4Fua9Lwtxb7WtxFwxux3cI"
+      },
+      "artists": [
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/1yySxSMqnEwNQL9yVB4bge"
     },
     {
       "album": {
@@ -3583,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/3tBXAv3cZpJ7lGFQtZiQua"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205761,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7cf2bjFCk73V3WNdnb7dmL"
+    },
+    {
+      "album": {
         "name": "Hip Hop (Eskei83 Remix)",
         "url": "https://open.spotify.com/album/1UWP9ZzYXq4ZA9zvBDrZqb"
       },
@@ -3768,7 +3904,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 128437,
       "name": "Home",
       "url": "https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA"
@@ -3896,7 +4032,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
@@ -4048,7 +4184,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 184000,
       "name": "I Don't Mind (feat. Selva)",
       "url": "https://open.spotify.com/track/3MZDZFBrGJKsHc0R9K6bfn"
@@ -5069,6 +5205,50 @@
     },
     {
       "album": {
+        "name": "Lay Low (Nick Strand x Mio Remix)",
+        "url": "https://open.spotify.com/album/3trIk2OuY1TMPHENvlMLy3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Nick Strand",
+          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
+        },
+        {
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Lay Low (Nick Strand x Mio Remix)",
+      "url": "https://open.spotify.com/track/2mxBOb8OJa9VaYT454hKvD"
+    },
+    {
+      "album": {
+        "name": "Lay Low (Ti\u00ebsto VIP Mix)",
+        "url": "https://open.spotify.com/album/2eoM5rDP2qp7MV5FE7p3wr"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Lay Low (Ti\u00ebsto VIP Mix)",
+      "url": "https://open.spotify.com/track/3arD8N1yRHfbNe6kI3vyZF"
+    },
+    {
+      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7s0q6UVe9I9vof57x7dr2J"
       },
@@ -5614,7 +5794,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 162992,
       "name": "Love Me Like You Do",
       "url": "https://open.spotify.com/track/4lnsq5FUorsNlS9wZ0c9Yv"
@@ -5938,7 +6118,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
@@ -6136,7 +6316,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 287400,
       "name": "Midgard",
       "url": "https://open.spotify.com/track/7GdiWNAHrnRXo0pkjJzP6S"
@@ -6184,6 +6364,42 @@
       "duration_ms": 222071,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/7sJdjALeEOXSIIvlMPdJAe"
+    },
+    {
+      "album": {
+        "name": "Monster (feat. LUM!X, Gabry Ponte) [Slowed Version]",
+        "url": "https://open.spotify.com/album/0rDwHNE8nm9Icdgzecewx1"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Slowed Down Tunes",
+          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165577,
+      "name": "Monster (feat. LUM!X, Gabry Ponte) - Slowed Version",
+      "url": "https://open.spotify.com/track/1USYre3e8uUmpeY9fwKsp2"
+    },
+    {
+      "album": {
+        "name": "Monster (feat. LUM!X, Gabry Ponte) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/5bjLeN6GcZpFMP2hBjMjQ0"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Sped Up Tunes",
+          "url": "https://open.spotify.com/artist/2ts13g0k5xRvkUV4yGvXYF"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122409,
+      "name": "Monster (feat. LUM!X, Gabry Ponte) - Sped Up Version",
+      "url": "https://open.spotify.com/track/3RXqPSEMCXYoLbe4iiKgOj"
     },
     {
       "album": {
@@ -6506,6 +6722,32 @@
       "duration_ms": 178125,
       "name": "My Life (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki"
+    },
+    {
+      "album": {
+        "name": "My Life (feat. The Runaway Club)",
+        "url": "https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "The Runaway Club",
+          "url": "https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "My Life (feat. The Runaway Club)",
+      "url": "https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH"
     },
     {
       "album": {
@@ -6872,6 +7114,24 @@
       "duration_ms": 112320,
       "name": "Nitrous - Sped Up Version",
       "url": "https://open.spotify.com/track/1D63zvpwJg1AQkNoQszZHL"
+    },
+    {
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
     },
     {
       "album": {
@@ -7436,7 +7696,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 166299,
       "name": "Papapo",
       "url": "https://open.spotify.com/track/19kKBMycCxe3KQP8Ljaruz"
@@ -7520,7 +7780,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 168184,
       "name": "Partly Cloudy",
       "url": "https://open.spotify.com/track/5hhVwJPPEB0gUvcohcx90K"
@@ -7937,6 +8197,24 @@
     },
     {
       "album": {
+        "name": "Rave All Night",
+        "url": "https://open.spotify.com/album/43JAJbPOaZcDmuWfCEPb2z"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clash",
+          "url": "https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156195,
+      "name": "Rave All Night",
+      "url": "https://open.spotify.com/track/2MZZrysYKHi7oz0AbuXrQv"
+    },
+    {
+      "album": {
         "name": "Rave Hoven (feat. Maikki)",
         "url": "https://open.spotify.com/album/2LYtTq3gF8dJ7bJ57lzNjQ"
       },
@@ -7978,7 +8256,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 139218,
       "name": "Rave People",
       "url": "https://open.spotify.com/track/4cmCtS8h63NMCqCIcRoRMm"
@@ -8323,6 +8601,36 @@
     },
     {
       "album": {
+        "name": "S*x Dr*gs and Alcohol (feat. Indox)",
+        "url": "https://open.spotify.com/album/5zefRKqVkCbszPv4QhuRWv"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "INDOX",
+          "url": "https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178690,
+      "name": "S*x Dr*gs and Alcohol (feat. Indox)",
+      "url": "https://open.spotify.com/track/1WEFw9eoOYGRrH9T69C7dg"
+    },
+    {
+      "album": {
         "name": "Same Man",
         "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
       },
@@ -8529,6 +8837,24 @@
     },
     {
       "album": {
+        "name": "Shadow (Phonk Remix)",
+        "url": "https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm"
+      },
+      "artists": [
+        {
+          "name": "Triplo Max",
+          "url": "https://open.spotify.com/artist/5vie0556qntEu1EgA7ijtF"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134736,
+      "name": "Shadow(Phonk Remix)",
+      "url": "https://open.spotify.com/track/4MY2EUZIoXyzrhUiUNXFR5"
+    },
+    {
+      "album": {
         "name": "Shake Girls",
         "url": "https://open.spotify.com/album/4D19bKyBFiw0YCp0f9g7PB"
       },
@@ -8680,7 +9006,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 115462,
       "name": "Side By Side - Radio Edit",
       "url": "https://open.spotify.com/track/3SFfDK8JxHnk5Iz3oV6eIc"
@@ -8960,6 +9286,24 @@
       "duration_ms": 164444,
       "name": "Somewhere (with Syn Cole)",
       "url": "https://open.spotify.com/track/53i9DQqHwjPFzHBIR5T4Q3"
+    },
+    {
+      "album": {
+        "name": "Sonata",
+        "url": "https://open.spotify.com/album/7zW592Ud9i3jRKBMvzxDie"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150535,
+      "name": "Sonata",
+      "url": "https://open.spotify.com/track/5fhIk6wCPr0NSR0rwMVQGF"
     },
     {
       "album": {
@@ -9473,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "Takata",
+        "url": "https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214310,
+      "name": "Takata",
+      "url": "https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6"
+    },
+    {
+      "album": {
         "name": "Take Me Away (Into The Night)",
         "url": "https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc"
       },
@@ -9514,7 +9876,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 205217,
       "name": "Take Me Away Again",
       "url": "https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j"
@@ -10600,7 +10962,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 140624,
       "name": "Until The Bassline Drops",
       "url": "https://open.spotify.com/track/6K9ZLk4dhMa9mUmUNyvUwT"
@@ -10684,7 +11046,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 166451,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
@@ -11232,7 +11594,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 165164,
       "name": "Work My Body",
       "url": "https://open.spotify.com/track/6QgPOjTFlKoNQkZK2gYYjY"
@@ -11492,6 +11854,32 @@
       "duration_ms": 147428,
       "name": "You're Makin Me High",
       "url": "https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ"
+    },
+    {
+      "album": {
+        "name": "Your Love (feat. BLAME)",
+        "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "BLAME",
+          "url": "https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190140,
+      "name": "Your Love (feat. BLAME)",
+      "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
     }
   ],
   "url": "https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI"

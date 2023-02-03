@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 
 > Best of the Jazz music scene in India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 71 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,223 likes - 71 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 | 70 | [Odyssey](https://open.spotify.com/track/1D8rQekX3Fv0IslJZdcSAC) | [MND FLO](https://open.spotify.com/artist/3frRoSAiJMO7j7ybeVXiVD) | [From Time](https://open.spotify.com/album/0DvwMXi3zRiWKotEUC7xrS) | 6:09 |
 | 71 | [India](https://open.spotify.com/track/4NZXQBEbbuf6gnK44B1ZXv) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [A HANDFUL OF BEAUTY \(with John McLaughlin\)](https://open.spotify.com/album/1mfJkWGwzdCc5Vo6lZBFwu) | 12:38 |
 
-Snapshot ID: `MTY3MTAyOTU4MSwwMDAwMDAwMGZmMGVlYjg2OTM3MTg4MTYyOTI3YzhiOWNjYjE0MmNm`
+Snapshot ID: `MTY3NTMzMjcxOSwwMDAwMDAwMGI1MzA5MWQzYjJkNGQ1MTE3NzRmNDcyZGE3NGZkZGFm`

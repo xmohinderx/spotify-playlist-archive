@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,366 likes - 175 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,542 likes - 175 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 107 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 |
 | 108 | [I Don't Give A](https://open.spotify.com/track/7L93Cui2nQSEc1LtVPUBxK) | [ANIMA!](https://open.spotify.com/artist/3xbmS6qcRWTyILBoaqAPT4) | [Not At This Time](https://open.spotify.com/album/1fLXnqDWz7Bc81mxeuDqII) | 3:39 |
 | 109 | [Greatest Hits](https://open.spotify.com/track/1vd8unAujc0F6ISqs4lxxL) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Greatest Hits](https://open.spotify.com/album/7eDvFmvimfSn6p8J8Spmm5) | 3:28 |
-| 110 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 |
+| 110 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 |
 | 111 | [Control Freak](https://open.spotify.com/track/7IYOaR5E8YLFR3vycobgjT) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Control Freak](https://open.spotify.com/album/2IyVd8sw2WiUv1ymTQItQ8) | 3:29 |
 | 112 | [Feels So Good](https://open.spotify.com/track/1X0GH4jrFy1tDUcMXMfhLP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Feels So Good](https://open.spotify.com/album/653ugBySrH6gPqqAu9tIK0) | 3:15 |
 | 113 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 |

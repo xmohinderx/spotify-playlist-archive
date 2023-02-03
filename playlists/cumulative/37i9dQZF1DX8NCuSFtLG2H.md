@@ -4,7 +4,7 @@
 
 > Relax to the sounds of the kora.
 
-133 songs - 10 hr 47 min
+134 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Kabou](https://open.spotify.com/track/5JhfGNUdmbI23BqJsACxg5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 4:17 | 2022-04-15 |  |
 | [Kadiatou](https://open.spotify.com/track/18ei221cMqAjQuQYT0RxNW) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 4:32 | 2022-04-15 | 2022-07-29 |
 | [Kadiatou](https://open.spotify.com/track/5PTOrJk0mzAEAhH1DH5aUP) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3MA](https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6) | 4:32 | 2022-07-18 |  |
-| [Kaira](https://open.spotify.com/track/3zSgTbLfO17pOunhI10UP5) | [Ballaké](https://open.spotify.com/artist/15nK88470G6NXcN9MWdx11) | [Kora Music From Mali](https://open.spotify.com/album/7kO8Gdldw0NADGlTg9txZX) | 7:09 | 2022-04-15 |  |
+| [Kaira](https://open.spotify.com/track/3zSgTbLfO17pOunhI10UP5) | [Ballaké](https://open.spotify.com/artist/15nK88470G6NXcN9MWdx11) | [Kora Music From Mali](https://open.spotify.com/album/7kO8Gdldw0NADGlTg9txZX) | 7:09 | 2022-04-15 | 2023-02-03 |
+| [Kaira](https://open.spotify.com/track/0gFU70361CpPcNeDJV7Ui4) | [Jeli Moussa Sissoko](https://open.spotify.com/artist/3fDyeaDagy8d75RM9boabh) | [Ballaké \(Kora Music From Mali\)](https://open.spotify.com/album/1Cj3soZ3q1E3hCDHQyeEZM) | 7:09 | 2022-07-18 |  |
 | [Kaira](https://open.spotify.com/track/1I8ght01aIiaMLQoRANyMK) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kaira](https://open.spotify.com/album/60N0peIXBmHENfUACesjx3) | 8:08 | 2022-04-15 | 2022-07-29 |
 | [Kaira](https://open.spotify.com/track/35cTt4VTLameSYHAwsDGjq) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kaira](https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti) | 8:08 | 2022-07-18 |  |
 | [Kaira Konkoba](https://open.spotify.com/track/0Gkomv7zRN8WlLg6B4gyIv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ), [Derek Gripper](https://open.spotify.com/artist/6kUx0oARAtS3eKx7B6CKH2) | [Mali in Oak](https://open.spotify.com/album/2LoVU095gIMOkVet1EWSf8) | 3:48 | 2022-04-15 |  |

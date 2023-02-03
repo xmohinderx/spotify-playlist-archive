@@ -2,7 +2,7 @@
 
 ### [Robo\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUcRrhkfhG22)
 
-> Funk\-bots assemble!
+> Funky vocoders and talk boxes
 
 88 songs - 6 hr 37 min
 

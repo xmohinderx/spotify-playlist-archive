@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-616 songs - 1 day 5 hr 39 min
+617 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [GANG GANG \(with Lil Wayne\)](https://open.spotify.com/track/0ezwvY7TkCwDEkKR49084k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:58 | 2021-09-03 | 2022-11-12 |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 |  |
 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 | 2021-09-03 | 2022-10-08 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-24 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-24 | 2023-02-03 |
 | [Get Dangerous](https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Get Dangerous](https://open.spotify.com/album/7aYuQP9WI4RSXdGtJF2ToC) | 2:11 | 2022-08-12 | 2022-08-20 |
 | [Get Fly \(feat\. DaBaby\)](https://open.spotify.com/track/2hqkcvTKlWJOczatljDKHz) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Secret Service](https://open.spotify.com/album/2pSz1dRM7q3m4xtkE4Q8Jn) | 2:47 | 2021-09-03 | 2022-03-18 |
 | [Get Money](https://open.spotify.com/track/3kscnmDN5XYMWs2yTohg0k) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Get Money](https://open.spotify.com/album/6d98fUHeyYuEZK5nd0quxs) | 2:18 | 2022-03-25 | 2022-04-17 |
@@ -385,7 +385,7 @@
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-03 | 2022-11-12 |
 | [No Mind](https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [No Mind](https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2) | 2:41 | 2022-09-02 | 2022-09-17 |
 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 | 2022-12-16 |  |
-| [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 | 2022-07-15 | 2022-12-03 |
+| [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 | 2022-07-15 |  |
 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 | 2022-09-23 | 2023-01-28 |
 | [NO TRENDS](https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/5ESucdNFBDxfVPHprdjfA7) | 2:31 | 2022-01-21 | 2022-07-29 |
 | [NO TRENDS](https://open.spotify.com/track/5ovhl0nECbfRyApcixLy2d) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:31 | 2022-07-22 | 2022-10-24 |
@@ -433,7 +433,8 @@
 | [Powered Up](https://open.spotify.com/track/5yh54SEOyyEeif8EGZg03m) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Powered Up](https://open.spotify.com/album/5m7wgkmscpoQxCgZMBp9ad) | 2:59 | 2022-03-25 | 2022-04-20 |
 | [PradadaBang](https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [PradadaBang](https://open.spotify.com/album/7Gm8THb5g2e7vx8ZhOjWR3) | 2:25 | 2021-09-03 | 2022-07-27 |
 | [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 |  |
-| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 |  |
+| [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 | 2023-02-03 |
+| [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-01-27 |  |
 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 | 2022-07-15 | 2022-09-03 |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-09-03 | 2022-03-17 |
 | [Proud Of Me Now](https://open.spotify.com/track/0DNOrkMQjmB0W99PU2LlDe) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Me Now](https://open.spotify.com/album/48xbdZgpEOSbBVJRoM1GBG) | 2:03 | 2021-09-03 | 2022-04-18 |

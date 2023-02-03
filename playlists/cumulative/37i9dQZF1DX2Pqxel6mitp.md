@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-151 songs - 9 hr 19 min
+152 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 | 2022-05-25 |  |
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 |  |
 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 | 2022-05-25 |  |
-| [Small Town Nashville Blues](https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [Make Myself Me Again](https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre) | 2:49 | 2022-07-08 |  |
+| [Small Town Nashville Blues](https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [Make Myself Me Again](https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre) | 2:49 | 2022-07-08 | 2023-02-03 |
 | [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 | 2022-05-25 | 2023-01-22 |
 | [Somebody Was Watching](https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:07 | 2022-05-25 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 |  |
@@ -138,6 +138,7 @@
 | [Take A Little Walk With Me \- Remastered](https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Otis Spann Is The Blues \(Remastered\)](https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2) | 3:27 | 2022-10-10 |  |
 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 | 2022-10-14 |  |
 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 | 2022-05-25 |  |
+| [That's All Right](https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Presenting Arthur "Big Boy" Crudup](https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ) | 2:24 | 2023-01-20 |  |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mean Ole Frisco](https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr) | 2:20 | 2022-07-08 | 2022-07-29 |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/3WXj55GMw8gu6uxLsWVVHC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:22 | 2023-01-13 | 2023-01-26 |
 | [The Easy Blues](https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:21 | 2022-05-25 |  |

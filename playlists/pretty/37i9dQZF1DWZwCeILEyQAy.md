@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,298 likes - 65 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,843 likes - 65 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 |
+| 1 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
 | 2 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
 | 3 | [Anxiety](https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:15 |
 | 4 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 64 | [Glass Slipper Flows](https://open.spotify.com/track/3vErHLskgUGG6CRu07Aggn) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Glass Slipper Flows](https://open.spotify.com/album/0o4eULaAwjLBMR2Ut7oiRq) | 4:43 |
 | 65 | [Mel Gibson](https://open.spotify.com/track/7zMJKI6mD8IaThzNTNXNeY) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:11 |
 
-Snapshot ID: `MTY3NDg0NDI3NCwwMDAwMDAwMDRjZTdkOTJjNGI0ZmRlOTg4ZGU1NTg5NTU1N2YzM2M1`
+Snapshot ID: `MTY3NTM2NjkwNSwwMDAwMDAwMDMwOTIwODQyZDI4ZWZiMTJkMGJlOTc4ODJmNmRmZjY0`

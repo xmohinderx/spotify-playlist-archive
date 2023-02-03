@@ -4,11 +4,11 @@
 
 > Move it and groove it to these great tunes!
 
-89 songs - 4 hr 44 min
+90 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [About That Time](https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [About That Time](https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23) | 3:12 | 2022-10-14 |  |
+| [About That Time](https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [About That Time](https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23) | 3:12 | 2022-10-14 | 2023-02-03 |
 | [Bad Habits](https://open.spotify.com/track/2jhsA2UJfvxsvMAOU9Oq9s) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:51 | 2022-03-31 | 2022-07-25 |
 | [Bam Bam](https://open.spotify.com/track/7yHKMYnJoR0mT3IIBczhKV) | [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys), [Coolie Ranx](https://open.spotify.com/artist/129KG3I5BRF7QqEHnPTs6C) | [It's A Bam Bam Diddly!](https://open.spotify.com/album/4tHDTFoSUB5Oavol8DQAuB) | 2:32 | 2022-03-31 | 2022-06-29 |
 | [Banana Boat Song \(Dance Version\)](https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 3:07 | 2022-07-15 | 2022-07-29 |
@@ -27,6 +27,7 @@
 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 | 2022-03-31 |  |
 | [Cold Heart](https://open.spotify.com/track/7CKRtwLxj8dd05CguZ26xK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cold Heart](https://open.spotify.com/album/1KpBAXivHXBMmafvWgCV80) | 3:22 | 2022-03-31 | 2022-07-29 |
 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 | 2022-03-31 |  |
+| [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 | 2023-02-03 |  |
 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 | 2022-12-09 | 2023-01-18 |
 | [Dance Through the Day](https://open.spotify.com/track/3VNxMj6URsie6GJbHGWmmO) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:35 | 2022-10-14 | 2022-11-13 |
 | [Dance Through the Day](https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:35 | 2022-03-31 | 2022-10-13 |

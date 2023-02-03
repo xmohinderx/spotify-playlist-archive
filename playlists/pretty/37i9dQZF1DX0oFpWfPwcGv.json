@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 37341,
+  "num_followers": 37389,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGNjZDIyYjI0YzEyNDZmYTMzNjZlNmM0MWYxNzEwOWZm",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDIxODBkMzM0ZTBlMmMyZjMyZmFiMTc0MTYwZDIxODA2",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Stand on the Word",
-        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
-      },
-      "artists": [
-        {
-          "name": "The Joubert Singers",
-          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Stand on the Word (Studio Version)",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 160906,
       "name": "Date With The Rain",
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Stand on the Word (Studio Version)",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Turn the Beat Around - 7\" Single Edit",
-      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Norma Jean",
         "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 366160,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Turn the Beat Around - 7\" Single Edit",
+      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
       "added_at": "2022-12-31 00:39:45",

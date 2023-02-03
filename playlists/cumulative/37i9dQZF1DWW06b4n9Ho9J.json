@@ -1324,7 +1324,7 @@
     {
       "album": {
         "name": "I See You Sometimes",
-        "url": "https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503"
+        "url": "https://open.spotify.com/album/6EbLhss9FGRx89U6Oo4DkB"
       },
       "artists": [
         {
@@ -1339,6 +1339,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185786,
+      "name": "I See You Sometimes",
+      "url": "https://open.spotify.com/track/0FBqO0pBgYmtQfRFXp2UwW"
+    },
+    {
+      "album": {
+        "name": "I See You Sometimes",
+        "url": "https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
       "duration_ms": 185786,
       "name": "I See You Sometimes",
       "url": "https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,756 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,809 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 1 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 | 2 | [Shine](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Shine](https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY) | 2:46 |
 | 3 | [Moments Of Sundown](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Moments Of Sundown](https://open.spotify.com/album/0h9MjPvEVqyJYox9mFdCsC) | 4:05 |
 | 4 | [Benicio](https://open.spotify.com/track/3hqiuD2RQmSj1T50vSS8cn) | [Blue Daisy](https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf) | [Benicio](https://open.spotify.com/album/46w9Kzfai8qegN2f2v07Ff) | 1:58 |

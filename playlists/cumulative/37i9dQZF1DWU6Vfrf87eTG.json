@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Blue Valentine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47trTvq8D3X8PH4CzrcpDW"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283600,
+      "name": "Granny Diner",
+      "url": "https://open.spotify.com/track/1zbBPMzpTqsXVbs7OHE0rI"
+    },
+    {
+      "album": {
         "name": "Friend EP",
         "url": "https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 288960,
       "name": "Granny Diner",
       "url": "https://open.spotify.com/track/0cad378gGsvZfnmE7Sxe9w"
@@ -1888,6 +1906,24 @@
     {
       "album": {
         "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220012,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/3ixOxnhDlzFguyEl2oXVm5"
+    },
+    {
+      "album": {
+        "name": "Fi",
         "url": "https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR"
       },
       "artists": [
@@ -1898,7 +1934,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 220012,
       "name": "Lakeside",
       "url": "https://open.spotify.com/track/7FVeGaVeBzyw2SKbHOWKMv"

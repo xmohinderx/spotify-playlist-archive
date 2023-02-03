@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 ### [Disco Deewane](https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x)
 
-> Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
+> Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,645 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,668 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 40 | [Aafat](https://open.spotify.com/track/4WIxDOCtF0ACdsoItOHZUp) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Maut Ka Saya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sGWyphxDQjVm14xjtRAgW) | 4:15 |
 | 41 | [Chandini Raat](https://open.spotify.com/track/3tAAtemXIyQdQiAKGjD5Tb) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 6:25 |
 | 42 | [Tum Tum Tumba](https://open.spotify.com/track/7bzrGfL5fxDUDZ7YBAkHnn) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH) | 8:29 |
-| 43 | [Karate](https://open.spotify.com/track/2Vm1gFcx3ekq1TFE1myUjR) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH) | 8:33 |
-| 44 | [Sanam Mere Sanam](https://open.spotify.com/track/5uha4XwzxCEl3SaLC9TOJT) | [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 6:50 |
-| 45 | [Dheere Dheere](https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 3:42 |
+| 43 | [Sanam Mere Sanam](https://open.spotify.com/track/5uha4XwzxCEl3SaLC9TOJT) | [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 6:50 |
+| 44 | [Dheere Dheere](https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 3:42 |
+| 45 | [Karate](https://open.spotify.com/track/2Vm1gFcx3ekq1TFE1myUjR) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH) | 8:33 |
 | 46 | [Sansein Behki](https://open.spotify.com/track/0O0ggVXgXSjp2d6LDmEoZA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Dilip Sen](https://open.spotify.com/artist/6lxW8OiV38ppL3Bm2Pdl9U) | [Aaina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5D3yhDwUoMpj4dVHqw07VL) | 5:01 |
 | 47 | [Osa Osa \- Meri Adalat / Soundtrack Version](https://open.spotify.com/track/794cBypJQISQCorrG7kQVX) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Meri Adalat](https://open.spotify.com/album/6lBnhdidEpordUsA3GooWS) | 6:59 |
 | 48 | [Bongo Bongo](https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:05 |
 | 49 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 | 50 | [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 |
 
-Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGJmYjA5ZjcyNDFlYWZlYzc2NGM5ODlmMjhjZTU5NjFl`
+Snapshot ID: `MTY3NTMxNzgyOCwwMDAwMDAwMDJmN2NhZGU5YzA4NTgwZWIzNTY0ZDRkNDJkOTgxZTM2`

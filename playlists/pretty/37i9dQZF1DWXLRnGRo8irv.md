@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: 고은이\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,998 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,000 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 8 | [ASTELLE](https://open.spotify.com/track/1ESs6DWq2CYMFfx0uq22cF) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MapleStory M : SIA ASTELLE \(Original Game Soundtrack\)](https://open.spotify.com/album/5NzuQRJ74SU69WQQdGbTPe) | 4:28 |
 | 9 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 |
 | 10 | [Your night in me](https://open.spotify.com/track/4jrJ8uVMv5XzWVh3UrCnLH) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 4:28 |
-| 11 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [GUMMY](https://open.spotify.com/artist/0Uq946Jy0jtL8oJayJF6wK) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
+| 11 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
 | 12 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
 | 13 | [Queen of Hearts](https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:06 |
 | 14 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 |

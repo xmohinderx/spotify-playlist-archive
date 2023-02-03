@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 170795,
+  "num_followers": 170848,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDRkM2U5M2Q4NDg1NDM5NWNjYThmYTdkZDJkZTdlYTU5",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDAwZjNmMDQ3ZjBiYTI1YzFmZGRkZmM2MmMxMDFhZDQ0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Eat The Elephant",
-        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 281626,
-      "name": "The Doomed",
-      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 195893,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Eat The Elephant",
+        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 281626,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
     },
     {
       "added_at": "2022-11-04 04:00:00",

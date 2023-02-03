@@ -756,10 +756,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 171213,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/1KsPi0McDgRINw6ClJoyUP"
+    },
+    {
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/2vW79BiE5ngvlFe7JMcBAx"
+      },
+      "artists": [
+        {
+          "name": "Dirty Beaches",
+          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171213,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/77dndMwNb4MhNPZAHdzDpb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-384 songs - 21 hr 30 min
+386 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Pick Yourself Up](https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 3:24 | 2022-07-25 | 2022-09-19 |
 | [pieces](https://open.spotify.com/track/5lIOCSamrX9G9BieD9tDl8) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [pieces](https://open.spotify.com/album/052yq9mMuoKXsIQKKk0zzp) | 2:28 | 2022-02-28 | 2022-03-31 |
 | [Pillow Talk](https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Pillow Talk](https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR) | 3:00 | 2022-07-15 |  |
+| [Pioneer Digital Plastic Sound](https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Pioneer Digital Plastic Sound](https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0) | 5:04 | 2023-02-02 |  |
 | [PLAY WITH FIRE](https://open.spotify.com/track/5f5LhZkpLnqUbwqPXeOSoH) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 2:50 | 2022-02-28 | 2022-04-19 |
 | [Poison](https://open.spotify.com/track/09cTiRshOYv9fVFrEZeL6q) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Robel Ketema](https://open.spotify.com/artist/4lTkauCDOkrOB493HZOzhK) | [Poison](https://open.spotify.com/album/6IL8XkH5PADpTdTNjBejVi) | 2:28 | 2021-10-27 | 2022-01-08 |
 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 | 2022-06-29 | 2023-01-20 |
@@ -375,6 +376,7 @@
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |
 | [We Like To Wuki](https://open.spotify.com/track/61EyDcgpYujFLrvd60da0l) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [We Like To Wuki](https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B) | 2:41 | 2022-08-12 | 2022-09-17 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-24 |  |
+| [we're the last to leave](https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [we're the last to leave](https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp) | 2:27 | 2023-02-02 |  |
 | [Weatherman \(feat\. Syd Silvair\)](https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Weatherman](https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW) | 4:50 | 2022-11-18 | 2023-01-30 |
 | [Weekdays](https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn) | [George Gretton](https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo) | [Ordinary Life](https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0) | 3:27 | 2022-09-06 | 2022-10-06 |
 | [Whatever You Want](https://open.spotify.com/track/7hlml5x7bmGCjNz408WIrh) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Whatever You Want](https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m) | 2:38 | 2022-03-17 | 2022-04-19 |

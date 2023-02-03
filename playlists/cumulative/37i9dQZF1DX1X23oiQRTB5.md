@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Zola au top de la première playlist de rap français !
+> GAULOIS & Ninho au top de la première playlist de rap français !
 
-134 songs - 6 hr 53 min
+136 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Daddy chocolat](https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Cartel : volume 1](https://open.spotify.com/album/3wro1GpN4PVPZIeg7ykUFk) | 3:11 | 2022-01-06 | 2022-03-11 |
 | [Dans le Réseau](https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans le Réseau](https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG) | 2:24 | 2022-01-06 | 2022-09-30 |
 | [De bon matin](https://open.spotify.com/track/3EwsJXInOSrHZqSRW2UceI) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [De bon matin](https://open.spotify.com/album/372hc8zOtZ3o0oAX544SxU) | 3:03 | 2022-01-06 | 2022-02-25 |
-| [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-04-28 |  |
+| [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-04-28 | 2023-02-03 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 |  |
 | [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-07-14 | 2022-09-02 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2022-01-06 | 2022-01-21 |
@@ -66,6 +66,7 @@
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 | 2022-11-11 |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-01-12 |  |
+| [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-02-02 |  |
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |
 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 | 2022-10-20 | 2023-01-13 |
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-07 | 2022-07-01 |
@@ -105,13 +106,14 @@
 | [Niobe](https://open.spotify.com/track/0MBUiPhMx69GRBu4PwfFjJ) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:28 | 2022-12-08 | 2023-01-20 |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-31 | 2023-01-20 |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 | 2022-03-18 |
-| [PAPEL](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [PAPEL](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 |  |
+| [PAPEL](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [PAPEL](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 | 2023-02-03 |
 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 | 2022-06-23 | 2022-10-14 |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-18 |  |
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-01-27 | 2022-11-25 |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-10 | 2022-05-20 |
 | [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-08-04 |  |
 | [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2022-10-06 |  |
+| [Philly](https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Philly](https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP) | 3:48 | 2023-02-02 |  |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-13 |  |
 | [R.A.S.](https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [R.A.S.](https://open.spotify.com/album/5aLlyDJDyw2OD4ESHvM7D7) | 3:06 | 2022-02-24 | 2022-06-17 |

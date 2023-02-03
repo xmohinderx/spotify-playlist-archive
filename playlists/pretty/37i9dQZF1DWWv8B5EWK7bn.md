@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Listen to John Cale's oblique selection, parallel to his new album, MERCY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,015 likes - 30 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,026 likes - 30 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

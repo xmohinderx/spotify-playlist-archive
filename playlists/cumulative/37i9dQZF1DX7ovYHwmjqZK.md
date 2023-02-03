@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-127 songs - 7 hr 37 min
+128 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 | 2021-11-26 |  |
 | [Por Aí](https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [O Estrangeiro](https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d) | 2:51 | 2021-11-26 |  |
 | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ) | [Rodrigo Borges](https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU), [Mauricio Tizumba](https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX), [Josi Lopes](https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q), [Play](https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP) | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW) | 5:32 | 2021-11-26 |  |
-| [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 | 2021-11-26 |  |
+| [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 | 2021-11-26 | 2023-02-03 |
+| [Quinze Pras Sete na Vila](https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Balanço na Quebrada](https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r) | 3:44 | 2022-10-14 |  |
 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |
 | [Samba da rosa](https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o) | 2:50 | 2022-10-14 |  |

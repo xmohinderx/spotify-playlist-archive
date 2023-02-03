@@ -1,15 +1,15 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 445411,
+  "num_followers": 445465,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNjg0NSwwMDAwMDAwMDEyZGFhOWE5NzEzYTI1MWVkNTE0NzAzNmI0MzYzNDEx",
+  "snapshot_id": "MTY3NDgzNjg0NSwwMDAwMDAwMDJlYjhhZGNkNzk1MGI5ZGUyN2IzODg4NmIzOTUwYjRl",
   "tracks": [
     {
-      "added_at": "2023-02-02 00:58:19",
+      "added_at": "2023-02-03 00:58:47",
       "album": {
         "name": "Gates of Horn",
         "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
     },
     {
-      "added_at": "2023-02-02 00:58:19",
+      "added_at": "2023-02-03 00:58:47",
       "album": {
         "name": "The Boogie Down South",
         "url": "https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT"
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
     },
     {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
-    },
-    {
       "added_at": "2023-01-19 23:53:27",
       "album": {
         "name": "War",
@@ -235,6 +219,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "MONOMANIA",
-        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "NO WAY OUT",
-      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "MONOMANIA",
+        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "NO WAY OUT",
+      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
     },
     {
-      "added_at": "2023-02-02 00:58:19",
+      "added_at": "2023-02-03 00:58:47",
       "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "{ The Dreamer's Hotel }",
+      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "The Lost Boys",
         "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 203520,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer's Hotel }",
-      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Holding Absence",
@@ -1343,6 +1327,22 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
     },
     {
+      "added_at": "2023-02-03 00:58:47",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
+    },
+    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Familiar Drugs",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Hygiene",
-        "url": "https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Tiresome",
-      "url": "https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Hygiene",
+        "url": "https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Tiresome",
+      "url": "https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1585,22 +1601,6 @@
       "url": "https://open.spotify.com/track/5zKBLSRXoRr94YOvkslsn8"
     },
     {
-      "added_at": "2023-02-02 00:58:19",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "One Blood We Bleed",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
     }
   ],
   "unique_name": "Crash Course",

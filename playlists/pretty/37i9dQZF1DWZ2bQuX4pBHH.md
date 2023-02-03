@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,649 likes - 60 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,839 likes - 60 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 6 | [Dildaara \(Stand By Me\)](https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 4:09 |
 | 7 | [Main Yahaan Hoon](https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 4:55 |
 | 8 | [Tujh Mein Rab Dikhta Hai \- Ii](https://open.spotify.com/track/4Q3oEhpsDommo2naYhCpAl) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 1:41 |
-| 9 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 |
-| 10 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 |
+| 9 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 |
+| 10 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 |
 | 11 | [Haule Haule](https://open.spotify.com/track/2UKK9UEbKlykbmLVP1zWIQ) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:23 |
 | 12 | [Bole Chudiyan](https://open.spotify.com/track/1uzkWkIaWaxzHJgJ4Fy5rO) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
 | 13 | [Ladki Badi Anjani Hai](https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 6:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 | 60 | [San Sanana](https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:55 |
 
-Snapshot ID: `MTY3NDIwMDk1OSwwMDAwMDAwMDU1MmU5YTJiNjYyOGQ1ODFlMDY4MDBmY2ZkNmRlOTc1`
+Snapshot ID: `MTY3NDIwMDk1OSwwMDAwMDAwMGMzMjFhOTk2MGE1YTM1MzYzOGMzZTdmZDM1YjcxNTZk`

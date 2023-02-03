@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 94875,
+  "num_followers": 94996,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNDE2MSwwMDAwMDAwMDZmNzVkN2I3NzYzOGMzNmIzNjY5YmVkOGU2MmJkOWE0",
+  "snapshot_id": "MTY3NDgzNDE2MSwwMDAwMDAwMDdjM2FhNzNmODllNWI2N2VkNzgzYjYxZDRmZTU5OGE5",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
     },
     {
+      "added_at": "2023-02-03 01:32:12",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Radar",
@@ -551,22 +567,6 @@
       "duration_ms": 162288,
       "name": "Radar",
       "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
-    },
-    {
-      "added_at": "2023-02-02 01:27:06",
-      "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Indios",
-        "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "Jullie",
-      "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Indios",
+        "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "Jullie",
+      "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "A D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "A D\u00f3nde Vamos?",
+      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -887,22 +907,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "A D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 202230,
-      "name": "A D\u00f3nde Vamos?",
-      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 122456,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 225264,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Te Pienso Todo el Tiempo",
         "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "QUN",
-        "url": "https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 189885,
-      "name": "QUN",
-      "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
+      "duration_ms": 225264,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 235865,
       "name": "Intensidad",
       "url": "https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "QUN",
+        "url": "https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 189885,
+      "name": "QUN",
+      "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ni una Gota de Amor",
-        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
+        "name": "Un Vaso de Agua",
+        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Hern\u00e1n Segret",
+          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
         }
       ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
+      "duration_ms": 88957,
+      "name": "Si No Es As\u00ed",
+      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Un Vaso de Agua",
-        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
+        "name": "Ni una Gota de Amor",
+        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
       "artists": [
         {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        },
-        {
-          "name": "Hern\u00e1n Segret",
-          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 88957,
-      "name": "Si No Es As\u00ed",
-      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Romeo y Violeta",
-        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 230296,
-      "name": "Romeo y Violeta",
-      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Abriendo Latidos",
         "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Romeo y Violeta",
+        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 230296,
+      "name": "Romeo y Violeta",
+      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
     },
     {
       "added_at": "2023-01-20 03:00:00",

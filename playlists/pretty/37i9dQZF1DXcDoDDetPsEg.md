@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,434 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,426 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 30 | [Blame Brexit](https://open.spotify.com/track/6SvG9RqYVvdvj14vVH8d4F) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Blame Brexit](https://open.spotify.com/album/06C78rpL9iz62Y6fRyMCgR) | 3:08 |
 | 31 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 32 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
-| 33 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 |
+| 33 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
 | 34 | [Devil's Enemy](https://open.spotify.com/track/1emHD7AyFLPpXzCJlJQra9) | [Zakhar](https://open.spotify.com/artist/6sGJ9AOz3XJH8S8WDcZUUO), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Devil's Enemy](https://open.spotify.com/album/2LXhXbj69PT7gMqvqjUJD0) | 2:58 |
 | 35 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 36 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 45 | [No Sleep](https://open.spotify.com/track/3jIH50Mi1ch3XtHvXcAPtn) | [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [No Sleep](https://open.spotify.com/album/4HEGO2kaQCPHJ0iMNBaMOz) | 3:05 |
 | 46 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/4wYVuGsXa4iPY8BYthBGWc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6) | 2:55 |
 
-Snapshot ID: `MTY3NTA4OTM4MSwwMDAwMDAwMDRhZmJiNmM4MWVhZmQyMTI5N2I5MThiMzJhN2VjNDJk`
+Snapshot ID: `MTY3NTA4OTM4MSwwMDAwMDAwMDg5ODA0MzJiZTFmYmVhZjc4MDkwZGY0MzI5ODNkM2M0`

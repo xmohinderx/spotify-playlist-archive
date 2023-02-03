@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 24571,
+  "num_followers": 24592,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDg5NTk2MmI2OGFkNjc5NmQxYjM0MmI1ZDBiYmNjMzBh",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDFhZmViZTZkZDFlMTM5Mjc5NjJiNjIzNzU2Njg0NTNi",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
-      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Asuca (Remixes)",
         "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 356676,
       "name": "Asuca - Tribal Mix",
       "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
+      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -575,22 +575,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        },
-        {
-          "name": "Wild Pitch",
-          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
         }
       ],
-      "duration_ms": 390986,
-      "name": "Rise From Your Grave - Wild Pitch Mix",
-      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
+      "duration_ms": 430867,
+      "name": "Unbe - Erick 'More' Mix",
+      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -663,18 +659,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
       },
       "artists": [
         {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        },
+        {
+          "name": "Wild Pitch",
+          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
         }
       ],
-      "duration_ms": 430867,
-      "name": "Unbe - Erick 'More' Mix",
-      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
+      "duration_ms": 390986,
+      "name": "Rise From Your Grave - Wild Pitch Mix",
+      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify - Vocal Mix",
-      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Dancin' EP",
-        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
       },
       "artists": [
         {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
         }
       ],
-      "duration_ms": 731746,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
+      "duration_ms": 545040,
+      "name": "Justify - Vocal Mix",
+      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -931,6 +915,22 @@
       "duration_ms": 494374,
       "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
       "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Dancin' EP",
+        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731746,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 605306,
       "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
       "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People - My People Mix",
-      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Northern Lights (Mixes)",
         "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 479413,
       "name": "Northern Lights - The Prime Cutz Mix",
       "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People - My People Mix",
+      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
     },
     {
       "added_at": "2022-03-03 13:59:16",

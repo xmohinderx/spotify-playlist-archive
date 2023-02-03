@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,411 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,414 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 18 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 |
 | 19 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
 | 20 | [Weather](https://open.spotify.com/track/2D3gvohUyOfXIVX6Mvhqae) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Weather](https://open.spotify.com/album/1RzY5TbPOlmkqAHNbRjQ7q) | 3:42 |
-| 21 | [True Blue](https://open.spotify.com/track/1KsPi0McDgRINw6ClJoyUP) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Badlands](https://open.spotify.com/album/5PV54mAI2Vrlbp1SfjeD6a) | 2:51 |
+| 21 | [True Blue](https://open.spotify.com/track/77dndMwNb4MhNPZAHdzDpb) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Badlands](https://open.spotify.com/album/2vW79BiE5ngvlFe7JMcBAx) | 2:51 |
 | 22 | [Waiting for You](https://open.spotify.com/track/0Wvj8X9hUt5LYuVJP3odI9) | [Kohinoorgasm](https://open.spotify.com/artist/1cm6EkpiMxuthcu5GUyCSs) | [Chalo \- EP](https://open.spotify.com/album/3pXzxOYtSC86C01aATZ5Pd) | 5:01 |
 | 23 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
 | 24 | [Bad Habits](https://open.spotify.com/track/7bM54jOBYpZ1FOd7xUFCpp) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Visions](https://open.spotify.com/album/0V4kDiBvMZDxtPGaXf3fqc) | 3:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 39 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
 | 40 | [This Is A Life \- Extended](https://open.spotify.com/track/2YDj0uV5P7kKN4gGcUMEJT) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 3:35 |
 
-Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMDc2MGRiYzU0NWZmZTI2M2JlNWMyODk2NzdhYTI3ZTU4`
+Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMDIwZjdiMzA5OWViZDk2YTM2MDFmNzIxNDZlYjk2ZDc5`

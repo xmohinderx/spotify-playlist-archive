@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Parker McCollum",
-  "num_followers": 398305,
+  "num_followers": 398365,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMDIwZGRhOGU5YzIzMjQ2OGQ3YzRmZjJiYmY5MTk2MGI0",
+  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMGU1NDE0NTkyOTg0ZWQxNTUxNDk2YzJmZDQ0MmM0Mjg0",
   "tracks": [
     {
       "added_at": "2023-02-01 05:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 167512,
+      "name": "Where the Wildflowers Lay",
+      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 172314,
       "name": "That Drink (feat. Neal McCoy)",
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
-      },
-      "artists": [
-        {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
-        }
-      ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+        "name": "Chisholm Trail",
+        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
       },
       "artists": [
         {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
         }
       ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+      "duration_ms": 187370,
+      "name": "Chisholm Trail",
+      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Chisholm Trail",
-        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
       "artists": [
         {
-          "name": "Dalton Torres",
-          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
         }
       ],
-      "duration_ms": 187370,
-      "name": "Chisholm Trail",
-      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 153125,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "Been Better",
+        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "Been Better",
+      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "S\u00d5L Sessions",
         "url": "https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Keep Up With A Cowgirl",
-        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 213759,
-      "name": "Keep up with a Cowgirl",
-      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
         "name": "It Wasn\u2019t Love",
         "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
       },
@@ -1507,34 +1507,34 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Been Better",
-        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
+        "name": "Sleep, My Mind & You",
+        "url": "https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV"
       },
       "artists": [
         {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+          "name": "Palmer Anthony",
+          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
         }
       ],
-      "duration_ms": 196507,
-      "name": "Been Better",
-      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
+      "duration_ms": 236672,
+      "name": "Sleep, My Mind & You",
+      "url": "https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH"
     },
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "What's Your Drinkin' Song",
-        "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
       "artists": [
         {
-          "name": "Kyle Park",
-          "url": "https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 225060,
-      "name": "What's Your Drinkin' Song",
-      "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1583,22 +1583,6 @@
       "duration_ms": 183763,
       "name": "Baby Don't",
       "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Longcut",
-        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 200556,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Sleep, My Mind & You",
-        "url": "https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV"
+        "name": "What's Your Drinkin' Song",
+        "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
       },
       "artists": [
         {
-          "name": "Palmer Anthony",
-          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
+          "name": "Kyle Park",
+          "url": "https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC"
         }
       ],
-      "duration_ms": 236672,
-      "name": "Sleep, My Mind & You",
-      "url": "https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH"
+      "duration_ms": 225060,
+      "name": "What's Your Drinkin' Song",
+      "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Longcut",
+        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 200556,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1655,34 +1655,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Where Cotton Is King",
-        "url": "https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7"
+        "name": "You Ain't No Cowboy",
+        "url": "https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Where Cotton Is King",
-      "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"
+      "duration_ms": 208106,
+      "name": "You Ain't No Cowboy",
+      "url": "https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj"
     }
   ],
   "unique_name": "Texas Country Now",

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Ghost In The Machine (Alternate Sequence)",
+        "url": "https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "I Burn For You",
+      "url": "https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f"
+    },
+    {
+      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },

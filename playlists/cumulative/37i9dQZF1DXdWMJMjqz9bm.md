@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
-439 songs - 20 hr 22 min
+440 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [C'est la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [C'est la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 | 2022-08-18 |  |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 |  |
 | [Call You Drunk](https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Call You Drunk](https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT) | 2:13 | 2022-12-09 |  |
+| [Can't Get This Right](https://open.spotify.com/track/2u38tTBCk0OBbjLBM9GoBU) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Can't Get This Right](https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN) | 2:25 | 2023-01-27 |  |
 | [Cape Cod](https://open.spotify.com/track/4NwylqX02BEv6yuMdGFUj5) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Cape Cod](https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h) | 2:45 | 2021-11-16 | 2022-02-26 |
 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 | 2022-04-04 | 2022-06-11 |
 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 | 2022-10-14 |  |

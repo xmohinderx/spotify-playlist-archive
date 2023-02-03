@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,667 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,743 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 54 | [Madrugada](https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG) | [Madrugada](https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y) | 3:48 |
 | 55 | [O Seu Amor É \- Remix](https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Benito Vitorette](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [O Seu Amor É \(Remix\)](https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw) | 2:52 |
 | 56 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
-| 57 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
-| 58 | [Novo Lar](https://open.spotify.com/track/6Oxh5rxRzj9cDuTxtDbKXc) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Novo Lar](https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0) | 4:06 |
+| 57 | [Novo Lar](https://open.spotify.com/track/6Oxh5rxRzj9cDuTxtDbKXc) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Novo Lar](https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0) | 4:06 |
+| 58 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
 | 59 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 60 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alvo Mais Que a Neve](https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp) | 3:37 |
 | 61 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDY1MTJjNzRjZmI4ZTNjMzFjZTRlZjcxMDU4YWY0MGVi`
+Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDZmNDUyODI0NGNlZDFiZThlMzFkN2NhYzUxN2YxNDgx`

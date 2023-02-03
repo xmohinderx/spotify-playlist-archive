@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: C Stunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,692 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,784 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 12 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havin](https://open.spotify.com/artist/36RF9L1ABN67l6lYDXYYcY) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
 | 13 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 |
 | 14 | [M's](https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh) | [Babyfa$e James](https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8) | [M's](https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq) | 2:16 |
-| 15 | [Pound Town](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
+| 15 | [Pound Town \(with Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(with Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 16 | [AL Roker](https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [AL Roker](https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr) | 1:40 |
 | 17 | [UnderWater](https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [SHELLS](https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41) | 3:50 |
 | 18 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 |

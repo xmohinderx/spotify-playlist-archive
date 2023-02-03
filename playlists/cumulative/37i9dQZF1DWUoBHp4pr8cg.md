@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax?si=0B3EUNRMSmmdMCPEDFJR\_Q">Trippie Redd</a>
 
-148 songs - 8 hr 4 min
+149 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 | 2022-10-21 | 2022-11-18 |
 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 | 2022-09-28 | 2022-11-04 |
 | [FUCK THE WORLD!](https://open.spotify.com/track/7mJg58d7kPdTlukVXGXZHf) | [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [FUCK THE WORLD!](https://open.spotify.com/album/5dhRqFNRXk9Y6hYvdXxVs7) | 2:17 | 2022-08-29 | 2022-11-04 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-23 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-23 | 2023-02-03 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-23 |  |
 | [GET DRIP](https://open.spotify.com/track/4P57GgKxNDM9VodgJQloR2) | [BRITE GVNG](https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv), [MY OWN VESSELS](https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr) | [GET DRIP](https://open.spotify.com/album/2MyTYZ1dTvNC6q7Pgk007F) | 2:18 | 2022-11-10 | 2022-12-09 |
 | [GET DRIP](https://open.spotify.com/track/7Cv4OoYTPOkX9vCnsoTqvc) | [BRITE GVNG](https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv), [MY OWN VESSELS](https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr) | [GET DRIP](https://open.spotify.com/album/6F0Jl8VK8kPB8ZwuBdNO29) | 2:18 | 2022-11-10 | 2022-12-13 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-11-11 |

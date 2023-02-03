@@ -2,9 +2,9 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
+> A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-248 songs - 16 hr 21 min
+250 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2022-03-11 | 2023-01-02 |
 | [As Above, So Below](https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [As Above, So Below / Hunting Grounds / The In\-Between](https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK) | 4:09 | 2020-12-07\* | 2022-07-29 |
 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2022-03-11 |  |
-| [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 | 2020-12-07\* |  |
+| [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 | 2020-12-07\* | 2023-02-03 |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-08-24 | 2022-10-29 |
 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 | 2022-10-28 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-10-03 |  |
@@ -107,7 +107,7 @@
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-12-07\* | 2021-05-15 |
 | [Hideaway](https://open.spotify.com/track/4zyLx5JsozusMZSoqhJL5k) | [Tomorrow Is Lost](https://open.spotify.com/artist/5VwzQ26FbEmmGhOL4b69lw) | [Hideaway](https://open.spotify.com/album/0LVKEVt4AfnoDrx5KL2KKp) | 4:02 | 2020-12-07\* | 2022-05-09 |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2020-12-07\* |  |
-| [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 | 2022-03-11 |  |
+| [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 | 2022-03-11 | 2023-02-03 |
 | [Human](https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns \(Japan Edition\)](https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK) | 5:09 | 2020-12-07\* | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3NEALaGbrMY1N1fwAlpCoy) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Human](https://open.spotify.com/album/0rqFVF08OKc6ChJMWEtn2f) | 4:11 | 2020-12-07\* | 2020-12-11 |
 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 |  |
@@ -159,6 +159,7 @@
 | [No More Hollywood Endings](https://open.spotify.com/track/0S8hHlISzm8GebwdtTDPkD) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM) | 3:54 | 2020-12-07\* | 2021-02-06 |
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-03-11 | 2023-01-02 |
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-12-07\* |  |
+| [Off With Your Head](https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Off With Your Head](https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5) | 2:12 | 2023-02-03 |  |
 | [One Second](https://open.spotify.com/track/6frLIzuYmfTQcfX4khfRZP) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [One Second](https://open.spotify.com/album/6cyzwj2z7TDNU9Vhk85w1s) | 3:36 | 2020-12-07\* | 2022-07-29 |
 | [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 | 2022-03-11 | 2022-11-14 |
 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 | 2022-10-28 |  |
@@ -208,6 +209,7 @@
 | [Take Me There](https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Take Me There](https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj) | 3:41 | 2020-12-07\* | 2022-07-29 |
 | [Take Me There](https://open.spotify.com/track/7AirDADqbXKplcwcpvVJZF) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:41 | 2022-03-11 | 2022-08-08 |
 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 | 2020-12-07\* |  |
+| [Taunt Me](https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Taunt Me](https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE) | 3:53 | 2023-02-03 |  |
 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 | 2022-03-11 |  |
 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 | 2021-10-02 | 2022-09-11 |
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |

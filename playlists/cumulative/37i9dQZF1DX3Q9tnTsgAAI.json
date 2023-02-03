@@ -116,6 +116,10 @@
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
       "date_added": "2022-09-20",
@@ -1526,6 +1530,14 @@
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
         }
       ],
       "date_added": "2022-09-20",
@@ -1556,7 +1568,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 234939,
       "name": "Party Band (Feat. PUNCHNELLO, Thur)",
       "url": "https://open.spotify.com/track/3tAsQTsf0Z54ug6iCgGsLS"
@@ -2060,24 +2072,6 @@
     {
       "album": {
         "name": "Summer Go Loco",
-        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "date_added": "2022-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192348,
-      "name": "Summer Go Loco (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/7rLGubcxgKZjQ5WLpkEePO"
-    },
-    {
-      "album": {
-        "name": "Summer Go Loco",
         "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
       },
       "artists": [
@@ -2092,10 +2086,32 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 192348,
       "name": "Summer Go Loco (Feat. GRAY)",
       "url": "https://open.spotify.com/track/4mCUfsh13ou2YDcj9i3gqk"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192348,
+      "name": "Summer Go Loco (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/7rLGubcxgKZjQ5WLpkEePO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,115 likes - 102 songs - 5 hr 54 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,115 likes - 104 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 100 | [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 |
 | 101 | [It Girl \(Warner Case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(Warner Case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 |
 | 102 | [Take You High](https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Take You High](https://open.spotify.com/album/5AratY1dSsx99KK11yyNjH) | 4:04 |
+| 103 | [we're the last to leave](https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [we're the last to leave](https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp) | 2:27 |
+| 104 | [Pioneer Digital Plastic Sound](https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Pioneer Digital Plastic Sound](https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0) | 5:04 |
 
-Snapshot ID: `MTAyMDMsMDBiNjc1ODNkOTk4ODg5ZTBmZDliY2IxOGYxNDVhOWY5NTFmNjM3Yg==`
+Snapshot ID: `MTAyMDUsYTU3ZjQ5ZDJkNzRhZTI2NDY3MjFmNjUxYzJhMzFiNWYwMDFlODYzNQ==`

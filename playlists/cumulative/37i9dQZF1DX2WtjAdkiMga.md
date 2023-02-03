@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-95 songs - 4 hr 58 min
+96 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2022-04-12 |  |
 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 | 2022-04-12 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 |  |
+| [The Very Thought of You](https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [The Very Thought of You](https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7) | 3:32 | 2023-02-02 |  |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [Till There Was You](https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Till There Was You](https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV) | 1:47 | 2022-05-05 |  |
 | [Time After Time](https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 2:17 | 2022-04-12 |  |

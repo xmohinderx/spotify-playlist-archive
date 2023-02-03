@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,059 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,253 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 31 | [Kenimania](https://open.spotify.com/track/63xoPxJFZUrgNKJtnmDPaZ) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Nigeria Rock Special: Psychedelic Afro\-Rock & Fuzz Funk in 1970's Nigeria](https://open.spotify.com/album/3da6by8KHBpcDs75FF4lDV) | 4:37 |
 | 32 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 | 33 | [Rough Rider](https://open.spotify.com/track/1v0UZjrgcnI9iBeVwOynkS) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:53 |
-| 34 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
-| 35 | [Akwa Kayi Ji Bia Nuwa](https://open.spotify.com/track/6iNLRaWoB35tb4l7SKLqB5) | [The Identicals](https://open.spotify.com/artist/73dUfpnfNDAjzecrKjL415) | [Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria](https://open.spotify.com/album/1Jmb92xUTgRmGQPJBVrArI) | 5:29 |
+| 34 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 |
+| 35 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 36 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 |
 | 37 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 |
 | 38 | [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 49 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 50 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 
-Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwMGFlNTdkY2NmMzdkMDA3M2E4MTdlYzAzODk1Njg1M2Zk`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDYxMGQwMmQ2MTdlMjZmMGViOTUzYTNlYTRkZWZmZGZl`

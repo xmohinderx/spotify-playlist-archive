@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Tho\u00e9",
+  "description": "Il meglio dell'R&B italiano. Cover: Sacky",
   "name": "anima R&B",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 166440,
       "name": "2:40",
       "url": "https://open.spotify.com/track/0JOAjuhDPk0u1P8GJft3u8"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 189227,
       "name": "Alla Follia",
       "url": "https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY"
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "CIGNO NERO",
+        "url": "https://open.spotify.com/album/7MjfUP1OGZ1ZBTVIjVD7pf"
+      },
+      "artists": [
+        {
+          "name": "NICALI",
+          "url": "https://open.spotify.com/artist/2hOcpPpVDqzsIIXYNde7ok"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "CIGNO NERO",
+      "url": "https://open.spotify.com/track/5OxV3tZdEoQkO458iwe1HJ"
+    },
+    {
+      "album": {
         "name": "Ci\u00f2 Che Non Ho",
         "url": "https://open.spotify.com/album/6MIQSo9hmNQjqEwBONo6LC"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 178902,
       "name": "Con Te",
       "url": "https://open.spotify.com/track/65a70ttyyKAvoPtENnkhED"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 209032,
       "name": "Cura Di Me",
       "url": "https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 183092,
       "name": "Dove si va",
       "url": "https://open.spotify.com/track/1IKCIQcXBDkQyCRp8m15du"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 150340,
       "name": "FUORI DI TE",
       "url": "https://open.spotify.com/track/1mLlEeGAGfojR6RPks8bFU"
@@ -1787,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Guardi me",
+        "url": "https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM"
+      },
+      "artists": [
+        {
+          "name": "LOU",
+          "url": "https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173662,
+      "name": "Guardi me",
+      "url": "https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64"
+    },
+    {
+      "album": {
         "name": "Hangover",
         "url": "https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q"
       },
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 155181,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM"
@@ -1900,6 +1936,24 @@
       "duration_ms": 198519,
       "name": "IL MIO NOME",
       "url": "https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa"
+    },
+    {
+      "album": {
+        "name": "Il Re Cambia Sempre",
+        "url": "https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Il Re Cambia Sempre",
+      "url": "https://open.spotify.com/track/4olowS6fzAA36724bAjfEq"
     },
     {
       "album": {
@@ -1954,7 +2008,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 234234,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/2GOqPgex034ZvAisHzNWmZ"
@@ -2110,7 +2164,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 218566,
       "name": "Kat\u00e1basis",
       "url": "https://open.spotify.com/track/4oB1ITrhWrneUtt96y7eVZ"
@@ -2374,7 +2428,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 193998,
       "name": "lady",
       "url": "https://open.spotify.com/track/7dyGck536nTt7BaGcEyOXJ"
@@ -2454,7 +2508,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 233026,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/05kYCKcmfgsiEXAKR2ZwHW"
@@ -2596,7 +2650,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 156269,
       "name": "Lui",
       "url": "https://open.spotify.com/track/2CA7x4w6ozAUZFHChxcyxt"
@@ -2636,7 +2690,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 195014,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2oh3jT73AcCwKxaTXs5dRl"
@@ -2744,7 +2798,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 132100,
       "name": "Margherita",
       "url": "https://open.spotify.com/track/2DXSoLexHmNDlMF0e1pWNV"
@@ -2762,7 +2816,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 216004,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP"
@@ -2860,6 +2914,24 @@
       "duration_ms": 117394,
       "name": "NAMASTE",
       "url": "https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw"
+    },
+    {
+      "album": {
+        "name": "Nebbia",
+        "url": "https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol"
+      },
+      "artists": [
+        {
+          "name": "JeBel",
+          "url": "https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180244,
+      "name": "Nebbia",
+      "url": "https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE"
     },
     {
       "album": {
@@ -2980,7 +3052,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 167000,
       "name": "Noia",
       "url": "https://open.spotify.com/track/2IPh5TOBaceM7zN0tgyfIi"
@@ -3184,7 +3256,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 143000,
       "name": "OCCHI STANCHI",
       "url": "https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI"
@@ -3260,7 +3332,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 179478,
       "name": "OLTRELUNA",
       "url": "https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ"
@@ -3792,7 +3864,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 145185,
       "name": "Resta (so che fa male)",
       "url": "https://open.spotify.com/track/5fEH93j4MVZwl8qOPYBih9"
@@ -3868,7 +3940,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 184789,
       "name": "Rompicapo",
       "url": "https://open.spotify.com/track/2W9ybKz6W9o4zY3Q2cECZO"
@@ -4212,7 +4284,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 197302,
       "name": "Soqquadro",
       "url": "https://open.spotify.com/track/4J4vyiu3YAO1vT8tepU6zw"
@@ -4452,7 +4524,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 166302,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag"
@@ -4488,7 +4560,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 250267,
       "name": "SULO PE CHELLA",
       "url": "https://open.spotify.com/track/60Y8L6RnHNz9VWweR7k1E4"
@@ -4582,6 +4654,24 @@
       "duration_ms": 144946,
       "name": "Tabasco",
       "url": "https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh"
+    },
+    {
+      "album": {
+        "name": "Tardi",
+        "url": "https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Tardi",
+      "url": "https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy"
     },
     {
       "album": {
@@ -4694,7 +4784,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 184629,
       "name": "Traumi",
       "url": "https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc"
@@ -4974,7 +5064,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 187086,
       "name": "Vertigine",
       "url": "https://open.spotify.com/track/414rYnSg7ihdTU9gD3mY3b"

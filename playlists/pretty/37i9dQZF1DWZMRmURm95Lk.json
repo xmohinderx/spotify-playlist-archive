@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
-  "num_followers": 30247,
+  "num_followers": 30261,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGUyM2U2Mzg0YzVlYTY5NmY3NGQ0ZTkzYmY1YjAwMzNm",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDJlZGI0NGE1M2IyNjljYmUzYzBhNjA4ZmQzYjlmNjQx",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Mi fist (Remastered version)",
         "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 264689,
       "name": "Note killer",
       "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+        "name": "Vita bona",
+        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Rap in vena",
-      "url": "https://open.spotify.com/track/2i2zlcw92p4WHFkbY2qKjl"
+      "duration_ms": 259586,
+      "name": "Quanno me ne so juto",
+      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Vita bona",
-        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
       },
       "artists": [
         {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 259586,
-      "name": "Quanno me ne so juto",
-      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
+      "duration_ms": 227573,
+      "name": "Rap in vena",
+      "url": "https://open.spotify.com/track/2i2zlcw92p4WHFkbY2qKjl"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -459,18 +459,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
       },
       "artists": [
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -647,18 +647,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Turbe Giovanili",
-        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
+        "name": "Universo (feat. Neffa & Fabri Fibra)",
+        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
       },
       "artists": [
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
         {
           "name": "Fabri Fibra",
           "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Scattano Le Indagini",
-      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
+      "duration_ms": 204335,
+      "name": "Universo (feat. Neffa & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -695,26 +703,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Ti Pretendo XXX",
-        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
+        "name": "Turbe Giovanili",
+        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
       },
       "artists": [
         {
-          "name": "North of Loreto",
-          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
-        },
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 221380,
-      "name": "Ti Pretendo XXX",
-      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
+      "duration_ms": 230360,
+      "name": "Scattano Le Indagini",
+      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -831,6 +831,62 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Ti Pretendo XXX",
+        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
+      },
+      "artists": [
+        {
+          "name": "North of Loreto",
+          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 221380,
+      "name": "Ti Pretendo XXX",
+      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Brutto Figlio Di",
+      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Faccio Quello Che Voglio",
         "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
       },
@@ -867,62 +923,6 @@
       "duration_ms": 222000,
       "name": "Giorni matti (feat. Ape, Zampa)",
       "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Brutto Figlio Di",
-      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Universo (feat. Neffa & Fabri Fibra)",
-        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
-      },
-      "artists": [
-        {
-          "name": "Deda",
-          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Universo (feat. Neffa & Fabri Fibra)",
-      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
-        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 225755,
-      "name": "L'attimo esatto",
-      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1571,34 +1571,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Luigi XVI",
-        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
-      },
-      "artists": [
-        {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Hashishin",
-      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1623,6 +1595,34 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Hashishin",
+      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 260800,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "SFIGA",
-        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
-      },
-      "artists": [
-        {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "SFIGA",
-      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1867,18 +1847,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+        "name": "SFIGA",
+        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
       },
       "artists": [
         {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
+      "duration_ms": 217865,
+      "name": "SFIGA",
+      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1955,22 +1939,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
-        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 230375,
-      "name": "Pioggia infinita",
-      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1991,22 +1971,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Petra.",
-        "url": "https://open.spotify.com/album/5cRhODEj0eIKDJXsHp1D4O"
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
         },
         {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 165273,
-      "name": "Petra.",
-      "url": "https://open.spotify.com/track/48xtEcLKPcXlYdlPZJTeVs"
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -2027,22 +2007,46 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
       "artists": [
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         },
         {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "TMHH",
+          "url": "https://open.spotify.com/artist/3V89pFmdgjqCarL1DT5DYI"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "Pioggia infinita",
+      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
     }
   ],
   "unique_name": "Radici Hip Hop",

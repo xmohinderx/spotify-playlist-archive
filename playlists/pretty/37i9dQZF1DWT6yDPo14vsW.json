@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 283264,
+  "num_followers": 283409,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMGYxYWJkYjlmZjBlYjFiY2IzM2M3YmE1NWExZDM4NGE0",
+  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMDA3YTg2OTNiOWY4YjhiZmU2MzRlNzcwN2FlMDRkOWIy",
   "tracks": [
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Kany Garc\u00eda",
-        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Alguien",
-      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
+      "duration_ms": 218080,
+      "name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+        "name": "Kany Garc\u00eda",
+        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 218080,
-      "name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt"
+      "duration_ms": 183600,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
     },
     {
       "added_at": "2022-07-04 15:12:52",

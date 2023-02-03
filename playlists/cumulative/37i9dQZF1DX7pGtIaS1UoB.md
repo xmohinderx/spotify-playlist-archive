@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-260 songs - 15 hr 35 min
+261 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,13 @@
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2022-06-06 | 2022-07-27 |
 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 | 2022-06-06 |  |
 | [Fool in Love](https://open.spotify.com/track/4Eet6LqgbOk1IKfbW8y5iL) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Sandra Wang](https://open.spotify.com/artist/649cdqqkKbSVLoxlOd8euJ) | [Fool in Love](https://open.spotify.com/album/0c0ulCCkO1s4aCfS2ftdcN) | 3:13 | 2022-06-20 | 2022-06-22 |
-| [For Ya](https://open.spotify.com/track/2dRiZHYpS1gSg10ScvY1XW) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [For Ya](https://open.spotify.com/album/6N65mxGDi8Ly1xfcCWVXan) | 2:33 | 2022-10-31 | 2022-11-13 |
-| [for ya](https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [for ya](https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo) | 2:33 | 2022-07-25 |  |
+| [For Ya](https://open.spotify.com/track/2dRiZHYpS1gSg10ScvY1XW) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [For Ya](https://open.spotify.com/album/6N65mxGDi8Ly1xfcCWVXan) | 2:33 | 2022-10-31 |  |
+| [for ya](https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [for ya](https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo) | 2:33 | 2022-07-25 | 2023-02-03 |
 | [for ya](https://open.spotify.com/track/0wfgC4PipatRkF9VMRtYuF) | [蔣小呢](https://open.spotify.com/artist/42OCObJjjSOy82DSvyvUkQ) | [for ya](https://open.spotify.com/album/0FbAWYnsKhPeAZ26mm2RZ8) | 2:33 | 2022-06-06 | 2022-07-28 |
 | [I'm in love](https://open.spotify.com/track/37n0amZ1Uq2GB1P94U92bE) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit) | [I'm in love](https://open.spotify.com/album/0ZOQhvjG1IIOhR5AG9be3L) | 3:17 | 2022-06-06 | 2022-08-17 |
 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 | 2022-07-25 |  |
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
-| [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 |  |
+| [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 | 2023-02-03 |
 | [LOVE U](https://open.spotify.com/track/4WMtqsI7PJHr06JhaCVdPe) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [LOVE U](https://open.spotify.com/album/3Dai6zQWjLo9Bygbq4wa2G) | 4:22 | 2022-06-13 | 2022-07-05 |
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
 | [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 | 2022-12-28 |
@@ -243,6 +243,7 @@
 | [要怎麼告訴你我多喜歡](https://open.spotify.com/track/5KNSwtUycRBr3R1ghys4FK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 |  |
 | [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 | 2022-08-16 |
+| [親愛的你](https://open.spotify.com/track/0HA98hhDGR89kcdw9yVGEL) | [Gracie Grace](https://open.spotify.com/artist/0iHZYWswGYdIjSbfAreJIc) | [親愛的你](https://open.spotify.com/album/6eIjXEiW59q9GoIYFhEhDv) | 4:03 | 2023-01-30 |  |
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 |  |

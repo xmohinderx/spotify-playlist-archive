@@ -430,10 +430,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 223706,
       "name": "happypeople",
       "url": "https://open.spotify.com/track/4K8eSyKrx3KyS4GltSZkyT"
+    },
+    {
+      "album": {
+        "name": "happypeople",
+        "url": "https://open.spotify.com/album/76u2nprEt3V5LhPV4xN3jZ"
+      },
+      "artists": [
+        {
+          "name": "Skoop On Somebody",
+          "url": "https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "happypeople",
+      "url": "https://open.spotify.com/track/35EoO41TJFor6xKN4vO73r"
     },
     {
       "album": {

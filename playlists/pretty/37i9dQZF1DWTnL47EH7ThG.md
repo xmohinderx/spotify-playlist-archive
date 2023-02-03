@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,915 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,950 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 5 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 |
 | 6 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 |
 | 7 | [Higher](https://open.spotify.com/track/5ezISLOrZ5gdA4xiDHjLwn) | [Yasmin](https://open.spotify.com/artist/2FKxBzMDAxscfhyU3mbiHh) | [Of Love and Death](https://open.spotify.com/album/41CWxkjDEI8ocHbz2MHAJX) | 1:54 |
-| 8 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 |
+| 8 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 |
 | 9 | [GIVE IT 2 ME NOW \(What's Your Fantasy\)](https://open.spotify.com/track/2G2M5wnqke2RP11XAkK67q) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ), [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [GIVE IT 2 ME NOW \(What's Your Fantasy\)](https://open.spotify.com/album/01i8DG7ArOssGiwzUQeIWA) | 3:05 |
 | 10 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 11 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDU0YzljOTkzZTA5MWQyMDk3NjcwNDhkZmVhZDg5MzM1`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDgwMzZjMWNhMjA1MjhkZGExMzVhNWUyZDkxMTYxMjY5`

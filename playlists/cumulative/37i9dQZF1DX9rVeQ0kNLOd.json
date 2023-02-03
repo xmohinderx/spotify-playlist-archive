@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Simple and Sweet",
+        "url": "https://open.spotify.com/album/1cYffJtaJx5J1eQJ3Arwxe"
+      },
+      "artists": [
+        {
+          "name": "gb",
+          "url": "https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173565,
+      "name": "Simple and Sweet",
+      "url": "https://open.spotify.com/track/3l9S4RkBPkAuspL6spxzzv"
+    },
+    {
+      "album": {
         "name": "Sixteen, Fifteen",
         "url": "https://open.spotify.com/album/37ETovdRL3wZRNAxcEywzS"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 185344,
       "name": "\u30a4\u30bf\u30ba\u30e9\u306aKiss",
       "url": "https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH"

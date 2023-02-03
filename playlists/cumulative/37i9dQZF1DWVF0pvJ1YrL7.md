@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-169 songs - 11 hr 39 min
+170 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 |  |
 | [The Secret World of Condo Pets](https://open.spotify.com/track/4Qf2BluUlCIi8tIXfnTPqt) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Condo Pets EP](https://open.spotify.com/album/1Ud5piQv0G7vGYnFA2oKhv) | 2:49 | 2021-10-06 | 2022-07-29 |
 | [The Secret World of Condo Pets](https://open.spotify.com/track/4uiUwXpoSfqiabC4zHK7DS) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Condo Pets](https://open.spotify.com/album/1BlNQXs66wdzU3z3RvORMW) | 2:49 | 2021-10-06 |  |
-| [The Shape Of Trance To Come](https://open.spotify.com/track/6x71guQ6FQsyefFN3toj4n) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [The Shape Of Trance To Come](https://open.spotify.com/album/7JyBNivl2ASN9hqnH87mEY) | 6:09 | 2021-10-06 |  |
+| [The Shape Of Trance To Come](https://open.spotify.com/track/6okzilUioa97KHTZwRUGUi) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [The Shape Of Trance To Come](https://open.spotify.com/album/2WXDEWZtvmyC6gTo7w8mVp) | 6:09 | 2021-10-06 |  |
+| [The Shape Of Trance To Come](https://open.spotify.com/track/6x71guQ6FQsyefFN3toj4n) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [The Shape Of Trance To Come](https://open.spotify.com/album/7JyBNivl2ASN9hqnH87mEY) | 6:09 | 2021-10-06 | 2023-02-03 |
 | [The Steady Heart](https://open.spotify.com/track/07b7wamvmtxZdHPRVjdQjW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Steady Heart](https://open.spotify.com/album/7CGeLL2ynKNd5QRJAbrcgQ) | 5:39 | 2021-10-06 | 2022-11-13 |
 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 | 2021-10-06 |  |
 | [The Steady Heart](https://open.spotify.com/track/3vUcFxnOlGWpG2NjTjGrsv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/1vp1UaO7d7JE4poHbHuBVI) | 5:39 | 2021-10-06 | 2022-07-29 |

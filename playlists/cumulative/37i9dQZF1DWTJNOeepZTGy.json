@@ -189,24 +189,6 @@
     },
     {
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1TRCVBeWwJ884AxMF9815G"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246146,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/6eJczgR1Hi9pQMcy1NEIGG"
-    },
-    {
-      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/4eQnH0jB4OwFjAQSH6pZeq"
       },
@@ -222,6 +204,24 @@
       "duration_ms": 246146,
       "name": "Cure",
       "url": "https://open.spotify.com/track/7yc2aZLGtx5Y30N8T896tu"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1TRCVBeWwJ884AxMF9815G"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246150,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/6eJczgR1Hi9pQMcy1NEIGG"
     },
     {
       "album": {

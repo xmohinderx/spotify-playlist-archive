@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 4231,
+  "num_followers": 4277,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDJmZGY5M2NmOGY0NGRmOGRkODJmOTRjOTg2MWJjYmI5",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGZmMmM0ZmE4Y2FkMGUzODQ0ZmZhNzQzNmM1Nzc5M2Yz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 128652,
-      "name": "Bare Wit Me",
-      "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 128652,
+      "name": "Bare Wit Me",
+      "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
     },
     {
       "added_at": "2022-10-01 16:57:49",

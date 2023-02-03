@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
@@ -5334,7 +5334,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -6380,7 +6380,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 182961,
       "name": "Love - Remix",
       "url": "https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS"
@@ -8722,6 +8722,24 @@
       "duration_ms": 171000,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
+    },
+    {
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "album": {
@@ -11762,7 +11780,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -12228,6 +12246,24 @@
     {
       "album": {
         "name": "Traktor",
+        "url": "https://open.spotify.com/album/2PFb5LbGF4IPxoXCiJsImm"
+      },
+      "artists": [
+        {
+          "name": "Saymooon",
+          "url": "https://open.spotify.com/artist/43stRuMJ3FgwYqUQ2WYLmv"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163828,
+      "name": "Traktor",
+      "url": "https://open.spotify.com/track/5ZDXUvCmsQ1JNpuz7Ba71I"
+    },
+    {
+      "album": {
+        "name": "Traktor",
         "url": "https://open.spotify.com/album/16uEFxF1bxeNpSwBdd15o1"
       },
       "artists": [
@@ -12238,7 +12274,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 163828,
       "name": "Traktor",
       "url": "https://open.spotify.com/track/5mIxoEWqbwCEw8h2Yd4AZI"
@@ -12278,6 +12314,24 @@
       "duration_ms": 146000,
       "name": "TRAPPIN LONELY",
       "url": "https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT"
+    },
+    {
+      "album": {
+        "name": "Banga EP",
+        "url": "https://open.spotify.com/album/4c4cElNGk6clbEo3HMSiC4"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Trench",
+      "url": "https://open.spotify.com/track/0KS9J9OECRseMt98OFMRwf"
     },
     {
       "album": {
@@ -13226,6 +13280,32 @@
       "duration_ms": 116161,
       "name": "Who's Ready for Tomorrow",
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Mr Hudson",
+          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Why I Love You",
+      "url": "https://open.spotify.com/track/4lLmG1fatRUgnRz0Ol0WUi"
     },
     {
       "album": {

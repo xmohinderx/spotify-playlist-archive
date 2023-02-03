@@ -4,7 +4,7 @@
 
 > Hop in.
 
-305 songs - 19 hr 36 min
+306 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Empress](https://open.spotify.com/track/5YVYVuNA44FT2yVxEXOw3r) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Empress](https://open.spotify.com/album/07S5Om7EgjLq3I6QNuDSb8) | 3:19 | 2021-01-17 | 2022-05-10 |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2021-01-15 | 2023-01-05 |
 | [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-11-29 |  |
-| [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-06-28 |  |
+| [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-06-28 | 2023-02-03 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-29\* | 2022-07-28 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-07-03 |  |
 | [Excuses](https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm) | 5:17 | 2021-01-15 | 2022-07-23 |
@@ -102,6 +102,7 @@
 | [Falling Thunder](https://open.spotify.com/track/3tfbS5ClqpsmSStP9kMlr0) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sideways to New Italy](https://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0) | 4:05 | 2020-10-29\* | 2022-07-29 |
 | [First Aid](https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:28 | 2021-06-28 | 2022-05-05 |
 | [First Aid](https://open.spotify.com/track/2imAA5ofcn4dCRVNjKyEq3) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [First Aid](https://open.spotify.com/album/6tl50EbPGJIwmN9YfXHVsM) | 4:28 | 2020-10-29\* | 2022-03-21 |
+| [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2023-02-03 |  |
 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 | 2022-05-04 |  |
 | [For No One](https://open.spotify.com/track/10tLmQStU0VkeZawCBohkO) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [For No One](https://open.spotify.com/album/0zAljNFRfXkJAz4OEGWKOz) | 3:49 | 2021-01-15 | 2022-07-29 |
 | [French Press](https://open.spotify.com/track/3xuTjTxGkMVtxnHCAntxTs) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/0Jw4EgPOvlImh3GQ9ohxqn) | 5:26 | 2020-10-29\* | 2022-05-05 |

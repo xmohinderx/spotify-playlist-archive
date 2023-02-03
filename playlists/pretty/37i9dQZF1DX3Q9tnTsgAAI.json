@@ -1,12 +1,12 @@
 {
   "description": "AOMG's mr. wide-range rapper: Loco",
-  "num_followers": 42482,
+  "num_followers": 42511,
   "original_name": "This Is Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODkyMCwwMDAwMDAwMDdlMTk0ZjRhODc3NjFjYWMyMTZjZGM0MTAxN2FjZTY0",
+  "snapshot_id": "MTY3MjYzODkyMCwwMDAwMDAwMDQ1MjFlMTIwZTA5YzgxNWQzNTBlZjI3Y2Y5OGFjMmJh",
   "tracks": [
     {
       "added_at": "2023-01-02 05:55:20",
@@ -600,17 +600,25 @@
       "added_at": "2023-01-02 05:55:20",
       "album": {
         "name": "Summer Go Loco",
-        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
         }
       ],
       "duration_ms": 234939,
       "name": "Party Band (Feat. PUNCHNELLO, Thur)",
-      "url": "https://open.spotify.com/track/1uzTdJkWVxxwOunWVa2BkM"
+      "url": "https://open.spotify.com/track/3tAsQTsf0Z54ug6iCgGsLS"
     },
     {
       "added_at": "2023-01-02 05:55:20",
@@ -876,17 +884,21 @@
       "added_at": "2023-01-02 05:55:20",
       "album": {
         "name": "Summer Go Loco",
-        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
       "duration_ms": 192348,
       "name": "Summer Go Loco (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/7rLGubcxgKZjQ5WLpkEePO"
+      "url": "https://open.spotify.com/track/4mCUfsh13ou2YDcj9i3gqk"
     },
     {
       "added_at": "2023-01-02 05:55:20",
@@ -1306,6 +1318,10 @@
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
       "duration_ms": 192348,
@@ -1322,6 +1338,14 @@
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
         }
       ],
       "duration_ms": 234939,
@@ -1362,6 +1386,10 @@
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
       "duration_ms": 229152,

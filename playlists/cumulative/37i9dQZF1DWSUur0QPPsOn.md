@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>\. Inspired by Netflix's You People.
 
-880 songs - 2 day 9 hr 27 min
+881 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Make It Out](https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 0:30 | 2022-12-01 | 2023-01-02 |
 | [Make Yours a Happy Home](https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Claudine \(Original Soundtrack\)](https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV) | 4:33 | 2022-04-01 | 2022-05-03 |
 | [Mary Jane](https://open.spotify.com/track/0Rqcf7GwEOIFg5VFMNIzHF) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Untouchable](https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF) | 4:41 | 2022-04-01 | 2022-05-03 |
+| [Mary's Joint](https://open.spotify.com/track/7ab8LxqRjqHVs5FmmEi6iy) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/4jovLVRCu6H0Ce6NHR4eTZ) | 5:02 | 2023-02-01 |  |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-09-29 | 2022-10-04 |
 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 | 2023-02-01 |  |
 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 | 2022-07-01 | 2022-08-02 |

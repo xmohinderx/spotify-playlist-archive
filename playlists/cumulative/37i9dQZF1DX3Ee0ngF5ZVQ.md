@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-402 songs - 23 hr 58 min
+403 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |
 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 | 2021-12-17 | 2022-03-19 |
-| [Where Cotton Is King](https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Where Cotton Is King](https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7) | 3:31 | 2022-09-02 |  |
+| [Where Cotton Is King](https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Where Cotton Is King](https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7) | 3:31 | 2022-09-02 | 2023-02-03 |
 | [Where the Lonely Go](https://open.spotify.com/track/3ExEYtIdVTuIebZsoc8l2v) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:31 | 2022-01-28 | 2022-06-25 |
 | [Where the Wildflowers Lay](https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 2:47 | 2021-12-17 |  |
 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 | 2021-12-17 |  |
@@ -407,6 +407,7 @@
 | [Wishin' on an Airplane](https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Wishin' on an Airplane](https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf) | 3:30 | 2022-09-09 | 2022-10-15 |
 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 |  |
+| [You Ain't No Cowboy](https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [You Ain't No Cowboy](https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd) | 3:28 | 2023-02-01 |  |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 |  |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |

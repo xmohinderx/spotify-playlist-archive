@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-355 songs - 17 hr 54 min
+356 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 | 2022-01-07 | 2022-01-25 |
 | [No Love For You](https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Drop \- G](https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD) | [No Love For You](https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE) | 2:58 | 2022-11-18 |  |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-01-07 | 2022-05-06 |
-| [Ocean Of Tears](https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Ocean Of Tears](https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp) | 3:04 | 2022-08-26 |  |
+| [Ocean Of Tears](https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Ocean Of Tears](https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp) | 3:04 | 2022-08-26 | 2023-02-03 |
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2022-01-28 | 2022-12-17 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-01-07 | 2022-03-12 |
 | [OMG](https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [OMG](https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf) | 2:48 | 2022-07-01 | 2022-10-05 |
@@ -293,6 +293,7 @@
 | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU) | 3:05 | 2022-01-07 | 2022-04-16 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-01 | 2022-07-06 |
 | [Shock \(feat\. Stealth\)](https://open.spotify.com/track/1MWby5bmo9UQnfsYH93AVi) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Shock \(feat\. Stealth\)](https://open.spotify.com/album/0Jb0H4l5Y2uRW5V2qlsK64) | 2:42 | 2022-04-01 | 2022-04-16 |
+| [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 | 2023-01-27 |  |
 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 | 2022-04-22 | 2022-09-10 |
 | [Sick of You](https://open.spotify.com/track/6uG3ujRyanBAl6j6Y3G0d3) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sick of You](https://open.spotify.com/album/11Iet8ssCdGjrVH0WLv3Yi) | 3:02 | 2022-01-07 | 2022-04-16 |
 | [So Good](https://open.spotify.com/track/4LajgncdHI6ZdhkoS16gjX) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [So Good](https://open.spotify.com/album/3YIhzVAZTUKLIFDr2WwnOz) | 3:40 | 2022-01-07 | 2022-04-16 |

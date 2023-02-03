@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 102870,
+  "num_followers": 102897,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ5NjE2NCwwMDAwMDAwMDc1N2RlZjkyZDdmN2UyOWEzMDQ1M2RkZThhMmE3MWE2",
+  "snapshot_id": "MTY3NDQ5NjE2NCwwMDAwMDAwMGFmOWI3OTFiMTNhMmE1N2NjOWNhNzc3NDQzZDgzZThh",
   "tracks": [
     {
       "added_at": "2023-01-23 17:49:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "La Segunda Luz del D\u00eda",
-        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 199341,
-      "name": "Tristes Ojos",
-      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Dolerme",
         "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 143975,
       "name": "Dolerme",
       "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "La Segunda Luz del D\u00eda",
+        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 199341,
+      "name": "Tristes Ojos",
+      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+      "duration_ms": 231600,
+      "name": "Hacia Dentro",
+      "url": "https://open.spotify.com/track/4UXCzqNeOBhEU0v7kiyyAM"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Hacia Dentro",
-      "url": "https://open.spotify.com/track/4UXCzqNeOBhEU0v7kiyyAM"
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 230250,
       "name": "Perd\u00f3n (Acabo de ver tu llamada)",
       "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "cuatro veces 10",
-        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "desamarte",
-      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "NADA ES SEGURO",
         "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 204000,
       "name": "NADA ES SEGURO",
       "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "cuatro veces 10",
+        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
     },
     {
       "added_at": "2023-01-23 17:49:24",

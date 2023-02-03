@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-116 songs - 10 hr 50 min
+117 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Upstairs Flat](https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b) | 6:07 | 2022-07-08 |  |
 | [Usvassa Eksyminen](https://open.spotify.com/track/4W2Hf9mGeKHYO5JzhhbxRN) | [Auvinen](https://open.spotify.com/artist/4MiDOWLTXzjLVpuWMG2sBz) | [Akkosaari](https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz) | 5:13 | 2022-03-11 |  |
 | [VI \(Featuring Keith Kenniff\)](https://open.spotify.com/track/2AIQ4vQLWyfGGA41iTeA1x) | [Julien Neto](https://open.spotify.com/artist/4JVbuk3i6Z5WGR3ar8Wro2) | [Le Fumeur De Ciel](https://open.spotify.com/album/1SwfAtm5Rom8gcgEK8H5Qs) | 4:13 | 2022-07-01 | 2022-07-07 |
-| [Wet Flakey Bark](https://open.spotify.com/track/63CE8uDdIX4MAfKff357zi) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 4:46 | 2022-03-11 |  |
+| [Wet Flakey Bark](https://open.spotify.com/track/4Pc6Ds48wkly0cRRxQcKSg) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 4:46 | 2022-10-04 |  |
+| [Wet Flakey Bark](https://open.spotify.com/track/63CE8uDdIX4MAfKff357zi) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 4:46 | 2022-03-11 | 2023-02-03 |
 | [While My Heart Is Still Beating](https://open.spotify.com/track/2IGpGEwEVxbJoHRv6Fm87w) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 4:09 | 2022-03-11 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

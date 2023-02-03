@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. Cover: Homecomings
 
-143 songs - 9 hr 20 min
+146 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,13 @@
 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 | 2023-01-24 |  |
 | [NEO TOKIO](https://open.spotify.com/track/0AVOwrlP4bIDhlgow1JiSt) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [NEO TOKIO](https://open.spotify.com/album/2Mp4PgoQYX6X4WprgjsIFo) | 2:37 | 2023-01-12 | 2023-01-18 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-24 |  |
-| [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 | 2023-01-17 |  |
+| [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 | 2023-01-17 | 2023-02-03 |
 | [non zero sum game](https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [non zero sum game](https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj) | 3:28 | 2023-01-31 |  |
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 |  |
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-24 |  |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 |  |
 | [Pluto](https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Pluto](https://open.spotify.com/album/0jedCYvpwYIdVKq180Elh5) | 3:49 | 2023-01-12 | 2023-01-27 |
+| [Postpone](https://open.spotify.com/track/4Y5UKByLZinDQkAKUyg4PF) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Postpone](https://open.spotify.com/album/176bzSvfKBfWVcM5MfrbyO) | 2:35 | 2023-02-02 |  |
 | [RAINBOW](https://open.spotify.com/track/0RH0ixWWULcPcG48aXX5Y6) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [RAINBOW](https://open.spotify.com/album/31JC7DKLZhDpMvYVHEfpSB) | 2:12 | 2023-01-31 |  |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2023-01-12 | 2023-02-01 |
@@ -73,7 +74,7 @@
 | [Saikin Donano](https://open.spotify.com/track/38wXh7F3gTJo3o4DSZGqG0) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Saikin Donano](https://open.spotify.com/album/741IDER2JBR9iOdCOTjwCU) | 3:37 | 2023-01-24 |  |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 |  |
 | [Seatango](https://open.spotify.com/track/51nYN6ODdXsTytciNYX4qy) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 2:54 | 2023-01-12 | 2023-01-25 |
-| [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-12 |  |
+| [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-12 | 2023-02-03 |
 | [Sense of Wonder](https://open.spotify.com/track/2sWANzUTKXFzd6PuoNT16b) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [Waltz for April](https://open.spotify.com/album/2ktDs0e3dtfhsaRQk1nOcz) | 2:24 | 2023-01-12 | 2023-01-18 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2023-01-12 | 2023-01-18 |
 | [Shake it baby](https://open.spotify.com/track/5d8kNJnpvXtqKhmeCf5LNW) | [AMERICAN DREAM EXPRESS](https://open.spotify.com/artist/1bE4mEE39PEzIsteltdoP1) | [AMERICAN DREAM EXPRESS !!!!!!](https://open.spotify.com/album/1gV1KIrgvm26EEm75ouvlY) | 2:33 | 2023-01-24 |  |
@@ -94,6 +95,7 @@
 | [sweet vertigo](https://open.spotify.com/track/60YSKrBkxoZGwOtoUKvZm3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [works.ep](https://open.spotify.com/album/1JxwaDeWRXBXqJtYeNC0XK) | 4:31 | 2023-01-24 | 2023-01-26 |
 | [sweet vertigo](https://open.spotify.com/track/6k0QnSV8s0LuQBhWWtB21c) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 4:31 | 2023-01-24 |  |
 | [tea valley street \- feat\. 小林純平](https://open.spotify.com/track/7aTJm3VJgY39IS6oAbGTEc) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [tea valley street \(feat\. 小林純平\)](https://open.spotify.com/album/494FapIqwHmb0dIIrIGxyE) | 5:34 | 2023-01-24 |  |
+| [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 |  |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-01-31 |  |
 | [Third Summer of Love](https://open.spotify.com/track/1TymUgaexEf5hiZKvSwFIi) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [あのち](https://open.spotify.com/album/4BrADJvd35XV47vZhc4jUi) | 5:05 | 2023-01-31 | 2023-02-02 |
 | [Thousand Visions](https://open.spotify.com/track/6Hk9oRnjWJeau0nZP2WIsi) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Thousand Visions](https://open.spotify.com/album/3R7V41T7GdWWoKN0fhP7Qt) | 3:57 | 2023-01-31 |  |
@@ -111,10 +113,11 @@
 | [White highlights](https://open.spotify.com/track/3JtEQffMAkuPrGzGs9G7fY) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [White highlights](https://open.spotify.com/album/3OfEMtatKlKKJMhw5jliF4) | 3:27 | 2023-01-31 |  |
 | [Who Cares](https://open.spotify.com/track/6GkcUPA8NPOxLTI0XCuT8e) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Who Cares](https://open.spotify.com/album/1qKSyGjD9if3FXMFV1km8a) | 3:13 | 2023-01-19 |  |
 | [Winter Rendezvous](https://open.spotify.com/track/0IF4URa1v7SFOVyEBy3J8d) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [Winter Rendezvous](https://open.spotify.com/album/0shVnBn8FxSca5ZNWV4nLf) | 4:58 | 2023-01-12 | 2023-01-25 |
+| [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 | 2023-02-02 |  |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
 | [たりないぼくら](https://open.spotify.com/track/4RwQK5CQQWMy77xbOukdYN) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [たりないぼくら](https://open.spotify.com/album/6hY8MJzTmUkw5MekeDre54) | 4:08 | 2023-01-17 |  |
-| [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 |  |
+| [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 | 2023-02-03 |
 | [ふたりの傷跡](https://open.spotify.com/track/1hu5dJ6w20i7N8z4o6himl) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ふたりの傷跡](https://open.spotify.com/album/2Op0O3DZ1OAyjenq6eNF3M) | 5:04 | 2023-01-12 | 2023-01-18 |
 | [ぼくらのまま](https://open.spotify.com/track/2MfBsbqFVELdvC6iBtk6SR) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ぼくらのまま](https://open.spotify.com/album/2F653wecMxIDfNxihYzsGs) | 4:12 | 2023-01-12 | 2023-01-26 |
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 |  |

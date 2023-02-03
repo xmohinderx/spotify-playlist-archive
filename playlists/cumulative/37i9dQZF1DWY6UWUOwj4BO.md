@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-52 songs - 2 hr 46 min
+53 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Hypnotized \- Acoustic](https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized \(Acoustic\)](https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY) | 3:31 | 2022-12-21 |  |
 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-12-21 |  |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-12-21 |  |
-| [I Leave Again \- Acoustic](https://open.spotify.com/track/6XnmPBOZfmvRHW1BSbwugJ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 2:57 | 2022-12-21 |  |
+| [I Leave Again \- Acoustic](https://open.spotify.com/track/6XnmPBOZfmvRHW1BSbwugJ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 2:57 | 2022-12-21 | 2023-02-03 |
 | [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 | 2023-01-05 |  |
+| [Kill Bill \- Acoustic](https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill \(Acoustic\)](https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy) | 2:48 | 2023-02-02 |  |
 | [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 | 2022-12-21 |  |
 | [Let's Love \(feat\. Sia\) \- Acoustic](https://open.spotify.com/track/1CQH9bjtrHOnbXTGL4JzT7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love \(feat\. Sia\) \[Acoustic\]](https://open.spotify.com/album/5SwdV9W7iDZHPcns35goPD) | 3:25 | 2022-12-21 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/1Vq9QT96yzs3hNDaCpeiWx) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Acoustic Vibes](https://open.spotify.com/album/24TUp6UvuBpcWD1dimGe2y) | 3:06 | 2022-12-21 |  |

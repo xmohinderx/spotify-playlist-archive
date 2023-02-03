@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 42 | [Memories!](https://open.spotify.com/track/16ZMv3xUd3iXrN2fSy9WDe) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Memories!](https://open.spotify.com/album/2WHKSSpeXR4ByTAJh7yF3J) | 2:43 |
 | 43 | [Mistakes Were Made](https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Mistakes Were Made](https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn) | 3:33 |
 | 44 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
-| 45 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
-| 46 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
+| 45 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
+| 46 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 47 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
 | 48 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 49 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 50 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 
-Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDRiMTQxNjgwM2VjYzk0MGU4M2FhZjQyMjRhYmEwODNh`
+Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDdlMDMwNjhhNDQwZDhjZWZmNDA3YjNhMmRkZmJhMWQ4`

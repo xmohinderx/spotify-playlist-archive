@@ -4,7 +4,7 @@
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-74 songs - 3 hr 20 min
+75 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Joker Is Wild \(1966\)](https://open.spotify.com/track/1b4j6aYit6XXDfNPr881kn) | [The Sensational Guitars of Dan and Dale](https://open.spotify.com/artist/75lkcz4GkFoUfGT1bYic5Y) | [The Music of DC Comics: Volume 2](https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS) | 1:56 | 2019-10-29 | 2022-07-29 |
 | [Joker Is Wild \(feat\. Sun Ra & The Blues Project\)](https://open.spotify.com/track/7LLGAqrhJfy2gh2DKVJfL0) | [The Sensational Guitars of Dan and Dale](https://open.spotify.com/artist/75lkcz4GkFoUfGT1bYic5Y), [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [The Blues Project](https://open.spotify.com/artist/1lvclIZLUGZ52gMi7uDDkv) | [The Music Of DC Comics: Vol\. 2](https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N) | 1:56 | 2019-10-29 |  |
 | [Main on End](https://open.spotify.com/track/5POrWnsqEV6HwTcRKLdXxk) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 3:11 | 2019-10-29 |  |
-| [Main Title](https://open.spotify.com/track/4oNnRYkRnFzEeGnqJ1SuiG) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk Original Motion Picture Score](https://open.spotify.com/album/2PgkQuCa26nQxZrx4ZMHTR) | 2:38 | 2019-10-29 |  |
+| [Main Title](https://open.spotify.com/track/6cUKdJOB8sSjZLHcuwFHKJ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk](https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G) | 2:38 | 2019-10-29 |  |
+| [Main Title](https://open.spotify.com/track/4oNnRYkRnFzEeGnqJ1SuiG) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk Original Motion Picture Score](https://open.spotify.com/album/2PgkQuCa26nQxZrx4ZMHTR) | 2:38 | 2019-10-29 | 2023-02-03 |
 | [Make Way For Tomorrow Today](https://open.spotify.com/track/26kXeKuiQKn02awx4US5VR) | [The Stark Expo Singers](https://open.spotify.com/artist/4ZahdE5j5gbwTNG3O3NIjT) | [Original Motion Picture Score Iron Man 2](https://open.spotify.com/album/6bnGdcfwPDRSkj6H8GcbAh) | 1:51 | 2019-10-29 |  |
 | [Marvel Studios Fanfare](https://open.spotify.com/track/0GAIkIQFxTw4vr18anewE9) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeadLLasL6zqGPjPEic6x) | 0:30 | 2019-10-29 | 2022-07-29 |
 | [Marvel Studios Fanfare \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 0:30 | 2019-10-29 |  |

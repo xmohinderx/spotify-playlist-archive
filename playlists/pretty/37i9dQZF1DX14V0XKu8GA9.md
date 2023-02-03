@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,443 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 14 | [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 |
 | 15 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
 | 16 | [Pit Lock](https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Listo](https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j) | [Pit Lock](https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX) | 2:40 |
-| 17 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
+| 17 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
 | 18 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 |
-| 19 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
+| 19 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
 | 20 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
 | 21 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
 | 22 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
 | 35 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 
-Snapshot ID: `MTY3NDg0ODA1NiwwMDAwMDAwMGYyNjZjMDQ1YjBlNjlkOTc1ZDk1MjhhZmVhMmYxY2Q1`
+Snapshot ID: `MTY3NDg0ODA1NiwwMDAwMDAwMDVjYmJmZDk5ZGYwMGM3MzU0MzQ4OTRiZTQ3ODBiY2Vm`

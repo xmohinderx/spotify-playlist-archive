@@ -4,7 +4,7 @@
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-193 songs - 13 hr 54 min
+194 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 | 2022-02-24 | 2022-08-19 |
 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 | 2020-09-16 | 2022-08-19 |
 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 | 2020-09-16 |  |
-| [Roll It Gal \- Feat\. Machel Montano](https://open.spotify.com/track/4YE1KXJ0nVjDS6enhUS6pP) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Roll It Gal](https://open.spotify.com/album/6oKaVhH0pn4UfOvn97wMf4) | 5:08 | 2022-08-18 |  |
+| [Roll It Gal \- Feat\. Machel Montano](https://open.spotify.com/track/4YE1KXJ0nVjDS6enhUS6pP) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Roll It Gal](https://open.spotify.com/album/6oKaVhH0pn4UfOvn97wMf4) | 5:08 | 2022-08-18 | 2023-02-03 |
+| [Roll It Gal \- Machel Montano Mix](https://open.spotify.com/track/6DWFBlwZEnPTuUgyx6TF6S) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Roll It Gal](https://open.spotify.com/album/2G6BUfcpyPYUxhJ4kRV2yg) | 5:06 | 2022-08-18 |  |
 | [Rollin'](https://open.spotify.com/track/0w6IdovoMpwt9vR0tYCK5V) | [Home Front](https://open.spotify.com/artist/6M1vWklD0ySWgutjJS8r3i) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:59 | 2020-09-16 | 2022-07-29 |
 | [Ruff Winers \(feat\. Alison Hinds\)](https://open.spotify.com/track/0JKMe4qlT94ZdYW3D5dv4y) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Gold 2000](https://open.spotify.com/album/7LHQwGF1PaNmqElcu5GGp5) | 3:51 | 2022-08-18 |  |
 | [Saltfish](https://open.spotify.com/track/22XLpzseYhfFJwQ2IzV5ju) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Dirty Old Man](https://open.spotify.com/album/0OM6w3tEHCJgbCzS5PsBZI) | 6:41 | 2020-09-16 | 2022-07-28 |

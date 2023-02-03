@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-192 songs - 14 hr 51 min
+193 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aal Doghrey](https://open.spotify.com/track/6WBEzul5kA06o2OR1pXqIt) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Aal Doghrey](https://open.spotify.com/album/41lOl3mkPOQnWVTibhOWFK) | 3:37 | 2021-12-16 |  |
 | [Aalam Gharib](https://open.spotify.com/track/0ty8uZ1IjxJGvHgMGUrb18) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Aalam Gharib](https://open.spotify.com/album/6WDkW3GMLhyfg3iTQnMyWI) | 5:30 | 2022-12-20 |  |
 | [Aamel Mekhawy](https://open.spotify.com/track/6ljPFrvovokU3nhdcmoy7l) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Aamel Mekhawy](https://open.spotify.com/album/1LepxF0GpNaMvMebBDRNsP) | 3:25 | 2021-12-16 |  |
+| [Aazbny Aazib](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aazbny Aazib](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-03 |  |
 | [Abia El Donia](https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Abia El Donia](https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb) | 3:32 | 2021-12-16 |  |
 | [Abtal El Kalam](https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Abtal El Kalam](https://open.spotify.com/album/4g50d0yt0icA3PVjx0ceez) | 3:26 | 2021-12-16 |  |
 | [Adda El Ghazal](https://open.spotify.com/track/3eJ92MzqYA4Soioei4U1kd) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Adda El Ghazal](https://open.spotify.com/album/72YmO51aloNpRjYQ3U0ZXz) | 3:23 | 2021-12-16 | 2022-12-21 |
@@ -165,7 +166,7 @@
 | [خليك علي عومي](https://open.spotify.com/track/3P3nUCBz4AQPwmapGkWLPX) | [Faten Farid](https://open.spotify.com/artist/2MIpxKcT5RbV18YPsgQnhw) | [خليك علي عومي](https://open.spotify.com/album/1oyIuyB1gila3RG6UF17Kt) | 10:07 | 2021-12-16 | 2023-01-03 |
 | [رؤيه](https://open.spotify.com/track/0CbicEFhMQc3pJvVCXGWCQ) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/543Xje9ZP6XhTf8h9hOznR) | 5:14 | 2021-12-16 | 2022-07-29 |
 | [رؤيه](https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk) | 5:14 | 2022-07-14 |  |
-| [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 |  |
+| [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 | 2023-02-03 |
 | [رجوله برجوله](https://open.spotify.com/track/6zHTueE7m07zUriRDA5qIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/0RpaDyeJRmBWFpWWTlFPmM) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/track/5VW3aJVP0CxGxlMYLUvOhJ) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/album/2CeT9WKHjiLdd39o2UeukO) | 3:41 | 2022-10-26 | 2022-11-17 |
 | [ست الدار](https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr) | 2:35 | 2022-07-14 |  |

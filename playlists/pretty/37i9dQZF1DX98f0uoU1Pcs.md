@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,776 likes - 125 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,971 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 |
 | 2 | [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/45ihy5mszA5zmv7GchLZib) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 |
-| 3 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \[Feat\. Mannequin Pussy\] \(Remix\)](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 |
+| 3 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 |
 | 4 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
 | 5 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 |
 | 6 | [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 |

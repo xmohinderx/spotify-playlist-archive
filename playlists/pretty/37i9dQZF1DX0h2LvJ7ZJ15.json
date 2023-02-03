@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 685389,
+  "num_followers": 687028,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMDE0OGE2YjQwYWM4N2I0N2FiNjBhMGZiMzZjODBkYTgy",
+  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMDM4YWJkZjBhNWIyZDZhYzIyM2Q1MTdiNmFkODI3Y2Nh",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
-        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "No Idea - Dj Purpberry Chopped and Screwed",
-      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "green to blue (slowed + reverbed)",
         "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 187068,
       "name": "green to blue - slowed + reverbed",
       "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Married In Vegas (Matoma Remix)",
         "url": "https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 244797,
       "name": "All Night - Slowed N Reverb",
       "url": "https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2023-01-12 20:35:32",

@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-122 songs - 10 hr 3 min
+123 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Rungkad](https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI) | [Happy Asmara](https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK) | [Rungkad](https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp) | 5:08 | 2022-12-14 |  |
 | [Rungkad](https://open.spotify.com/track/7ykyqUPZMYu6ElknvIOr31) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Rungkad](https://open.spotify.com/album/2A8oczlX1p5VEYqyz03Btf) | 4:19 | 2022-09-29 |  |
 | [Rungokno Aku](https://open.spotify.com/track/0FzsdBtp14KszsGY8NuCcY) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Rungokno Aku](https://open.spotify.com/album/2lzTXWNU7aNqBrYHDEvyRF) | 5:16 | 2022-05-26 | 2022-11-14 |
+| [Sambat](https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Sambat](https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4) | 3:40 | 2023-02-02 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2022-05-26 |  |
 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 | 2022-05-26 |  |

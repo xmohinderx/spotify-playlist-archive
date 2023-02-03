@@ -2,9 +2,9 @@
 
 ### [X](https://open.spotify.com/playlist/37i9dQZF1DXcItj8Rw7Oqd)
 
-> Pop x Rock\. Cover: Sam Smith & Kim Petras ft Nova Twins
+> Pop x Rock\. Cover: Dylan
 
-62 songs - 3 hr 9 min
+65 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [honey](https://open.spotify.com/track/6v8CTp7Up0m1AcylQk3vwl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Deluxe\)](https://open.spotify.com/album/1o8ExR66PcMb1h8a1nhi9k) | 2:53 | 2022-12-09 |  |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-12-09 |  |
 | [Hurt Somebody](https://open.spotify.com/track/58IKtThXa8F87oupRcIMSu) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Hurt Somebody](https://open.spotify.com/album/34o7Qj0EUjXbT9EnCdb6ye) | 2:30 | 2022-12-09 |  |
+| [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 |  |
 | [LAZY](https://open.spotify.com/track/2pUsVdWX8cCwznDqTKil2G) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [LAZY](https://open.spotify.com/album/5R4N50KXCR8YzZ5JaNqNue) | 3:23 | 2022-12-09 |  |
 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 | 2022-12-09 |  |
 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2022-12-09 |  |
@@ -45,6 +46,7 @@
 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 | 2022-12-09 |  |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2022-12-09 |  |
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2022-12-09 |  |
+| [Not My Problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Not My Problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 | 2023-02-03 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-12-09 |  |
 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-12-09 |  |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-12-09 |  |
@@ -66,6 +68,7 @@
 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 |  |
 | [Unstoppable \- Clarence Clarity Remix](https://open.spotify.com/track/3sW9OEBnSiXDsImhpdTett) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Unstoppable \(Clarence Clarity Remix\)](https://open.spotify.com/album/6Se0Auz6TJwAsSdAgI3QhR) | 3:47 | 2022-12-09 |  |
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/2lKKBRDQbdOY3GxBlMRIz3) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [NEED](https://open.spotify.com/album/0GULTbSZE0OT64Al2LwbyU) | 2:28 | 2022-12-09 |  |
+| [wait what](https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [wait what](https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA) | 2:43 | 2023-02-03 |  |
 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 | 2022-12-09 |  |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-12-09 |  |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-12-09 |  |

@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-117 songs - 8 hr 29 min
+120 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [April](https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Vín](https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi) | 5:09 | 2022-09-15 |  |
 | [At The Horizon](https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2) | [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [At The Horizon](https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw) | 4:54 | 2022-09-15 |  |
 | [Athena \- NTEIBINT Remix](https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn), [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 4:21 | 2022-09-15 |  |
+| [Back 2 It](https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Natural Movement](https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn) | 5:17 | 2023-02-02 |  |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-09-15 |  |
 | [Big Sur](https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Big Sur](https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ) | 3:12 | 2022-09-15 |  |
 | [Blckdrss \(Wann Remix\)](https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF), [WANN](https://open.spotify.com/artist/2x98SUBoz7bmcSOuT9HfxU) | [Blckdrss \(Wann Remix\)](https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g) | 3:33 | 2022-11-19 | 2022-12-16 |
@@ -51,7 +52,9 @@
 | [House Shit](https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [House Shit](https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD) | 1:47 | 2022-09-15 |  |
 | [Hundred Fifty Up](https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Hundred Fifty Up](https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO) | 4:24 | 2022-09-15 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u) | [I Don't Know Why](https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg) | 2:56 | 2022-09-15 |  |
+| [I Lost My Way](https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [I Lost My Way](https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk) | 3:17 | 2023-02-02 |  |
 | [I Need You](https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF) | [I Need You](https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU) | 3:31 | 2022-09-15 |  |
+| [I Need You to Hear Me](https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Space Logic](https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF) | 3:31 | 2023-02-02 |  |
 | [Infinity \(SLCT Remix\) \(Instrumental Version\)](https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM) | [Bluma Petersen](https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Infinity \(The Remixes\)](https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD) | 2:56 | 2022-09-15 |  |
 | [Just for a Moment](https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Just for a Moment](https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO) | 3:13 | 2022-09-15 |  |
 | [Keep Me Satisfied](https://open.spotify.com/track/47uHKBfsct67tjtU4cXn8o) | [Toolate Groove](https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN), [Reda](https://open.spotify.com/artist/7AMjhm36Dqr1OFtXE8vR6N) | [Cosmic Breeze 003](https://open.spotify.com/album/6bUogvjiiFSrk6syDMF0P0) | 7:46 | 2022-09-15 | 2022-10-15 |

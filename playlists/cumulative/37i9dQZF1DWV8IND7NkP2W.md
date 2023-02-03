@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-548 songs - 1 day 0 hr 30 min
+550 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 |  |
-| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 |  |
+| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2023-02-03 |
 | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/album/0OKZQaezckePqyi8OHSKQH) | 1:10 | 2022-04-14 | 2022-07-24 |
 | [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2021-12-23 | 2023-01-10 |
 | [Cigar](https://open.spotify.com/track/1gT7lLqbEvYTtfYLjyKrPi) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Cigar](https://open.spotify.com/album/64NWyzhuLj2NonnCUwxYFi) | 1:30 | 2022-01-06 | 2022-12-16 |
@@ -472,6 +472,7 @@
 | [Summer Morn](https://open.spotify.com/track/7FNnbLEFdObnPN5vW11Q7E) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/3UbJPbRqqM5XGKctV48qsG) | 3:36 | 2022-07-28 | 2022-08-15 |
 | [Summer Morn](https://open.spotify.com/track/7txY6OM6LrIkZCwN6cJjgt) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Unsophisticated Beats Vol.1](https://open.spotify.com/album/4ufn7k60NGy1IvKwwoEHEL) | 3:36 | 2022-08-11 |  |
 | [Summer Nights](https://open.spotify.com/track/3RjwaQ4EAO7NGk3azXH4aT) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Summer Nights](https://open.spotify.com/album/0nWPCL5l3mDoMdKCJwABaF) | 1:48 | 2022-03-24 | 2022-04-21 |
+| [sun](https://open.spotify.com/track/0Q7MYDTYYQPjjHT3HejBe9) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [sun](https://open.spotify.com/album/2t22KCfl9jNCnJVu6e3LYg) | 2:00 | 2023-02-02 |  |
 | [Sun Drop](https://open.spotify.com/track/6rITQQhavaBXV2AwZPqMwa) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Dusk Till Dawn](https://open.spotify.com/album/6jAndBmWe4DdxiWLQAlURr) | 2:37 | 2022-03-24 | 2022-04-13 |
 | [Sun Shower](https://open.spotify.com/track/51bpkKHVzbH70ATH18AZ5M) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Sun Shower](https://open.spotify.com/album/5fT54xmeW7hkwF8qwUcfd9) | 2:40 | 2022-01-06 | 2022-07-25 |
 | [Sunday Burger](https://open.spotify.com/track/1wqj078Th6WnoIQrPjIZE0) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [OLD WAYS WON'T OPEN NEW DOOR](https://open.spotify.com/album/3Sa35KpRmVffMhH4b73h0J) | 2:12 | 2022-01-13 | 2022-06-11 |
@@ -534,6 +535,7 @@
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |
 | [When the neon sign turns on](https://open.spotify.com/track/28YE296IpnuNi3nJ2l11jn) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k) | [When the neon sign turns on](https://open.spotify.com/album/25RYHZVy8V78B29atIOaeM) | 1:53 | 2021-12-23 | 2022-07-27 |
 | [Whiskey bon bons](https://open.spotify.com/track/0KBhxTx9PuW9GY7ADpibM4) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#5](https://open.spotify.com/album/7jHBXBVglVreyqFaaobWxx) | 1:59 | 2022-01-06 | 2022-06-19 |
+| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-02-02 |  |
 | [Who](https://open.spotify.com/track/35solA4AqWqV0shqbmrlXi) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Who](https://open.spotify.com/album/3m0BkoBYwknRfaYTYNTn4t) | 2:54 | 2021-12-23 | 2022-07-25 |
 | [Why \- Instrumental](https://open.spotify.com/track/4lrBgixwA1IgY7sjAHl3pm) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Why \(Instrumental\)](https://open.spotify.com/album/1FYz4elK9meLwqVC8paa9d) | 1:52 | 2021-12-23 | 2022-07-16 |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-23 | 2022-12-24 |
@@ -546,7 +548,7 @@
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
-| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 |  |
+| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2023-02-03 |
 | [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 | 2022-12-02 |
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |

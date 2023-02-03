@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 880411,
+  "num_followers": 880740,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTM2OCwwMDAwMDAwMGJkZjhmMzM1Y2JjNzAzYzZkNGYwNDI0MWI4ZTcyMzVl",
+  "snapshot_id": "MTY3Mzk4MTM2OCwwMDAwMDAwMDBmZTBkNzBiZDg0N2M4MzBmMTZjNzg4YWVmN2Q4NTUz",
   "tracks": [
     {
       "added_at": "2023-01-04 15:03:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "dirty dancer",
-        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "dirty dancer",
-      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     },
     {
       "added_at": "2022-11-30 17:12:03",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "The Moon Song",
-        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "The Moon Song",
-      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "The Moon Song",
+        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "The Moon Song",
+      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
     },
     {
-      "added_at": "2022-11-17 20:14:42",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Migration",
@@ -863,6 +847,22 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+    },
+    {
+      "added_at": "2022-11-17 20:14:42",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-01-17 18:49:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Soul Trash",
-        "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "drip bounce _ 7_24_18",
-      "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 222400,
       "name": "I'll Come Too",
       "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Soul Trash",
+        "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "drip bounce _ 7_24_18",
+      "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1343,6 +1343,22 @@
       "duration_ms": 319840,
       "name": "Family and Genus",
       "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/0Nz3xKQGtje65y3xcEVj3N"
       },
@@ -1511,38 +1511,22 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Watch This Liquid Pour Itself",
-        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
       "artists": [
         {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 133676,
-      "name": "Ascend and Try Again",
-      "url": "https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
-      },
-      "artists": [
-        {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
         },
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1567,22 +1551,38 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
         },
         {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Watch This Liquid Pour Itself",
+        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 133676,
+      "name": "Ascend and Try Again",
+      "url": "https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
+        "name": "A Museum Of Contradiction",
+        "url": "https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "dimeback",
+      "url": "https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 184000,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "A Museum Of Contradiction",
-        "url": "https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "dimeback",
-      "url": "https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5"
     },
     {
       "added_at": "2023-01-17 18:48:43",

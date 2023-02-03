@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,584 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,758 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 36 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
 | 37 | [Free My Mind](https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM) | 2:40 |
 | 38 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
-| 39 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
-| 40 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
-| 41 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
+| 39 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
+| 40 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
+| 41 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 42 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 43 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 |
 | 44 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 70 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 
-Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMGM5ZGRkNDEwZmUxM2E4ZWMzYzFhYjIyY2E4MDNiNzIx`
+Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDZhNzZhOTM2NWUxMThkNmZiZDMyYmQ2N2M1MjNmMWVh`

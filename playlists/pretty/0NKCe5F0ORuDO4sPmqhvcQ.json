@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyMDMsMDBiNjc1ODNkOTk4ODg5ZTBmZDliY2IxOGYxNDVhOWY5NTFmNjM3Yg==",
+  "snapshot_id": "MTAyMDUsYTU3ZjQ5ZDJkNzRhZTI2NDY3MjFmNjUxYzJhMzFiNWYwMDFlODYzNQ==",
   "tracks": [
     {
       "added_at": "2023-01-11 20:20:38",
@@ -1967,6 +1967,38 @@
       "duration_ms": 244800,
       "name": "Take You High",
       "url": "https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq"
+    },
+    {
+      "added_at": "2023-02-02 16:55:48",
+      "album": {
+        "name": "we're the last to leave",
+        "url": "https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "we're the last to leave",
+      "url": "https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux"
+    },
+    {
+      "added_at": "2023-02-02 16:56:29",
+      "album": {
+        "name": "Pioneer Digital Plastic Sound",
+        "url": "https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 304107,
+      "name": "Pioneer Digital Plastic Sound",
+      "url": "https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS"
     }
   ],
   "unique_name": "Moving Castle Monthly",

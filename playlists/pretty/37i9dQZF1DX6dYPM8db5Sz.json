@@ -1,28 +1,32 @@
 {
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX_ZhuEvg\">Matthew Mole",
-  "num_followers": 5446,
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=Ow5ms3yFToCElCBxfriMRg\">Internet Girl",
+  "num_followers": 5449,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzM5OSwwMDAwMDAwMDBlYjE5MzM2M2JkNTBmMGI2Yjc1YjQzNWJlMTU4MGY5",
+  "snapshot_id": "MTY3NTM3NTE0MCwwMDAwMDAwMDQ2YmVmZWExOTkxNWM1MGFjNDRmOWE0NTY0ZTkwOGM5",
   "tracks": [
     {
-      "added_at": "2023-01-26 21:59:00",
+      "added_at": "2023-02-02 21:59:00",
       "album": {
-        "name": "Countryside",
-        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+        "name": "i don't reply",
+        "url": "https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277"
       },
       "artists": [
         {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
         }
       ],
-      "duration_ms": 217829,
-      "name": "Countryside",
-      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
+      "duration_ms": 168845,
+      "name": "i don't reply",
+      "url": "https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -39,6 +43,54 @@
       "duration_ms": 173800,
       "name": "Shortcuts",
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Action Figures Fighting",
+        "url": "https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "Action Figures Fighting",
+      "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Happier (Radio Remix)",
+        "url": "https://open.spotify.com/album/4dmgyRNF1FyHU9Jm94ss5Z"
+      },
+      "artists": [
+        {
+          "name": "Tuelo",
+          "url": "https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi"
+        }
+      ],
+      "duration_ms": 215171,
+      "name": "Happier - Radio Remix",
+      "url": "https://open.spotify.com/track/2dM434jTJ5oC51IFViMvv5"
+    },
+    {
+      "added_at": "2023-01-19 21:59:00",
+      "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 140494,
+      "name": "Above Water",
+      "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
     },
     {
       "added_at": "2023-01-26 21:59:00",
@@ -149,20 +201,20 @@
       "url": "https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
+      "added_at": "2023-02-02 21:59:00",
       "album": {
-        "name": "Above Water",
-        "url": "https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT"
+        "name": "Vuka Sizwe",
+        "url": "https://open.spotify.com/album/0yimQOfR8HHoBKMWEoFl3v"
       },
       "artists": [
         {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+          "name": "Ruzza Wazzi",
+          "url": "https://open.spotify.com/artist/6bCOMF4KxMWfP6zd2j3eGZ"
         }
       ],
-      "duration_ms": 140494,
-      "name": "Above Water",
-      "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
+      "duration_ms": 321000,
+      "name": "Vuka Sizwe",
+      "url": "https://open.spotify.com/track/7dgjQyk5CEdJ3Z7zkYemDV"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -179,6 +231,22 @@
       "duration_ms": 293389,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 217829,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -689,22 +757,6 @@
       "url": "https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "cold",
-        "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 271229,
-      "name": "cold",
-      "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
-    },
-    {
       "added_at": "2022-12-15 21:59:00",
       "album": {
         "name": "Stereoscope",
@@ -787,54 +839,6 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Norton Howard",
-        "url": "https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi"
-      },
-      "artists": [
-        {
-          "name": "Hiding Bigfoot",
-          "url": "https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Norton Howard",
-      "url": "https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR"
-      },
-      "artists": [
-        {
-          "name": "Jamie-Lee Sexton",
-          "url": "https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "How Do I Tell You",
-        "url": "https://open.spotify.com/album/2ZXG2gt26oPHl6dL5uCKXs"
-      },
-      "artists": [
-        {
-          "name": "S\u014cNN",
-          "url": "https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ"
-        }
-      ],
-      "duration_ms": 178246,
-      "name": "How Do I Tell You",
-      "url": "https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t"
     }
   ],
   "unique_name": "SAlt",

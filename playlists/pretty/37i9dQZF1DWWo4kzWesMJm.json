@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 62019,
+  "num_followers": 62103,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGYzOTMyNjIwOWQxMjZlYjRiOWJhM2E5ODM5OWVkYmNi",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDgwMTA0YWIwZWY5ZmI5ZWJkYzUxYmQ5YjcxZGQ2MWNj",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Fais Comme L'Oiseau",
         "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Fr\u00e9ro Delavega",
         "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
         "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 161080,
       "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Photos de voyages (Remastered)",
+        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Encore et encore - Remastered",
+      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -243,22 +259,6 @@
       "duration_ms": 234112,
       "name": "Le chanteur",
       "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Photos de voyages (Remastered)",
-        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Encore et encore - Remastered",
-      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
       "artists": [
         {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 226386,
       "name": "1987",
       "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Ailleurs Land",
-        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Ma libert\u00e9 de penser",
-      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Coup de soleil",
         "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 162980,
       "name": "Coup de soleil",
       "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Charango",
         "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 195680,
       "name": "Aux arbres citoyens",
       "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2023-01-12 23:00:00",

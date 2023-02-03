@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq?si=yQkVTVMOQJ22ycCBFHPtKw\">Jack and June</a> ",
-  "num_followers": 64863,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM?si=tx_3pY7VR3-4Mr_05UHtVQ\">Janie Bay</a> ",
+  "num_followers": 64898,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNTMwNCwwMDAwMDAwMGEwMGE4MGI0M2QwMDFkMmUxODhmMTY2NmVmZjk3OTM3",
+  "snapshot_id": "MTY3NTM3NTE0MCwwMDAwMDAwMDFhOGVhMWIxZmNiM2EwZjhiYTE4NDFhMjQyNzdmMmI1",
   "tracks": [
     {
-      "added_at": "2023-01-20 04:37:52",
+      "added_at": "2023-02-02 21:59:00",
       "album": {
-        "name": "Klippe Kou",
-        "url": "https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3"
+        "name": "Die Dansvloer",
+        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
       },
       "artists": [
         {
-          "name": "Jack and June",
-          "url": "https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq"
+          "name": "Janie Bay",
+          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
         }
       ],
-      "duration_ms": 178362,
-      "name": "Klippe Kou",
-      "url": "https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V"
+      "duration_ms": 184405,
+      "name": "Die Dansvloer",
+      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -87,26 +87,6 @@
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Weer",
-        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
-      },
-      "artists": [
-        {
-          "name": "Re\u00ebn",
-          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
-        },
-        {
-          "name": "Refentse",
-          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Skobbejak",
-      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
     },
     {
       "added_at": "2022-11-03 21:59:00",
@@ -195,6 +175,26 @@
     {
       "added_at": "2022-08-25 21:59:00",
       "album": {
+        "name": "Weer",
+        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ebn",
+          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
+        },
+        {
+          "name": "Refentse",
+          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Skobbejak",
+      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
         "name": "H2O\u00eb",
         "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2023-01-20 04:37:52",
+      "album": {
+        "name": "Klippe Kou",
+        "url": "https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3"
+      },
+      "artists": [
+        {
+          "name": "Jack and June",
+          "url": "https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Klippe Kou",
+      "url": "https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -267,6 +283,22 @@
       "duration_ms": 188124,
       "name": "Kwaaitjie",
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Jinne Maar Dis Lekker",
+        "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9",
+          "url": "https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90"
+        }
+      ],
+      "duration_ms": 186179,
+      "name": "Jinne Maar Dis Lekker",
+      "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
       "added_at": "2022-12-22 21:59:00",
@@ -387,6 +419,22 @@
       "duration_ms": 189000,
       "name": "Bokswyn",
       "url": "https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
     },
     {
       "added_at": "2022-12-29 21:59:00",
@@ -565,22 +613,6 @@
       "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
     },
     {
-      "added_at": "2021-11-18 21:59:00",
-      "album": {
-        "name": "Johnnie Blou",
-        "url": "https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Johnnie Blou",
-      "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
-    },
-    {
       "added_at": "2022-12-01 21:59:00",
       "album": {
         "name": "Drink",
@@ -649,36 +681,20 @@
       "url": "https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO"
     },
     {
-      "added_at": "2021-09-09 21:59:00",
+      "added_at": "2021-11-18 21:59:00",
       "album": {
-        "name": "Bring Dit",
-        "url": "https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku"
+        "name": "Johnnie Blou",
+        "url": "https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti"
       },
       "artists": [
         {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Bring Dit",
-      "url": "https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Plathond",
-        "url": "https://open.spotify.com/album/3yYGQg48xSnd5jTpYA8hcD"
-      },
-      "artists": [
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
-        }
-      ],
-      "duration_ms": 170684,
-      "name": "Plathond",
-      "url": "https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk"
+      "duration_ms": 187370,
+      "name": "Johnnie Blou",
+      "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
     },
     {
       "added_at": "2021-11-08 09:23:04",
@@ -795,22 +811,6 @@
       "duration_ms": 192426,
       "name": "Braaf Soos 'n Boerboel",
       "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Dogter",
-        "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Dogter",
-      "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
     },
     {
       "added_at": "2022-04-20 08:14:02",

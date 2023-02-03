@@ -942,7 +942,7 @@
           "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150193,
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 124516,
       "name": "i know you hate me",
       "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 61175,
       "name": "I'm Only a Fool for You",
       "url": "https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Led",
       "url": "https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT"
@@ -2472,6 +2472,24 @@
     {
       "album": {
         "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "album": {
+        "name": "She Bad",
         "url": "https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT"
       },
       "artists": [
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 140460,
       "name": "V-12",
       "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 254838,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 240133,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ"
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-03",
       "duration_ms": 237586,
       "name": "\u7d05\u84ee\u83ef",
       "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-129 songs - 10 hr 17 min
+130 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 | 2021-10-15 | 2022-11-13 |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2021-10-15 |  |
 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 | 2021-10-15 |  |
-| [Les Nuits \- Radio Edit](https://open.spotify.com/track/1y1xQf7kcYtk96q3iyl7jJ) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/5x9ex9cqxZWYe0bYqsPk4r) | 3:42 | 2021-10-15 |  |
+| [Les Nuits \- Radio Edit](https://open.spotify.com/track/1y1xQf7kcYtk96q3iyl7jJ) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/5x9ex9cqxZWYe0bYqsPk4r) | 3:42 | 2021-10-15 | 2023-02-03 |
+| [Les Nuits \- Radio Edit](https://open.spotify.com/track/2NFD2OuVhcP8ZK9QRgQ5Ah) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/0tFo2Q4eY8grx7hc1WmI0R) | 3:42 | 2022-07-20 |  |
 | [Light of Day](https://open.spotify.com/track/1rlkXwdVRwLSQb00RmPo2Z) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 6:41 | 2022-07-20 |  |
 | [Light of Day](https://open.spotify.com/track/4ubEqFp1P3FOwEDMn3USQI) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 6:41 | 2022-07-20 | 2022-10-15 |
 | [Light of Day](https://open.spotify.com/track/6vgkFeYMWYN4za6ZXhiDqt) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 6:41 | 2022-07-20 | 2022-11-16 |

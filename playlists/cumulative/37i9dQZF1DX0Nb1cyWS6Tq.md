@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-266 songs - 20 hr 8 min
+267 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Baby Turns Blue](https://open.spotify.com/track/3bTYU6srrW2KJ9PVuDUtKd) | [Virgin Prunes](https://open.spotify.com/artist/4xymX6VDkZXYtx15QNfV9o) | [80s Post Punk](https://open.spotify.com/album/5Hx5PrqAZ2FvCpcxqi13SP) | 3:39 | 2021-10-15 | 2022-07-25 |
 | [Be My Druidess](https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 5:25 | 2021-10-15 |  |
 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 | 2022-07-01 | 2022-12-26 |
-| [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 | 2021-10-15 |  |
+| [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 | 2021-10-15 | 2023-02-03 |
 | [Beatrix](https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2021-10-15 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m) | 9:36 | 2021-10-15 | 2022-07-29 |
@@ -193,6 +193,7 @@
 | [Sculpting the Exodus](https://open.spotify.com/track/1XEttwWu7tXhKpCFpYQtf2) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Sculpting the Exodus](https://open.spotify.com/album/1wjoyEFIq1LjaCE43WFAUr) | 5:01 | 2021-10-15 | 2022-07-28 |
 | [Sebastiane](https://open.spotify.com/track/48Val8qkmAPc5VQjhaIMOT) | [Sex Gang Children](https://open.spotify.com/artist/3tiiwyBskzJAqYXZev7OjF) | [Song and Legend](https://open.spotify.com/album/4AZXDsUymhraKcuJGI5mTA) | 3:13 | 2021-10-15 | 2022-07-28 |
 | [Seemann](https://open.spotify.com/track/4sVLQ6Kx40cXDJzXvOWbzf) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Amplified \- A Decade of Reinventing the Cello](https://open.spotify.com/album/4hdqEMOKD7aG2izjUOmk20) | 4:42 | 2021-10-15 | 2022-04-21 |
+| [Seemann](https://open.spotify.com/track/5zW8UE2pvxwZ1TRC6Q3CXr) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Reflections](https://open.spotify.com/album/3gJASTvUI7AYoZdOZl8zdw) | 4:42 | 2021-10-15 |  |
 | [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK) | 3:57 | 2021-10-15 |  |
 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 | 2021-10-15 | 2022-07-29 |
 | [Seven Years](https://open.spotify.com/track/6d81COn50kdz2P1UpdsMFV) | [Eyeless In Gaza](https://open.spotify.com/artist/15gVFNyge3HjNyFM2uA1cR) | [Photographs As Memories](https://open.spotify.com/album/3V17F9UlX15QLIsGUfKxtU) | 2:22 | 2021-10-15 | 2022-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,819 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 25 | [Cream & Soda](https://open.spotify.com/track/09GfgjO65HAryHjEpjWrqA) | [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Cream & Soda](https://open.spotify.com/album/4xORnofdKz97pqcsurqdpr) | 3:40 |
 | 26 | [Superfeeling](https://open.spotify.com/track/6IdMrm3cDd2GjdhwbhJDrD) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/3Uh9xcxZ60dWj7B1V13kjF) | 3:17 |
 | 27 | [MISFIT](https://open.spotify.com/track/4y9q32jVOA6DkFZB2v44YD) | [Arnt Mae](https://open.spotify.com/artist/252gzBasi6292N04ZWONnH) | [MISFIT](https://open.spotify.com/album/5nZaaVXOZvSicohJp8SYoF) | 3:58 |
-| 28 | [Miu Miu](https://open.spotify.com/track/3yBEThuhYFrcUo5gZCQH9P) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm), [Nganeko](https://open.spotify.com/artist/4bB5eTeCU3CwJd4DjVVzKW) | [Miu Miu](https://open.spotify.com/album/6oVssXh2lSxbW4Byh2v4Qk) | 3:43 |
+| 28 | [Miu Miu](https://open.spotify.com/track/3yBEThuhYFrcUo5gZCQH9P) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm), [Nganeko](https://open.spotify.com/artist/4oJPE0D0YhnBErqxc65hay) | [Miu Miu](https://open.spotify.com/album/6oVssXh2lSxbW4Byh2v4Qk) | 3:43 |
 | 29 | [Skin](https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Skin](https://open.spotify.com/album/2AxVopmpBrUglkTcjOWfiB) | 2:50 |
 | 30 | [Birds & The Eagles](https://open.spotify.com/track/0NQsz5qDnBKncG4M25MUEK) | [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs), [spdrtwnbby](https://open.spotify.com/artist/5I2Z1SRIIyxugl8mCV2ajW) | [Birds & The Eagles](https://open.spotify.com/album/3yU6Iomu2SYVr0CXZnczRT) | 2:48 |
 | 31 | [Best Me](https://open.spotify.com/track/0xpAZCIAeV8wE69jo1W1e1) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Best Me](https://open.spotify.com/album/3C3pKFE601IDJ1PpHTDQDG) | 3:06 |

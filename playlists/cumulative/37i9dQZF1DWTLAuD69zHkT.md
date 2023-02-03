@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-89 songs - 6 hr 39 min
+90 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [It Takes A Lot To Laugh, It Takes A Train To Cry](https://open.spotify.com/track/3ofvDyH9vvVzgG60cpPWj6) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:47 | 2022-07-13 |  |
 | [Jelly Whippin' Blues](https://open.spotify.com/track/0Fp1ihxJ07wzXnUJ6eOcui) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Don’t Tampa With the Blues](https://open.spotify.com/album/2wN8IbaXBuRx7g6NpbryDs) | 3:51 | 2022-08-18 |  |
 | [Katie Mae](https://open.spotify.com/track/64zOIsc1VEx7im8HCGkYeH) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\): The Fire Sessions](https://open.spotify.com/album/7bT0QutRnszA4cbLffNQ4K) | 2:51 | 2022-10-14 | 2022-11-13 |
-| [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 | 2022-07-13 |  |
+| [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 | 2022-07-13 | 2023-02-03 |
+| [Katie May](https://open.spotify.com/track/5zyqoaFLcTj9RXGeyeWuag) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:51 | 2023-01-10 |  |
 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 | 2022-07-13 |  |
 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 | 2022-07-13 |  |
 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 | 2022-07-13 |  |

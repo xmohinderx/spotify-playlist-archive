@@ -4,12 +4,13 @@
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 
-290 songs - 18 hr 28 min
+291 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4th of july](https://open.spotify.com/track/7dn5RKG3K4Bh0F30Ws5AzF) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [4th of july](https://open.spotify.com/album/11hefE33QHr550fVgDPGIs) | 2:56 | 2022-01-21 | 2022-07-29 |
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-04-29 |  |
+| [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 |  |
 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 | 2022-04-29 |  |
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2022-04-13 | 2022-07-28 |
 | [AEIOU](https://open.spotify.com/track/3DfdycOWmEvE3StaotW2vN) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/7vSeR0JZxdfbHvaQ84kJFt) | 4:57 | 2022-04-13 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [Maybe Someday](https://open.spotify.com/track/2DjwsghflIeh6qmfpoy5UI) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Maybe Someday](https://open.spotify.com/album/6onXo7EIPgWuvfkFoVNrAU) | 3:00 | 2022-10-21 | 2022-12-16 |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 | 2023-01-01 |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 |  |
-| [midnight sun \- reflects / acoustic version](https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 4:55 | 2022-12-16 |  |
+| [midnight sun \- reflects / acoustic version](https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 4:55 | 2022-12-16 | 2023-02-03 |
 | [Mirror](https://open.spotify.com/track/64XLoFc5NQjjFgaM5n7UzF) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5Fh8bD99yT2xlDUlLNw005) | 2:31 | 2022-12-09 |  |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-04-29 |  |
 | [Mohabbat](https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mohabbat](https://open.spotify.com/album/1DUjMy0rHh8ckyyvGzQzhm) | 7:42 | 2022-01-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-111 songs - 7 hr 56 min
+112 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 | 2022-10-13 |  |
 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 | 2022-10-13 |  |
 | [Guche Gulabi](https://open.spotify.com/track/7t2bn7EHAvTPKn7wNKLCoK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Most Eligible Bachelor](https://open.spotify.com/album/10WgwwI8tcErXXUWzQhOOJ) | 4:42 | 2021-10-21 | 2022-10-14 |
-| [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/67XeWdoClnbbB5HyuB5wIj) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mega Power Star](https://open.spotify.com/album/4l1UZrzOz1la6gcFsEuktY) | 4:24 | 2022-10-13 |  |
+| [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/67XeWdoClnbbB5HyuB5wIj) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mega Power Star](https://open.spotify.com/album/4l1UZrzOz1la6gcFsEuktY) | 4:24 | 2022-10-13 | 2023-02-03 |
+| [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 | 2023-02-02 |  |
 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 | 2021-10-21 | 2022-10-14 |
 | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt) | 4:31 | 2021-10-21 | 2022-10-14 |
 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash, Anitha](https://open.spotify.com/artist/5mYYuZMloL3PebJsXYzAuQ) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2022-10-14 |  |

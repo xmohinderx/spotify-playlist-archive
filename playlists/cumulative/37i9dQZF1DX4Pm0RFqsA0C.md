@@ -4,7 +4,7 @@
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-153 songs - 10 hr 2 min
+154 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Hope You Find It](https://open.spotify.com/track/107muHC439r1aQ7hQhOfaD) | [Yoo Seungjun](https://open.spotify.com/artist/1UY6aDyVMEqRXjfVlfE0Mb) | [Best & J Duet Collection CD 1](https://open.spotify.com/album/3eqkTlVX3GOgtyCc2magH4) | 3:46 | 2021-02-01 |  |
 | [Hunch](https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:57 | 2021-02-01 |  |
 | [I Know \- '92 TV Edit](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:24 | 2021-02-01 |  |
-| [I Love You](https://open.spotify.com/track/13Dslqdq2KEecZnNpzIJX7) | [차태현](https://open.spotify.com/artist/6HHz14IwyFjS8GSz2nD0UA) | [Accident](https://open.spotify.com/album/4mmeH3oAXIrEj7Jp4JKUI7) | 3:07 | 2021-02-01 |  |
+| [I Love You](https://open.spotify.com/track/13Dslqdq2KEecZnNpzIJX7) | [차태현](https://open.spotify.com/artist/6HHz14IwyFjS8GSz2nD0UA) | [Accident](https://open.spotify.com/album/4mmeH3oAXIrEj7Jp4JKUI7) | 3:07 | 2021-02-01 | 2023-02-03 |
+| [I Love You](https://open.spotify.com/track/6NodLa0dtcDgIi1Beaugh1) | [차태현 Cha TaeHyun](https://open.spotify.com/artist/5EOwYQaCYtpejtbBTPQ9Gn) | [Accident](https://open.spotify.com/album/0hpEt4s6zaZyXqoKmbBJ1L) | 3:07 | 2021-02-01 |  |
 | [I Pray 4 U](https://open.spotify.com/track/0Ujhi3iIJx9WRjJa1nZXYT) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:50 | 2021-02-01 |  |
 | [I yah!](https://open.spotify.com/track/1T7Bba0gPmoyulQioB9ZGt) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [I Yah! \- The 4th Album](https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3) | 4:37 | 2021-02-01 |  |
 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 | 2021-02-01 |  |

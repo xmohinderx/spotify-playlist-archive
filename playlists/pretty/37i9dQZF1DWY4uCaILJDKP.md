@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,271 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 44 | [ぼくらのfrai awei](https://open.spotify.com/track/3tRsqyKXjvdJxFNLOB0D3t) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [ぼくらのfrai awei](https://open.spotify.com/album/3XPDxuGbwfNmkznwPpmSSg) | 4:23 |
 | 45 | [うどん](https://open.spotify.com/track/2JHaLhD9twCy1LYzHKRla5) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [one](https://open.spotify.com/album/4FobAj4g2Pr4RXJJQRexbp) | 3:45 |
 | 46 | [JOY](https://open.spotify.com/track/5XpeOzPh8mzTnh0SHiYdLi) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Joyful Monster](https://open.spotify.com/album/7q7PwTvocTRkcCrEk6RG8y) | 4:29 |
-| 47 | [お願いジュリー☆ \-ヒャダインのリリリリ☆リミックス\-](https://open.spotify.com/track/1bp06ctRxysQGxVueExwLy) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [Kokuhaku](https://open.spotify.com/album/5bC8dYlt4NxuU2P8spg3gB) | 4:00 |
+| 47 | [お願いジュリー☆ \-ヒャダインのリリリリ☆リミックス\-](https://open.spotify.com/track/3RI72GGL6WgrAKyjn8eAil) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [告白](https://open.spotify.com/album/4Z9Ovv9lPXqBWqY8MPkLQQ) | 4:06 |
 | 48 | [Start it right away](https://open.spotify.com/track/12SzyDBVh8aXwBSe6Oc0A1) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Start it right away](https://open.spotify.com/album/2k10P8MlYRilFTw1vVyt5o) | 4:08 |
 | 49 | [Future Is Mine](https://open.spotify.com/track/5CAWxzfJ264BMOKzFV7Sd7) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Toyful Basket](https://open.spotify.com/album/3sPrKf36F1RZtrOzL2OtQC) | 3:52 |
 | 50 | [thx!!](https://open.spotify.com/track/3H4aN2ueNg6e9DGZpmPfme) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Tinkling Smile](https://open.spotify.com/album/4lWHXHPkz9SwdNjWGJBMel) | 4:13 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 101 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 102 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMGVlZTY1M2I3OGM4NTI0OTk5MmMzMGRhN2UyNGRmMjgx`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDY4NjBmZWNkNTRkZmZmNGExMTFhMjc5M2ZlNWM1OTU4`

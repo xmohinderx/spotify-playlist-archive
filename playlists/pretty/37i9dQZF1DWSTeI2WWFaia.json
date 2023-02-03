@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 1594692,
+  "num_followers": 1594807,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGRhOTJhYjBhZTlmOWIxNjA4MTdkMDYwNDVlNzc3ODdm",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDkzMzEzMjZkZWUwZDZjZTJjNDIyMzY2ZTg0M2MxNGU4",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "DAMN (feat. Dave East)",
+        "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
+      },
+      "artists": [
+        {
+          "name": "Godfather of Harlem",
+          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 193603,
+      "name": "DAMN (feat. Dave East)",
+      "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Skegee",
         "url": "https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL"
       },
@@ -895,22 +915,6 @@
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -935,6 +939,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "DAMN (feat. Dave East)",
-        "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
-      },
-      "artists": [
-        {
-          "name": "Godfather of Harlem",
-          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 193603,
-      "name": "DAMN (feat. Dave East)",
-      "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
     }
   ],
   "unique_name": "Spilled Ink",

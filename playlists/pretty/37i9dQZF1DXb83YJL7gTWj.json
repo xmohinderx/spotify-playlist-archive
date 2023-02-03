@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 234050,
+  "num_followers": 234089,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3NjgzMCwwMDAwMDAwMDlkMmQ4ZjcxMjZlZDExYzRhYThhYzljYTZiM2UzMTE5",
+  "snapshot_id": "MTY3NDU3NjgzMCwwMDAwMDAwMDkwOTcxMGI3YWRhOGQyMThhYTM2YTYyNzBkNDc1NTUy",
   "tracks": [
     {
       "added_at": "2023-01-24 16:13:50",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-24 16:13:50",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 155303,
-      "name": "Head And Heart On Fire",
-      "url": "https://open.spotify.com/track/0p4j657L1sMElovvsUlyiD"
-    },
-    {
-      "added_at": "2023-01-24 16:13:50",
-      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 166139,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
+    },
+    {
+      "added_at": "2023-01-24 16:13:50",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 155303,
+      "name": "Head And Heart On Fire",
+      "url": "https://open.spotify.com/track/0p4j657L1sMElovvsUlyiD"
     },
     {
       "added_at": "2023-01-24 16:13:50",

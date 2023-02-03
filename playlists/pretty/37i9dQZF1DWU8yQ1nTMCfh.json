@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 278253,
+  "num_followers": 278284,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGM5NTZmOGMwZGM4MzcwNWU2MTE3MDQ2ZTI3MDI3MTU3",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGU4MjY2YzViOTFlOGI4NWJiY2FmOGEwNTc2Nzk5MmM0",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Ramona Flowers",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Ramona Flowers",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "No me preguntes por qu\u00e9",
         "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Ramona Flowers",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Ramona Flowers",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "La Petite Mort",
-        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "La Petite Mort",
-      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Plaza en el cielo",
         "url": "https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 206615,
       "name": "Plaza en el cielo",
       "url": "https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "La Petite Mort",
+        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hijos del Sol",
-        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
+        "name": "A Banda",
+        "url": "https://open.spotify.com/album/75Jl4p55M4M2jKxyCWa4pz"
       },
       "artists": [
         {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+          "name": "Tigres Leones",
+          "url": "https://open.spotify.com/artist/7nPrDCQpkqvDWvBLQS7fPF"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Danza de Sol",
-      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
+      "duration_ms": 199975,
+      "name": "A Banda",
+      "url": "https://open.spotify.com/track/0mFbRJh8v4YOEH4NkIYMqW"
     }
   ],
   "unique_name": "Rock Total",

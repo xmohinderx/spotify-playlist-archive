@@ -2,7 +2,7 @@
 
 ### [All Out 00s Hindi](https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij)
 
-> Best of 2000s from Bollywood\. Cover \- Jab We Met
+> Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Jab We Met
 
 246 songs - 22 hr 1 min
 
