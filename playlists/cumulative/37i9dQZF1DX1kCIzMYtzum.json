@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "After Midnight (feat. Xoro)",
+        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143526,
+      "name": "After Midnight (feat. Xoro)",
+      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
@@ -456,7 +482,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 164307,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI"
@@ -684,7 +710,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 181935,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/0iF6QJbS6FRPokpyVHVkKt"
@@ -3846,6 +3872,28 @@
       "duration_ms": 184687,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw"
+    },
+    {
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L"
     },
     {
       "album": {

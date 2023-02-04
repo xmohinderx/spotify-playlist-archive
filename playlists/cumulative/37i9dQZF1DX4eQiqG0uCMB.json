@@ -797,6 +797,36 @@
     },
     {
       "album": {
+        "name": "Elastic",
+        "url": "https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS"
+      },
+      "artists": [
+        {
+          "name": "SOLU",
+          "url": "https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt"
+        },
+        {
+          "name": "Nana Dinero",
+          "url": "https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx"
+        },
+        {
+          "name": "Klue",
+          "url": "https://open.spotify.com/artist/4ouuOsxjfLQmULJ1yWjYbn"
+        },
+        {
+          "name": "Zel X",
+          "url": "https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151572,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
       },
@@ -1616,7 +1646,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 229024,
       "name": "Levels",
       "url": "https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm"
@@ -1894,7 +1924,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
@@ -2047,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "album": {
         "name": "my Intentions",
         "url": "https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E"
       },
@@ -2196,7 +2244,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 290786,
       "name": "Noba Bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
@@ -2624,7 +2672,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 173881,
       "name": "Smoke and Chill",
       "url": "https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY"

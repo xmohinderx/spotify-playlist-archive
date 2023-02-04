@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Alex Hoyer en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Kenia OS en portada.
 
-163 songs - 8 hr 20 min
+165 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 | 2022-12-19 |  |
 | [Cuenta Hasta Diez](https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ) | [Yaz Flores](https://open.spotify.com/artist/1lMvmt7aLyqJ54gNQSrW9i) | [Cuenta Hasta Diez](https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN) | 2:37 | 2022-02-04 | 2022-07-20 |
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-02-04 | 2023-01-29 |
+| [Dame](https://open.spotify.com/track/7HYbGDEDUGNA4BBgwJdCfv) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Dame](https://open.spotify.com/album/6pCTQKlx66j1rC2GGLsBDI) | 3:14 | 2023-02-03 |  |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-10-31 |  |
 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2022-05-20 |  |
 | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/album/7sF2hlKgjWhBNMd66wu1T8) | 2:40 | 2022-02-04 | 2022-07-29 |
@@ -67,6 +68,7 @@
 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 | 2022-12-02 |  |
 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 | 2022-12-26 |
 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 | 2022-02-04 | 2022-12-20 |
+| [Good Boy](https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:03 | 2023-02-03 |  |
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-02-04 | 2022-02-16 |
 | [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2022-02-04 | 2022-08-22 |
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2022-04-22 | 2023-01-29 |
@@ -101,7 +103,7 @@
 | [Nadie Te Entiende](https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Nadie Te Entiende](https://open.spotify.com/album/6PdWbSpwcrtKxbDmOG0pzA) | 3:10 | 2022-02-04 | 2022-07-24 |
 | [Neón Ponderosa](https://open.spotify.com/track/0ew6IpoCY2hx5xVfCt6BhE) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Neón Ponderosa](https://open.spotify.com/album/5eDv0qyiE6Rau1LEQxk7hN) | 3:23 | 2022-02-25 | 2022-04-23 |
 | [No Eres Tú](https://open.spotify.com/track/4GStP9aSm7eAR6Q2ltRlum) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [No Eres Tú](https://open.spotify.com/album/6mid7zTX6Ba7MabucYA6zN) | 3:49 | 2022-02-04 | 2022-08-04 |
-| [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 | 2022-07-29 |  |
+| [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 | 2022-07-29 | 2023-02-04 |
 | [No Es Mi Culpa](https://open.spotify.com/track/6u8WHBY1SRLHQk2fXiA879) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [No Es Mi Culpa](https://open.spotify.com/album/1ncVCtS5Mhw26G4hBUj2OX) | 2:48 | 2022-02-04 | 2022-06-15 |
 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-02-04 |  |
 | [No Seas Así](https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 2:38 | 2022-02-04 | 2022-07-29 |
@@ -135,7 +137,7 @@
 | [Shot Shot](https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Shot Shot](https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF) | 2:58 | 2022-02-04 | 2022-11-01 |
 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 | 2022-02-04 | 2022-07-27 |
 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 | 2022-06-06 | 2022-06-29 |
-| [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 | 2022-02-04 |  |
+| [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 | 2022-02-04 | 2023-02-04 |
 | [Sincronía](https://open.spotify.com/track/1wNsiqRAWRc6xGCOEGv7li) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Sincronía](https://open.spotify.com/album/6Z3JXvfQtfMo5B0sArZ2TK) | 3:38 | 2022-02-04 | 2022-07-25 |
 | [Sintonía](https://open.spotify.com/track/04XUVNDGZlQu4XcgzdD5GD) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Sintonía](https://open.spotify.com/album/5e2KDtyqG9lZiT8IoVXbeA) | 2:50 | 2022-04-22 | 2022-05-04 |
 | [Sirena](https://open.spotify.com/track/24qPSsYbHn9NzeDde6tIg7) | [Isabella de la Torre "La Bala"](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Sirena](https://open.spotify.com/album/75D1TCWnX5TMNPcNvO8Uzp) | 3:26 | 2022-02-18 | 2022-07-11 |

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 103006,
+  "num_followers": 103032,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODg2MCwwMDAwMDAwMDAyNDY0OWEzNDE2MDkyMDQ1MzhiNTJjZjg1ZmY0MzA0",
+  "snapshot_id": "MTY3NTQzNjc1MywwMDAwMDAwMDRmYTFiYjYxN2IwMWZhMjVlMDNmNTVmZWIxZjJhMjRk",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -79,7 +79,7 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Boy's a liar Pt.2",
+        "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
       "artists": [
@@ -93,7 +93,7 @@
         }
       ],
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt.2",
+      "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -131,6 +131,26 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "added_at": "2023-02-03 10:37:17",
+      "album": {
+        "name": "Sugar World",
+        "url": "https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx"
+      },
+      "artists": [
+        {
+          "name": "jonatan leandoer96",
+          "url": "https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE"
+        },
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        }
+      ],
+      "duration_ms": 287765,
+      "name": "Rivers of Another Town",
+      "url": "https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1443,22 +1463,6 @@
       "duration_ms": 157176,
       "name": "pass on over",
       "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "IOTA",
-        "url": "https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "La money",
-      "url": "https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b"
     },
     {
       "added_at": "2023-02-02 23:01:00",

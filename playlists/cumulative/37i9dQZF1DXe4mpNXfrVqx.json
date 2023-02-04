@@ -948,7 +948,7 @@
       },
       "artists": [
         {
-          "name": "slipmami",
+          "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 139975,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx"
@@ -1476,7 +1476,7 @@
       },
       "artists": [
         {
-          "name": "slipmami",
+          "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
@@ -2164,6 +2164,24 @@
       "duration_ms": 164538,
       "name": "Sem Tempo",
       "url": "https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj"
+    },
+    {
+      "album": {
+        "name": "Sexy Gangsta",
+        "url": "https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI"
+      },
+      "artists": [
+        {
+          "name": "MC Lianna",
+          "url": "https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121836,
+      "name": "Sexy Gangsta",
+      "url": "https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t"
     },
     {
       "album": {

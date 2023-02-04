@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites!
 
-107 songs - 4 hr 32 min
+109 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Home \(From The Netflix Series: “Ridley Jones” Vol\. 3\) \(feat\. Sutton Foster, Iara Nemirovsky\)](https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Iara Nemirovsky](https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 3\)](https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR) | 1:14 | 2022-04-08 |  |
 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 | 2022-04-08 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/5QCNav5MXT4un1jxr49qnB) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 4:47 | 2022-04-08 |  |
+| [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-02-03 |  |
 | [I'll Always Love You](https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6) | 2:53 | 2022-04-08 | 2022-07-29 |
 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-07-08 | 2022-11-17 |
 | [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 | 2022-10-12 |  |
@@ -103,6 +104,7 @@
 | [The Music In You \(From Gabby's Dollhouse\)](https://open.spotify.com/track/6dawwS9u34unKdN6GpecGT) | [Eduardo Franco](https://open.spotify.com/artist/1PpNXrIz5vq9XtTkTZN6gN) | [The Music In You \(From Gabby's Dollhouse\)](https://open.spotify.com/album/5dpKoCPEjVfPljzdyYruoK) | 2:24 | 2022-04-08 |  |
 | [The Power Is Ours](https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd) | [Ali Dee](https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj) | [He\-Man and the Masters of the Universe, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/3gTyS9vXB0WQERPLu11WhP) | 2:54 | 2022-04-08 |  |
 | [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 | 2022-07-08 | 2022-07-10 |
+| [The Slip](https://open.spotify.com/track/7Jr9MNxJWexglBZJvHNTCk) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Jordan Mosley](https://open.spotify.com/artist/3sdEAXDskGxSy9wwOsza6s) | [My Dad The Bounty Hunter \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/18hA5x8SmQG5FDATMx3wvp) | 2:27 | 2023-02-03 |  |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-04-08 |  |
 | [This Day](https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc) | [Justin Cornwell](https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC), [Sharon Rose](https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:33 | 2022-04-08 |  |
 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 | 2022-10-12 |  |

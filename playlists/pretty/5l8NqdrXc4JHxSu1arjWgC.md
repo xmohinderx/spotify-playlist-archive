@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,956 likes - 666 songs - 1 day 20 hr 53 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,958 likes - 667 songs - 1 day 20 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -674,5 +674,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 664 | [Keep On Dreamin'](https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 4:26 |
 | 665 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
 | 666 | [To the Moon](https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8) | 2:50 |
+| 667 | [Space Train](https://open.spotify.com/track/0bsWrdyxCwIlttOGkLICTH) | [Spiral Drive](https://open.spotify.com/artist/5wj6rtWtoMYXEppT7Hq07V) | [Space Train](https://open.spotify.com/album/7GGYdBte34n3jsPVcuRkXG) | 3:28 |
 
-Snapshot ID: `MTY4OSw2NGVhYjk5ZGYyYTAxYmZhZmE4MDUzOTFmZGNmNDQ3YjI5OGQ2NjNl`
+Snapshot ID: `MTY5MCwxYzAxMzg3YzE3OTY4MjIxYjk0NDg4MjljMWE2MzRhNDc2MjdmOGI4`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 ### [Ganda Cena](https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN)
 
-> Novos rappers, novos sons\. Tamos juntos! Foto: Lil Mapz.
+> Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,815 likes - 105 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,820 likes - 105 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 2 | [Vida Santa](https://open.spotify.com/track/7boRpC3BKFafT24SiKjZCD) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [BiggLexus](https://open.spotify.com/artist/3r4GzGg7uNS9cLr4shhN26) | [Vida Santa](https://open.spotify.com/album/3wsGOinpCetavp7Bdm8tDa) | 3:15 |
 | 3 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
 | 4 | [GÁS](https://open.spotify.com/track/4aAG0xNK7yU7AX6vry7ssh) | [juri](https://open.spotify.com/artist/5UttZDIowGofKYbbZqSx0O) | [GÁS](https://open.spotify.com/album/1J8ZXd65c3wcXN3pI89b6J) | 2:52 |
-| 5 | [Room](https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Room](https://open.spotify.com/album/2AjIqnf2M8gc8zcrO5xQht) | 2:34 |
+| 5 | [REDFLAGS](https://open.spotify.com/track/6CFlhf6PbF7muUZHx0s1se) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [REDFLAGS](https://open.spotify.com/album/0BOLgNRI3skEgH8RRcolCJ) | 1:54 |
 | 6 | [City](https://open.spotify.com/track/6QEFHsS81ia1iN0DvGUfOC) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [City](https://open.spotify.com/album/09iif3XxLDwBr1JqaFUEeD) | 2:52 |
-| 7 | [REDFLAGS](https://open.spotify.com/track/6CFlhf6PbF7muUZHx0s1se) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [REDFLAGS](https://open.spotify.com/album/0BOLgNRI3skEgH8RRcolCJ) | 1:54 |
+| 7 | [Room](https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Room](https://open.spotify.com/album/2AjIqnf2M8gc8zcrO5xQht) | 2:34 |
 | 8 | [2 Caras](https://open.spotify.com/track/2896licIi4DqC6nHDGvFhv) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [2 Caras](https://open.spotify.com/album/1bsGPdayiAx0fAV8FWJQyu) | 2:33 |
 | 9 | [Não Presta](https://open.spotify.com/track/59PIvemLKTt0DHZHguTjZo) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN), [King Clay](https://open.spotify.com/artist/5pC1ywLiRZxttVCiVHRT97), [Kiba The Seven](https://open.spotify.com/artist/4NGDH7MvxCOfKjmApOFDZg) | [Não Presta](https://open.spotify.com/album/06lYsGZJQolJJSly18U7wn) | 2:49 |
 | 10 | [SPEED FREESTYLE](https://open.spotify.com/track/36LmGFTW2HLtcAYhMJ1U32) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Nedved](https://open.spotify.com/artist/51mpgx4e3s5pGbKiWKSz5W) | [SPEED FREESTYLE](https://open.spotify.com/album/3JeWSNUevH1GCFr9EX5KDQ) | 2:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 104 | [Duvidaram](https://open.spotify.com/track/2Ffk4TC5BOzlO0q02FFOH5) | [Deyyy Z](https://open.spotify.com/artist/6ooleSddRDlnv4z6ugA9B8), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC) | [Duvidaram](https://open.spotify.com/album/0PFaTFkikHfm9SmKE9leD4) | 3:55 |
 | 105 | [Anonymous](https://open.spotify.com/track/3K27rwWRxMEKCUmbnb9xXn) | [Hebecz](https://open.spotify.com/artist/6cxNecG2Z0Z4IKrgPLV49W), [O NÚCLEO 360](https://open.spotify.com/artist/2an0HLAQrLuRmr2z4OAl7O) | [Anonymous](https://open.spotify.com/album/3IsEzzDit3f383Jee4Y0jA) | 3:19 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDNhNzIzMDdlZTljMWM2MGExNWM0OTIwNDUzYjc2Y2Nl`
+Snapshot ID: `MTY3NTQyMjM2MywwMDAwMDAwMGY0MDdmZjdjMGQ0YzI2NDlmYzAxZDBkZWVjOTdmMzFi`

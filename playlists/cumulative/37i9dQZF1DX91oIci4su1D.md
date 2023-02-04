@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-514 songs - 1 day 7 hr 42 min
+515 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Devil's Deal](https://open.spotify.com/track/3iMR9x7qT6yNdiyF1i1ra0) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Devil's Deal](https://open.spotify.com/album/5wN6dndYvgfsxmyULteH66) | 3:34 | 2022-09-23 |  |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 |  |
 | [DNA](https://open.spotify.com/track/0npeCeJYQ85l17WlXBF3wG) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Red Dragons](https://open.spotify.com/artist/4PyJ466x0DdRy1dbmsddpt) | [Duality](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf) | 6:37 | 2022-10-28 |  |
+| [Do You Feel So Right](https://open.spotify.com/track/2D5qj1qPzpj1sJjou8WZhk) | [Pinball](https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Do You Feel So Right](https://open.spotify.com/album/0SNZo59K6w2X2iIgYyopWQ) | 2:35 | 2023-02-03 |  |
 | [Dopex](https://open.spotify.com/track/2aWKb2LbwbdMQtwr7ogAE6) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Dopex](https://open.spotify.com/album/5PMU6pNV77eQ5ohtUVcq8j) | 3:56 | 2022-06-24 |  |
 | [Down to Love](https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Down to Love](https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH) | 3:50 | 2022-11-11 | 2023-01-14 |
 | [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 |  |
@@ -402,7 +403,7 @@
 | [Searching \(For A Kinder Love\)](https://open.spotify.com/track/7HsNq025c5crDgp3qvqhPn) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Searching \(For A Kinder Love\)](https://open.spotify.com/album/53nPvnk4liIBS1XjuxoDvm) | 3:07 | 2022-04-22 | 2022-08-27 |
 | [Seasons Will Change](https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Seasons Will Change](https://open.spotify.com/album/0kiJKPUkb5S6eIbBPhAa1d) | 4:06 | 2022-02-25 |  |
 | [Seeing Red](https://open.spotify.com/track/05FXC7v7Cx6o2PRRryLr0d) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Seeing Red](https://open.spotify.com/album/71SfJZa5hxhcwHdvcukPFl) | 3:23 | 2021-12-17 | 2022-01-15 |
-| [Select Player Mode](https://open.spotify.com/track/6qHgiPHe7EQMYtr69TbEbd) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Select Player Mode](https://open.spotify.com/album/125EOW6b3RCqnguPNE8r45) | 3:54 | 2022-08-26 |  |
+| [Select Player Mode](https://open.spotify.com/track/6qHgiPHe7EQMYtr69TbEbd) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Select Player Mode](https://open.spotify.com/album/125EOW6b3RCqnguPNE8r45) | 3:54 | 2022-08-26 | 2023-02-04 |
 | [Serenity \(Original Mix\)](https://open.spotify.com/track/4NOFk7EWCJSiOnoFhYRhQs) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Serenity](https://open.spotify.com/album/5MFesWkrQAgo0NbtgqpDQz) | 3:23 | 2022-03-11 | 2022-05-28 |
 | [Shadows](https://open.spotify.com/track/3QjUQpn6qb3MybBsoaSPwD) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Shadows](https://open.spotify.com/album/1IMlfH57fXWEmaFe3S6HIT) | 3:43 | 2022-08-05 |  |
 | [Shadows Dancing](https://open.spotify.com/track/4zPyGlnzLKHOPcxQznJR6r) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [Shadows Dancing](https://open.spotify.com/album/75E2Q2Che1Bji7rPG8PUa4) | 3:15 | 2021-12-17 | 2022-04-23 |

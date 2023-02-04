@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-88 songs - 6 hr 37 min
+89 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Mamacita](https://open.spotify.com/track/2tDdZBlft2KbcRjRdbX13E) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [Mamacita](https://open.spotify.com/album/3VeXhkyKkUPyI6RO9w3sZ3) | 3:14 | 2021-06-04 |  |
 | [More Bounce to the Ounce](https://open.spotify.com/track/3Ho35OJixLg20qshXRgfBs) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 5:12 | 2020-09-18 |  |
 | [More Than A Lover \- Remix](https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2) | 3:21 | 2020-09-18 |  |
+| [Music Sounds Better With You](https://open.spotify.com/track/7kn8s9JWYb8SyQkxiww9Kb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Music Sounds Better With You](https://open.spotify.com/album/7ggrCSNzeqPGUgdc11WTKn) | 3:21 | 2023-02-03 |  |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-01-26 |  |
 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 | 2020-09-18 |  |
 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 | 2020-09-18 |  |

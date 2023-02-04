@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Richard Marx
 
-71 songs - 4 hr 42 min
+72 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 | 2022-02-26 |
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
+| [Disconnected](https://open.spotify.com/track/1Lu7PmT0qjWn7oRPC08gMp) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Disconnected](https://open.spotify.com/album/4T93DNv8Icl7KKPh6CDn1h) | 4:54 | 2023-02-03 |  |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-02-25 |  |
 | [Every One of Us](https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt), [The Unsung Heroes](https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg) | [Every One of Us](https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B) | 3:25 | 2021-10-22 | 2022-06-11 |
 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 | 2021-10-22 |  |
@@ -36,7 +37,7 @@
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 | 2022-07-08 |  |
 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 | 2022-01-07 |  |
-| [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 | 2021-10-22 |  |
+| [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 | 2021-10-22 | 2023-02-04 |
 | [Knockabout World](https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN) | 3:25 | 2021-10-22 |  |
 | [Let Go](https://open.spotify.com/track/1vSu9DJEAIoKK52gaJnA5G) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [LIMITLESS](https://open.spotify.com/album/1NXH0HmDo32FeptgAsKvjS) | 3:39 | 2021-10-22 | 2022-07-09 |
 | [Long Shot](https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [He Sang She Sang](https://open.spotify.com/album/6apzcsmHj4RWqxWPycVsFr) | 4:33 | 2022-05-06 |  |

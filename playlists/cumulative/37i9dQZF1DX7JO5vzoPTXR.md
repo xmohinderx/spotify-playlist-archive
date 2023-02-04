@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD?si=a352fb1bc4b74e04&nd=1">DAMOYEE</a> and <a href="https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq?si=fe7b538330f14d0e&nd=1">Annie Elise.</a>
 
-516 songs - 1 day 4 hr 39 min
+517 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 | 2022-06-01 | 2022-07-07 |
 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 | 2022-08-03 | 2022-09-09 |
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2022-01-05 | 2022-09-09 |
-| [Pieces of Us](https://open.spotify.com/track/4DenLwEuB0LptWEO4jhvh0) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/27M3Fhh0HIcirIxqJutOfT) | 2:28 | 2023-02-01 |  |
+| [Pieces of Us](https://open.spotify.com/track/40C4qzkk9D02wwTtCoe3HI) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/5s85YliyLqpolbvGqn6LJa) | 2:28 | 2023-02-01 |  |
+| [Pieces of Us](https://open.spotify.com/track/4DenLwEuB0LptWEO4jhvh0) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/27M3Fhh0HIcirIxqJutOfT) | 2:28 | 2023-02-01 | 2023-02-04 |
 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 | 2022-02-02 | 2022-03-09 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-03-08 | 2022-04-07 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2023-01-04 |  |

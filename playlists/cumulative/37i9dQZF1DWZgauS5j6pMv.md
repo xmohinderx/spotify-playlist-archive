@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: Louis Cole
+> The best of today's funk\. Cover: MonoNeon
 
-267 songs - 15 hr 51 min
+268 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Ice & Fire](https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Ice & Fire](https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs) | 4:04 | 2022-12-02 |  |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 | 2022-11-05 |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
+| [I’m Tight](https://open.spotify.com/track/6GHf5R3t8dmNid0oPB4yUM) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 7:00 | 2023-02-03 |  |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-26 | 2022-10-18 |
 | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/track/7eEo7A0Kw7xAQJLLh3WdKq) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/album/7umzCfogCGrZbYgTYqc2vh) | 3:31 | 2022-04-22 |  |
 | [Jam On](https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Jam On](https://open.spotify.com/album/2pf5YXATqLlqx7R0eMRKRg) | 5:02 | 2020-11-20 | 2022-01-29 |
@@ -204,7 +205,7 @@
 | [Sankofa Song](https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Song](https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U) | 5:25 | 2020-11-20 | 2022-01-29 |
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-06-17 |  |
 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 | 2022-07-01 |  |
-| [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 | 2023-01-06 |  |
+| [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 | 2023-01-06 | 2023-02-04 |
 | [Shoot My Shot](https://open.spotify.com/track/3GMh9TOiMjsojknjG9V2SJ) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Shoot My Shot](https://open.spotify.com/album/6XZimSaFBcnGbhKjBVm3vF) | 4:18 | 2021-07-02 | 2022-07-16 |
 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 | 2021-08-06 | 2023-01-24 |
 | [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 | 2021-08-06 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Kierra Sheard
 
-195 songs - 12 hr 3 min
+196 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Father Forgive Us](https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [D Brooks the President](https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk) | [Father Forgive Us](https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3) | 3:39 | 2022-07-17 | 2022-09-03 |
 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 | 2023-02-02 |  |
 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 | 2022-12-16 |  |
-| [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 | 2022-12-16 |  |
+| [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 | 2022-12-16 | 2023-02-04 |
+| [Follow You](https://open.spotify.com/track/1dMziINdISRb67vXMFsT2J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Follow You](https://open.spotify.com/album/5ma9oYRBZVrc7b30zFKftk) | 3:44 | 2023-02-02 |  |
 | [Fruits of My Labor](https://open.spotify.com/track/209gShZ4rJWhT3l9jZ1cM2) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Fruits of My Labor](https://open.spotify.com/album/5KcS1MD9Z0m9z2dmaGuL0b) | 3:14 | 2023-02-02 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-07-17 | 2022-10-01 |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-16 |  |

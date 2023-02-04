@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-837 songs - 2 day 10 hr 31 min
+838 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 | 2022-01-05 |  |
 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 | 2022-01-05 | 2022-07-27 |
 | [Can't Give You More](https://open.spotify.com/track/6u7tH8eWSc4BlEUw0Q5VYP) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 4:15 | 2022-01-05 | 2022-07-19 |
-| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 |  |
+| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 | 2023-02-04 |
 | [Can't You Hear Me Knocking \- 2009 Mix](https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 7:16 | 2022-01-05 |  |
 | [Candy\-O](https://open.spotify.com/track/6tVcoaFJVBmHWctf8qC8pK) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 2:36 | 2022-01-05 |  |
 | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:46 | 2022-01-05 |  |
@@ -176,7 +176,7 @@
 | [Die Young Stay Pretty \- Remastered](https://open.spotify.com/track/006pbYThBlBNz9fvJZFwin) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Dig A Pony \- Remastered 2009](https://open.spotify.com/track/4OUmlC67FoPLvQNuE5C7kF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:55 | 2022-01-05 |  |
 | [Dirty Water](https://open.spotify.com/track/38li6mdTZikCk7OYglPaZS) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 3:49 | 2022-01-05 | 2022-07-24 |
-| [Dirty Water](https://open.spotify.com/track/456bCHC8Uu1RUT703OXcAq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:52 | 2022-01-05 | 2023-02-03 |
+| [Dirty Water](https://open.spotify.com/track/456bCHC8Uu1RUT703OXcAq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:52 | 2022-01-05 |  |
 | [Do Anything You Want To](https://open.spotify.com/track/2lAbLCbTklfVd0YqeM3hSI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Black Rose \(Deluxe Edition\)](https://open.spotify.com/album/74J4goYLcEur0WFYZeu4Js) | 3:51 | 2022-01-05 | 2022-07-29 |
 | [Doctor Doctor \- 2007 Remaster](https://open.spotify.com/track/1soxeK1ZBX9SsSjK4j4ECa) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Phenomenon \(2007 Remaster\)](https://open.spotify.com/album/0t7jKe5qt4N57sUWX33Zew) | 4:12 | 2022-01-05 |  |
 | [Doctor Doctor \- 2007 Remaster](https://open.spotify.com/track/5Okf7KBikV8we3uqCMFjiL) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Phenomenon \(2007 Remaster\)](https://open.spotify.com/album/7rIrjqUmeFTjw9JH9MWekS) | 4:12 | 2022-01-05 | 2022-07-29 |
@@ -253,7 +253,8 @@
 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 | 2022-01-05 |  |
 | [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 | 2022-01-05 |  |
 | [Gimme Back My Bullets](https://open.spotify.com/track/02UFwtmJ0ogLQWMx43Okuh) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 3:29 | 2022-01-05 |  |
-| [Gimme Danger \- Bowie Mix](https://open.spotify.com/track/74CcP6fDBFdH8Xjo2F6Nb4) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Legacy Edition\)](https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls) | 3:29 | 2022-01-05 |  |
+| [Gimme Danger \- Bowie Mix](https://open.spotify.com/track/74CcP6fDBFdH8Xjo2F6Nb4) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Legacy Edition\)](https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls) | 3:29 | 2022-01-05 | 2023-02-04 |
+| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 | 2022-11-17 |  |
 | [Gimme Some Truth \- Remastered 2010](https://open.spotify.com/track/3d2oiHuHm3rftzRDPeL5LU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:17 | 2022-01-05 |  |
 | [Gimme Some Water](https://open.spotify.com/track/0LKH8nMS8WFISQRo5RXGcq) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Life For The Taking](https://open.spotify.com/album/6rZ5ZREEbF43M67P2yV6Sx) | 3:37 | 2022-01-05 |  |
 | [Gimme Your Money Please](https://open.spotify.com/track/6sqshZ3VTPTQL2EW5c3WQ9) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman Turner Overdrive](https://open.spotify.com/album/1jd8urGvuFR1fXWxEJi4ny) | 4:45 | 2022-01-05 |  |

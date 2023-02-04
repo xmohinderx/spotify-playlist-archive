@@ -1,32 +1,64 @@
 {
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3LZZPxNDGDFVSIPqf4JuEf\">Ice Spice</a>",
-  "num_followers": 2727440,
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:5kxnZh8gXyXdIvCWbDMevT\">Eem Triplin</a>",
+  "num_followers": 2727851,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwMzQ3MSwwMDAwMDAwMGI1OTkzZjhmNTdjZGE2YjE0ZmRmZWIyYWNjZDc1NzZk",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDUzMTZlMzAyY2YzMzZlYTI1ZDFkNzk2ZGYwNWE0OTM3",
   "tracks": [
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "16CHOPPA (feat. Nardo Wick)",
+        "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 207603,
+      "name": "16CHOPPA (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
       "artists": [
         {
           "name": "Ice Spice",
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -59,6 +91,42 @@
       "duration_ms": 142628,
       "name": "Back Flippin",
       "url": "https://open.spotify.com/track/112f64x3xitpDPHfr98T01"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Ok Ok Ok",
+        "url": "https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 136856,
+      "name": "Ok Ok Ok",
+      "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "After The Curse",
+        "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170701,
+      "name": "Ain't On None (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -101,20 +169,24 @@
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
     },
     {
-      "added_at": "2023-01-27 08:30:13",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Robbers and Villains",
-        "url": "https://open.spotify.com/album/7iXLTSsI9Vo6mH57JhIU7Z"
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 107993,
-      "name": "Robbers and Villains",
-      "url": "https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl"
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -137,56 +209,24 @@
       "url": "https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Ok Ok Ok",
-        "url": "https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs"
+        "name": "Law & Order pt. 2",
+        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
       },
       "artists": [
         {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 136856,
-      "name": "Ok Ok Ok",
-      "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "After The Curse",
-        "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "50jittsteppa",
+          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
         }
       ],
-      "duration_ms": 170701,
-      "name": "Ain't On None (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
-    },
-    {
-      "added_at": "2023-01-27 08:30:13",
-      "album": {
-        "name": "Sicc & Tired",
-        "url": "https://open.spotify.com/album/7FIJ2AxOrNcVm0PtCrWJSK"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Sicc & Tired",
-      "url": "https://open.spotify.com/track/6tSDBBVEeRGUQLXSZGSXkn"
+      "duration_ms": 239303,
+      "name": "Law & Order pt. 2",
+      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -207,6 +247,70 @@
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Coochie Goat",
+        "url": "https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Perc & Sex",
+      "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/6ypJpUZrayAtN25CvGngsP"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Dennis",
+      "url": "https://open.spotify.com/track/2gGMDFXw9d4IRM06cdZ2et"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "On Site",
+        "url": "https://open.spotify.com/album/3cmKBck5FWFNrJbgtyVQLn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 189083,
+      "name": "On Site",
+      "url": "https://open.spotify.com/track/307uhx5f7E58E7VyRVcQ3l"
     },
     {
       "added_at": "2023-01-27 08:30:13",
@@ -239,6 +343,42 @@
       "duration_ms": 213600,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "MOB",
+        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Wonderful Wayne & Jackie Boy",
+      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
     },
     {
       "added_at": "2023-01-27 08:30:13",
@@ -297,24 +437,20 @@
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Law & Order pt. 2",
-        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
+        "name": "Rare's Room",
+        "url": "https://open.spotify.com/album/0CSMS09vHwUQ2KeDJ3mKi3"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "50jittsteppa",
-          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
         }
       ],
-      "duration_ms": 239303,
-      "name": "Law & Order pt. 2",
-      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
+      "duration_ms": 139179,
+      "name": "Rare's Room",
+      "url": "https://open.spotify.com/track/5NMwkU694dCYy5pSVkYJuN"
     },
     {
       "added_at": "2023-01-13 19:32:40",
@@ -333,20 +469,52 @@
       "url": "https://open.spotify.com/track/0JaoDZZej4Hwbn2FT0Nskn"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-27 08:30:13",
       "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+        "name": "Robbers and Villains",
+        "url": "https://open.spotify.com/album/7iXLTSsI9Vo6mH57JhIU7Z"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         }
       ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+      "duration_ms": 107993,
+      "name": "Robbers and Villains",
+      "url": "https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "duration_ms": 220345,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9"
+    },
+    {
+      "added_at": "2023-01-27 08:30:13",
+      "album": {
+        "name": "Sicc & Tired",
+        "url": "https://open.spotify.com/album/7FIJ2AxOrNcVm0PtCrWJSK"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Sicc & Tired",
+      "url": "https://open.spotify.com/track/6tSDBBVEeRGUQLXSZGSXkn"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -367,6 +535,22 @@
       "duration_ms": 197380,
       "name": "GOATED. (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Forever 23 2x",
+        "url": "https://open.spotify.com/album/4pTWt5Fl7H3xcxavhRxL9X"
+      },
+      "artists": [
+        {
+          "name": "JayDaYoungan",
+          "url": "https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d"
+        }
+      ],
+      "duration_ms": 168743,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5FaVpZEBZKGGYIMsVyBiVu"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -425,20 +609,20 @@
       "url": "https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "On Site",
-        "url": "https://open.spotify.com/album/3cmKBck5FWFNrJbgtyVQLn"
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/5pgNt5QUGCJdDeux6gATIS"
       },
       "artists": [
         {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 189083,
-      "name": "On Site",
-      "url": "https://open.spotify.com/track/307uhx5f7E58E7VyRVcQ3l"
+      "duration_ms": 161416,
+      "name": "4GOD II",
+      "url": "https://open.spotify.com/track/0AypHPJVKS6aN54zs1UZNc"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -501,24 +685,20 @@
       "url": "https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "MOB",
-        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/2vUUncji6W1GanfV2pHJKb"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
         }
       ],
-      "duration_ms": 133953,
-      "name": "Wonderful Wayne & Jackie Boy",
-      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+      "duration_ms": 129688,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
     },
     {
       "added_at": "2023-01-17 16:56:05",
@@ -569,6 +749,22 @@
       "url": "https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "BAD BITCHES",
+        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
+      },
+      "artists": [
+        {
+          "name": "Official Breezy",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "duration_ms": 129619,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Texas",
@@ -615,22 +811,6 @@
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "BAD BITCHES",
-        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
-      },
-      "artists": [
-        {
-          "name": "Official Breezy",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        }
-      ],
-      "duration_ms": 129619,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -815,6 +995,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "My Favorite",
+        "url": "https://open.spotify.com/album/1oleEyTyiPpY0FTXbC6YcT"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "duration_ms": 114840,
+      "name": "My Favorite",
+      "url": "https://open.spotify.com/track/19cBwH3rKyAySF3WaFLtN7"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "fear no man",
+        "url": "https://open.spotify.com/album/4WXsXSaN2hp2AHoVwLG65C"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 116248,
+      "name": "fear no man",
+      "url": "https://open.spotify.com/track/73vvKT9c9LdGNIEcAdaBzW"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Bin Reaper 3: New Testament",
         "url": "https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL"
       },
@@ -847,22 +1059,6 @@
       "duration_ms": 185208,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "My Favorite",
-        "url": "https://open.spotify.com/album/1oleEyTyiPpY0FTXbC6YcT"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 114840,
-      "name": "My Favorite",
-      "url": "https://open.spotify.com/track/19cBwH3rKyAySF3WaFLtN7"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1031,54 +1227,6 @@
       "duration_ms": 160000,
       "name": "Rubi Wayda",
       "url": "https://open.spotify.com/track/3XWLnkW0Y54z5VHqlilDsg"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Bop Bop",
-        "url": "https://open.spotify.com/album/3YkTJig3cTGSp9JHM3tHWW"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Bop Bop",
-      "url": "https://open.spotify.com/track/1891EswrvOu3kHIcROshhe"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Lil Mama",
-        "url": "https://open.spotify.com/album/1p75dyBk7vMZeeK4mEadMU"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 143423,
-      "name": "Lil Mama",
-      "url": "https://open.spotify.com/track/7CBUbrYdluuTZZvZAhJgXr"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1299,22 +1447,6 @@
       "duration_ms": 162283,
       "name": "2016",
       "url": "https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "LeakOut",
-        "url": "https://open.spotify.com/album/78ZIwVQBzYdrUN9dpvr3cn"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "Uncle Elroy",
-      "url": "https://open.spotify.com/track/3zdVqrm2m3lo73s5BOSNvd"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1589,58 +1721,6 @@
       "url": "https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 117481,
-      "name": "Vanish Mode",
-      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "fear no man",
-        "url": "https://open.spotify.com/album/4WXsXSaN2hp2AHoVwLG65C"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        }
-      ],
-      "duration_ms": 116248,
-      "name": "fear no man",
-      "url": "https://open.spotify.com/track/73vvKT9c9LdGNIEcAdaBzW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "1 On 3 (feat. Rvssian)",
-        "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "1 On 3 (feat. Rvssian)",
-      "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Help Is On The Way",
@@ -1661,22 +1741,6 @@
       "url": "https://open.spotify.com/track/2lCksaXDjYoYBiBtODuNFG"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Yahweh Child",
-        "url": "https://open.spotify.com/album/4nYko649N5hLp7TUZZVh9e"
-      },
-      "artists": [
-        {
-          "name": "Rot Ken",
-          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Mask On",
-      "url": "https://open.spotify.com/track/0CEwv8VAwJPbVA4RLp5yzQ"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Went Deaf",
@@ -1691,102 +1755,6 @@
       "duration_ms": 183047,
       "name": "Went Deaf",
       "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Telfy",
-        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
-      },
-      "artists": [
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Telfy",
-      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Livin Like That",
-        "url": "https://open.spotify.com/album/2chG63Mq41Vn22tWTOATH0"
-      },
-      "artists": [
-        {
-          "name": "Highway",
-          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 204718,
-      "name": "By Myself (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/27o0xlsmaKZvyLFPZQRu99"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Gutta Baby: Reloaded",
-        "url": "https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1"
-      },
-      "artists": [
-        {
-          "name": "Foogiano",
-          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Slicin",
-      "url": "https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Emotional Gangsta",
-        "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
-      },
-      "artists": [
-        {
-          "name": "Omeretta the Great",
-          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 263636,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Largest",
-        "url": "https://open.spotify.com/album/49p52K2THX4ITtv8Hu6Uj0"
-      },
-      "artists": [
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Flip Phone (with Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS"
     }
   ],
   "unique_name": "Most Necessary",

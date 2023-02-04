@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain](/playlists/plain/37i9dQZF1DX7NpTNK48oe2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NpTNK48oe2)
 
-### [Juan Gabriel Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX7NpTNK48oe2)
+### [Juan Gabriel: Ranchero](https://open.spotify.com/playlist/37i9dQZF1DX7NpTNK48oe2)
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,177 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,214 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 | 49 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
 | 50 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 
-Snapshot ID: `MTY0MzE1MTgwNywwMDAwMDAwMGMzY2EzNWEyMDRiOTY2NzFmNWNkZThmYjAzYmRiODQ1`
+Snapshot ID: `MTY3NTQ2NzIwOSwwMDAwMDAwMDAwNzU5NjFmOWZkMTI1OGQ1MzRhNmFjNDhmZjZkZWEw`

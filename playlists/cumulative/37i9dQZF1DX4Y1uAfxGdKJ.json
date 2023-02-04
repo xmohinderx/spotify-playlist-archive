@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Makes No Difference",
+        "url": "https://open.spotify.com/album/5O8TtrUD1c9OjG8I5H7y3N"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rouge",
+          "url": "https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160215,
+      "name": "Makes No Difference",
+      "url": "https://open.spotify.com/track/1tER9ctlfFASFYpqGLb2Ux"
+    },
+    {
+      "album": {
         "name": "Meia",
         "url": "https://open.spotify.com/album/2IfD8qk6bCxCuQmtraOZRs"
       },

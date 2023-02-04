@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121056,
+  "num_followers": 121060,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDU1ZjhlNTk3ZTcxMDc4MGY2OTNlOGUzMTA4MDQzZDUy",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDU1Yzc1OWVjZWIxMTc2MmEwNzg5YjBjMTE0NGQzNjE4",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Sujeito Homem 2",
         "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 184868,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 236372,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -619,22 +619,6 @@
       "duration_ms": 302333,
       "name": "For No One",
       "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -907,22 +891,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "3 Na Massa",
-        "url": "https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8"
-      },
-      "artists": [
-        {
-          "name": "3 Na Massa",
-          "url": "https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Morada Boa Featuring Nina Miranda",
-      "url": "https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Beto Villares",
         "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
       },
@@ -939,6 +907,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "3 Na Massa",
+        "url": "https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8"
+      },
+      "artists": [
+        {
+          "name": "3 Na Massa",
+          "url": "https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Morada Boa Featuring Nina Miranda",
+      "url": "https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "SEM MALDADE",
         "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 170465,
       "name": "SEM MALDADE",
       "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156744,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156744,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
       },
@@ -1011,6 +995,26 @@
       "duration_ms": 123596,
       "name": "Noite Quente de Ver\u00e3o",
       "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1047,26 +1051,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Tom Jobim",
         "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 163519,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     }
   ],
   "unique_name": "Sol de Domingo",

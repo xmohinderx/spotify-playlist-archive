@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/3mnyXyGwORYtpjPtBhN1II"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6HAAL7x6LWg9j7Lb4qPSFP"
+    },
+    {
+      "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/4KwX0q1HZSbG3HM9vwVuVu"
       },
@@ -560,6 +578,24 @@
       "duration_ms": 146866,
       "name": "Creep",
       "url": "https://open.spotify.com/track/4AstRWiBjxRZmxlQpmhwGK"
+    },
+    {
+      "album": {
+        "name": "Creepin",
+        "url": "https://open.spotify.com/album/0YeYdrL9WmwHWe2chY2mf9"
+      },
+      "artists": [
+        {
+          "name": "Larry Eagler",
+          "url": "https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174293,
+      "name": "Creepin",
+      "url": "https://open.spotify.com/track/6mmddxPoUrUaCHbfUDxe8T"
     },
     {
       "album": {
@@ -1438,10 +1474,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 135049,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/1075EyJPJUVIfwUSF3gAkB"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143758,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7"
     },
     {
       "album": {
@@ -1586,6 +1640,24 @@
       "duration_ms": 207265,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/2XEYHbrPjycqUAeCvzuYoC"
+    },
+    {
+      "album": {
+        "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/6XnAqlJtTxYW1X6MtQJ7B4"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195624,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/1tBe56PF0tk8GsNkMMWZqN"
     },
     {
       "album": {
@@ -1874,6 +1946,24 @@
       "duration_ms": 206000,
       "name": "Perfect - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1"
+    },
+    {
+      "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164833,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8"
     },
     {
       "album": {
@@ -2590,7 +2680,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 151999,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs"

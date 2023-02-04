@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-293 songs - 19 hr 19 min
+294 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Aqui No Es](https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Aqui No Es](https://open.spotify.com/album/39ONwIdsefek7bPlFV75an) | 3:08 | 2023-01-20 |  |
 | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/track/3Khcr6j3UJ4fktFHhUc3SA) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU) | 3:22 | 2022-03-25 | 2022-06-21 |
 | [Atrevida \- En Vivo](https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Atrevida](https://open.spotify.com/album/3Cmyeu1yxpExTUpPn8bDHq) | 4:16 | 2021-12-24 | 2022-07-23 |
-| [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 | 2021-12-24 |  |
+| [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 | 2021-12-24 | 2023-02-04 |
 | [Basta de Cuernos](https://open.spotify.com/track/4d8UC0Lp6ciZO1WDTP2TbB) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Basta de Cuernos](https://open.spotify.com/album/73duWKQhJTT6jmpXofZAfp) | 2:30 | 2022-03-02 | 2022-05-20 |
 | [Baño de Luna / La Morena](https://open.spotify.com/track/4mhdgivjL1gXhh3DU1Jy4M) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [El Tano Romero](https://open.spotify.com/artist/3CzLe0eqm2dY4Dbo8qtNrm) | [Baño de Luna /La Morena](https://open.spotify.com/album/5nyudEcKLTX7ZKujq9z7Xs) | 4:25 | 2022-04-01 | 2022-04-25 |
 | [Bebé](https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Bebé](https://open.spotify.com/album/5kp9KP5edbBulAcqClNeLx) | 3:19 | 2021-12-24 | 2022-07-29 |
@@ -40,6 +40,7 @@
 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 | 2021-12-24 |  |
 | [Celosa](https://open.spotify.com/track/7vISoRZFPNYpKvsGzKCiSW) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Celosa](https://open.spotify.com/album/37g6jsBoe2sCnSiEnfc3Rg) | 4:09 | 2022-01-21 | 2022-05-12 |
 | [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 | 2022-01-21 | 2022-06-29 |
+| [CHANGA CHANGA](https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6) | [Nolberto Al k la](https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [CHANGA CHANGA](https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo) | 2:52 | 2023-01-27 |  |
 | [Clavadito en Mi Piel](https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ) | 3:42 | 2022-07-22 | 2023-01-02 |
 | [Clavadito en Mi Piel](https://open.spotify.com/track/6sVtnX83AmyWYfKydWc0LQ) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/2dI4DCDdNI6bkV5CBHK6MD) | 3:42 | 2022-03-25 | 2022-06-05 |
 | [Clavado en un Bar](https://open.spotify.com/track/4K2gLqYpowKnsWWkJXpsEO) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Clavado en un Bar](https://open.spotify.com/album/1RKXe67S26QzssGQMr4ZuF) | 3:06 | 2022-10-22 | 2022-12-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,321 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,682 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 61 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 62 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 |
 | 63 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
-| 64 | [HEARTBEAT](https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [HEARTBEAT](https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE) | 3:16 |
-| 65 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
+| 64 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
+| 65 | [HEARTBEAT](https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [HEARTBEAT](https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE) | 3:16 |
 | 66 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 |
 | 67 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
 | 68 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 71 | [Not Today \- Remix](https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Cole Walowac](https://open.spotify.com/artist/3F0U7DCVTndyOFP6ncOX5C) | [Not Today](https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3) | 3:39 |
 | 72 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
 | 73 | [Higher Than Mine](https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Higher Than Mine](https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN) | 3:05 |
-| 74 | [Mirage](https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp) | [Platon Emil](https://open.spotify.com/artist/08WKaltWCl4lLaEq0UvYeQ), [Stefan Nixdorf](https://open.spotify.com/artist/1vSbKVRsNhyZ3fjC66vraJ), [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Mirage](https://open.spotify.com/album/5AmXZU3x9PMA0p5Y5pD9C4) | 3:33 |
-| 75 | [Silhouettes](https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Silhouettes](https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x) | 3:43 |
+| 74 | [Silhouettes](https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Silhouettes](https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x) | 3:43 |
+| 75 | [Mirage](https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp) | [Platon Emil](https://open.spotify.com/artist/08WKaltWCl4lLaEq0UvYeQ), [Stefan Nixdorf](https://open.spotify.com/artist/1vSbKVRsNhyZ3fjC66vraJ), [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Mirage](https://open.spotify.com/album/5AmXZU3x9PMA0p5Y5pD9C4) | 3:33 |
 
-Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMDA3NTQzNzJhOGMzYTkwNGU1ODZlMTE1YmE0ODAwMTM0`
+Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMGQwZGFkMzUyNDc2YjhlNGU5NGQyZWRhMjZhMTAwNjc4`

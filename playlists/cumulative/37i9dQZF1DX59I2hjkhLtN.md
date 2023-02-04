@@ -2,7 +2,7 @@
 
 ### [Ganda Cena](https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN)
 
-> Novos rappers, novos sons\. Tamos juntos! Foto: Lil Mapz.
+> Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
 329 songs - 16 hr 33 min
 

@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Sessions Navala",
+        "url": "https://open.spotify.com/album/4kxhOEzCII1AlWcMiG6E9s"
+      },
+      "artists": [
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243668,
+      "name": "Calmaria (Sessions)",
+      "url": "https://open.spotify.com/track/5al7dvnBhJEhNpi8XCpSi0"
+    },
+    {
+      "album": {
         "name": "Caminha (Que Aqui \u00e9 da Osvaldo)",
         "url": "https://open.spotify.com/album/0rXumMZpub1Mff5xYaTsJr"
       },
@@ -3301,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o V\u00e1",
+        "url": "https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
+        },
+        {
+          "name": "Ivy Martins",
+          "url": "https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195382,
+      "name": "N\u00e3o V\u00e1",
+      "url": "https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV"
+    },
+    {
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 Existir",
         "url": "https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn"
       },
@@ -3384,7 +3424,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 283940,
       "name": "O Ano da Volta",
       "url": "https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L"
@@ -3900,7 +3940,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 223773,
       "name": "PITTYNANDO",
       "url": "https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7"

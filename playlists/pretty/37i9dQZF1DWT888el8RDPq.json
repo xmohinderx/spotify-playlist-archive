@@ -1,12 +1,12 @@
 {
   "description": "\u2600\ufe0f",
-  "num_followers": 11468,
+  "num_followers": 11514,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE4NDg2MiwwMDAwMDAwMGM1MDFhZDgwMjZmYTkwZTllZjZlNmZkMTU2ZWZjMjlh",
+  "snapshot_id": "MTY3NTE4NDg2MiwwMDAwMDAwMDY4MjNmOGMwYTM1NzQxZWJhYWNlOTljMTAyZmFhOTli",
   "tracks": [
     {
       "added_at": "2023-01-31 17:07:42",
@@ -460,17 +460,17 @@
       "added_at": "2023-01-31 17:07:42",
       "album": {
         "name": "I'm not angry anymore",
-        "url": "https://open.spotify.com/album/7KymfufWbsR4iotVwL1QCS"
+        "url": "https://open.spotify.com/album/0yMQfYeBCIfN9r1iI1UPSj"
       },
       "artists": [
         {
-          "name": "Cummrs",
-          "url": "https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e"
+          "name": "Psychrex",
+          "url": "https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ"
         }
       ],
-      "duration_ms": 64510,
+      "duration_ms": 61257,
       "name": "I'm not angry anymore",
-      "url": "https://open.spotify.com/track/404j2DwHrHlYxjXg4egoUz"
+      "url": "https://open.spotify.com/track/1jKq19I0dljUvY7P6hzy2M"
     },
     {
       "added_at": "2023-01-31 17:07:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-31 17:07:42",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
-    },
-    {
-      "added_at": "2023-01-31 17:07:42",
-      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2023-01-31 17:07:42",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
       "added_at": "2023-01-31 17:07:42",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-31 17:07:42",
       "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
-    },
-    {
-      "added_at": "2023-01-31 17:07:42",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "added_at": "2023-01-31 17:07:42",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2023-01-31 17:07:42",

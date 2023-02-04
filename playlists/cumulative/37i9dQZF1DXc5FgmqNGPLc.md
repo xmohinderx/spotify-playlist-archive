@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-107 songs - 15 hr 56 min
+108 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 | 2021-11-12 |  |
 | [Take The A Train](https://open.spotify.com/track/10cg96POewnGipBTe4oM0j) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Cornell 1964](https://open.spotify.com/album/1x41adRv7tw6tr9LpbikRY) | 17:26 | 2021-11-12 |  |
 | [Teach Me Tonight \- Original Edited Concert \- Live at Sunset School, Carmel\-by\-the\-Sea, CA, September 1955](https://open.spotify.com/track/32mkhw8UkqgsEiDhfz0r1n) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Concert By The Sea](https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL) | 3:44 | 2021-11-12 |  |
+| [The Beginning \- Live](https://open.spotify.com/track/0gMtzPbbdMkblrfrk4nIgQ) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [Live at Smalls](https://open.spotify.com/album/01z49ViH4NZKHUVIzWSRoe) | 14:56 | 2023-02-03 |  |
 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 | 2021-11-12 |  |
 | [The Endless Night \- Live](https://open.spotify.com/track/7Lwmhzh3C8Db4PQT9lyWcv) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Live: The Complete Concert](https://open.spotify.com/album/4nYDQGPeSgsekU5QGK339t) | 20:30 | 2021-11-12 |  |
 | [The Fall of Summer \- Live](https://open.spotify.com/track/27dBFWTZzH74nYlZOFm93r) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [live from the archives \* BOOTLEG JUNE 15, 2000](https://open.spotify.com/album/565nqUGfccsa9YwebyrFGo) | 1:58 | 2022-10-21 |  |

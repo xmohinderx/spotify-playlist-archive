@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Todd Dulaney & Hezekiah Walker ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Pastor Mike Jr.",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 213583,
       "name": "God Of Mercy - Radio Version",
       "url": "https://open.spotify.com/track/7k2lRspQ5CMNvUPS8FRrdL"
@@ -1870,6 +1870,24 @@
       "duration_ms": 325423,
       "name": "I Love to Call Him",
       "url": "https://open.spotify.com/track/3X2XCrzqrs1Wo8oEidcZMb"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/4qBCvFBc8p5b2XykdQuR7s"
+      },
+      "artists": [
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252501,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2nzLEPs6k0gE8uofYbsQzi"
     },
     {
       "album": {
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 197254,
       "name": "Mr. McClure",
       "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
@@ -3805,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255233,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0"
+    },
+    {
+      "album": {
         "name": "Nothing Else Matters (Instead of Complaining, Praise Him)",
         "url": "https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE"
       },
@@ -4451,6 +4487,28 @@
     },
     {
       "album": {
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
+      },
+      "artists": [
+        {
+          "name": "Todd Curry",
+          "url": "https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY"
+        },
+        {
+          "name": "B.Slade",
+          "url": "https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
+    },
+    {
+      "album": {
         "name": "Trouble Don't Last",
         "url": "https://open.spotify.com/album/6vrkkkcwBKcFcOu2pogwNk"
       },
@@ -5034,7 +5092,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 358794,
       "name": "You Are",
       "url": "https://open.spotify.com/track/00c4MRmVGJS9cSZSxJju2F"

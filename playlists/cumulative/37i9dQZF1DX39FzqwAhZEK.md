@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-326 songs - 16 hr 28 min
+327 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2022-07-05 |  |
 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 | 2022-07-05 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-07-05 |  |
-| [Serenity](https://open.spotify.com/track/17ykhlwAATA3wfILTMzWdI) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-07-05 |  |
+| [Serenity](https://open.spotify.com/track/17ykhlwAATA3wfILTMzWdI) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-07-05 | 2023-02-04 |
+| [Serenity](https://open.spotify.com/track/31eJBMnqWEXV3V1YyjP8RT) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Serenity](https://open.spotify.com/album/7bj8tEfuvbhZBgAFhSErLE) | 2:50 | 2023-02-03 |  |
 | [Shadows](https://open.spotify.com/track/0k7nETPNouIZ72tuaV0Mv8) | [Nils Lund](https://open.spotify.com/artist/444vVMfbIjVBGIx6rJ3vFJ) | [Shadows](https://open.spotify.com/album/5joqyL1vqG0iF9JSQ09PQE) | 3:06 | 2022-07-05 |  |
 | [Show Us Our Homes](https://open.spotify.com/track/3GDYs35MWvDB9G9EPRygag) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p) | 4:46 | 2022-07-05 | 2022-11-23 |
 | [Show Us Our Homes](https://open.spotify.com/track/4A8eyJzVk1bAbOQ0kySCVL) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/0X89mstus1IH8ryEn0VkAP) | 4:46 | 2022-07-05 | 2022-07-29 |

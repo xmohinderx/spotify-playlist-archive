@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Hooligan Hefs, Celina Sharma
 
-362 songs - 17 hr 17 min
+363 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [MOST WANTED](https://open.spotify.com/track/3tjary4Ztoj0JPYPErLKan) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [ENEMY OF THE STATE](https://open.spotify.com/album/1j62L5h9Rqqo6Xn137NssQ) | 2:05 | 2022-03-26 | 2022-07-29 |
 | [MOST WANTED](https://open.spotify.com/track/5YycnAxc0Z0ChEcXQ9BgpY) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [ENEMY OF THE STATE](https://open.spotify.com/album/67vjOYzNyKWzwtqV4HJGUa) | 2:05 | 2022-07-28 | 2022-08-10 |
 | [Motive](https://open.spotify.com/track/7Mtje0ilPfIxQDTabWq4Oz) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [Babyybax](https://open.spotify.com/artist/64pwX5U5Qq2U3VmJYNEIFs), [DJ Sefru](https://open.spotify.com/artist/5CrNWXWkDKDR0ZuT5qvt41) | [Motive](https://open.spotify.com/album/6WPxjrDYvET9PXKYzqlrK8) | 2:31 | 2022-06-30 | 2022-11-18 |
+| [MOTY](https://open.spotify.com/track/1AMzdozGrdVBSUmufcyISt) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [MOTY](https://open.spotify.com/album/6PdI549jk5EIY6BwmXGLWI) | 4:15 | 2023-02-02 |  |
 | [Move It](https://open.spotify.com/track/36p1mFTJbbLycveV65mPFO) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Move It](https://open.spotify.com/album/5F2oJ9LKv0Jqk40XTmSaVk) | 2:32 | 2022-11-10 | 2023-01-06 |
 | [MY CITY](https://open.spotify.com/track/62bsIzKQuiTnskD0DV3qku) | [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Yourboymars](https://open.spotify.com/artist/5ouiVfEBsyRSAGOZiJHYQD) | [MY CITY](https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC) | 2:44 | 2022-03-21 | 2022-03-25 |
 | [MY TURN](https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [MY TURN](https://open.spotify.com/album/1NhU3nH2zA2sLFUlUMlBoh) | 2:45 | 2022-12-08 |  |
@@ -315,7 +316,7 @@
 | [The One](https://open.spotify.com/track/20v2DDGhE0QJCMqbcuowxg) | [Sahxl](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [The One](https://open.spotify.com/album/4bcVjzViLzay2rnWjVLoJV) | 1:54 | 2022-12-01 | 2023-02-03 |
 | [Them Men](https://open.spotify.com/track/0p82Ot4RDHyuCgO2MFLbII) | [Mthirty2](https://open.spotify.com/artist/0SbdFaZMg53j4wPSizNhOi) | [Them Men](https://open.spotify.com/album/3nXnIYB8aOw0Xj0ZuWHIOs) | 3:00 | 2022-03-21 | 2022-06-10 |
 | [THREATS](https://open.spotify.com/track/2UGiuIfTLUG0WxSy6kw6F1) | [Snoee Badman](https://open.spotify.com/artist/5xNfUAoQGkcNnNDn2CnXKm) | [THREATS](https://open.spotify.com/album/4edJaJjzKXWUcLtWbv5Hf0) | 2:12 | 2022-06-23 | 2022-11-25 |
-| [Thrills](https://open.spotify.com/track/6KIzlY8UWgOGklbAXj2qOG) | [Jono The Six](https://open.spotify.com/artist/70xrtywVPXYqs3dkIUUME8), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [Thrills](https://open.spotify.com/album/7qlSL47CwosI69FHbB16Xy) | 2:16 | 2022-11-24 |  |
+| [Thrills](https://open.spotify.com/track/6KIzlY8UWgOGklbAXj2qOG) | [Jono The Six](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [Thrills](https://open.spotify.com/album/7qlSL47CwosI69FHbB16Xy) | 2:16 | 2022-11-24 |  |
 | [Til The Death](https://open.spotify.com/track/0OUHnvZ9PD337H7k6zbTgY) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Til The Death](https://open.spotify.com/album/4mWRMbD7bTE2YTD6Q2UgoH) | 3:18 | 2022-03-21 | 2022-03-25 |
 | [TIME N PLACE](https://open.spotify.com/track/7GqYbc1Mxs2TTtjfcjXgZo) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l), [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [Vicolo](https://open.spotify.com/artist/0o81qxlmZuYNqSktshNDV3) | [TIME N PLACE](https://open.spotify.com/album/5cHsnbM0L71OsMQomHdSMq) | 3:23 | 2022-07-14 | 2022-08-26 |
 | [TN's](https://open.spotify.com/track/3tmlUmwDwHgDgKxwCRHdqE) | [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc) | [TN's](https://open.spotify.com/album/3by2215TMTtgVkqonuyMGk) | 2:26 | 2022-03-21 | 2022-03-25 |

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-88 songs - 4 hr 31 min
+89 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 |  |
 | [Aos Céus](https://open.spotify.com/track/5dVGO5yaLhJbkEsnMJkvqL) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [miguelisaneko](https://open.spotify.com/artist/5jTQuRW0DsoMIvTFzR4Mzs) | [Aos Céus](https://open.spotify.com/album/1acdSqlcfpIeOGUiLHefiy) | 2:17 | 2023-01-13 | 2023-01-21 |
 | [Aperta Start](https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aperta Start](https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs) | 2:57 | 2022-11-18 |  |
-| [Aquele Olhar](https://open.spotify.com/track/3MLYbQcGGoOkdjTCh4RI1O) | [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Aquele Olhar](https://open.spotify.com/album/65OCrX0tox26Lzjb1kV6QL) | 3:36 | 2022-11-18 |  |
+| [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 | 2023-02-03 |  |
+| [Aquele Olhar](https://open.spotify.com/track/3MLYbQcGGoOkdjTCh4RI1O) | [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Aquele Olhar](https://open.spotify.com/album/65OCrX0tox26Lzjb1kV6QL) | 3:36 | 2022-11-18 | 2023-02-04 |
 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 | 2022-11-18 |  |
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2022-12-23 |  |
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |

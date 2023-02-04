@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Las Villa & Llane",
+  "description": "Fresh Latin pop on the rise. Cover: Paula Cendejas",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 192320,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
@@ -5868,6 +5868,24 @@
       "duration_ms": 160893,
       "name": "\u00bfC\u00f3mo Es Que T\u00fa?",
       "url": "https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Hubiera Pasado?",
+        "url": "https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "\u00bfQu\u00e9 Hubiera Pasado?",
+      "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"
     },
     {
       "album": {

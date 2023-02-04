@@ -4,7 +4,7 @@
 
 > Where swing meets blues.
 
-73 songs - 3 hr 22 min
+74 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3) | 2:44 | 2022-03-28 |  |
 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 | 2020-03-25 |  |
 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 | 2022-03-28 |  |
-| [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 | 2020-03-25 |  |
+| [Jump, Jive, An' Wail \- Remastered](https://open.spotify.com/track/2JknWUrnGsGYOh62EQNktb) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 3:31 | 2022-03-28 |  |
+| [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 | 2020-03-25 | 2023-02-04 |
 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 | 2022-03-28 |  |
 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 | 2022-03-28 |  |
 | [King Kong](https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy) | [Big T\. Tyler](https://open.spotify.com/artist/47DP9iiYF1bvMDIGFiV3tc) | [Real R'n'B and Soul \(Lost and Found 2\)](https://open.spotify.com/album/6bThGExgy1Y415PO9esT13) | 1:59 | 2020-03-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,413 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,656 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 53 | [Watercolors](https://open.spotify.com/track/1Pc51j567gmnRvTBQuChYY) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watercolors](https://open.spotify.com/album/0s4uklHAfPCgyHwqJ3hYh7) | 1:53 |
 | 54 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
 | 55 | [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/40MySZuE1XLm9ytnL3qDqy) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/4R4XVKZaOXM88yX8W2YBIX) | 2:21 |
-| 56 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 |
+| 56 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mashup](https://open.spotify.com/track/0E2G8f6X9JOUZV7gGzjJjt) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mashup\)](https://open.spotify.com/album/74bHFaG2mbDFNGmqPwOOfB) | 2:59 |
 | 57 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
 | 58 | [You're in My Head](https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:37 |
 | 59 | [Lucid Dream](https://open.spotify.com/track/6AN0bkQqvfxyLJrnm2a7Ok) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Lucid Dream](https://open.spotify.com/album/636RbErGHHmCYSK8ToIgS5) | 2:05 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMDE3YTg5NjRlMzRjZWUyNWZlYTljMjU2NmEyM2U0OTc5`
+Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMGZmNDA5YWFkOWIzOTcyNDFiNzBmNjQzOWMyMjBhYjFi`

@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53050,
+  "num_followers": 53046,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDljNTUxNTY5OTdkNWM2ODBkNGU3YWUwOWYyNGE1YmJi",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGRhYTNkMTAxZWU0NzRlNjBlODI2NmUwOTRmYTlhMmRk",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Ulysses",
-      "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Ulysses",
+      "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "The Wild Boys",
-      "url": "https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Kerplunk!",
         "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "The Wild Boys",
+      "url": "https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -619,22 +619,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Opheliac (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR"
-      },
-      "artists": [
-        {
-          "name": "Emilie Autumn",
-          "url": "https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "Shalott",
-      "url": "https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Opheliac (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR"
+      },
+      "artists": [
+        {
+          "name": "Emilie Autumn",
+          "url": "https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "Shalott",
+      "url": "https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY"
     },
     {
       "added_at": "2018-12-10 14:56:06",

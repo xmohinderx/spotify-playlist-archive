@@ -1,13 +1,45 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Connor Price and Hoodie Allen",
-  "num_followers": 183413,
+  "num_followers": 183601,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGVkMDAwMjBjMjRiYzU5MGZiYmViMDYxMGUwOWFlMmI1",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGQ4ODBmOGU0MGJhMjc0NTk2NzZjYTQ0NTMzYTY3ODk2",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "age tape 8",
+        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Over & Done",
+        "url": "https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 121782,
+      "name": "Over & Done",
+      "url": "https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ"
+    },
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 132260,
       "name": "on life",
       "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/3nswnoYynY8SodmuIpVhOu"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx"
     },
     {
       "added_at": "2023-01-06 16:32:55",
@@ -45,6 +93,22 @@
       "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Whatchutrynado?",
+        "url": "https://open.spotify.com/album/6dZrLile6gtUtSgghQCZnA"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Whatchutrynado?",
+      "url": "https://open.spotify.com/track/1ItdCvHpCr3WrCZpg46Dgw"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "That's What I Get",
@@ -61,24 +125,52 @@
       "url": "https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Voices (feat. Oliver Tree)",
-        "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
+        "name": "LMAO",
+        "url": "https://open.spotify.com/album/5dhNVdhw4GWClYB9j60iWI"
       },
       "artists": [
         {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Bayo",
+          "url": "https://open.spotify.com/artist/6tXNDrmc1A4cr3MoipU6YT"
         }
       ],
-      "duration_ms": 188575,
-      "name": "Voices (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
+      "duration_ms": 133379,
+      "name": "LMAO",
+      "url": "https://open.spotify.com/track/4jbX8yMax8x7jTM1ceAARY"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Every Season",
+        "url": "https://open.spotify.com/album/3SdqNIbAVIDXSyBd3Igkon"
+      },
+      "artists": [
+        {
+          "name": "Ferris",
+          "url": "https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r"
+        }
+      ],
+      "duration_ms": 161436,
+      "name": "Every Season",
+      "url": "https://open.spotify.com/track/0Z1RYues9se6bzT0Fnaptb"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Nonfiction",
+        "url": "https://open.spotify.com/album/6hvewHei5ApnrOPrfGp1uq"
+      },
+      "artists": [
+        {
+          "name": "callmestevieray",
+          "url": "https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML"
+        }
+      ],
+      "duration_ms": 141951,
+      "name": "Nonfiction",
+      "url": "https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -253,6 +345,26 @@
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Voices (feat. Oliver Tree)",
+        "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "Voices (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Enough",
@@ -283,38 +395,6 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "age tape 8",
-        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 131586,
-      "name": "3, 2, 1",
-      "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
     },
     {
       "added_at": "2022-12-22 17:56:22",

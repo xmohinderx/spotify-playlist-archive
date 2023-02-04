@@ -6596,7 +6596,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 242716,
       "name": "Up to Me",
       "url": "https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W"
@@ -6636,6 +6636,28 @@
       "duration_ms": 252020,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ"
+    },
+    {
+      "album": {
+        "name": "Valentine, For Valentines",
+        "url": "https://open.spotify.com/album/2aAjdk52Un6nw3IPwB7W1H"
+      },
+      "artists": [
+        {
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195040,
+      "name": "Valentine, For Valentines",
+      "url": "https://open.spotify.com/track/22Z7wPXNDT6Vr1Gvhfa3k1"
     },
     {
       "album": {

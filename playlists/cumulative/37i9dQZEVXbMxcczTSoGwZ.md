@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,240 songs - 2 day 20 hr 6 min
+1,241 songs - 2 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1124,6 +1124,7 @@
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-10-17 | 2021-10-18 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-23 | 2022-12-28 |
 | [Unelmii \(feat\. Janna\)](https://open.spotify.com/track/1E0cZMpN8dPCkB9LFI0PkE) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Unelmii \(feat\. Janna\)](https://open.spotify.com/album/1JtZUhXw3jG5vWUlxkNmuo) | 3:14 | 2022-04-16 | 2022-04-30 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-02-03 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-24 | 2023-01-22 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-02-23 | 2022-03-13 |
@@ -1173,7 +1174,7 @@
 | [Viimeiset romantikot](https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:16 | 2021-09-26 | 2021-09-27 |
 | [Viimeistä kertaa](https://open.spotify.com/track/6j7ntlEnyTEiO5p3NgKcXy) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 3:31 | 2022-03-12 | 2022-04-17 |
 | [Viisi kesää](https://open.spotify.com/track/1fPYFdAdQNFL9rpZPxR2FN) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Nopsajalka](https://open.spotify.com/artist/6szmr2d0QlRU7EOyXrqGnC) | [Viisi kesää](https://open.spotify.com/album/3lhaK83qGnM4PNTAddYLsJ) | 3:30 | 2021-07-04 | 2021-10-10 |
-| [Villieläin](https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC) | 3:38 | 2022-06-25 |  |
+| [Villieläin](https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC) | 3:38 | 2022-06-25 | 2023-02-04 |
 | [Villieläin](https://open.spotify.com/track/6vmFYA9uGxkS7u8c651KnL) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Villieläin](https://open.spotify.com/album/50hbFhnyr8QnsYfahCgqdl) | 3:38 | 2022-05-01 | 2022-06-26 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
 | [Vituiks Män](https://open.spotify.com/track/6Rc4Z7Gu5BkzJsfPieCJqD) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Vituiks Män](https://open.spotify.com/album/1YAvzSeSWxrqs5NszHfoga) | 2:58 | 2022-12-31 | 2023-01-22 |

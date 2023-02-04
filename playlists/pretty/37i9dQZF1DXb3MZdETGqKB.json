@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Eric Bibb",
-  "num_followers": 127714,
+  "num_followers": 127745,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGRjOTdkZjcxOWI3NmVmNjNkMDdiNDJkNDk1M2MwZGEx",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDU1YWM5Y2NlYjI5NDQxODVmMjM4NGY5YWU1NTEyNzk1",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "Grandfather Courage (Acoustic)",
+        "url": "https://open.spotify.com/album/6sM7djEM6jfXIo1TpDgYZj"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 249337,
+      "name": "They Go Low - Acoustic",
+      "url": "https://open.spotify.com/track/5aKArVxYbCjkJrUIHfLKCo"
+    },
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {

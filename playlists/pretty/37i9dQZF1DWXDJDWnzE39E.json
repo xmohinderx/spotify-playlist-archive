@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 579670,
+  "num_followers": 580210,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDdjNWM0NTc3ZjhlMTVhNGMxODYxYzg2OTg1ZGU2ZTJj",
+  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDI5YmQ5MmEzMGFmNWU0MmM4NWUwZWNlNTBhMDAwMDM4",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Swamped XX",
-        "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Swamped XX",
-      "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 176587,
       "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
       "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Swamped XX",
+        "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Taunt Me",
-        "url": "https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Taunt Me",
-      "url": "https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "The Cost of Greatness",
@@ -1203,6 +1187,22 @@
       "duration_ms": 209044,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
+      },
+      "artists": [
+        {
+          "name": "Smackbound",
+          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Drive It Like You Stole It",
+      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1253,20 +1253,20 @@
       "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
+        "name": "Taunt Me",
+        "url": "https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE"
       },
       "artists": [
         {
-          "name": "Smackbound",
-          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Drive It Like You Stole It",
-      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
+      "duration_ms": 233000,
+      "name": "Taunt Me",
+      "url": "https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77"
     },
     {
       "added_at": "2022-11-18 01:31:53",

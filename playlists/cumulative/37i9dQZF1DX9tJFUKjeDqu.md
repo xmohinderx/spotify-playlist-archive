@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-113 songs - 7 hr 33 min
+114 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Or Nothing](https://open.spotify.com/track/55UZlpa7AQAV4bR7QFfEm6) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:15 | 2023-01-06 |  |
 | [Answer to Ronnie](https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN) | 4:53 | 2022-04-15 | 2022-07-29 |
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
+| [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 | 2023-02-03 |  |
 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 | 2022-04-15 |  |
 | [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 | 2022-04-15 |  |
 | [Berceuse](https://open.spotify.com/track/0q3aPiWc44Virg0YgBv55A) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:13 | 2022-04-15 |  |

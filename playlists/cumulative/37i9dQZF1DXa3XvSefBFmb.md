@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-371 songs - 21 hr 2 min
+372 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-09-06 | 2023-01-04 |
 | [King of Ruining](https://open.spotify.com/track/5XIV2uTJ4OKleztwCqDp4T) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [King of Ruining](https://open.spotify.com/album/5eu0HLThrAcHGjVxT0AUEW) | 3:16 | 2021-12-08 | 2022-01-05 |
 | [Kumake](https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Praia\-Bissau](https://open.spotify.com/album/6l5Jg7YSXxuIO1EUyuYcLb) | 4:49 | 2023-01-04 |  |
+| [Kuze Ku Pensa](https://open.spotify.com/track/3NSovuWMtqEZ34qYD3IuAA) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Kuze Ku Pensa](https://open.spotify.com/album/3xZygu40TJFxSsJ0dQE7lu) | 3:21 | 2023-02-03 |  |
 | [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 | 2022-07-05 | 2022-07-29 |
 | [Kwanza Sul](https://open.spotify.com/track/3wee6Fymfcvt9LH4DIU2i8) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Uma Música Angolana](https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI) | 3:57 | 2022-07-05 | 2022-10-05 |
 | [Leva\-Me a Viajar](https://open.spotify.com/track/5Zjb9BXxEUGvLHHhCxTHj7) | [Sara Carreira](https://open.spotify.com/artist/4ZWBY6qCj0UzSZoEjdBnBH) | [Leva\-Me a Viajar](https://open.spotify.com/album/0XQdOLyu9G6UY2G6p54U8v) | 3:40 | 2022-01-05 | 2022-02-02 |

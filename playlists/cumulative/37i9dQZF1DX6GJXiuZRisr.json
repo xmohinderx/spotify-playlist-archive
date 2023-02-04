@@ -672,7 +672,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 521401,
       "name": "Aura",
       "url": "https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7"
@@ -3128,6 +3128,28 @@
       "duration_ms": 209280,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/5QCFCmu2pCzQE2uobbJ3jt"
+    },
+    {
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214578,
+      "name": "Just the Kinda Feeling",
+      "url": "https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI"
     },
     {
       "album": {
@@ -5648,7 +5670,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 199354,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr"
@@ -5728,7 +5750,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"

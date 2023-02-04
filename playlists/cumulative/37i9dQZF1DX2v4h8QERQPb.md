@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-183 songs - 9 hr 32 min
+184 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fuego](https://open.spotify.com/track/3BrQ82xaqpTfulmMbkZynI) | [Vazquez](https://open.spotify.com/artist/4aRMEua8fTfPbbVMTXPyup) | [Fuego](https://open.spotify.com/album/5qf8vfYWJ9xDIKYs1ve8c6) | 3:45 | 2021-11-26 | 2022-04-12 |
 | [Fuera de Juego](https://open.spotify.com/track/58oovKbbktW6Ba8gzxepEp) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:24 | 2022-06-10 | 2022-11-12 |
 | [Fuera de Juego](https://open.spotify.com/track/6KKaU0HcDUAJ1kmgx1PDXa) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fuera de Juego](https://open.spotify.com/album/6UQUGITMx7jIIx35pNctH3) | 3:24 | 2021-11-26 | 2022-07-29 |
-| [Fuertardo](https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Fuertardo](https://open.spotify.com/album/6kfwfB9zJyBlex1uTBQX88) | 2:10 | 2021-11-26 |  |
+| [Fuertardo](https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Fuertardo](https://open.spotify.com/album/6kfwfB9zJyBlex1uTBQX88) | 2:10 | 2021-11-26 | 2023-02-04 |
 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-01-27 |  |
 | [Fvck System](https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB) | [N.G.O](https://open.spotify.com/artist/5rje84AB7dr3j1tQukbuzT), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Keis](https://open.spotify.com/artist/0JHeK4aFzFxGpXRe49Ilkx) | [Fvck System](https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo) | 4:01 | 2021-11-26 |  |
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:48 | 2021-11-26 | 2022-04-12 |
@@ -143,10 +143,11 @@
 | [Perdón Mamá](https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/7qJ0BTRFXF9Sjh2XCqhA02) | 2:32 | 2022-06-10 | 2023-01-04 |
 | [Pistola$](https://open.spotify.com/track/7Lg9aoBA9kzGHwV572Xgdw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/0nhj2ZKVac57rljWC5yLnw) | 3:04 | 2022-06-10 | 2022-11-12 |
 | [Pistola$](https://open.spotify.com/track/7nDj7K2tDAx18VCqkCrf56) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/08sixJdRCtiGDF1UsF6gPM) | 3:04 | 2021-11-26 | 2022-07-29 |
+| [Plastico](https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Plastico](https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP) | 4:05 | 2023-02-03 |  |
 | [POETA](https://open.spotify.com/track/4ozYm33zhT9DDrGR3y59SU) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [POETA](https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm) | 2:51 | 2022-06-10 |  |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
-| [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 |  |
+| [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 | 2023-02-04 |
 | [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 | 2022-11-19 |
 | [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 |  |
 | [Rap Shit](https://open.spotify.com/track/5SylEfJbstr5dBo0BnDOj5) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Rap Shit](https://open.spotify.com/album/195XFHc04zeLG8HuZOtFey) | 3:20 | 2021-11-26 | 2022-05-13 |

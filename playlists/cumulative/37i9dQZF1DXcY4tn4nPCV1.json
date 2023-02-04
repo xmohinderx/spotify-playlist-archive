@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Setsu",
+        "url": "https://open.spotify.com/album/71WMr4bfxj6i5oHI9ZJy1N"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158165,
+      "name": "Setsu",
+      "url": "https://open.spotify.com/track/1GKz0TpC7HktxQTirXpyZi"
+    },
+    {
+      "album": {
         "name": "Settle Down In Somewhere",
         "url": "https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr"
       },

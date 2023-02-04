@@ -2,9 +2,9 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lambo4oe
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lil Tjay
 
-253 songs - 13 hr 4 min
+254 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 | 2022-02-04 | 2022-07-23 |
 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 | 2022-09-23 | 2023-01-28 |
 | [Hello \(feat\. Chlöe & KayCyy\)](https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:24 | 2022-04-08 | 2022-07-23 |
+| [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-02-03 |  |
 | [Her Peace \(feat\. YK Osiris & Loui\)](https://open.spotify.com/track/4sOO8Njp0KzZAreAg7e136) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Her Peace \(feat\. YK Osiris & Loui\)](https://open.spotify.com/album/5NhtA3dljOQxgXtW6XtfUW) | 4:00 | 2021-10-07\* | 2021-12-04 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-14 |  |
 | [HIGH](https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [HIGH](https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA) | 2:50 | 2021-11-05 | 2022-04-09 |
@@ -204,7 +205,7 @@
 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 | 2022-05-06 | 2022-08-27 |
 | [Single & Happy \(feat\. Wale & Eric Bellinger\)](https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Single & Happy](https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF) | 3:10 | 2021-10-07\* | 2021-12-18 |
 | [Slide\-In \(feat\. YG\)](https://open.spotify.com/track/47YxktAwOYF7RXfDbBuzI6) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Crazy Girls](https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU) | 3:51 | 2022-10-14 | 2022-12-17 |
-| [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 | 2023-01-20 |  |
+| [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 | 2023-01-20 | 2023-02-04 |
 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 | 2022-09-30 |  |
 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 | 2022-11-18 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Baltra
 
-133 songs - 10 hr 5 min
+134 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Beta Zest](https://open.spotify.com/track/73VnqalXrZQ7k5w8dA6vuZ) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Beta Zest](https://open.spotify.com/album/7wXq2iigRs9OP6r8sAMM5R) | 5:59 | 2022-12-08 | 2022-12-16 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-12-08 | 2022-12-16 |
 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 | 2023-01-19 |  |
-| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-12 |  |
+| [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 | 2023-02-02 |  |
+| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-12 | 2023-02-04 |
 | [Border Control \(Ahora Sí\) \(feat\. Ivy Barkakati & Furious Frank\)](https://open.spotify.com/track/45vT32HMS8lZ0JusBqrgBb) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Ivy Barkakati](https://open.spotify.com/artist/3UBeV2UkTunts46Pok3zQu), [Furious Frank](https://open.spotify.com/artist/00MTkgmKzIAaseVdO9L5KV) | [Border Control \(Ahora Sí\) \(feat\. Ivy Barkakati & Furious Frank\)](https://open.spotify.com/album/01T9hSxTEdRPOsRMMmIe3y) | 6:36 | 2022-12-08 | 2023-01-20 |
 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 | 2022-12-15 | 2023-02-03 |
 | [Breathe Deep](https://open.spotify.com/track/0LNNHBnBwWJrBVeGezHkCE) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Bad Habits](https://open.spotify.com/album/211NuF7T6hghhlvqBfoVp6) | 4:57 | 2022-12-08 | 2023-01-20 |

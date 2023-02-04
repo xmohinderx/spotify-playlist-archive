@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-530 songs - 1 day 5 hr 50 min
+533 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 |  |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* |  |
 | [Chasing Tides](https://open.spotify.com/track/41niA9BIBT3GBJODEWicuP) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Chasing Tides](https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw) | 2:28 | 2022-08-05 |  |
+| [Cherubim](https://open.spotify.com/track/1AL54jGmiH5sEn7OUIbVVP) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Cherubim](https://open.spotify.com/album/3pSvzGuyYcef00rLDIFlvT) | 2:41 | 2023-02-03 |  |
 | [Chill Kingdom](https://open.spotify.com/track/7lxPJaeT21LyiC7Pu4eSNX) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Chill Kingdom](https://open.spotify.com/album/3YPivgJnzq2dZbKNu8xZy9) | 3:47 | 2019-05-26\* | 2019-06-19 |
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [circles](https://open.spotify.com/track/5PEzT7NREhifSvdJLkw2Ej) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [circles](https://open.spotify.com/album/1Wgo3Tv0kfagdzqQssSXDT) | 2:32 | 2022-09-14 |  |
@@ -126,6 +127,7 @@
 | [Eagle](https://open.spotify.com/track/3nINt8VGibM3vHcR7pNhTa) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Eagle](https://open.spotify.com/album/1HdL2jA9bc5AxycCYZosh0) | 3:22 | 2019-06-19\* | 2020-01-09 |
 | [Echoes In The Night](https://open.spotify.com/track/0Y12GuKnIa7ObO8s6E0D9X) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Wild Flowers](https://open.spotify.com/album/1ZC2UZU31y5NrgkCiAkUUO) | 2:58 | 2022-10-21 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-05-25 |  |
+| [Effortless](https://open.spotify.com/track/3XW2ewe1iNoBlHTYPUi39V) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Effortless](https://open.spotify.com/album/1qsL6G5Ydy3yzQaXXKjgzx) | 2:47 | 2023-02-03 |  |
 | [Eidolon](https://open.spotify.com/track/6KuzTwyczjBp1C4f60Y5ID) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Eidolon](https://open.spotify.com/album/3Afi3vkyW6PcheDK8O5lsx) | 4:17 | 2020-04-13 | 2022-03-05 |
 | [Eleven Shades](https://open.spotify.com/track/2sAg6ll1Vd1BxR8YD0lkRg) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Eleven Shades](https://open.spotify.com/album/11t9vBS4aWC6F1QmucdeC1) | 3:36 | 2020-10-08 |  |
 | [embraceable](https://open.spotify.com/track/43qHoXJIYjMwJsRNTj9V98) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [embraceable](https://open.spotify.com/album/2IRHiW8GfGY0yZ3BqoWxVG) | 2:40 | 2022-10-15 |  |
@@ -430,6 +432,7 @@
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2021-09-14 |  |
 | [Target](https://open.spotify.com/track/60tHXabTlAhzlkXRDWl9cp) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:03 | 2020-01-03 | 2020-10-27 |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2019-07-12 | 2020-01-09 |
+| [Tempestade](https://open.spotify.com/track/5r9fTbn6YZVxHKaU4Rze3t) | [Philó](https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS) | [Skylar](https://open.spotify.com/album/525aF5PKAQXzbmP7oAb0gC) | 2:47 | 2023-02-03 |  |
 | [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 | 2022-09-14 |  |
 | [The Air Between Us \(2015 Remaster\)](https://open.spotify.com/track/2oSz7BJox5M83ePFL7Ql2E) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Kenotic](https://open.spotify.com/album/3FkcdkJnesrEkoWA5Et88y) | 3:43 | 2019-05-26\* | 2019-06-19 |
 | [The Beginning](https://open.spotify.com/track/0v0qWxKW6zcQDBM4fuvJYg) | [Double Singularity](https://open.spotify.com/artist/1NYuibCnqGV564WP9QwrSq) | [The Beginning](https://open.spotify.com/album/7tCDJbzPYjS8IDR2l1ykT6) | 3:49 | 2019-06-19\* | 2021-06-24 |

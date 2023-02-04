@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 831309,
+  "num_followers": 831391,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDNiYjAwMDhmN2Q5ODcwM2FlYzIxOGFlYWQ2YzFjZDBi",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGI2NjU5ZmZjZjE3Zjg1NTRkZGFiMzM1YTk2NWFlODNj",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Forest Fires",
-        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 210924,
-      "name": "Forest Fires",
-      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Hard Believer",
         "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Forest Fires",
+        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 210924,
+      "name": "Forest Fires",
+      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Open Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 230589,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 230589,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Mountain Whisper",
+        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
+      },
+      "artists": [
+        {
+          "name": "Xavia",
+          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
+        }
+      ],
+      "duration_ms": 274568,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 199160,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Mountain Whisper",
-        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
-      },
-      "artists": [
-        {
-          "name": "Xavia",
-          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
-        }
-      ],
-      "duration_ms": 274568,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
+      "duration_ms": 226946,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
       },
       "artists": [
         {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 226946,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU"
+      "duration_ms": 268000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1343,6 +1343,22 @@
       "duration_ms": 189320,
       "name": "apathy",
       "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "There's Always Glimmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 247258,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "The Wolf",
         "url": "https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 234216,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 247258,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/0F1lQyCTjW4fqDklftnmeW"
-      },
-      "artists": [
-        {
-          "name": "Simon Herron",
-          "url": "https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "All That You Know",
-      "url": "https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 230257,
       "name": "The Dark - Sparse",
       "url": "https://open.spotify.com/track/6YpN6gfY8qGre9z8XRmTwM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/0F1lQyCTjW4fqDklftnmeW"
+      },
+      "artists": [
+        {
+          "name": "Simon Herron",
+          "url": "https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "All That You Know",
+      "url": "https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Saving Us a Riot",
-        "url": "https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 256765,
-      "name": "Saving Us a Riot",
-      "url": "https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Lake Jons",
         "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
       },
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Fragments EP",
-        "url": "https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9"
+        "name": "Saving Us a Riot",
+        "url": "https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 288470,
-      "name": "Marionette",
-      "url": "https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY"
+      "duration_ms": 256765,
+      "name": "Saving Us a Riot",
+      "url": "https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2"
     }
   ],
   "unique_name": "Chill + Atmospheric",

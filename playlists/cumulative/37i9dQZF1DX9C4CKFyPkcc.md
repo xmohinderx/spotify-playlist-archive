@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-165 songs - 9 hr 46 min
+166 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 |  |
 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 | 2021-12-24 |  |
 | [Heavenly Hosts](https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:29 | 2021-12-24 | 2022-12-12 |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 | 2021-12-24 |  |
@@ -137,7 +138,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/0fQegvfhv9bLCLM662r9pa) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 3:34 | 2021-12-24 |  |
 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 | 2022-11-26 |  |
 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 | 2022-11-26 |  |
-| [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 | 2022-12-11 |  |
+| [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 | 2022-12-11 | 2023-02-04 |
 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-11-26 |  |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank You](https://open.spotify.com/track/7w3nVvNQ2bIgK2iQ84MyOs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:53 | 2021-12-24 |  |

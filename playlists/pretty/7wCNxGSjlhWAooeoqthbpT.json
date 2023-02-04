@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7833,
+  "num_followers": 7832,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjAyNixkMzZkMTJkMzUxYjg0NTYxOGQ4ZmRlNTI5NTdhYzkwNzQyMWJkZjMy",
+  "snapshot_id": "MjAyOSxhMjQ5YWIxZTRkNDBlNDE4NmNiMWFkNTQzMzYxZTg3M2U0YzQ2ZjNj",
   "tracks": [
     {
       "added_at": "2023-01-27 16:30:38",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly"
     },
     {
+      "added_at": "2023-02-03 15:17:38",
+      "album": {
+        "name": "Chal\u00e9",
+        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "duration_ms": 374009,
+      "name": "Chal\u00e9",
+      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
+    },
+    {
       "added_at": "2022-12-09 14:55:18",
       "album": {
         "name": "THE GOV'T GAVE US GUNS",
@@ -635,26 +651,6 @@
       "duration_ms": 184350,
       "name": "Baby Don't Cry (feat. Young Thug)",
       "url": "https://open.spotify.com/track/08S37oejetoPevVixK6iXN"
-    },
-    {
-      "added_at": "2022-11-18 15:25:48",
-      "album": {
-        "name": "Toro (feat. DDG)",
-        "url": "https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp"
-      },
-      "artists": [
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        },
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 235662,
-      "name": "Toro (feat. DDG)",
-      "url": "https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK"
     },
     {
       "added_at": "2022-06-10 13:36:10",

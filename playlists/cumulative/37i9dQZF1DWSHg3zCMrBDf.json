@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=MCtoZGPRQVWq-aOAI0-LWA\"> Sarkodie </a>  ",
+  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=1252GMiNTcSeTiaGBAO4dQ\"> Stonebwoy </a>  ",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1246,6 +1246,24 @@
       "duration_ms": 156479,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
+    },
+    {
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "album": {

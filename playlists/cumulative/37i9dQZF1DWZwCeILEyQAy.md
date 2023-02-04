@@ -2,9 +2,9 @@
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Monaleo
+> Real Rap\. All Pressure\. Cover: Gloss Up
 
-269 songs - 11 hr 22 min
+270 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Started](https://open.spotify.com/track/2hI0o8DTlizL7NMKsbJ0YS) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Started](https://open.spotify.com/album/6Sgf8YkooBgXIMxrGVb6Jb) | 2:45 | 2022-10-14 | 2022-12-10 |
 | [Stepper \(feat\. Nardo Wick\)](https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:27 | 2022-03-25 | 2022-10-01 |
 | [Stop Asking](https://open.spotify.com/track/3F6lZEIQe8JBoSSSmbtkpk) | [Chelsea Pastel](https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F) | [Pastelevision](https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2) | 2:21 | 2021-12-03 | 2022-03-17 |
-| [Stop Playin](https://open.spotify.com/track/3dMS8mbPjRvGgiWPobV5lP) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Crazy Girls](https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU) | 1:40 | 2022-10-14 |  |
+| [Stop Playin](https://open.spotify.com/track/3dMS8mbPjRvGgiWPobV5lP) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Crazy Girls](https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU) | 1:40 | 2022-10-14 | 2023-02-04 |
 | [Straight To It](https://open.spotify.com/track/1BgyAPxLr60xUYNbvg7my6) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Baby Goat](https://open.spotify.com/album/5X1HkCHCIaR5IfWVFPdJ0x) | 1:52 | 2021-11-05 | 2022-07-03 |
 | [Suck It Up](https://open.spotify.com/track/03qq2X85nmp16V4LJluQJ2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Suck It Up](https://open.spotify.com/album/1cNGvkYmxFKI4hTS4pidxM) | 3:01 | 2021-11-05 | 2022-09-17 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 |  |
@@ -259,6 +259,7 @@
 | [Track & Field \(feat\. Kali\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kali\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 | 2021-11-05 | 2022-09-17 |
 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 | 2022-06-17 | 2022-10-15 |
 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 | 2021-11-05 | 2022-09-17 |
+| [Uh Ohhh](https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Uh Ohhh](https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a) | 2:12 | 2023-02-03 |  |
 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 | 2022-12-17 |
 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 | 2022-11-11 |  |
 | [Walk In](https://open.spotify.com/track/6NVp9jx6E5U3ueEfFxm9Bm) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Walk In](https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB) | 1:36 | 2022-06-17 | 2022-07-28 |

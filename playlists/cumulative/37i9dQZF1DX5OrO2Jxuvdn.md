@@ -4,11 +4,12 @@
 
 > Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution\. 🍑
 
-190 songs - 10 hr 26 min
+191 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Feet of Regret](https://open.spotify.com/track/5RDmxEeM38xOeAnRN9MLBE) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Make the Night Better](https://open.spotify.com/album/4VI7O1m31rfQsPrplVODGt) | 2:57 | 2023-01-09 |  |
+| [10 Feet of Regret](https://open.spotify.com/track/4TWSElZuw1h0DnrcsKKMP5) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Make the Night Better](https://open.spotify.com/album/1GMlTB5tGa6uWMtClk8ek9) | 2:57 | 2023-01-09 |  |
+| [10 Feet of Regret](https://open.spotify.com/track/5RDmxEeM38xOeAnRN9MLBE) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Make the Night Better](https://open.spotify.com/album/4VI7O1m31rfQsPrplVODGt) | 2:57 | 2023-01-09 | 2023-02-04 |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2022-12-27 |  |
 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 | 2022-12-27 | 2023-01-10 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-12-27 |  |

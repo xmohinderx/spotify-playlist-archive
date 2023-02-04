@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Warm Winds",
+        "url": "https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG"
+      },
+      "artists": [
+        {
+          "name": "Cake",
+          "url": "https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143152,
+      "name": "Warm Winds",
+      "url": "https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8"
+    },
+    {
+      "album": {
         "name": "Washed Away",
         "url": "https://open.spotify.com/album/3ZRqvvAjiVDWms9WPCebXq"
       },

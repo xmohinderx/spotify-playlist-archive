@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-141 songs - 5 hr 27 min
+142 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 |  |
 | [Laaree Chootee](https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO), [Tejas R.H](https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J) | [Laaree Chootee](https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG) | 2:10 | 2022-09-09 |  |
 | [late nights](https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [late nights](https://open.spotify.com/album/3D5cqKAqlXUtVnX4hATADb) | 2:08 | 2022-09-09 |  |
-| [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 | 2022-09-23 |  |
+| [Let Me Down Slowly X Aaya Na Tu \- Lofi Mashup](https://open.spotify.com/track/0E2G8f6X9JOUZV7gGzjJjt) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mashup\)](https://open.spotify.com/album/74bHFaG2mbDFNGmqPwOOfB) | 2:59 | 2023-01-18 |  |
+| [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 | 2022-09-23 | 2023-02-04 |
 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 | 2022-12-09 |  |
 | [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 | 2022-09-09 |  |
 | [lofi rain](https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm) | [a girl and a cat](https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi) | [lofi study 2021](https://open.spotify.com/album/260iH4R6MRNcDQ79106Icv) | 1:58 | 2022-09-09 |  |

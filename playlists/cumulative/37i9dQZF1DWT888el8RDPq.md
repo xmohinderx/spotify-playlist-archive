@@ -4,7 +4,7 @@
 
 > ☀️
 
-269 songs - 13 hr 35 min
+270 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-05-06 | 2022-08-30 |
 | [I'm Not Angry Anymore](https://open.spotify.com/track/1W2ScQrCGp5Ew9lnljMA3G) | [Cummrs](https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e) | [I'm Not Angry Anymore](https://open.spotify.com/album/1qYvYb5ffqNsI9FHoUUe7Q) | 1:04 | 2022-12-02 | 2023-01-28 |
-| [I'm not angry anymore](https://open.spotify.com/track/404j2DwHrHlYxjXg4egoUz) | [Cummrs](https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e) | [I'm not angry anymore](https://open.spotify.com/album/7KymfufWbsR4iotVwL1QCS) | 1:04 | 2022-11-08 |  |
+| [I'm not angry anymore](https://open.spotify.com/track/404j2DwHrHlYxjXg4egoUz) | [Cummrs](https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e) | [I'm not angry anymore](https://open.spotify.com/album/7KymfufWbsR4iotVwL1QCS) | 1:04 | 2022-11-08 | 2023-02-04 |
+| [I'm not angry anymore](https://open.spotify.com/track/1jKq19I0dljUvY7P6hzy2M) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [I'm not angry anymore](https://open.spotify.com/album/0yMQfYeBCIfN9r1iI1UPSj) | 1:01 | 2023-01-31 |  |
 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 | 2022-05-23 | 2022-07-29 |
 | [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-07-22 | 2022-09-28 |
 | [ILLINOIS](https://open.spotify.com/track/4jh2hP44LsMrTLLnlhksf8) | [Novelo](https://open.spotify.com/artist/1RHfl90nY7Ut10DMRcKjDa) | [CARO MOSTRO](https://open.spotify.com/album/4zXlJMn3ZaaUIwR5VDArCx) | 2:28 | 2022-05-06 | 2022-07-17 |

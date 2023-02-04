@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 238094,
       "name": "Norm and Mirza",
       "url": "https://open.spotify.com/track/5IRmwahDW9Du2lJMpCHeFj"
@@ -5878,6 +5878,24 @@
       "duration_ms": 218500,
       "name": "What's Best For You",
       "url": "https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl"
+    },
+    {
+      "album": {
+        "name": "When I have no other place",
+        "url": "https://open.spotify.com/album/6xc33JQjFZNHUnDa0arx1Y"
+      },
+      "artists": [
+        {
+          "name": "Lofi Stranger",
+          "url": "https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "When I have no other place",
+      "url": "https://open.spotify.com/track/0G1GtPca3jZyflKA0V8O5V"
     },
     {
       "album": {

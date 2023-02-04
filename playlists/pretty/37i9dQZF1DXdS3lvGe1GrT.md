@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,281 likes - 93 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,377 likes - 93 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 56 | [Calgary Skyline](https://open.spotify.com/track/5b650x4FrY2CiIw9LLcopY) | [Peach & Quiet](https://open.spotify.com/artist/1k9yLhNPTAVPf1R03eUnbc) | [Calgary Skyline](https://open.spotify.com/album/4TDb5JSdVdgXQY9cddv5WG) | 3:22 |
 | 57 | [Sister Calls](https://open.spotify.com/track/3dehEQTfQH7SMqjuF95QVz) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [Sister Calls](https://open.spotify.com/album/6zcagcTCZkJN1DCD9lAQzT) | 2:47 |
 | 58 | [Eyes on You](https://open.spotify.com/track/14fafhYFUEysDpKHxHWfev) | [Lawrence Taylor](https://open.spotify.com/artist/7so1HCxGkBmfqdvIF5HzkT) | [Eyes on You](https://open.spotify.com/album/0hp2yBmhNwPrwhGoyG6cd8) | 4:36 |
-| 59 | [Saying Goodbye](https://open.spotify.com/track/0KUJZeulFXLHZGjxFGh1Dh) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Saying Goodbye / Stardust \(Acoustic Version\)](https://open.spotify.com/album/0Tv1E5yrt5UZeolPPKvmD9) | 3:12 |
+| 59 | [Saying Goodbye](https://open.spotify.com/track/4PW4h79vx4elJDUMGZX0ix) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Saying Goodbye / Stardust \(Acoustic Version\)](https://open.spotify.com/album/3z8kwCnMX4WdufacXA6W9A) | 3:14 |
 | 60 | [Sunday Morning Blues](https://open.spotify.com/track/2TMzpiaF4v5PuoPc2cyIYg) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Sunday Morning Blues](https://open.spotify.com/album/2UHl9NGVKomAjVaso1tk6M) | 2:56 |
 | 61 | [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 |
 | 62 | [Empty Hands](https://open.spotify.com/track/2GBIKypnjEstvrRsXaSeOV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/2zwbcI5dCRCBUO3pjIs2E9) | 4:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 92 | [I Wouldn't Mind](https://open.spotify.com/track/2TwRFKnBx1EjNJ5vDRRvNC) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu) | [I Wouldn't Mind](https://open.spotify.com/album/59poBmSzdEHPoZT4Sk7oYt) | 2:27 |
 | 93 | [Moment in Time](https://open.spotify.com/track/32fIpfTQO2IGcts9W9dY7L) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [Moment in Time](https://open.spotify.com/album/5Gc2yg1wQ5GyY4pSKIqgHR) | 3:46 |
 
-Snapshot ID: `MTY3NTI3MDgwMCwwMDAwMDAwMGNlMDQ1YWQ0NmRjNWI0ZjY2MDAwY2U2ZWQ3ZTBiYTEx`
+Snapshot ID: `MTY3NTI3MDgwMCwwMDAwMDAwMGQ0OGZlZGEyZWU0MzEzZjQzNTJlZmViNmNhNDI0ZTlj`

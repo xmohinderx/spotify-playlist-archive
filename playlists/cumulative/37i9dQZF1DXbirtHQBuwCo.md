@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: oceanfromtheblue\)
 
-510 songs - 1 day 3 hr 39 min
+511 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-07-27 | 2023-01-13 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 | 2023-01-24 |
 | [Close to the end](https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Close to the end](https://open.spotify.com/album/0HpwI0wcsHlnGlFED3hkNG) | 3:30 | 2022-04-19 | 2022-04-21 |
+| [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-02 |  |
 | [Cocktail \(feat\. SAGE, RYUKIE\)](https://open.spotify.com/track/3lz3CsUEIafW2V4VNsjCue) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RYUKIE](https://open.spotify.com/artist/0FLz2wSeTue5lYUnLtTrj6), [SAGE](https://open.spotify.com/artist/24whPzcv8YXI53WrKoodIC) | [SEOULVIBES, FOREST](https://open.spotify.com/album/2LnlkVC3FgHqsNRZNJJ2Ym) | 3:02 | 2022-08-30 | 2022-09-04 |
 | [Cold](https://open.spotify.com/track/5C7184UXxnChbRdhxfdm5c) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [I AM LUU](https://open.spotify.com/artist/208lEUiDVsRd1r1ktO6IHw) | [Eternal Sunshine 1/2](https://open.spotify.com/album/0VDhjoUAHsS4Go5f6JMGrO) | 2:32 | 2022-04-22 | 2022-04-27 |
 | [Cold Breeze \(feat\. yuenn\)](https://open.spotify.com/track/7pU3qDMeBbE9OzxorY28cY) | [Sofa](https://open.spotify.com/artist/0eLtxK7BRe1GZKCvWdqcP5), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [re\-Jection](https://open.spotify.com/album/32G2qu1GwooeJ2KsGafNEt) | 2:58 | 2022-07-24 | 2022-07-26 |
@@ -236,7 +237,7 @@
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2022-04-22 | 2022-07-20 |
 | [I’ll Listen](https://open.spotify.com/track/5Y7ECBDvXyifeb1pFPXb7v) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [I’ll Listen](https://open.spotify.com/album/1wedJwAqBR7BP03kiRePzL) | 2:39 | 2022-04-19 | 2022-04-21 |
 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-05 | 2022-10-23 |
-| [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 | 2023-01-18 |  |
+| [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 | 2023-01-18 | 2023-02-04 |
 | [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 | 2022-12-09 | 2022-12-20 |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 | 2022-05-29 |
 | [KILL YOUR DARLINGS](https://open.spotify.com/track/4uxMRH0kYdYd17d4m3muGA) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ) | [KILL YOUR DARLINGS](https://open.spotify.com/album/3duHcgxP9gzaqKZpTaFcFm) | 3:37 | 2022-04-19 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 2 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 |
 | 3 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/03LNdNAUE2xGFZpAsBmXhJ) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:53 |
 | 4 | [マツケンEDM](https://open.spotify.com/track/7IUWKPni1OabRud8VpCotT) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6) | [マツケンEDM](https://open.spotify.com/album/4v6gJdK7jqwE2AhAoUXjMY) | 4:05 |
-| 5 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 |
+| 5 | [Monster Disco](https://open.spotify.com/track/1zcLKA7aKfjeGq6dQZk9Wi) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:15 |
 | 6 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 |
 | 7 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 |
 | 8 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 101 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 102 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDY4NjBmZWNkNTRkZmZmNGExMTFhMjc5M2ZlNWM1OTU4`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDI0YTE0MDAzYmZmYTdjZTFkMTg4ZGNmNWI2OTk1ZGIw`

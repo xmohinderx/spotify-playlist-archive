@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "A new take on a classic sound. Cover: The Jack Moves",
+  "description": "A new take on a classic sound. Cover: Jake Shears",
   "name": "Nu-Disco",
   "tracks": [
     {
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 230985,
       "name": "studio 54",
       "url": "https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L"
@@ -2772,6 +2772,24 @@
       "duration_ms": 169000,
       "name": "too good to be true",
       "url": "https://open.spotify.com/track/6Mvwjlm2S7CBP1aGOrO1rE"
+    },
+    {
+      "album": {
+        "name": "Too Much Music",
+        "url": "https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278426,
+      "name": "Too Much Music",
+      "url": "https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N"
     },
     {
       "album": {

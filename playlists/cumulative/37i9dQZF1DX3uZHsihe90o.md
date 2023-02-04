@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-136 songs - 5 hr 53 min
+137 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Can You Canoe?](https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:04 | 2022-04-15 |  |
 | [Chickadee](https://open.spotify.com/track/5mNprCau1UgykTPIZqVojF) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Chickadee](https://open.spotify.com/album/3cGyGZu63TQkWt9MXZetw1) | 1:57 | 2021-12-16 | 2022-11-13 |
 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 | 2021-12-16 | 2023-02-03 |
-| [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 | 2021-12-16 |  |
+| [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 | 2021-12-16 | 2023-02-04 |
 | [Coming Down](https://open.spotify.com/track/3R0OeErDymaNnBvNq03CLb) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Greg Corneille](https://open.spotify.com/artist/1SjyQMac76iYkEuE5UeLCw), [Yesenia Mejia Herrera](https://open.spotify.com/artist/3ixshQOQKADeEqYgCNA4lG) | [Coming Down](https://open.spotify.com/album/6zMi1PeB02qZseY3nIeQFr) | 4:39 | 2021-12-16 | 2022-07-29 |
 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 | 2021-12-16 |  |
 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 | 2021-12-16 |  |
@@ -123,6 +123,7 @@
 | [The Farmer In The Dell](https://open.spotify.com/track/3YPwfZNGB2NuFhXVail7c8) | [Genni Kane](https://open.spotify.com/artist/7MgYqggNGWbd247VgX0MFk), [Johanna Connolly](https://open.spotify.com/artist/2fOoxVwbDNvOoOuBOnxY0N), [Libby Ashton\-Jones](https://open.spotify.com/artist/0rYL0AC6oc9zae99WbfqI5), [Alice Kane](https://open.spotify.com/artist/4MBPGOZEkRUoIyZXgT1kCg), [Hannah Kane](https://open.spotify.com/artist/2NZidLo6bZlWFBffXG7zLv), [Emily Brown](https://open.spotify.com/artist/1SBzffhWPa7Qll30ySvrDP) | [Australian Favourite Nursery Rhymes](https://open.spotify.com/album/5gcvKU2VZbCse24qxOKT9H) | 2:25 | 2021-12-16 | 2022-07-29 |
 | [The Farmer Is The One](https://open.spotify.com/track/1lD0KqDiIgyVaVC7FXa9tt) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/0W2eDCYklT4jJShYaoL0AT) | 2:25 | 2022-04-15 |  |
 | [The Farmer Is The One](https://open.spotify.com/track/2RSMt7gFKGY6aL7K0JNM3N) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/3vvbwip5T97USLTwoMabGw) | 2:25 | 2021-12-16 | 2022-07-29 |
+| [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 | 2023-01-31 |  |
 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 | 2021-12-16 |  |
 | [The Tailor and the Mouse](https://open.spotify.com/track/2GROeDv4VmlGbM80k3KHX4) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Come and Sit by My Side](https://open.spotify.com/album/11ES2isDgMh7BpZTlKFU6a) | 1:34 | 2022-04-15 | 2022-11-14 |
 | [The Tailor and The Mouse](https://open.spotify.com/track/7Bj9hysNfSkpr0bfR1UJ0N) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Folk Songs For Kids](https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB) | 1:35 | 2021-12-16 | 2022-07-29 |

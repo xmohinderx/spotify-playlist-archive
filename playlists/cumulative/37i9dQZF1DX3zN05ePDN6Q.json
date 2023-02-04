@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 245161,
       "name": "A Barra De Espa\u00e7o",
       "url": "https://open.spotify.com/track/7dIilgaZA1kGwgP7Z9j1Dm"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 146526,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 158297,
       "name": "Indispens\u00e1vel",
       "url": "https://open.spotify.com/track/6KmhXbBA72tV4mmHaqG8c1"
@@ -2596,6 +2596,32 @@
       "duration_ms": 243032,
       "name": "J\u00e1 \u00c9 Tarde",
       "url": "https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d"
+    },
+    {
+      "album": {
+        "name": "Corpo & Calma",
+        "url": "https://open.spotify.com/album/33pPU960nCw0auqbMkUwE5"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "J\u00f3ia Rara",
+      "url": "https://open.spotify.com/track/7GL82HIdr0a89CBTIYTYnv"
     },
     {
       "album": {
@@ -3024,6 +3050,28 @@
       "duration_ms": 148235,
       "name": "Mesmo Que Demore",
       "url": "https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf"
+    },
+    {
+      "album": {
+        "name": "Meu Normal",
+        "url": "https://open.spotify.com/album/2weeGPBIiW9SumEt3V3IIC"
+      },
+      "artists": [
+        {
+          "name": "Dourado",
+          "url": "https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8"
+        },
+        {
+          "name": "Dr\u00f4ga",
+          "url": "https://open.spotify.com/artist/1QjdvG6BWkOEtkmsFbeClR"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "Meu Normal",
+      "url": "https://open.spotify.com/track/5WCYEL0xxj1qP9sYHoeRaw"
     },
     {
       "album": {
@@ -4071,6 +4119,54 @@
     },
     {
       "album": {
+        "name": "P\u00edlula e Reza",
+        "url": "https://open.spotify.com/album/0A9D9uEG7TAKA7OkYKoiGP"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "P\u00edlula e Reza",
+      "url": "https://open.spotify.com/track/5ivx2o694AnUWUvpKeGv6b"
+    },
+    {
+      "album": {
+        "name": "Qua$i$heila",
+        "url": "https://open.spotify.com/album/55yrZmLYhVWRusGJmYDlw0"
+      },
+      "artists": [
+        {
+          "name": "Matheus Coringa",
+          "url": "https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF"
+        },
+        {
+          "name": "V\u00c1RIO$",
+          "url": "https://open.spotify.com/artist/6HPxMyyrXYQgI89MO7LQGZ"
+        },
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "SHEILA Records",
+          "url": "https://open.spotify.com/artist/1kDpzhQReRYihrWEhYN8nP"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270556,
+      "name": "Qua$i$heila",
+      "url": "https://open.spotify.com/track/1yDeZxxcCFeQKJlWSaPifc"
+    },
+    {
+      "album": {
         "name": "Quanto Que Vale?",
         "url": "https://open.spotify.com/album/4d87fiYIJ398ClWSezNAJo"
       },
@@ -4334,7 +4430,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 223146,
       "name": "Rio Nilo",
       "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"

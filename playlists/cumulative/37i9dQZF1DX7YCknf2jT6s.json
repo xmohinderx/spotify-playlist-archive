@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: London Brew",
+  "description": "New jazz for open minds. Cover: Alfa Mist",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 259040,
       "name": "90s",
       "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
@@ -827,6 +827,32 @@
     },
     {
       "album": {
+        "name": "Legacy: The Instrumental Jawn",
+        "url": "https://open.spotify.com/album/0Ig0qPb8HhVnhM1o5GSAG4"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jeff Bradshaw",
+          "url": "https://open.spotify.com/artist/4toi4Roz4j0uiOGvHBhvsY"
+        },
+        {
+          "name": "The Origin Band",
+          "url": "https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "Another Chance (feat. Jeff Bradshaw & The Origin Band)",
+      "url": "https://open.spotify.com/track/5CiTbfWPMr4lJvas3v2nCm"
+    },
+    {
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -1446,6 +1472,24 @@
       "duration_ms": 253518,
       "name": "Baptismal Font - from The Elements - Water",
       "url": "https://open.spotify.com/track/2Dldyd6yl6rkQqZdsImPKu"
+    },
+    {
+      "album": {
+        "name": "4th Feb (Stay Awake) / BC",
+        "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
     },
     {
       "album": {
@@ -3129,6 +3173,32 @@
     },
     {
       "album": {
+        "name": "Didn't You",
+        "url": "https://open.spotify.com/album/5lUJSFX3tl1fGczLqfQ70K"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Didn't You",
+      "url": "https://open.spotify.com/track/51RS0cE9EwwWCS3ii2KVxD"
+    },
+    {
+      "album": {
         "name": "Diga",
         "url": "https://open.spotify.com/album/2EiwLkYHIHp9B5cHFtsYKC"
       },
@@ -3499,6 +3569,40 @@
     },
     {
       "album": {
+        "name": "Dreaming Together",
+        "url": "https://open.spotify.com/album/02hxQ231uVa6Y2AVdRHApN"
+      },
+      "artists": [
+        {
+          "name": "Yelena Eckemoff",
+          "url": "https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        },
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Masaru Koga",
+          "url": "https://open.spotify.com/artist/4kLqS26I5uHYfP63mZy5WO"
+        },
+        {
+          "name": "Kirk Knuffke",
+          "url": "https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372620,
+      "name": "Dreaming Together",
+      "url": "https://open.spotify.com/track/73w7E2yPZ4QAXntcaSuB6G"
+    },
+    {
+      "album": {
         "name": "Dribble",
         "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
       },
@@ -3642,7 +3746,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 271373,
       "name": "Ebullience",
       "url": "https://open.spotify.com/track/6kyYpGMYFNRrI2aIjn1Ctv"
@@ -3968,6 +4072,24 @@
       "duration_ms": 200568,
       "name": "Euphoria Reprise",
       "url": "https://open.spotify.com/track/7zWP8Ark3QZFiV9lcQiOGH"
+    },
+    {
+      "album": {
+        "name": "Every Good Thing ~Four Seasons of SAKURA MACHI~",
+        "url": "https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Every Good Thing ~Four Seasons of SAKURA MACHI~",
+      "url": "https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9"
     },
     {
       "album": {
@@ -9027,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/1jxTVeRziaAzk8drcOh3II"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5NR9iphghcSLdLdLTNFsm5"
+    },
+    {
+      "album": {
         "name": "Nitrogen",
         "url": "https://open.spotify.com/album/7eHgfsNkxLGgnuF01yH1Na"
       },
@@ -9572,7 +9712,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 558080,
       "name": "Out of the Past",
       "url": "https://open.spotify.com/track/5GrUxudlbub9174u8xDeJr"
@@ -10140,7 +10280,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 309322,
       "name": "Pure Body",
       "url": "https://open.spotify.com/track/6zFHFIS29EtNW7s1U4x7WI"
@@ -11042,7 +11182,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 224431,
       "name": "Send Seraphic Beings",
       "url": "https://open.spotify.com/track/3WgK48y9J8qBIgnwdQvfVg"
@@ -13187,6 +13327,24 @@
     },
     {
       "album": {
+        "name": "The Layers",
+        "url": "https://open.spotify.com/album/1IBBI7ztokzQD970HUEmoA"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223166,
+      "name": "The Layers",
+      "url": "https://open.spotify.com/track/3NeP3pdpRdVM2u72HxR2Md"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
       },
@@ -13395,6 +13553,24 @@
     },
     {
       "album": {
+        "name": "The Promised Land",
+        "url": "https://open.spotify.com/album/4bWdmg9OcawrEmJBPxRCA4"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523612,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/4kHKn2seIDLKYSUeUfPScv"
+    },
+    {
+      "album": {
         "name": "The Rainbow Waters",
         "url": "https://open.spotify.com/album/3XGw1v1CgikUf27d5zntFb"
       },
@@ -13472,7 +13648,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 339674,
       "name": "The Storm Will Pass",
       "url": "https://open.spotify.com/track/0CcZcX4yIRKlbbJ98u9Hcp"
@@ -15143,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "Eye Of I",
+        "url": "https://open.spotify.com/album/4QMevzEjkMADSzgx2nTXWm"
+      },
+      "artists": [
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346723,
+      "name": "Within You Are Answers",
+      "url": "https://open.spotify.com/track/0xtoC9lDPA20RKNZPonFoN"
+    },
+    {
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/2zVYZbbm0rwmFrSawRtyGn"
       },
@@ -15530,7 +15724,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 207679,
       "name": "Zero \u2014 piano reworks",
       "url": "https://open.spotify.com/track/7CkPQE4VCenCENNN6q7nD2"
@@ -15642,7 +15836,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 273000,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/32LhqU8umTrPAKN95z51d0"

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-404 songs - 1 day 0 hr 33 min
+405 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Runner](https://open.spotify.com/track/5tHyxPszyqjcXF8PRQnFkv) | [Sophie Jamieson](https://open.spotify.com/artist/61SAO7vBYIjApKdECAwhDo) | [Runner](https://open.spotify.com/album/4fqDg37gtFns6gW3KFwQ0i) | 3:19 | 2022-10-26 | 2022-12-01 |
 | [safe?](https://open.spotify.com/track/71v8LdSVIwJQYFMakxezmD) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [safe?](https://open.spotify.com/album/7I9BHVSc26R7taqCFRW1UF) | 3:35 | 2022-09-07 | 2023-01-12 |
 | [Sage](https://open.spotify.com/track/5JI37pQfjXSXCk6GbFO8KQ) | [Annie Burnell](https://open.spotify.com/artist/5AkGCUXcX19cuzPypmd2uB) | [Sage](https://open.spotify.com/album/4aPGnCS8cVyRtLhli3Ua7I) | 3:56 | 2022-05-25 | 2022-08-25 |
-| [Saying Goodbye](https://open.spotify.com/track/0KUJZeulFXLHZGjxFGh1Dh) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Saying Goodbye / Stardust \(Acoustic Version\)](https://open.spotify.com/album/0Tv1E5yrt5UZeolPPKvmD9) | 3:12 | 2022-11-23 |  |
+| [Saying Goodbye](https://open.spotify.com/track/0KUJZeulFXLHZGjxFGh1Dh) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Saying Goodbye / Stardust \(Acoustic Version\)](https://open.spotify.com/album/0Tv1E5yrt5UZeolPPKvmD9) | 3:12 | 2022-11-23 | 2023-02-04 |
+| [Saying Goodbye](https://open.spotify.com/track/4PW4h79vx4elJDUMGZX0ix) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Saying Goodbye / Stardust \(Acoustic Version\)](https://open.spotify.com/album/3z8kwCnMX4WdufacXA6W9A) | 3:14 | 2023-02-01 |  |
 | [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 | 2023-01-11 |  |
 | [Secrets](https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/7eHb55jHq7cPgnKquT81xs) | 4:12 | 2022-10-12 | 2023-01-12 |
 | [See](https://open.spotify.com/track/652icucvRa5SeZkQFUDk6w) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [See](https://open.spotify.com/album/4beTaEBzxpzUaAj2P8PBIQ) | 3:08 | 2023-01-11 |  |

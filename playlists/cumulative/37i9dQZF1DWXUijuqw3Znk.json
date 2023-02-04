@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 136689,
       "name": "Foul",
       "url": "https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X"
@@ -6282,6 +6282,36 @@
       "duration_ms": 146528,
       "name": "VISION",
       "url": "https://open.spotify.com/track/4RPuRnGoeVfB7GJSIZrKj4"
+    },
+    {
+      "album": {
+        "name": "9th Wonder",
+        "url": "https://open.spotify.com/album/50ll6S98hedNmTEdIz4ZBi"
+      },
+      "artists": [
+        {
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+        },
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Van Ruther",
+          "url": "https://open.spotify.com/artist/14nUThDEhdsnOASjLZhnQa"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/4N5Qqx1wYjmB0P5UbRr6SZ"
     },
     {
       "album": {

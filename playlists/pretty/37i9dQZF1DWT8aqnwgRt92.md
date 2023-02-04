@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,667 likes - 85 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,429 likes - 85 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 6 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 7 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 8 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 |
-| 9 | [めざせポケモンマスター \-with my friends\-](https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:06 |
+| 9 | [めざせポケモンマスター \-with my friends\-](https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:06 |
 | 10 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 |
 | 11 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 12 | [Fantastic Future \- From CrosSing](https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic Future \- From CrosSing](https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5) | 4:15 |

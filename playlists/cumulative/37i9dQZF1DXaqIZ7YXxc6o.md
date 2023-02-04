@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Nia Archives
 
-273 songs - 14 hr 54 min
+274 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 |  |
 | [Disco Treats](https://open.spotify.com/track/4ADUECqx9JpXNDlXNjDffF) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Disco Treats](https://open.spotify.com/album/5ZhoyjkDSHATbZ98mESbuy) | 2:48 | 2022-12-08 | 2023-01-20 |
 | [Divine](https://open.spotify.com/track/6WzxaVZDw5hvZ8rVGs2s7W) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv) | [Divine EP](https://open.spotify.com/album/5XzF5MEl4ffKP2eQ73IO6P) | 4:32 | 2022-12-08 | 2022-12-24 |
+| [DOJA](https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [DOJA](https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL) | 2:37 | 2023-02-02 |  |
 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 | 2022-12-15 | 2023-01-20 |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-12-08 | 2023-01-13 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-08 | 2023-01-20 |

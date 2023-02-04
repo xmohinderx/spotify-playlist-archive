@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: YUKI \*👉<a href="https://spice.eplus.jp/articles/314031?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-83 songs - 5 hr 7 min
+84 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ALOS](https://open.spotify.com/track/6RDPV5PjbVSy4EtyI6dUI3) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ALOS](https://open.spotify.com/album/29y5aBN0K1xZx5u6jroZ2U) | 3:30 | 2023-01-31 |  |
 | [Anthem \- Fumiya Tanaka Remix](https://open.spotify.com/track/1LuZxcr0wBisvBFzBwp2Ff) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [田中フミヤ](https://open.spotify.com/artist/6x7CJxVRVtYcTHqui1GDSx) | [Anthem \(Fumiya Tanaka Remix\)](https://open.spotify.com/album/3gsW0kg1XEQd0Ps6qBtTj7) | 8:55 | 2023-01-31 |  |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 |  |
+| [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-03 |  |
 | [Be Crazy](https://open.spotify.com/track/71hhGpg2px2f2UqwjgpSIi) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Be Crazy](https://open.spotify.com/album/3GvfYLhm1o2sxtJJF5TD96) | 3:38 | 2023-01-31 |  |
 | [BESTY](https://open.spotify.com/track/2ZG9JeE5w6JLq6nFu4GgR8) | [BananaLemon](https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc) | [BESTY](https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e) | 3:27 | 2023-01-31 |  |
 | [Blurry](https://open.spotify.com/track/159Vy99ZeKZ78XQCWdiIJN) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Blurry](https://open.spotify.com/album/7Myq1BOa1IBdaUeBJcGeLW) | 3:44 | 2023-01-31 |  |

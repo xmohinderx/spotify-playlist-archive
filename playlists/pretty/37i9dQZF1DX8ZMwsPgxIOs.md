@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,029 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,069 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 5 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 |
 | 6 | [Deep Space X](https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:28 |
 | 7 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 |
-| 8 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
+| 8 | [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 |
 | 9 | [Intelligent Energy](https://open.spotify.com/track/7GOBFwwgn3cpWj6OwVZ1A6) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Prince Of Flowers EP](https://open.spotify.com/album/7tAFeC1V1AlOdE2OUYhPGd) | 4:23 |
 | 10 | [Missing Channel \- Original Mix](https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 6:32 |
 | 11 | [Wall of Sleep](https://open.spotify.com/track/0O3YlTNABo6rkYRCr1B5oR) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Wall of Sleep](https://open.spotify.com/album/6WKt6OzByTii9cHuKf7l5B) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 |
 | 100 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 
-Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMDRmYTVmNDIzNTExNjk2NDlmNDc3ZmQwNWJmNjE1MGVl`
+Snapshot ID: `MTY3NDIxOTg1NywwMDAwMDAwMGE3ODVkMjQ3YTI2NWI0YzViMzBlYWY3NTgwMzRkODU1`

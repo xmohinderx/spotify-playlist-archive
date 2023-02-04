@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 130897,
       "name": "Casa da Vizinha",
       "url": "https://open.spotify.com/track/5sqE610tA2dXUUsF76mz15"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 105600,
       "name": "Lado Nerd",
       "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 166826,
       "name": "Lebai",
       "url": "https://open.spotify.com/track/2p2KOJ5lR2oT45ubjGuhAK"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 199691,
       "name": "Longe dos Falsos",
       "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
@@ -2417,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
+    },
+    {
+      "album": {
         "name": "Monza Drift 2",
         "url": "https://open.spotify.com/album/5XkMNAzloX0jsHw0R33fTK"
       },
@@ -2756,6 +2778,28 @@
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
+    },
+    {
+      "album": {
+        "name": "OK!",
+        "url": "https://open.spotify.com/album/2SzXpVWaacIYmZYyhSZMVz"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "OK!",
+      "url": "https://open.spotify.com/track/7qUUcLHVLo7zt7BjSNNG1s"
     },
     {
       "album": {
@@ -3842,6 +3886,10 @@
         {
           "name": "MC Kapela",
           "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-03-18",
@@ -4016,6 +4064,28 @@
       "duration_ms": 202434,
       "name": "To de P\u00e9",
       "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
+    },
+    {
+      "album": {
+        "name": "REAL PAGOTRAP",
+        "url": "https://open.spotify.com/album/72H7yeraGAiflanOLcn9Nl"
+      },
+      "artists": [
+        {
+          "name": "N\u00e3o pode Ser Nada",
+          "url": "https://open.spotify.com/artist/7DEa9DT5UqhsCsThZo1qMX"
+        },
+        {
+          "name": "Sistema Paggotrap",
+          "url": "https://open.spotify.com/artist/2DWOU3h6CUIRYVQLGBuScs"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "T\u00e1 Pra Onda",
+      "url": "https://open.spotify.com/track/0chAI7AuMbGDtgGxaj7S6l"
     },
     {
       "album": {
@@ -4370,6 +4440,32 @@
       "duration_ms": 140769,
       "name": "Zona Sul",
       "url": "https://open.spotify.com/track/3cBG9n5knrKohYjA3smGER"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9m",
+        "url": "https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164005,
+      "name": "\u00c1gua Ros\u00e8",
+      "url": "https://open.spotify.com/track/0IeanQkxM2BZfZAiWVAtA9"
     },
     {
       "album": {

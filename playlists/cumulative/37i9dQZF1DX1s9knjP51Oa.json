@@ -7931,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Ride your wave",
+        "url": "https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1"
+      },
+      "artists": [
+        {
+          "name": "San Fiore",
+          "url": "https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164646,
+      "name": "Ride your wave",
+      "url": "https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/0MoRdHoFxiCWDv5Wl9f4ac"
       },

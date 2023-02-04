@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: TIGGER\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,385 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,393 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/track/4k7fbj0Am3jaOPshgAgEw5) | [BABEPOOM](https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK) | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/album/0IydaxB2YsOTSkxSJT4cyu) | 3:40 |
-| 2 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER](https://open.spotify.com/artist/3tGVY9gQ2fn0rdfzpZOhgO) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |
+| 2 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |
 | 3 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 |
 | 4 | [คนเก่ง](https://open.spotify.com/track/1st1g6SUQ0iy8TPFhI0Ibk) | [GAIKAI](https://open.spotify.com/artist/2tjF5O9fXbcqYq8O1lIVti) | [คนเก่ง](https://open.spotify.com/album/7w0Ey9uDSG6Z5rY7SoS4ff) | 4:11 |
 | 5 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,735 likes - 94 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,831 likes - 94 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

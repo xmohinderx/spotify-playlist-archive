@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Photo : Alfa Mist
+> The best jazz new releases\. Photo : Paul Carrack
 
 210 songs - 15 hr 26 min
 

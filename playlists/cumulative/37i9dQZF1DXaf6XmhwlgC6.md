@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-145 songs - 8 hr 8 min
+148 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 |  |
 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 | 2022-03-30 | 2022-11-18 |
 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 | 2022-05-25 |  |
+| [Ataraxis](https://open.spotify.com/track/2m33pIkWBFub681XX7uU2C) | [The Lauras](https://open.spotify.com/artist/74peGW942Kitctt6pBEeUg) | [Ataraxis](https://open.spotify.com/album/3hMe7PdgB6dGx5J7HEJWvb) | 2:05 | 2023-02-03 |  |
 | [Atmosphere](https://open.spotify.com/track/52KobVe0PXvMMU9ESnAkXd) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Atmosphere](https://open.spotify.com/album/4C5MzTipU7oYSj3KnXYrwu) | 3:35 | 2022-08-05 |  |
 | [Atria](https://open.spotify.com/track/6yilNMZLStaWK2GYrQcpwU) | [1975](https://open.spotify.com/artist/1yRlOpiyfl7iFmTsJk7Ih8) | [Within Dreams](https://open.spotify.com/album/4giZPgt3uuaszEfzqVinT7) | 1:46 | 2022-03-30 |  |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-03-30 |  |
@@ -57,6 +58,7 @@
 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
+| [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 | 2023-01-06 |  |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
 | [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 |  |
@@ -67,7 +69,7 @@
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-03-30 |  |
 | [Lost in Dreamland](https://open.spotify.com/track/5Ld0nTNShgRHfMC7iDyeTb) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Lost in Dreamland](https://open.spotify.com/album/7hUBfDIeGg5CRAQ0SdXtX1) | 3:09 | 2022-03-30 |  |
 | [lost in motions](https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lost in motions EP](https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT) | 2:33 | 2023-01-13 |  |
-| [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 |  |
+| [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 | 2023-02-04 |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 | 2022-03-30 | 2022-10-19 |
 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 | 2022-05-19 |  |
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
@@ -107,6 +109,7 @@
 | [Seven States Of Bliss](https://open.spotify.com/track/5nVOrxH8lgo3LF6AEUD2kP) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4cBhiK13JwxofI6s0guLk4) | 4:39 | 2022-10-21 |  |
 | [Silent Relief](https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Silent Relief](https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh) | 2:40 | 2022-06-24 |  |
 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 | 2022-03-30 |  |
+| [Slow Move](https://open.spotify.com/track/3mnAvzGT0DYm0pGxtJp5Yi) | [Amber Fall](https://open.spotify.com/artist/56KiUsVJcleCu44rnYvPh9) | [Slow Move](https://open.spotify.com/album/27jqdgUJaoV4Y6TZc7DOgt) | 2:30 | 2023-02-03 |  |
 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 |  |
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |

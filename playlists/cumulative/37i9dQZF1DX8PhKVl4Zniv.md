@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-72 songs - 6 hr 6 min
+74 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Parusha](https://open.spotify.com/track/2w84sKh0yf9v8iQHfIORJJ) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Passport](https://open.spotify.com/album/3qOYOM60FMN6fO2vgiPnC1) | 4:16 | 2022-06-01 |  |
 | [Past and Future](https://open.spotify.com/track/2UQLLdosLGV1Pzq8KxVrBJ) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Stanley Jordan](https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 4:42 | 2022-06-01 |  |
 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 | 2022-06-01 |  |
+| [Perihelion](https://open.spotify.com/track/7z3QoE9vzPQ63LeQ5Psyal) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e) | [Perihelion](https://open.spotify.com/album/0wYXxaoJtXKBzZFDEjhNGL) | 4:16 | 2023-02-03 |  |
 | [Pineapple](https://open.spotify.com/track/5Oi47usa5zPxOQNukvKcZ6) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:56 | 2022-09-30 |  |
 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 | 2022-06-01 |  |
 | [Rat Race](https://open.spotify.com/track/1n7F3VHwutsmLtIJkvApGF) | [Steve Gadd Band](https://open.spotify.com/artist/6fkgidiemSuq1JH28K50Mm), [Walt Fowler](https://open.spotify.com/artist/0zaC6HTwesZn36o2dLFo8p), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Steve Gadd Band](https://open.spotify.com/album/5obQrSfICxA2t8evZPrrax) | 6:35 | 2022-06-01 |  |
@@ -65,6 +66,7 @@
 | [Soulfood](https://open.spotify.com/track/7hKYe97oY5C9mnAUtvou0Z) | [Benny Greb](https://open.spotify.com/artist/5hjhUiwzXZliQMmqqkYT81) | [Moving Parts](https://open.spotify.com/album/0VsSMSEd9tg01yrYIVJgh0) | 6:02 | 2022-06-01 |  |
 | [Soundcheck and Whatnots](https://open.spotify.com/track/35W33iV87wL4cXAMt7ovFj) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/0W8OGpEZHGz1Raj2afoGGY) | 1:09 | 2022-06-01 | 2022-11-02 |
 | [Soundcheck and Whatnots](https://open.spotify.com/track/70e8x2PmWdnWZPlOW2PhGX) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/2EqaPqR7GfZLpOuEde7dLz) | 1:09 | 2022-06-01 |  |
+| [Tauro](https://open.spotify.com/track/1mvtvmFg5Ab7cdy6Jivk2o) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tauro](https://open.spotify.com/album/5UkBtDJAaJjft90eHO4xQR) | 2:20 | 2023-02-03 |  |
 | [The Force](https://open.spotify.com/track/5FKYuJaxm0VCJapvg9GuMd) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Crush](https://open.spotify.com/album/749KEYqwGaNxbkLIqM5cBO) | 3:41 | 2022-06-01 |  |
 | [The Joint](https://open.spotify.com/track/64QrWHRvVUuVZoxMYjeL2y) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:41 | 2022-06-01 |  |
 | [The Lost Foot](https://open.spotify.com/track/4tlQXwwmPcemImLrSFxD89) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:24 | 2022-06-01 |  |

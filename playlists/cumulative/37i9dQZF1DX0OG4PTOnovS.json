@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "The Joy",
+        "url": "https://open.spotify.com/album/3e4FoywIN5pXNnIYxLIXMN"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "The Joy",
+      "url": "https://open.spotify.com/track/22QlRiS7hgbG8O7A1cfbr3"
+    },
+    {
+      "album": {
         "name": "Bible Beats (For Little Feets)",
         "url": "https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw"
       },

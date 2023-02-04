@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 74601,
+  "description": "A new take on a classic sound. Cover: Jake Shears",
+  "num_followers": 74768,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDM3NWE1ZTM0N2ViZjAxNDlkZmQwOTkzZDcyMWE0NzY2",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDVkYjRmZmFlYjUzNGU1ODUzODU2NTFjYjJmMDMwNzcw",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Too Much Music",
+        "url": "https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        }
+      ],
+      "duration_ms": 278426,
+      "name": "Too Much Music",
+      "url": "https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N"
+    },
     {
       "added_at": "2023-01-20 04:00:00",
       "album": {
@@ -1755,22 +1771,6 @@
       "duration_ms": 156982,
       "name": "why don't you come on over?",
       "url": "https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "XCIII",
-        "url": "https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm"
-      },
-      "artists": [
-        {
-          "name": "Khwezi",
-          "url": "https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F"
-        }
-      ],
-      "duration_ms": 230985,
-      "name": "studio 54",
-      "url": "https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L"
     },
     {
       "added_at": "2022-02-25 05:02:00",

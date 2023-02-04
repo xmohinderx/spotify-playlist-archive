@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: \n Housefires",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Jenn Johnson of Bethel Music",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 318120,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/23moCdRWRPlLB5W1TXbNHL"
@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Best Thing (Stripped)",
+        "url": "https://open.spotify.com/album/5JH5geBZvgD3MDAg43Phal"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204939,
+      "name": "Best Thing - Stripped",
+      "url": "https://open.spotify.com/track/2qqFqyTvtNjKjW3cGQt1kM"
+    },
+    {
+      "album": {
         "name": "Bigger Than Impossible (Live)",
         "url": "https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc"
       },
@@ -839,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Are We There Yet? (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6sYp4E312yo75m3UfXyOOt"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339559,
+      "name": "Chariot - Two Palms Sessions",
+      "url": "https://open.spotify.com/track/327dDs4v50npSuWt01R2HO"
+    },
+    {
+      "album": {
         "name": "Christ Our King",
         "url": "https://open.spotify.com/album/6L1etH6wNOJF8SjEWsCYlL"
       },
@@ -876,7 +916,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
@@ -1176,7 +1216,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 307896,
       "name": "Delightful (The Sower Never Wastes A Tear)",
       "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
@@ -1844,7 +1884,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 225366,
       "name": "Halfway Empty - Live",
       "url": "https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye"
@@ -1972,6 +2012,50 @@
       "duration_ms": 295051,
       "name": "Here In Your Presence - Reimagined",
       "url": "https://open.spotify.com/track/55kdVwHvienF5al8VOPaq9"
+    },
+    {
+      "album": {
+        "name": "Holy (Live)",
+        "url": "https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331786,
+      "name": "Holy - Live",
+      "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/2JwB3Yt5cMn7OarX81VkFa"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/4WFQuYCno9UqHi7NrCKWUh"
     },
     {
       "album": {
@@ -2546,6 +2630,28 @@
       "duration_ms": 707149,
       "name": "I'm Gonna Worship (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live From Passion 2023)",
+        "url": "https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L"
     },
     {
       "album": {
@@ -3217,6 +3323,28 @@
     },
     {
       "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335849,
+      "name": "Lamb of God - Live",
+      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "album": {
         "name": "Leaning",
         "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
@@ -3564,7 +3692,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
@@ -3710,7 +3838,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 399579,
       "name": "Never Run Dry",
       "url": "https://open.spotify.com/track/68PwIdOCOyGYRSj9sYTirq"

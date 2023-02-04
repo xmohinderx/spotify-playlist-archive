@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Baltra
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,220 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,225 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 46 | [Without You](https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Without You](https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g) | 3:17 |
 | 47 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 |
 | 48 | [Al\-Duqqi](https://open.spotify.com/track/7rbVUjN7DrpP1i1fwzCTRR) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Immigrant](https://open.spotify.com/album/0ZDQ0XnPQHZ0FnZcs1pWnm) | 2:59 |
-| 49 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
+| 49 | [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 |
 | 50 | [EMBER\_dnb\_edit001](https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:42 |
 | 51 | [Temple Ball](https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Artefacts](https://open.spotify.com/album/3Z8SR7Wc9EETlyQoPRZnx3) | 5:34 |
 | 52 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Face](https://open.spotify.com/track/7gw9TJqZ4e16o6EeQFGChk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Face](https://open.spotify.com/album/6NehSz7c2uXH4uQYN2qX70) | 3:36 |
 | 70 | [Jump Code](https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [FREE002](https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB) | 5:56 |
 
-Snapshot ID: `MTY3NTM0MjgwMCwwMDAwMDAwMDAzYTU4N2RiZDc4MWQ3NDcyMGNiNzU0YWRmNzdhNWY1`
+Snapshot ID: `MTY3NTM0MjgwMCwwMDAwMDAwMDU0NWExMjQwYjAwZmU1ZjZhYTZmYjBiOGQ2ZTI2MTNk`

@@ -1,13 +1,29 @@
 {
   "description": "Just chill.",
-  "num_followers": 2404794,
+  "num_followers": 2405238,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NjE0MCwwMDAwMDAwMDZkNmYxMGRkNWE1NzFiNDc3NmQyYTM2ZGFkYzAzNjBj",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDA0YzJkZGJlMTFiM2ZlNjZlOTZiY2ZiMjIxOTUxYWVj",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "No Words",
+        "url": "https://open.spotify.com/album/1USFZq9vbmoTyYfWdH1JtP"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "No Words",
+      "url": "https://open.spotify.com/track/0wjkGB4cICc48iBCWbwr6t"
+    },
     {
       "added_at": "2022-12-23 19:37:42",
       "album": {
@@ -65,6 +81,22 @@
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "J'aime les filles",
@@ -111,6 +143,22 @@
       "duration_ms": 89616,
       "name": "meet me in brooklyn",
       "url": "https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "comfortable silence",
+        "url": "https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        }
+      ],
+      "duration_ms": 59999,
+      "name": "braincells",
+      "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
     },
     {
       "added_at": "2022-10-08 00:29:29",
@@ -2239,22 +2287,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "The Shaman",
         "url": "https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir"
       },
@@ -2415,22 +2447,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "peppermint",
-        "url": "https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 132915,
-      "name": "peppermint",
-      "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Sun is going down",
         "url": "https://open.spotify.com/album/5ybhHe6n1NG337HnTFeBvj"
       },
@@ -2559,22 +2575,6 @@
       "duration_ms": 186250,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm"
     },
     {
       "added_at": "2022-08-19 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Nu\-Disco](https://open.spotify.com/playlist/37i9dQZF1DXattPCMpISJh)
 
-> A new take on a classic sound\. Cover: The Jack Moves
+> A new take on a classic sound\. Cover: Jake Shears
 
-147 songs - 8 hr 58 min
+148 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Something Bout The Night](https://open.spotify.com/track/0O2Nc2MkQt84yGHXfzdjZ0) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [Something Bout The Night](https://open.spotify.com/album/1v1M8ZcUdJTQTW5jld2Cjk) | 3:13 | 2021-08-20 | 2023-01-21 |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/1hlwWbnyFeLayYT2AxKoFS) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Starlight](https://open.spotify.com/album/2vIW6gdHZ7SxBfWOPonMui) | 3:50 | 2022-04-22 |  |
 | [Stop \- Soulpersona 'Red Light' Remix](https://open.spotify.com/track/2iDvUs9u03xKp7bxVaaOeV) | [Princess Freesia](https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER), [Soulpersona](https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362) | [Stop \(Soulpersona 'Red Light' Remix\)](https://open.spotify.com/album/3VRjmxJeIugxi2wclgXU9O) | 4:32 | 2022-09-09 |  |
-| [studio 54](https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L) | [Khwezi](https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F) | [XCIII](https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm) | 3:50 | 2022-03-04 |  |
+| [studio 54](https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L) | [Khwezi](https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F) | [XCIII](https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm) | 3:50 | 2022-03-04 | 2023-02-04 |
 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 | 2022-07-29 |  |
 | [Sunshine](https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Sunshine](https://open.spotify.com/album/1ATx0b2ZqFx0RRFMdRBRgV) | 3:16 | 2022-07-01 | 2022-10-22 |
 | [Take Me Closer](https://open.spotify.com/track/1GeS67D5dZInyYe7Ctlc1L) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Ciceley Fullylove](https://open.spotify.com/artist/30C0JXNb7kmaTyJLh3INZZ) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 5:29 | 2021-08-13 | 2022-09-10 |
@@ -141,6 +141,7 @@
 | [Time Travlr](https://open.spotify.com/track/7sCeITmY2JvWqfvi9rZNf9) | [Rhythm&Truth](https://open.spotify.com/artist/0QIHW98V3e4bOsrhBpUGn7), [Jessie Wagner](https://open.spotify.com/artist/1GOWkEyghfYevfkCg4yych) | [Time Travlr](https://open.spotify.com/album/1lGubcIoHy2L1Xx8PSKbt1) | 4:00 | 2022-08-05 |  |
 | [too good to be true](https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [r u sure?](https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63) | 2:49 | 2022-05-06 |  |
 | [too good to be true](https://open.spotify.com/track/6Mvwjlm2S7CBP1aGOrO1rE) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [why u gotta do me like that](https://open.spotify.com/album/4KEUpcjbXpqWxzkd4Wr9B9) | 2:49 | 2022-05-06 | 2022-08-13 |
+| [Too Much Music](https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Too Much Music](https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP) | 4:38 | 2023-02-03 |  |
 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 | 2022-07-08 |  |
 | [Turn Back Time \(feat\. Alexandra Prince\)](https://open.spotify.com/track/5ZPVXbxtab4liZabBCMiUV) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Blurry Dreams Of You](https://open.spotify.com/album/5dimhizjBzHvYXDbc9IQpf) | 3:22 | 2021-07-16 | 2022-09-03 |
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 |  |

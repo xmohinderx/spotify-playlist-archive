@@ -1,13 +1,29 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 4783,
+  "num_followers": 4823,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgxMTg5MCwwMDAwMDAwMGI0OTIwMjU4MWZjNzY3ZjJiMjdiZTFjNjcyM2RmNmI3",
+  "snapshot_id": "MTY3NTM5OTAwMSwwMDAwMDAwMGI0NTg3MDI0NDNkZjY4YzM2MmE4NjczZDAyMjlkNjA5",
   "tracks": [
+    {
+      "added_at": "2023-02-03 04:36:41",
+      "album": {
+        "name": "Chal\u00e9",
+        "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "duration_ms": 374009,
+      "name": "Chal\u00e9",
+      "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
+    },
     {
       "added_at": "2023-01-27 09:31:30",
       "album": {
@@ -303,6 +319,30 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2023-02-03 04:36:41",
+      "album": {
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/0ceNIR1fRMz6vRGvccv3eS"
+      },
+      "artists": [
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "duration_ms": 378978,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC"
     },
     {
       "added_at": "2023-01-27 09:31:30",
@@ -907,34 +947,6 @@
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
-    {
-      "added_at": "2023-01-27 09:31:30",
-      "album": {
-        "name": "Trigger (feat. BL Zero, Lebzito & Prime De 1st)",
-        "url": "https://open.spotify.com/album/3rjR73iW0r9O9jJL7nlB0o"
-      },
-      "artists": [
-        {
-          "name": "Dj Karri",
-          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
-        },
-        {
-          "name": "BL Zero",
-          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
-        },
-        {
-          "name": "Lebzito",
-          "url": "https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q"
-        },
-        {
-          "name": "Prime De 1st",
-          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
-        }
-      ],
-      "duration_ms": 393711,
-      "name": "Trigger (feat. BL Zero, Lebzito & Prime De 1st)",
-      "url": "https://open.spotify.com/track/0g2Jq33AKKOv8iJ4RQsGQ9"
     },
     {
       "added_at": "2023-01-27 09:31:30",
@@ -1683,22 +1695,6 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2023-01-27 09:31:30",
-      "album": {
-        "name": "Konibaje",
-        "url": "https://open.spotify.com/album/2T4eR1rRBuQuCASPrzr083"
-      },
-      "artists": [
-        {
-          "name": "Skales",
-          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
-        }
-      ],
-      "duration_ms": 176836,
-      "name": "Konibaje",
-      "url": "https://open.spotify.com/track/7KvL1yYQfJ63Qp0d56gaPm"
     },
     {
       "added_at": "2023-01-27 09:31:30",

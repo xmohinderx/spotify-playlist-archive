@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-310 songs - 1 day 4 hr 58 min
+311 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Focus on the Magick](https://open.spotify.com/track/6hKBt7A9eOAEwDbLerLYEJ) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [Magick Songs](https://open.spotify.com/album/3Jwzv57SMQbXKIbCDs37YW) | 5:40 | 2021-07-30 | 2023-01-26 |
 | [Footsteps](https://open.spotify.com/track/3EtjS7DEL3A4Keq82vsC2r) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/4uUhmFHwJVcfGbRWjcfVUf) | 5:19 | 2021-07-30 | 2022-07-29 |
 | [Footsteps](https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg) | 5:19 | 2021-07-30 |  |
-| [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 | 2021-07-30 |  |
+| [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 | 2021-07-30 | 2023-02-04 |
 | [French Disko](https://open.spotify.com/track/0C03B3oqKkoGVrNqgWjkqB) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6e9SIhpwUY4B3oyVT2W7bW) | 3:35 | 2021-07-30 | 2022-07-29 |
 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 | 2021-07-30 | 2023-01-26 |
 | [Fórmula](https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [A Group Called CoBrA](https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn) | 4:33 | 2021-07-30 | 2023-01-26 |
@@ -313,10 +313,11 @@
 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 | 2021-07-30 |  |
 | [Yatton](https://open.spotify.com/track/4hJ2xsk7ZxwzXnE6xG7HNc) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/19YlMqnryuKS17RYZ23jvm) | 5:19 | 2021-07-30 | 2022-07-29 |
 | [Yaya](https://open.spotify.com/track/6cy5LOfwc1QpePCqc57hd0) | [Sam Wave](https://open.spotify.com/artist/3k1f8dYJ88kt4aTPMb2hLj) | [Yaya](https://open.spotify.com/album/17M7xCoG5snzUFfZwltiXH) | 4:11 | 2021-07-30 | 2023-01-26 |
+| [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:22 | 2021-07-30 |  |
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/559261quLx4Iuiz1PjmvgY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 3:22 | 2021-07-30 | 2023-02-02 |
 | [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/691HbefeRbA751TYr9PCGJ) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/3tPGDPk4zOrdlBsuS01jci) | 5:34 | 2021-07-30 | 2023-02-02 |
-| [Échale Campeón](https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 3:28 | 2021-10-21 | 2023-01-26 |
+| [Échale Campeón](https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 3:28 | 2021-10-21 |  |
 | [Échale Campeón](https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 3:28 | 2021-10-21 | 2022-12-13 |
-| [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 | 2021-07-30 |  |
+| [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 | 2021-07-30 | 2023-02-04 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-184 songs - 10 hr 55 min
+186 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 | 2022-12-08 |  |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 |  |
+| [As I Turn Away](https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv) | [Jack Hammer Band](https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ) | [As I Turn Away](https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS) | 4:35 | 2023-02-03 |  |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 | 2022-09-03 |
 | [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 | 2022-04-28 | 2023-01-13 |
 | [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 | 2022-11-13 |
@@ -89,6 +90,7 @@
 | [I Never Listen When You Speak](https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [I Never Listen When You Speak](https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN) | 2:35 | 2022-03-17 | 2022-07-22 |
 | [In Die Son](https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Braambos Radio](https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal) | 3:45 | 2023-01-26 |  |
 | [In Search of Better Days](https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 4:44 | 2021-09-23 | 2022-04-01 |
+| [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 |  |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
@@ -149,7 +151,7 @@
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-11-17 |  |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 | 2022-11-22 |
-| [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 | 2022-08-04 |  |
+| [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 | 2022-08-04 | 2023-02-04 |
 | [Socks On Astroturf](https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [The Boys Scribbled Like Mad](https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX) | 7:22 | 2022-11-24 |  |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |

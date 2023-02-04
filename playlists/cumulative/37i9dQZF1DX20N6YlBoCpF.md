@@ -4,7 +4,7 @@
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=uf9dJoJvSKK\-Six6oWR6eQ">Droomsindroom</a>
 
-215 songs - 12 hr 5 min
+216 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-02 |  |
 | [Ek Sweer](https://open.spotify.com/track/0bKQ30YXdpjZ6eT29K0c1z) | [Twee](https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG) | [Piekniek Vir Twee](https://open.spotify.com/album/2N1ph4s0uznzZ2ImoTXGig) | 3:46 | 2022-12-27 | 2023-01-02 |
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 |  |
+| [Ek Val Vir Jou](https://open.spotify.com/track/7coFUDGsxVm43klKOjPv5e) | [Luna](https://open.spotify.com/artist/2zlCBc9tFR522ZdWzK5Zhs) | [Ek Val Vir Jou](https://open.spotify.com/album/2NMfcwu5iKdQ0ctw87TjZM) | 3:25 | 2023-02-03 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 |  |
 | [En Dan Dans Ons \- Radio Edit](https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [En Dan Dans Ons \(Radio Edit\)](https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r) | 3:25 | 2022-12-01 | 2023-01-20 |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 |  |
@@ -179,7 +180,7 @@
 | [Sonskyn](https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Sonskyn](https://open.spotify.com/album/11xQmc2iXHJMcJ9pL8CPVL) | 2:56 | 2022-10-20 | 2022-12-09 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
 | [Spicy](https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Spicy](https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf) | 2:49 | 2022-10-13 | 2022-10-28 |
-| [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 |  |
+| [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 | 2023-02-04 |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-28 |
 | [Sterre Brand](https://open.spotify.com/track/1xT34fo4r7js5GIDpybGgb) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Sterre Brand](https://open.spotify.com/album/6qh0I1uJKdu9mZMKUQBmDC) | 3:35 | 2022-12-27 | 2023-01-02 |
 | [Suiderkruis](https://open.spotify.com/track/2gpZFeb0JcmHvTdXVIilW5) | [Red Sheep](https://open.spotify.com/artist/0bbA7qEn8IvbHSfdtgpwBt) | [Suiderkruis](https://open.spotify.com/album/7KDVfeBwV71kAoXBdaW67l) | 4:08 | 2022-12-27 | 2023-01-02 |

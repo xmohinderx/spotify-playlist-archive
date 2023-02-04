@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 ### [Disney Junior Hits](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
+> Sing\-along with your favorite songs from Disney Junior shows including new music from Spidey and His Amazing Friends! Watch now on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,130 likes - 164 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,162 likes - 164 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 163 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 164 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MTY3NDgzNjk0MiwwMDAwMDAwMGI5YTIwNTY2Y2E4MGY3NmMwMGJkYzg3YWI5ZDRjZjk4`
+Snapshot ID: `MTY3NTQzNjI5MiwwMDAwMDAwMGFmZjk0N2FmNDdiMjQzMTI2YTFlNjI5NjY5MzIyYTg4`

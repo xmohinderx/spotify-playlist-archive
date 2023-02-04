@@ -6156,7 +6156,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 252846,
       "name": "Epiloges - Prod. By Skive",
       "url": "https://open.spotify.com/track/3vKqBFEJWVtJ4rQQLt3Dbe"
@@ -9904,7 +9904,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -10500,6 +10500,28 @@
       "duration_ms": 213230,
       "name": "La Liberta",
       "url": "https://open.spotify.com/track/3nOrMuwWKGa0JWzfQHHRM2"
+    },
+    {
+      "album": {
+        "name": "Lamborghini Weiss",
+        "url": "https://open.spotify.com/album/6tB6wvHUa99qQv9lTihIST"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141108,
+      "name": "Lamborghini Weiss",
+      "url": "https://open.spotify.com/track/60zQyrq9mbhlE4YxTkudjO"
     },
     {
       "album": {
@@ -19449,6 +19471,24 @@
     },
     {
       "album": {
+        "name": "Tik Tak",
+        "url": "https://open.spotify.com/album/1fVCIQYct98eQTkqVqYobg"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143052,
+      "name": "Tik Tak",
+      "url": "https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx"
+    },
+    {
+      "album": {
         "name": "Tilefono",
         "url": "https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC"
       },
@@ -19540,7 +19580,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 164166,
       "name": "TIRANA",
       "url": "https://open.spotify.com/track/1zVSvXZbu4P5JTUzM3PmlZ"
@@ -20606,7 +20646,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

@@ -1,6 +1,6 @@
 {
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Hooligan Hefs, Celina Sharma",
-  "num_followers": 136140,
+  "num_followers": 136175,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-02 15:01:43",
       "album": {
+        "name": "MOTY",
+        "url": "https://open.spotify.com/album/6PdI549jk5EIY6BwmXGLWI"
+      },
+      "artists": [
+        {
+          "name": "RAAJ",
+          "url": "https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "MOTY",
+      "url": "https://open.spotify.com/track/1AMzdozGrdVBSUmufcyISt"
+    },
+    {
+      "added_at": "2023-02-02 15:01:43",
+      "album": {
         "name": "Summer Jam",
         "url": "https://open.spotify.com/album/5IGDqI2xqiTkVq9RBwYyFw"
       },
@@ -905,7 +921,7 @@
       "artists": [
         {
           "name": "Jono The Six",
-          "url": "https://open.spotify.com/artist/70xrtywVPXYqs3dkIUUME8"
+          "url": "https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR"
         },
         {
           "name": "JAHMED",

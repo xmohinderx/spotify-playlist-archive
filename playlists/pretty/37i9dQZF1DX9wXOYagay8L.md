@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=5fj2DByHS9\-EmIcM78mH1w">Brenda Mtambo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,433 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,527 likes - 49 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

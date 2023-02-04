@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Thaiane Seghetto
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Felipe Vilela
 
-85 songs - 5 hr 14 min
+87 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 | 2022-08-05 |  |
 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 | 2022-10-14 |  |
 | [Amor Leal](https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN) | [Lari Macário](https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Dani Aguiar](https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA) | [Amor Leal](https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd) | 3:02 | 2022-08-05 |  |
-| [Amor Maior](https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Ao Que É Até Meu Último Suspiro](https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj) | 3:43 | 2022-10-08 |  |
+| [Amor Maior](https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Ao Que É Até Meu Último Suspiro](https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj) | 3:43 | 2022-10-08 | 2023-02-04 |
 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 | 2022-08-05 |  |
 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 | 2022-08-05 |  |
 | [Aprendiz](https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Aprendiz](https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg) | 3:42 | 2022-08-05 |  |
@@ -44,6 +44,7 @@
 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 | 2022-08-05 |  |
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 |  |
 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 |  |
+| [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 |  |
 | [GPS](https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [GPS](https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b) | 3:35 | 2022-08-05 |  |
 | [Infinitamente Mais](https://open.spotify.com/track/56Dnb2DiKv5NMfUdNi4cEK) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Infinitamente Mais](https://open.spotify.com/album/2fXIyecuAPscFk25k9Lawy) | 3:43 | 2022-08-05 |  |
 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 | 2022-08-05 |  |
@@ -57,6 +58,7 @@
 | [Mude as Coisas do Meu Coração](https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Mude as Coisas do Meu Coração](https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA) | 2:45 | 2022-08-05 |  |
 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 | 2022-08-05 |  |
 | [Neste Lugar](https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Isaac Felix](https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a) | [Neste Lugar](https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0) | 5:14 | 2022-08-05 |  |
+| [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 | 2023-02-03 |  |
 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 | 2022-08-05 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe) | [Louisy Cim](https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et) | [Pequenas Coisas](https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ) | 2:39 | 2022-08-05 |  |
 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 | 2022-08-05 |  |
@@ -68,7 +70,7 @@
 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 | 2022-08-05 |  |
 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 | 2022-08-05 |  |
 | [Saudade de Cristo](https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Saudade de Cristo](https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5) | 4:56 | 2022-08-05 |  |
-| [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2022-08-05 |  |
+| [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2022-08-05 | 2023-02-04 |
 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 |  |
 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 | 2022-08-05 |  |
 | [Sopro de Deus](https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Sopro de Deus](https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c) | 4:21 | 2022-08-05 |  |

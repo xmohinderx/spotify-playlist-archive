@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\. Cover RAYE
 
-164 songs - 8 hr 15 min
+165 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Likkle Darling](https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Likkle Darling](https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9) | 1:54 | 2022-02-11 | 2023-01-28 |
 | [LIVE IN PEACE](https://open.spotify.com/track/5akqedZnI6PLnLaPx7XpRc) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [LIVE IN PEACE](https://open.spotify.com/album/2i7Fy1BWP7ChblX0lSCpQf) | 2:41 | 2022-02-11 | 2023-01-28 |
 | [Magic](https://open.spotify.com/track/0NXMaUbxBS5D46rbJbIxBu) | [Cheakaity](https://open.spotify.com/artist/6OTLobTSZvTX3ADbYXqfyP), [Blaze Unltd](https://open.spotify.com/artist/334DCv4xmqT6FocLsfALzL), [ThaMyind](https://open.spotify.com/artist/2yOsQTZa1ENCSSNAAINKb0) | [Magic](https://open.spotify.com/album/2hNESHa898AyGbkKMYbvRI) | 2:12 | 2022-02-25 | 2023-01-28 |
+| [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 | 2023-02-03 |  |
 | [Middle Ground \(feat\. CHIKA\)](https://open.spotify.com/track/5nGpC4ho50ESHj30ocN3sV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:43 | 2022-02-04 | 2023-01-28 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2022-04-22 | 2023-01-28 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2022-02-04 | 2022-07-29 |

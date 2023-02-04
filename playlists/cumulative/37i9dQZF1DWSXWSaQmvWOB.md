@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-617 songs - 1 day 13 hr 55 min
+618 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Miracles](https://open.spotify.com/track/3Z4m4bw6t1LTM09WfrXfPc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/42T1PWZl6NilUzBk3vCXoz) | 4:51 | 2021-04-17 | 2022-07-29 |
 | [Misdirection](https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Misdirection](https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD) | 3:29 | 2021-09-24 | 2022-12-03 |
 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 | 2021-07-08 | 2022-09-23 |
+| [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 | 2023-01-30 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-10 |  |
 | [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 | 2021-03-14 | 2021-04-23 |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2020-03-25\* | 2020-11-13 |
@@ -399,7 +400,7 @@
 | [Own Me](https://open.spotify.com/track/0NYd1Gbv9zXS3w1oSzzBA7) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 3:37 | 2021-09-24 | 2022-01-28 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-08-25 |
 | [Parachutes](https://open.spotify.com/track/1FLl9H98n8TVPqGvPACnUq) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Parachutes](https://open.spotify.com/album/3cs8uoEmn3QNbUYfuJ1Jx5) | 3:43 | 2020-03-25\* | 2020-08-25 |
-| [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 |  |
+| [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 | 2023-02-04 |
 | [Paris](https://open.spotify.com/track/0ZVgf0hXL2hdrhNbZ0DYdI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Paris](https://open.spotify.com/album/6db4NbMyKv2N0HGPngeN4a) | 2:55 | 2022-10-14 | 2022-12-02 |
 | [Patience](https://open.spotify.com/track/0v8AGlTcou0f49oeaJkfSR) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:09 | 2020-03-25\* | 2020-10-30 |
 | [Peace by Piece](https://open.spotify.com/track/3aWxO57NUJM1StrCzJLflQ) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Peace by Piece](https://open.spotify.com/album/2y5IH8hmjixAvhff4XdNiI) | 3:02 | 2020-12-05 | 2021-04-17 |

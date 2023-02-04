@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "down in delhi",
+        "url": "https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz"
+      },
+      "artists": [
+        {
+          "name": "slowvibe",
+          "url": "https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "down in delhi",
+      "url": "https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre"
+    },
+    {
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/4lGrY9glvKimde5O26PJng"
       },
@@ -2470,6 +2488,24 @@
       "duration_ms": 121300,
       "name": "Feather",
       "url": "https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK"
+    },
+    {
+      "album": {
+        "name": "feeling lost",
+        "url": "https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN"
+      },
+      "artists": [
+        {
+          "name": "fresh from the moon",
+          "url": "https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "feeling lost",
+      "url": "https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz"
     },
     {
       "album": {

@@ -483,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Are We There Yet? (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6sYp4E312yo75m3UfXyOOt"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339559,
+      "name": "Chariot - Two Palms Sessions",
+      "url": "https://open.spotify.com/track/327dDs4v50npSuWt01R2HO"
+    },
+    {
+      "album": {
         "name": "Christ And Christ Crucified (Live)",
         "url": "https://open.spotify.com/album/4r1B2UdNtZaIRtT3R6zziN"
       },
@@ -2041,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "I've Witnessed It (Live From Passion 2023)",
+        "url": "https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L"
+    },
+    {
+      "album": {
         "name": "If I Could Have Anything",
         "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
       },
@@ -2126,6 +2170,32 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
+    },
+    {
+      "album": {
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/7rGYXpltwbc6lvQn1DG2RH"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE WORSHIP",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Whitney Wood",
+          "url": "https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451576,
+      "name": "In Everything",
+      "url": "https://open.spotify.com/track/0JRnlk8bcBEjAA955NCkr7"
     },
     {
       "album": {
@@ -2364,7 +2434,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 583300,
       "name": "Just Like Jesus",
       "url": "https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq"

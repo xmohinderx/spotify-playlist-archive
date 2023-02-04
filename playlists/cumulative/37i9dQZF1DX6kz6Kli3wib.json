@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Close 2 You",
+        "url": "https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1"
+      },
+      "artists": [
+        {
+          "name": "dim figure",
+          "url": "https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Close 2 You",
+      "url": "https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8"
+    },
+    {
+      "album": {
         "name": "Coalesced",
         "url": "https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt"
       },
@@ -2921,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Packing",
+        "url": "https://open.spotify.com/album/43RJIf3KRrDg92P6YTtwwR"
+      },
+      "artists": [
+        {
+          "name": "Ash Spark",
+          "url": "https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Packing",
+      "url": "https://open.spotify.com/track/7oA7o9GBQfEI3kqST4Jnuf"
+    },
+    {
+      "album": {
         "name": "Palm Beach",
         "url": "https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE"
       },
@@ -4120,7 +4156,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 132080,
       "name": "u shine",
       "url": "https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd"

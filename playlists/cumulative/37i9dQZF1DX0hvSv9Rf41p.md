@@ -2,9 +2,9 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with SLANDER, Alison Wonderland & Said The Sky.
+> All things <a href="spotify:genre:bass">bass</a> with Skrillex.
 
-417 songs - 1 day 0 hr 18 min
+419 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Unbreakable](https://open.spotify.com/track/0lh3n2HWKOKluhmYgCEURe) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Unbreakable](https://open.spotify.com/album/28sXVX0LaJ29sM8nk5vneB) | 2:46 | 2022-10-21 |  |
 | [Underworld](https://open.spotify.com/track/3YxPfvBBeiPKhgeLVkVoKm) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV) | [Underworld](https://open.spotify.com/album/2zRF8Qd25mEHEyS73DfKya) | 3:54 | 2022-01-28 | 2022-08-06 |
 | [Underworld](https://open.spotify.com/track/4BTB05eNs4LPKAiel1n05F) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Empire EP](https://open.spotify.com/album/1P0P3ZxsrI0FYPVaHgq7rL) | 3:39 | 2021-12-17 | 2022-02-19 |
+| [Unity](https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Unity](https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4) | 2:48 | 2023-02-04 |  |
 | [Unlucky](https://open.spotify.com/track/0J1LHPRO4y7yDRFscEaOGk) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Unlucky](https://open.spotify.com/album/5kjNh7pX5W5TgFdRpJ5XSp) | 4:00 | 2021-12-17 | 2022-02-15 |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-18 | 2022-12-03 |
 | [Valhalla](https://open.spotify.com/track/7dWef6DMTYxClvMzObXrE3) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Valhalla](https://open.spotify.com/album/010aOeZeXdgryXu1OKwIDc) | 3:17 | 2021-12-17 | 2022-02-19 |
@@ -424,6 +425,7 @@
 | [Without Me \(feat\. Danni Carra\)](https://open.spotify.com/track/0GY4AXqzFomDzUGtoSXB3e) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Lost](https://open.spotify.com/album/0zb5kcAv2hIbkQpGiBa9UU) | 4:26 | 2021-12-17 | 2022-02-19 |
 | [Without You](https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Without You](https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM) | 3:45 | 2022-02-25 | 2023-01-04 |
 | [Worst Enemy](https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Worst Enemy](https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk) | 2:37 | 2022-06-10 | 2022-09-03 |
+| [Xena](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Xena](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-02-04 |  |
 | [Zest Please](https://open.spotify.com/track/3VhngLAWsDigMXslv72LnT) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF) | [Zest Please](https://open.spotify.com/album/4xo4jfgh25UO6deIa3kC5A) | 3:12 | 2021-12-17 | 2022-02-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

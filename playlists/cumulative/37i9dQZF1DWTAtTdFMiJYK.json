@@ -398,10 +398,28 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 222331,
       "name": "Barsatein",
       "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
+    },
+    {
+      "album": {
+        "name": "Barsatein",
+        "url": "https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222331,
+      "name": "Barsatein",
+      "url": "https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T"
     },
     {
       "album": {
@@ -530,6 +548,28 @@
       "duration_ms": 196233,
       "name": "Betahasha",
       "url": "https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it"
+    },
+    {
+      "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN"
+      },
+      "artists": [
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
     },
     {
       "album": {
@@ -784,7 +824,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 195421,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
@@ -3279,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV"
+    },
+    {
+      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC"
       },
@@ -3996,7 +4054,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 242857,
       "name": "Yahan",
       "url": "https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh"

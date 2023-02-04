@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Kyrus, Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Bugs, Artwork: Isu Kim
 
-695 songs - 1 day 18 hr 5 min
+698 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Ibalik Ang Sandali](https://open.spotify.com/track/5OBQ6YEGecRifkCRRqj2sh) | [Chantal Salonga](https://open.spotify.com/artist/2AXiSomDJBAE14VahoT1DZ) | [Ibalik Ang Sandali](https://open.spotify.com/album/0UB1ND1rTUEvJLEzSa5auq) | 3:03 | 2022-11-03 |  |
 | [iced coffee](https://open.spotify.com/track/0X1TGDxsbg4wMvchxVRujQ) | [Seann Jefferson](https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv) | [iced coffee](https://open.spotify.com/album/3aUfuhPH4dJEflkUjr1nBX) | 1:49 | 2022-07-28 | 2022-09-09 |
 | [If I Danced a Little Longer](https://open.spotify.com/track/6pYfAQVN2hmF8GxBTuyZE2) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [If I Danced a Little Longer](https://open.spotify.com/album/0TiQSXj1Jviq7lYeANDXgl) | 3:10 | 2022-07-14 | 2022-09-09 |
+| [If I Stay](https://open.spotify.com/track/5orORQ2flXw1sALhl2duvx) | [Southern Lights](https://open.spotify.com/artist/33wLJl2TFmw8mEDztLnG2F) | [If I Stay](https://open.spotify.com/album/7viBR4NGYOevB1TMwgWbVH) | 4:22 | 2023-02-03 |  |
 | [if it's you](https://open.spotify.com/track/3l4CLionIkejhdXqVbSjlz) | [corazon](https://open.spotify.com/artist/0I8hb4wojjiRmXHUqAyRFo) | [if it's you](https://open.spotify.com/album/7fXsyBwFSuiOb1UbW6svCq) | 3:23 | 2023-01-12 |  |
 | [If You Want Me To](https://open.spotify.com/track/51QmaygTUpSMi5w1fFrGDx) | [Hook, Line & Sinker](https://open.spotify.com/artist/1Xwyd9t9K4ReQ6Y4kV2Xnk) | [If You Want Me To](https://open.spotify.com/album/74J2yGWuxko5HmXVV3BIgj) | 2:32 | 2022-04-07 | 2022-04-22 |
 | [Ignite](https://open.spotify.com/track/0NOVd1AMPWKmnvYAS8VOXZ) | [2 Wavy](https://open.spotify.com/artist/5RliiYKuid443aymavwt72) | [Ignite](https://open.spotify.com/album/2Umq8aoACHHhBsdjKaSojb) | 3:35 | 2022-03-10 | 2022-04-08 |
@@ -524,6 +525,7 @@
 | [Reading Day](https://open.spotify.com/track/0qcw7dZKwnvWZycNIr8A3z) | [Pamphleteer](https://open.spotify.com/artist/51tDDA4AfBA8LdQYhemni6) | [Two Novellas](https://open.spotify.com/album/7pH3wt2lH3QlUxPauoOLnA) | 2:05 | 2022-02-17 | 2023-01-13 |
 | [Real 1z](https://open.spotify.com/track/3bN4xSv8FyxT12MMgWpHTM) | [2 Wavy](https://open.spotify.com/artist/5RliiYKuid443aymavwt72) | [Real 1z](https://open.spotify.com/album/7eQS8U3zuxmmFUOdnoCTy5) | 3:44 | 2022-06-16 | 2022-07-29 |
 | [Reasons](https://open.spotify.com/track/0mhq0NkWdy5rMHd7JbYpS2) | [Rose Lovingco](https://open.spotify.com/artist/2s9k75SID9Jn6T64W8K3Sg) | [Few Feet Wide](https://open.spotify.com/album/7vBFU9Rp5GTSl3EH6jqPRc) | 3:53 | 2022-09-08 | 2022-10-14 |
+| [Reckless](https://open.spotify.com/track/7v9EXUIIfY04MYrTThX4Xw) | [Lilfina](https://open.spotify.com/artist/0tnC36MXlHHOQo2JnDmnTN) | [Reckless](https://open.spotify.com/album/6b9OPYJiLw4OIzBHN1tTiB) | 3:03 | 2023-02-03 |  |
 | [Reyna](https://open.spotify.com/track/6u8AEUICbMfg3kGt6PtaD2) | [The Kin Serotonin Geeks](https://open.spotify.com/artist/2FMOMbrklxqTwAtUvp19YA) | [Reyna](https://open.spotify.com/album/6lHI7OpN21Zw3n9lakneYf) | 3:30 | 2022-03-10 | 2022-04-01 |
 | [Rhythms](https://open.spotify.com/track/32CwzxEmCEK3bTxOyxHK9t) | [Signalgiant](https://open.spotify.com/artist/44Nu5YNDuInA3q27ilTQwC) | [Rhythms](https://open.spotify.com/album/5mJtK2Lqfrt46phaeA1JNM) | 4:48 | 2022-02-10 | 2022-04-01 |
 | [Right Back](https://open.spotify.com/track/58H8HW6a37LQlQZkspZAvy) | [Trescoda](https://open.spotify.com/artist/4A98hy3K6soG8jYlISrUhj) | [Right Back](https://open.spotify.com/album/3Jn802r3uBjv2xa4N3OJyo) | 3:14 | 2022-11-24 |  |
@@ -610,6 +612,7 @@
 | [Tahan Na](https://open.spotify.com/track/0m7pOyvve4OIgOUUEQJCVo) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Tahan Na](https://open.spotify.com/album/1eXSXdzyjzdS0bhFur8QOt) | 3:24 | 2022-08-11 | 2022-12-01 |
 | [Tamachine](https://open.spotify.com/track/4tHzpmo3iYWbo5sgtbCe0Z) | [Letrang Norte](https://open.spotify.com/artist/5iTqe9oNgs5E3Wm4W3hFKq) | [Tamachine](https://open.spotify.com/album/2YxNU91VcUPI1N9wtEFM47) | 3:48 | 2022-02-03 | 2023-01-13 |
 | [Tanging Ikaw](https://open.spotify.com/track/0hTzKx2QWfyVMSyUevmULK) | [Teejay](https://open.spotify.com/artist/6MhlikvuEsNsYJEKUK4QOg), [JBryle](https://open.spotify.com/artist/4od3iaR0GxrNwlOGyH4sV1) | [Tanging Ikaw](https://open.spotify.com/album/62sBvZDSLkc7dgtYpJ8pcQ) | 3:46 | 2022-01-20 | 2022-02-11 |
+| [Tara](https://open.spotify.com/track/3NimYBOYLIibQkGYqfJ5S5) | [Eloisa](https://open.spotify.com/artist/5mDsFqB6IM7KUbrk9pOZEF) | [Tara](https://open.spotify.com/album/4uRICr5wvf7MgUROIdrAwB) | 3:47 | 2023-02-03 |  |
 | [Tawag](https://open.spotify.com/track/7wJPmNScI8Qbd8YbxetOQO) | [E$ RA](https://open.spotify.com/artist/6QuJbpyw6BIpTb1nkPHOET), [iHO](https://open.spotify.com/artist/1d9EAensleM1llhoC89OET) | [Tawag](https://open.spotify.com/album/6rYnzzwfZIoJsaoQKosbA3) | 3:59 | 2022-01-13 | 2022-01-21 |
 | [Taylor](https://open.spotify.com/track/12XdNKTx96HJSKQTCtDBOn) | [Aneka Abarrientos](https://open.spotify.com/artist/0alevSQDYm9TeTxdCTIEXw) | [Taylor](https://open.spotify.com/album/51Ldvvu9fzLq5WZ92y5UCt) | 3:47 | 2022-03-31 | 2022-04-22 |
 | [Tayo Na't Mag\-Funk](https://open.spotify.com/track/0n72tREm8MMS25WCiEPF9A) | [Brass Pas Pas Pas Pas](https://open.spotify.com/artist/732hX2NTZ4ndFxaLZNyjM0) | [Tayo Na't Mag\-Funk](https://open.spotify.com/album/1WnZUxX8xkNW58c1TCDm6a) | 4:49 | 2022-09-22 | 2022-10-14 |

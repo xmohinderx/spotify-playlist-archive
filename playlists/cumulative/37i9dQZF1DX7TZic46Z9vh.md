@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-110 songs - 7 hr 25 min
+111 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Mi Dulce Dama Maria Juana](https://open.spotify.com/track/6aJ6Gh8xOEyr5NSASi4gfr) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/2aPI3nlQ9h71HiktRGuKZK) | 3:20 | 2021-09-06 |  |
 | [Mi Juramento](https://open.spotify.com/track/7mV3hxL2j2xBhmXCv6mULs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Sirenas Al Ataque](https://open.spotify.com/album/4Yn1pX0PmCE6TtiksEOunF) | 3:56 | 2021-09-06 | 2022-07-25 |
 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 | 2021-09-06 |  |
-| [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 | 2021-09-06 | 2023-02-01 |
+| [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 | 2021-09-06 |  |
 | [My Way Is Love](https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT) | [La Division Del Norte](https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p) | [Division Del Norte](https://open.spotify.com/album/6FipROEDfMRlEN1WALqs1S) | 3:23 | 2021-09-06 | 2022-07-25 |
 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 | 2021-09-06 |  |
 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 | 2021-09-06 |  |
@@ -84,7 +84,8 @@
 | [Peace and Love](https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 2:19 | 2021-09-06 |  |
 | [Perro Negro y Callejero](https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:05 | 2021-09-06 |  |
 | [Pobre Nina](https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Los Nuggetz \- 60's Punk, Pop and Psychedelic From Latin America](https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7) | 1:53 | 2021-09-06 |  |
-| [Por Perderte](https://open.spotify.com/track/0MZkBBNYzHxAWMiJjpZHXy) | [La Tribu](https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 3:42 | 2021-09-06 |  |
+| [Por Perderte](https://open.spotify.com/track/0MZkBBNYzHxAWMiJjpZHXy) | [La Tribu](https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 3:42 | 2021-09-06 | 2023-02-04 |
+| [Por Perderte](https://open.spotify.com/track/7CJDxaHLJGG59AA4pjXIRG) | [La Tribu](https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0) | [Super Onda Chicana](https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR) | 3:42 | 2021-09-06 |  |
 | [Preludio de la Felicidad](https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 3:08 | 2021-09-06 |  |
 | [Purgatory \- Purgatorio](https://open.spotify.com/track/5thqRkLBPevaBp56QOd1LA) | [Lucifer](https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9) | [Lucifer](https://open.spotify.com/album/5RNzBhRf0NoQ9E6H6S6srh) | 4:18 | 2021-09-06 | 2022-07-07 |
 | [Regreso al Origen](https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:57 | 2021-09-06 | 2023-02-02 |
@@ -111,7 +112,7 @@
 | [The Call of the Woman \(El Llamado de la Hembra\)](https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:48 | 2021-09-06 |  |
 | [The Train](https://open.spotify.com/track/2NIALKJKHJM2EhGl6gUceq) | [Ernan Roch](https://open.spotify.com/artist/7JKMfqiuVmYy2HA1Qa0aM4) | [La Onda Pesada](https://open.spotify.com/album/7hJprvbxKW5vanPs6BC4Sq) | 4:27 | 2021-09-06 | 2022-07-28 |
 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 | 2021-09-06 |  |
-| [Todo Va a Cambiar](https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z) | [Tinta Blanca](https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 5:48 | 2021-09-06 |  |
+| [Todo Va a Cambiar](https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z) | [Tinta Blanca](https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 5:48 | 2021-09-06 | 2023-02-04 |
 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 | 2021-09-06 |  |
 | [Tú Eres Mi Amor](https://open.spotify.com/track/6W1u2Gd9UfQABT3d2BToHi) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa) | 3:27 | 2021-09-06 | 2022-07-29 |
 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 | 2021-09-06 |  |

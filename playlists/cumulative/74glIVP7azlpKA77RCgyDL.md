@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Slay Squad
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Year of the Knife
 
-317 songs - 20 hr 23 min
+323 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Brief Article Regarding Time Loops](https://open.spotify.com/track/7nBxfkl6GFczlHpUf1wetV) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [A Brief Article Regarding Time Loops](https://open.spotify.com/album/1YjnIyO6kAmGm2IhpaaU8o) | 3:17 | 2022-04-01 |  |
 | [A Decision](https://open.spotify.com/track/5BT95T4oqpHFyucEPB3RGu) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [A Glimpse Through the Lens](https://open.spotify.com/album/1O8PPgVoanU9dnpFBo8Btl) | 2:49 | 2022-02-18 |  |
 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 | 2022-05-20 |  |
+| [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-03 |  |
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 |  |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 |  |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 |  |
@@ -23,6 +24,7 @@
 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 |  |
 | [And How They Wept for Eternity](https://open.spotify.com/track/1gP2jBo31MGT9DySTFM4Lb) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [And How They Wept for Eternity](https://open.spotify.com/album/6jSttvdT0rvDv2SH6EftQQ) | 3:54 | 2022-08-19 |  |
 | [Artificial Divinity](https://open.spotify.com/track/4MMer3ITnpDMkIDgtmDsgf) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Artificial Divinity](https://open.spotify.com/album/4WW2bLhuHj6t8EFJEBTWwR) | 3:43 | 2022-10-28 |  |
+| [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-03 |  |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2022-12-09 |  |
 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 | 2022-12-09 |  |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 |  |
@@ -32,6 +34,7 @@
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 |  |
 | [Bloodbath \(feat\. Chino Moreno\)](https://open.spotify.com/track/2IMHE3XJcsqTIbSGOIY6Jy) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 3:50 | 2022-10-28 |  |
 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 | 2022-06-17 |  |
+| [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-03 |  |
 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 | 2022-07-29 |  |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 |  |
 | [Burn the System](https://open.spotify.com/track/0xT8lO6AN5wEgkPxw7aCSm) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Burn the System](https://open.spotify.com/album/47CnioO06kBWZ9poXwiDPB) | 4:49 | 2023-01-13 |  |
@@ -206,6 +209,7 @@
 | [Pigs, Shit & Trash](https://open.spotify.com/track/6cMLVHVMUgfzEI0Ic4uVOH) | [Weeping Icon](https://open.spotify.com/artist/7AQAl2GtBkKKtSYH9PoDX9) | [Pigs, Shit & Trash](https://open.spotify.com/album/2iCjmIHUYLIbZRQd9HenXo) | 3:37 | 2022-10-14 |  |
 | [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 |  |
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 |  |
+| [Pray](https://open.spotify.com/track/4weKyrqLqUmsCST8e6g4ww) | [Vosh](https://open.spotify.com/artist/0bh5RSxIUP58Gvd5nLaCPs) | [Pray](https://open.spotify.com/album/1RjQFy4E02oX3RBq8oSFet) | 3:01 | 2023-02-03 |  |
 | [Predatory Savior](https://open.spotify.com/track/7sXYOblxpZmMfWOji020Q5) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Predatory Savior](https://open.spotify.com/album/6nswezZB2rXRS1aGz5Phnh) | 2:58 | 2022-06-17 |  |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 |  |
 | [Pressure Cooker](https://open.spotify.com/track/07w72qT4WkRcJ3uTvBRoD2) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Pressure Cooker](https://open.spotify.com/album/02y74a73M3k5WchfJRIi26) | 2:50 | 2022-03-18 |  |
@@ -287,10 +291,12 @@
 | [Turn to Me](https://open.spotify.com/track/1hXtv1txnXMXAvZU2YdRme) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 3:42 | 2023-01-13 |  |
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 |  |
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 |  |
+| [Unbridled Fury](https://open.spotify.com/track/5KUh5cJ8iy9qu917XtfMZF) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Unbridled Fury](https://open.spotify.com/album/4Nx90Kc8txadnzrDZsO7OP) | 3:30 | 2023-02-03 |  |
 | [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 |  |
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 |  |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 |  |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 |  |
+| [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 |  |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 |  |
 | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/track/1soD4IaI1iibVmQXwbyY7R) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/album/3fqekMyypWqmySaVMdToi6) | 3:54 | 2023-01-27 |  |
 | [Violent Compulsion for Conquest](https://open.spotify.com/track/1OB49XpJ0oTfGqTJFEBzjo) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Violent Compulsion for Conquest](https://open.spotify.com/album/4NpkaZpM336JMTwG8rNDI5) | 4:32 | 2022-10-07 |  |

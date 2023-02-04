@@ -7293,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "Midnight Is Coming",
+        "url": "https://open.spotify.com/album/2V0FPu5sCaJS384ngGZdMt"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6ve",
+          "url": "https://open.spotify.com/artist/7MGZxfJkKBLp1oAnFkNTEz"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Midnight Is Coming",
+      "url": "https://open.spotify.com/track/0pNp4untlQyZU1FZU2J0W2"
+    },
+    {
+      "album": {
         "name": "Midst of Everything",
         "url": "https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM"
       },
@@ -8482,7 +8500,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 193239,
       "name": "Ons",
       "url": "https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM"
@@ -9008,6 +9026,24 @@
       "duration_ms": 142444,
       "name": "Portal",
       "url": "https://open.spotify.com/track/3VLijD3p8nNHwz6cwJ7d9S"
+    },
+    {
+      "album": {
+        "name": "Lost In Reality",
+        "url": "https://open.spotify.com/album/6tzlO26AszLOwt0kJBwagX"
+      },
+      "artists": [
+        {
+          "name": "Pretoqi",
+          "url": "https://open.spotify.com/artist/4mPtfT4HNXKbghcssDspnW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Positive Reaction",
+      "url": "https://open.spotify.com/track/2iU9lxQ5XbDn1TVYVl2ciQ"
     },
     {
       "album": {
@@ -10120,7 +10156,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 173381,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm"

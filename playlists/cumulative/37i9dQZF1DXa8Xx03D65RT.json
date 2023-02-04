@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Glimmering Light",
+        "url": "https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN"
+      },
+      "artists": [
+        {
+          "name": "Anton Byers",
+          "url": "https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159113,
+      "name": "Beyond The Glimmering Light",
+      "url": "https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ"
+    },
+    {
+      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -2461,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Fj\u00e6rland",
+        "url": "https://open.spotify.com/album/0QTUZYk4rNk5pkcFOBZLK1"
+      },
+      "artists": [
+        {
+          "name": "Erica Statv\u00e6rd",
+          "url": "https://open.spotify.com/artist/5s1olurhMGBz2Qfh3p2kcv"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Fj\u00e6rland",
+      "url": "https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9"
+    },
+    {
+      "album": {
         "name": "Fleeting Glance",
         "url": "https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5"
       },
@@ -3858,7 +3894,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 172992,
       "name": "Journey in Place",
       "url": "https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc"

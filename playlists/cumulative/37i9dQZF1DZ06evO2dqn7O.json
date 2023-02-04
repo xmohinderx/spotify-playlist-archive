@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "forever, now",
+        "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "forever, now",
+      "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
+    },
+    {
+      "album": {
         "name": "The Reason EP",
         "url": "https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ"
       },
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 193693,
       "name": "Water - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/4IDwJJkYVZQ7GaIGjtDx0J"

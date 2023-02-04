@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,511 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,530 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 30 | [Late Night](https://open.spotify.com/track/7GhxPuxjwAbKEiQFMP5Mxd) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Late Night](https://open.spotify.com/album/5H6Sord6ry7qvVlNTwpfHC) | 3:11 |
 | 31 | [Spring Is Gone by chance](https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell OST Part.2](https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A) | 3:21 |
 | 32 | [Star \(Little Prince\)](https://open.spotify.com/track/0YQO5aF9S0d3E74ZEfB9Dl) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2cpRz9LpAMbP4bdCpsFxPl) | 3:02 |
-| 33 | [OPPA](https://open.spotify.com/track/37h0ga3nJhViGJIZPS1zHX) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Summer Go Loco](https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU) | 3:55 |
+| 33 | [OPPA](https://open.spotify.com/track/65AFGrEwA9uwHURFJUJd12) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Summer Go Loco](https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG) | 3:55 |
 | 34 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/5K209mgnrnMPLNIluT9m77) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 4:36 |
 | 35 | [No Manners \(feat.GRAY\)](https://open.spotify.com/track/4LH9QLTPmP4qBD6qfa6LQK) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [LOCOMOTIVE](https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG) | 3:38 |
 | 36 | [Alright, Summer time \(Feat\. SAM KIM\)](https://open.spotify.com/track/6ucH64nrvQT29R3HnbmdHN) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Summer Go Loco](https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG) | 3:49 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 114 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 115 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMDQ1MjFlMTIwZTA5YzgxNWQzNTBlZjI3Y2Y5OGFjMmJh`
+Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMDkzNjg2NTgxOTA4NzM1ZmI5OWExNDA4NWVhYjNjYTc2`

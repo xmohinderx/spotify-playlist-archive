@@ -1242,10 +1242,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 445985,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/4RHJyw8JFsjiMV8IegfJLi"
+    },
+    {
+      "album": {
+        "name": "Muppet Anthem",
+        "url": "https://open.spotify.com/album/4LNvAckfjyAPWt4uoZzxpZ"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445985,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/55NdNir1D7TTBKKBITlJBD"
     },
     {
       "album": {
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 453158,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/70E5ipJ9QpGtF2XaTMAUg2"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 453158,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/7cbXQtNULjrhRteqeM8bbl"

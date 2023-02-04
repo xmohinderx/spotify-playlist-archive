@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Bea Miller",
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Anne-Marie",
   "name": "SALT",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 137459,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZfkwMYwNKZFlMwxhD9Oyv"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 182771,
       "name": "BAD B!TCH",
       "url": "https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 139058,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 143795,
       "name": "Bitch Back (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
@@ -842,6 +842,24 @@
       "duration_ms": 143746,
       "name": "brutal",
       "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+    },
+    {
+      "album": {
+        "name": "Brutally Honest",
+        "url": "https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l"
+      },
+      "artists": [
+        {
+          "name": "NEVE",
+          "url": "https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159817,
+      "name": "Brutally Honest",
+      "url": "https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP"
     },
     {
       "album": {
@@ -1448,6 +1466,24 @@
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
+    },
+    {
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
     },
     {
       "album": {
@@ -2612,7 +2648,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 138360,
       "name": "i feel everything",
       "url": "https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv"
@@ -3582,7 +3618,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 125809,
       "name": "menace",
       "url": "https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW"
@@ -3708,7 +3744,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 174146,
       "name": "Mouthwash",
       "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
@@ -3726,7 +3762,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 175025,
       "name": "my best friend's ex",
       "url": "https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA"
@@ -3762,7 +3798,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 121183,
       "name": "Never Dated You",
       "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
@@ -3802,6 +3838,24 @@
       "duration_ms": 129399,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
+    },
+    {
+      "album": {
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/4BFZfzQgyvP5HRU8xqpCVs"
+      },
+      "artists": [
+        {
+          "name": "Jamisen",
+          "url": "https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/4Cl0IAqrNUW5mRtehI8kmi"
     },
     {
       "album": {
@@ -4134,7 +4188,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 170847,
       "name": "Problems",
       "url": "https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN"
@@ -4383,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "SAD B!TCH",
+        "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132794,
+      "name": "SAD B!TCH",
+      "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
+    },
+    {
+      "album": {
         "name": "Sad Ghost",
         "url": "https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH"
       },
@@ -4434,6 +4506,42 @@
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
+    },
+    {
+      "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129938,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Uru",
-  "num_followers": 91043,
+  "num_followers": 91096,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGE5OWJiMjE4YzdmMTM2ODk4MDI4YTAxMGVlOWEyMDdm",
+  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGEwNzMxOTExMTI0MDE2MmViYjk1ZjA1ZDMyNTRjMWM4",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "\u9752\u85cd\u904a\u6cf3",
-      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/4wZ0NCTh8KTgVpcRVhgtxC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 299953,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6fG24wG9t0J1J8pFOibRoh"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "\u9752\u85cd\u904a\u6cf3",
+      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "\u96e8\u6a21\u69d8",
         "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
       },
@@ -1511,34 +1527,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+        "name": "LOVE CYCLE",
+        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
       },
       "artists": [
         {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        },
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 235773,
+      "name": "Victim of Love - feat. Taka",
+      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "LOVE CYCLE",
-        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        },
-        {
-          "name": "Taka",
-          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Victim of Love - feat. Taka",
-      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "\u82b1\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y"
+        }
+      ],
+      "duration_ms": 248809,
+      "name": "\u82b1\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 171780,
       "name": "\u6ce3\u304d\u7b11\u3044\u611b",
       "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "\u82b1\u306e\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u"
-      },
-      "artists": [
-        {
-          "name": "Anna",
-          "url": "https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y"
-        }
-      ],
-      "duration_ms": 248809,
-      "name": "\u82b1\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
     }
   ],
   "unique_name": "Women's Voice",

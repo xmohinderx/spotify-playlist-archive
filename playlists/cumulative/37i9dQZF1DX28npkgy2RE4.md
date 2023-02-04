@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-377 songs - 23 hr 14 min
+378 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 | 2022-07-11 |  |
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/3Iwy2ykCDExY2Z50JZtcxe) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Crazy World \(Judgement Day\)](https://open.spotify.com/album/5T3DJdl6IBDiVFpHtOJRt0) | 4:40 | 2022-04-01 | 2022-04-21 |
 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2021-11-12 | 2023-02-02 |
+| [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-03 |  |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-11-12 | 2022-07-27 |
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-11-12 |  |
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2021-11-12 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Holding to the Edge of Night](https://open.spotify.com/track/2xQRU3yzgKLWePziCfk4JC) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Holding to the Edge of Night](https://open.spotify.com/album/179Hyos6TP14mIZAMplcaI) | 4:43 | 2021-11-12 | 2022-07-29 |
 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 | 2022-04-01 | 2022-04-21 |
 | [Hope Dreams](https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Hope Dreams](https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD) | 4:42 | 2021-11-12 | 2022-06-12 |
-| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 |  |
+| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 | 2023-02-04 |
 | [Hot Heavy Summer](https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Another Friday Night / Hot Heavy Summer / Sister](https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa) | 3:49 | 2021-11-12 |  |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-05-25 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2021-11-12 | 2022-04-19 |

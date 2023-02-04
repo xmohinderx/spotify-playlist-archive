@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3LZZPxNDGDFVSIPqf4JuEf\">Ice Spice</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:5kxnZh8gXyXdIvCWbDMevT\">Eem Triplin</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 96000,
       "name": "1 On 3 (feat. Rvssian)",
       "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
@@ -78,6 +78,28 @@
       "duration_ms": 135543,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/56E8mH7zuZYS07DbqfeTvT"
+    },
+    {
+      "album": {
+        "name": "16CHOPPA (feat. Nardo Wick)",
+        "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207603,
+      "name": "16CHOPPA (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
     },
     {
       "album": {
@@ -340,6 +362,24 @@
       "duration_ms": 145606,
       "name": "40s N 9s",
       "url": "https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP"
+    },
+    {
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/5pgNt5QUGCJdDeux6gATIS"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "4GOD II",
+      "url": "https://open.spotify.com/track/0AypHPJVKS6aN54zs1UZNc"
     },
     {
       "album": {
@@ -1908,7 +1948,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 137142,
       "name": "Bop Bop",
       "url": "https://open.spotify.com/track/1891EswrvOu3kHIcROshhe"
@@ -2334,7 +2374,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 204718,
       "name": "By Myself (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/27o0xlsmaKZvyLFPZQRu99"
@@ -3775,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/6ypJpUZrayAtN25CvGngsP"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136406,
+      "name": "Dennis",
+      "url": "https://open.spotify.com/track/2gGMDFXw9d4IRM06cdZ2et"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
       },
@@ -5188,7 +5246,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 160000,
       "name": "Flip Phone (with Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS"
@@ -6142,6 +6200,24 @@
       "duration_ms": 200958,
       "name": "Good On Love (with Future)",
       "url": "https://open.spotify.com/track/4aPjhAeHtS0eturdD1dk78"
+    },
+    {
+      "album": {
+        "name": "Forever 23 2x",
+        "url": "https://open.spotify.com/album/4pTWt5Fl7H3xcxavhRxL9X"
+      },
+      "artists": [
+        {
+          "name": "JayDaYoungan",
+          "url": "https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168743,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5FaVpZEBZKGGYIMsVyBiVu"
     },
     {
       "album": {
@@ -7515,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "album": {
         "name": "DFTK",
         "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
       },
@@ -8534,7 +8628,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 143423,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/7CBUbrYdluuTZZvZAhJgXr"
@@ -8654,6 +8748,24 @@
       "duration_ms": 129899,
       "name": "LONG WAY",
       "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
+    },
+    {
+      "album": {
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR"
     },
     {
       "album": {
@@ -9031,6 +9143,24 @@
     },
     {
       "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220345,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9"
+    },
+    {
+      "album": {
         "name": "Yahweh Child",
         "url": "https://open.spotify.com/album/4nYko649N5hLp7TUZZVh9e"
       },
@@ -9042,7 +9172,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 126315,
       "name": "Mask On",
       "url": "https://open.spotify.com/track/0CEwv8VAwJPbVA4RLp5yzQ"
@@ -9992,7 +10122,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 263636,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
@@ -11847,6 +11977,24 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/2vUUncji6W1GanfV2pHJKb"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129688,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
+    },
+    {
+      "album": {
         "name": "Pass The Ball",
         "url": "https://open.spotify.com/album/7x48tJgtaTjSpgsmWwA476"
       },
@@ -11956,6 +12104,24 @@
       "duration_ms": 152878,
       "name": "PEP IN MY STEP",
       "url": "https://open.spotify.com/track/3nixei9buXWmxkA4BjX8k4"
+    },
+    {
+      "album": {
+        "name": "Coochie Goat",
+        "url": "https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154932,
+      "name": "Perc & Sex",
+      "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
       "album": {
@@ -12632,6 +12798,24 @@
       "duration_ms": 164746,
       "name": "Rap Niggas",
       "url": "https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr"
+    },
+    {
+      "album": {
+        "name": "Rare's Room",
+        "url": "https://open.spotify.com/album/0CSMS09vHwUQ2KeDJ3mKi3"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139179,
+      "name": "Rare's Room",
+      "url": "https://open.spotify.com/track/5NMwkU694dCYy5pSVkYJuN"
     },
     {
       "album": {
@@ -14434,7 +14618,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 170625,
       "name": "Slicin",
       "url": "https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY"
@@ -15538,7 +15722,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 187376,
       "name": "Telfy",
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
@@ -16648,7 +16832,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 192143,
       "name": "Uncle Elroy",
       "url": "https://open.spotify.com/track/3zdVqrm2m3lo73s5BOSNvd"
@@ -16670,6 +16854,24 @@
       "duration_ms": 212650,
       "name": "Uncle Tommy",
       "url": "https://open.spotify.com/track/6BDANe68PkkUUbqa7CZDPC"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
     },
     {
       "album": {
@@ -16702,7 +16904,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 169465,
       "name": "Unh Unh",
       "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
@@ -16810,7 +17012,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 117481,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"

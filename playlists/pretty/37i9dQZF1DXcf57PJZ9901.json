@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s. Cover: Keane",
-  "num_followers": 75383,
+  "num_followers": 75469,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMGVmM2ZmZjI0MjRmNjY4YTE4NTY3ZTFlMjhiMmUxMWQ2",
+  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMDBhNTNhZmYyYWFhOGVlZGRhMzJiZTJjM2MwYWNiZDg5",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Miracle Pill",
-        "url": "https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Miracle Pill",
+        "url": "https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
     },
     {
       "added_at": "2023-01-11 18:02:14",

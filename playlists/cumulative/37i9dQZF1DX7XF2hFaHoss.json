@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
+  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Sunny War",
   "name": "Women of Acoustic",
   "tracks": [
     {
@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Higher (feat. David Rawlings)",
+      "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
+    },
+    {
+      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/0NjexykT4mTFDYGnGLFFby"

@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Back To Sender",
+        "url": "https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147504,
+      "name": "Back To Sender",
+      "url": "https://open.spotify.com/track/4IhkeUUPpPfT3eP0yN4bq7"
+    },
+    {
+      "album": {
         "name": "Bad Boy (feat. Mayorkun)",
         "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
       },
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 175758,
       "name": "Keep Moving On",
       "url": "https://open.spotify.com/track/0dMffju5HNrl8dAmjvm87F"
@@ -2196,6 +2214,28 @@
       "duration_ms": 141958,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "album": {
@@ -2498,7 +2538,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 137147,
       "name": "No Religion",
       "url": "https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP"
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 162500,
       "name": "Nothing Matter",
       "url": "https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO"
@@ -3307,6 +3347,28 @@
     },
     {
       "album": {
+        "name": "SE JEJE",
+        "url": "https://open.spotify.com/album/11kl89GAsE4rV0OHXeewZj"
+      },
+      "artists": [
+        {
+          "name": "Hotbillz",
+          "url": "https://open.spotify.com/artist/6NeoUkwAR1ZIk9CqKT00Rh"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140176,
+      "name": "SE JEJE",
+      "url": "https://open.spotify.com/track/62tlwEpA3Uuf5DcuzCp5sL"
+    },
+    {
+      "album": {
         "name": "Second Sermon (Remix)",
         "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
       },
@@ -3500,7 +3562,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 177710,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
@@ -3996,6 +4058,24 @@
       "duration_ms": 146598,
       "name": "Yawa No Dey End",
       "url": "https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe"
+    },
+    {
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa"
     },
     {
       "album": {

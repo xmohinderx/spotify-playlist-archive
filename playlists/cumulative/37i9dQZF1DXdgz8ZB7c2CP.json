@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Stwo.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Pauline Herr.",
   "name": "creamy",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 231616,
       "name": "20:25",
       "url": "https://open.spotify.com/track/7bg3UimnS4beLnE476hfEE"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 223281,
       "name": "A Taste of Hope",
       "url": "https://open.spotify.com/track/2jXxVzLf4eiVEnQTz7RxUq"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 233750,
       "name": "Acres",
       "url": "https://open.spotify.com/track/3p2Dz6a0slY4fWQLC8eXsS"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 125016,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0xKcqGdFWwO9flQUL0s594"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 159661,
       "name": "Be Fine (feat. Wafia)",
       "url": "https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7"
@@ -442,6 +442,28 @@
       "duration_ms": 186885,
       "name": "Be With You (ft. Gloria Kim)",
       "url": "https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV"
+    },
+    {
+      "album": {
+        "name": "Beats Me Up (feat. Coucheron)",
+        "url": "https://open.spotify.com/album/5DSbyvgNw8WBaWUwpwVNI9"
+      },
+      "artists": [
+        {
+          "name": "Ponette",
+          "url": "https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN"
+        },
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161065,
+      "name": "Beats Me Up (feat. Coucheron)",
+      "url": "https://open.spotify.com/track/4BhgXwXrHuPUy8TTugy1Aw"
     },
     {
       "album": {
@@ -562,7 +584,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 166666,
       "name": "Blue - Flume Remix",
       "url": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
@@ -756,7 +778,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 236800,
       "name": "Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD"
@@ -774,7 +796,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-08",
+      "date_removed": null,
       "duration_ms": 221168,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl"
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Context",
       "url": "https://open.spotify.com/track/6oPGuHXGQkViIavFLWj7BT"
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 165526,
       "name": "Data Loss",
       "url": "https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O"
@@ -1242,7 +1264,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 137647,
       "name": "Dish",
       "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 234375,
       "name": "Dominate",
       "url": "https://open.spotify.com/track/6zBFQ5dWHEmEx2RDoZ1ZP2"
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 195000,
       "name": "Fall in Love Moody Good Remix",
       "url": "https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z"
@@ -2194,7 +2216,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 190163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
@@ -2220,6 +2242,28 @@
       "duration_ms": 158000,
       "name": "Gone - Sam Day Remix",
       "url": "https://open.spotify.com/track/3DXtDgmb9A3Gp5Dd5EF6tI"
+    },
+    {
+      "album": {
+        "name": "Mazde: The Remixes",
+        "url": "https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR"
+      },
+      "artists": [
+        {
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Gone - Sam Day Remix",
+      "url": "https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7"
     },
     {
       "album": {
@@ -2420,7 +2464,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 194546,
       "name": "Home",
       "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
@@ -2482,7 +2526,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
@@ -2792,7 +2836,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 178400,
       "name": "In Your Head - RL Grime Edit",
       "url": "https://open.spotify.com/track/0uFnnurkT6KwgzfQ6KAvSi"
@@ -3054,7 +3098,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw"
@@ -3072,7 +3116,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "let it go",
       "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
@@ -3231,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "lovely2*",
+        "url": "https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155806,
+      "name": "lovely2*",
+      "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
+    },
+    {
+      "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg"
       },
@@ -3286,7 +3348,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Make Me A Memory",
       "url": "https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ"
@@ -3472,7 +3534,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 201680,
       "name": "Night Goggles - Rome in Silver Remix",
       "url": "https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z"
@@ -3980,7 +4042,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 174283,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
@@ -4316,7 +4378,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
@@ -4788,7 +4850,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
@@ -4988,7 +5050,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 142223,
       "name": "Sun Fall Down",
       "url": "https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7"
@@ -5108,7 +5170,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 184000,
       "name": "Synth Grass",
       "url": "https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S"
@@ -5363,6 +5425,24 @@
     },
     {
       "album": {
+        "name": "Tirana",
+        "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
+      },
+      "artists": [
+        {
+          "name": "minds&machines",
+          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249193,
+      "name": "Tirana",
+      "url": "https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/62CkAFxFgOSoO7Jowxr1RJ"
       },
@@ -5462,6 +5542,24 @@
       "duration_ms": 232004,
       "name": "Vendetta For Cupid",
       "url": "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"
     },
     {
       "album": {
@@ -5586,7 +5684,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 222866,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf"
@@ -5638,7 +5736,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 183652,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/0xjZJqMYwv7oNB4KsJiUUM"
@@ -5956,7 +6054,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 225000,
       "name": "When You Feel Like This",
       "url": "https://open.spotify.com/track/4yYYjy0Dtj4CkWeqljwpLq"
@@ -6068,7 +6166,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 136551,
       "name": "You",
       "url": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"

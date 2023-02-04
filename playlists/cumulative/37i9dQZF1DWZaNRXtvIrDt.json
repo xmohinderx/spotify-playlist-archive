@@ -368,6 +368,24 @@
     {
       "album": {
         "name": "Fantasy Food",
+        "url": "https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr"
+      },
+      "artists": [
+        {
+          "name": "Giant Swan",
+          "url": "https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Boasting",
+      "url": "https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6"
+    },
+    {
+      "album": {
+        "name": "Fantasy Food",
         "url": "https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn"
       },
       "artists": [
@@ -378,7 +396,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 241500,
       "name": "Boasting",
       "url": "https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S"

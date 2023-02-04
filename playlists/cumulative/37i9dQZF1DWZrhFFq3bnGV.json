@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Echa Soemantri",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Ivan Tangkulung, Gerald Situmorang",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 160500,
       "name": "1, 2, 3, 4, 5 (That's How It Goes!)",
       "url": "https://open.spotify.com/track/1enFem0QT4InM9LnZsK94W"
+    },
+    {
+      "album": {
+        "name": "12345",
+        "url": "https://open.spotify.com/album/1038i0EKrjxL8MqKYwzDpf"
+      },
+      "artists": [
+        {
+          "name": "Ivan Tangkulung",
+          "url": "https://open.spotify.com/artist/7cmtxgmOMeLDKtHmZJx6QP"
+        },
+        {
+          "name": "Gerald Situmorang",
+          "url": "https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301007,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/3e9GQLWUzBUoSvzUvUB1VC"
     },
     {
       "album": {
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 266181,
       "name": "Rejuvenate",
       "url": "https://open.spotify.com/track/59YX01UzJXaYN3okY600M2"
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 340300,
       "name": "Sugar Crush",
       "url": "https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir"

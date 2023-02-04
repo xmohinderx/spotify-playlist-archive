@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12094,
+  "num_followers": 12100,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI1NGQxMTllMzVkMzEyMDI5ZTZhODU2ZDQ3MWYyZDgw",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDkxY2U5NmM1ZjhmMDk2Y2RkNDc1NDVkYTlhYjAzNjc2",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "The Change I'm Seeking",
         "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 482173,
       "name": "Permanent Holiday",
       "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Don't Let Me Disappear",
         "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
@@ -391,6 +371,22 @@
       "duration_ms": 264522,
       "name": "Don't Let Me Disappear",
       "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Education of the Individual Soul",
+        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "10 Laws",
+      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -411,22 +407,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Education of the Individual Soul",
-        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
-      },
-      "artists": [
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "10 Laws",
-      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -463,6 +443,26 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Stronger (Acoustic)",
         "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 183133,
       "name": "Stronger - Acoustic",
       "url": "https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -655,6 +639,22 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2023-01-03 17:09:40",

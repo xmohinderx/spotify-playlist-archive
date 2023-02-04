@@ -1,13 +1,85 @@
 {
-  "description": "The hottest out the south. Cover: 21 Savage",
-  "num_followers": 1133173,
+  "description": "The hottest out the south. Cover: Luh Tyler",
+  "num_followers": 1133417,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDk5NWU4ZTA2MTM1NjYxODlmYzQ4YWMxNzBkMDFiZTI0",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDA3NmY3MjdmYjA4ZjkxMTA3Mzg0ZGI0ZGZhZGMzNzZm",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Back Flippin",
+        "url": "https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Back Flippin",
+      "url": "https://open.spotify.com/track/112f64x3xitpDPHfr98T01"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/0UqZZstwaKzBuNLXPZANxa"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "duration_ms": 166999,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1kn9JsBWIw6qREhDWw0lKb"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -53,36 +125,40 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-01-13 05:13:26",
       "album": {
-        "name": "JOC IN '06",
-        "url": "https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr"
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 170434,
-      "name": "JOC IN '06",
-      "url": "https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8"
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Sucka Or Sum",
-        "url": "https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P"
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA"
       },
       "artists": [
         {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
         }
       ],
-      "duration_ms": 189153,
-      "name": "Sucka Or Sum",
-      "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
+      "duration_ms": 177186,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -103,22 +179,22 @@
     {
       "added_at": "2023-01-13 05:13:26",
       "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+        "name": "After The Curse",
+        "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
+      "duration_ms": 170701,
+      "name": "Ain't On None (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -161,40 +237,36 @@
       "url": "https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "IF I STOP NOW",
-        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
+        "name": "JOC IN '06",
+        "url": "https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 177011,
-      "name": "IF I STOP NOW",
-      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
+      "duration_ms": 170434,
+      "name": "JOC IN '06",
+      "url": "https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/6ypJpUZrayAtN25CvGngsP"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Dennis",
+      "url": "https://open.spotify.com/track/2gGMDFXw9d4IRM06cdZ2et"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -241,6 +313,22 @@
       "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sucka Or Sum",
+        "url": "https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 189153,
+      "name": "Sucka Or Sum",
+      "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Overdose",
@@ -255,22 +343,6 @@
       "duration_ms": 128194,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Primetime",
-        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -289,6 +361,38 @@
       "url": "https://open.spotify.com/track/307uhx5f7E58E7VyRVcQ3l"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "How Bout U ?",
+        "url": "https://open.spotify.com/album/6LKDLRvYCdKJnQFJq1FD8t"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "How Bout U ?",
+      "url": "https://open.spotify.com/track/3z2Q7d7Dt85Y7OiAQBjBvj"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Magic Potion",
@@ -305,24 +409,68 @@
       "url": "https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj"
     },
     {
-      "added_at": "2023-01-13 05:13:26",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "After The Curse",
-        "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
+        "name": "IF I STOP NOW",
+        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
       },
       "artists": [
         {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 170701,
-      "name": "Ain't On None (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
+      "duration_ms": 177011,
+      "name": "IF I STOP NOW",
+      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "duration_ms": 220345,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "AL Roker",
+        "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "duration_ms": 100179,
+      "name": "AL Roker",
+      "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -345,40 +493,20 @@
       "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/5pgNt5QUGCJdDeux6gATIS"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "AL Roker",
-        "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
-      },
-      "artists": [
-        {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
-        }
-      ],
-      "duration_ms": 100179,
-      "name": "AL Roker",
-      "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
+      "duration_ms": 161416,
+      "name": "4GOD II",
+      "url": "https://open.spotify.com/track/0AypHPJVKS6aN54zs1UZNc"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -395,50 +523,6 @@
       "duration_ms": 187826,
       "name": "Quickie",
       "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Trance (with Travis Scott & Young Thug)",
-      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
-    },
-    {
-      "added_at": "2023-01-13 05:13:26",
-      "album": {
-        "name": "On Wat U On (with GloRilla)",
-        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "On Wat U On (with GloRilla)",
-      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -485,6 +569,22 @@
       "url": "https://open.spotify.com/track/0w3eAG8vNPSulwDOR1Th9F"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/2vUUncji6W1GanfV2pHJKb"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        }
+      ],
+      "duration_ms": 129688,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Check (feat. Big Yavo)",
@@ -525,22 +625,6 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Back Flippin",
-        "url": "https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Back Flippin",
-      "url": "https://open.spotify.com/track/112f64x3xitpDPHfr98T01"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Wrong Turn",
@@ -559,26 +643,6 @@
       "duration_ms": 198199,
       "name": "Roll A opp",
       "url": "https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -633,42 +697,6 @@
       "url": "https://open.spotify.com/track/7La3vkQJ8Jb5CyuymXFNTR"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Rubi Wayda",
-        "url": "https://open.spotify.com/album/0wcr7UNOlYEG2lvp1M0BLf"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rubi Wayda",
-      "url": "https://open.spotify.com/track/3XWLnkW0Y54z5VHqlilDsg"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "I Got A Bag (feat. Hotboii)",
@@ -689,46 +717,6 @@
       "url": "https://open.spotify.com/track/7rGzPK1JTUn91efeiIidNo"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/6lyhMxltOaZrzRxRmmc3lU"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "The Main Bird",
@@ -745,20 +733,24 @@
       "url": "https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:13:26",
       "album": {
-        "name": "Public Housing, Pt. 2",
-        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
       },
       "artists": [
         {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 185208,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe"
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -911,22 +903,6 @@
       "duration_ms": 242800,
       "name": "Da Rant",
       "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Win For Losin",
-        "url": "https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "Win For Losin",
-      "url": "https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB"
     }
   ],
   "unique_name": "No Cap",

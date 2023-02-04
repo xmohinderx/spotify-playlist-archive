@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR?si=b92Ewb2ZTiGj7AICKZOT7Q\" > Popcaan </a>  and <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qy_VHFqCSTa-9m1ICJ_u9Q\" > Burna Boy </a> ",
-  "num_followers": 10505,
+  "num_followers": 10531,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwMzQwMSwwMDAwMDAwMGYzMzdiM2JkZDUxYzJiZWQ4ZTJlMDg2MDA2ZThlMzhm",
+  "snapshot_id": "MTY3NTQxNDA1MiwwMDAwMDAwMDE1ZWU0MGIyNzc0MzE0MjVmYWZjMzE0ZTk4NmFmOTYy",
   "tracks": [
     {
       "added_at": "2023-01-27 07:10:01",
@@ -211,6 +211,26 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": "2023-02-03 08:47:32",
+      "album": {
+        "name": "Count Your Blessings (Remix)",
+        "url": "https://open.spotify.com/album/4qQNeCaIjxS1yh7zcfBO2p"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Count Your Blessings - Remix",
+      "url": "https://open.spotify.com/track/311qbzPKlmeK5VI2lCzPGn"
     },
     {
       "added_at": "2023-01-06 07:54:16",
@@ -1347,34 +1367,6 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
-    },
-    {
-      "added_at": "2023-01-06 07:54:16",
-      "album": {
-        "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
-        "url": "https://open.spotify.com/album/2JoPRQl4Nye9kJ9icFiKXv"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Ayo Girl (Fayahh Beat) [feat. Rema & Tempoe]",
-      "url": "https://open.spotify.com/track/7CIzqVH1N2BxHPavv5CLWz"
     },
     {
       "added_at": "2023-01-06 07:54:16",

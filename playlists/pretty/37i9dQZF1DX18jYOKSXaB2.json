@@ -1,13 +1,29 @@
 {
   "description": "consider this an RSVP to littest wedding parties ",
-  "num_followers": 1254,
+  "num_followers": 1255,
   "original_name": "Small Chops ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDk4NDQwNCwwMDAwMDAwMDU4OWRmMDVhY2RkZThjNjc4NmFhMGFhY2QwYWE3NDM2",
+  "snapshot_id": "MTY3NTM5ODk3NSwwMDAwMDAwMDBmMGU1MWViZjhlNjFiNzkwYTBkM2JkMzEwMjg5MmQ5",
   "tracks": [
+    {
+      "added_at": "2023-02-03 04:36:15",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
     {
       "added_at": "2022-02-11 09:43:54",
       "album": {

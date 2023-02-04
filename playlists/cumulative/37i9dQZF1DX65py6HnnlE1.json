@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/7i1NIbXhRnASO2mNE4mUHs"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        },
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266109,
+      "name": "De Punta a Punta Aka una Mujer Como Tu",
+      "url": "https://open.spotify.com/track/1NUPZxaOkmlVwc40rytSGH"
+    },
+    {
+      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
@@ -518,7 +540,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 228640,
       "name": "Dejame Entrar En Ti",
       "url": "https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC"

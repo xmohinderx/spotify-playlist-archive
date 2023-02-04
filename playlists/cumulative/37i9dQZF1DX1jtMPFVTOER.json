@@ -787,6 +787,32 @@
     },
     {
       "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP"
+      },
+      "artists": [
+        {
+          "name": "Bocha",
+          "url": "https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz"
+        },
+        {
+          "name": "Corey G",
+          "url": "https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l"
+        },
+        {
+          "name": "Jurdan Bryant",
+          "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152408,
+      "name": "Black Grapes",
+      "url": "https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p"
+    },
+    {
+      "album": {
         "name": "BLACK MAN",
         "url": "https://open.spotify.com/album/2asepck6GQmgC1xEjtCA3e"
       },
@@ -1002,7 +1028,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 288406,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/0uJu52vDlIrwwoYdD62TkU"
@@ -5196,7 +5222,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 137076,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1enl38hg9YOTE9odtClSAx"
@@ -5372,7 +5398,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 192000,
       "name": "Peter Parker (feat. Asher Roth)",
       "url": "https://open.spotify.com/track/6EYAJRC9blRX7SOGRU5u61"
@@ -5912,7 +5938,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 221333,
       "name": "ROLEPLAYER",
       "url": "https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z"
@@ -8378,6 +8404,58 @@
       "duration_ms": 231933,
       "name": "Window Thoughts",
       "url": "https://open.spotify.com/track/17oVAtOSqFo1Dh7RKkR2ao"
+    },
+    {
+      "album": {
+        "name": "Wish You the Best",
+        "url": "https://open.spotify.com/album/1bOb9XYlOOesWwEEH2DhHq"
+      },
+      "artists": [
+        {
+          "name": "BRAVE JAMES",
+          "url": "https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203194,
+      "name": "Wish You the Best",
+      "url": "https://open.spotify.com/track/5qm6wyQXDPnEUWM3LAIIkR"
+    },
+    {
+      "album": {
+        "name": "Wish You Well (Remix)",
+        "url": "https://open.spotify.com/album/0l7WEfNCk44WT7byzWcjU2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lehman",
+          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Floco Torres",
+          "url": "https://open.spotify.com/artist/3pP7W1MNjStGyikY4aN6ov"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Wish You Well (Remix)",
+      "url": "https://open.spotify.com/track/567xp1AburiUaug9wNgSB6"
     },
     {
       "album": {

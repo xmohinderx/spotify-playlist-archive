@@ -1,15 +1,31 @@
 {
   "description": "Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency. (JTBC \ub4dc\ub77c\ub9c8 \ub300\ud589\uc0ac\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! \ubc30\uc6b0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc640 \ud074\ub9bd\uc2a4\ub97c \ud1b5\ud574 \ud655\uc778\ud574\ubcf4\uc138\uc694!)",
-  "num_followers": 2355,
+  "num_followers": 2365,
   "original_name": "\ub300\ud589\uc0ac(Agency)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgxNjM3NSwwMDAwMDAwMDE0ZTkzNGM3ZjdkNjE3ZTdjOWM4ZTJiOGNmMzE1MjA0",
+  "snapshot_id": "MTY3NTM5MTA1NCwwMDAwMDAwMGY0ZmNjNWFkYWJlZjA1ZmMyNjg5NDgwYmQ5YjVjNzQw",
   "tracks": [
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/75dMjDJSRQH0AP4rJuOqfC"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
@@ -57,7 +73,103 @@
       "url": "https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "Closer (with Paul Blanco, Mahalia)",
+      "url": "https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "BUT FOR NOW LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "JULIETTE! (Feat. UMI)",
+      "url": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/5rNOTnBRPjeNN73jbuFoRV"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        }
+      ],
+      "duration_ms": 180124,
+      "name": "You Can Rest (feat.Babylon)",
+      "url": "https://open.spotify.com/track/17abOqBP0HKExIIVzp69Pp"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
@@ -73,7 +185,7 @@
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
@@ -89,7 +201,7 @@
       "url": "https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Greatest Hits Vol. 3",
         "url": "https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8"
@@ -105,7 +217,7 @@
       "url": "https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "STARRY NIGHT",
         "url": "https://open.spotify.com/album/2Mqs4qQ3wPmAgTX6yYfdeZ"
@@ -121,7 +233,7 @@
       "url": "https://open.spotify.com/track/6Ee6pMOa4ukBJHCHWrPtw4"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
@@ -137,7 +249,7 @@
       "url": "https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
@@ -153,7 +265,7 @@
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "i'm yours",
         "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
@@ -169,7 +281,7 @@
       "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
@@ -205,7 +317,7 @@
       "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Pink Heartz",
         "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
@@ -225,7 +337,7 @@
       "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
@@ -241,7 +353,7 @@
       "url": "https://open.spotify.com/track/6ae0TVkpnFvn0dz4zIVlyd"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "NO ONE EVER REALLY DIES",
         "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
@@ -265,7 +377,7 @@
       "url": "https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN"
@@ -281,7 +393,7 @@
       "url": "https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
@@ -309,7 +421,7 @@
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa"
@@ -325,7 +437,23 @@
       "url": "https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "You - Instrumental",
+      "url": "https://open.spotify.com/track/4eCXxRfrFUrBEVCWlTA1MH"
+    },
+    {
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV"
@@ -341,7 +469,7 @@
       "url": "https://open.spotify.com/track/3iesiARYwUmdBJuRfI5RQu"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
@@ -357,7 +485,7 @@
       "url": "https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9"
     },
     {
-      "added_at": "2023-01-27 10:46:15",
+      "added_at": "2023-02-03 02:24:14",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"

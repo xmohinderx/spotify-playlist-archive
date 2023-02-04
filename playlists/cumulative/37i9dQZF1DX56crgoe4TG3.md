@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-186 songs - 11 hr 53 min
+187 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Gin and Juice](https://open.spotify.com/track/44eriZvPXHtb065mbCAfeg) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 2](https://open.spotify.com/album/0CcwYASwggPkViUxIWFCUA) | 6:26 | 2021-08-20 |  |
 | [Gin and Juice](https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/2Ril3zeU3IlvS6e4NQLWd2) | 6:23 | 2022-05-27 |  |
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |
+| [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Happy](https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Keepin' it Beefy](https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH) | 3:38 | 2021-08-20 | 2022-01-22 |
 | [Hey Ya](https://open.spotify.com/track/0ELVXVHz8aPgwLySfkDn8e) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Obadiah Parker Live](https://open.spotify.com/album/4xjHVgg9DgYhV1UVJhDlKO) | 4:27 | 2021-08-20 | 2022-07-29 |
 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 | 2022-05-27 |  |

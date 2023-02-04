@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover : Akshath",
-  "num_followers": 98850,
+  "num_followers": 98937,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE2MTkxNywwMDAwMDAwMDliZmZiMjhjMjgxZDNlZTEwNzQzZTE2YWY0YTdiN2Vl",
+  "snapshot_id": "MTY3NTQxODM5OCwwMDAwMDAwMDg0OTM3YmRhZjM5ZTczZjc3MGY1ZTk3NzJkYzc4Yzlj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:45:17",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
     },
     {
+      "added_at": "2023-02-03 05:24:00",
+      "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV"
+    },
+    {
       "added_at": "2023-01-31 10:45:17",
       "album": {
         "name": "Aise Ho Tum",
@@ -75,6 +91,26 @@
       "duration_ms": 192323,
       "name": "Parda",
       "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
+    },
+    {
+      "added_at": "2023-02-03 09:59:58",
+      "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN"
+      },
+      "artists": [
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
     },
     {
       "added_at": "2023-01-31 10:45:17",
@@ -768,7 +804,7 @@
       "added_at": "2023-01-31 10:45:17",
       "album": {
         "name": "Barsatein",
-        "url": "https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7"
+        "url": "https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a"
       },
       "artists": [
         {
@@ -778,7 +814,7 @@
       ],
       "duration_ms": 222331,
       "name": "Barsatein",
-      "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
+      "url": "https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T"
     },
     {
       "added_at": "2023-01-31 10:45:17",
@@ -1275,22 +1311,6 @@
     {
       "added_at": "2023-01-31 10:45:17",
       "album": {
-        "name": "When We Feel Young",
-        "url": "https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
-    },
-    {
-      "added_at": "2023-01-31 10:45:17",
-      "album": {
         "name": "Faasle",
         "url": "https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3"
       },
@@ -1323,22 +1343,6 @@
       "duration_ms": 188125,
       "name": "Saal",
       "url": "https://open.spotify.com/track/2S3erlZaNr7EGakVORv619"
-    },
-    {
-      "added_at": "2023-01-31 10:45:17",
-      "album": {
-        "name": "Yahan",
-        "url": "https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd"
-      },
-      "artists": [
-        {
-          "name": "Vasu Raina",
-          "url": "https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "Yahan",
-      "url": "https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh"
     },
     {
       "added_at": "2023-01-31 10:45:17",

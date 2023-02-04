@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-180 songs - 12 hr 38 min
+182 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 | 2020-10-30 | 2022-04-09 |
 | [If You Want Me to Stay](https://open.spotify.com/track/0IFQpkcrFHy8bJOlrjKDEZ) | [Trulio Disgracias](https://open.spotify.com/artist/6UtfXZKeC8rNxOYeCtbWa8) | [If You Want Me to Stay](https://open.spotify.com/album/5MJBt7WjNr736b9RXsBZmv) | 5:21 | 2020-10-30 | 2022-07-02 |
 | [In a Year From Now](https://open.spotify.com/track/6UcWi3TI0N0ZftbowzRUbC) | [Cindy Latin](https://open.spotify.com/artist/6e8TcVsU71SK3hKcn7unyj) | [In a Year From Now](https://open.spotify.com/album/3PgT269oNrOIWPZte5dPfc) | 3:09 | 2020-10-30 | 2022-04-09 |
+| [In Da Kar \- XL Middleton Remix](https://open.spotify.com/track/3NBdpiUHPmtaVUw7LR2tEH) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Soul Clap Records 11th Anniversary Remix Compilation \(Remixes\)](https://open.spotify.com/album/0LTgdpLDFKdji0QSZ491sx) | 6:16 | 2023-02-03 |  |
 | [Inked \(Alhambra Studios Live Session\)](https://open.spotify.com/track/6NEd8Dt1jVLLxwQ1wpiKd5) | [Lehmanns Brothers](https://open.spotify.com/artist/7tDwCOr0dfsh4SZN8yECHT) | [Inked \(Alhambra Studios Live Session\)](https://open.spotify.com/album/7noEBRP8M6EgmejChbVMwl) | 3:41 | 2022-05-13 |  |
 | [Inked \- Alhambra Studios Live Session](https://open.spotify.com/track/1ft2Fb7TaeVee9kobX0rHF) | [Lehmanns Brothers](https://open.spotify.com/artist/7tDwCOr0dfsh4SZN8yECHT) | [Inked \(Alhambra Studios Live Session\)](https://open.spotify.com/album/2UmqUzPgh3qm4BySf0XtpY) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Invisible Soldier](https://open.spotify.com/track/1WenvysTB5ACpxBXFOnUuo) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Invisible Soldier](https://open.spotify.com/album/3fLlTrT4kAYkHxMQBhzxuw) | 3:53 | 2021-11-19 |  |
@@ -130,6 +131,7 @@
 | [Power Without Greed](https://open.spotify.com/track/1r0nn0QF5tNJDtzoIj2mIB) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Power Without Greed](https://open.spotify.com/album/3fS1sPIokWl3Mzld0YGsXN) | 3:58 | 2020-10-30 |  |
 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 | 2022-03-18 |  |
 | [Pushin' On](https://open.spotify.com/track/3nPUw7RAT82QX2Yg1awMuM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/5NL85zevDT2D9Rx8M1rMno) | 3:19 | 2020-10-30 |  |
+| [Raise a Glass](https://open.spotify.com/track/0udhUWKw9Rf556Nf7X5Ep9) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU), [Shahi Teruko](https://open.spotify.com/artist/74Nzptrhmpsceggc2DPW8G) | [Raise a Glass](https://open.spotify.com/album/1o6BgBrtidtzazbU3umYeE) | 3:52 | 2023-02-03 |  |
 | [Repent](https://open.spotify.com/track/5h4Gkr0lVkh90ejOS5MjNI) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Mackenzie](https://open.spotify.com/artist/6RxbJRHg6Cwf3wAad0VFRf), [Keith Anderson](https://open.spotify.com/artist/5QY2TTRCoTQYcbAddmG754) | [Live in Love](https://open.spotify.com/album/6rqu2V90Bv8DI87MpNS9WW) | 5:16 | 2021-06-04 |  |
 | [Rile 'Em Up](https://open.spotify.com/track/4mvVLWbe50QZg4QJhzBztu) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:27 | 2020-10-30 |  |
 | [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 | 2022-03-11 | 2022-10-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156342,
+  "num_followers": 156335,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDY5ZTIyNGRhNmFhODBiM2IxZWMzYzZmNjIxZjJlYTZk",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGExMjRkYzgzNWFmZGIyMjNjMDZmZjJiNTdiYjdmNzBi",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Impossible (feat. John Martin)",
         "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 172380,
       "name": "Make It To Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        },
-        {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
-        },
-        {
-          "name": "Iwaro",
-          "url": "https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H"
-        }
-      ],
-      "duration_ms": 134330,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        },
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Iwaro",
+          "url": "https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H"
+        }
+      ],
+      "duration_ms": 134330,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Remember (David Guetta VIP Remix)",
+        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 230443,
+      "name": "Remember - David Guetta VIP Remix",
+      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Tick Tock (feat. 24kGoldn) [Topic Remix]",
         "url": "https://open.spotify.com/album/4ymy3CNtwCS2eCKMa4G88C"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 152986,
       "name": "Tick Tock (feat. 24kGoldn) - Topic Remix",
       "url": "https://open.spotify.com/track/7rOkOLolHVsZP6GQ6UPo0e"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Remember (David Guetta VIP Remix)",
-        "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 230443,
-      "name": "Remember - David Guetta VIP Remix",
-      "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        },
+        {
+          "name": "Until Dawn",
+          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Fingers Crossed - Until Dawn Remix",
+      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        },
-        {
-          "name": "Until Dawn",
-          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Fingers Crossed - Until Dawn Remix",
-      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
     },
     {
       "added_at": "2022-11-10 23:00:00",

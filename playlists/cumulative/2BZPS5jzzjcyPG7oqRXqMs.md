@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-173 songs - 11 hr 2 min
+175 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Be Alright \- Radio Edit](https://open.spotify.com/track/0lXsUvrpYlljSMxop1Qjzy) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Be Alright \(Radio Edit\)](https://open.spotify.com/album/2TrG5EO5B2yPDvonKVc9Uy) | 3:01 | 2022-02-17 | 2022-08-27 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2022-04-22 |  |
 | [Better Way \- Worship Version](https://open.spotify.com/track/7MlbR1ZnWVJAth70F3UcAg) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Better Way](https://open.spotify.com/album/3QNdshOw44scd7yYfU1dTM) | 4:32 | 2022-02-17 | 2022-07-02 |
+| [Bird's Eye View](https://open.spotify.com/track/30JLHtJJn4IIhbDzW70Dpj) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [Bird's Eye View](https://open.spotify.com/album/4R43ssdV1uGviGfsSmubQ1) | 3:05 | 2023-02-03 |  |
 | [Break Up Song](https://open.spotify.com/track/1uZPDMRddtTcjgfXGwL6Vl) | [Gabriel Conte](https://open.spotify.com/artist/6xutNVv1t39GdpK8eImxPU) | [Break Up Song](https://open.spotify.com/album/2CLuqNWHvcetdH8xWZtpQD) | 2:48 | 2022-02-17 | 2022-08-27 |
 | [Break Your Promises](https://open.spotify.com/track/1gHS6nbgR8g2gkIdS8xRfA) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Break Your Promises](https://open.spotify.com/album/2D2KTjkgUrSuV5feyOwBh8) | 3:16 | 2022-02-17 | 2022-08-27 |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-02-25 |  |
@@ -175,6 +176,7 @@
 | [What He's Done](https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 3:37 | 2022-02-18 |  |
 | [When You Speak](https://open.spotify.com/track/1ETB9w6ReRWGOhctFBHts2) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Can't Take Away](https://open.spotify.com/album/5B6DRt2WvVhDxDdZQ3YdNs) | 2:59 | 2022-02-17 | 2022-08-27 |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:50 | 2022-07-01 |  |
+| [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2023-02-03 |  |
 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 | 2022-02-17 | 2022-08-27 |
 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 | 2022-02-18 |  |
 | [YOU](https://open.spotify.com/track/2Csxc3KRQIQvZZse0Mdu5O) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [YOU](https://open.spotify.com/album/24BVyQpCuwSATtq4oBJoON) | 4:05 | 2022-02-17 | 2022-08-27 |

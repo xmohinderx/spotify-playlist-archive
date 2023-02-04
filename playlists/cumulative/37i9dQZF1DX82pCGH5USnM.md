@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-691 songs - 1 day 15 hr 55 min
+694 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-01-07 |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2021-08-20 | 2022-01-22 |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
-| [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 | 2021-10-06 |  |
+| [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 | 2021-10-06 | 2023-02-04 |
 | [Ce n'est pas \(Axel Boman Remix\)](https://open.spotify.com/track/0rUNcOw5EaGaQjYcnlAuST) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 8:34 | 2021-01-27 | 2021-02-19 |
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-08 | 2023-01-07 |
 | [Cheerful Gecko](https://open.spotify.com/track/1Czt8WIBLWwHqRwxvUBnUS) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Cheerful Gecko](https://open.spotify.com/album/7KQccSlxHaRNIX9eJ1IZMP) | 2:24 | 2021-07-08 | 2021-08-20 |
@@ -253,7 +253,7 @@
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-20 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-03-06 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-20 |  |
-| [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-20 |  |
+| [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-20 | 2023-02-04 |
 | [Hacienda](https://open.spotify.com/track/7qh8bK1Udbf8gfcjXDy9KX) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Birds Fly High](https://open.spotify.com/album/77fiDE7wtn1HMMBMxuXHyi) | 3:46 | 2022-12-09 |  |
 | [Half Crazy](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Half Crazy](https://open.spotify.com/album/2Vqm4tIyaEeET9IMnXHq4s) | 2:49 | 2022-06-24 |  |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |
@@ -375,12 +375,13 @@
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2021-11-08 |  |
 | [Memory](https://open.spotify.com/track/7rj1844JpGdaUxZ7eBzC4N) | [Braga Circuit](https://open.spotify.com/artist/7KP3UUwog2y9yJ4eQYGhM6) | [Residue](https://open.spotify.com/album/5jCG760PSLUwLPRuepAvfC) | 6:43 | 2022-05-27 | 2022-07-08 |
 | [Mercenary](https://open.spotify.com/track/6T1iFdKQKR0UlOfOgscs3d) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mercenary EP](https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu) | 5:50 | 2021-06-02 | 2021-08-20 |
+| [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 | 2023-02-03 |  |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-16 | 2020-12-24 |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2020-04-03\* | 2021-08-20 |
 | [Milano](https://open.spotify.com/track/11hZsWshuew6ChfGjFUJaZ) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Milano](https://open.spotify.com/album/5hQ3fkQ5WfNvap7WlAAUsd) | 3:35 | 2022-11-25 |  |
 | [Mio](https://open.spotify.com/track/4tf6Ks5ovtvHuUQg9E8Rkx) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Mio](https://open.spotify.com/album/19gzdJpMUX40CAMQNmyFpp) | 3:29 | 2023-01-06 |  |
 | [mirage](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [mirage](https://open.spotify.com/album/5iglYs8AJ0MVpnfCQTVfPd) | 2:44 | 2021-11-08 |  |
-| [Missing U](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Missing U](https://open.spotify.com/album/1QkwzQ8GWWwhDwWc7XQZEP) | 2:18 | 2021-11-08 |  |
+| [Missing U](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Missing U](https://open.spotify.com/album/1QkwzQ8GWWwhDwWc7XQZEP) | 2:18 | 2021-11-08 | 2023-02-04 |
 | [Mist](https://open.spotify.com/track/2ufVP4mbOJJoCsaUYUhRTC) | [N78](https://open.spotify.com/artist/3WhEnQ4wJakzX2poD1QIi7) | [Mist](https://open.spotify.com/album/30SesIkar4EJAv915CWLtW) | 5:13 | 2020-11-11 | 2021-06-16 |
 | [Modelo](https://open.spotify.com/track/0uC0TjBdiCId1jZyo3mkrr) | [Lowline](https://open.spotify.com/artist/6BgObl0N7gA4H9i5cYkcSt) | [Modelo](https://open.spotify.com/album/3KkaHJcFX2Gl6ufc5pvdoB) | 2:40 | 2022-12-09 |  |
 | [Modula](https://open.spotify.com/track/01yjYFJkNHfH7b5CVjZfG5) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Modula](https://open.spotify.com/album/1g1Xv6lPrxgpkzMC14tV4e) | 2:18 | 2023-01-20 |  |
@@ -399,6 +400,7 @@
 | [Moscow Mule](https://open.spotify.com/track/6f2s1QUKZksKTm77l17oov) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Moscow Mule](https://open.spotify.com/album/3CCfK3ByQ3FSnO7PPTpfjI) | 2:58 | 2021-04-15 | 2021-08-20 |
 | [Mountain](https://open.spotify.com/track/0za7hx6pnkVYipnumKevmw) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Evening](https://open.spotify.com/album/11aKnidnBLnSBRZ8L931dG) | 3:15 | 2020-04-03\* | 2021-03-06 |
 | [Move Me Tonight](https://open.spotify.com/track/1TQ0aiLrWb8Bvnlynd2XyH) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Move Me Tonight](https://open.spotify.com/album/4pjETgyqj82NMOWCyTKOxV) | 4:07 | 2021-10-06 | 2021-11-09 |
+| [Moving](https://open.spotify.com/track/2hM24Y2OY4vGuNTtxMrE7N) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Moving](https://open.spotify.com/album/1vsNh7Wpc9z4V8esGzKTzI) | 2:23 | 2023-02-03 |  |
 | [Moving On](https://open.spotify.com/track/4tIkzYzGCbHfv5VdmbXst5) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Moving On](https://open.spotify.com/album/6gMvsM5ZxUKFh1GLkSiAfO) | 2:48 | 2021-03-06 | 2022-09-09 |
 | [Mr\. Goodvibe](https://open.spotify.com/track/7HMbw6XMm4dnsVJPiGyS1o) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Mr\. Goodvibe](https://open.spotify.com/album/44qkl7E15I7pKULRecEAkx) | 4:28 | 2021-02-10 | 2021-03-25 |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-02-10 |  |
@@ -467,6 +469,7 @@
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 |  |
 | [Playthru](https://open.spotify.com/track/6gJmvaiNmOZWZoG7WRGJrO) | [Baron Grand](https://open.spotify.com/artist/1MmcsrLM2fdTjAf6tQu8SB) | [Remote Presence](https://open.spotify.com/album/3uZN27EbPINm5Pr8eHkA7F) | 3:07 | 2020-04-07 | 2020-11-19 |
 | [pleased as punch](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [pleased as punch](https://open.spotify.com/album/65ijOt7F7UB24RVOpELEXk) | 3:19 | 2022-12-23 |  |
+| [Politics of the Heart](https://open.spotify.com/track/25JczHXGPBQ6PZGt5293MR) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [One More Time Around](https://open.spotify.com/album/5i4o0pR4boNE3ttyh2G8dG) | 2:52 | 2023-02-03 |  |
 | [Pororoca \- Radio Edit](https://open.spotify.com/track/4fQewx3TWzldEKuTOGdXop) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Anissa Damali](https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns) | [Gager](https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y) | 3:46 | 2020-11-04 | 2020-11-11 |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |

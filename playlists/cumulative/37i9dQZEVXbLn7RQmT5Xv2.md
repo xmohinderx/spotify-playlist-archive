@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-563 songs - 1 day 7 hr 57 min
+564 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Beluga](https://open.spotify.com/track/3sHG3Wv2MqYFRZhUdnIXCO) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk) | [Beluga](https://open.spotify.com/album/1dvNFHIsX27M4lIYV3Z2sO) | 3:37 | 2021-06-12 | 2021-08-12 |
 | [Benfarea](https://open.spotify.com/track/4Y3Stcd2528Gb4Ee6nR7h4) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 4:03 | 2021-10-09 | 2021-10-16 |
 | [Benna Maad](https://open.spotify.com/track/6g7cuhVaVuf2XLruR5nnTW) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Benna Maad](https://open.spotify.com/album/05kVChSrcn5p8mLK2AgMOM) | 3:09 | 2022-07-27 | 2022-08-18 |
+| [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-03 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-15 |
 | [Bestek Now](https://open.spotify.com/track/3e1PxagfpNmZl8HzssQl5F) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Samer](https://open.spotify.com/artist/6THSwxEoIFmnhD7egfn9IQ) | [Bestek Now](https://open.spotify.com/album/3KqaY5JHXtH69LXnS2VLOK) | 3:01 | 2021-03-29 | 2021-03-31 |
 | [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2021-12-26 | 2023-02-02 |
@@ -135,7 +136,7 @@
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-02-04 | 2022-04-03 |
 | [El Gemeza](https://open.spotify.com/track/2w27LtQBJvauJ6vDw12ecs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [El Gemeza](https://open.spotify.com/album/6VpkfYz9MkclaPPEItH2XJ) | 2:59 | 2021-03-27\* | 2021-10-18 |
 | [El Gholaf X Ozoris](https://open.spotify.com/track/5M7EIx94YOdh1uH0qlzxuK) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [El Gholaf X Ozoris](https://open.spotify.com/album/1rjb5Q1v6OPD9sq8gQPhrf) | 4:01 | 2021-03-27\* | 2021-04-26 |
-| [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 |  |
+| [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-02-04 |
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-15 | 2022-06-26 |
 | [El Hob Ebn Wes5a](https://open.spotify.com/track/0RsGwcEEqxDMhNA0jahQFV) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:46 | 2022-02-17 | 2022-03-01 |
 | [El Hob Fein](https://open.spotify.com/track/60Gq23sQOFobysukKlK6fb) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 2:43 | 2021-03-31 | 2021-06-05 |

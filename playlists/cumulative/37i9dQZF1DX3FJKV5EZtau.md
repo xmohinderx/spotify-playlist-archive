@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-330 songs - 19 hr 9 min
+331 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Stardust Adventure](https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Stardust Adventure](https://open.spotify.com/album/4d7RidCnUxbQ4C5huq9G4S) | 3:05 | 2022-01-07 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id) | [Starlight](https://open.spotify.com/album/1i8mhstzGsJAzXD0a0lAug) | 2:20 | 2022-04-29 | 2022-10-13 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2022-01-07 | 2022-11-12 |
+| [stay](https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [stay](https://open.spotify.com/album/4ptRVYNs2KBa74ED3MvKmK) | 2:42 | 2023-02-03 |  |
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 | 2023-02-03 |
 | [Strawberry](https://open.spotify.com/track/4Nd6l4JZTipSyfm0DdMldl) | [Softable](https://open.spotify.com/artist/4fJY3cnLPbA2FvPrZqbvcS) | [Strawberry Game](https://open.spotify.com/album/12AqBsXJ4b6VLrN7jhkxSS) | 5:00 | 2022-01-07 | 2022-07-29 |
 | [Sugar Kisses](https://open.spotify.com/track/0YS9JX8irFJih9oxqeYa2V) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Sugar Kisses](https://open.spotify.com/album/7dC6xINHUWaK27IBhedw33) | 4:33 | 2022-01-07 | 2022-07-23 |
@@ -331,7 +332,7 @@
 | [You Make Me Better](https://open.spotify.com/track/6RnBCZ7caDIpkauSYrTqzp) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [You Make Me Better](https://open.spotify.com/album/2VfC59wqz3dEf7gNIi6ZkF) | 4:48 | 2022-10-27 | 2022-11-23 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2022-01-07 |  |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-07-29 |
-| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 |  |
+| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 | 2023-02-04 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2022-01-07 | 2022-10-15 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2022-01-07 | 2022-10-13 |
 | [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2022-10-07 |  |

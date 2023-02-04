@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 799594,
+  "num_followers": 799954,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1Mzk3MiwwMDAwMDAwMDM5ZDczN2MyNDRjZWMzNjlkY2E3ZWZlZDkzZGYzYTk3",
+  "snapshot_id": "MTY1ODg1Mzk3MiwwMDAwMDAwMGUzZjE1NDVmNGUzZDkwZDZhMzQ1NjExZWE0NWY2MGMx",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Camp Kill Yourself, Vol.1",
-        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
-      },
-      "artists": [
-        {
-          "name": "CKY",
-          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "96 Quite Bitter Beings",
-      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Camp Kill Yourself, Vol.1",
+        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
+      },
+      "artists": [
+        {
+          "name": "CKY",
+          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "96 Quite Bitter Beings",
+      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "MY FAVORITE NIGHTMARES",
-        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 124191,
-      "name": "SIDEWAYS (with Travis Barker)",
-      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -947,18 +927,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Road to Ruin (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+        "name": "MY FAVORITE NIGHTMARES",
+        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 149466,
-      "name": "I Wanna Be Sedated - 2002 Remaster",
-      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+      "duration_ms": 124191,
+      "name": "SIDEWAYS (with Travis Barker)",
+      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -975,6 +959,22 @@
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Road to Ruin (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 2002 Remaster",
+      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,22 +1231,6 @@
       "duration_ms": 111200,
       "name": "'Merican",
       "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "White Crosses",
-        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Southern Weather",
+        "url": "https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA"
+      },
+      "artists": [
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Say This Sooner",
+      "url": "https://open.spotify.com/track/7waZfrpjfOYktwulz6fo02"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Life's Not Out To Get You",
         "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Southern Weather",
-        "url": "https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA"
+        "name": "White Crosses",
+        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
       },
       "artists": [
         {
-          "name": "The Almost",
-          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Say This Sooner",
-      "url": "https://open.spotify.com/track/7waZfrpjfOYktwulz6fo02"
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "They Came From The Shadows",
         "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 110800,
       "name": "Skate or Die",
       "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Story So Far",
-        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Heavy Gloom",
-      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Party Animals",
         "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+        "name": "The Story So Far",
+        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
       },
       "artists": [
         {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 202106,
-      "name": "History Of A Boring Town",
-      "url": "https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq"
+      "duration_ms": 169960,
+      "name": "Heavy Gloom",
+      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1519,6 +1503,22 @@
       "duration_ms": 191266,
       "name": "I Hear You Calling",
       "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "History Of A Boring Town",
+      "url": "https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "White Light White Heat White Trash",
-        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
     }
   ],
   "unique_name": "Skatepark Punks",

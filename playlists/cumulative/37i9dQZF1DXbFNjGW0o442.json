@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
+  "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
   "name": "Rockeras",
   "tracks": [
     {
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 176490,
       "name": "El Oscuro",
       "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 127799,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
@@ -1724,6 +1724,24 @@
       "duration_ms": 269305,
       "name": "Infierno",
       "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
+    },
+    {
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     },
     {
       "album": {
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 223205,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"

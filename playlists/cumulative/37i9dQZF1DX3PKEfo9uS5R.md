@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-151 songs - 8 hr 3 min
+152 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Together Potion](https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Dance Under the Apple Tree](https://open.spotify.com/album/6ChVuZYL7nL6u9Gatu5s5C) | 3:08 | 2021-11-11 |  |
 | [Valencia Morning](https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv) | [Hotel Plaza](https://open.spotify.com/artist/4NOvvsl3lAjFsZVFyetMMB) | [Midnight Salute](https://open.spotify.com/album/5FAu2PHY3zq0vnFTmG06VU) | 2:58 | 2022-01-21 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-11 |  |
+| [Warm Winds](https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Warm Winds](https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG) | 2:23 | 2023-02-03 |  |
 | [Washed Away](https://open.spotify.com/track/1e0Q9veokrlQKVTiKv3jLx) | [Leon Meier](https://open.spotify.com/artist/0DTofPSC4MRF3w1Z6G0Nca) | [Washed Away](https://open.spotify.com/album/3ZRqvvAjiVDWms9WPCebXq) | 3:35 | 2021-11-11 | 2022-05-11 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-11 |  |
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |

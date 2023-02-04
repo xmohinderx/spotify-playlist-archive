@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-711 songs - 1 day 13 hr 29 min
+712 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Dreaming Deeper](https://open.spotify.com/track/4KPRqt53xnT2Hs2rDGKiRu) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Dreaming Sessions](https://open.spotify.com/album/46II2E9jn1lDdklpYBM1CT) | 3:43 | 2019-05-26\* | 2023-01-07 |
 | [Dreams Dissolving](https://open.spotify.com/track/0MQm7MYFD4ZBocFv0AgS5L) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Dreams Dissolving](https://open.spotify.com/album/73926xAqHitMvOSKVjFd0D) | 2:56 | 2022-01-19 |  |
 | [Dreams Of Another Reality](https://open.spotify.com/track/6e21HGKZqkwYjddfKCnstu) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 3:10 | 2019-05-26\* | 2020-01-03 |
+| [Drifting Tides](https://open.spotify.com/track/7K0Rphw24dhliYMbiyo1n9) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Drifting Tides](https://open.spotify.com/album/1pOieHfV7KG6ix7EIJAXd6) | 3:27 | 2023-02-03 |  |
 | [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2019-06-29 | 2023-01-07 |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
 | [Dynamite](https://open.spotify.com/track/2a5Yy9BdjglLePuUxHv8hS) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Session 1](https://open.spotify.com/album/3d7wGAxjqflpvqzJoc2ACP) | 3:16 | 2019-05-26\* | 2020-01-03 |
@@ -461,7 +462,7 @@
 | [Our Powers](https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [Our Powers](https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6) | 2:36 | 2022-07-22 |  |
 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 | 2019-05-26\* | 2020-01-09 |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2021-05-18 |  |
-| [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2019-05-26\* |  |
+| [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2019-05-26\* | 2023-02-04 |
 | [Painted Life](https://open.spotify.com/track/4pHZ2Ng85VvdJwOjmvsJQE) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Painted Life](https://open.spotify.com/album/1rJtAFopDEoJqcC2MgUEf9) | 2:44 | 2020-10-27 |  |
 | [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2019-12-07 | 2021-10-13 |
 | [Panorama](https://open.spotify.com/track/1CtzGZc17t0nKyEcTpL9Qx) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Panorama](https://open.spotify.com/album/4ZjPnTwrIui6Y1dMavUSdr) | 3:40 | 2019-05-26\* | 2021-09-14 |

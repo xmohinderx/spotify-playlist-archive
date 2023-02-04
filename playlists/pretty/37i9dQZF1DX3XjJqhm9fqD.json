@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 74155,
+  "num_followers": 74174,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDNmNGZkOGE2YWY1NDhmODE0ODMzZDI0YWFhYzA4MzNi",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDdlYTU3MjQzZGFmZDFmMTgxMTFjOTMwMTkxMzc0NDU0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -383,22 +383,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+        "name": "Chay",
+        "url": "https://open.spotify.com/album/3due3dfxS3NOzt88kVNQoM"
       },
       "artists": [
         {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
         }
       ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+      "duration_ms": 252373,
+      "name": "Bom sou 2 bo",
+      "url": "https://open.spotify.com/track/3PrwZ3JStN6BrFQ622bXVE"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -447,18 +443,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Chay",
-        "url": "https://open.spotify.com/album/3due3dfxS3NOzt88kVNQoM"
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
       "artists": [
         {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 252373,
-      "name": "Bom sou 2 bo",
-      "url": "https://open.spotify.com/track/3PrwZ3JStN6BrFQ622bXVE"
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Kamasootra",
+        "url": "https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Gen Bagay",
-        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
-      },
-      "artists": [
-        {
-          "name": "Yani Martelly",
-          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
-        },
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Gen Bagay",
-      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "African Sun (Remix)",
         "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
       },
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Gen Bagay",
+        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
+      },
+      "artists": [
+        {
+          "name": "Yani Martelly",
+          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Gen Bagay",
+      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Apre bal la",
         "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 237362,
       "name": "Apre bal la",
       "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Kamasootra",
-        "url": "https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF"
-      },
-      "artists": [
-        {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ba L on Bye (Remix)",
-        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
-      },
-      "artists": [
-        {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 216412,
-      "name": "Ba L on Bye (Remix)",
-      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Ba L on Bye (Remix)",
+        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 216412,
+      "name": "Ba L on Bye (Remix)",
+      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1455,42 +1455,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "L'aventure Continue",
-        "url": "https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "Premye Fwa'm Damou",
-      "url": "https://open.spotify.com/track/02haBMulGrXnL7pMaSKfdO"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1519,6 +1483,42 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "L'aventure Continue",
+        "url": "https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "Premye Fwa'm Damou",
+      "url": "https://open.spotify.com/track/02haBMulGrXnL7pMaSKfdO"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "House Life",
-        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "House Life",
-      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Nahil\u00e9",
         "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 229787,
       "name": "Nahil\u00e9",
       "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "House Life",
+        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "House Life",
+      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB"
       },
       "artists": [
         {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+          "name": "Chris Felix",
+          "url": "https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX"
         }
       ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+      "duration_ms": 158620,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Felix",
-          "url": "https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1891,22 +1907,6 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2022-11-18 05:00:00",

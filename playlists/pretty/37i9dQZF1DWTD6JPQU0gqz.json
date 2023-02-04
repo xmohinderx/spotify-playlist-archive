@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44876,
+  "num_followers": 44874,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMDg5NDkwOWJlNzE3ZTU0NmNiMThkNjE2ZWM0MjRjNzQz",
+  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMGUyN2Q4MzczYTI5YWMxMDMyNDg2OTdhZjdhYTJlNTg1",
   "tracks": [
     {
       "added_at": "2022-10-26 22:49:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-26 22:49:24",
       "album": {
-        "name": "Tambores y Cantos",
-        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 288586,
-      "name": "Prende La Vela",
-      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
-    },
-    {
-      "added_at": "2022-10-26 22:49:24",
-      "album": {
         "name": "EnVy",
         "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-10-26 22:49:24",
       "album": {
-        "name": "ABUC",
-        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+        "name": "Tambores y Cantos",
+        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
-      "duration_ms": 225173,
-      "name": "Afro Mambo",
-      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
+      "duration_ms": 288586,
+      "name": "Prende La Vela",
+      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
     },
     {
       "added_at": "2022-10-26 22:49:24",
@@ -1003,6 +987,22 @@
       "duration_ms": 208203,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
+    },
+    {
+      "added_at": "2022-10-26 22:49:24",
+      "album": {
+        "name": "ABUC",
+        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Afro Mambo",
+      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
     },
     {
       "added_at": "2022-10-26 22:49:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-26 22:49:24",
       "album": {
-        "name": "Creature!",
-        "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
-      },
-      "artists": [
-        {
-          "name": "Nitty Scott",
-          "url": "https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg"
-        }
-      ],
-      "duration_ms": 155522,
-      "name": "Negrita",
-      "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
-    },
-    {
-      "added_at": "2022-10-26 22:49:24",
-      "album": {
         "name": "DIADREAMER",
         "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 190102,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/6265pP7vOElddtF32MJmts"
+    },
+    {
+      "added_at": "2022-10-26 22:49:24",
+      "album": {
+        "name": "Creature!",
+        "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
+      },
+      "artists": [
+        {
+          "name": "Nitty Scott",
+          "url": "https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg"
+        }
+      ],
+      "duration_ms": 155522,
+      "name": "Negrita",
+      "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
     },
     {
       "added_at": "2022-10-26 22:49:24",

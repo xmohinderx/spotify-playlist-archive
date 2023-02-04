@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-131 songs - 7 hr 15 min
+132 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 | 2021-12-10 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2021-12-10 |  |
 | [Boys 'Round Here \- Stadium Dance Mix](https://open.spotify.com/track/5LwovomzSD5v7S6iRsgYOS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Boys 'Round Here \(Stadium Dance Mix\)](https://open.spotify.com/album/3bt48gkdg8kAtEYREhaecD) | 5:39 | 2021-12-10 |  |
+| [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/track/4IyrCFU0VeashNaFySWyQm) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Can I Get It Back \(R3HAB Remix\)](https://open.spotify.com/album/3MCSqRSRpH36UeP6PmeHvt) | 2:18 | 2023-02-03 |  |
 | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/track/0CTLLbwxLjQghLELl6pI2P) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Can't Fight The Moonlight \(Dave Audé Mix\)](https://open.spotify.com/album/6FoGSb71NHjSYugHNGcppQ) | 4:02 | 2021-12-10 |  |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-29 |  |
 | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/album/1b6BA0fpdHJyYsO04QQIb6) | 3:30 | 2021-12-10 |  |

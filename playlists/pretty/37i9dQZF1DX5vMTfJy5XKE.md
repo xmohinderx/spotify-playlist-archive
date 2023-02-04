@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,513 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,468 likes - 166 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 56 | [I Don't Know What Christmas Is \(But Christmastime Is Here\)](https://open.spotify.com/track/7AD4sAsJJQm0Bog0zhwYrf) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 3:02 |
 | 57 | [Because It's Christmas](https://open.spotify.com/track/2bnCUBgmqbirSSyUWiK1jw) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Because It's Christmas](https://open.spotify.com/album/66dvNhgCyN9ltRO7Pbt4Kz) | 3:19 |
 | 58 | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/track/3agFbERmZM62th15YW4Iru) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx) | 3:34 |
-| 59 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 |
+| 59 | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 |
 | 60 | [O Holy Night \(feat\. The McLendon Family\)](https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [The McLendon Family](https://open.spotify.com/artist/5P8EFlWzOUDzJHmR6QyF1A) | [O Holy Night](https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe) | 5:06 |
 | 61 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
 | 62 | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:56 |

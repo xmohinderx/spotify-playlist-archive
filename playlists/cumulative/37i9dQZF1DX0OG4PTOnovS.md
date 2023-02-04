@@ -4,7 +4,7 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-66 songs - 3 hr 51 min
+67 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Super Wonderful](https://open.spotify.com/track/20IrSoFxLEkytrpGXAM0Ir) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Taste and See](https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY) | 3:07 | 2021-12-17 |  |
 | [Superhero \- Live](https://open.spotify.com/track/7blZ34IQJjSf3J12eu3pGe) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Super Hero \(Live\)](https://open.spotify.com/album/1K0Zez4ioepzv2iBbljsNN) | 3:04 | 2021-12-17 |  |
 | [Superstar](https://open.spotify.com/track/38yBdl8SibnoA4k3QvguyF) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats 2](https://open.spotify.com/album/3IQHCaiHxWtPXnNJA9uIy0) | 3:08 | 2021-12-17 |  |
+| [The Joy](https://open.spotify.com/track/22QlRiS7hgbG8O7A1cfbr3) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [The Joy](https://open.spotify.com/album/3e4FoywIN5pXNnIYxLIXMN) | 3:29 | 2023-02-03 |  |
 | [The Ten Commandment Boogie](https://open.spotify.com/track/5WdmalqYXxJV2rAHZJuxe8) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 3:00 | 2021-12-17 |  |
 | [This Is Amazing Grace](https://open.spotify.com/track/1EkYmRwXsNydkeC7N49AV3) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:16 | 2022-03-07 |  |
 | [This Is Amazing Grace](https://open.spotify.com/track/7kpOTgyNhIVVdg3a3jvnGQ) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:16 | 2021-12-17 | 2022-07-29 |

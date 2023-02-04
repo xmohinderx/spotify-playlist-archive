@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-21 songs - 1 hr 12 min
+28 songs - 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,15 @@
 | [Batshit](https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:23 | 2023-01-11 |  |
 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2023-01-20 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2023-01-20 |  |
+| [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:16 | 2023-02-03 |  |
 | [Don't Say](https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 | 2023-01-11 |  |
 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 | 2023-01-11 |  |
 | [Dressed In Black](https://open.spotify.com/track/6ae0TVkpnFvn0dz4zIVlyd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 6:40 | 2023-01-11 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-20 |  |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2023-01-20 |  |
+| [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 | 2023-02-03 |  |
 | [Java Jive](https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2023-01-27 |  |
+| [JULIETTE! \(Feat\. UMI\)](https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:06 | 2023-02-03 |  |
 | [Look Back](https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Look Back](https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN) | 3:04 | 2023-01-11 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2023-01-27 |  |
 | [Ships](https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8) | 4:00 | 2023-01-27 |  |
@@ -26,8 +29,12 @@
 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 | 2023-01-20 |  |
 | [Talk To Me \- Instrumental](https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 | 2023-01-20 |  |
 | [Thunderclouds \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:07 | 2023-01-11 |  |
+| [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2023-02-03 |  |
 | [Voilà](https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:20 | 2023-01-11 |  |
 | [When I Need You](https://open.spotify.com/track/6Ee6pMOa4ukBJHCHWrPtw4) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [STARRY NIGHT](https://open.spotify.com/album/2Mqs4qQ3wPmAgTX6yYfdeZ) | 4:17 | 2023-01-27 |  |
 | [Writing](https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 3:40 | 2023-01-27 |  |
+| [You](https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 | 2023-02-03 |  |
+| [You \- Instrumental](https://open.spotify.com/track/4eCXxRfrFUrBEVCWlTA1MH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 | 2023-02-03 |  |
+| [You Can Rest \(feat.Babylon\)](https://open.spotify.com/track/17abOqBP0HKExIIVzp69Pp) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [You Can Rest](https://open.spotify.com/album/5rNOTnBRPjeNN73jbuFoRV) | 3:00 | 2023-02-03 |  |
 
 \*This playlist was first scraped on 2023-01-12. Prior content cannot be recovered.

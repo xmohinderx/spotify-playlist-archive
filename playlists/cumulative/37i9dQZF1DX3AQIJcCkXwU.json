@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Core Of The Truth",
+        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206184,
+      "name": "Core Of The Truth",
+      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
+    },
+    {
+      "album": {
         "name": "Bansuri - The Bamboo Flute of India",
         "url": "https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 478826,
       "name": "Songs from the Seven Towers",
       "url": "https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls"

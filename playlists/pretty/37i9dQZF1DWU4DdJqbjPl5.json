@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=xEKiAihIQCqCh5PClHy0Jg\" >Nonso Amadi</a> ",
-  "num_followers": 145197,
+  "num_followers": 145327,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzQxOCwwMDAwMDAwMDhjYzMzNGFlYjEzMGU1OGE2NDRkYjE0OWU1Yzk1MWVi",
+  "snapshot_id": "MTY3NTQxMzc3MywwMDAwMDAwMDc2MmZiMWYxOGM4NWYxYTZhMjdmNDU1ZDJiMTFlNTZm",
   "tracks": [
     {
       "added_at": "2023-01-27 08:16:58",
@@ -173,24 +173,40 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
-      "added_at": "2023-01-27 08:16:58",
+      "added_at": "2023-02-03 08:42:53",
       "album": {
-        "name": "Anchor Baby",
-        "url": "https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1"
+        "name": "INNER WARRIOR",
+        "url": "https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM"
       },
       "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
         {
           "name": "Rhita Nattah",
           "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
         }
       ],
-      "duration_ms": 159914,
-      "name": "Good Lovin'",
-      "url": "https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk"
+      "duration_ms": 208759,
+      "name": "Fear Nothing",
+      "url": "https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5"
+    },
+    {
+      "added_at": "2023-02-03 08:42:53",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M"
+      },
+      "artists": [
+        {
+          "name": "Lexsil",
+          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT"
     },
     {
       "added_at": "2023-01-27 08:16:58",
@@ -223,6 +239,22 @@
       "duration_ms": 184334,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
+    },
+    {
+      "added_at": "2023-02-03 08:42:53",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv"
     },
     {
       "added_at": "2023-01-27 08:16:58",
@@ -315,6 +347,38 @@
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
+      "added_at": "2023-02-03 08:42:53",
+      "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "added_at": "2023-02-03 08:42:53",
+      "album": {
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Yolo",
+      "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
     },
     {
       "added_at": "2023-01-27 08:16:58",
@@ -471,50 +535,6 @@
       "duration_ms": 197828,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34"
-    },
-    {
-      "added_at": "2023-01-27 08:16:58",
-      "album": {
-        "name": "Amukelani",
-        "url": "https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Nanette",
-          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
-        },
-        {
-          "name": "S.O.N",
-          "url": "https://open.spotify.com/artist/0I5rNJv2Bldivd8UjTGlQ6"
-        },
-        {
-          "name": "Jay Sax",
-          "url": "https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC"
-        }
-      ],
-      "duration_ms": 475651,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx"
-    },
-    {
-      "added_at": "2023-01-27 08:16:58",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
     },
     {
       "added_at": "2023-01-27 08:16:58",
@@ -743,30 +763,6 @@
       "duration_ms": 210000,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
-    },
-    {
-      "added_at": "2023-01-27 08:16:58",
-      "album": {
-        "name": "Bad News",
-        "url": "https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx"
-      },
-      "artists": [
-        {
-          "name": "PLXYGRND",
-          "url": "https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp"
-        },
-        {
-          "name": "Gemma Griffiths",
-          "url": "https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG"
-        },
-        {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41"
     },
     {
       "added_at": "2023-01-27 08:16:58",
@@ -1427,22 +1423,6 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2023-01-27 08:16:58",
-      "album": {
-        "name": "My WorlD With U",
-        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "SAME AS YOU",
-      "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     }
   ],
   "unique_name": "Tantalizers",

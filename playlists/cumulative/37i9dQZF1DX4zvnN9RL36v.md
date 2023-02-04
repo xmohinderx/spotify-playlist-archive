@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-107 songs - 7 hr 4 min
+108 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 | 2022-03-07 |  |
 | [Honesty](https://open.spotify.com/track/63AyrRTi5G6HBOic0TaENv) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [Honesty](https://open.spotify.com/album/5jVTyv5ByyJbR12tELjMug) | 3:26 | 2022-03-07 | 2022-08-19 |
 | [I Ain't Over](https://open.spotify.com/track/56opKxy1re5cxtvkWb1SeW) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD) | 4:10 | 2022-03-07 | 2022-07-29 |
-| [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 | 2022-06-09 |  |
+| [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 | 2022-06-09 | 2023-02-04 |
 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 | 2022-03-07 |  |
 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 | 2022-06-09 |  |
 | [If You Were Me \(From Mr\. Sunshine \[Original Television Soundtrack\], Pt\. 14\)](https://open.spotify.com/track/55vLDRsWmZoUyKgNgF2mZP) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [If You Were Me \[From Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14\]](https://open.spotify.com/album/2oiawoUuxkhUEDEiTrcXgI) | 4:24 | 2022-03-07 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [짝사랑](https://open.spotify.com/track/5f4njgyIwbtswRgyR9dkpz) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Dizzy Blue](https://open.spotify.com/artist/0yaEp8jeamvr1BM1wuQuyt), [Flaboi](https://open.spotify.com/artist/10lBXlAJSTYkswS8X6A9nV) | [Seoul Vibes Pt\. 10](https://open.spotify.com/album/7C8e7Qw70E9UpjjXcYGiMD) | 4:22 | 2022-03-07 | 2022-07-29 |
 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 | 2022-03-07 |  |
 | [짝사랑 Zzack Sarang](https://open.spotify.com/track/7oy7LuhLhI40jdCPLp8Ui8) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/0XW9i8hTybWNZdkbqZTMwF) | 3:14 | 2022-03-07 | 2022-07-29 |
+| [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 | 2023-01-25 |  |
 | [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 | 2023-01-14 |
 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 | 2022-06-09 |  |
 | [화분](https://open.spotify.com/track/4MCeRSrPZsGalXvCIOHKRG) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/44kpTZZDeFOVqjiRedSNK0) | 4:39 | 2022-03-07 | 2022-07-29 |

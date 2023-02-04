@@ -2,9 +2,9 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Lil Yachty
+> Genre\-less\. Quality first always\. Cover: Omar Apollo
 
-1,846 songs - 4 day 8 hr 3 min
+1,850 songs - 4 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-01-24 | 2022-04-23 |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2020-10-15 | 2021-02-06 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-15 | 2022-11-12 |
+| [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-02-03 |  |
 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 | 2020-08-24 | 2020-11-21 |
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2020-07-09 | 2020-10-24 |
 | [Are You Feeling Sad?](https://open.spotify.com/track/6iTHsvN6Mi2xaQ0igLNvTD) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Are You Feeling Sad?](https://open.spotify.com/album/5wTdvOpWCOokNlDRQDyLSm) | 2:38 | 2020-03-06 | 2020-05-16 |
@@ -230,6 +231,7 @@
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-05-27 | 2022-08-20 |
 | [Bliss](https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:51 | 2022-04-11 | 2022-06-25 |
 | [Blood & Guts](https://open.spotify.com/track/0UpPY4bquCGW5PtysS0HHJ) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Blood & Guts](https://open.spotify.com/album/0QkSqU0Z2x4WM5pevY9PvU) | 1:45 | 2019-10-11 | 2019-11-02 |
+| [Blood And Butter](https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Blood And Butter](https://open.spotify.com/album/3dedSM3XVmO5P5cSxXdU7K) | 4:28 | 2023-02-03 |  |
 | [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 | 2022-08-06 |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30\* | 2019-08-29 |
 | [BLUE](https://open.spotify.com/track/1Roxb5PucuEVW34lGHRhMY) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [BLUE](https://open.spotify.com/album/5Xxx5CEY3kOdYzIHyxfkYo) | 2:17 | 2019-07-30\* | 2019-10-18 |
@@ -333,6 +335,7 @@
 | [Chimes \(Radio Edit\)](https://open.spotify.com/track/0Llje2NhQN62sqZbwiVv1E) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Chimes](https://open.spotify.com/album/6sRGBbJXVA9duLDDz46zYy) | 3:48 | 2019-08-24 | 2019-10-04 |
 | [Chivalry Is Not Dead](https://open.spotify.com/track/4nd9kZRsdc1IC9cWYjL2ox) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Chivalry Is Not Dead](https://open.spotify.com/album/6872EZ9OSw9I7JO560E58c) | 3:26 | 2021-06-09 | 2021-09-25 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-21 | 2022-04-29 |
+| [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-03 |  |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [Cig Angel](https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Cig Angel](https://open.spotify.com/album/2UaunxBp4RBJ8gojLPt80d) | 2:50 | 2019-09-27 | 2020-01-16 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-14 | 2021-05-29 |
@@ -373,6 +376,7 @@
 | [Confessions](https://open.spotify.com/track/6hNOIbjfIT6UCSYkqtE102) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Confessions](https://open.spotify.com/album/1a7y3bmUPtzxEYQN7O5HoZ) | 2:53 | 2019-08-29 | 2019-12-06 |
 | [Connaissais de Face](https://open.spotify.com/track/6cVstYpU7fB0IKhJJmaqVe) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk) | 4:20 | 2020-06-29 | 2020-09-18 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 |  |
+| [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-03 |  |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-07-22 | 2022-09-03 |
 | [Cookie Chips](https://open.spotify.com/track/388bpvPl0s0VxtZorgBFtO) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Cookie Chips](https://open.spotify.com/album/2scDnVR563kWD5Rqj6OF61) | 4:19 | 2020-07-18 | 2021-04-24 |
 | [Cookout](https://open.spotify.com/track/6Eijbe8cJeRl8yGSotw7iT) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/0woKaznGSGpOoxbuidbHpE) | 3:01 | 2020-03-21 | 2020-06-12 |

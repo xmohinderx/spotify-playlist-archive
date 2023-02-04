@@ -1,12 +1,12 @@
 {
   "description": "Escuch\u00e1 a Yami Safdie y a m\u00e1s mujeres a todo volumen. \nDales PLAY, dales POWER.",
-  "num_followers": 24785,
+  "num_followers": 24988,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGVhMTMwZDI4YjkyNWI0OGQ1NGEzOTg4N2UxY2YzZDk2",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGUzNWI0ZTY5ZWRjOGUyMDZlNmY1NjQ3YjM4NThkNDEz",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "BSOS",
+      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Loter\u00eda",
         "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 133760,
       "name": "Loter\u00eda",
       "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "El terciopelo",
-        "url": "https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 138530,
-      "name": "La historia de la sensibilidad",
-      "url": "https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "El terciopelo",
+        "url": "https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 186245,
-      "name": "BSOS",
-      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
+      "duration_ms": 138530,
+      "name": "La historia de la sensibilidad",
+      "url": "https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -403,6 +403,22 @@
       "duration_ms": 144000,
       "name": "Ella y Yo",
       "url": "https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Fumando Menos",
+        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Fumando Menos",
+      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -435,22 +451,6 @@
       "duration_ms": 211186,
       "name": "D\u00cdAS COMO HOY",
       "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Fumando Menos",
-        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Fumando Menos",
-      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Spm (Se Pronuncia Maguaier)",
-        "url": "https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 201196,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/6xV2QrHmIS0yHe1wkPeXZR"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Spm (Se Pronuncia Maguaier)",
+        "url": "https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz"
     },
     {
       "added_at": "2023-02-01 03:00:00",

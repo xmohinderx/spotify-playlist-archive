@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-170 songs - 9 hr 55 min
+171 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 | 2021-10-15 |  |
 | [Til the End of Time](https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Lisa Hartman Black](https://open.spotify.com/artist/6vSo8MOzgy8fBHPyFuq0Iv) | [Til the End of Time](https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf) | 4:58 | 2021-10-15 | 2022-09-21 |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-11-12 | 2022-09-21 |
+| [Tonight Is The Night](https://open.spotify.com/track/1JDTv7O9CwSGN8iLyaLNyx) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Tonight Is The Night](https://open.spotify.com/album/4tTqwMPuT0KT0SG0zcVNt6) | 4:38 | 2023-02-03 |  |
 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 | 2022-07-22 |  |
 | [Tower Of Song](https://open.spotify.com/track/7vC8tIEacbNfLYrxUsB6Vb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tower Of Song](https://open.spotify.com/album/6BupEbALr7Uh9BnqXmkGms) | 4:59 | 2022-04-01 | 2022-07-29 |
 | [Trying to Find Atlantis 2.0](https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Sometimes](https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD) | 3:13 | 2021-10-15 |  |

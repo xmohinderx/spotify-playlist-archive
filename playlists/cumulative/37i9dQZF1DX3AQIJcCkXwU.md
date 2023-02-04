@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-146 songs - 10 hr 55 min
+147 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
 | [Common Pierrot Paths](https://open.spotify.com/track/3Xm4iHDqUc7NS4PNNLxxP1) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Common Pierrot Paths](https://open.spotify.com/album/0WfnQuBv1xEqxvshcaaPe9) | 3:21 | 2022-07-11 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
+| [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-02-03 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-04-04 |  |
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 |  |
 | [Dark to Light](https://open.spotify.com/track/6OTMqCpaAzJXu8TuR1ou2p) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:44 | 2022-10-08 |  |
@@ -126,7 +127,7 @@
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 |  |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |
-| [Songs from the Seven Towers](https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:58 | 2022-07-18 |  |
+| [Songs from the Seven Towers](https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:58 | 2022-07-18 | 2023-02-04 |
 | [Songs From the Seven Towers](https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales From The Grand Bazaar](https://open.spotify.com/album/2Al6Kbhpuz7MTaffnffc17) | 7:58 | 2022-04-04 | 2022-07-29 |
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-01-09 |  |
 | [Sun Riser](https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Sun Riser](https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK) | 4:26 | 2022-04-04 |  |

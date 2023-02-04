@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,966 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,981 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,20 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 32 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 |
 | 33 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 |
 | 34 | [Cherry Glitter](https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa) | [Highway Apostles](https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE) | [Cherry Glitter](https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf) | 3:28 |
-| 35 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 |
-| 36 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 |
-| 37 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 |
-| 38 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 |
-| 39 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 |
-| 40 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 |
-| 41 | [Kom Kry Van Myne](https://open.spotify.com/track/3E3768rjpDCanBS5ehkuXg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Kom Kry Van Myne](https://open.spotify.com/album/3m0if00d6lcjf4f9OrCtM0) | 3:37 |
-| 42 | [Silver Foyer](https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder Just Don't Spit In My Mouth](https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7) | 3:53 |
-| 43 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
-| 44 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 |
-| 45 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
-| 46 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 |
-| 47 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 |
-| 48 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 |
-| 49 | [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 |
+| 35 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 |
+| 36 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 |
+| 37 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 |
+| 38 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 |
+| 39 | [As I Turn Away](https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv) | [Jack Hammer Band](https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ) | [As I Turn Away](https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS) | 4:35 |
+| 40 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 |
+| 41 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 |
+| 42 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 |
+| 43 | [Kom Kry Van Myne](https://open.spotify.com/track/3E3768rjpDCanBS5ehkuXg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Kom Kry Van Myne](https://open.spotify.com/album/3m0if00d6lcjf4f9OrCtM0) | 3:37 |
+| 44 | [Silver Foyer](https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder Just Don't Spit In My Mouth](https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7) | 3:53 |
+| 45 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
+| 46 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 |
+| 47 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
+| 48 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 |
+| 49 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 |
+| 50 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 |
 
-Snapshot ID: `MTY3NTM3NTE0MCwwMDAwMDAwMGEyNmE0OTcyYjQ4YmI2YTkxMWRhY2NiOGU4Y2JmYWE1`
+Snapshot ID: `MTY3NTQwODkyMCwwMDAwMDAwMDY4ZTJlZDA1NGE2YWNiZjdmMTU4MDE1ZWJlZDIwNjA1`

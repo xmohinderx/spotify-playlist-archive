@@ -1,12 +1,12 @@
 {
   "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Leland.",
-  "num_followers": 3963,
+  "num_followers": 3972,
   "original_name": "Pride Beyond Borders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4OTI2MSwwMDAwMDAwMDlhNTE4ZGRiOGM0MzA0MWQ4MzEwMTcxMWIyODQ0NTQz",
+  "snapshot_id": "MTY3NDU4OTI2MSwwMDAwMDAwMGEyMzMyNzNkNTU0ZTg1OTA5MDFmN2I3YWRmZDk4YjUz",
   "tracks": [
     {
       "added_at": "2023-01-24 05:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "God Is A Freak",
         "url": "https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 187229,
       "name": "God Is A Freak",
       "url": "https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "GET ME OUTTA HERE",
-        "url": "https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 194208,
-      "name": "GET ME OUTTA HERE",
-      "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "Don't Kiss Ur Friends",
         "url": "https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 197487,
       "name": "Time I Love To Waste",
       "url": "https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "GET ME OUTTA HERE",
+        "url": "https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "GET ME OUTTA HERE",
+      "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK"
-      },
-      "artists": [
-        {
-          "name": "Martha Da'ro",
-          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "Hauntology",
         "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 239746,
       "name": "Hauntology",
       "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK"
+      },
+      "artists": [
+        {
+          "name": "Martha Da'ro",
+          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "Child Of The Government",
-        "url": "https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L"
-      },
-      "artists": [
-        {
-          "name": "Jayli Wolf",
-          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
-        }
-      ],
-      "duration_ms": 221392,
-      "name": "Child Of The Government",
-      "url": "https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "You Will Not Die (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg"
+        "name": "Child Of The Government",
+        "url": "https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L"
       },
       "artists": [
         {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+          "name": "Jayli Wolf",
+          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
         }
       ],
-      "duration_ms": 249093,
-      "name": "Interloper",
-      "url": "https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB"
+      "duration_ms": 221392,
+      "name": "Child Of The Government",
+      "url": "https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 332571,
       "name": "Hasta Que Me Quieras",
       "url": "https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "You Will Not Die (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "EL ETERNO RETORNO",
-        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
-      },
-      "artists": [
-        {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
-        }
-      ],
-      "duration_ms": 230292,
-      "name": "si estuvie\u0301semos juntos",
-      "url": "https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "slipping",
         "url": "https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 202502,
       "name": "slipping",
       "url": "https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "EL ETERNO RETORNO",
+        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 230292,
+      "name": "si estuvie\u0301semos juntos",
+      "url": "https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "We Can Fall In Love",
-        "url": "https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u"
+        "name": "You!",
+        "url": "https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1"
       },
       "artists": [
         {
-          "name": "Mx Blouse",
-          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
+          "name": "LonelyTwin",
+          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
         }
       ],
-      "duration_ms": 164675,
-      "name": "We Can Fall In Love",
-      "url": "https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh"
+      "duration_ms": 166231,
+      "name": "I Will Be Better Than You At Letting Go",
+      "url": "https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA"
     }
   ],
   "unique_name": "Pride Beyond Borders",

@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
@@ -2604,6 +2604,24 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726"
     },
     {
       "album": {
@@ -4210,6 +4228,24 @@
       "duration_ms": 223903,
       "name": "The Blue Night of Jeju Island",
       "url": "https://open.spotify.com/track/1bkVIRImvamFobcgE8aVW0"
+    },
+    {
+      "album": {
+        "name": "Object",
+        "url": "https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "The chair",
+      "url": "https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt"
     },
     {
       "album": {

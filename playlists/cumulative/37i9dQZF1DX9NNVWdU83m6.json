@@ -1053,6 +1053,32 @@
     },
     {
       "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/315zprf1POK89DZOYBsPtQ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265059,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/7tO177bfJZ1IJasWil96wD"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu"
       },
@@ -2428,7 +2454,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 305858,
       "name": "Truck Fump",
       "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"

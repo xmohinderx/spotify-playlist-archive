@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Cole Swindell\n",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Caylee Hammack\n",
   "name": "New Boots",
   "tracks": [
     {
@@ -976,6 +976,24 @@
       "duration_ms": 217493,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/6GDoB0ElVSaAbkfAjoe1PI"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ"
     },
     {
       "album": {
@@ -4638,6 +4656,28 @@
       "duration_ms": 236085,
       "name": "Covered In Dirt",
       "url": "https://open.spotify.com/track/3EY88M2B3fR0WZodOc1mVq"
+    },
+    {
+      "album": {
+        "name": "Cowboy Boots",
+        "url": "https://open.spotify.com/album/6735zwF78QfE3MuvoFRkdq"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273857,
+      "name": "Cowboy Boots",
+      "url": "https://open.spotify.com/track/7xa9uj2bo3N5A4MAjlwqgL"
     },
     {
       "album": {
@@ -11658,7 +11698,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 217786,
       "name": "How You Know You Made It",
       "url": "https://open.spotify.com/track/0TdzyXMNPMDkDAFB2O3Cwl"
@@ -15689,6 +15729,24 @@
     },
     {
       "album": {
+        "name": "Man of the House",
+        "url": "https://open.spotify.com/album/3GzEOaDoskgsIMeUIxr0Jm"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/2IlVEx6F9unZSn2IojVUka"
+    },
+    {
+      "album": {
         "name": "Man That Hung The Moon",
         "url": "https://open.spotify.com/album/6eKcrMO3unD4AWfDv8U9Wk"
       },
@@ -15718,7 +15776,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 190760,
       "name": "Marry That Girl",
       "url": "https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy"
@@ -15902,7 +15960,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
@@ -16472,7 +16530,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 210426,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
@@ -20746,7 +20804,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 196493,
       "name": "Same Ol' Me",
       "url": "https://open.spotify.com/track/2j9qsSH43C5uLA9plM8532"
@@ -24775,6 +24833,24 @@
     },
     {
       "album": {
+        "name": "Them Girls Do",
+        "url": "https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172405,
+      "name": "Them Girls Do",
+      "url": "https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP"
+    },
+    {
+      "album": {
         "name": "Then A Girl Walks In",
         "url": "https://open.spotify.com/album/1fN99aX1ZDP1t8kgB46b8x"
       },
@@ -26032,6 +26108,24 @@
       "duration_ms": 151941,
       "name": "Unlonely Me",
       "url": "https://open.spotify.com/track/1yUHlqsVLvrPEKXMB0prDe"
+    },
+    {
+      "album": {
+        "name": "Unlove You",
+        "url": "https://open.spotify.com/album/5qYZqs3PoSTi0pozQm4zSH"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177045,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/1jAzdHn0n2mODt7ZwW9S8N"
     },
     {
       "album": {

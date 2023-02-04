@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 172000,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12"
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 237659,
       "name": "Guybrush",
       "url": "https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb"
@@ -6699,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/61UED012ycFtrMV5N13AuT"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198112,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO"
+    },
+    {
+      "album": {
         "name": "Midding",
         "url": "https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL"
       },
@@ -6800,7 +6818,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 138620,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5"
@@ -7140,6 +7158,24 @@
       "duration_ms": 247638,
       "name": "Move Me Tonight",
       "url": "https://open.spotify.com/track/1TQ0aiLrWb8Bvnlynd2XyH"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1vsNh7Wpc9z4V8esGzKTzI"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kiko",
+          "url": "https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143551,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2hM24Y2OY4vGuNTtxMrE7N"
     },
     {
       "album": {
@@ -8368,6 +8404,24 @@
       "duration_ms": 199375,
       "name": "pleased as punch",
       "url": "https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L"
+    },
+    {
+      "album": {
+        "name": "One More Time Around",
+        "url": "https://open.spotify.com/album/5i4o0pR4boNE3ttyh2G8dG"
+      },
+      "artists": [
+        {
+          "name": "Soft Sea",
+          "url": "https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "Politics of the Heart",
+      "url": "https://open.spotify.com/track/25JczHXGPBQ6PZGt5293MR"
     },
     {
       "album": {

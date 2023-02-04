@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,115 songs - 2 day 9 hr 23 min
+1,116 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Giorno del giudizio \(feat\. Luchè & Mahmood\)](https://open.spotify.com/track/3ERsuauNoR8WVbCdJRHo1P) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:50 | 2022-03-12 | 2022-03-21 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2021-10-20 | 2022-02-05 |
 | [Giovani Wannabe](https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Giovani Wannabe](https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA) | 3:32 | 2022-05-29 | 2022-12-04 |
-| [Giovani Wannabe](https://open.spotify.com/track/4z48kVLZOFuRYWSVwzFI5q) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/3ahrf3cEevIthgGeNcJyZF) | 3:34 | 2023-02-02 |  |
+| [Giovani Wannabe](https://open.spotify.com/track/4z48kVLZOFuRYWSVwzFI5q) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/3ahrf3cEevIthgGeNcJyZF) | 3:34 | 2023-02-02 | 2023-02-04 |
 | [Giovani Wannabe](https://open.spotify.com/track/58ePbnPGFlX1gBblI23RiG) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:34 | 2022-12-03 | 2023-02-01 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-12 |
 | [Gironi](https://open.spotify.com/track/0crkrMINYEVt1qmBCJEPEZ) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Don't Panic](https://open.spotify.com/album/6bm3XAVxep0Yj3uWnnPWZU) | 1:30 | 2021-05-07 | 2021-05-09 |
@@ -865,6 +865,7 @@
 | [Rapina \(feat\. Neima Ezza\)](https://open.spotify.com/track/6DQeNYWn9lbwxeYAXzu7IE) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 4:34 | 2021-05-16 | 2021-05-20 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-06-04 | 2021-07-04 |
 | [READY \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier\)](https://open.spotify.com/track/5Qx8VrR6QozxZEspfWNLuC) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [READY \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier\)](https://open.spotify.com/album/13JGTDaeD5wsixzkFSTPGq) | 3:52 | 2021-11-28 | 2021-11-30 |
+| [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:48 | 2023-02-03 |  |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-05 | 2022-08-07 |
 | [Regina del Block](https://open.spotify.com/track/5PsnJqZWXfBqcXYCVTIZhZ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:18 | 2022-08-06 | 2022-08-10 |
 | [REPLAY](https://open.spotify.com/track/66b96Q6ljSGILgrtgqvPMH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:11 | 2022-04-09 | 2022-04-18 |

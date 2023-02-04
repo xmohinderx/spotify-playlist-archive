@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,248 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,337 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 20 | [8 Miniatures: No\. 4, —](https://open.spotify.com/track/5NCAB704hqjV03b4UcNmda) | [David Power](https://open.spotify.com/artist/29v25Z7ORYm1CTQGboUAp7), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:13 |
 | 21 | [Goldberg\-Variationen, BWV 988: I\. Aria](https://open.spotify.com/track/0VI8QAH1YupPK6xdCJuwpn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Julia Cload](https://open.spotify.com/artist/2q1SyguTZeoJxeS65MU9jO) | [Bach: Goldberg Variations \- Preludes & Fugues, Vol\. 1](https://open.spotify.com/album/1SQwANKaxEbkAWopbOq7dQ) | 4:52 |
 | 22 | [4 Postludes for Piano & String Orchestra: No\. 3\. Larghetto, con moto \(poco rubato\)](https://open.spotify.com/track/7mscpSLUS0t80ZXjnQ3MtM) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H) | 2:50 |
-| 23 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 |
+| 23 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 24 | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/track/5oS0VZUU9W2P4XjQfWhRM3) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Daria van den Bercken](https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9) | [Handel: Suites for Keyboard](https://open.spotify.com/album/1G20CpIz40I0ZzXDH4EIcy) | 3:47 |
 | 25 | [Naive Music: No\. 2\. Nocturne](https://open.spotify.com/track/1Px3T30V89JCSKZkgyAb4W) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/0MF4s1iTa2la59V01TGEgW) | 2:35 |
 | 26 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 45 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/4FLtKRreqGXZNZFs0XKdvH) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/3UWIf4RkDckggS5pkfzmi9) | 1:36 |
 | 46 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
 
-Snapshot ID: `MTY2NDU0NDE5NywwMDAwMDAwMGNiOGE2Y2FlNzFjYzQ0MThlZjgzYWE0NWEzNDMyN2Ex`
+Snapshot ID: `MTY2NDU0NDE5NywwMDAwMDAwMDY2Y2M3YjA5NTMyZjNlNzdhNjQwOWZlYmY2N2RmMjk1`

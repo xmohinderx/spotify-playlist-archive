@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-309 songs - 17 hr 26 min
+310 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bounds](https://open.spotify.com/track/3BFSoUJ4t8uKpTDzSjGRbT) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds](https://open.spotify.com/album/7oXGE56jdEzWAbbqEF3MnM) | 2:45 | 2022-11-17 | 2022-11-19 |
 | [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 |  |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-15 |  |
-| [Boy's a liar Pt.2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt.2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-02 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-02 |  |
 | [Break Me Down/ Here with You](https://open.spotify.com/track/7pGmOd8k6HtdhMOiYew8UG) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 4:25 | 2022-10-28 | 2022-12-16 |
 | [Brush Strokes](https://open.spotify.com/track/3A7GzxUNDUtNPLpMoeRqvv) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Brush Strokes](https://open.spotify.com/album/3ltU22i5RjQWW4e1OYz4A3) | 4:35 | 2022-12-01 | 2022-12-24 |
 | [Burns](https://open.spotify.com/track/5ze8DITDe8DQ8oS4MLoUtU) | [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Burns](https://open.spotify.com/album/0VCCrFF3DHUNcjwA9k2K6u) | 2:48 | 2022-11-24 | 2022-12-24 |
@@ -154,7 +154,7 @@
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-10-28 |  |
 | [Kinda Sad](https://open.spotify.com/track/78tcFyc2EBMiITKf8bYnzX) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Kinda Sad](https://open.spotify.com/album/2mb2cfuQDbGG1S1zGM2QCF) | 2:18 | 2022-10-28 | 2022-12-02 |
 | [la chanson du chevalier](https://open.spotify.com/track/7b5UdmZt7TZzLhlo2Cwv6u) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [la chanson du chevalier](https://open.spotify.com/album/4nBk1lNuPlld3bUY0On06I) | 3:36 | 2022-10-28 | 2022-11-04 |
-| [La money](https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:58 | 2022-12-15 |  |
+| [La money](https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:58 | 2022-12-15 | 2023-02-04 |
 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 | 2022-10-28 | 2022-11-04 |
 | [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-08 | 2023-01-27 |
 | [Last Words \- Extended Edit](https://open.spotify.com/track/2088esDCuzCzbCpjaFKriO) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Last Words \(Extended Edit\)](https://open.spotify.com/album/4CaOaq3dNi7N0S6oZ7JbSW) | 2:04 | 2023-01-12 |  |
@@ -233,6 +233,7 @@
 | [Replay \- 1tbsp Remix](https://open.spotify.com/track/2uYvyxBmdtH3CtsNWfmRcx) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Replay \(1tbsp Remix\)](https://open.spotify.com/album/5jlhymdS1En6TztXpmG7jt) | 3:24 | 2022-12-15 |  |
 | [replay!](https://open.spotify.com/track/4Gaj3WUWbUnGKCXaF1s5ET) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [replay!](https://open.spotify.com/album/4uqPBM7cA19x2OWoLJkDQn) | 3:56 | 2022-11-17 | 2022-12-09 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-10-28 | 2022-11-04 |
+| [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 | 2023-02-03 |  |
 | [Robin](https://open.spotify.com/track/0AoNprXRrwrxCE5p08VjPS) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Life In Miniature](https://open.spotify.com/album/3Lzbh9eqbBl8SlbEAI8T9N) | 4:29 | 2022-11-03 | 2022-11-11 |
 | [Robin](https://open.spotify.com/track/7e2mC2KBL71WFrYPjImfdg) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Robin](https://open.spotify.com/album/2lDNtMxXaaK6jic2zav1xd) | 4:29 | 2022-10-28 | 2022-11-09 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Relaxe com hinos ac\u00fasticos. Foto: Kleber Lucas, Caetano Veloso",
+  "description": "Relaxe com hinos ac\u00fasticos. Foto: Daniela Ara\u00fajo",
   "name": "Gospel Ac\u00fastico",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 298190,
       "name": "Acredite (Ess\u00eancia Sessions)",
       "url": "https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl"
@@ -853,6 +853,42 @@
     },
     {
       "album": {
+        "name": "Ao Orar 2",
+        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Guarda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
+    },
+    {
+      "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "album": {
         "name": "Intimidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
       },
@@ -1071,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Miseric\u00f3rdia \u00c9s",
+        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154104,
+      "name": "Miseric\u00f3rdia \u00c9s",
+      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
+    },
+    {
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -1264,7 +1318,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 288000,
       "name": "Novo Amanh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2nuU37X3MZhc7qtAbZ2dHn"
@@ -1420,6 +1474,24 @@
       "duration_ms": 277636,
       "name": "O Tempo Voa",
       "url": "https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP"
+    },
+    {
+      "album": {
+        "name": "Pai",
+        "url": "https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321381,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp"
     },
     {
       "album": {
@@ -1666,7 +1738,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 205266,
       "name": "Sua Paz",
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
@@ -1728,7 +1800,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 410133,
       "name": "Tomou o Meu Lugar",
       "url": "https://open.spotify.com/track/4m27IBRu2hbprZK1iTtvgc"

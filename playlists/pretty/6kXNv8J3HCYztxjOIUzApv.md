@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 56,761 likes - 118 songs - 7 hr 32 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 56,781 likes - 119 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 116 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
 | 117 | [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 |
 | 118 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 |
+| 119 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 |
 
-Snapshot ID: `MTkwNCxhNjA0NTA2NDM1ZTdlMTM2NGRiMGNkN2ZkMDE5YTFkNDM2MmE1NjRk`
+Snapshot ID: `MTkwNSw3MGNjMTczNDJlNTllOTczNzM0YmExMTk0NmQ2MTY3ODI1MzUyM2Uw`

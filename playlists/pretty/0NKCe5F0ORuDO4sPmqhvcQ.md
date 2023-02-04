@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,115 likes - 104 songs - 6 hr 2 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,115 likes - 107 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 102 | [Take You High](https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Take You High](https://open.spotify.com/album/5AratY1dSsx99KK11yyNjH) | 4:04 |
 | 103 | [we're the last to leave](https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [we're the last to leave](https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp) | 2:27 |
 | 104 | [Pioneer Digital Plastic Sound](https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Pioneer Digital Plastic Sound](https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0) | 5:04 |
+| 105 | [MAKE ME BELIEVE](https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MAKE ME BELIEVE](https://open.spotify.com/album/0LBFJdxLkwyZ9woZzh5M4W) | 3:55 |
+| 106 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 |
+| 107 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 |
 
-Snapshot ID: `MTAyMDUsYTU3ZjQ5ZDJkNzRhZTI2NDY3MjFmNjUxYzJhMzFiNWYwMDFlODYzNQ==`
+Snapshot ID: `MTAyMDgsOTE4ZGJkMTAwNGI3ODFlMGMzMTA3ZTBiZTkyZTFlYTkxZTU1OWVjOQ==`

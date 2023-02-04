@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 327505,
+  "num_followers": 327794,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE3NzIwMCwwMDAwMDAwMDYyZDg0NzU0NjZiZjU2NjFhZjNmZjAyNDE1NWU0ZTUw",
+  "snapshot_id": "MTY3NTE3NzIwMCwwMDAwMDAwMGJkOGEyZGEwNzVmYmY1MDk2M2Q2NDRlMDZmMWEyOTEz",
   "tracks": [
     {
       "added_at": "2023-01-31 15:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "M\u00e1 sestra",
         "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 125055,
       "name": "M\u00e1 sestra",
       "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
-      },
-      "artists": [
-        {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 121946,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 148906,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 121946,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+      },
+      "artists": [
+        {
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+        }
+      ],
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
-      },
-      "artists": [
-        {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
-        }
-      ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "In Repose",
-        "url": "https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ"
-      },
-      "artists": [
-        {
-          "name": "Christopher Dicker",
-          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "In Repose",
-      "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Khione",
         "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 179768,
       "name": "Ruise\u00f1or",
       "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "In Repose",
+        "url": "https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Dicker",
+          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
+        }
+      ],
+      "duration_ms": 142805,
+      "name": "In Repose",
+      "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Hommage d'amiti\u00e9",
-        "url": "https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x"
-      },
-      "artists": [
-        {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
-        }
-      ],
-      "duration_ms": 136648,
-      "name": "Hommage d'amiti\u00e9",
-      "url": "https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Truth - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Hommage d'amiti\u00e9",
+        "url": "https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "duration_ms": 136648,
+      "name": "Hommage d'amiti\u00e9",
+      "url": "https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Ji\u0159\u00ed Hor\u00e1k",
-          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 122125,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 122125,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Mullaghmore",
-        "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
-      },
-      "artists": [
-        {
-          "name": "Calan McIntyre",
-          "url": "https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz"
-        }
-      ],
-      "duration_ms": 122766,
-      "name": "Mullaghmore",
-      "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Coulant",
         "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Mullaghmore",
+        "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
+      },
+      "artists": [
+        {
+          "name": "Calan McIntyre",
+          "url": "https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz"
+        }
+      ],
+      "duration_ms": 122766,
+      "name": "Mullaghmore",
+      "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Tu as disparu",
-        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
-      },
-      "artists": [
-        {
-          "name": "Laetitia Dostie",
-          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
-        }
-      ],
-      "duration_ms": 115915,
-      "name": "Tu as disparu",
-      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 152068,
       "name": "Water",
       "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Tu as disparu",
+        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Dostie",
+          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
+        }
+      ],
+      "duration_ms": 115915,
+      "name": "Tu as disparu",
+      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 156677,
+      "name": "Apricity",
+      "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
+        "name": "Sans Regrets",
+        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
       },
       "artists": [
         {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
         }
       ],
-      "duration_ms": 156677,
-      "name": "Apricity",
-      "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
+      "duration_ms": 141861,
+      "name": "Sans Regrets",
+      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "Sans Regrets",
-        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 141861,
-      "name": "Sans Regrets",
-      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Returning",
-        "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 140250,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Arthur's Theme",
         "url": "https://open.spotify.com/album/4OHQ3btk3IX1rXFzcfoLSo"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 184013,
       "name": "Arthur's Theme",
       "url": "https://open.spotify.com/track/2hvJks7wVAgPubs2ngNOwQ"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Returning",
+        "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 140250,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Praxedis",
+        "url": "https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0"
+      },
+      "artists": [
+        {
+          "name": "Ploxxio",
+          "url": "https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Aufgang der Sonne",
+      "url": "https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Ikigai",
         "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 180020,
       "name": "Ikigai",
       "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "Je vous ai trouv\u00e9",
-        "url": "https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e"
-      },
-      "artists": [
-        {
-          "name": "Verney P\u00e9pin",
-          "url": "https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ"
-        }
-      ],
-      "duration_ms": 140505,
-      "name": "Je vous ai trouv\u00e9",
-      "url": "https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C"
     },
     {
       "added_at": "2023-01-31 15:00:00",

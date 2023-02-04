@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,536 songs - 2 day 20 hr 33 min
+1,543 songs - 2 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Different To Our Daily Lives](https://open.spotify.com/track/6zB9GWgc3mjxnqGgHAwvpU) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Different To Our Daily Lives](https://open.spotify.com/album/4j3t73htSViFibVCVBpLr5) | 2:26 | 2022-04-22 |  |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-02-09 | 2021-08-05 |
 | [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 |  |
+| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 |  |
 | [Distant Lapse](https://open.spotify.com/track/7pDD127Pc7US1ZG0sJy3e0) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Distant Lapse](https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y) | 2:45 | 2020-01-08 | 2020-09-30 |
 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 | 2022-10-03 |  |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2019-07-11 | 2019-09-12 |
@@ -467,6 +468,7 @@
 | [Gentle Stir](https://open.spotify.com/track/43gzo5RNf3HP1OLoJQsmQG) | [McCadden](https://open.spotify.com/artist/5EdcxBjQTVWZ1WN3S9L02i) | [Gentle Stir](https://open.spotify.com/album/0MUXkBjytOAusBIhPgX4ch) | 2:39 | 2022-10-13 |  |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-04-28 | 2022-09-24 |
 | [Giuoco Piano](https://open.spotify.com/track/6Uk13zgb5WGAm44OpM2FXX) | [Uno Conte](https://open.spotify.com/artist/259PkwoDlbW9KUQMPhWnxi) | [Giuoco Piano](https://open.spotify.com/album/3Bps7quQzAirtS9iasIPHh) | 2:20 | 2020-08-04 | 2022-04-15 |
+| [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-02-03 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2021-09-09 | 2022-07-07 |
 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 | 2022-10-24 |  |
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2020-08-04 | 2020-09-28 |
@@ -518,6 +520,7 @@
 | [high above the trees](https://open.spotify.com/track/2BKvoqmJKFjMD87p7o2eRp) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 2:06 | 2021-06-24 | 2022-12-06 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-05-22 | 2021-08-05 |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-06-24 | 2022-04-15 |
+| [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-02-03 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-12 | 2022-05-05 |
 | [Home](https://open.spotify.com/track/7eTDwpm5XKKssoMhMbo67y) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Beauty Inside \(Original Film Score\)](https://open.spotify.com/album/0gdEKp8PUuksujg3BpVBiP) | 2:40 | 2019-05-26\* | 2019-11-19 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2021-10-13 | 2022-09-24 |
@@ -868,6 +871,7 @@
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-02 |  |
 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 | 2020-02-26 | 2021-02-03 |
 | [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2019-10-04 | 2020-06-09 |
+| [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 | 2023-02-03 |  |
 | [Nightingale \(Scaled Down Version\)](https://open.spotify.com/track/6gMuOzoUWF2jD8Vz39SBk6) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/3CapLnomeQByNOs4WBPOAZ) | 2:08 | 2019-05-26\* | 2019-10-30 |
 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 | 2022-02-02 | 2022-06-04 |
 | [Nocturnal Waltz](https://open.spotify.com/track/6uYEDNGSB17CEzxooqDgHK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Nocturnal Waltz](https://open.spotify.com/album/2XXDqHwvLYAbdHpbVZJM8j) | 2:08 | 2019-05-26\* | 2019-08-13 |
@@ -1244,6 +1248,7 @@
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2021-09-09 | 2022-05-21 |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/4FSCzl1G0xzaaE6hiNELv4) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I6UcVWLhpFVWdMqKzU0XU) | 1:30 | 2019-05-26\* | 2019-11-14 |
 | [Sun Burst](https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Sun Burst](https://open.spotify.com/album/3HwgvWlgKKUdxCRqUq645D) | 2:23 | 2020-08-04 | 2021-05-22 |
+| [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 | 2023-02-03 |  |
 | [Sunday](https://open.spotify.com/track/2rXefOTcCGZ3l9Y0tVKVhX) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Sunday](https://open.spotify.com/album/54vGZabPeHOeenD2FhSVxi) | 2:59 | 2021-02-02 | 2021-05-27 |
 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 | 2022-08-08 |  |
 | [Sunday Stroll](https://open.spotify.com/track/21WB4fVPMcelZNbU5rJkXd) | [Benny Treskow](https://open.spotify.com/artist/2cmnSOigupTavZv9krPs4I) | [Sunday Stroll](https://open.spotify.com/album/0hgrTJHMZ0UEWfqmEeWevU) | 3:18 | 2019-05-26\* | 2019-10-04 |
@@ -1371,6 +1376,7 @@
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2021-11-17 | 2022-12-06 |
 | [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 | 2022-12-05 |  |
 | [Tokka](https://open.spotify.com/track/22bk8cz4FrIpxR166zmXFk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 1:29 | 2019-05-26\* | 2019-06-27 |
+| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-02-03 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-15 | 2022-07-07 |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2019-06-27 | 2021-01-05 |
 | [Transience](https://open.spotify.com/track/0AIB6hkQ0eL7cquk6diD4s) | [T\. Landley](https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW) | [Transience](https://open.spotify.com/album/2wK7BTFtU5bdWm6q2mzMqS) | 2:14 | 2019-07-17 | 2019-08-08 |
@@ -1400,6 +1406,7 @@
 | [Tuesday Rain](https://open.spotify.com/track/5qcAFHyLIMPgQseVVE2qGJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Forever Us](https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV) | 1:48 | 2022-11-21 |  |
 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 | 2022-02-09 | 2022-12-21 |
 | [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2021-09-24 | 2022-06-04 |
+| [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-02-03 |  |
 | [Twinkle of the Lights](https://open.spotify.com/track/47F8RnUoxtsiQPGChhf78d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Dear Sleep](https://open.spotify.com/album/7d5Ch69Ih3bHmDkMEo1Cic) | 3:15 | 2019-06-13 | 2019-08-30 |
 | [Two Different Souls.](https://open.spotify.com/track/15dDxkVvJnP2iapPvFfRMb) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Two Different Souls.](https://open.spotify.com/album/4hqVcJpQ42UfGeGt4DzMzQ) | 2:30 | 2022-07-28 | 2023-01-18 |
 | [Two Different Souls.](https://open.spotify.com/track/7LDfF05Ibi6hfkzTwCBlJF) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Two Different Souls.](https://open.spotify.com/album/6jfqm4wo22zvPgJQz6ATJe) | 2:30 | 2021-09-01 | 2022-07-29 |

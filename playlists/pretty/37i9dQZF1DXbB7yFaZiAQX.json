@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 900043,
+  "num_followers": 900522,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMDdiMmIwYmRiMGQ4NDMzMjAyNWZjYmQzMDFkOTAwZTEx",
+  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMDVlOWRmNjcwODFmNDQ4MjVmNjUzMjM5Y2YxMWEyMjc5",
   "tracks": [
     {
       "added_at": "2018-12-12 10:56:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -767,6 +751,22 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
-      "added_at": "2023-02-03 01:29:50",
+      "added_at": "2023-02-04 01:34:26",
       "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
     },
     {
-      "added_at": "2023-01-11 10:44:43",
+      "added_at": "2019-08-02 12:19:29",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 323133,
-      "name": "Drink Before the War",
-      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+      "duration_ms": 219200,
+      "name": "And She Was",
+      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
       "added_at": "2019-08-02 12:25:08",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
+      "added_at": "2023-01-11 10:44:43",
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
       "added_at": "2021-06-15 11:00:16",
       "album": {
         "name": "Vienna [Deluxe Edition]: 40th Anniversary",
@@ -927,22 +943,6 @@
       "duration_ms": 294146,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3"
-    },
-    {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "And She Was",
-      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
-      "added_at": "2023-02-03 01:29:50",
+      "added_at": "2023-02-04 01:34:26",
       "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
-      "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Seventeen Seconds (Deluxe Edition)",
@@ -1183,6 +1167,22 @@
       "duration_ms": 354933,
       "name": "A Forest - 2006 Remaster",
       "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+    },
+    {
+      "added_at": "2019-08-01 09:13:54",
+      "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2019-08-01 09:50:38",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
-    },
-    {
       "added_at": "2020-05-06 11:30:43",
       "album": {
         "name": "Chris Isaak",
@@ -1423,6 +1407,22 @@
       "duration_ms": 232080,
       "name": "People Are People - 2006 Remaster",
       "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
     },
     {
       "added_at": "2021-11-08 14:30:13",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
+      "added_at": "2022-05-16 14:07:54",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Dirty Blvd.",
+      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
+    },
+    {
       "added_at": "2021-04-13 07:11:45",
       "album": {
         "name": "Easy Pieces (Remastered)",
@@ -1729,22 +1745,6 @@
       "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
     },
     {
-      "added_at": "2022-05-16 14:07:54",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Dirty Blvd.",
-      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
-    },
-    {
       "added_at": "2019-08-07 10:02:33",
       "album": {
         "name": "New Clear Days",
@@ -1777,20 +1777,20 @@
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
     },
     {
-      "added_at": "2019-08-02 12:07:51",
+      "added_at": "2021-01-22 12:17:32",
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva"
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
         }
       ],
-      "duration_ms": 220640,
-      "name": "Play for Today - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
-      "added_at": "2021-01-22 12:17:32",
-      "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
-      },
-      "artists": [
-        {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
-    },
-    {
       "added_at": "2020-05-06 11:30:43",
       "album": {
         "name": "Darklands (Expanded Version)",
@@ -1839,6 +1823,22 @@
       "duration_ms": 239621,
       "name": "April Skies",
       "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
+    },
+    {
+      "added_at": "2019-08-02 12:07:51",
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Play for Today - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2209,22 +2209,6 @@
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
     },
     {
-      "added_at": "2018-12-18 07:25:29",
-      "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
-      },
-      "artists": [
-        {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
-        }
-      ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
-    },
-    {
       "added_at": "2019-08-02 12:45:54",
       "album": {
         "name": "A Secret Wish (Analogue Sequence)",
@@ -2241,20 +2225,20 @@
       "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
+      "added_at": "2018-12-18 07:25:29",
       "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
         }
       ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2275,6 +2259,22 @@
       "duration_ms": 250746,
       "name": "Living On The Ceiling",
       "url": "https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz"
+    },
+    {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2019-08-02 11:52:58",
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X"
       },
       "artists": [
         {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+          "name": "Suicide",
+          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
         }
       ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
+      "duration_ms": 226693,
+      "name": "Surrender - 2022 - Remaster",
+      "url": "https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw"
     }
   ],
   "unique_name": "The '80s All Lined Up",

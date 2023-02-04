@@ -4,7 +4,7 @@
 
 > Happy vibes for an upbeat morning.
 
-210 songs - 8 hr 42 min
+211 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Lilt](https://open.spotify.com/track/2nyu65wNXcu377f7UVDnYa) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Lilt](https://open.spotify.com/album/7hueCmRflhqn17bV20JOz1) | 2:21 | 2022-04-28 |  |
 | [Little Bird](https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:50 | 2022-12-21 |  |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2021-12-14 |  |
+| [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-03 |  |
 | [Lucie](https://open.spotify.com/track/5ccHob3neg5ciFjZpwSLif) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Lights, Slow Places](https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR) | 2:17 | 2021-12-14 |  |
 | [Mandeville](https://open.spotify.com/track/7Kuj7xMyWDEqfHE4itPF98) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Mandeville](https://open.spotify.com/album/2xH1bh09wrjyn7BioGdmff) | 2:56 | 2022-10-26 |  |
 | [Marble Falls](https://open.spotify.com/track/2spz2RWKqY4W15BgrooCzY) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [Marble Falls](https://open.spotify.com/album/5mVyUJpMYGQjBHdFtL2Ky7) | 2:21 | 2021-12-14 | 2022-04-29 |

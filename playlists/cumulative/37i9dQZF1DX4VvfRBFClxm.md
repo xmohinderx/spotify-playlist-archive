@@ -2,7 +2,7 @@
 
 ### [Acoustic Hits](https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm)
 
-> A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
+> A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Brandi Carlile and Lucius
 
 338 songs - 20 hr 18 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 127212,
+  "num_followers": 127194,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGQzOTY2NTE2ZDI5NzIxODQ0MDU4MmEzYTI1MDI1NzQw",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGM4ZmU2NGNiODQwMWE2OWYxNGE2YzIxNmE2YWEyODRi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Real Love - from the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "The Very Best Of Mud",
         "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - from the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "A Different Christmas",
         "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "The Magic Of Boney M. (Special Remix Edition)",
-        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Mary's Boy Child / Oh My Lord",
-      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "River (Live in Studio)",
@@ -947,6 +931,22 @@
       "duration_ms": 243733,
       "name": "River - Live in Studio",
       "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Boney M. (Special Remix Edition)",
+        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Mary's Boy Child / Oh My Lord",
+      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
@@ -1051,22 +1067,6 @@
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "A Very She & Him Christmas",
-        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 129679,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Alone on Christmas Eve",
         "url": "https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 136212,
       "name": "Alone on Christmas Eve",
       "url": "https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "A Very She & Him Christmas",
+        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Tracks in the Snow",
-        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tracks in the Snow",
-      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Come On Home For Christmas",
         "url": "https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 180853,
       "name": "Come On Home For Christmas",
       "url": "https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Tracks in the Snow",
+        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tracks in the Snow",
+      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
     },
     {
       "added_at": "2022-11-18 01:05:05",

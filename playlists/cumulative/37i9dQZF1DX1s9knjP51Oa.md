@@ -4,7 +4,7 @@
 
 > Slow down with some calming keys and relaxing piano music.
 
-624 songs - 1 day 3 hr 1 min
+625 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2021-12-13 | 2022-08-10 |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2021-12-13 | 2023-01-10 |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2021-12-13 | 2022-10-05 |
+| [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 | 2023-02-03 |  |
 | [River](https://open.spotify.com/track/78kCCDzaO09KZ8Fg7ZzIfF) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG) | [River](https://open.spotify.com/album/0MoRdHoFxiCWDv5Wl9f4ac) | 2:57 | 2022-05-26 |  |
 | [Riverbero](https://open.spotify.com/track/32daybCONfINAmdjMWqMyO) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Riverbero](https://open.spotify.com/album/72Spjnum5Q2UPRUIHIpckE) | 1:41 | 2022-11-11 |  |
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2022-04-06 |  |

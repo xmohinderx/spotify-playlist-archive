@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-232 songs - 16 hr 56 min
+233 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Kassel \- Robot Koch Rework](https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [The Next Billion Years \(Rework EP\)](https://open.spotify.com/album/6JN2fMV9JAXlQLlqf9hAuZ) | 4:07 | 2021-12-10 | 2022-06-17 |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-11 |  |
 | [knowledge](https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [knowledge](https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ) | 4:59 | 2021-12-10 | 2022-09-29 |
-| [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 | 2021-12-10 |  |
+| [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 | 2021-12-10 | 2023-02-04 |
 | [La promesse \- Niklas Paschburg Remix](https://open.spotify.com/track/3Zz0A5CrwY6oXB4ohpZcka) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [La promesse \(Niklas Paschburg Remix\)](https://open.spotify.com/album/7uIeawzFuEvnkpTIe4YarF) | 3:45 | 2022-03-18 | 2022-04-02 |
 | [La Vagabonde \- Joseph Shabason Remix](https://open.spotify.com/track/2L87wbWMzkfROOK6RrmU5l) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Alex Browne](https://open.spotify.com/artist/2C40oMx7YBkyeQYFM5EYje), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Sam Pankey](https://open.spotify.com/artist/5QFJcdb17mZhZY4abURZwi), [Jonathan Sielaff](https://open.spotify.com/artist/2iFj0PlOS7CRZcBY5hauRy), [James Suter](https://open.spotify.com/artist/1pNu7KWhpt9jAenIMrxhlJ) | [La Vagabonde \(Joseph Shabason Remix\)](https://open.spotify.com/album/5ujDpwlmvXWOvjkUVjOkC5) | 5:05 | 2022-06-03 | 2022-10-11 |
 | [La Vie](https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:20 | 2021-12-10 | 2022-04-02 |
@@ -155,6 +155,7 @@
 | [Newborn](https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Newborn](https://open.spotify.com/album/3sjsBHfPPgzwsF9PR8qR8i) | 4:21 | 2021-12-10 | 2022-04-02 |
 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 | 2021-12-10 |  |
 | [Night Sky](https://open.spotify.com/track/4jMOhFmabozK4cz2sQKoOs) | [Paul Dixon](https://open.spotify.com/artist/7cI8MDKn9CpIQjwROVhh8S), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ), [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Night Sky](https://open.spotify.com/album/5JxbtHrbIuw2gwrsAdOpql) | 3:08 | 2022-03-18 | 2022-07-29 |
+| [Nocturne](https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Nocturne](https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN) | 3:34 | 2023-02-03 |  |
 | [Nos \- C.B\. Rework](https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Wind \(Deluxe\)](https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj) | 2:13 | 2022-10-07 |  |
 | [Nowness](https://open.spotify.com/track/0Txp3JK74gFfKp8eZp4Y6l) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Nowness](https://open.spotify.com/album/2kvhCMgG2AXu7wOlWMosLR) | 3:19 | 2022-03-25 | 2022-07-03 |
 | [Nuvole Bianche \- Reimagined by Mercan Dede](https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Reimagined\. Volume 2, Chapter 3](https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw) | 7:03 | 2022-09-02 |  |

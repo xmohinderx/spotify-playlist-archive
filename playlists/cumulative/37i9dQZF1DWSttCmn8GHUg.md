@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-125 songs - 7 hr 38 min
+126 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,9 @@
 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 | 2021-11-12 |  |
 | [Riding With Private Malone](https://open.spotify.com/track/4yym5ZJXwvg03d4kyhLVZO) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Amigo](https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa) | 4:35 | 2021-11-12 |  |
 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:06 | 2021-11-12 |  |
-| [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-11-12 |  |
+| [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-11-12 | 2023-02-04 |
 | [She Goes to Work](https://open.spotify.com/track/1sMLcj9cFRwSFurIOcgDGM) | [Jake Dodds](https://open.spotify.com/artist/52YZB2e6Zr1V7Vwr2oEmrN), [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [She Goes to Work](https://open.spotify.com/album/1JYyllDH3ipVkMlMXfykCD) | 3:29 | 2021-11-19 |  |
-| [Small Town Small](https://open.spotify.com/track/4elrkCs79TuxOR7lPvVZr5) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 2:53 | 2021-11-12 |  |
+| [Small Town Small](https://open.spotify.com/track/4elrkCs79TuxOR7lPvVZr5) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 2:53 | 2021-11-12 | 2023-02-04 |
 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 | 2021-11-12 |  |
 | [Soldier's Gift](https://open.spotify.com/track/3gYs1zYhSpke9KUfJS4unl) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [King Size Manger](https://open.spotify.com/album/0IhisfwJXGoH7uPK3pXqTA) | 3:46 | 2021-11-12 | 2022-01-05 |
 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 | 2021-11-12 |  |
@@ -111,12 +111,13 @@
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/5FuRFQ9pP3ftNZT4hgSqyw) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/7zWRRC8wHbEVsFYEfQVqR8) | 3:11 | 2022-07-01 | 2022-11-13 |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/6Vmb8Ru0BvjWGozOVGApRd) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:11 | 2022-07-01 |  |
 | [The Weight Of The Badge](https://open.spotify.com/track/0sfbpQvVZ3Omt5M8dtONwH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 3:46 | 2021-11-12 |  |
+| [Three Favorite Colors](https://open.spotify.com/track/3OW44UgVC9RrayjcEBcqWY) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Three Favorite Colors](https://open.spotify.com/album/0GIqtIr42UugCSX4DK63Vf) | 3:11 | 2023-02-03 |  |
 | [Til The Last Shot's Fired](https://open.spotify.com/track/5NA5FmzfDQPl6HWX4cYrh7) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Trace Adkins "X"](https://open.spotify.com/album/6aCFYxUYpZuhh6nXHSUerx) | 4:59 | 2021-11-12 |  |
 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 | 2021-11-12 |  |
 | [Two Soldiers Coming Home](https://open.spotify.com/track/1izEIegmClpoKR5fYvjWJL) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 3:26 | 2021-11-12 |  |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-11-12 |  |
 | [Unsung Heroes](https://open.spotify.com/track/2MZ3g4ISokDM6nVGxrCOFe) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Unsung Heroes](https://open.spotify.com/album/2fv3mG9eGbc7lpCEUKaTbB) | 3:47 | 2021-11-12 |  |
-| [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 |  |
+| [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2023-02-04 |
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2022-07-01 |  |
 | [We Didn't Have Much](https://open.spotify.com/track/4WUJBgEvVaNyDnfmG2bpaQ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [New Country Hits: January 2022](https://open.spotify.com/album/1zWgzrN2EaChN5QPgxdFca) | 2:54 | 2022-07-01 | 2022-11-14 |
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-11-12 | 2022-07-29 |

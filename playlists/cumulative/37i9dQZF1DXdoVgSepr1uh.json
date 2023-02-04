@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 159259,
       "name": "ACTITUD",
       "url": "https://open.spotify.com/track/6B4eP363FzRSfzGHR9yObo"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 203728,
       "name": "Cora Partido",
       "url": "https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 151426,
       "name": "Esos D\u00edas",
       "url": "https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T"
@@ -924,6 +924,28 @@
       "duration_ms": 167721,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e"
+    },
+    {
+      "album": {
+        "name": "Fichaje #1",
+        "url": "https://open.spotify.com/album/127kJoL8bE6Xuuhefxyb55"
+      },
+      "artists": [
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Fichaje #1",
+      "url": "https://open.spotify.com/track/1W0aQgl1jE9pz9k4sBdK8o"
     },
     {
       "album": {
@@ -2597,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Se Me Antoja",
+        "url": "https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Valen Vargas",
+          "url": "https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112524,
+      "name": "Se Me Antoja",
+      "url": "https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM"
+    },
+    {
+      "album": {
         "name": "Si Quieren Frontear",
         "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
       },
@@ -2974,7 +3018,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 183230,
       "name": "TUYYO",
       "url": "https://open.spotify.com/track/01UVX4Rxtvh5tIBjwkEXy0"

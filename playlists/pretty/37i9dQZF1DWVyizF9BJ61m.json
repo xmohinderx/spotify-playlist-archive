@@ -1,12 +1,12 @@
 {
   "description": "From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href=\"spotify:artist:05LK9pT8ScfWNT0UbDsyqe\">Ofege</a>",
-  "num_followers": 242253,
+  "num_followers": 242452,
   "original_name": "Afro Psychedelica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDYxMGQwMmQ2MTdlMjZmMGViOTUzYTNlYTRkZWZmZGZl",
+  "snapshot_id": "MTY3NTQyMDA0NCwwMDAwMDAwMGQwNzA5MGUxYjQ1OGQzODZhNDUxMDA4Nzk2YThjNDI4",
   "tracks": [
     {
       "added_at": "2023-02-03 00:00:00",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/67raFTzuOzVFZyEYxbiMxL"
     },
     {
+      "added_at": "2023-02-03 10:27:24",
+      "album": {
+        "name": "Meritlhoana",
+        "url": "https://open.spotify.com/album/2BzAIEggWAPQPn6sZm2b7q"
+      },
+      "artists": [
+        {
+          "name": "Morena Leraba",
+          "url": "https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO"
+        }
+      ],
+      "duration_ms": 431960,
+      "name": "Meritlhoana",
+      "url": "https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq"
+    },
+    {
       "added_at": "2023-02-03 00:00:00",
       "album": {
         "name": "Itadi",
@@ -835,22 +851,6 @@
       "duration_ms": 370469,
       "name": "Watch Your Life",
       "url": "https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Emmaar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 259919,
-      "name": "Toumast Tincha",
-      "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
     }
   ],
   "unique_name": "Afro Psychedelica",

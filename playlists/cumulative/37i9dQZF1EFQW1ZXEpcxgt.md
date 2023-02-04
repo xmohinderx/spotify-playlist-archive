@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 6 hr 18 min
+113 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 | 2022-06-04 |  |
 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 | 2022-06-04 |  |
 | [Is It Just Me](https://open.spotify.com/track/7dEztoOcmsafZLM2GSPbna) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 | 2022-06-04 |  |
-| [Lay Your Head on Me](https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Lay Your Head on Me](https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A) | 3:01 | 2022-06-04 |  |
+| [Lay Your Head on Me](https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Lay Your Head on Me](https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A) | 3:01 | 2022-06-04 | 2023-02-04 |
+| [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 | 2023-02-03 |  |
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2022-06-04 |  |
 | [Love You Different \(feat\. BEAM\)](https://open.spotify.com/track/27UcQ6dAvQrgH9C880rCM3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:06 | 2022-06-04 |  |
 | [Million Dollar Girl](https://open.spotify.com/track/160sHFIH4Sc1wxYGtJ42tq) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Amazin'](https://open.spotify.com/album/4TwCl2ityARmDWMac42zhU) | 4:01 | 2022-06-04 | 2022-07-28 |
@@ -110,6 +111,7 @@
 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 | 2022-06-04 |  |
 | [Tom Edison](https://open.spotify.com/track/07V9RLJZnKZsGTgUtSUWrC) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:32 | 2022-06-04 |  |
 | [Turn Around \(5,4,3,2,1\)](https://open.spotify.com/track/6Uj8ru7TNLDIelbuQ8eBd6) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:21 | 2022-06-04 |  |
+| [Two Up](https://open.spotify.com/track/6V0ajyvgaX22SQX8hk8qxp) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:30 | 2023-02-03 |  |
 | [Urgent](https://open.spotify.com/track/3LL0hDWRc54FIpbnvIAZR4) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:42 | 2022-06-04 |  |
 | [Vans On \- Explicit Edit](https://open.spotify.com/track/0XdSXNkZ16iDnuDPiiB5aq) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Leaving Home EP](https://open.spotify.com/album/5nIrQ7v6eerzwqcsappkxE) | 2:58 | 2022-06-04 |  |
 | [Watch My Back](https://open.spotify.com/track/11etZay2pHcZv4SBodJJAE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 | 2022-06-04 |  |

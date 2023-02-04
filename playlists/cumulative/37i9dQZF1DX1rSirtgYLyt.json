@@ -1323,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "Lost Cause",
+        "url": "https://open.spotify.com/album/5BX6vHqeZHBpEHykTlKwEc"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231774,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/0nZ4lF8FhUPo94DLLluXIO"
+    },
+    {
+      "album": {
         "name": "The Robert Johnson Songbook",
         "url": "https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX"
       },

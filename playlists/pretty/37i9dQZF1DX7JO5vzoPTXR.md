@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD?si=a352fb1bc4b74e04&nd=1">DAMOYEE</a> and <a href="https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq?si=fe7b538330f14d0e&nd=1">Annie Elise.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,817 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,835 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 36 | [everything's been happening](https://open.spotify.com/track/7fO760xZEoIno4ckWeeKSd) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [The Edge](https://open.spotify.com/album/5sx3wNJOzUezXBkin3pukb) | 3:25 |
 | 37 | [My Love](https://open.spotify.com/track/4xuhOJihzqkCI15hsX1gaJ) | [Maggie](https://open.spotify.com/artist/13zDWxn97ZfI8hm7IAZXL1) | [Paralyzed / My Love](https://open.spotify.com/album/2gxGbv4pWm4YtbTkORUe7O) | 2:48 |
 | 38 | [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 |
-| 39 | [Pieces of Us](https://open.spotify.com/track/4DenLwEuB0LptWEO4jhvh0) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/27M3Fhh0HIcirIxqJutOfT) | 2:28 |
+| 39 | [Pieces of Us](https://open.spotify.com/track/40C4qzkk9D02wwTtCoe3HI) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/5s85YliyLqpolbvGqn6LJa) | 2:28 |
 | 40 | [you'd never know \- acoustic](https://open.spotify.com/track/638KGLHjhYK82pTKXxkyFg) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts \(acoustic\)](https://open.spotify.com/album/3nOUlqhIqt9B7ztNefbqvA) | 3:06 |
 
-Snapshot ID: `MTY3NTI4MzMxNCwwMDAwMDAwMDYzNzRhZWU5MTBmNDY5MWUzZjYzNTJmMTczYmU2MDQ1`
+Snapshot ID: `MTY3NTI4MzMxNCwwMDAwMDAwMDRlNzMzYjY1Mzk5Y2U5NjQwY2NkOGM5YjBjYjU5NmIz`

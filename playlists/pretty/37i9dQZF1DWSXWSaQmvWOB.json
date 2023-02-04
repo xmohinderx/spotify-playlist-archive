@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 433507,
+  "num_followers": 433643,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA4MjE4NCwwMDAwMDAwMDA3ZGRjNWMzNDZjMDE4MjU5NzY2ODc4OWU1NDZiZmIw",
+  "snapshot_id": "MTY3NTA4MjE4NCwwMDAwMDAwMGNiMTQyMmQyYWU2MDYzM2M3YTgwNjk2YzJhYTQ5MzZh",
   "tracks": [
     {
       "added_at": "2023-01-30 12:36:24",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
         "name": "TOINE",
         "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
         "name": "Easier Said Than Done",
         "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
         "name": "By Design [Evel Knievel]",
         "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 225312,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -835,6 +819,22 @@
       "duration_ms": 186965,
       "name": "Everybody Watching",
       "url": "https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
         "name": "Two Jobs",
         "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/1BM3o9El9FetciNldM3t94"
       },
       "artists": [
         {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
         }
       ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+      "duration_ms": 200000,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/1BM3o9El9FetciNldM3t94"
-      },
-      "artists": [
-        {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
         "name": "Red To Violet (Feat. Jamila Woods)",
         "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
         "name": "No Tears In My Champagne",
         "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 136644,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Joy & Pain",
-      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
       },
       "artists": [
         {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         },
         {
-          "name": "Khemist",
-          "url": "https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q"
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
         }
       ],
-      "duration_ms": 195257,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
+      "duration_ms": 302746,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
         },
         {
-          "name": "Ebban Dorsey",
-          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+          "name": "Khemist",
+          "url": "https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q"
         }
       ],
-      "duration_ms": 302746,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
+      "duration_ms": 195257,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
     },
     {
       "added_at": "2023-01-30 12:36:24",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-01-30 12:36:24",
       "album": {
+        "name": "Mood Right",
+        "url": "https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Mood Right",
+      "url": "https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l"
+    },
+    {
+      "added_at": "2023-01-30 12:36:24",
+      "album": {
         "name": "Woman Like Me",
         "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 202832,
       "name": "Woman Like Me",
       "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
-    },
-    {
-      "added_at": "2023-01-30 12:36:24",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        },
-        {
-          "name": "Maikal X",
-          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
-        }
-      ],
-      "duration_ms": 316626,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
     }
   ],
   "unique_name": "Soul 'n' the City",

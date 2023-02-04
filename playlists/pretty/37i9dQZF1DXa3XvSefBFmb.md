@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,132 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,24 +37,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 27 | [Overthinking](https://open.spotify.com/track/64lehEwmtmiB607vXFShyn) | [Melyah](https://open.spotify.com/artist/7M3xFnNddpYffPgjzpt7f1) | [Overthinking](https://open.spotify.com/album/3Q8Yoh0bEjDauYjmDYkUjV) | 3:42 |
 | 28 | [Do Avesso](https://open.spotify.com/track/14KppUA3maAc8Ejg7FOMqB) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Do Avesso](https://open.spotify.com/album/222C9tZ74yMxKjAj5PVZvs) | 2:54 |
 | 29 | [Petit Bisou](https://open.spotify.com/track/0mCsCroSE4nOGlYRh7UoFG) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Petit Bisou](https://open.spotify.com/album/0DCv4x92Mk2n8BFjsFftIS) | 3:16 |
-| 30 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
-| 31 | [Trompete](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Trompete](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
-| 32 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
-| 33 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
-| 34 | [Maré](https://open.spotify.com/track/4vweHv5gSlHkYYP5YVDHDq) | [Sónia André](https://open.spotify.com/artist/1mdbLkpqAkHSZIaqKXfEPt) | [Maré](https://open.spotify.com/album/651DiA01Gt8D6Je9JYn6nw) | 3:42 |
-| 35 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
-| 36 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
-| 37 | [Imortal](https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI) | [MEMA.](https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY) | [Imortal](https://open.spotify.com/album/40pWFpDBPIYfGguzgEwplD) | 3:47 |
-| 38 | [Água Doce](https://open.spotify.com/track/13APzWfTKJfVxiIxTsFKVD) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Água Doce](https://open.spotify.com/album/5qFPtIWKEleW7zmaH0bgVM) | 3:19 |
-| 39 | [Pés No Chão](https://open.spotify.com/track/2FgdHjlJbxi1L9wdm0QUgd) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Pés No Chão](https://open.spotify.com/album/5iwyLMojcRsb8E5jLTK4vc) | 3:33 |
-| 40 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Lumenara](https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK) | 3:09 |
-| 41 | [As recordações](https://open.spotify.com/track/0TEtn1o4DYrBFZxZKoeInt) | [Francisca](https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI) | [As recordações](https://open.spotify.com/album/5v7QBQfmN9ckcqBL3W7Jzp) | 2:45 |
-| 42 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 |
-| 43 | [Beija Flor](https://open.spotify.com/track/59P93klgWO9PRBuWIGz6an) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Beija Flor](https://open.spotify.com/album/4VTrjEGto6R3dT5CekEaZU) | 4:53 |
-| 44 | [third point of view \(sped up\)](https://open.spotify.com/track/0xfgGjYm4bKrNUyI4bYzzT) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [third point of view \(sped up\)](https://open.spotify.com/album/36Sety9uFVkIyOG4KWw91s) | 2:59 |
-| 45 | [Serenata](https://open.spotify.com/track/0iH6ACCaYRPekMHUcHV2uX) | [Cremilda Medina](https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp) | [Serenata](https://open.spotify.com/album/404DplsamthydoxOpTssjZ) | 4:42 |
-| 46 | [Hoy No Salgo](https://open.spotify.com/track/3lpVdysBP4nG7yrWjRmfBK) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Hoy No Salgo](https://open.spotify.com/album/7mkZWuUwfAYH0ZnGJMpGqo) | 2:38 |
-| 47 | [Nem Céu Nem Mar](https://open.spotify.com/track/2xEI0gdaCtEZdmZKWjTlzG) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Nem Céu Nem Mar](https://open.spotify.com/album/4458gv3ShBykHRDLfM87pY) | 3:32 |
-| 48 | [Kumake](https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Praia\-Bissau](https://open.spotify.com/album/6l5Jg7YSXxuIO1EUyuYcLb) | 4:49 |
+| 30 | [Kuze Ku Pensa](https://open.spotify.com/track/3NSovuWMtqEZ34qYD3IuAA) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Kuze Ku Pensa](https://open.spotify.com/album/3xZygu40TJFxSsJ0dQE7lu) | 3:21 |
+| 31 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
+| 32 | [Trompete](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Trompete](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
+| 33 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
+| 34 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
+| 35 | [Maré](https://open.spotify.com/track/4vweHv5gSlHkYYP5YVDHDq) | [Sónia André](https://open.spotify.com/artist/1mdbLkpqAkHSZIaqKXfEPt) | [Maré](https://open.spotify.com/album/651DiA01Gt8D6Je9JYn6nw) | 3:42 |
+| 36 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
+| 37 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
+| 38 | [Imortal](https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI) | [MEMA.](https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY) | [Imortal](https://open.spotify.com/album/40pWFpDBPIYfGguzgEwplD) | 3:47 |
+| 39 | [Água Doce](https://open.spotify.com/track/13APzWfTKJfVxiIxTsFKVD) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Água Doce](https://open.spotify.com/album/5qFPtIWKEleW7zmaH0bgVM) | 3:19 |
+| 40 | [Pés No Chão](https://open.spotify.com/track/2FgdHjlJbxi1L9wdm0QUgd) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Pés No Chão](https://open.spotify.com/album/5iwyLMojcRsb8E5jLTK4vc) | 3:33 |
+| 41 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Lumenara](https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK) | 3:09 |
+| 42 | [As recordações](https://open.spotify.com/track/0TEtn1o4DYrBFZxZKoeInt) | [Francisca](https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI) | [As recordações](https://open.spotify.com/album/5v7QBQfmN9ckcqBL3W7Jzp) | 2:45 |
+| 43 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 |
+| 44 | [Beija Flor](https://open.spotify.com/track/59P93klgWO9PRBuWIGz6an) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Beija Flor](https://open.spotify.com/album/4VTrjEGto6R3dT5CekEaZU) | 4:53 |
+| 45 | [third point of view \(sped up\)](https://open.spotify.com/track/0xfgGjYm4bKrNUyI4bYzzT) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [third point of view \(sped up\)](https://open.spotify.com/album/36Sety9uFVkIyOG4KWw91s) | 2:59 |
+| 46 | [Serenata](https://open.spotify.com/track/0iH6ACCaYRPekMHUcHV2uX) | [Cremilda Medina](https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp) | [Serenata](https://open.spotify.com/album/404DplsamthydoxOpTssjZ) | 4:42 |
+| 47 | [Hoy No Salgo](https://open.spotify.com/track/3lpVdysBP4nG7yrWjRmfBK) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Hoy No Salgo](https://open.spotify.com/album/7mkZWuUwfAYH0ZnGJMpGqo) | 2:38 |
+| 48 | [Nem Céu Nem Mar](https://open.spotify.com/track/2xEI0gdaCtEZdmZKWjTlzG) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Nem Céu Nem Mar](https://open.spotify.com/album/4458gv3ShBykHRDLfM87pY) | 3:32 |
+| 49 | [Kumake](https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Praia\-Bissau](https://open.spotify.com/album/6l5Jg7YSXxuIO1EUyuYcLb) | 4:49 |
 
 Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGU5ZjU3MjgzNGY5ZjNjMDMzN2U5ZWI1ZjlmYjlkOGNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,602 likes - 35 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,610 likes - 35 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,20 +28,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 18 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 |
 | 19 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
 | 20 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
-| 21 | [Príncipe Oscuro](https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A Un Millón De Años Blues](https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI) | 2:47 |
-| 22 | [Jubilados Violentos](https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 3:19 |
-| 23 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |
-| 24 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |
-| 25 | [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 |
+| 21 | [Jubilados Violentos](https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 3:19 |
+| 22 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |
+| 23 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |
+| 24 | [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 |
+| 25 | [Eclipse](https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 2:23 |
 | 26 | [D\-Generación](https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Pasto](https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa) | 3:50 |
-| 27 | [Eclipse](https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 2:23 |
-| 28 | [Lo Que Se Ve No Es Lo Real](https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Cabeza](https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F) | 4:00 |
-| 29 | [Atlántico](https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana de Metal](https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm) | 4:23 |
-| 30 | [Emoción Diamante](https://open.spotify.com/track/4jVnGWG8LDOEbD7iOcWb2V) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/1jwoX5cSB5SVcSt0onPYw4) | 3:48 |
-| 31 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 |
-| 32 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 |
-| 33 | [Rockstar](https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6) | 4:27 |
-| 34 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 |
-| 35 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
+| 27 | [Lo Que Se Ve No Es Lo Real](https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Cabeza](https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F) | 4:00 |
+| 28 | [Atlántico](https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana de Metal](https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm) | 4:23 |
+| 29 | [Príncipe Oscuro](https://open.spotify.com/track/3G51NUusBvLtwGOTCGlXzr) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A un Millón de Años Blues](https://open.spotify.com/album/4xZBKEor9gCAUBZa3QuAVT) | 2:47 |
+| 30 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 |
+| 31 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 |
+| 32 | [Rockstar](https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6) | 4:27 |
+| 33 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 |
+| 34 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
+| 35 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
 
-Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMGEwNTQ0OGU2MjRlY2NhYzMwNWRiNjViZDczY2NlZWVi`
+Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMDk3MTNlMzEzZDVjYTVjYzBmZGIzMjVlNWRlYjA1ZjZj`

@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-145 songs - 8 hr 30 min
+146 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2023-01-13 |  |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2022-02-18 | 2022-12-10 |
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2023-01-13 |  |
+| [to the next stage](https://open.spotify.com/track/1ukcAeTgId93fR3WCNo3N7) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [劇場版 ソードアート・オンライン \-プログレッシブ\- 冥き夕闇のスケルツォ Original Soundtrack](https://open.spotify.com/album/1DfXRV8cYs5ynt9duCeF5w) | 2:47 | 2023-02-03 |  |
 | [Tongue Tied \(with YUNGBLUD & blackbear\) \- PatrickReza Remix](https://open.spotify.com/track/3cLZPpfnpZ7YgNpaxaPiQe) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [PatrickReza](https://open.spotify.com/artist/1tJnPDE5oPDB6ZqMsCTTYx) | [Tongue Tied \- Remix EP](https://open.spotify.com/album/1evkFNsIDqYM23bc1YH9YE) | 3:09 | 2022-02-18 | 2022-12-10 |
 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 | 2022-12-09 |  |
 | [Uebok Gotta Run](https://open.spotify.com/track/45yj92asiOxf45vXfjeTwF) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Renaissance](https://open.spotify.com/album/4aN2EaQB4G7z6BqcEClnMd) | 2:43 | 2022-02-18 | 2022-12-10 |

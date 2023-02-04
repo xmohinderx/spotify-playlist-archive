@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-318 songs - 16 hr 3 min
+320 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Fool for You](https://open.spotify.com/track/4JbIkmFKu9Ed1bj9DyIEDw) | [mitty](https://open.spotify.com/artist/2vENpm7iHtOlvqe5kTPMYs) | [Fool for You](https://open.spotify.com/album/2QXQmLaOyMnWKWjCBwD8Br) | 1:45 | 2022-02-12 | 2022-08-05 |
 | [Forest](https://open.spotify.com/track/6KeIMvw8uhRYLnacrkw1Ud) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Forest](https://open.spotify.com/album/22UFmpYk6dIxWHhWQX1zn2) | 3:01 | 2022-07-08 |  |
 | [Forever](https://open.spotify.com/track/7IeVeLOeFHtkHcFZ5Nz3L6) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1) | [Forever](https://open.spotify.com/album/3vFJp1M7f0AY8SLIXCXjyR) | 8:16 | 2022-07-08 | 2022-10-14 |
+| [Forward Is The Bright](https://open.spotify.com/track/6f9tGwVeyXAfqtDy844dLu) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [I Remember You Everywhere](https://open.spotify.com/album/13E712H8wmf5CnIipxfaSB) | 2:33 | 2023-02-03 |  |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2022-02-11 |  |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-11 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2022-02-12 |  |
@@ -170,6 +171,7 @@
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2021-10-26 | 2022-02-12 |
 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 | 2022-02-11 |  |
 | [Metro](https://open.spotify.com/track/1SyrAZF92VuicGpqky57DO) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Going Places](https://open.spotify.com/album/2gbnbvZ4YB1o2tzkmUDQA3) | 4:11 | 2021-01-22 | 2022-02-12 |
+| [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 | 2023-02-03 |  |
 | [Middle](https://open.spotify.com/track/5roTA5rhPdvuWQY1MoqoCm) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Middle](https://open.spotify.com/album/5WAcrmT5E37KLb1wEhRdQF) | 3:30 | 2019-10-04 | 2022-02-12 |
 | [Mistress](https://open.spotify.com/track/06oqnlt9Ay6bgIERsUEmK6) | [VLD](https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu) | [Mistress](https://open.spotify.com/album/2ejpt4QArdN2F7aepoZLO4) | 1:52 | 2022-09-02 |  |
 | [Misty](https://open.spotify.com/track/21e6H9aw9iqjKKk7Yqi4eK) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Misty](https://open.spotify.com/album/6g3cISTVHaLOiQKJrzSoC4) | 2:22 | 2022-12-09 |  |
@@ -244,7 +246,7 @@
 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 | 2022-09-23 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-02-11 |  |
 | [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 | 2023-01-13 |  |
-| [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 | 2022-07-29 |  |
+| [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 | 2022-07-29 | 2023-02-04 |
 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 2:44 | 2022-02-11 | 2022-07-29 |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-02-11 | 2022-07-15 |
 | [Strobe Alley](https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Strobe Alley](https://open.spotify.com/album/0eigUdryKClncsWngNi64B) | 4:20 | 2022-02-11 |  |

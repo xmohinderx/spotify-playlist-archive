@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-231 songs - 9 hr 2 min
+232 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [flumes](https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs) | [dxwg](https://open.spotify.com/artist/3R7gYMibAfCIW7D9tN0UL5) | [flumes](https://open.spotify.com/album/4HOnws27YBHCLfI2Sx5JVH) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [For Her](https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:47 | 2022-04-15 | 2022-08-12 |
 | [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 |  |
+| [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 | 2022-04-15 |  |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2022-04-15 | 2022-11-19 |
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Gaze](https://open.spotify.com/track/2bWSSn9tMf9JeJB3ZPnUbB) | [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Gaze](https://open.spotify.com/album/3o7rNZqM0CkoVAwyWUXaro) | 1:35 | 2022-04-15 | 2022-07-29 |
@@ -227,7 +228,7 @@
 | [viola](https://open.spotify.com/track/6ghICeprXG957CqdLx67WN) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep unexpected](https://open.spotify.com/album/1x6l5C4ZifQ3u0NkILPlcc) | 1:26 | 2022-04-15 | 2022-07-03 |
 | [Water](https://open.spotify.com/track/1D1T85tGQBtiQwXbTRYXXC) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:58 | 2022-04-15 | 2022-08-12 |
 | [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 | 2022-04-15 |  |
-| [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 |  |
+| [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 | 2023-02-04 |
 | [we used to talk every night](https://open.spotify.com/track/29MC6rSDNcImKHysL5acKj) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/2lUVfC4UUKYtaeeGEAlOW8) | 2:02 | 2022-04-15 |  |
 | [we used to talk every night](https://open.spotify.com/track/6kAMaQt8UveeTctekIpUjF) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/25mhdKvHHJ6QwDnsCmAaav) | 2:02 | 2022-04-15 | 2022-11-20 |
 | [we used to talk every night](https://open.spotify.com/track/0tqIvb0b7WpOYMYJR2Ef38) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/4qSrP99f58y212MoMioGu0) | 2:02 | 2022-04-15 | 2022-12-08 |

@@ -2,14 +2,15 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Lo nuevo del popetón y reggaetón emergente en MX, con Nicole Favre en portada.
+> Lo nuevo del popetón y reggaetón emergente en MX, con Elvis de Yongol en portada.
 
-113 songs - 5 hr 51 min
+115 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-07 |  |
 | [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 | 2022-03-16 | 2023-01-14 |
+| [2021](https://open.spotify.com/track/3g75zSTMs5KqLXjyeVuzbP) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8) | [2021](https://open.spotify.com/album/6rSzR0tafmEZqdTiNrqPLJ) | 2:46 | 2023-02-03 |  |
 | [A Escondidas](https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq) | [Cala Vera](https://open.spotify.com/artist/3eSEdtHL36adsA9SDrvVuF) | [A Escondidas](https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL) | 3:41 | 2022-02-01 | 2022-08-04 |
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 | 2022-07-30 |
 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 | 2022-01-07 | 2022-02-16 |
@@ -77,7 +78,7 @@
 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 | 2022-01-22 |  |
 | [Melocotón](https://open.spotify.com/track/4PCAhx0o0FWhBwgJYIuHps) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Tiempos \(Re\-Issue\)](https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH) | 3:06 | 2022-01-07 | 2022-03-03 |
 | [Menta](https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [FEGA](https://open.spotify.com/artist/6koJ0koSoyiHwlGPP6c1Lo) | [Menta](https://open.spotify.com/album/28qcC50kgrTlyDfZQaltcM) | 3:10 | 2022-01-07 | 2022-03-03 |
-| [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 | 2022-05-27 |  |
+| [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 | 2022-05-27 | 2023-02-04 |
 | [Modales](https://open.spotify.com/track/6QN7NiSb37BDD7VGMBmCv0) | [A\. Bahena](https://open.spotify.com/artist/45M9Trx3miT27vCuZNW1m8), [Naldo Br](https://open.spotify.com/artist/48xhWmlyKv5ETSCtJb91IA), [Barbie beat](https://open.spotify.com/artist/3XPACYhBGd2y2wX5yq4JiR), [C.Cazanova](https://open.spotify.com/artist/33CizBuVuc0mibmVAzXbIz) | [LOS GALACTICOS Vol.1](https://open.spotify.com/album/6K7m6IhpfUzMMS8OGd3ILI) | 5:02 | 2022-12-16 | 2023-02-03 |
 | [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-01-07 | 2022-05-07 |
 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 | 2022-01-07 |  |
@@ -103,8 +104,9 @@
 | [Se Te Nota](https://open.spotify.com/track/2a0SazgaPiQkIJSbnUDJgy) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [Se Te Nota](https://open.spotify.com/album/3DwVCDIE6zV6VLTiLV7PVh) | 3:14 | 2022-02-23 | 2022-06-18 |
 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 | 2022-03-02 | 2023-01-28 |
 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-01-07 | 2022-02-24 |
+| [Shit Luv](https://open.spotify.com/track/3hWdDYWGJ4OY5CRzYbKsQQ) | [Lucky ES](https://open.spotify.com/artist/6uxPG0icdVTO7Q0yTd4zMY), [HelaBroke](https://open.spotify.com/artist/29ptL24FzRJGrMMgPYVZPF), [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Shit Luv](https://open.spotify.com/album/213EBdwh7ZKzor8AAvQ1R2) | 3:39 | 2023-02-03 |  |
 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 | 2022-01-07 | 2023-01-03 |
-| [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 | 2022-06-17 |  |
+| [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 | 2022-06-17 | 2023-02-04 |
 | [Si Supieras](https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Si Supieras](https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ) | 2:26 | 2023-01-13 |  |
 | [Swipe Up](https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Alan Marcos](https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Swipe Up](https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ) | 3:32 | 2022-05-06 | 2022-09-26 |
 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 | 2022-08-26 |  |

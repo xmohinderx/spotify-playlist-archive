@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-253 songs - 15 hr 17 min
+254 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 | 2021-12-03 | 2022-02-12 |
 | [All Your Days](https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [All Your Days](https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt) | 4:35 | 2021-12-03 |  |
 | [Almost Home](https://open.spotify.com/track/5RT22k0yL1HpwbftyNjDjP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [Almost Home](https://open.spotify.com/album/10xQv6nMe4aXYQVIWqEYFo) | 3:59 | 2021-12-03 |  |
-| [Alone](https://open.spotify.com/track/0D2JFwjnMhM6qgVUcFQdeI) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5sI2vLuEhKYxtA47eeDIy1) | 2:51 | 2022-07-08 |  |
+| [Alone](https://open.spotify.com/track/0D2JFwjnMhM6qgVUcFQdeI) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5sI2vLuEhKYxtA47eeDIy1) | 2:51 | 2022-07-08 | 2023-02-04 |
+| [Alone](https://open.spotify.com/track/7Mle7Hl4xLcbaSOTNvKDrg) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5C0QX3dIaId5XpyL5nxh2h) | 2:51 | 2023-01-06 |  |
 | [Amnesia \(with Nightly\)](https://open.spotify.com/track/7FBtH4DLSGoURtst3KHcTA) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Digital Dreamscape](https://open.spotify.com/album/6lUpam3soOFv53wKbC1KaS) | 3:01 | 2022-05-13 |  |
 | [Angie \(i’ve been lost\)](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2021-12-03 | 2022-12-03 |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-12-03 |  |

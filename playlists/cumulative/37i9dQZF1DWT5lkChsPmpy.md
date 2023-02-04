@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-411 songs - 18 hr 28 min
+412 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 | 2022-04-15 |  |
 | [Nacho Mood](https://open.spotify.com/track/0B8XQw5W2ao2EBLJmMVTPv) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Nacho Mood](https://open.spotify.com/album/6ArCIZSl8U33dboMdtB3t9) | 2:27 | 2022-11-25 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2021-11-10 |  |
-| [Natalia Natalia](https://open.spotify.com/track/2YDhfLYLLDt4VWhWB2213W) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Natalia Natalia](https://open.spotify.com/album/7ars0X7ALrkok1lG79TKcJ) | 2:22 | 2022-05-10 |  |
+| [Natalia Natalia](https://open.spotify.com/track/2YDhfLYLLDt4VWhWB2213W) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Natalia Natalia](https://open.spotify.com/album/7ars0X7ALrkok1lG79TKcJ) | 2:22 | 2022-05-10 | 2023-02-04 |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2021-11-10 | 2022-07-08 |
 | [Natural Capacity](https://open.spotify.com/track/6VRAp6MU7djkil0b7HuZNc) | [Lifty Haze](https://open.spotify.com/artist/0pH2yots9acUIP7kjpV0oj) | [Natural Capacity](https://open.spotify.com/album/2tGGVXPBVGt48RHZojS5HU) | 2:41 | 2023-01-20 |  |
 | [Neblina](https://open.spotify.com/track/7DR02Su5fawrNTh03YVRib) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Neblina](https://open.spotify.com/album/42aiAWmDEGvkWUgpcDqkTF) | 3:16 | 2021-11-10 |  |
@@ -401,6 +401,7 @@
 | [Vivacity](https://open.spotify.com/track/3sanyZdzy1B8yIJDCUyjKy) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS), [ALGONZO](https://open.spotify.com/artist/3SK7UL3Cgpgn58MxvfFxy8) | [Vivacity](https://open.spotify.com/album/2qUICDoDkz3Y7xb0FsDvIO) | 2:00 | 2022-09-02 |  |
 | [Voids](https://open.spotify.com/track/3255ReEv4aYfeGdqAb0yfD) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Snow](https://open.spotify.com/album/0nOV8jyTKhK35vBKCZSrSh) | 2:30 | 2021-11-10 | 2022-07-08 |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-10 | 2022-09-09 |
+| [Warm Winds](https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Warm Winds](https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG) | 2:23 | 2023-02-03 |  |
 | [Watch Me Now](https://open.spotify.com/track/2RVhZ74hHRhXVJ7sEBrHcO) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Watch Me Now](https://open.spotify.com/album/3vlO893TVV7tDjm2AShPoK) | 2:26 | 2021-11-10 | 2022-07-08 |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2021-11-10 |  |
 | [Waves](https://open.spotify.com/track/5tO9k8v6sh7OTZoX3vycwU) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp) | [Waves](https://open.spotify.com/album/14IDQwXQP5FZpuQMQz1TWJ) | 1:49 | 2022-04-15 |  |

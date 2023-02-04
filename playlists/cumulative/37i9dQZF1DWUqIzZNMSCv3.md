@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-70 songs - 4 hr 48 min
+71 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 | 2022-07-08 | 2022-11-29 |
 | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/track/2g8J31ZSDiHfpbj4SDiwMD) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Eric Le Sage](https://open.spotify.com/artist/6JSdWtNdhfjutA5r16UOpx) | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/album/1L9ROmc0o1iDp79dUGQdcP) | 1:42 | 2022-09-09 |  |
 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 | 2022-01-24 |  |
+| [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 | 2023-02-03 |  |
 | [Fantasia No\. 3 in D Minor, K\. 397](https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger](https://open.spotify.com/album/7rZomvm8hIPSECCPFgAVBf) | 5:46 | 2021-12-06 |  |
 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2021-12-06 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2021-12-06 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 13417,
+  "num_followers": 13456,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDBmOTRhM2Q3ZjRhZjY1MGIxOTllOWY0OTIxN2Y2Yjli",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDE4M2EyYjQ0Mjg1ODI5YjY5ODIxYTQzNDNjZTI2MTU5",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "Keep It Coming",
+        "url": "https://open.spotify.com/album/3cxupIqKlhItQLkS07cVWZ"
+      },
+      "artists": [
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        },
+        {
+          "name": "Suki Soul",
+          "url": "https://open.spotify.com/artist/51jCman0L3GDINLe3phz7t"
+        }
+      ],
+      "duration_ms": 235932,
+      "name": "Keep It Coming - Radio Mix",
+      "url": "https://open.spotify.com/track/7x3QYBZPrA2kQIXa5ICvBJ"
+    },
     {
       "added_at": "2023-01-20 05:01:00",
       "album": {

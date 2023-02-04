@@ -1,13 +1,37 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 34712,
+  "num_followers": 34769,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDRkZTQ1ZjUwNWE5NmUyM2QwZmFkMzljNjJmNjVmOWNl",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDgxZDM0YWFmYjhkNDE0ZDM4ZTY1YzU0MzE4Yzc3MTU5",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/315zprf1POK89DZOYBsPtQ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        }
+      ],
+      "duration_ms": 265059,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/7tO177bfJZ1IJasWil96wD"
+    },
     {
       "added_at": "2023-01-20 05:01:00",
       "album": {
@@ -45,22 +69,6 @@
       "url": "https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Eight",
-        "url": "https://open.spotify.com/album/16Nud8qE9ed5FsaT53mo7k"
-      },
-      "artists": [
-        {
-          "name": "Angel Vivaldi",
-          "url": "https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK"
-        }
-      ],
-      "duration_ms": 221264,
-      "name": "Eight",
-      "url": "https://open.spotify.com/track/6mY0cMHPRW5zom3nurTxMr"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Hot Rats",
@@ -93,20 +101,20 @@
       "url": "https://open.spotify.com/track/5JVLklFBxXYa6HKYKx3Beo"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
-        "name": "You Know What...?",
-        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+        "name": "Eight",
+        "url": "https://open.spotify.com/album/16Nud8qE9ed5FsaT53mo7k"
       },
       "artists": [
         {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+          "name": "Angel Vivaldi",
+          "url": "https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK"
         }
       ],
-      "duration_ms": 416720,
-      "name": "Spanish Eddie",
-      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
+      "duration_ms": 221264,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/6mY0cMHPRW5zom3nurTxMr"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -123,6 +131,22 @@
       "duration_ms": 132864,
       "name": "Sinopsis",
       "url": "https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "You Know What...?",
+        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 416720,
+      "name": "Spanish Eddie",
+      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -173,22 +197,6 @@
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Badeep",
-        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 363554,
-      "name": "Badeep",
-      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Apostrophe(')",
@@ -205,20 +213,20 @@
       "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Immigrance",
-        "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
+        "name": "Badeep",
+        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
       "artists": [
         {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 571323,
-      "name": "Xavi",
-      "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
+      "duration_ms": 363554,
+      "name": "Badeep",
+      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -235,6 +243,22 @@
       "duration_ms": 266535,
       "name": "Flowerbed",
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Immigrance",
+        "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 571323,
+      "name": "Xavi",
+      "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -645,6 +669,30 @@
       "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Akashic Xronicles",
@@ -693,30 +741,6 @@
       "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
@@ -731,22 +755,6 @@
       "duration_ms": 323520,
       "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
       "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
-    },
-    {
-      "added_at": "2021-04-16 05:00:00",
-      "album": {
-        "name": "Meteor Stream",
-        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 345281,
-      "name": "Meteor Stream",
-      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -781,6 +789,22 @@
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+      },
+      "artists": [
+        {
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Chaos Companion",
@@ -801,20 +825,20 @@
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2021-04-16 05:00:00",
       "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+        "name": "Meteor Stream",
+        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
       },
       "artists": [
         {
-          "name": "Lilly Legit",
-          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 181708,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+      "duration_ms": 345281,
+      "name": "Meteor Stream",
+      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -879,22 +903,6 @@
       "duration_ms": 248161,
       "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 305858,
-      "name": "Truck Fump",
-      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
     }
   ],
   "unique_name": "Prog Jazz",

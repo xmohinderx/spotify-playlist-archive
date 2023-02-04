@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156005,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf"
+    },
+    {
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 147633,
       "name": "Feels so Good",
       "url": "https://open.spotify.com/track/4VLfNAwn0eo218nImtwvpN"
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-26",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/7wRzG4NhH6Vb6HvGkjM07I"
@@ -4524,7 +4542,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 227272,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp"
@@ -4652,7 +4670,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 200000,
       "name": "Particles",
       "url": "https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0"
@@ -5638,6 +5656,28 @@
       "duration_ms": 277681,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
+    },
+    {
+      "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/65CUZnzGEGixgBPSP4GTnQ"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Queen D",
+          "url": "https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/3ponDZeMH4ONWpPCyfrJ5L"
     },
     {
       "album": {

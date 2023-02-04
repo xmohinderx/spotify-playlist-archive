@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 156024,
+  "num_followers": 156470,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMDk0NmQwZWU5MzYzNzc5MDc3NGFjNGVlYmZkYTQyNTgx",
+  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMGNkM2UzNDU3MzU5N2M5YjZmZmYxMWE4MmMzM2VhMjI2",
   "tracks": [
     {
       "added_at": "2023-01-20 02:08:11",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
-      "added_at": "2023-02-03 01:29:13",
+      "added_at": "2023-02-04 01:20:43",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Corridos Necesarios, Vol. 1",
+        "url": "https://open.spotify.com/album/3hvp63bGehkoAmfQIxxojW"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 264778,
+      "name": "El Strawberry",
+      "url": "https://open.spotify.com/track/1iQbmo9nnw026Oc1nHLCDm"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios - Bonus Track",
       "url": "https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Corridos Necesarios, Vol. 1",
-        "url": "https://open.spotify.com/album/3hvp63bGehkoAmfQIxxojW"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 264778,
-      "name": "El Strawberry",
-      "url": "https://open.spotify.com/track/1iQbmo9nnw026Oc1nHLCDm"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "El Dia Que Puedas",
+      "url": "https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "De Lo M\u00e1s Interesante (En Vivo)",
         "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 139000,
       "name": "De Lo M\u00e1s Interesante - En Vivo",
       "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Atraves de la Luna",
-        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "El Dia Que Puedas",
-      "url": "https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U"
     },
     {
       "added_at": "2023-01-20 02:08:11",

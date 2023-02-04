@@ -4,13 +4,13 @@
 
 > Relax and take it slow today
 
-164 songs - 9 hr 14 min
+166 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 | 2021-04-19 | 2022-09-24 |
 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 | 2021-04-19 | 2022-04-29 |
-| [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 | 2021-04-19 |  |
+| [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 | 2021-04-19 | 2023-02-04 |
 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 3:24 | 2021-04-19 |  |
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 | 2021-04-19 |  |
 | [Amsterdam \- Acoustic](https://open.spotify.com/track/7duwk0wCezbso7J84vYIlh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam \(Acoustic\)](https://open.spotify.com/album/2BW6kuO4sejPFXAYDxXznj) | 3:24 | 2022-05-06 |  |
@@ -23,6 +23,7 @@
 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 |  |
 | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/track/5dPc0lDy55q0GCyL66Uudy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/album/074bfoI8tp9Kpj4alfarw3) | 3:16 | 2021-04-19 |  |
 | [Carry On](https://open.spotify.com/track/1qBKPuLAM3AMfP8kW6lZ7n) | [Our Atlantic Roots](https://open.spotify.com/artist/7ymwRNbLwKozZwnup5cMtB) | [Carry On](https://open.spotify.com/album/0WyeZyEEb8pidrTsN1mPtK) | 3:25 | 2021-04-19 |  |
+| [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-02-03 |  |
 | [Confidence](https://open.spotify.com/track/055h2AsFKK7aSw4hljdgFY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/3yzK1XGu66r71Tmewym1Yp) | 2:35 | 2022-03-04 | 2022-10-13 |
 | [Confidence](https://open.spotify.com/track/6pS9rYGCtegVdUKDuURMMf) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/5wBp5OtdqAJ70QLSWuE7JJ) | 2:35 | 2022-03-04 |  |
 | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg) | 2:42 | 2022-04-01 |  |
@@ -81,6 +82,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-04-19 |  |
 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 | 2021-04-19 |  |
 | [My Old Man](https://open.spotify.com/track/6OzujJBXwYPxJ7KeqflLtr) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa) | 3:47 | 2021-04-19 | 2022-07-29 |
+| [My Time Machine](https://open.spotify.com/track/44pg0fUyO3Fbj99LiLOHKy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/6dHcdUtQyeUbYEe6o8CY8c) | 2:25 | 2023-02-03 |  |
 | [Nashville](https://open.spotify.com/track/54ZN2jpVqqhS8l4Qdc4ncu) | [Jill and Kate](https://open.spotify.com/artist/3nOFoJxsyWVGxnFQMqjeH0) | [Nashville](https://open.spotify.com/album/1R2wxAT6PhqV8EkE3EejMT) | 3:54 | 2021-04-19 | 2022-04-29 |
 | [Never Break](https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Never Break EP](https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG) | 2:35 | 2021-04-19 |  |
 | [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 | 2021-04-19 |  |
@@ -110,7 +112,7 @@
 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 | 2022-03-11 |  |
 | [Rise and Shine](https://open.spotify.com/track/0SjIo6BGy7Aq2vuKnEkB4D) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:40 | 2021-04-19 |  |
 | [Roots And Wings](https://open.spotify.com/track/4dR2hTCSmSJuEJZ6LVdbFM) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Roots And Wings](https://open.spotify.com/album/6T1P99ZFFcOSBSq9TNeqwi) | 2:41 | 2021-04-19 | 2022-04-29 |
-| [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 | 2021-04-19 |  |
+| [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 | 2021-04-19 | 2023-02-04 |
 | [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 | 2021-04-19 |  |
 | [Salvation Bound](https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | ['87](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3) | 4:18 | 2021-04-19 | 2022-04-29 |
 | [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 |  |

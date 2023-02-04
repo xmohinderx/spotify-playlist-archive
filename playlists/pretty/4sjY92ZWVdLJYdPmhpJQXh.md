@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,893 likes - 179 songs - 8 hr 31 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,893 likes - 197 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,23 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 177 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:44 |
 | 178 | [The Art of Letting Go](https://open.spotify.com/track/6i08kCm2z1gI38NGnzLIJ1) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 2:32 |
 | 179 | [Sick Of This](https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Sick Of This](https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ) | 3:13 |
+| 180 | [Love Shit](https://open.spotify.com/track/1ORLXdMQqZn13ptMEMDaux) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Love Shit](https://open.spotify.com/album/4jMcvtT4D2Ddfxo54XRAQO) | 2:20 |
+| 181 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/0wpWOmB9Z2LBqmM2dtlqtQ) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/0WZsGW0OUryoVQ4LnPtAJY) | 3:41 |
+| 182 | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo) | 2:26 |
+| 183 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 |
+| 184 | [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 |
+| 185 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
+| 186 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
+| 187 | [Speeding](https://open.spotify.com/track/7A2GlrpgxqmoNTbB4oQ2Mi) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Speeding](https://open.spotify.com/album/0kxDSxCjGXkn71i67arFCU) | 3:41 |
+| 188 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 |
+| 189 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
+| 190 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 191 | [Heartbleed](https://open.spotify.com/track/5ygmoEDu47iWuODWLfxIP8) | [TG Kommas](https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv) | [Welcome 2 The Trenches](https://open.spotify.com/album/73tDruYotdetPttfbiz8LD) | 2:38 |
+| 192 | [Xena](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Xena](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
+| 193 | [Pepper \- Acoustic](https://open.spotify.com/track/2xqACDfEkef0HzyjfzNfQb) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Pepper \(Acoustic\)](https://open.spotify.com/album/102o9BHa9113tCgELsDofO) | 2:53 |
+| 194 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8) | 2:58 |
+| 195 | [portal](https://open.spotify.com/track/5jdUVh8cPAZxEAL8d4D1KY) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [portal](https://open.spotify.com/album/0tC7IPnSn7ku4xIEAYJoXC) | 3:06 |
+| 196 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 |
+| 197 | [Mary Jane](https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Mary Jane](https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O) | 3:40 |
 
-Snapshot ID: `NTQxMyxjOWI0NjFhNWEyZDFkODliNTkyYjkyNGQwODFlZDQ2M2ZiMWI3ZDNj`
+Snapshot ID: `NTQzMSw2YzMzN2I0MDI3NDYwODU3MDBjOTU0YTg4NjczZjE4NGUyNDVlZjAw`

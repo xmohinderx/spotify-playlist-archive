@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,747 likes - 202 songs - 12 hr 23 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,732 likes - 194 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,20 +195,12 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 185 | [Mhmm](https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc) | [Toak](https://open.spotify.com/artist/0wipVeeTuOwzVpl2RgSa2z) | [Tears of a Poet](https://open.spotify.com/album/6XmRyDUGMU3De1f6sJRkjb) | 2:47 |
 | 186 | [You Did It Again](https://open.spotify.com/track/3sjSBkwC6zzizzozoXCYH1) | [cristian](https://open.spotify.com/artist/75U23aX5AfwDwalmCZHnjQ) | [You Did It Again](https://open.spotify.com/album/4OmNQonXV4KD7F0GkJweqr) | 3:20 |
 | 187 | [Thankful For What I Found](https://open.spotify.com/track/01vZ5RTIWo804CIDvygJjj) | [Band Of Pockets](https://open.spotify.com/artist/2PyooGy9ALM363q9g2ZYNu) | [Thankful For What I Found](https://open.spotify.com/album/2wj3Q4QuJlLbEJS1E17z6k) | 3:22 |
-| 188 | [Redbone \(Cover\)](https://open.spotify.com/track/2KEt5L1bTaO319HB6xFfeu) | [Payton Moore](https://open.spotify.com/artist/0fpvePRZytTAtkNCIFasva) | [Redbone \(Cover\)](https://open.spotify.com/album/2py6c9kDc98goosXHmHCam) | 3:09 |
-| 189 | [Creepin](https://open.spotify.com/track/22OW3x0sdFyrKCU6Jfepmi) | [Lorenzo Jesse](https://open.spotify.com/artist/3YqvdftoxX7PXMc16wxviW) | [Creepin](https://open.spotify.com/album/4MaToaCjfSUo1RJD1oHoFb) | 4:00 |
-| 190 | [3\-2\-1](https://open.spotify.com/track/0cW2evybdzaNIPuGkVMWmN) | [Lauren Waller](https://open.spotify.com/artist/1dfsoRdxexXO4hVr8XY6Y8) | [3\-2\-1](https://open.spotify.com/album/2eK7qlR22npYe9kG0GUijm) | 2:37 |
-| 191 | [rat race](https://open.spotify.com/track/2OYi0cHqHDiTbdGHe5gccb) | [Huy](https://open.spotify.com/artist/1NTMbL31XUN7LvSUq8VjMc) | [rat race](https://open.spotify.com/album/2jLjVPOa3fmi9EQGwja1gz) | 2:32 |
-| 192 | [Burnin'](https://open.spotify.com/track/7xHcYWWKY412GuvovG7Mdg) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [Burnin'](https://open.spotify.com/album/6LnkGD9YGlmMFgM1FLamfu) | 2:27 |
-| 193 | [Call Me \(Jam Version\)](https://open.spotify.com/track/1YShEig3ZEQHsuO472JvVL) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call Me \(Jam Version\)](https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk) | 4:01 |
-| 194 | [Just Know It](https://open.spotify.com/track/3eY6xJ604F9JA9YJzOgfXb) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 2:13 |
-| 195 | [Juntos](https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Pelikula](https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr) | 3:13 |
-| 196 | [Samba\-rumba](https://open.spotify.com/track/2CXZXk8Lr3JUlIPHdDXQuz) | [Jussanam](https://open.spotify.com/artist/4yj5tRFDoT6LL2w58MHgVE), [Ingvi Þór Kormáksson](https://open.spotify.com/artist/0UjTW7IRziiJv9ufd3Xlpl) | [Latin Faculty](https://open.spotify.com/album/4IlFi5cNjdN4dn8Si9F0Pl) | 3:13 |
-| 197 | [Sunday Morning Love](https://open.spotify.com/track/5bNL0QPEiwlK17S2Onq3Nh) | [Jason Schmidt](https://open.spotify.com/artist/3XWZn3j3TsvomsnkHoSzCI), [Kid Wolf](https://open.spotify.com/artist/5fLT07bh1sPgrGLCbOTJ7r) | [Intrusive Thoughts](https://open.spotify.com/album/7c347OoprlTBwkc44xDc8O) | 4:09 |
-| 198 | [Sea in Me](https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU) | [Akash](https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v) | [Live a Little](https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy) | 2:35 |
-| 199 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 |
-| 200 | [Animales de Poder](https://open.spotify.com/track/3wwKjEHO5cRXfweOLF7OjY) | [TALULAH](https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ) | [Animales de Poder](https://open.spotify.com/album/4D0pkv46ofDuAuxgEm3kQe) | 3:18 |
-| 201 | [Call Me](https://open.spotify.com/track/0sEPkMlgsgY6siGue5f0Vq) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [Call Me](https://open.spotify.com/album/4Bfczw0YhKEBASWjlrldVc) | 5:00 |
-| 202 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 |
+| 188 | [3\-2\-1](https://open.spotify.com/track/0cW2evybdzaNIPuGkVMWmN) | [Lauren Waller](https://open.spotify.com/artist/1dfsoRdxexXO4hVr8XY6Y8) | [3\-2\-1](https://open.spotify.com/album/2eK7qlR22npYe9kG0GUijm) | 2:37 |
+| 189 | [Sunday Morning Love](https://open.spotify.com/track/5bNL0QPEiwlK17S2Onq3Nh) | [Jason Schmidt](https://open.spotify.com/artist/3XWZn3j3TsvomsnkHoSzCI), [Kid Wolf](https://open.spotify.com/artist/5fLT07bh1sPgrGLCbOTJ7r) | [Intrusive Thoughts](https://open.spotify.com/album/7c347OoprlTBwkc44xDc8O) | 4:09 |
+| 190 | [Sea in Me](https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU) | [Akash](https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v) | [Live a Little](https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy) | 2:35 |
+| 191 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 |
+| 192 | [Animales de Poder](https://open.spotify.com/track/3wwKjEHO5cRXfweOLF7OjY) | [TALULAH](https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ) | [Animales de Poder](https://open.spotify.com/album/4D0pkv46ofDuAuxgEm3kQe) | 3:18 |
+| 193 | [Call Me](https://open.spotify.com/track/0sEPkMlgsgY6siGue5f0Vq) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [Call Me](https://open.spotify.com/album/4Bfczw0YhKEBASWjlrldVc) | 5:00 |
+| 194 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 |
 
-Snapshot ID: `NDA4OSw5M2ZjY2Y0Y2Q5MWQxMjY0YmZiNjI1ZDg5MmM5MTQ4ZjBjMjgyYWZj`
+Snapshot ID: `NDA5NywyN2I1MWQ1YmY0OThmOTY1NWY4OTY1ZjFjYzQ5MTk3ZTRhZGI0NDM4`

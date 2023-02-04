@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 181542,
       "name": "B\u00fascate Un Hombre Que Te Quiera",
       "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 259200,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/2ucXI3ph3XsFhe9T78cfYZ"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 228401,
       "name": "Esperandote",
       "url": "https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV"
@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/1fgbiHKQGZhwGutBh2OdFx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Castillo",
+          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/6FTGItR8uFjpOQGa8AAlak"
+    },
+    {
+      "album": {
         "name": "La Suavecita",
         "url": "https://open.spotify.com/album/6q21ZGgKA5pJzJj5K1lyfB"
       },
@@ -2066,6 +2084,24 @@
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "album": {
+        "name": "Mi Formula de Amor",
+        "url": "https://open.spotify.com/album/7oTd7Mu8VHDaxaKJ5QZkWy"
+      },
+      "artists": [
+        {
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175804,
+      "name": "Mi F\u00f3rmula de Amor",
+      "url": "https://open.spotify.com/track/4CVsyjUiuddcgeUPiAK2Z7"
     },
     {
       "album": {
@@ -2584,6 +2620,24 @@
       "duration_ms": 152195,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/1AadbT8MzoeyI7KGmyQECf"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI"
     },
     {
       "album": {
@@ -3494,6 +3548,24 @@
       "duration_ms": 240853,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+    },
+    {
+      "album": {
+        "name": "UNA CUMBITA",
+        "url": "https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Base",
+          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135157,
+      "name": "UNA CUMBITA",
+      "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
     },
     {
       "album": {

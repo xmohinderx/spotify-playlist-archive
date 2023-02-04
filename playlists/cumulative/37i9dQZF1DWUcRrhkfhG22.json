@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7ggrCSNzeqPGUgdc11WTKn"
+      },
+      "artists": [
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201313,
+      "name": "Music Sounds Better With You",
+      "url": "https://open.spotify.com/track/7kn8s9JWYb8SyQkxiww9Kb"
+    },
+    {
+      "album": {
         "name": "Not Into You",
         "url": "https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX"
       },

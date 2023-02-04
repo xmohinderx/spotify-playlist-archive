@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-310 songs - 1 day 5 hr 27 min
+311 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-06-24 | 2022-08-13 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2021-11-26 |  |
 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 | 2022-06-24 |  |
-| [Can Soleil](https://open.spotify.com/track/3009a1t7bhTpvBDEIKtI4X) | [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Pamoja / Can Soleil / Nestor](https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG) | 7:00 | 2023-01-13 |  |
+| [Can Soleil](https://open.spotify.com/track/3009a1t7bhTpvBDEIKtI4X) | [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Pamoja / Can Soleil / Nestor](https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG) | 7:00 | 2023-01-13 | 2023-02-04 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-01-14 |  |
 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 | 2021-11-26 |  |
 | [Cenote](https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [Cenote](https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf) | 4:58 | 2021-11-26 |  |
@@ -214,6 +214,7 @@
 | [Pandora](https://open.spotify.com/track/2ymuOTZRriPFRyihMuiXwd) | [LEYZEN](https://open.spotify.com/artist/1Gdv7ddbuz4aqxDMYWIXnt) | [Pandora](https://open.spotify.com/album/60cRGlAzSKXoCQNQoDP6Du) | 7:04 | 2022-04-04 | 2022-07-22 |
 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 | 2022-09-30 | 2022-11-26 |
 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 | 2021-11-26 |  |
+| [Phaendar](https://open.spotify.com/track/1g3RmkihlvSvSbiB1JduDz) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm) | [Decennium: Phaendar](https://open.spotify.com/album/5BxLJ838oHmHfTtIOYex55) | 4:44 | 2023-02-04 |  |
 | [Phanta](https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Phanta](https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1) | 6:56 | 2022-11-15 | 2022-11-26 |
 | [Pink Jellyfish](https://open.spotify.com/track/4iZuFzEARWx8KQZfoc2WpE) | [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Pink Jellyfish](https://open.spotify.com/album/0YhElCaOTPeBA54vkOWGcN) | 6:22 | 2021-11-26 | 2021-12-30 |
 | [Pink Moon](https://open.spotify.com/track/5juPlUFkksVaQQ0EWWPjPm) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Pink Moon](https://open.spotify.com/album/0lxU1f8o0IKw5911GzDSaK) | 6:42 | 2021-11-26 | 2022-07-28 |

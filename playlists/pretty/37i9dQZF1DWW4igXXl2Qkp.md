@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: C Stunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,784 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,837 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 9 | [Full Grind](https://open.spotify.com/track/4SJ5lS4IvapFTGfJqHu4al) | [Baby Jeweler](https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C) | [Full Grind](https://open.spotify.com/album/1gYKcxF3sgNNUexsoWnR88) | 2:11 |
 | 10 | [Naismith](https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Naismith](https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw) | 3:01 |
 | 11 | [Beastmode](https://open.spotify.com/track/76vLQOQ5Ni3hmjkSW5tzpj) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Beastmode](https://open.spotify.com/album/4vbimvX7WTr9r0b0GRJS5D) | 1:44 |
-| 12 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havin](https://open.spotify.com/artist/36RF9L1ABN67l6lYDXYYcY) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
+| 12 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
 | 13 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 |
 | 14 | [M's](https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh) | [Babyfa$e James](https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8) | [M's](https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq) | 2:16 |
 | 15 | [Pound Town \(with Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(with Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |

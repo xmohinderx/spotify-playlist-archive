@@ -3013,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "Over the Weekend",
+        "url": "https://open.spotify.com/album/4LZNKWl3QV2ByeYItaYaec"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brennan",
+          "url": "https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8"
+        },
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210496,
+      "name": "Over the Weekend",
+      "url": "https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf"
       },

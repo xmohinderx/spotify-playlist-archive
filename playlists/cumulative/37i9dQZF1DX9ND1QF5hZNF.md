@@ -4,13 +4,14 @@
 
 > Evadez\-vous tout en douceur...
 
-51 songs - 2 hr 37 min
+52 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Part Of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 | 2022-12-20 |  |
 | [Away From Home](https://open.spotify.com/track/44EgTZXLY0a2NcKaZdnkyL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Away From Home](https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq) | 2:29 | 2022-12-20 |  |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-20 |  |
+| [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv) | 2:48 | 2023-02-03 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-12-20 |  |
 | [Better Now](https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Better Now](https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY) | 2:49 | 2022-12-20 |  |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-12-20 |  |
@@ -39,7 +40,7 @@
 | [Passage](https://open.spotify.com/track/3Q8CwfdyDIjHdlItATIxLt) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Passage](https://open.spotify.com/album/1UqfHtwpJsgz8FtEzPmpoR) | 2:10 | 2022-12-20 |  |
 | [Pink Soldiers](https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Pink Soldiers](https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4) | 2:15 | 2022-12-20 |  |
 | [Plein air](https://open.spotify.com/track/41dazLpdMmO7Kr0yQCotfn) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49), [Hannah Young](https://open.spotify.com/artist/02Vjcy8yd6eHu8QMYNMIAf) | [Plein air](https://open.spotify.com/album/5Z2vbeJm4nv74ZctGS0HyS) | 2:45 | 2022-12-20 |  |
-| [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2022-12-20 |  |
+| [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2022-12-20 | 2023-02-04 |
 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 | 2022-12-20 |  |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-12-20 |  |
 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 | 2022-12-20 |  |

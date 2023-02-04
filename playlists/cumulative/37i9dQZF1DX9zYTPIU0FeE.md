@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=Ol\_jgjcuTPqfrN4HQDcDdQ">Robin Fassie</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=DZh78XpwQtKNy73Nu03cEA">Robin Fassie</a>
 
-94 songs - 9 hr 56 min
+95 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [The Fall](https://open.spotify.com/track/24XED46T5MAEe52fccVbU6) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [The Fall](https://open.spotify.com/album/2KVA9w5C7j07WtKI1JZ8pY) | 4:55 | 2022-05-12 | 2022-12-25 |
 | [The Fall](https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:55 | 2022-05-12 |  |
 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 | 2022-04-28 |  |
-| [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 |  |
+| [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 | 2023-02-04 |
 | [The Prayer](https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS) | [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Mangaliso Asi](https://open.spotify.com/artist/154yazp34Zc2hrkxo0YbTx), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Ekyoto](https://open.spotify.com/album/2Ga31FnP8JCHAncOn9MxgS) | 2:37 | 2022-04-28 |  |
 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 | 2022-04-28 |  |
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 |  |
@@ -100,6 +100,7 @@
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |
 | [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 | 2022-07-07 | 2022-12-26 |
 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 | 2022-07-07 |  |
+| [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 |  |
 

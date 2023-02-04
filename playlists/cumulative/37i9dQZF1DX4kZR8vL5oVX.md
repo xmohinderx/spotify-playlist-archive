@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Laura Cox
 
-648 songs - 1 day 9 hr 50 min
+649 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Le pouvoir de la fiction](https://open.spotify.com/track/6x4irM2szQwYoWtybJCnW9) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Le pouvoir de la fiction](https://open.spotify.com/album/6GC2dnUzWME9nGWTElpIQh) | 2:36 | 2022-10-04 | 2022-11-09 |
 | [Le temps au temps](https://open.spotify.com/track/02O2SLRlUGY2KdY6xmOYfs) | [Maëva](https://open.spotify.com/artist/0ey4BGstpRmD8BBqdYJ5jT) | [Prélude](https://open.spotify.com/album/3YEsc0LRdQXLqZP27O0XXN) | 2:15 | 2022-02-01 | 2022-03-08 |
 | [Le temps passe \(at home\)](https://open.spotify.com/track/2KmZaH6dCr6nGpgCBLGfqK) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:25 | 2022-01-05 | 2022-02-02 |
-| [Les copines](https://open.spotify.com/track/5N0CUQhUcmAv07oUmhO4qz) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Les copines](https://open.spotify.com/album/0Q5EgRpVmpdY1l8OkmQOqU) | 3:17 | 2023-01-31 |  |
+| [Les copines](https://open.spotify.com/track/5N0CUQhUcmAv07oUmhO4qz) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Les copines](https://open.spotify.com/album/0Q5EgRpVmpdY1l8OkmQOqU) | 3:17 | 2023-01-31 | 2023-02-04 |
+| [Les copines](https://open.spotify.com/track/6L62m1qgmRFeNK0PcdU2AQ) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Les copines](https://open.spotify.com/album/1Dz8726PjXWRaMAJKEm2Um) | 3:17 | 2023-01-31 |  |
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2023-01-03 | 2023-02-01 |
 | [Les glaçons](https://open.spotify.com/track/0YIrsc3eqinrZZ9uubxT2n) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Les glaçons](https://open.spotify.com/album/5EUKrdID5hPgsikD13lr4r) | 2:45 | 2023-01-03 | 2023-02-01 |
 | [Les hommes qui pleurent](https://open.spotify.com/track/7n8Hc3LcckhlYSmMBoIPPL) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Les hommes qui pleurent](https://open.spotify.com/album/4wKUfMOqhqoUuYYoc9092p) | 3:38 | 2022-05-03 | 2022-06-01 |

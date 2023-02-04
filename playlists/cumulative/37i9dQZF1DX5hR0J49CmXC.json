@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "That real hip-hop. Cover: Kota The Friend",
+  "description": "That real hip-hop. Cover: Cordae",
   "name": "Mind Right",
   "tracks": [
     {
@@ -290,6 +290,32 @@
       "duration_ms": 180307,
       "name": "A Father\u2019s Prayer",
       "url": "https://open.spotify.com/track/7rfz3h8Yqh8cjGdFKijlP3"
+    },
+    {
+      "album": {
+        "name": "Chaos Is My Ladder",
+        "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        },
+        {
+          "name": "Crystal Caines",
+          "url": "https://open.spotify.com/artist/5QNT3OFrqUABwC5aSJkKPd"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "A Most Dreadful Symphony",
+      "url": "https://open.spotify.com/track/0UYRaTiNTL5F8tAFQ8Du91"
     },
     {
       "album": {
@@ -1555,6 +1581,28 @@
     },
     {
       "album": {
+        "name": "Penultimate: A Calm Wolf Is Still A Wolf",
+        "url": "https://open.spotify.com/album/1b2b8GpDk1KVl01TgxuFBI"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        },
+        {
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223728,
+      "name": "Death Before Dishonor (feat. Brady Watt)",
+      "url": "https://open.spotify.com/track/5mWowhl5lNvvzFd965GNDf"
+    },
+    {
+      "album": {
         "name": "Decades",
         "url": "https://open.spotify.com/album/1PGgnnG9W1xM0zhUThKJjL"
       },
@@ -1722,6 +1770,24 @@
       "duration_ms": 264320,
       "name": "Don't Condone 2",
       "url": "https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh"
+    },
+    {
+      "album": {
+        "name": "Running From Time",
+        "url": "https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7"
+      },
+      "artists": [
+        {
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Don't Remind Me",
+      "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
     },
     {
       "album": {
@@ -2192,7 +2258,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 146526,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7LLGHxtHo6gCGtAneuR1fw"
@@ -2724,6 +2790,32 @@
       "duration_ms": 130156,
       "name": "High John",
       "url": "https://open.spotify.com/track/55liByWjb2T7j0vohSel10"
+    },
+    {
+      "album": {
+        "name": "Chaos Is My Ladder",
+        "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164590,
+      "name": "Hit List",
+      "url": "https://open.spotify.com/track/5ZFtDmpcRHqt3Taf0Ydq05"
     },
     {
       "album": {
@@ -3756,7 +3848,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 146031,
       "name": "Monsieur Dior",
       "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
@@ -3836,7 +3928,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 117052,
       "name": "MUDPIES - Live on MajorStage",
       "url": "https://open.spotify.com/track/1dQwILrc52hfyf7Mp1w1nK"
@@ -4498,7 +4590,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 249675,
       "name": "pg baby - Remix",
       "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
@@ -5084,10 +5176,36 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 209864,
       "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
+    },
+    {
+      "album": {
+        "name": "Chaos Is My Ladder",
+        "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191625,
+      "name": "Short Notice",
+      "url": "https://open.spotify.com/track/2ncqpYJvmzIPAajiRzBzn3"
     },
     {
       "album": {
@@ -6083,6 +6201,28 @@
     },
     {
       "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
+    },
+    {
+      "album": {
         "name": "Lyrics to GO, Vol. 4",
         "url": "https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3"
       },
@@ -6156,7 +6296,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 148192,
       "name": "Wash The Dishes",
       "url": "https://open.spotify.com/track/2ijOqX5vRDWSEcOAkRFnIM"

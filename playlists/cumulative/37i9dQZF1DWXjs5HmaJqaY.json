@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Fourofour",
+        "url": "https://open.spotify.com/album/5LpNFUfRvJxlqdukb7MCCC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194362,
+      "name": "Fourofour (Edit)",
+      "url": "https://open.spotify.com/track/5QoguAlrPT4C56mmPtguEd"
+    },
+    {
+      "album": {
         "name": "Freedom Remixes",
         "url": "https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv"
       },
@@ -652,6 +670,28 @@
     {
       "album": {
         "name": "Hot Dance",
+        "url": "https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts"
+      },
+      "artists": [
+        {
+          "name": "Tonio Barrientos",
+          "url": "https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318827,
+      "name": "Hot Dance - David Morales Red Zone Mix",
+      "url": "https://open.spotify.com/track/0G5R2bLknNjGs9VExDGYNT"
+    },
+    {
+      "album": {
+        "name": "Hot Dance",
         "url": "https://open.spotify.com/album/5yMkfxICTfooagFb48dMUX"
       },
       "artists": [
@@ -666,7 +706,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 318827,
       "name": "Hot Dance - David Morales Red Zone Mix",
       "url": "https://open.spotify.com/track/43yw8iDqEh75DUvk8pwXWz"
@@ -866,7 +906,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
@@ -1250,6 +1290,24 @@
       "duration_ms": 203809,
       "name": "On The Verge - Radio Mix",
       "url": "https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq"
+    },
+    {
+      "album": {
+        "name": "Club Vibes Part 06",
+        "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485760,
+      "name": "Parallax",
+      "url": "https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx"
     },
     {
       "album": {
@@ -1964,7 +2022,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 190682,
       "name": "Wetterleuchten - Edit",
       "url": "https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD"

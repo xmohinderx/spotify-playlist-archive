@@ -1,13 +1,29 @@
 {
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Bea Miller",
-  "num_followers": 323919,
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Anne-Marie",
+  "num_followers": 324094,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDY0MjAzMWVjYzE3YjM4N2Y1ZmJlNzZhNGNmZTUzMDc3",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDZhYzRiZjQ4NjY2MzJhZmQxY2VmNTNiOGU3MzI0ODMx",
   "tracks": [
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "SAD B!TCH",
+        "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "SAD B!TCH",
+      "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
+    },
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
@@ -23,6 +39,118 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 129938,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 143233,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Brutally Honest",
+        "url": "https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l"
+      },
+      "artists": [
+        {
+          "name": "NEVE",
+          "url": "https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2"
+        }
+      ],
+      "duration_ms": 159817,
+      "name": "Brutally Honest",
+      "url": "https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -43,18 +171,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Devil Is A Woman",
-        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+        "name": "Did It Hurt?",
+        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
         }
       ],
-      "duration_ms": 192491,
-      "name": "Devil Is A Woman",
-      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+      "duration_ms": 164566,
+      "name": "Did It Hurt?",
+      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -75,18 +203,50 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
       },
       "artists": [
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
         }
       ],
-      "duration_ms": 143233,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+      "duration_ms": 196470,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "PSYCHO FREAK",
+        "url": "https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "duration_ms": 165373,
+      "name": "PSYCHO FREAK",
+      "url": "https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Mantrum",
+        "url": "https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "duration_ms": 154814,
+      "name": "Mantrum",
+      "url": "https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -129,36 +289,20 @@
       "url": "https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/4BFZfzQgyvP5HRU8xqpCVs"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "Jamisen",
+          "url": "https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "PSYCHO FREAK",
-        "url": "https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ"
-      },
-      "artists": [
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        }
-      ],
-      "duration_ms": 165373,
-      "name": "PSYCHO FREAK",
-      "url": "https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY"
+      "duration_ms": 170666,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/4Cl0IAqrNUW5mRtehI8kmi"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -203,18 +347,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Mantrum",
-        "url": "https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm"
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV"
       },
       "artists": [
         {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
         }
       ],
-      "duration_ms": 154814,
-      "name": "Mantrum",
-      "url": "https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB"
+      "duration_ms": 153343,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -263,22 +407,6 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -351,38 +479,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 153343,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4WmlhCNjjitpHUycV4NWec"
-      },
-      "artists": [
-        {
-          "name": "Chloe Jane",
-          "url": "https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv"
-        }
-      ],
-      "duration_ms": 137459,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZfkwMYwNKZFlMwxhD9Oyv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -427,22 +523,6 @@
       "duration_ms": 124000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Did It Hurt?",
-        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "Did It Hurt?",
-      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1115,122 +1195,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "my best friend's ex",
-        "url": "https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 175025,
-      "name": "my best friend's ex",
-      "url": "https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Never Dated You",
-        "url": "https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 121183,
-      "name": "Never Dated You",
-      "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "menace",
-        "url": "https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125809,
-      "name": "menace",
-      "url": "https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Mouthwash",
-      "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "BAD B!TCH",
-        "url": "https://open.spotify.com/album/2X0N7b14wqy5XtkzXvmUgU"
-      },
-      "artists": [
-        {
-          "name": "DEZI",
-          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
-        }
-      ],
-      "duration_ms": 182771,
-      "name": "BAD B!TCH",
-      "url": "https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2"
-      },
-      "artists": [
-        {
-          "name": "Jake Daniels",
-          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Bitch Back",
-        "url": "https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 143795,
-      "name": "Bitch Back (feat. FLETCHER)",
-      "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Maybe All the Rumours Are True",
         "url": "https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr"
       },
@@ -1263,22 +1227,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK"
-      },
-      "artists": [
-        {
-          "name": "Cappa",
-          "url": "https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Gorgeous Gorgeous Girls",
         "url": "https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh"
       },
@@ -1291,22 +1239,6 @@
       "duration_ms": 116909,
       "name": "Gorgeous Gorgeous Girls",
       "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "teaching a robot to love",
-        "url": "https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "i feel everything",
-      "url": "https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv"
     },
     {
       "added_at": "2023-01-27 05:00:00",

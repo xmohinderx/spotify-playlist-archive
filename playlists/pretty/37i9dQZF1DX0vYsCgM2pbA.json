@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 113225,
+  "num_followers": 113301,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDFiY2Q0NjdhOTA2YTMwNzk0ZThiNDQwNmE4MzNjOTk5",
+  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDU2MTc4NTQxYmJlOWQ2NjE1ZGZlNmIyNTczM2M0Mzk3",
   "tracks": [
     {
       "added_at": "2023-01-26 13:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "DOWN",
         "url": "https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 194067,
       "name": "DOWN",
       "url": "https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 293775,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 231578,
       "name": "Empty Promise",
       "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 293775,
+      "name": "Feel It Too",
+      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
     },
     {
       "added_at": "2023-01-26 13:00:00",

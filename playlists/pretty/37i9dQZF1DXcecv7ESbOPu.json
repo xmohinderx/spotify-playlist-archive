@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 194335,
+  "num_followers": 194446,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMDkxYTU3Njc5OWUwYWVlYTQyNmE4MzQ5Njg2NjZiZWQ0",
+  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMGU3MWIyOTNmNDUxMDM0NGJlOTVkNTEzZDVlZTk5OTkw",
   "tracks": [
     {
       "added_at": "2023-02-02 23:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Ice Cream Man.",
-        "url": "https://open.spotify.com/album/0aU6C7aErcXKwpQAdTmmrY"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 248733,
       "name": "Ice Cream Man.",
-      "url": "https://open.spotify.com/track/4p5xgTJofLgL4A3trgk7EQ"
+      "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
       },
@@ -331,7 +347,7 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Boy's a liar Pt.2",
+        "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
       "artists": [
@@ -345,7 +361,7 @@
         }
       ],
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt.2",
+      "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -740,7 +756,7 @@
       "added_at": "2023-02-02 23:00:00",
       "album": {
         "name": "Breathing",
-        "url": "https://open.spotify.com/album/3N5zAHcuYsRxKWIoUPb7SH"
+        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
       },
       "artists": [
         {
@@ -754,7 +770,7 @@
       ],
       "duration_ms": 153783,
       "name": "Breathing",
-      "url": "https://open.spotify.com/track/6OSfQaKosMg9P6VMvsNxWJ"
+      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -811,6 +827,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Can't Get This Right",
         "url": "https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN"
       },
@@ -850,6 +882,10 @@
         {
           "name": "NOTSOBAD",
           "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        },
+        {
+          "name": "Siadou",
+          "url": "https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd"
         }
       ],
       "duration_ms": 180480,

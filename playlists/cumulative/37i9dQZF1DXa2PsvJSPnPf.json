@@ -2855,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Western White Pines",
+        "url": "https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247550,
+      "name": "Western White Pines",
+      "url": "https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H"
       },

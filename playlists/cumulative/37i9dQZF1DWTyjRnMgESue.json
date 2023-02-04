@@ -1907,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "forever, now",
+        "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "forever, now",
+      "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
+    },
+    {
+      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/1dGlmRtJ98UpBoOPNVCJ2i"
       },
@@ -4904,7 +4926,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 162373,
       "name": "Same Effect",
       "url": "https://open.spotify.com/track/4eQusHQO3bQ2ewZZougkhQ"
@@ -5070,6 +5092,24 @@
       "duration_ms": 261472,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI"
+    },
+    {
+      "album": {
+        "name": "Sleep Deprivation",
+        "url": "https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155660,
+      "name": "Sleep Deprivation",
+      "url": "https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk"
     },
     {
       "album": {
@@ -5366,7 +5406,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"

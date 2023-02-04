@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-134 songs - 8 hr 3 min
+135 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 | 2023-01-31 |  |
 | [Beautiful Soul](https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 3:36 | 2020-04-17 |  |
 | [Beautiful Soul](https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/4TLmOaKZJL0Hk6KBd2c8Jj) | 3:36 | 2020-04-17 | 2022-07-29 |
-| [Better](https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Better](https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An) | 2:53 | 2023-01-31 |  |
+| [Better](https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Better](https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An) | 2:53 | 2023-01-31 | 2023-02-04 |
 | [Big Ole Love](https://open.spotify.com/track/1CX3zLl6r7KJpzzO1Ckulv) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew \(Vol\. 1\)](https://open.spotify.com/album/5yStb9FTFvAkY2TJ8NKkWN) | 3:50 | 2020-04-17 | 2022-07-29 |
 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 | 2020-04-17 |  |
 | [Bless The Broken Road](https://open.spotify.com/track/07M8OzJz2u11i4PeXs0iKu) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4hzXCIFqlFGPbgeNoiD05G) | 4:10 | 2020-04-17 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 | 2023-01-31 |  |
 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 | 2020-04-17 |  |
 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 | 2020-04-17 |  |
+| [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 | 2023-01-31 |  |
 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 | 2023-01-31 |  |
 | [With Every Act Of Love](https://open.spotify.com/track/3hSzCNU37Yfauxrdup4sxi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have The Final Word](https://open.spotify.com/album/0Caxc2aix73gGj6J0cbCjC) | 3:36 | 2020-04-17 | 2022-07-29 |
 | [With Every Act of Love](https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have the Final Word](https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr) | 3:36 | 2020-04-17 |  |

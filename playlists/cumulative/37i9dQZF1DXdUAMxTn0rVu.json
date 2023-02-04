@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Slum Village",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Little Brother",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 211892,
       "name": "Climax",
       "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 157426,
       "name": "I Declare War",
       "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 259708,
       "name": "I See Now",
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/75JlUgJb8uwmDnASQpZfvY"
+    },
+    {
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -2144,6 +2162,24 @@
       "duration_ms": 236400,
       "name": "The Way You Do It",
       "url": "https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr"
+    },
+    {
+      "album": {
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272066,
+      "name": "The Way You Do It",
+      "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
     },
     {
       "album": {
@@ -2462,6 +2498,24 @@
       "duration_ms": 229333,
       "name": "What They Call Me",
       "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"
+    },
+    {
+      "album": {
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327453,
+      "name": "Whatever You Say",
+      "url": "https://open.spotify.com/track/0ZsDZd6yQJDiEKoSzVrfoK"
     },
     {
       "album": {

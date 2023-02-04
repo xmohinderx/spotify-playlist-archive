@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137602,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1J0NaJEBf2Ifp2f7GNudK0"
+    },
+    {
+      "album": {
         "name": "Chimera Pt. 3: Snake",
         "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 225000,
       "name": "AMIRI DRIP",
       "url": "https://open.spotify.com/track/5uyGfbuaJiC5nOSzT1v7TE"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -3943,6 +3961,28 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "REDZED",
+          "url": "https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "dollar bill (feat. REDZED)",
+      "url": "https://open.spotify.com/track/7v78tneote8Wo4pqwfq4Mm"
+    },
+    {
+      "album": {
         "name": "Tlak",
         "url": "https://open.spotify.com/album/67WhkAZDbuoWCwmFXzYS0f"
       },
@@ -4078,6 +4118,28 @@
       "duration_ms": 267306,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/3tAQNhm1o0kzldsI5QkrB1"
+    },
+    {
+      "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "DREME (feat. Rytmus)",
+      "url": "https://open.spotify.com/track/4WHvsDDIHyvuPeTmQxl4oQ"
     },
     {
       "album": {
@@ -5948,7 +6010,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
@@ -7278,7 +7340,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -9053,6 +9115,28 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "malaga (feat. Saul)",
+      "url": "https://open.spotify.com/track/0Un7cx2TzJFQKPfhSQetNz"
+    },
+    {
+      "album": {
         "name": "Mal\u00e1 Bi\u0161",
         "url": "https://open.spotify.com/album/5jUjoTcpuIK7uAHOaCipVb"
       },
@@ -9806,7 +9890,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 221571,
       "name": "Molotow 2",
       "url": "https://open.spotify.com/track/2x2FkwiCzr1LRWoSqvJ2GW"
@@ -10143,6 +10227,24 @@
     },
     {
       "album": {
+        "name": "My Sister's Crown",
+        "url": "https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "My Sister's Crown",
+      "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -10418,6 +10520,36 @@
       "duration_ms": 221330,
       "name": "Na dosah",
       "url": "https://open.spotify.com/track/4I9911aAuvO9WHQOBdCLY9"
+    },
+    {
+      "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        },
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173135,
+      "name": "na mol (feat. Luca Brassi10x, WEN & Porsche Boy)",
+      "url": "https://open.spotify.com/track/6lKRMzNHxQmLxj8c8I5hbi"
     },
     {
       "album": {
@@ -12466,7 +12598,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 187744,
       "name": "PR\u0160\u00cd, PR\u0160\u00cd",
       "url": "https://open.spotify.com/track/27FjG8BCMk1UjOcBfffHk4"
@@ -13110,7 +13242,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 211891,
       "name": "Rozd\u011blen\u00fd sv\u011bty",
       "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
@@ -14375,6 +14507,28 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "stale hladam (feat. Taomi)",
+      "url": "https://open.spotify.com/track/0ILk1dfKSJpQ1QzMoZgau8"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/0IpeIxGD4cx8Ab3h7CKYNR"
       },
@@ -14772,7 +14926,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -16237,6 +16391,24 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "Valeriya",
+      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
+    },
+    {
+      "album": {
         "name": "Vanocni (feat. Teri Blitzen)",
         "url": "https://open.spotify.com/album/5wecNbSOaQ23tpxQvx4Aif"
       },
@@ -16353,6 +16525,32 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Adam Mi\u0161\u00edk",
+          "url": "https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201082,
+      "name": "vic (feat. Separ & Adam Mi\u0161\u00edk)",
+      "url": "https://open.spotify.com/track/3Uyoi79Ktby1lWsLXFyRlS"
+    },
+    {
+      "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
       },
@@ -16430,7 +16628,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
@@ -17020,7 +17218,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

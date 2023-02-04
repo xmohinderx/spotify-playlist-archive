@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-340 songs - 20 hr 29 min
+341 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-12-23 | 2022-07-28 |
 | [Glasses](https://open.spotify.com/track/2V8qppJZZP2E41Gp3o4UvF) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [ANGLE](https://open.spotify.com/album/0uIkLtmXLsNluUtpKszbr6) | 3:59 | 2022-03-31 | 2022-04-18 |
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 | 2023-01-13 |
+| [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-02-02 |  |
 | [Grab Your Guts](https://open.spotify.com/track/4CmhofthdXpRM1M2R9C2ce) | [Maylee Todd](https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl) | [Maloo](https://open.spotify.com/album/3yEjOZEqS72I0ykBEQ5YcO) | 3:02 | 2022-03-24 | 2022-04-12 |
 | [Grant Green](https://open.spotify.com/track/0uLijBRekQsSPwHs1LIEXz) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [God First](https://open.spotify.com/album/0eCjIr8lbky7Q2u1Mmd5GT) | 3:22 | 2022-04-03 | 2022-04-14 |
 | [Greener](https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK) | 3:54 | 2022-04-07 | 2022-07-29 |
@@ -137,7 +138,7 @@
 | [It's a Moot Point](https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7xoKAS8YKaD85hP4FjOKyL) | 4:02 | 2021-12-23 | 2022-07-29 |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-13 | 2022-07-20 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-24 | 2022-04-20 |
-| [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-12-23 |  |
+| [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-12-23 | 2023-02-04 |
 | [Joint 3](https://open.spotify.com/track/3E0qbzENHXGixehNHr6Hsr) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:15 | 2022-04-14 |  |
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-12-23 | 2022-07-29 |
 | [killer tune kills me](https://open.spotify.com/track/2JCdUwmGDO3SBkhwkfRaLr) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:10 | 2022-01-13 | 2022-06-27 |

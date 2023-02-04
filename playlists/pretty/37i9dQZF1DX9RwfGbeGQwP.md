@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,551 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,728 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,7 +312,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 302 | [alone with you](https://open.spotify.com/track/2ZWLObitgvOk90ICZIHInu) | [Pines](https://open.spotify.com/artist/1ueoZoYkwA7lpzlcc4yhPB) | [alone with you](https://open.spotify.com/album/3Lyx5hcnLFFYNliIYyVABW) | 1:56 |
 | 303 | [cup of tea](https://open.spotify.com/track/5Y8v5zLDeZScavCNJgtUGj) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [cup of tea](https://open.spotify.com/album/04haX32duXxjRwN5zDWQEL) | 2:15 |
 | 304 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 |
-| 305 | [Track 4](https://open.spotify.com/track/0YRf7d5dLzJ8XjdQp5gmXc) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 4](https://open.spotify.com/album/5LH7uWoBGakQKDkfKWx1Hv) | 2:54 |
+| 305 | [Track 4](https://open.spotify.com/track/0CP2Qb3bzvmCnUeWlx2HP9) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Volume 1](https://open.spotify.com/album/1lSb67TVi6QXHc6Sxd8PmP) | 2:54 |
 | 306 | [Lueur d'Espoir](https://open.spotify.com/track/7rfrfkno6jLUBXP6F6t4UC) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Lueur d'Espoir](https://open.spotify.com/album/1ulHDdGNq69Q6bjwGoDKQi) | 1:59 |
 | 307 | [Rusty Flavour](https://open.spotify.com/track/0DEgUgKbTHLPjjpuM7wTEq) | [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Rusty Flavour](https://open.spotify.com/album/01ttNAV30k2GysdNUk08LL) | 2:15 |
 | 308 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Misch](https://open.spotify.com/track/4Q0z85lZpHXGIcx4rdXK4J) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Lincoln Pork](https://open.spotify.com/album/0dsmqlqZ177ZmwlGFML5YY) | 3:17 |
 | 500 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDc0NDUzNGMwMzg0ODE0NzJlMDU4YjkxZjlhOWY0ZDVi`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDY0M2QyZTExNGI1ODIzNTIyMWUxYTk0Mzk2Mzg2MmYz`

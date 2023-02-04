@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-167 songs - 10 hr 31 min
+168 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [War With My Mind](https://open.spotify.com/track/6dV5ohVw7jYD7ZeMsSz15j) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [War With My Mind](https://open.spotify.com/album/3Gf11NuU7KYiVZJ2Cn7UcQ) | 4:04 | 2021-11-19 |  |
 | [We're All in This Together Now](https://open.spotify.com/track/7DPcXtOGL9yzR9KsoUlKqU) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All in This Together Now](https://open.spotify.com/album/7L3P1iEoljsP34W4rCocbY) | 4:02 | 2021-11-19 | 2022-07-29 |
 | [We're All In This Together Now \(feat\. Rosanne Cash\)](https://open.spotify.com/track/4ncV3yQ55Kw7Gi4C4xxhMX) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All In This Together Now](https://open.spotify.com/album/0eZAwdZNdsuniGk7hkyFEB) | 4:02 | 2022-05-16 |  |
+| [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 | 2023-02-03 |  |
 | [What I'm Looking For](https://open.spotify.com/track/2jL42I4QAeQKEkJhbLbR21) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 3:19 | 2021-11-19 |  |
 | [What’s Left Of The Valley](https://open.spotify.com/track/3DNS0SkJf0BgEcbcJp4emw) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Depreciated](https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx) | 3:18 | 2021-11-19 |  |
 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 | 2021-11-19 |  |

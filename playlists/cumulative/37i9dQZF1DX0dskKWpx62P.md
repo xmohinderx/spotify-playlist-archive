@@ -114,9 +114,9 @@
 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 | 2022-02-04 |  |
 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 | 2022-02-04 |  |
 | [Vida Ya No es Vida](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 4:43 | 2022-02-04 |  |
-| [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 | 2022-12-31 |
+| [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1Neoq9Qlrcv0pHVWZTmDky) | 4:47 | 2022-02-04 | 2022-07-29 |
-| [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 |  |
+| [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 | 2023-02-04 |
 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 | 2022-02-04 |  |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

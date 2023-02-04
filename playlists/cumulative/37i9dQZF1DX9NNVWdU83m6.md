@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-132 songs - 12 hr 20 min
+133 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Heksen Romance](https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Heksen Romance](https://open.spotify.com/album/4SUzYTki8mF5xSw69e6V8H) | 6:34 | 2021-10-08 | 2022-07-26 |
 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Dennis Hamm](https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 | 2021-01-27 | 2022-07-28 |
 | [Hymn Of The 7th Galaxy \- Remixed/Remastered](https://open.spotify.com/track/2w0X8HLU1fDA6pUZuitA7U) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [The Anthology](https://open.spotify.com/album/6kzfSHkl0cTxVnDk66q9AF) | 3:30 | 2021-01-27 | 2022-06-03 |
+| [Ikigai](https://open.spotify.com/track/7tO177bfJZ1IJasWil96wD) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J) | [Ikigai](https://open.spotify.com/album/315zprf1POK89DZOYBsPtQ) | 4:25 | 2023-02-03 |  |
 | [Illuminate](https://open.spotify.com/track/5KJqZNbSanOpymduTRXdAK) | [Animal Society](https://open.spotify.com/artist/1a727xBDJilvH2RUjU6hwd) | [Rise](https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu) | 12:38 | 2021-01-27 | 2022-07-29 |
 | [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 | 2021-01-29 |  |
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 | 2022-07-27 |
@@ -126,7 +127,7 @@
 | [Trail of Thought](https://open.spotify.com/track/2vK4fWEYTYVMJAJ4ZuqpDK) | [Umbra](https://open.spotify.com/artist/4BfC304NqLQht44pZaTLGE) | [Umbra](https://open.spotify.com/album/65nEJHfAyMuUDMwnFq7Q6r) | 6:17 | 2021-01-27 | 2022-07-29 |
 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 | 2021-01-27 |  |
 | [Triggers](https://open.spotify.com/track/3XyNup2HdXLDskqrjRNPrf) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4DqPgAuGDkiPdUFzItY0vW) | 5:47 | 2021-01-27 | 2022-07-29 |
-| [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 | 2021-04-23 |  |
+| [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 | 2021-04-23 | 2023-02-04 |
 | [Truck Fump](https://open.spotify.com/track/6Jc8Lqqcknv1mZGJ7c0U5t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Truck Fump](https://open.spotify.com/album/5X9iL0oHuuIsQIrx1OF2Dt) | 5:05 | 2021-04-23 | 2022-07-28 |
 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 | 2021-08-13 |  |
 | [Ultima](https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Ultima](https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ) | 4:29 | 2022-06-10 |  |

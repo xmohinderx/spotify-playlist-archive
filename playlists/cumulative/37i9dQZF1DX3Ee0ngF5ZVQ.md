@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-403 songs - 1 day 0 hr 1 min
+404 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,9 +364,10 @@
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-07 | 2022-11-28 |
 | [Under The Lights On Friday Night](https://open.spotify.com/track/43Qg7oEHfIprD4jBj54Xs2) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Under The Lights On Friday Night](https://open.spotify.com/album/23yglCwV4MAQJdayeG7dkZ) | 3:51 | 2022-06-17 | 2022-07-19 |
 | [Unwanted Man](https://open.spotify.com/track/6vvg8BQtLpvcmFq3X6wWwU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6BoLrl0d4vtJ06y7oRuUFp) | 4:16 | 2022-01-21 | 2022-05-28 |
-| [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 |  |
+| [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2023-02-04 |
 | [Upside of the Ground](https://open.spotify.com/track/0z4zGI8vJOU9AXwJLzafys) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Upside of the Ground](https://open.spotify.com/album/7o2WZecCVWRq5jCUBBprDt) | 3:12 | 2022-01-07 | 2022-03-19 |
 | [Vagabond](https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Vagabond](https://open.spotify.com/album/6rOdKLebsdix516lFx2xnj) | 4:12 | 2021-12-17 | 2022-07-27 |
+| [Valentine, For Valentines](https://open.spotify.com/track/22Z7wPXNDT6Vr1Gvhfa3k1) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Valentine, For Valentines](https://open.spotify.com/album/2aAjdk52Un6nw3IPwB7W1H) | 3:15 | 2023-02-03 |  |
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 |  |
 | [Walk Your Line](https://open.spotify.com/track/0tHRdq9LHL0Dq9KHo1oPiN) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Walk Your Line](https://open.spotify.com/album/5hWuNENhxZlk2im8Q1Nxdd) | 3:38 | 2022-10-14 | 2023-01-06 |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 |  |

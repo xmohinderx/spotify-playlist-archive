@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-138 songs - 8 hr 0 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Hostage \- Connor](https://open.spotify.com/track/1uGs0Zq5f4L1fuKBbFxvEt) | [Nima Fakhrara](https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi) | [Detroit: Become Human Original Soundtrack](https://open.spotify.com/album/1nYDgpUXZLk7gIBFf5cXXM) | 2:52 | 2022-11-04 |  |
 | [Hymn of the Fayth \(Final Fantasy X\)](https://open.spotify.com/track/72LWO03wjiyCVqxrNUpx2V) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 1:48 | 2021-12-15 |  |
 | [Introduction](https://open.spotify.com/track/2ufr0Gs4OWL1Uo22EsJDSx) | [Kristofer Maddigan](https://open.spotify.com/artist/2jR6Lr47O21Iq7l5Bs2mig) | [Cuphead \(Original Soundtrack\)](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu) | 3:31 | 2021-12-15 |  |
+| [It’s the Sims – The Sims 4 Seasons – Seasons Theme](https://open.spotify.com/track/5sOTi75kj7Lwgyc5daU6pF) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [The Sims 4, Vol\. 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64) | 2:20 | 2023-02-03 |  |
 | [Journey \(feat\. Kronos Quartet\)](https://open.spotify.com/track/5P68xT9dqkleXVVtdIJPXo) | [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [C Paul Johnson](https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK), [Rotem Moav](https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC), [Pieter Schlosser](https://open.spotify.com/artist/7E6yVUVRGff9KfjPGkpMc4), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Destiny 2 \(Original Soundtrack\)](https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ) | 7:17 | 2021-12-15 |  |
 | [Kingdom of Wessex](https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 3:41 | 2021-12-15 |  |
 | [Knights Of Jerusalem](https://open.spotify.com/track/3AWSRZ967XzZAtGIQnqvrc) | [Andreas Waldetoft](https://open.spotify.com/artist/7eyudpSl4KF7iXun4H2PSh), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc), [Nina Åkerblom Nielsen](https://open.spotify.com/artist/1QmMQFvCfie370LsTjkqEd) | [Crusader Kings 3 \(Official Game Soundtrack\)](https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr) | 5:21 | 2021-12-15 |  |

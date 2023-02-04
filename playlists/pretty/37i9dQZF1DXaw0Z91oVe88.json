@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2237,
+  "num_followers": 2239,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMDE5NWU5OWYyMjI4YzdkYWVjYTc3NzNhZDkzY2VlM2Mx",
+  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMGVlMzgwOTU2NTVkY2ViNTc5NjQ1ZmFjNGI4M2UwZWRk",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "How many nights should far away more",
+        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
+      },
+      "artists": [
+        {
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "How many nights should far away more",
+      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "ETERNITY",
         "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "How many nights should far away more",
-        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
-      },
-      "artists": [
-        {
-          "name": "Shin Sae Byeok",
-          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "How many nights should far away more",
-      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "sleeplessness",
         "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
-      },
-      "artists": [
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 161334,
-      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "MERRY GO ROUND",
         "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 200826,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
+        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
+      },
+      "artists": [
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 161334,
+      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 221744,
       "name": "RAINING",
       "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "Song of the rain",
-        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
       "artists": [
         {
-          "name": "Bambiroyalprince",
-          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 214556,
-      "name": "Song of the rain",
-      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+      "duration_ms": 162266,
+      "name": "Feeling Good - 2019 Ver",
+      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

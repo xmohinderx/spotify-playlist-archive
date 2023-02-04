@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 44272,
+  "num_followers": 44311,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGI3NzlkY2I0NGVmZmNiNmIxZjViODUyODYzM2I3NTcx",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGIzM2I0MmU0NzkyMWNlMDgzZDQwYWViZjA4YTUzMDIw",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 158190,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 192639,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/7eLz11pl19OuQY3HfYJ3KI"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 158190,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -815,18 +815,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Casi Algo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
       "artists": [
         {
-          "name": "Uriel Barrera",
-          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
         }
       ],
-      "duration_ms": 132986,
-      "name": "Casi Algo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -879,22 +883,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+        "name": "Casi Algo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+      "duration_ms": 132986,
+      "name": "Casi Algo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Boleros Que Hicieron Historia",
-        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Contigo Aprendi",
-      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 227800,
       "name": "Sin Esencia - Balada",
       "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Boleros Que Hicieron Historia",
+        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Contigo Aprendi",
+      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Un Hombre Normal",
+      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Un Hombre Normal",
-      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Somos Octubre Doce",
         "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "No que no",
-        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 189964,
-      "name": "No que no",
-      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Covers A Mi Estilo",
         "url": "https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 184666,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "No que no",
+        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 189964,
+      "name": "No que no",
+      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
     },
     {
       "added_at": "2022-08-03 16:09:42",

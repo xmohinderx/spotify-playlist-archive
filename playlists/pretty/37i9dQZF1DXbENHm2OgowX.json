@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 27888,
+  "num_followers": 28003,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyNzA5OSwwMDAwMDAwMDZkODdkODY0N2M1NGNjM2YzZDhiMDY5YTMyNDIzMzBk",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMGEwZWQ0ZmZkYzA0ZmJkOGM2OWIxMTFhYjEwZDM0Zjhh",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -913,6 +913,26 @@
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
+      "added_at": "2023-02-04 01:34:39",
+      "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted (florence slowed version)",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
       "added_at": "2023-01-20 15:04:59",
       "album": {
         "name": "Murken Hollow",
@@ -995,22 +1015,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1023,6 +1027,22 @@
       "duration_ms": 148786,
       "name": "Dark Spring",
       "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Permanently Midnight",
+        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
+      },
+      "artists": [
+        {
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+        }
+      ],
+      "duration_ms": 315284,
+      "name": "As I Came Through the Desert Thus It Was",
+      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1059,22 +1079,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1087,6 +1091,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1119,22 +1139,6 @@
       "duration_ms": 334364,
       "name": "Videotape (Fa\u00e7ade)",
       "url": "https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
-      },
-      "artists": [
-        {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
-        }
-      ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
     }
   ],
   "unique_name": "gloomcore",

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-538 songs - 1 day 2 hr 34 min
+539 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Thoughts of the Night](https://open.spotify.com/track/1eDV0CBLI89ANm4p2hRves) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [Thoughts of the Night](https://open.spotify.com/album/025znHoZ9jaKZpSw24DwG9) | 3:52 | 2021-04-02 | 2022-04-21 |
 | [Threatening Each Other re: Capitalism](https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Threatening Each Other re: Capitalism](https://open.spotify.com/album/4ktz8o1d44KMsltBIBzu8L) | 4:43 | 2021-09-10 | 2022-04-18 |
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2021-10-26 | 2022-10-15 |
-| [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 | 2021-04-02 |  |
+| [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 | 2021-04-02 | 2023-02-04 |
 | [To Make It Right](https://open.spotify.com/track/5e6fMSlENiMCn2yjxLHaw8) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [To Make It Right](https://open.spotify.com/album/2pxZDLAGJirJs2uEaPtCnL) | 1:58 | 2021-04-02 | 2022-07-19 |
 | [Too Late](https://open.spotify.com/track/5vqKyzcuj8815NYVLpEwhS) | [Vict Molina](https://open.spotify.com/artist/6VeAG6Xgo3t6l93p4wc0Re), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Too Late](https://open.spotify.com/album/49lutvrXHIsAlb2rjwwIZN) | 1:55 | 2021-04-02 | 2022-04-07 |
 | [Touch](https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: II](https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh) | 4:16 | 2022-05-25 |  |
@@ -513,6 +513,7 @@
 | [We Never Met](https://open.spotify.com/track/3obYzeG6ycjGPGVZyRmjTH) | [2ND CHOICE](https://open.spotify.com/artist/6Icgjcj6DaFqznzYZG2nIj) | [We Never Met](https://open.spotify.com/album/4wcwyEXZvPj8SN7o8cdAft) | 1:47 | 2022-07-15 | 2022-11-16 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-29 | 2022-04-13 |
 | [We're Slowly Falling Apart](https://open.spotify.com/track/5zR2NTKJbgLrQXBDApRfvp) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [We're Slowly Falling Apart / I'm Just a Ghost](https://open.spotify.com/album/4dQKZGneeazSbqAQpTPXCI) | 2:04 | 2021-04-02 | 2022-07-03 |
+| [weak](https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [weak](https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra) | 3:58 | 2023-02-03 |  |
 | [Weep](https://open.spotify.com/track/3N5Ez4Xd5SIRBUh3eZ4C7s) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Weep](https://open.spotify.com/album/67dYNNKs495f9JWcHjzzIf) | 4:55 | 2021-04-02 | 2022-04-21 |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2022-03-29 | 2022-04-10 |
 | [Welcome to Wonderland](https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Welcome to Wonderland](https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp) | 3:19 | 2021-04-02 | 2022-12-24 |

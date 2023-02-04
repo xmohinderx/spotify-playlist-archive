@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Gorillaz make anti pop.
+> jonatan leandoer96 makes anti pop.
 
-1,251 songs - 2 day 12 hr 27 min
+1,253 songs - 2 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Extra Life](https://open.spotify.com/track/4QgivLY8vHOD4IcKLx1ni7) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 3:02 | 2021-10-02 | 2021-10-14 |
 | [Extrovert](https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Extrovert](https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic) | 3:06 | 2022-12-14 | 2023-01-28 |
 | [EYE EYE EYE \(feat\. Kevin Abstract\)](https://open.spotify.com/track/0Q6aCpb9YX6fLJiC7EbYeM) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:45 | 2022-02-11 | 2022-03-01 |
-| [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 | 2022-04-08 |  |
+| [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 | 2022-04-08 | 2023-02-04 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-18 | 2022-06-04 |
 | [Fabric](https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Act One](https://open.spotify.com/album/7hS3HK39ZkDsnKFfItdMRX) | 1:44 | 2022-07-22 | 2022-10-26 |
 | [FACEDOWN](https://open.spotify.com/track/7BBSPfuSgfIC4QNxGwv3To) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [FREERADICAL](https://open.spotify.com/album/16BKHt7X9RLsMWVzQdUheU) | 3:56 | 2020-10-13\* | 2021-01-23 |
@@ -587,7 +587,7 @@
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-09-11 | 2021-09-28 |
 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 | 2021-03-23 | 2021-10-14 |
 | [keep my cool](https://open.spotify.com/track/3TLYmF9jKDWCyXGglClcPS) | [Pacific](https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw) | [keep my cool](https://open.spotify.com/album/0RMaV7cv3a2A2vRn0nS23e) | 2:57 | 2022-07-22 | 2022-08-06 |
-| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-10 |  |
+| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-10 | 2023-02-04 |
 | [Keto](https://open.spotify.com/track/7bNjxTrAG2DuF3rmP7aFl7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USEE4YOURSELF](https://open.spotify.com/album/49BwECfeABwoB9DPAmTmwz) | 2:21 | 2021-10-12 | 2021-10-13 |
 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-06-10 | 2022-10-05 |
 | [Kevin](https://open.spotify.com/track/2DylrERZbUpx845Cd8y7hU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Kevin](https://open.spotify.com/album/6rqZTOVumjrqnV4cT6i9xq) | 3:19 | 2020-10-13\* | 2021-01-23 |
@@ -608,6 +608,7 @@
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-09-14 | 2022-02-12 |
 | [LAZLO](https://open.spotify.com/track/1ioQB7MPbC4JmBWGdluV9N) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [LAZLO](https://open.spotify.com/album/7dqc9XrM9gZfUYIJpTos3C) | 3:00 | 2021-10-05 | 2022-03-01 |
 | [LAZLO](https://open.spotify.com/track/7rzilYGHOALcoBYllOmOYx) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [RACEWAY: THE WISDOM OF INSECURITY](https://open.spotify.com/album/23QeslK3ZYpvMRUhddZfzB) | 3:00 | 2022-02-28 | 2022-11-09 |
+| [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 | 2023-01-27 |  |
 | [Lazy Summer Day](https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lazy Summer Day / Chinese Restaurant](https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ) | 2:21 | 2022-09-02 | 2022-10-01 |
 | [Leave It Unlocked](https://open.spotify.com/track/2AxRXlSfnn4XZZiT7auOES) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Leave It Unlocked](https://open.spotify.com/album/1Ew1VP6CSoSJ1votNiT1ey) | 2:10 | 2020-10-13\* | 2021-03-26 |
 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 | 2021-08-21 | 2023-01-28 |
@@ -905,6 +906,7 @@
 | [riddle](https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [riddle](https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW) | 1:48 | 2022-02-04 | 2022-05-10 |
 | [RIDING](https://open.spotify.com/track/4JnX8tY9me7jHqDwgifhwU) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:25 | 2021-11-12 | 2022-05-28 |
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-10-15 | 2022-10-05 |
+| [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 | 2023-02-03 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-11-19 | 2022-03-01 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 | 2023-01-14 |
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2022-05-09 | 2022-07-01 |

@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-102 songs - 4 hr 3 min
+103 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Boy With Luv](https://open.spotify.com/track/3l3j8aCAqBBOhTlxmRH6Pw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Toddler and Children Singalong Vol\. 5](https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28) | 3:26 | 2022-03-24 | 2022-11-14 |
 | [Boy With Luv](https://open.spotify.com/track/5qYFV3xGkdKrIWr45QCxoQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9) | 3:26 | 2022-03-24 | 2022-07-29 |
 | [BREAK MY SOUL](https://open.spotify.com/track/3E7YGBqvTKt4eVDXXEWfyM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:34 | 2023-01-20 |  |
+| [Bubble Bubble \(Be Like A Bubble!\)](https://open.spotify.com/track/2oWVSt4dUERGEhWmhj1i4W) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Bubble Bubble \(Be Like A Bubble!\)](https://open.spotify.com/album/5X09gjaQh5Nb0omUnY6Kne) | 1:40 | 2023-02-03 |  |
 | [Bunny Hop](https://open.spotify.com/track/4ALGayAi9P281f71KCxo7T) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/7kM5MY7QlkOWuwNmG00Pnw) | 2:30 | 2022-03-24 | 2022-07-29 |
 | [Bunny Hop](https://open.spotify.com/track/7K44meuixBWcunotVpdwJf) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/4ebzMDMuPUQx53NkRxzT6J) | 2:30 | 2022-03-24 |  |
 | [Clap Your Hands](https://open.spotify.com/track/663LGTeJco27vlEHFZsy3v) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:43 | 2022-03-24 |  |

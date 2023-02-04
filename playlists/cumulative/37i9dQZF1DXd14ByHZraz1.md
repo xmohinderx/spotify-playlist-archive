@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-116 songs - 5 hr 56 min
+117 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cayana](https://open.spotify.com/track/3EwLL1h2SGl86gmMa6t70P) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko), [Hoost](https://open.spotify.com/artist/6YCbTELaAeqFQfjzVMcNG9) | [Cayana](https://open.spotify.com/album/1wgSKXDI8on0QEpxcEiywb) | 3:46 | 2021-12-24 | 2022-05-20 |
 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 | 2021-12-24 | 2022-05-20 |
 | [Clap Your Hands](https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Clap Your Hands](https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ) | 3:21 | 2022-06-27 | 2023-01-28 |
-| [Closer](https://open.spotify.com/track/3QyakvOZamJzAuMVgW13Wv) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Closer](https://open.spotify.com/album/3oJ5lkxgCn5JpGfSLXvFMD) | 5:40 | 2022-03-04 |  |
+| [Closer](https://open.spotify.com/track/3QyakvOZamJzAuMVgW13Wv) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Closer](https://open.spotify.com/album/3oJ5lkxgCn5JpGfSLXvFMD) | 5:40 | 2022-03-04 | 2023-02-04 |
 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 | 2022-01-21 | 2022-10-08 |
 | [Commotion](https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Commotion](https://open.spotify.com/album/5ohHaX4VvILtG1nOLh76uj) | 3:35 | 2022-04-08 | 2022-11-26 |
 | [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 | 2023-01-20 |  |
@@ -123,6 +123,7 @@
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-01-27 |  |
 | [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 | 2021-12-24 | 2022-08-27 |
 | [Would You Blame Me](https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Would You Blame Me](https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS) | 3:44 | 2022-03-18 |  |
+| [yEoJa s2](https://open.spotify.com/track/6rfw5yUSvRKU3jwvLfdq9k) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [TPA](https://open.spotify.com/artist/4nWTnnYvLRayR3nwU2xbNx) | [yEoJa s2](https://open.spotify.com/album/2j4uELfNNAEUgMudEGfDNV) | 2:43 | 2023-02-03 |  |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2022-11-11 | 2023-01-21 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

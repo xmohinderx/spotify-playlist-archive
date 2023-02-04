@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Savage Ga$p
 
-373 songs - 14 hr 42 min
+374 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [iPHoNe 12](https://open.spotify.com/track/7HdPTwgiZHMVyOm2rPWkDm) | [PRXJEK](https://open.spotify.com/artist/6TeJpqb3PcvfHxjKAEKCNu) | [iPHoNe 12](https://open.spotify.com/album/6owLshr33DJ8I4cXpOnqoq) | 2:28 | 2021-12-03 | 2022-06-04 |
 | [JACK DANIELS](https://open.spotify.com/track/0fd0ENEdQGOtSRi46JqRhB) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Wendigo](https://open.spotify.com/artist/7a5mwTaPoFW9HiKAr0fnOK) | [JACK DANIELS](https://open.spotify.com/album/7eYNAnoLM0vwRNekVD6iwE) | 4:56 | 2022-05-16 | 2022-06-11 |
 | [Janet!](https://open.spotify.com/track/4zbYx26mZa1j15NFpL0fjU) | [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [Janet!](https://open.spotify.com/album/5GG173q8aZC9lMrmeGxD63) | 2:01 | 2022-04-08 | 2022-04-20 |
+| [JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!](https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [THE EVIL IN WHICH WE THRIVE](https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg) | 2:17 | 2023-02-03 |  |
 | [Jekyll & Hyde](https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk) | [Kiing Loki](https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD), [unknwnshi](https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw) | [Jekyll & Hyde](https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm) | 1:50 | 2022-04-15 |  |
 | [JFK](https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [JFK](https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG) | 2:54 | 2023-01-06 |  |
 | [JIGSAW](https://open.spotify.com/track/3MokBYNhESWVOuZZtMoZNm) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [JIGSAW](https://open.spotify.com/album/6k5aTXN5CQQh1T43IpCquG) | 1:38 | 2022-03-18 | 2022-04-21 |
@@ -250,8 +251,8 @@
 | [Molasses](https://open.spotify.com/track/6S3SnnZ7HRMoTF11Fqu8th) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Molasses](https://open.spotify.com/album/0XYwE2kQ3N6vpCiHQkjGHT) | 2:22 | 2022-03-16 | 2022-06-04 |
 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 | 2022-12-09 |  |
 | [MONOCHROME](https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MONOCHROME](https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg) | 2:19 | 2022-11-18 |  |
-| [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 | 2022-12-09 | 2023-01-01 |
-| [MORPHINE](https://open.spotify.com/track/4WoXUdjKIErU4dQCx6PADX) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/0q3a5tfHbVM0PRq3fgEr0q) | 2:04 | 2022-12-09 |  |
+| [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 | 2022-12-09 |  |
+| [MORPHINE](https://open.spotify.com/track/4WoXUdjKIErU4dQCx6PADX) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/0q3a5tfHbVM0PRq3fgEr0q) | 2:04 | 2022-12-09 | 2023-02-04 |
 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 | 2022-04-15 |  |
 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 |  |
 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 | 2022-12-02 |  |

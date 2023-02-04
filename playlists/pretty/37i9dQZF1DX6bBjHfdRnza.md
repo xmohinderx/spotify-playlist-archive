@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels, with FiFi Zhang on cover\. Artwork by Rewina Beshue\. Updates every Wednesday.
+> The best new dance & electronic by independent artists and labels, with Daily Bread on cover\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,372 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,431 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 49 | [Backyard Swing](https://open.spotify.com/track/6J9zLlywI8Y1LXknqlykV4) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Backyard Swing](https://open.spotify.com/album/3D9eZfs2IEad2ilfHTKD42) | 6:19 |
 | 50 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 |
 | 51 | [Burst Mode](https://open.spotify.com/track/5u44VWbluamg169GOTphhc) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Burst Mode](https://open.spotify.com/album/2MR1wOQyssRzljK806oPdL) | 5:08 |
-| 52 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
+| 52 | [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 |
 | 53 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 |
 | 54 | [Forgotten Sentiment](https://open.spotify.com/track/0aDeph3nbtNMNvtxyQAJoD) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 6:14 |
 | 55 | [Magnitude](https://open.spotify.com/track/3pbd75U4EQdTsVliPZRrVI) | [Veljko Jovic](https://open.spotify.com/artist/3DGFlQr2WXYD4KFHbRD7j0), [Forniva](https://open.spotify.com/artist/54eegIFdFo0hijRryXN53G) | [Magnitude](https://open.spotify.com/album/69l5ySfPscs0NLMEwqkcH4) | 6:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 74 | [Swim](https://open.spotify.com/track/2hkolx96eOIj1DTzduZlRW) | [Ayesha](https://open.spotify.com/artist/2nmIga6kAJM6a18mZqsE1U) | [Swim](https://open.spotify.com/album/0KbQmnBjmiRZGs2VO9TCRa) | 4:21 |
 | 75 | [Still Rushing](https://open.spotify.com/track/18SaC9Z58nrfjkWbSZUjG3) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Still Rushing / System Error](https://open.spotify.com/album/4mxQ6vTBvss4je3abdHWp8) | 3:46 |
 
-Snapshot ID: `MTY3NTI5OTc1NiwwMDAwMDAwMDQzNTkwZDYzMjhiMDE3MjNmNDFkMDYxNTI5ODAwNThk`
+Snapshot ID: `MTY3NTQ2MjIxMywwMDAwMDAwMGM1MmU0ZjRhYzE2MWIzODU5ODQ1MjY5OTVjYjQxN2Mw`

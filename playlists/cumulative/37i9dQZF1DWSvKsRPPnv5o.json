@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: G Perico",
+  "description": "Holdin' it down for the westside. Cover: 03 Greedo",
   "name": "Westside Story",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 269475,
       "name": "Add It Up",
       "url": "https://open.spotify.com/track/4Novzr5bJlwASkEvXa3F3T"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 183013,
       "name": "Clip In A Tray (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1Bs02vi750lAWnoGquizgR"
@@ -1599,6 +1599,28 @@
     },
     {
       "album": {
+        "name": "Slaponia",
+        "url": "https://open.spotify.com/album/6WlLdzv0ppNAmSA3Rjhp1a"
+      },
+      "artists": [
+        {
+          "name": "Ozer",
+          "url": "https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp"
+        },
+        {
+          "name": "EaSWay",
+          "url": "https://open.spotify.com/artist/2KwElG45pWw0wew3dXKYq5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Dice Rollin'",
+      "url": "https://open.spotify.com/track/5a1lR8jiUjaSJhGvcAiCOo"
+    },
+    {
+      "album": {
         "name": "LA SUMMERS2",
         "url": "https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh"
       },
@@ -1640,7 +1662,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 120032,
       "name": "Die for this shit",
       "url": "https://open.spotify.com/track/2HKWpjTRvaOa7AMzuYZZHo"
@@ -2583,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "GEEKALEEK (feat. Cash Kidd)",
+        "url": "https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "GEEKALEEK (feat. Cash Kidd)",
+      "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
+    },
+    {
+      "album": {
         "name": "Ghetto Lullaby (feat. Jehkai)",
         "url": "https://open.spotify.com/album/2igr9F4M6J6hbfOSVuWop1"
       },
@@ -3327,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "Free 03",
+        "url": "https://open.spotify.com/album/2UfVYQnUerGa6XhbJYlaWS"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        {
+          "name": "Mike Free",
+          "url": "https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "I Don't Mean",
+      "url": "https://open.spotify.com/track/1M25T7ROXQUulWjvzRgCB1"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0iNo8CyiLfDf2oTgMoStcj"
       },
@@ -3770,7 +3836,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 170666,
       "name": "Know The Vibes",
       "url": "https://open.spotify.com/track/22SbXv4tKTZaiw11YnwPNj"
@@ -7244,6 +7310,24 @@
       "duration_ms": 270670,
       "name": "trademark usa",
       "url": "https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
     },
     {
       "album": {

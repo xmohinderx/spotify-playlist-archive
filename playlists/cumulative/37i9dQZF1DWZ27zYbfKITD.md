@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-76 songs - 3 hr 44 min
+77 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Not Alone](https://open.spotify.com/track/00L9p3dKK3ufNyua3pzVeC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \- The Final Chapter \(Music From The Original TV Series\)](https://open.spotify.com/album/18Jd3iAcykSIDGTA0vanR3) | 3:16 | 2022-10-24 |  |
 | [Ocarina of Time](https://open.spotify.com/track/7jgu0nvuW4Xp7e0zQqUKeW) | [Super Piano 64](https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Zelda & Piano – Ocarina of Time](https://open.spotify.com/album/7s7EhzRQESMrsIrq7nJLDI) | 2:27 | 2022-09-09 |  |
 | [One Day: Piano Suite](https://open.spotify.com/track/7yjawyAnSGGV6ScksB6v0g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [One Day: Piano Suite](https://open.spotify.com/album/7F2phIIa9WNbzL9Iy4MYuC) | 3:53 | 2022-11-04 |  |
+| [Pokémon Center](https://open.spotify.com/track/4SdmpDFXumnSgTIysSmMmq) | [Super Piano 64](https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Poké & Piano](https://open.spotify.com/album/7rE5645MaKQMnkkH3tt2xQ) | 2:54 | 2023-02-03 |  |
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2022-08-05 |  |
 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 | 2022-11-08 |  |
 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 | 2022-11-11 |  |

@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 142182,
       "name": "Natalia Natalia",
       "url": "https://open.spotify.com/track/2YDhfLYLLDt4VWhWB2213W"
@@ -7172,6 +7172,24 @@
       "duration_ms": 187857,
       "name": "Waking Waves",
       "url": "https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm"
+    },
+    {
+      "album": {
+        "name": "Warm Winds",
+        "url": "https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG"
+      },
+      "artists": [
+        {
+          "name": "Cake",
+          "url": "https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143152,
+      "name": "Warm Winds",
+      "url": "https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8"
     },
     {
       "album": {

@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "BANTAM",
+        "url": "https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "BANTAM",
+      "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
+    },
+    {
+      "album": {
         "name": "Be Crazy",
         "url": "https://open.spotify.com/album/3GvfYLhm1o2sxtJJF5TD96"
       },

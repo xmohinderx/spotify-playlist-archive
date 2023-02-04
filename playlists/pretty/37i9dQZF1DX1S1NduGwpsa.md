@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Photo : Alfa Mist
+> The best jazz new releases\. Photo : Paul Carrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,217 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,280 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 |
+| 1 | [Don't Wait Too Long](https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL) | 3:51 |
 | 2 | [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 |
-| 3 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
-| 4 | [Don't Wait Too Long](https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL) | 3:51 |
+| 3 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 |
+| 4 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
 | 5 | [Why Don't You Do Right?](https://open.spotify.com/track/1MuNDJJgqWFAGBBdvsagWR) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Why Don't You Do Right?](https://open.spotify.com/album/6BR0ildLfAFBgM0Drasj12) | 3:28 |
 | 6 | [Sudra Funk](https://open.spotify.com/track/6DFJkfHrSzpBT8vU2APNDe) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Street of Minarets](https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx) | 4:21 |
 | 7 | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 |
 | 50 | [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 |
 
-Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMGNlYmE0NWY4MzU4ZGEwMDhmODJiN2Q0NTlkNzE3NDEy`
+Snapshot ID: `MTY3NTQxNDU4OSwwMDAwMDAwMDk2ODkzM2I4OWQ0NTA3MTMzZWVhYTBlZjAxOGEzZDcy`

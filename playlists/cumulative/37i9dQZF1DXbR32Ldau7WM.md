@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Base Ball Bear
 
-462 songs - 1 day 6 hr 29 min
+464 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2022-07-29 |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 | 2022-11-24 |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/6u0171YtwplrmpXqsWOWGb) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:41 | 2022-11-22 | 2022-11-30 |
+| [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-03 |  |
 | [Bayside Lover](https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd) | 3:26 | 2022-11-29 | 2022-12-01 |
 | [Bayside Lover](https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe) | 3:26 | 2022-11-29 | 2022-12-14 |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2022-05-10 |  |
@@ -49,7 +50,8 @@
 | [Crap Shit](https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Crap Shit](https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv) | 2:30 | 2022-08-16 | 2022-08-24 |
 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 | 2022-11-22 | 2022-12-14 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
-| [Dissonance](https://open.spotify.com/track/3uOdwLjez9Zq4jQcMSlajN) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/3q13ZnL6DVS8xnvBx2wG5e) | 4:57 | 2023-02-02 |  |
+| [Dissonance](https://open.spotify.com/track/1CrnXecXRz73LB25Vw3ND7) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/1JRmHQvZfk76RDYGEiBxAi) | 4:57 | 2023-02-03 |  |
+| [Dissonance](https://open.spotify.com/track/3uOdwLjez9Zq4jQcMSlajN) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/3q13ZnL6DVS8xnvBx2wG5e) | 4:57 | 2023-02-02 | 2023-02-04 |
 | [Do you wanna dance?](https://open.spotify.com/track/4M2sfOnI5o3VU6GyYoKPOf) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/470wDFggB1BlolvYXsLFvj) | 4:26 | 2022-05-17 | 2022-07-08 |
 | [Don't Think Twice \(It's not over\)](https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:09 | 2022-11-22 | 2022-12-21 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-10 |  |
@@ -235,7 +237,7 @@
 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 | 2022-11-01 | 2022-12-21 |
 | [Strike It Out](https://open.spotify.com/track/13pExaXcujflZ57yN2QGuZ) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/1qNUFQXPkILH99sRywZ3E5) | 4:03 | 2022-05-12 | 2022-07-29 |
 | [Strike It Out](https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs) | 4:03 | 2022-09-13 | 2022-09-28 |
-| [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 |  |
+| [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 | 2023-02-04 |
 | [SUPER SHINING](https://open.spotify.com/track/7wshhBA3bfHSnSHELxoWBD) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [1997](https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb) | 4:38 | 2022-11-29 | 2022-12-07 |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-05-31 | 2022-06-02 |
 | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/track/6ih5w4QRlo6h75rbfqgBZg) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/album/7HTlTlJ0rWjVvVyR5ExNHh) | 5:31 | 2022-11-10 | 2022-11-23 |

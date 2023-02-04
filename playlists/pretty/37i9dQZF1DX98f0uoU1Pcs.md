@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,971 likes - 125 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,168 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 95 | [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 |
 | 96 | [Morning View](https://open.spotify.com/track/7z0ZmNJLTyMKEziFzRTk1l) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Morning View](https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX) | 3:15 |
 | 97 | [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 |
-| 98 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 |
+| 98 | [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 |
 | 99 | [San Fernando Shadow Blues](https://open.spotify.com/track/2NTZeFqSfijcBrTK5RpOSG) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 3:14 |
 | 100 | [Gimme A Call](https://open.spotify.com/track/0TKWSyue1lOfrSPHcFrPKf) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tom](https://open.spotify.com/album/574vghWwriC6gXna4Hq6bE) | 3:46 |
 | 101 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 125 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGExNWI0MDVhYmM4YjEzNmY4YmUyZWJmNmQwOGVkZWFi`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGNlZTNkYTBkMGRlOGQyMTYyY2QxMDM2MmU2NTA2YTMy`

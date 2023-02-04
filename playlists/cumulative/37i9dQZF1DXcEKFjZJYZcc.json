@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101590,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C"
+    },
+    {
+      "album": {
         "name": "Lights, Slow Places",
         "url": "https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR"
       },

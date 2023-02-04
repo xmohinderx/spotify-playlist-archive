@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-148 songs - 7 hr 30 min
+149 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-27 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 |  |
 | [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/6GmficOc27L6sOU77yehvW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 2:56 | 2022-07-22 |  |
+| [Chalé](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chalé](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 |  |
 | [CHROME 2](https://open.spotify.com/track/6QrxMhG4AbuC6mQiowGvo9) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA) | [CHROME 2](https://open.spotify.com/album/66bJjMKjGWmuqNTJciStFd) | 2:31 | 2022-09-16 | 2022-10-22 |
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-07-30 |
 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 | 2022-10-21 |  |
@@ -147,7 +148,7 @@
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-04 | 2023-01-28 |
 | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \- Drill Remix](https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \[Drill Remix\]](https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY) | 3:38 | 2022-04-29 | 2022-06-11 |
 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 | 2022-03-25 | 2022-10-22 |
-| [Toro \(feat\. DDG\)](https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Toro \(feat\. DDG\)](https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp) | 3:55 | 2022-11-18 |  |
+| [Toro \(feat\. DDG\)](https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Toro \(feat\. DDG\)](https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp) | 3:55 | 2022-11-18 | 2023-02-04 |
 | [TRU RELIGION](https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [TRU RELIGION](https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH) | 2:57 | 2022-05-06 | 2022-06-11 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 |  |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 | 2022-07-16 |

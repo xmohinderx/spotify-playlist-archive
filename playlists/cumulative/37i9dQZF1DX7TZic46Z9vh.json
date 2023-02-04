@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
@@ -1388,10 +1388,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 222914,
       "name": "Por Perderte",
       "url": "https://open.spotify.com/track/0MZkBBNYzHxAWMiJjpZHXy"
+    },
+    {
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR"
+      },
+      "artists": [
+        {
+          "name": "La Tribu",
+          "url": "https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222914,
+      "name": "Por Perderte",
+      "url": "https://open.spotify.com/track/7CJDxaHLJGG59AA4pjXIRG"
     },
     {
       "album": {
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 348446,
       "name": "Todo Va a Cambiar",
       "url": "https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z"

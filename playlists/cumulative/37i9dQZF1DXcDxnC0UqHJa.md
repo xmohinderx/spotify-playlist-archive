@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-231 songs - 14 hr 52 min
+232 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
 | [Go Your Own Way](https://open.spotify.com/track/3mxxAmuF5mRj3y6hoOaWnE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered Up With Flowers](https://open.spotify.com/album/7tWPIz3f0HUGmzZlCDxqLh) | 3:34 | 2022-01-21 | 2022-06-25 |
 | [God Only Knows](https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [God Only Knows](https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0) | 3:14 | 2021-12-13 | 2022-07-29 |
+| [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Grace Cathedral Hill](https://open.spotify.com/track/59BzCcdu2ButHSdrh64x1a) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Grace Cathedral Hill](https://open.spotify.com/album/0Je1FUksAHlUvpFq9xnRih) | 3:50 | 2021-12-13 | 2022-07-28 |
 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2021-12-13 |  |
 | [Hallelujah](https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Christmas Classics](https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi) | 6:53 | 2022-10-14 | 2022-11-14 |
@@ -196,7 +197,7 @@
 | [Talking Dust Bowl Blues](https://open.spotify.com/track/5oAm6BdHcTfZbWKU7H0TzK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Talking Dust Bowl Blues](https://open.spotify.com/album/0coMlpt8UsXARbmfees4fT) | 2:58 | 2021-12-13 | 2022-07-28 |
 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 | 2021-12-13 |  |
 | [That's How I Got To Memphis](https://open.spotify.com/track/5mbYOavUzMPBgZIhybZsfT) | [Karl Blau](https://open.spotify.com/artist/7FeCvXxNn2D4Cf38i0zDul) | [Introducing Karl Blau](https://open.spotify.com/album/4Oin0XH6gnLnQSEcVoUIh3) | 4:03 | 2021-12-13 | 2022-07-29 |
-| [That's How You Know](https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [That's How You Know](https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU) | 3:45 | 2022-08-26 |  |
+| [That's How You Know](https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [That's How You Know](https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU) | 3:45 | 2022-08-26 | 2023-02-04 |
 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 | 2021-12-13 |  |
 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-12-13 |  |
 | [The Boxer](https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5uJpRBjDkTW8wtwDimhkdm) | 4:05 | 2021-12-13 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu",
-  "num_followers": 28364,
+  "num_followers": 28545,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDAxOWJiYmVkODcyYzU5ZDUxNTZiZGM1YjUzZmE2YzA2",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDA0NWRlZGE0Y2QzMWViYjU5ODM4MmE0NzE5NzRjNTgw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:01:00",
@@ -599,26 +599,18 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
       "artists": [
         {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -643,6 +635,30 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Savior",
         "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 153473,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -751,6 +751,54 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "So Special",
+        "url": "https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        }
+      ],
+      "duration_ms": 123956,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Akorede",
+        "url": "https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE"
+      },
+      "artists": [
+        {
+          "name": "TB1",
+          "url": "https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG"
+        },
+        {
+          "name": "Kelly Lyon",
+          "url": "https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "Akorede",
+      "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Jah!",
         "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
       },
@@ -783,54 +831,6 @@
       "duration_ms": 157335,
       "name": "Oh the day",
       "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Akorede",
-        "url": "https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE"
-      },
-      "artists": [
-        {
-          "name": "TB1",
-          "url": "https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG"
-        },
-        {
-          "name": "Kelly Lyon",
-          "url": "https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "Akorede",
-      "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "So Special",
-        "url": "https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "Ryan Hylton",
-          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
-        }
-      ],
-      "duration_ms": 123956,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 138710,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -935,26 +919,6 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 152730,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -979,6 +943,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 138710,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Shalaye",
         "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 169142,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 152730,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "GOD'S LOVE",
-        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 137064,
-      "name": "GOD'S LOVE",
-      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "GOD'S LOVE",
+        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 137064,
+      "name": "GOD'S LOVE",
+      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Made Whole",
         "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 212210,
       "name": "Made Whole",
       "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
+      },
+      "artists": [
+        {
+          "name": "Waconzy",
+          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
-      },
-      "artists": [
-        {
-          "name": "Waconzy",
-          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Kunle Zakariya",
+          "url": "https://open.spotify.com/artist/5IthKVE0Nw9YTB839E2Hsl"
+        },
+        {
+          "name": "Pure Streams",
+          "url": "https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr"
+        }
+      ],
+      "duration_ms": 299999,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 171333,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Regardless",
-        "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Kunle Zakariya",
-          "url": "https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m"
-        },
-        {
-          "name": "Pure Streams",
-          "url": "https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr"
-        }
-      ],
-      "duration_ms": 299999,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1543,22 +1543,26 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Relief",
-        "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
       },
       "artists": [
         {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
         },
         {
-          "name": "Oyije",
-          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
         }
       ],
-      "duration_ms": 157309,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
     }
   ],
   "unique_name": "AfroGospel",

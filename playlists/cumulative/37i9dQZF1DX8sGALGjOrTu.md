@@ -4,7 +4,7 @@
 
 > Welcome to Post\-Hardcore's pantheon\. Cover: Glassjaw
 
-190 songs - 12 hr 6 min
+191 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 | 2021-12-07 | 2022-07-26 |
 | [Dressed For Friend Requests](https://open.spotify.com/track/3E52b2s2M0tOtBKkXsNFrq) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [In Vogue](https://open.spotify.com/album/0roAVG8TO9V8GEFmXJa4Lv) | 2:36 | 2021-12-07 | 2022-07-27 |
 | [Drown the City](https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [She Watched The Sky](https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5) | 4:43 | 2021-12-07 | 2022-07-26 |
+| [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 | 2022-12-28 |  |
 | [Ex's And Oh's](https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Death\-Grip On Yesterday](https://open.spotify.com/album/2S7Gg4uwg8Xh7WC4abXpAK) | 3:31 | 2021-12-07 | 2022-12-12 |
 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 | 2021-12-07 |  |
 | [Failure On My Lips](https://open.spotify.com/track/7olQs21wmZmKQBuo9liALF) | [Beloved](https://open.spotify.com/artist/5obGZrR6g66J9jjZ0V84ca) | [Failure On](https://open.spotify.com/album/3GhoCt8KzZ3enAZwrOEito) | 4:36 | 2021-12-07 | 2022-07-29 |
@@ -126,7 +127,7 @@
 | [Reach](https://open.spotify.com/track/3bQTjUBTX3TvkKLoVBlRra) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Reach](https://open.spotify.com/album/4hxJ8XzBPYGHeHRFhEd42y) | 4:21 | 2021-12-07 | 2022-07-19 |
 | [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 | 2021-12-07 | 2022-12-12 |
 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 | 2021-12-07 |  |
-| [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 | 2021-12-07 |  |
+| [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 | 2021-12-07 | 2023-02-04 |
 | [Right Side Of The Bed](https://open.spotify.com/track/3PhrThKR4BSspkg7zCTECh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 3:42 | 2021-12-07 | 2022-07-29 |
 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 | 2021-12-07 |  |
 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 | 2021-12-07 |  |

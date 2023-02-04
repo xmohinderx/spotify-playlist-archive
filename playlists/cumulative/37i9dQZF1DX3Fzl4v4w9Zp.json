@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Sunny Sweeney",
+  "description": "Keep your finger on the pulse of Americana. Cover: Brit Taylor",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -4287,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Kentucky Blue",
+        "url": "https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227573,
+      "name": "No Cowboys",
+      "url": "https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu"
+    },
+    {
+      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 179746,
       "name": "Rich Little Girls",
       "url": "https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A"
@@ -6247,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "The Sacred Now / How Long",
+        "url": "https://open.spotify.com/album/0yol57x7XXIwXSrlnDZ4s8"
+      },
+      "artists": [
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252298,
+      "name": "The Sacred Now",
+      "url": "https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx"
+    },
+    {
+      "album": {
         "name": "Ten Thousand Roses",
         "url": "https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45"
       },
@@ -6696,7 +6732,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"

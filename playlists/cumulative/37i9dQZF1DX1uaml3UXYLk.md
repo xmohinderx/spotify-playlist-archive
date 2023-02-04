@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-520 songs - 1 day 9 hr 24 min
+521 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2020-10-20\* | 2021-06-23 |
 | [Can't see me](https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC) | [Uncle Jay](https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj) | [Can't see me](https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6) | 3:55 | 2020-10-20\* | 2021-03-25 |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2021-08-25 | 2022-01-22 |
+| [Case Two](https://open.spotify.com/track/0g9FXyhUrPYpfVX8jlm96z) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Case Two](https://open.spotify.com/album/14wvWuirJ76q6z3Wwx8Zr5) | 3:36 | 2023-02-03 |  |
 | [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 | 2021-10-16 |  |
 | [Ce n'est pas \(Axel Boman Remix\)](https://open.spotify.com/track/0rUNcOw5EaGaQjYcnlAuST) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 8:34 | 2021-01-29 | 2021-03-25 |
 | [Changing Rooms](https://open.spotify.com/track/2EgNKyAs31YQeKa3OopRWR) | [\_njet\_](https://open.spotify.com/artist/6LAAoLorV83lTuZZBguNdz) | [Changing Rooms](https://open.spotify.com/album/1TZXe8sX7srvAsWnD6sxNk) | 3:07 | 2020-10-20\* | 2020-12-24 |
@@ -343,7 +344,7 @@
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-12 | 2022-02-11 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-08-25 |  |
-| [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 |  |
+| [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 | 2023-02-04 |
 | [Profoundness \- Bucher Remix](https://open.spotify.com/track/3sJ0WY1MWjwfwrE2Gnrwpz) | [Big Al](https://open.spotify.com/artist/7JslHxRm7ssgevJMtYUfCL) | [Profoundness](https://open.spotify.com/album/1Pu3NLkcpKFbhsn9893RLq) | 8:45 | 2020-11-21 | 2020-11-28 |
 | [Protonic](https://open.spotify.com/track/2w7MRtsGaGCjR1ZmcbPD6c) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [ReFeel](https://open.spotify.com/album/3sldh7YxXui82hBwlop5NV) | 3:51 | 2021-01-29 | 2021-03-25 |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-04 | 2021-10-16 |

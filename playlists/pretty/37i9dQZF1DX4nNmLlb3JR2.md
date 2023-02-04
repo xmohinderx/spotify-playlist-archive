@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,508 likes - 154 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,024 likes - 154 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 78 | [7 Years](https://open.spotify.com/track/250hVR0oKXTid5AzOM4t5c) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI) | [7 Years](https://open.spotify.com/album/7kuqvi4sgPk63wYPYGg4BH) | 1:30 |
 | 79 | [Levitating](https://open.spotify.com/track/2VRKuZ26DfWIrzFObvJcMU) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Levitating](https://open.spotify.com/album/3JjbiMHjQPwkE8XfpzhFPU) | 3:29 |
 | 80 | [Stay \- lofi vocal version](https://open.spotify.com/track/6OBjTQlEcdIrHzqaqzLRI2) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Remixes of Famous TikTok Songs \(songs stuck in your head\)](https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK) | 1:50 |
-| 81 | [Slow Dancing in the Dark](https://open.spotify.com/track/7LcUhhWSUSzzVO0FGrMUyc) | [STUDIO BEYOND](https://open.spotify.com/artist/5O6N5WthVbUXGXyvZ16MCo), [JSON](https://open.spotify.com/artist/7cai4jHczJAmvH2mMYD4oJ) | [The Covers, Json](https://open.spotify.com/album/4Y7upisR167IkiC82ZU6dw) | 6:00 |
+| 81 | [Slow Dancing in the Dark](https://open.spotify.com/track/7LcUhhWSUSzzVO0FGrMUyc) | [STUDIO BEYOND](https://open.spotify.com/artist/5O6N5WthVbUXGXyvZ16MCo), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [The Covers, Json](https://open.spotify.com/album/4Y7upisR167IkiC82ZU6dw) | 6:00 |
 | 82 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 |
 | 83 | [Roxanne](https://open.spotify.com/track/5hBtuwob3QCkTzp0LPZRf1) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [Roxanne](https://open.spotify.com/album/2h6KJl2aUMLIV57CkZuB00) | 1:38 |
 | 84 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 |

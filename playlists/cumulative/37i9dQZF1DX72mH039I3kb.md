@@ -2,7 +2,7 @@
 
 ### [Gray Area: Gene Farris' DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX72mH039I3kb)
 
-> A staple House Music community, Gray Area, invites us to dance for the next 90 minutes with bonafide Chicago legend <a href="spotify:artist:49qOEODA3n8HiVUY4uwJbU">Gene Farris</a> while he showcases the best of his label 'Farris Wheel Recording'.
+> A staple House Music community, <a href="spotify:user:1vtbard7xaw118xznfggl7o4q">Gray Area</a>, invites us to dance for the next 90 minutes with bonafide Chicago legend <a href="spotify:artist:49qOEODA3n8HiVUY4uwJbU">Gene Farris</a> while he showcases the best of his label 'Farris Wheel Recording'.
 
 29 songs - 1 hr 31 min
 

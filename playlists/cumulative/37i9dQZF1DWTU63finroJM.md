@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-922 songs - 2 day 3 hr 38 min
+923 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [POPULAR](https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [POPULAR](https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I) | 3:35 | 2022-02-10 | 2022-04-20 |
 | [Por Encima Del Dinero](https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Por Encima Del Dinero](https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf) | 2:14 | 2022-09-08 |  |
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |
+| [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 |  |
 | [Pretendientes](https://open.spotify.com/track/5vvug4pdPnLO0d0pxpy8dT) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [B.Y.E.](https://open.spotify.com/album/6hJJxkEe36NL2jmE15K9C2) | 2:44 | 2022-03-24 | 2022-04-20 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2022-02-03 | 2022-08-02 |
 | [Promise](https://open.spotify.com/track/7f8J4YRGkwAJdPGFB6JWSk) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Promise](https://open.spotify.com/album/3HEh0OCDDBE5ECmzIgPuPD) | 4:17 | 2022-03-24 | 2023-01-28 |
@@ -727,7 +728,7 @@
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2022-02-03 | 2022-03-09 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-02-03 | 2022-12-15 |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-04-12 | 2022-09-09 |
-| [tonight](https://open.spotify.com/track/56N95Y06bapESD01RBPQTf) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight \(acoustic version\)](https://open.spotify.com/album/5ryNZHfaCaC1PAuyWD1CIm) | 4:43 | 2023-01-11 |  |
+| [tonight](https://open.spotify.com/track/56N95Y06bapESD01RBPQTf) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight \(acoustic version\)](https://open.spotify.com/album/5ryNZHfaCaC1PAuyWD1CIm) | 4:43 | 2023-01-11 | 2023-02-04 |
 | [Tonight](https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Tonight](https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms) | 3:57 | 2022-03-24 | 2022-08-02 |
 | [Tonę](https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Tonę](https://open.spotify.com/album/4xEZCZwXOlhAfgEYkZSU82) | 2:44 | 2022-09-08 | 2022-11-19 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |

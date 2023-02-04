@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,555 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,592 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 32 | [The Cobra's Dance \(feat\. Luru\)](https://open.spotify.com/track/6sGoZGKccOg7yi7MAjJkDc) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Luru](https://open.spotify.com/artist/4iOVGSSVU0ie3AEW2EWjbW) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 4:47 |
 | 33 | [Slam is Slam](https://open.spotify.com/track/4VaUIvPhr9SYYGJbuZAEql) | [Front De Cadeaux](https://open.spotify.com/artist/6U5NyEGFn0luiu0emae0iD), [Pier Panico](https://open.spotify.com/artist/5e4iShUA41sYgxoJahGbOl) | [We Slowly Riot](https://open.spotify.com/album/16KsjU1FmSCNyWNhRrRfr4) | 8:26 |
 | 34 | [Fantazija I](https://open.spotify.com/track/4wNOMySSNxWf3RbLU2zkKh) | [pelzensers](https://open.spotify.com/artist/4TNYMxozBNIWjNMfwKq5Q7) | [Fantazija EP](https://open.spotify.com/album/1xCKCmz7m4iz8S9SP3OgMx) | 6:03 |
-| 35 | [What Can I Do](https://open.spotify.com/track/0Ej4ihO9hpKEx7WeB3s04f) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [blondewearingblack](https://open.spotify.com/artist/1EavuIfVck3ulPgi4gnXaJ) | [Life Is a Song](https://open.spotify.com/album/5LBPGafBTxKiyISL0DuKB6) | 2:48 |
+| 35 | [What Can I Do](https://open.spotify.com/track/1XfhvI7AAprJV1lKqB3PZZ) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [blondewearingblack](https://open.spotify.com/artist/1EavuIfVck3ulPgi4gnXaJ) | [Life Is a Song](https://open.spotify.com/album/4BYCeNlk0gUDvJPfMZyJay) | 2:48 |
 | 36 | [Queen On The Streets](https://open.spotify.com/track/2SfNPc2BpVKTn0QMaMMMsE) | [Far Out Radio Systems](https://open.spotify.com/artist/5cT6WjuKX9timXk0nTWQak) | [On Boolean Plains](https://open.spotify.com/album/04qJkmHbF4umw2TNLvkz6p) | 6:13 |
 | 37 | [Africa \(My No\. 1\)](https://open.spotify.com/track/4o3nPaw09L3mdIQIRRZi1q) | [General Ehi Duncan](https://open.spotify.com/artist/7AcVYXKD86pBTIEEEGpTge), [The Africa Army Express](https://open.spotify.com/artist/4I8C9PXQQUAgDtBvGAwfJs) | [Africa \(My No\. 1\)](https://open.spotify.com/album/6XqRp5lQzxHTkJnCyPQGWO) | 5:29 |
 | 38 | [Drumting](https://open.spotify.com/track/7KlOHaYc70YTOYsyxYsIIh) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Volume One](https://open.spotify.com/album/09JGzzyKFIqZVKjLxkXzVK) | 7:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 49 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
 | 50 | [Overmorrow, Monchan](https://open.spotify.com/track/5jAFnZHPwmK6GuTzCdIPW4) | [Floating World Pictures](https://open.spotify.com/artist/5nmpxpGJF7KZ9EqxBLQRue) | [The Twenty\-three Views](https://open.spotify.com/album/0wV9qCIJsfx56mZaiSHaQ7) | 4:42 |
 
-Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMDlhZjEwY2ZkNGRkYTU0Y2IzYTMwM2UxMThjMzhlNTky`
+Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMGEyZTU4ZWIxY2RkMDE4MjVlMTNkYmNhYjI0ZWM3ZWEz`

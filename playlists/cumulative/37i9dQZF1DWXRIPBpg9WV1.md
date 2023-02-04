@@ -4,7 +4,7 @@
 
 > 
 
-162 songs - 8 hr 23 min
+167 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All of Me](https://open.spotify.com/track/7zASRqnZYlkU7hSTFGoACA) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 4:14 | 2022-05-20 | 2022-10-01 |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-20 | 2022-12-24 |
 | [All of me](https://open.spotify.com/track/1YqEANBV7eYCAOooDgZgyu) | [Skyler Hunt](https://open.spotify.com/artist/0VkRky5og1A8kwViWuyeOl) | [All of me](https://open.spotify.com/album/3YHjGSpj2bzB7256PhRlN1) | 2:12 | 2022-09-30 |  |
+| [America](https://open.spotify.com/track/6HAAL7x6LWg9j7Lb4qPSFP) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [America](https://open.spotify.com/album/3mnyXyGwORYtpjPtBhN1II) | 2:43 | 2023-02-03 |  |
 | [Anti\-Hero](https://open.spotify.com/track/3KccXGwIc7HexO9KdCgLTh) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Anti\-Hero](https://open.spotify.com/album/4KwX0q1HZSbG3HM9vwVuVu) | 3:13 | 2022-12-23 |  |
 | [Anti\-Hero](https://open.spotify.com/track/1IRSxZQv3al0w8UbeXqVlh) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [Anti\-Hero](https://open.spotify.com/album/5ggUn95ZER2ZHHtzdWNJqT) | 2:43 | 2022-12-02 |  |
 | [Are You With Me](https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Are You With Me](https://open.spotify.com/album/0my0OShiIp91mnj5FH6VaZ) | 2:19 | 2022-12-23 |  |
@@ -39,6 +40,7 @@
 | [Colors Of the Wind](https://open.spotify.com/track/1vkxilXurIJu6FpIqUeOKX) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Hits](https://open.spotify.com/album/2fhFDlDU0kLMAJxlMOmqJs) | 4:03 | 2022-05-20 | 2022-07-02 |
 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 | 2022-05-20 |  |
 | [Creep](https://open.spotify.com/track/4AstRWiBjxRZmxlQpmhwGK) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Creep](https://open.spotify.com/album/3waOvsLm5sV5tJ2xtBY8PW) | 2:26 | 2023-01-13 |  |
+| [Creepin](https://open.spotify.com/track/6mmddxPoUrUaCHbfUDxe8T) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [Creepin](https://open.spotify.com/album/0YeYdrL9WmwHWe2chY2mf9) | 2:54 | 2023-02-03 |  |
 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 | 2022-05-20 |  |
 | [Dance Monkey](https://open.spotify.com/track/3ZOMozp2217JJafowbJdeg) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Dance Monkey](https://open.spotify.com/album/7a6BdaLUK7bPGu7fPYfWTD) | 2:51 | 2022-12-02 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2Xs7raB9TJRTMGVKHYI92I) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Dancing on My Own](https://open.spotify.com/album/2fzUmk4cncjiZJdd5Iiu18) | 2:42 | 2022-12-02 |  |
@@ -87,7 +89,8 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5rU2PLiSUb2or6DqalZOUX) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [I'm Good \(Blue\)](https://open.spotify.com/album/1HLUiJ6bYFE6FCMMiaMdpL) | 2:19 | 2022-12-02 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-23 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0YCqrDZxu92UqtkqCLLFvl) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If You Leave Me Now](https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu) | 3:48 | 2022-06-15 |  |
-| [Imagine](https://open.spotify.com/track/1075EyJPJUVIfwUSF3gAkB) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [Imagine](https://open.spotify.com/album/24qv6NAiCzGYCziUKLcCkD) | 2:15 | 2022-12-02 |  |
+| [Imagine](https://open.spotify.com/track/1075EyJPJUVIfwUSF3gAkB) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [Imagine](https://open.spotify.com/album/24qv6NAiCzGYCziUKLcCkD) | 2:15 | 2022-12-02 | 2023-02-04 |
+| [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-02-03 |  |
 | [In Your Eyes](https://open.spotify.com/track/1AWyRQZP793viJUUU95omo) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:06 | 2022-05-20 |  |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2022-05-20 |  |
 | [Iris](https://open.spotify.com/track/32710csZDUuG7Q65jUmyHF) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Iris](https://open.spotify.com/album/3UIw5d1XM2kD9azjb7jiWp) | 3:43 | 2022-05-20 |  |
@@ -96,6 +99,7 @@
 | [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 | 2022-07-29 |
 | [Just Like Heaven](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 | 2022-07-26 |  |
 | [Killing Me Softly](https://open.spotify.com/track/2XEYHbrPjycqUAeCvzuYoC) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Killing Me Softly](https://open.spotify.com/album/7x4hRr0XZ5nzLTC9ut29rt) | 3:27 | 2022-12-02 |  |
+| [La Isla Bonita](https://open.spotify.com/track/1tBe56PF0tk8GsNkMMWZqN) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [La Isla Bonita](https://open.spotify.com/album/6XnAqlJtTxYW1X6MtQJ7B4) | 3:15 | 2023-02-03 |  |
 | [Let Her Go](https://open.spotify.com/track/2g1Dmw32Vmnnj9yy0GLj3m) | [James Bartholomew](https://open.spotify.com/artist/1Vyppo6e0BeS9y2MDF2h4g) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/0QfTHR4KvqlWXQAnpaSpqA) | 4:13 | 2022-05-20 |  |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-05-20 |  |
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-12-02 |  |
@@ -112,6 +116,7 @@
 | [Over The Rainbow](https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Over The Rainbow](https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK) | 3:29 | 2022-12-02 |  |
 | [Paradise](https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Paradise](https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1) | 2:16 | 2022-12-02 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-05-20 |  |
+| [Redbone](https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Redbone](https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L) | 2:44 | 2023-02-03 |  |
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 |  |
 | [Riptide](https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 4:33 | 2022-05-20 | 2022-07-02 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:55 | 2022-12-02 |  |
@@ -151,7 +156,7 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/0lazFQfhuD9CDjkceTIj9E) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 4:04 | 2022-05-20 |  |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 |  |
 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 | 2022-05-20 |  |
-| [Unholy](https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs) | [Jimmie Pérez](https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff) | [Unholy](https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw) | 2:31 | 2022-12-02 |  |
+| [Unholy](https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs) | [Jimmie Pérez](https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff) | [Unholy](https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw) | 2:31 | 2022-12-02 | 2023-02-04 |
 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 | 2022-12-23 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/7yuJEGsaEhonLWpqX67h5v) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Visa vid vindens ängar](https://open.spotify.com/album/4hjS1cyVshSuAk0oLhVGKB) | 2:26 | 2022-05-20 |  |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-05-20 |  |

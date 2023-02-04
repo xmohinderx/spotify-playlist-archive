@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7879,
+  "num_followers": 7883,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDUzMzdmZmUxYWFhNDE4NzBjOTE5YjgyYTBhYTZlZWFk",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDY5ZDkyMzA4YjdhYzQ0YmYzOTI2ZGI4MzQ5YTU5ODNj",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Minimiser les d\u00e9g\u00e2ts",
-        "url": "https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU"
-      },
-      "artists": [
-        {
-          "name": "Les fr\u00e8res Goyette",
-          "url": "https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Sa craque au soleil",
-      "url": "https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Courtepointes",
         "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 206333,
       "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Minimiser les d\u00e9g\u00e2ts",
+        "url": "https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU"
+      },
+      "artists": [
+        {
+          "name": "Les fr\u00e8res Goyette",
+          "url": "https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "Sa craque au soleil",
+      "url": "https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Fuck'n'shit baby love!",
+        "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
+      },
+      "artists": [
+        {
+          "name": "Le Karlof Orchestra",
+          "url": "https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Fuck'n'shit baby love!",
+      "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Le Nombre",
         "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 188800,
       "name": "Gwen et les rats",
       "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Fuck'n'shit baby love!",
-        "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
-      },
-      "artists": [
-        {
-          "name": "Le Karlof Orchestra",
-          "url": "https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Fuck'n'shit baby love!",
-      "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
     },
     {
       "added_at": "2020-06-23 14:47:30",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-215 songs - 19 hr 36 min
+216 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Water](https://open.spotify.com/track/4DvaKMDjJYJl8Bp6rUj8IR) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Fear of Programming](https://open.spotify.com/album/49b3cshXjZHfOzN3SfMWzr) | 5:34 | 2023-02-02 |  |
 | [Weather Master](https://open.spotify.com/track/17ApP5WY7cH3G5Jo65q3J2) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Holographic Witness](https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR) | 6:52 | 2022-09-19 | 2022-11-09 |
 | [Weighing of the Heart](https://open.spotify.com/track/0O6HqUr2BOg25uO8fjjTVR) | [Sifa](https://open.spotify.com/artist/5aM28q7o6qSn56Jqz7iYbq) | [Capsule](https://open.spotify.com/album/28878HdeqjVIQEXYPejWAs) | 5:29 | 2023-02-02 |  |
-| [What Can I Do](https://open.spotify.com/track/0Ej4ihO9hpKEx7WeB3s04f) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [blondewearingblack](https://open.spotify.com/artist/1EavuIfVck3ulPgi4gnXaJ) | [Life Is a Song](https://open.spotify.com/album/5LBPGafBTxKiyISL0DuKB6) | 2:48 | 2023-02-02 |  |
+| [What Can I Do](https://open.spotify.com/track/0Ej4ihO9hpKEx7WeB3s04f) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [blondewearingblack](https://open.spotify.com/artist/1EavuIfVck3ulPgi4gnXaJ) | [Life Is a Song](https://open.spotify.com/album/5LBPGafBTxKiyISL0DuKB6) | 2:48 | 2023-02-02 | 2023-02-04 |
+| [What Can I Do](https://open.spotify.com/track/1XfhvI7AAprJV1lKqB3PZZ) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [blondewearingblack](https://open.spotify.com/artist/1EavuIfVck3ulPgi4gnXaJ) | [Life Is a Song](https://open.spotify.com/album/4BYCeNlk0gUDvJPfMZyJay) | 2:48 | 2023-02-02 |  |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-02-02 |  |
 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 | 2023-02-02 |  |
 | [When U Call](https://open.spotify.com/track/0qWkinRmjxDo3rrECKsIQr) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [When U Call](https://open.spotify.com/album/5TSnzljjpGs8RLK6VXoX33) | 5:52 | 2022-12-22 | 2023-02-03 |

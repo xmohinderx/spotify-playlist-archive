@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-110 songs - 7 hr 52 min
+111 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 | 2021-07-22 |  |
 | [Waymore’s Blues \- Live at The Fillmore New York at Irving Plaza/ 2010](https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets In The Gun \(Deluxe Package\)](https://open.spotify.com/album/4HMst6ZXsJmSnI1bz3LGzw) | 6:07 | 2021-07-22 | 2022-07-29 |
 | [Weakness \(feat\. Tris Munsick & Sam Munsick\) \- Live](https://open.spotify.com/track/3Qrgsm4w3DLoSb4u30mpsb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Tris Munsick](https://open.spotify.com/artist/6VhJr0L2PbnyAfz5WtLT7R), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no) | [Wyoming’s Sons Live from Cheyenne](https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI) | 5:12 | 2022-12-02 |  |
+| [What He Didn’t Do \- Live From Music City](https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn’t Do \(Live From Music City\)](https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT) | 3:14 | 2023-02-03 |  |
 | [What Hurts the Most \- Live / 2011](https://open.spotify.com/track/4hlgImGb2SeTELFkZuhJsu) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:35 | 2021-07-22 |  |
 | [What's Your Name \- Live](https://open.spotify.com/track/3k5aZuYJfbfcVK9aj8xJOS) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 3:44 | 2021-07-22 |  |
 | [When The Sun Goes Down \- Duet With Uncle Kracker \(Live\)](https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 5:03 | 2021-07-22 |  |

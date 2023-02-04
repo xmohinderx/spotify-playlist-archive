@@ -2,7 +2,7 @@
 
 ### [Heart Of Texas](https://open.spotify.com/playlist/37i9dQZF1DX05oRSrPGj3d)
 
-> Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver\. Cover: Billy Joe Shaver
+> Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
 
 98 songs - 6 hr 15 min
 

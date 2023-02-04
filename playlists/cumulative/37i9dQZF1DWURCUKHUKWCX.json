@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "la chute (piano)",
+        "url": "https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "la chute (piano)",
+      "url": "https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep"
+    },
+    {
+      "album": {
         "name": "Last to Let Go (Daigo Hanada Rework)",
         "url": "https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ"
       },

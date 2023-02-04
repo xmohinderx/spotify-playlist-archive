@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 8 hr 17 min
+82 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Exorce](https://open.spotify.com/track/4lM4b1cEY4YviftTR5DUCO) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE) | 6:52 | 2022-08-01 |  |
 | [Free](https://open.spotify.com/track/5cLaBI9yBgzcxSf950CcW7) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/2Wui1uFvsOcUfacighQEWo) | 3:57 | 2022-08-01 |  |
 | [Freedom](https://open.spotify.com/track/4z1S6RlmOuIBePkUbItbl2) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Gaidukova](https://open.spotify.com/artist/0vKVCGPgk1Eb7kYlPrYxGJ) | [Selected Works 2021](https://open.spotify.com/album/3tQ0sDxohfVuAKgQJHEXeu) | 6:20 | 2022-08-01 |  |
-| [Freedom \- Red Zone Mix](https://open.spotify.com/track/5igjnWZCcaHmgsEZ9qM5t5) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Freedom](https://open.spotify.com/album/0Vey1M3YAMgrzP4wzoSlNa) | 7:13 | 2022-08-01 |  |
+| [Freedom \- Red Zone Mix](https://open.spotify.com/track/5igjnWZCcaHmgsEZ9qM5t5) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Freedom](https://open.spotify.com/album/0Vey1M3YAMgrzP4wzoSlNa) | 7:13 | 2022-08-01 | 2023-02-04 |
+| [Freedom \- Red Zone Mix](https://open.spotify.com/track/6R4RsM2EVfitMKNouIK1GF) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Freedom](https://open.spotify.com/album/7t3lvKv1QqZyts6AuAwuxR) | 7:13 | 2022-09-08 |  |
 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 | 2022-08-01 |  |
 | [Guapa](https://open.spotify.com/track/5qd4C8cEW0VNNQoZ9tNaX7) | [Calamar Crew](https://open.spotify.com/artist/28Tqd0YiUZ7fWNvikZjAiN), [Leon \(FR\)](https://open.spotify.com/artist/0OUY2dHEjLzNhvAbBD3Ouj) | [We Rise By Lifting Others](https://open.spotify.com/album/7bHGruOG4gvKtOLzJq2eQO) | 6:48 | 2022-08-01 |  |
 | [He Is \(feat\. Song Williamson\) \- Ferrer & Sydenham Inc Vox Mix](https://open.spotify.com/track/5238avQlRSW9LeUN5sIGKI) | [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd), [Song Williamson](https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB) | [He Is \(feat\. Song Williamson\)](https://open.spotify.com/album/51gAjOsqdrk7lOt9aCXjwp) | 8:01 | 2022-08-01 |  |

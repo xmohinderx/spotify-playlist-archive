@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 130625,
       "name": "Fuertardo",
       "url": "https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC"
@@ -2911,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Plastico",
+        "url": "https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "Plastico",
+      "url": "https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK"
+    },
+    {
+      "album": {
         "name": "POETA",
         "url": "https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ"
       },
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 161538,
       "name": "Que Diran los Neighbors",
       "url": "https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: David Kushner",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Molly Tuttle",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -840,6 +840,24 @@
       "duration_ms": 104280,
       "name": "Black Leaves",
       "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "album": {
+        "name": "Bleeding Out",
+        "url": "https://open.spotify.com/album/5L2DEAJlqzC09OEPl4Ww97"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Bleeding Out",
+      "url": "https://open.spotify.com/track/7BhOH16ud5ybFUeP3wwhby"
     },
     {
       "album": {
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 302578,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6sA8vdkzv693nFHrfR7DZk"

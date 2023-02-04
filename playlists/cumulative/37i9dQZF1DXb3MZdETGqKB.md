@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-177 songs - 10 hr 27 min
+178 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [The Search For Happiness](https://open.spotify.com/track/7tq4k2u9kjfJzZlXuV0yGZ) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [The Search For Happiness](https://open.spotify.com/album/4Ffs0ZxpYhLvMv4l19fXmf) | 6:01 | 2021-02-05 | 2022-03-26 |
 | [The Truth](https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG) | [Cory Young](https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg) | [The Truth](https://open.spotify.com/album/3YBphoBChUZZa490iIB62T) | 2:03 | 2022-02-18 |  |
 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 | 2022-05-06 |  |
+| [They Go Low \- Acoustic](https://open.spotify.com/track/5aKArVxYbCjkJrUIHfLKCo) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Grandfather Courage \(Acoustic\)](https://open.spotify.com/album/6sM7djEM6jfXIo1TpDgYZj) | 4:09 | 2023-02-03 |  |
 | [Too Bold \- Diamond Remix \(Radio Edit\)](https://open.spotify.com/track/1y7jhEe6UsTYIFnu3a0Mmu) | [Shingai](https://open.spotify.com/artist/7woNunWFUYvNqvaBxOEGUJ), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Tawiah](https://open.spotify.com/artist/4KGv7zG47u8hMcFGj5xhJV), [Celisse Henderson](https://open.spotify.com/artist/177oBO6n9Xu3vJBRLFgepH), [Ala.Ni](https://open.spotify.com/artist/6ezEFZpvL8TqZrVUAQRov4), [MVM](https://open.spotify.com/artist/4yTMehdrfNS5my16yd2qYr), [Jelly Cleaver](https://open.spotify.com/artist/7brjzhmgOWCGkdEI2AIRzl), [Megan Coleman](https://open.spotify.com/artist/3UwGCYZVzMRKiNQHrtLy8m) | [Too Bold \(Diamond Remix\)](https://open.spotify.com/album/00Y0pCGuMYeO5GudIcBoEv) | 3:31 | 2021-03-12 | 2022-03-26 |
 | [Trudoo](https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Trudoo](https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3) | 3:37 | 2022-04-08 | 2022-06-19 |
 | [Undefeated](https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu) | [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Undefeated](https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi) | 2:07 | 2023-01-20 |  |

@@ -2,9 +2,9 @@
 
 ### [badass](https://open.spotify.com/playlist/37i9dQZF1DX2I7Ykltk83m)
 
-> killer songs from badass artists\. Cover: Soccer Mommy
+> killer songs from badass artists\. Cover: Madison Cunningham
 
-322 songs - 19 hr 32 min
+323 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-11-14 | 2022-04-14 |
 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 | 2023-01-27 |  |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-02-04 |  |
+| [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-02-03 |  |
 | [How Long](https://open.spotify.com/track/0q6CCPPfOVrpXlhd92wnGh) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [How Long](https://open.spotify.com/album/2u4VaBHVb4BFRfZWWl4T4G) | 1:40 | 2022-10-07 | 2023-01-28 |
 | [How Long](https://open.spotify.com/track/6kUtd2r6ctD3SSOjuV1Rh5) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [How Long](https://open.spotify.com/album/1gVrDytuTqsNRAt4MSzwQO) | 1:40 | 2021-11-14 | 2022-11-13 |
 | [Human Replacement](https://open.spotify.com/track/1NNd8eBJERD42dv5NYmQpS) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Human Replacement](https://open.spotify.com/album/3pDjaicPkOiEweqwgDLzl8) | 3:05 | 2021-11-14 | 2022-04-09 |
@@ -233,7 +234,7 @@
 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 | 2022-05-20 | 2022-10-08 |
 | [Realiti](https://open.spotify.com/track/7JClJ8WmR4Dz0BrwW1bwdL) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Realiti](https://open.spotify.com/album/70XDWkcp7Naoiv64surVEM) | 3:06 | 2021-11-14 | 2022-07-29 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-10-07 |  |
-| [Reinvent](https://open.spotify.com/track/27nWuh0p5XEDNSKOxLmOmr) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/556YHFgQJKRRoXyDzRZlDO) | 4:03 | 2022-10-07 |  |
+| [Reinvent](https://open.spotify.com/track/27nWuh0p5XEDNSKOxLmOmr) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/556YHFgQJKRRoXyDzRZlDO) | 4:03 | 2022-10-07 | 2023-02-04 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2021-11-14 | 2022-10-14 |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-04-01 | 2023-01-28 |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-10-07 |  |

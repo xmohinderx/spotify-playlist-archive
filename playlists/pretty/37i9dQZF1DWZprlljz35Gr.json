@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6172,
+  "num_followers": 6193,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDkyNDAzYjY0YmY5OGM2YjIyMTFmNjFkNjQ4ZTNmYWI2",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGE2MDEwN2UyNGFmYjcyNjBmMzcxZTE3OTdhODM4Y2Jj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -25,38 +25,6 @@
       "url": "https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Levee & Brick (Down to This)",
-        "url": "https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4"
-      },
-      "artists": [
-        {
-          "name": "Graffiti Ghosts",
-          "url": "https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu"
-        }
-      ],
-      "duration_ms": 166332,
-      "name": "Levee & Brick (Down to This)",
-      "url": "https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl"
-      },
-      "artists": [
-        {
-          "name": "Thomas Vent",
-          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Tourist (Remastered)",
@@ -71,6 +39,54 @@
       "duration_ms": 380497,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "We'r Gonna Have (a Good Time)",
+        "url": "https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        }
+      ],
+      "duration_ms": 191412,
+      "name": "We'r Gonna Have (a Good Time)",
+      "url": "https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "Paper Trails",
+      "url": "https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -95,18 +111,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Psychic",
-        "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
+        "name": "By Any Beats Necessary",
+        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
         }
       ],
-      "duration_ms": 289840,
-      "name": "Paper Trails",
-      "url": "https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo"
+      "duration_ms": 159554,
+      "name": "I Had a Woman",
+      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -123,38 +139,6 @@
       "duration_ms": 172000,
       "name": "Victim",
       "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "By Any Beats Necessary",
-        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
-      },
-      "artists": [
-        {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
-        }
-      ],
-      "duration_ms": 159554,
-      "name": "I Had a Woman",
-      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +207,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Playing the Angel",
         "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 221933,
       "name": "John the Revelator",
       "url": "https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -293,6 +277,22 @@
       "url": "https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a"
     },
     {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Levee & Brick (Down to This)",
+        "url": "https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4"
+      },
+      "artists": [
+        {
+          "name": "Graffiti Ghosts",
+          "url": "https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu"
+        }
+      ],
+      "duration_ms": 166332,
+      "name": "Levee & Brick (Down to This)",
+      "url": "https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Fresh Goods",
@@ -323,6 +323,22 @@
       "duration_ms": 258776,
       "name": "A Blues Malfunktion",
       "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -359,22 +375,6 @@
       "duration_ms": 222000,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "I'm Back With Trouble",
-        "url": "https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn"
-      },
-      "artists": [
-        {
-          "name": "Thomas Vent",
-          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "I'm Back With Trouble",
-      "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -469,6 +469,38 @@
       "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "I'm Back With Trouble",
+        "url": "https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn"
+      },
+      "artists": [
+        {
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "I'm Back With Trouble",
+      "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Psycho Sam",
+      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Deja Booze",
@@ -539,58 +571,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 295640,
-      "name": "Psycho Sam",
-      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Stick Em Up",
-        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
-      },
-      "artists": [
-        {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        },
-        {
-          "name": "Grid Division",
-          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
-        }
-      ],
-      "duration_ms": 236288,
-      "name": "Stick Em Up",
-      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },
@@ -603,22 +583,6 @@
       "duration_ms": 199040,
       "name": "FaiBless",
       "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 224510,
-      "name": "Sunroof Diesel Blues",
-      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -648,9 +612,45 @@
           "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "duration_ms": 224510,
+      "name": "Sunroof Diesel Blues",
+      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Stick Em Up",
+        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        },
+        {
+          "name": "Grid Division",
+          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
+        }
+      ],
+      "duration_ms": 236288,
+      "name": "Stick Em Up",
+      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Precious Time",
-        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
-      },
-      "artists": [
-        {
-          "name": "Euphoria",
-          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Back Against The Wall",
-      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Heavy On My Heart",
         "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210430,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Back Against The Wall",
+      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
     },
     {
       "added_at": "2022-03-01 20:08:23",
@@ -747,6 +747,22 @@
       "duration_ms": 252284,
       "name": "Good & Gone - Original Mix",
       "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,888 songs - 5 day 7 hr 4 min
+1,889 songs - 5 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1242,6 +1242,7 @@
 | [My Life](https://open.spotify.com/track/7tbN6JUXNROjRd8MKR3qoA) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk) | [Beach Diggin', Vol\. 4](https://open.spotify.com/album/0WaekXDcDO3Kq4DXOR43ZT) | 6:11 | 2022-06-09 | 2022-07-29 |
 | [My Life](https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk), [Isao Suzuki](https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb) | [Push](https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA) | 6:09 | 2022-07-27 |  |
 | [My Love and Music](https://open.spotify.com/track/62Wv19Em9TzGWBGIDztP0b) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 7:50 | 2022-06-09 |  |
+| [My Queen Is Nanny Of The Maroons](https://open.spotify.com/track/3XxUkSDs1q76SetgaioRKN) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 6:41 | 2023-02-03 |  |
 | [Mùa Gặt Mới](https://open.spotify.com/track/0Q6J9fKUWqZtvaI9TZYhmT) | [Hoang Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Saigon Supersound](https://open.spotify.com/artist/69CibdsClVHBslcyq1hc89) | [Saigon Supersound, Vol\. 1](https://open.spotify.com/album/08BR2A2sAZHDkCsKuYbWKJ) | 4:12 | 2022-06-09 |  |
 | [N'na Soba](https://open.spotify.com/track/1timhDqYURgJM2NrVTwnky) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [The Syliphone Years](https://open.spotify.com/album/1oV4yfmtveTEAPn4HIANJU) | 4:21 | 2022-09-15 |  |
 | [N'na Soba](https://open.spotify.com/track/4hl0ppTzQevcO5v9xzE4TQ) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [The Syliphone Years](https://open.spotify.com/album/381UsJGR0d6qCE1nALVzyG) | 4:21 | 2022-06-09 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-386 songs - 21 hr 38 min
+389 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Hollow \(with DeathbyRomy\)](https://open.spotify.com/track/2aRbs63TeWEBM7I08pT47W) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:18 | 2022-06-24 | 2022-11-12 |
 | [hollywood](https://open.spotify.com/track/4W7aYBmw2GHjurzXiXr8nE) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hollywood](https://open.spotify.com/album/6bu4Z0O2rKZ4spUKDEnBuY) | 2:36 | 2021-10-27 | 2022-01-08 |
 | [Home](https://open.spotify.com/track/4F42lL3HKmFPwbHzva7WNU) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Home](https://open.spotify.com/album/48pinHbXnyXEm09u4HkuCo) | 3:01 | 2022-02-28 | 2022-03-31 |
+| [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 | 2023-02-03 |  |
 | [Human Nature](https://open.spotify.com/track/3gHgHC1iNLtivPNtd9y4pf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Human Nature](https://open.spotify.com/album/2WpBMTSYOS1A3c326ysiHS) | 4:10 | 2023-01-30 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-07 | 2022-03-10 |
 | [I Don't Believe You](https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [I Don't Believe You](https://open.spotify.com/album/4Am00AmCdt7qCMifgAmtcJ) | 3:30 | 2022-02-28 | 2022-03-31 |
@@ -214,6 +215,7 @@
 | [m box](https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:32 | 2021-11-19 | 2022-01-08 |
 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 | 2022-07-15 |  |
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2021-10-22 | 2022-01-08 |
+| [MAKE ME BELIEVE](https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MAKE ME BELIEVE](https://open.spotify.com/album/0LBFJdxLkwyZ9woZzh5M4W) | 3:55 | 2023-02-03 |  |
 | [Make U Mine](https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Jolie](https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx) | 4:03 | 2022-10-14 |  |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2022-11-23 |
 | [Math](https://open.spotify.com/track/5YLrCPSE6KIHC3ZiN9OYui) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Math](https://open.spotify.com/album/5TAXcidpYckYTtQRD7LhFj) | 3:33 | 2022-03-30 | 2022-06-25 |
@@ -257,6 +259,7 @@
 | [One More Time \- AOBeats Remix](https://open.spotify.com/track/7c9l2jlh2XHyRmDC6Cz5CX) | [Luka Kloser](https://open.spotify.com/artist/3IOjE9iyEPAWA1MnoeKjfQ), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [One More Time \(AOBeats Remix\)](https://open.spotify.com/album/2KIgLWdFH0EF6H5RFvR9qW) | 2:38 | 2022-03-04 |  |
 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 | 2022-03-18 | 2022-06-28 |
 | [OTW](https://open.spotify.com/track/6P7TP6ifKNaIp0y59Q3pCF) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:52 | 2021-12-07 | 2022-01-08 |
+| [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 |  |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-18 | 2022-02-05 |
 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 | 2022-12-31 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2022-09-19 |

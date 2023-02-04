@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 569615,
+  "num_followers": 570630,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMGY5ODYzY2I1MTE4MmJkNGJhNDI0ZDUzYzI4MTFkNjM3",
+  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMGQ4MWQyNjg5YzJlN2QwNzRkOTZkMDgwOWEwOGRjNTY3",
   "tracks": [
     {
       "added_at": "2022-09-02 14:31:45",
@@ -623,6 +623,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "I Know You (Remixes) (feat. Bastille)",
         "url": "https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 183344,
       "name": "I Know You (feat. Bastille) - Vigiland Remix",
       "url": "https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -879,30 +879,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
-        "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
-      "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
         "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
+        "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
+      "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "One Kiss (with Dua Lipa) [Remixes]",
-        "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "I Wanna Know (feat. Bea Miller) - Remixes",
         "url": "https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 193187,
       "name": "Tough Love - Ti\u00ebsto Remix / Radio Edit",
       "url": "https://open.spotify.com/track/7bF6tCO3gFb8INrEDcjNT5"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "One Kiss (with Dua Lipa) [Remixes]",
+        "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "So Am I (The Remixes)",
-        "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "So Am I - Steve Void Dance Remix",
-      "url": "https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Obsessed (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 255238,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/55nMnifaQWKe3f9cbwOXwx"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "So Am I (The Remixes)",
+        "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "So Am I - Steve Void Dance Remix",
+      "url": "https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2103,6 +2103,46 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Boyfriend (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Boyfriend - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3LfCdPrgeIikpAoHuMsN3b"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Think Before I Talk (Remixes / Pt. 1)",
+        "url": "https://open.spotify.com/album/4I9mq6QqhYz2IhnHx0CI35"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Think Before I Talk - Cahill Remix",
+      "url": "https://open.spotify.com/track/7almlnOxMbP9vsmbtLT0jg"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Still Falling For You (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
       },
@@ -2147,42 +2187,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Boyfriend (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Boyfriend - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/3LfCdPrgeIikpAoHuMsN3b"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Think Before I Talk (Remixes / Pt. 1)",
-        "url": "https://open.spotify.com/album/4I9mq6QqhYz2IhnHx0CI35"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Think Before I Talk - Cahill Remix",
-      "url": "https://open.spotify.com/track/7almlnOxMbP9vsmbtLT0jg"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2215,30 +2239,6 @@
       "duration_ms": 185765,
       "name": "Ritual - Benny Benassi & BB Team Remix",
       "url": "https://open.spotify.com/track/2fQYA6cFN4ClfI4OmtpC98"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     }
   ],
   "unique_name": "Remix Hits",

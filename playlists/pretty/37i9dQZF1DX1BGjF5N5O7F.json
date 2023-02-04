@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 529794,
+  "num_followers": 529950,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NDM3NCwwMDAwMDAwMGU2MGY1ZmNjMzlmNzJlYTg1MjBiZDQ3YzUxMzFhYWRk",
+  "snapshot_id": "MTY3NTI2NDM3NCwwMDAwMDAwMDBiYzUzNWQ4NjNjZjc5MTc3ZTYwYjM3ZTBiOTc1ODI0",
   "tracks": [
     {
       "added_at": "2023-02-01 15:12:54",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-01 15:12:54",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ"
-      },
-      "artists": [
-        {
-          "name": "Me and My Friends",
-          "url": "https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3"
-        }
-      ],
-      "duration_ms": 200233,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN"
-    },
-    {
-      "added_at": "2023-02-01 15:12:54",
-      "album": {
         "name": "Parallels, Vol. I",
         "url": "https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 238373,
       "name": "Making Love on the Mountain - Sexy Mix",
       "url": "https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I"
+    },
+    {
+      "added_at": "2023-02-01 15:12:54",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ"
+      },
+      "artists": [
+        {
+          "name": "Me and My Friends",
+          "url": "https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3"
+        }
+      ],
+      "duration_ms": 200233,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN"
     },
     {
       "added_at": "2023-02-01 15:12:54",

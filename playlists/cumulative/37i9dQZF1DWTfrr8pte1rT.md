@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> 
+> Rock with a Drop Cover: Of Mice & Men \\m/
 
-269 songs - 15 hr 30 min
+270 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Halfway Dead](https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 3:24 | 2021-12-10 |  |
 | [hand crushed by a mallet \(Remix\) \[feat\. Fall Out Boy, Craig Owens, Nicole Dollanganger\]](https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv), [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 2:55 | 2021-12-10 |  |
 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 | 2023-01-30 |  |
-| [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 | 2022-05-06 |  |
+| [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 | 2022-05-06 | 2023-02-04 |
 | [Hearteater](https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [Hearteater](https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa) | 3:37 | 2022-03-04 |  |
 | [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Hot Laundry](https://open.spotify.com/artist/0WzKbQgJdy366oUDAToP2x), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-05 |  |
 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-06-24 | 2022-11-12 |
@@ -252,6 +252,7 @@
 | [Tormenta](https://open.spotify.com/track/5FMhAFg7cJqXsBxZ50e59O) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Tormenta](https://open.spotify.com/album/76T2WNMoqGig23FC6ZEwEh) | 3:19 | 2021-12-10 | 2022-06-25 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [Trouble \(with Talk Show\)](https://open.spotify.com/track/4gPswM6V3BkFv0jXVm7lIP) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Trouble \(with Talk Show\)](https://open.spotify.com/album/5HCNTih9CVGnCUMwjepDjn) | 3:17 | 2022-04-01 | 2022-06-08 |
+| [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-02-03 |  |
 | [UH OH](https://open.spotify.com/track/05NuHlIajgAqYbzs6DNuHf) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [UH OH](https://open.spotify.com/album/7LlF6ZKs4lM3FUEDrqWmMp) | 3:15 | 2021-12-10 | 2022-04-20 |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-03-04 |  |
 | [Unbound](https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Unbound](https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi) | 3:47 | 2021-12-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 60999,
+  "num_followers": 61022,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MDYyMiwwMDAwMDAwMGJkYTRjMGQzZTliZTEyZTVkNGYwMTYyYmUwOWMwNDQz",
+  "snapshot_id": "MTY3MTU1MDYyMiwwMDAwMDAwMDBhMWY0NWNkOTlkNmZhY2RhY2M4NDAzZWM5ZTZlZDc1",
   "tracks": [
     {
       "added_at": "2022-12-20 15:37:02",
@@ -447,8 +447,8 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "Dear Butterfly",
-        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 305013,
-      "name": "Dear Butterfly",
-      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
+      "duration_ms": 279266,
+      "name": "\u604b\u306e\u304b\u3051\u3089",
+      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -663,8 +663,8 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+        "name": "Dear Butterfly",
+        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
       },
       "artists": [
         {
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 279266,
-      "name": "\u604b\u306e\u304b\u3051\u3089",
-      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
-    },
-    {
-      "added_at": "2022-12-20 15:37:02",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
-        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Monologue Note",
-      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
+      "duration_ms": 305013,
+      "name": "Dear Butterfly",
+      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -707,6 +691,22 @@
       "duration_ms": 269160,
       "name": "100%\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+    },
+    {
+      "added_at": "2022-12-20 15:37:02",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
+        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Monologue Note",
+      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
-        "name": "my 10plate",
-        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "my 10plate",
-      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
-    },
-    {
-      "added_at": "2022-12-20 15:37:02",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 261040,
       "name": "Endless",
       "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
+    },
+    {
+      "added_at": "2022-12-20 15:37:02",
+      "album": {
+        "name": "my 10plate",
+        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "my 10plate",
+      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
     },
     {
       "added_at": "2022-12-20 15:37:02",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-12-20 15:37:02",
       "album": {
+        "name": "Poisonous Gangster",
+        "url": "https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Poisonous Gangster",
+      "url": "https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3"
+    },
+    {
+      "added_at": "2022-12-20 15:37:02",
+      "album": {
         "name": "Heavenly Visitor / DIAMOND FUSION",
         "url": "https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 221506,
       "name": "DiSCOVER THE FUTURE",
       "url": "https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT"
-    },
-    {
-      "added_at": "2022-12-20 15:37:02",
-      "album": {
-        "name": "Poisonous Gangster",
-        "url": "https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Poisonous Gangster",
-      "url": "https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3"
     },
     {
       "added_at": "2022-12-20 15:37:02",

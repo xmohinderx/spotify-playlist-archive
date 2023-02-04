@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "We'r Gonna Have (a Good Time)",
+        "url": "https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191412,
+      "name": "We'r Gonna Have (a Good Time)",
+      "url": "https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF"
+    },
+    {
+      "album": {
         "name": "Why Not?",
         "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
       },

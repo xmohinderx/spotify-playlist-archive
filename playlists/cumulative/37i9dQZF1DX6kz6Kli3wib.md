@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-249 songs - 12 hr 15 min
+251 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2021-11-11 | 2022-09-02 |
 | [Citylights](https://open.spotify.com/track/6Sv69V6WY4k3Hx1SRipIaQ) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Citylights](https://open.spotify.com/album/7ofNEjZd1bFVHL7yBmOdXF) | 3:12 | 2021-11-11 | 2022-09-02 |
 | [Clarity Theory](https://open.spotify.com/track/77o9BHh69uAY6pPy51kmPi) | [Miami Midnight](https://open.spotify.com/artist/6QLCMhIYdyMmf3vU58Pv63) | [Clarity Theory](https://open.spotify.com/album/6v7fBS8eORyqJmHMORKsML) | 2:38 | 2021-11-11 | 2022-05-11 |
+| [Close 2 You](https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Close 2 You](https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1) | 2:40 | 2023-02-03 |  |
 | [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 |  |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 | 2022-02-11 |
@@ -170,6 +171,7 @@
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-09-09 |
 | [Oxygène](https://open.spotify.com/track/5kTovHt4kVbc0zbBTnH0Eb) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Oxygène](https://open.spotify.com/album/5PHIya5MLyIZBhfYVNfgGx) | 3:23 | 2022-05-10 |  |
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2021-11-11 |  |
+| [Packing](https://open.spotify.com/track/7oA7o9GBQfEI3kqST4Jnuf) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Packing](https://open.spotify.com/album/43RJIf3KRrDg92P6YTtwwR) | 2:17 | 2023-02-03 |  |
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2021-11-11 | 2022-02-11 |
 | [Peaches & Cream](https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Peaches & Cream](https://open.spotify.com/album/7jjZhJW3zP3kZ6mEQHHu74) | 3:36 | 2021-11-11 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 |  |
@@ -236,7 +238,7 @@
 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 | 2021-11-11 | 2022-01-22 |
 | [Two Night](https://open.spotify.com/track/5ZP4uY31dVgLtPngiGzfPG) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Two Night](https://open.spotify.com/album/61xzIak9frJJUpYuf8tBFK) | 3:20 | 2021-11-11 | 2022-05-20 |
 | [Two Nights](https://open.spotify.com/track/2h9uDnr4y7MKa2EDlCtNJ9) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Two Nights](https://open.spotify.com/album/61EzzLg6qT1vLCNMpMh4T7) | 3:25 | 2021-11-11 | 2022-01-22 |
-| [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-01-21 |  |
+| [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-01-21 | 2023-02-04 |
 | [Unfolding](https://open.spotify.com/track/02NPmYFlgDP3gv5NB8m0I0) | [Brière](https://open.spotify.com/artist/6aXUg2Sop4QZv01JPXDdy0) | [Unfolding](https://open.spotify.com/album/6pDqBvBOXwH60PInXbJCaM) | 2:57 | 2021-11-11 | 2022-04-15 |
 | [Up Through The Clouds](https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW) | [Antonne](https://open.spotify.com/artist/4aVCtWZXi66nIRjFglKHwH) | [Up Through The Clouds](https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3) | 3:58 | 2021-11-11 |  |
 | [Upside](https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0) | [Kriz Luna](https://open.spotify.com/artist/4J2cbs2Cl60uWpSxcpnrjV) | [Upside](https://open.spotify.com/album/40f0AIYOvhhmdsQbr6EH2z) | 3:15 | 2021-11-11 |  |

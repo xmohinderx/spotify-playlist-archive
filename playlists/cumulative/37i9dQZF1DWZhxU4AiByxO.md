@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-278 songs - 14 hr 2 min
+279 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 |  |
 | [Kings & Queens](https://open.spotify.com/track/0GpeAvK67XK1Dff4bPo4hL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/6zjy7j6pK9YnVRX2Q3Dv5N) | 2:26 | 2021-10-22 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 | 2022-07-28 |  |
+| [Kings & Queens](https://open.spotify.com/track/6UPXSrWmBo6nSBukG34Bvy) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Kings & Queens](https://open.spotify.com/album/01VRn9a3SNb3I8Yj06Ka53) | 2:39 | 2023-02-03 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-11-22 |  |
 | [Late Night Talking](https://open.spotify.com/track/4rA8RkOj52pRDXwEvusgr9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Late Night Talking](https://open.spotify.com/album/6sB8gCsJIAQs2gKeNkcfDk) | 2:55 | 2022-11-22 | 2022-11-24 |
 | [Let Me Love You](https://open.spotify.com/track/0OpIRcElndLLm7jiTAA8eE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:57 | 2022-07-28 |  |

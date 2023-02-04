@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Laura Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,515 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,528 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 26 | [Résurrection](https://open.spotify.com/track/5AIWc2iRAqajZIeboTMiKN) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Résurrection](https://open.spotify.com/album/0tWuRwuMkGgWBwXpgj2mwy) | 2:53 |
 | 27 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 |
 | 28 | [Laisse moi parler](https://open.spotify.com/track/5ToVd0is6zooP4SRrJIl1h) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Laisse moi parler](https://open.spotify.com/album/6NC7UTVutjBqXn5nZLMXgk) | 2:58 |
-| 29 | [Les copines](https://open.spotify.com/track/5N0CUQhUcmAv07oUmhO4qz) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Les copines](https://open.spotify.com/album/0Q5EgRpVmpdY1l8OkmQOqU) | 3:17 |
+| 29 | [Les copines](https://open.spotify.com/track/6L62m1qgmRFeNK0PcdU2AQ) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Les copines](https://open.spotify.com/album/1Dz8726PjXWRaMAJKEm2Um) | 3:17 |
 | 30 | [Chasser la nuit](https://open.spotify.com/track/3veYbZBWd7nB4sAc2hVyng) | [Buridane](https://open.spotify.com/artist/3ndD9AltDMsxCTqZNuuYaX) | [Chasser la nuit](https://open.spotify.com/album/4ZkzIGeAxUmWovGPchZUDb) | 5:01 |
 | 31 | [On s'en fout](https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:59 |
 | 32 | [Aside](https://open.spotify.com/track/5Fe9Bj6scJb9GDXbpyCb7q) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Aside](https://open.spotify.com/album/3riw3aRUSoj595rdQ7E4wP) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Extraordinaires](https://open.spotify.com/track/3tMjsLbbAae9rSDYPIp3LB) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Extraordinaires](https://open.spotify.com/album/7K95pF4vgSCs08spdf9r6i) | 2:54 |
 | 50 | [Vanité](https://open.spotify.com/track/27R2sErEgaKKKXCsh1cZj1) | [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Vanité](https://open.spotify.com/album/4x5PJs3AoEAFiz0cgAy04Q) | 2:26 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDg5MTEwZjJlOWYyNGI1NzhlY2JjYjFkYjU2ZTZiNWNm`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDdlMjZhYWU0YjRkNmE1OTcxMDU0ZDM1NmUzMTk2NDI2`

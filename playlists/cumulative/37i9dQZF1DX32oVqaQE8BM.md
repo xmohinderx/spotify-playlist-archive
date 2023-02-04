@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-496 songs - 21 hr 11 min
+498 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Don't Fall](https://open.spotify.com/track/0JCNrm6tZAnEdAIWQpVevl) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Rubus](https://open.spotify.com/artist/7jaMbya54ZRcqETDqAPv85) | [Don't Fall](https://open.spotify.com/album/76gmo70ondGPTnx14vHymw) | 2:00 | 2022-12-09 |  |
 | [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 | 2023-01-13 |  |
 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 | 2021-11-10 | 2022-07-08 |
+| [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 | 2023-02-03 |  |
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-05-11 |
 | [Dream of Me](https://open.spotify.com/track/4OOs6bwPRSnmVeItVeohy1) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Dream of Me](https://open.spotify.com/album/2IfT3GlwLojFrXGKweftm2) | 3:01 | 2022-12-16 |  |
 | [Dreamer \- Edit](https://open.spotify.com/track/1mY5s1cLyo6qJ96iEP0zIg) | [Tyoto](https://open.spotify.com/artist/724XK4okQo1F8MfmjngqIT) | [Dreamer \(Edit\)](https://open.spotify.com/album/6n2woLPkCCypL7lvq1zZbw) | 2:51 | 2021-11-10 | 2022-05-20 |
@@ -142,6 +143,7 @@
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 | 2022-10-29 |
 | [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 | 2022-06-17 |  |
 | [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 | 2022-06-17 |  |
+| [feeling lost](https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [feeling lost](https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN) | 2:18 | 2023-02-03 |  |
 | [Feels Like Flying](https://open.spotify.com/track/3RwFShfW7fauUMkqVuHXcB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [For The Legacy](https://open.spotify.com/album/4Dza5QXbUJXa9LLGiuud1v) | 1:48 | 2022-04-05 |  |
 | [Finding Answers](https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE) | [Kenobig](https://open.spotify.com/artist/1YKfjPgzeaza19zUC9ZZAp) | [Finding Answers](https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg) | 2:12 | 2022-12-16 |  |
 | [Firmament](https://open.spotify.com/track/31lD6OHrwsSOZH3oF3ne8w) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Firmament](https://open.spotify.com/album/5vjxVDeK0l4N7Driu78gGg) | 2:16 | 2021-11-10 | 2022-09-09 |

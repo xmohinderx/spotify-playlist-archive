@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels, with FiFi Zhang on cover\. Artwork by Rewina Beshue\. Updates every Wednesday.
+> The best new dance & electronic by independent artists and labels, with Daily Bread on cover\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-968 songs - 2 day 20 hr 24 min
+969 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Blur](https://open.spotify.com/track/1KS2WkfaaFNjFY67rD9I2o) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Blur / Inside](https://open.spotify.com/album/00FtjFv0ywSsmRmlHybKYR) | 4:14 | 2022-10-05 | 2022-10-27 |
 | [Blurred Horizon](https://open.spotify.com/track/6JJSBrOhPgeeoVPBzQ7yGB) | [Frankllin](https://open.spotify.com/artist/60O3861cpmpuxxtYhKuKkV) | [Triation, Vol\. IV](https://open.spotify.com/album/5mdUIYMx4tqtReDNMxe1v7) | 6:49 | 2022-01-12 | 2022-02-24 |
 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 | 2022-03-09 | 2022-04-14 |
-| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-18 |  |
+| [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 | 2023-01-18 |  |
+| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-18 | 2023-02-04 |
 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 | 2023-01-11 |  |
 | [Body](https://open.spotify.com/track/2GoBLL2O2mR2xJ6eqMqvoR) | [Nestor Neven](https://open.spotify.com/artist/04QHoBmUIROxR90nrEA18k), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Body](https://open.spotify.com/album/1MTyjHk48hlGuasquHejhn) | 2:24 | 2022-05-04 | 2022-06-16 |
 | [Body \- bosourd Remix](https://open.spotify.com/track/0eUJKsriu5I5YV3h4Tj0LA) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [bosourd](https://open.spotify.com/artist/71mfkNBItlibzUFACwbC4F) | [Body \- bosourd Remix](https://open.spotify.com/album/16H7PRkBXfo1FBRiFdBYi6) | 3:03 | 2022-07-06 | 2022-09-01 |

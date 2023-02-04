@@ -1339,6 +1339,54 @@
     },
     {
       "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/0ga1KDf2GQUPi5FPYNYwDX"
+      },
+      "artists": [
+        {
+          "name": "MIRRORCULT",
+          "url": "https://open.spotify.com/artist/61yWUrLXTYyKibCiEvjkjM"
+        },
+        {
+          "name": "ELECTRA",
+          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
+        },
+        {
+          "name": "phonk",
+          "url": "https://open.spotify.com/artist/5eo5rYwBYl5CquUttegooh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Bloody Mary - (Phonk Version)",
+      "url": "https://open.spotify.com/track/5N9D7bc5iH6TLNSIX4fAxD"
+    },
+    {
+      "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/0ga1KDf2GQUPi5FPYNYwDX"
+      },
+      "artists": [
+        {
+          "name": "MIRRORCULT",
+          "url": "https://open.spotify.com/artist/61yWUrLXTYyKibCiEvjkjM"
+        },
+        {
+          "name": "ELECTRA",
+          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Bloody Mary - (Trap Version)",
+      "url": "https://open.spotify.com/track/2SyBUij9c86g2bVbCuo50y"
+    },
+    {
+      "album": {
         "name": "BLOSSOM IN THE DARK",
         "url": "https://open.spotify.com/album/16LKoRq5Ly38HAbxDMiLzc"
       },
@@ -7332,6 +7380,32 @@
       "duration_ms": 221538,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6XpYBLiuIWAGoCVP3gc7Mw"
+      },
+      "artists": [
+        {
+          "name": "Dvddy",
+          "url": "https://open.spotify.com/artist/6Gnxo2IdtKi2isu0i6yFSl"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204804,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4GuaY90qGEUcGazDTzi0Hd"
     },
     {
       "album": {

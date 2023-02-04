@@ -191,24 +191,6 @@
     },
     {
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "date_added": "2022-11-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196352,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
-    },
-    {
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -264,6 +246,24 @@
       "duration_ms": 149276,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
+    },
+    {
+      "album": {
+        "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
+        "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196352,
+      "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
+      "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
     },
     {
       "album": {

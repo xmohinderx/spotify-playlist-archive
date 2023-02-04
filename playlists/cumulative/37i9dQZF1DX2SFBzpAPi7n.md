@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LEE SEUNG YOON\(이승윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YB\(윤도현밴드\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-449 songs - 1 day 3 hr 41 min
+450 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 | 2022-06-18 | 2022-06-21 |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2022-04-12 |  |
+| [Embrace](https://open.spotify.com/track/1aYbbNLHNm6DZqlB7bFM4O) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Promise](https://open.spotify.com/album/7e6PkMzboUpQPcnDiDQMOk) | 3:43 | 2023-02-04 |  |
 | [embraces 23 \(a shitty love song\)](https://open.spotify.com/track/4TZ3i7Ygmz1CwMpRX7FP0s) | [Asian Boys, Crying](https://open.spotify.com/artist/7v4aEnk9ERqYtpyGWsq28R) | [embraces 23 \(a shitty love song\)](https://open.spotify.com/album/3yX7O3n5VurkIJfTlJ5paf) | 4:30 | 2022-07-08 | 2022-07-22 |
 | [Empty](https://open.spotify.com/track/7s8nB4MpDIzwOdQZCOnDid) | [Simple Pages](https://open.spotify.com/artist/6XrO8Asxs9JhvyqGevLbFe) | [Empty](https://open.spotify.com/album/3fASRh16bMr1G12LqAGC3F) | 3:48 | 2022-07-04 | 2022-07-09 |
 | [End of Spring](https://open.spotify.com/track/6iYlLt7gqJh8g8MDZR0Vmz) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:29 | 2022-04-12 | 2022-07-14 |
@@ -155,7 +156,7 @@
 | [Hold Me Like It’s Forever](https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [Car](https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO), [The Garden](https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O) | [Midnight Candy](https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO) | 3:03 | 2022-05-11 | 2022-05-17 |
 | [Hollywood Dreaming](https://open.spotify.com/track/0FZsFe8LMDz2i5bywe6KPU) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1), [MKPBand](https://open.spotify.com/artist/7EvDe1CLV4Mydlm0rOpWS2) | [Hollywood Dreaming](https://open.spotify.com/album/7wK5BDnTw9pj7h1QNERdeN) | 3:01 | 2022-06-03 | 2022-06-06 |
 | [How I Feel](https://open.spotify.com/track/2vKSw5J9pYA6KS1qOPr1mZ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2UBqOAsDy3N791Ndn4lUWr) | 3:30 | 2022-05-03 | 2022-07-20 |
-| [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-26 |  |
+| [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-26 | 2023-02-04 |
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2022-05-03 | 2022-07-25 |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2022-07-26 |
 | [I Don’t Want To Live Without You](https://open.spotify.com/track/0OJmMcuSinPLXoWSb1MOLN) | [The Midnight Romance](https://open.spotify.com/artist/0pBFhZQVWFUZF6ChBiEsBi) | [I Don’t Want To Live Without You](https://open.spotify.com/album/1BzaYuNzCpY49BouMw53KL) | 4:56 | 2022-04-12 | 2022-05-16 |

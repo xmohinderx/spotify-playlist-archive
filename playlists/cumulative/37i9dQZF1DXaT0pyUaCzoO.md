@@ -4,7 +4,7 @@
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-80 songs - 5 hr 0 min
+81 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [I JUST WANNA LIVE](https://open.spotify.com/track/39LS7G7XuDR5yXnmZJ58C5) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX) | [I JUST WANNA LIVE](https://open.spotify.com/album/5jzehRkLXUpfbFs1XfCMZx) | 3:08 | 2021-02-12 |  |
 | [I'll Take You There](https://open.spotify.com/track/5xHfZxFBcMA2akGVMM1bdk) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Classics](https://open.spotify.com/album/7n799A9IQT4WVDPbXwVa7n) | 3:15 | 2020-07-06 |  |
 | [Juneteenth](https://open.spotify.com/track/6e5led2zaPD6zrFO3GQnoe) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Juneteenth](https://open.spotify.com/album/1AgegTeYysCwLMsukHiaJ0) | 3:10 | 2021-06-15 |  |
+| [Kings & Queens](https://open.spotify.com/track/6UPXSrWmBo6nSBukG34Bvy) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Kings & Queens](https://open.spotify.com/album/01VRn9a3SNb3I8Yj06Ka53) | 2:39 | 2023-02-03 |  |
 | [Let It Shine](https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth \(Expanded Edition\)](https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl) | 1:57 | 2020-07-06 |  |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/6QCaPlJFUAXAKEGuKi2lXi) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [America America](https://open.spotify.com/album/1He49DGuCac764ggQhnYbP) | 4:35 | 2020-07-06 |  |
 | [Little Black Boy, Little Black Girl](https://open.spotify.com/track/5vz3PFmxkhsPwuoztcVNMB) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:22 | 2021-06-18 |  |
@@ -74,9 +75,9 @@
 | [Shine \(Melanin Remix\)](https://open.spotify.com/track/50TDL8QolQktQwBTeqohd4) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Shine \(Melanin Remix\)](https://open.spotify.com/album/2ZMN3LSZifIY2jFWHD4M7U) | 4:14 | 2021-08-20 |  |
 | [Shine \- Remix](https://open.spotify.com/track/2efmVPD2EHWX55wTX7ysy7) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 4:15 | 2021-06-18 |  |
 | [Somebody’s Talking about Freedom](https://open.spotify.com/track/36OMJ0R9EVtdFzj1lzCdd5) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [African American Legacy Series: A Life of Song](https://open.spotify.com/album/6NpuzbeMOdtbPBWNHgNSxu) | 1:51 | 2020-07-06 |  |
-| [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 | 2020-07-06 | 2022-07-29 |
+| [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 | 2020-07-06 |  |
 | [Strength Courage & Wisdom](https://open.spotify.com/track/7IjfQIaYYcbuSRWXVk2dGd) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Family R&B](https://open.spotify.com/album/0tM9RV7esd0TcfOphblrrw) | 4:57 | 2020-07-06 | 2022-11-14 |
-| [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2020-07-06 |  |
+| [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2020-07-06 | 2023-02-04 |
 | [This Little Light of Mine](https://open.spotify.com/track/39r0wA2sENRd90ULAGVVgA) | [Brother Yusef](https://open.spotify.com/artist/2kT8MA43SEzcSxbmdU0nU1) | [Kids Get the Blues Too/Blues for Beginners](https://open.spotify.com/album/2rxTLS08n3ucc9sYjjChPT) | 2:26 | 2020-07-06 |  |
 | [Tomorrow \(A Better You, Better Me\)](https://open.spotify.com/track/4jYuAdVCOMkEQJWV2qvlj6) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 4:46 | 2020-07-06 |  |
 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 | 2020-07-06 |  |

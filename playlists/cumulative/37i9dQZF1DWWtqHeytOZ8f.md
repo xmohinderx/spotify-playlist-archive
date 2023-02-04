@@ -4,12 +4,14 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-554 songs - 2 day 0 hr 25 min
+556 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 | 2021-10-20 | 2023-02-03 |
+| [\#1](https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:27 | 2021-10-20 |  |
 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2021-10-20 | 2023-02-03 |
+| [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 | 2021-10-20 |  |
 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 | 2022-11-09 |  |
 | [...og lengra \- Orchestral Version](https://open.spotify.com/track/3l9lClq76p5PARSFPvaj1S) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [...og lengra \(Orchestral Version\)](https://open.spotify.com/album/2DJsCZ0wRj07W4H6JAiuly) | 3:48 | 2021-10-20 | 2022-04-18 |
 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 | 2021-10-20 | 2022-07-29 |
@@ -148,7 +150,7 @@
 | [Drifting](https://open.spotify.com/track/0xxbmcwp5gBUMdCyRrCQwU) | [ANDYL](https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80) | [Drifting](https://open.spotify.com/album/5xgkyekIXYVJrkxM7BPfxz) | 4:50 | 2021-10-20 | 2022-11-13 |
 | [Drifting](https://open.spotify.com/track/6XSLLT1QwdhekITVFp7OFa) | [ANDYL](https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80) | [Drifting](https://open.spotify.com/album/6qyPAGtkbteoII5q4sjJp4) | 4:50 | 2021-10-20 | 2022-07-29 |
 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 | 2021-10-20 |  |
-| [Drive It Like You Stole It \- Ambient Version](https://open.spotify.com/track/3WMTRr53rc5rsSQ3Qaefam) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 4:29 | 2021-10-20 |  |
+| [Drive It Like You Stole It \- Ambient Version](https://open.spotify.com/track/3WMTRr53rc5rsSQ3Qaefam) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 4:29 | 2021-10-20 | 2023-02-04 |
 | [Duet 3](https://open.spotify.com/track/0cSkiHcC4NddW0UD8uhaCw) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 9:36 | 2021-10-20 | 2022-07-29 |
 | [Dust Circles](https://open.spotify.com/track/1aP2qFyy1QUYJkWryKypCv) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Lifelike](https://open.spotify.com/album/5yOWC5VU94C69zUYliMGwy) | 5:17 | 2021-10-20 | 2022-08-20 |
 | [Dust Circles](https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Lifelike](https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx) | 5:17 | 2021-10-20 |  |
@@ -526,7 +528,7 @@
 | [Under Isen \(sunset ocean\)](https://open.spotify.com/track/0clbuYStWIt4imZXUMwxGI) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Under Isen](https://open.spotify.com/album/55r5c0ARy8AK2C73OotZJY) | 5:20 | 2021-10-28 | 2023-01-22 |
 | [Under the Stars](https://open.spotify.com/track/71VrO1SmxOLI6P5Tm2MqDr) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Beneath the Surface](https://open.spotify.com/album/18ItwCWGwQXWB7qQDGsVns) | 4:12 | 2021-10-20 | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-10-20 |  |
-| [Underwater Gold Dust.](https://open.spotify.com/track/6LVXZQt6g2cgjEsxk3Aumk) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/7ABprLLKlWJH7ZJ9qGuPLZ) | 3:27 | 2021-10-20 |  |
+| [Underwater Gold Dust.](https://open.spotify.com/track/6LVXZQt6g2cgjEsxk3Aumk) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/7ABprLLKlWJH7ZJ9qGuPLZ) | 3:27 | 2021-10-20 | 2023-02-04 |
 | [Underwater Gold Dust.](https://open.spotify.com/track/780pRBMF3QJvlgWKTi5JGt) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/3pVpwlqYLMy2c3k6KAimw1) | 3:27 | 2021-10-20 | 2022-07-25 |
 | [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-20 |  |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-20 | 2022-06-29 |

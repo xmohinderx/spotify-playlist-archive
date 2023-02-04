@@ -4,12 +4,12 @@
 
 > Acoustic and roots music gems.
 
-342 songs - 21 hr 15 min
+343 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Petal Here, a Petal There](https://open.spotify.com/track/4i3QIg75ryI3X7N06zlhiI) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:26 | 2021-12-10 | 2022-07-22 |
-| [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-06-08 |  |
+| [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-06-08 | 2023-02-04 |
 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 | 2022-06-08 | 2023-01-28 |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-12-02 |  |
 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2021-12-10 | 2022-12-04 |
@@ -329,6 +329,7 @@
 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 | 2022-06-08 | 2022-07-29 |
 | [Wayside](https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/6PuVP3H5LwsKWUy9wytMVo) | 2:37 | 2021-12-10 | 2022-07-27 |
 | [Whale Song](https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [I'll Be Here When the Moon Is Tired](https://open.spotify.com/album/3QnQLNyIkyjrhUfqfheYhO) | 2:38 | 2021-12-10 | 2022-11-13 |
+| [Whale Song](https://open.spotify.com/track/317gXFDkNwzfad0iXcMPgu) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [I'll Be Here When the Moon Is Tired](https://open.spotify.com/album/51oEgB9odlJYWL6sdZeMXp) | 2:38 | 2023-01-27 |  |
 | [What Do You Want From Yourself?](https://open.spotify.com/track/09oOCufbDX2MHXzOXCHgRF) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 4:03 | 2022-01-21 | 2022-06-09 |
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7) | 3:55 | 2021-12-10 | 2022-07-15 |
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-06-08 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-203 songs - 11 hr 11 min
+204 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Christmas Trees In Rain](https://open.spotify.com/track/3LWDAisPvTSwPY1yDekJ4h) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Christmas Trees In Rain](https://open.spotify.com/album/7DIfJbxj5P6nW3NOuAEhhc) | 3:06 | 2021-11-12 | 2022-07-28 |
 | [Christmas Without You](https://open.spotify.com/track/267kRsUEcJoUyGHN7un0mo) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Christmas Without You](https://open.spotify.com/album/2G4xZw2aWxW1v6Ksw5QsHA) | 3:36 | 2021-11-12 | 2022-07-22 |
 | [Christmas Wrapping \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0V7gEKezonapBWqtRLj3yj) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Spotify Singles \- Holiday](https://open.spotify.com/album/417lgc1opyokWWmF2F7Wca) | 3:13 | 2021-11-12 | 2022-07-28 |
-| [Christmas, Hopefully](https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J) | 4:01 | 2022-12-23 |  |
+| [Christmas, Hopefully](https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J) | 4:01 | 2022-12-23 | 2023-02-04 |
 | [Christmas, Hopefully](https://open.spotify.com/track/1McvpCNx2uhJpZKNuPPfOz) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/3nRhv1zzvCD0x6u13SepBY) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Christmastime Is Here](https://open.spotify.com/track/7Muh7s7M9WhO9Zg2FoCyHb) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Christmastime Is Here](https://open.spotify.com/album/2Va7ruJJJHaCdAJ4r2xEjd) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/2VZFlunJX12zxbSrzMiDp2) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:05 | 2022-11-08 |  |
@@ -159,6 +159,7 @@
 | [Silent Night](https://open.spotify.com/track/0NVk0WwXd7bZG2jpKgFEeS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/2uV3toNhIWZJx63And14NO) | 2:36 | 2022-12-23 | 2023-01-24 |
 | [Silent Night](https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/0uCK9gB2Qc25UJZ23AcWnM) | 2:36 | 2021-11-12 | 2022-07-29 |
 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 |  |
+| [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 | 2022-12-23 |  |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-21 |  |
 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Someone to Spend Christmas With](https://open.spotify.com/track/3eJp4DzlpCrP6TNCTBOng2) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Someone to Spend Christmas With](https://open.spotify.com/album/01muwahIzp9KIyxf0MkWo5) | 4:02 | 2021-11-12 | 2022-07-27 |

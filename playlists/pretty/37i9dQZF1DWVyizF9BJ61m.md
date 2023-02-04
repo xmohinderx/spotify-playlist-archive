@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,253 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,452 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 46 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 |
 | 47 | [Hyena](https://open.spotify.com/track/0jSguy4oZzcqvIzujr2pVP) | [Jamshied Sharifi](https://open.spotify.com/artist/33MqkNoziqq49iXwazk71o) | [Footsteps in Africa \- The Soundtrack](https://open.spotify.com/album/2Y7nG4LCOytZPetc1mnSC1) | 2:53 |
 | 48 | [Fafa](https://open.spotify.com/track/67raFTzuOzVFZyEYxbiMxL) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Fondo](https://open.spotify.com/album/5s7tHRjskQPKJuncgURrIz) | 5:03 |
-| 49 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
-| 50 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
+| 49 | [Meritlhoana](https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq) | [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Meritlhoana](https://open.spotify.com/album/2BzAIEggWAPQPn6sZm2b7q) | 7:11 |
+| 50 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDYxMGQwMmQ2MTdlMjZmMGViOTUzYTNlYTRkZWZmZGZl`
+Snapshot ID: `MTY3NTQyMDA0NCwwMDAwMDAwMGQwNzA5MGUxYjQ1OGQzODZhNDUxMDA4Nzk2YThjNDI4`

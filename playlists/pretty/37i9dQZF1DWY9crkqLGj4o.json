@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 326998,
+  "num_followers": 327338,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMGRmODU0MGNlZWI2ZTY2YmM5ZGU3NTY1YzdlMGEzZGEw",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDZhMTUxMjE1MWVmNmRhOTg4Nzc2MWRhZDQxODYzY2Q1",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Enche-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 669421,
+      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "O Fogo Nunca Dorme",
         "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 343344,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 669421,
-      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Toque no Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 324853,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 271209,
       "name": "Deus \u00e9 Deus",
       "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Toque no Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 324853,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Mesmo Sem Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "15 Anos (ao Vivo)",
         "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Mesmo Sem Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
-      },
-      "artists": [
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Marca da Promessa",
         "url": "https://open.spotify.com/album/2ZXfO81fbFK9PJLNT1qjFz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 349266,
       "name": "Sobre as \u00c1guas - Ao Vivo",
       "url": "https://open.spotify.com/track/78jqNs62Tfo3sIxCL2IIpI"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "Minha Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
         }
       ],
-      "duration_ms": 411000,
-      "name": "Minha Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     }
   ],
   "unique_name": "Louvando e Lou\u00e7a",

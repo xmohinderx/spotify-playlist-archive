@@ -1,33 +1,13 @@
 {
   "description": "East Africa Queens in their music bag",
-  "num_followers": 2213,
+  "num_followers": 2217,
   "original_name": "Malkia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwMzM0NSwwMDAwMDAwMGY1ZDg2YTg2ZjI1NGFjNDliNDEyMzBlZTlhYzUzMTFk",
+  "snapshot_id": "MTY3NTQxOTg2MSwwMDAwMDAwMGViZDc4ODc3OWRjNWU1OWE0ZWY0YWE1NGFmODFlYWU0",
   "tracks": [
-    {
-      "added_at": "2022-12-16 11:18:45",
-      "album": {
-        "name": "Matozo",
-        "url": "https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog"
-      },
-      "artists": [
-        {
-          "name": "Lady Jaydee",
-          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
-        },
-        {
-          "name": "Rama Dee",
-          "url": "https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks"
-        }
-      ],
-      "duration_ms": 141853,
-      "name": "Matozo",
-      "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
-    },
     {
       "added_at": "2023-01-16 08:15:30",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 135464,
       "name": "Personal",
       "url": "https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT"
+    },
+    {
+      "added_at": "2022-12-16 11:18:45",
+      "album": {
+        "name": "Matozo",
+        "url": "https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog"
+      },
+      "artists": [
+        {
+          "name": "Lady Jaydee",
+          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
+        },
+        {
+          "name": "Rama Dee",
+          "url": "https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks"
+        }
+      ],
+      "duration_ms": 141853,
+      "name": "Matozo",
+      "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
     },
     {
       "added_at": "2022-10-13 20:59:00",
@@ -111,6 +111,22 @@
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
+    },
+    {
+      "added_at": "2023-02-03 10:24:21",
+      "album": {
+        "name": "Sepa",
+        "url": "https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml"
+      },
+      "artists": [
+        {
+          "name": "Appy",
+          "url": "https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv"
+        }
+      ],
+      "duration_ms": 184020,
+      "name": "Sepa",
+      "url": "https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -695,6 +711,158 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Ndaga",
+        "url": "https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7"
+      },
+      "artists": [
+        {
+          "name": "Irene Ntale",
+          "url": "https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W"
+        }
+      ],
+      "duration_ms": 192966,
+      "name": "Ndaga",
+      "url": "https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Praises to Mama",
+        "url": "https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH"
+      },
+      "artists": [
+        {
+          "name": "Cathy Matete",
+          "url": "https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Praises to Mama",
+      "url": "https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Love Ballad No. 3",
+      "url": "https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Unanikosha",
+        "url": "https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu"
+      },
+      "artists": [
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        }
+      ],
+      "duration_ms": 182569,
+      "name": "Unanikosha",
+      "url": "https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t"
+    },
+    {
+      "added_at": "2022-09-08 20:59:00",
+      "album": {
+        "name": "Osobola",
+        "url": "https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC"
+      },
+      "artists": [
+        {
+          "name": "Emilian Starz",
+          "url": "https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "Toola",
+      "url": "https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw"
+      },
+      "artists": [
+        {
+          "name": "Izabell",
+          "url": "https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al"
+        },
+        {
+          "name": "Kriminell Kunst",
+          "url": "https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC"
+        }
+      ],
+      "duration_ms": 208883,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt"
+      },
+      "artists": [
+        {
+          "name": "Mwiyeria Ess",
+          "url": "https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im"
+        }
+      ],
+      "duration_ms": 239177,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo"
+    },
+    {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "NYUMBANI",
+        "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "duration_ms": 120960,
+      "name": "Nyumbani",
+      "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
         "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
         "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
       },
@@ -863,174 +1031,6 @@
       "duration_ms": 196954,
       "name": "Ningwetele",
       "url": "https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Ndaga",
-        "url": "https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7"
-      },
-      "artists": [
-        {
-          "name": "Irene Ntale",
-          "url": "https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W"
-        }
-      ],
-      "duration_ms": 192966,
-      "name": "Ndaga",
-      "url": "https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Praises to Mama",
-        "url": "https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH"
-      },
-      "artists": [
-        {
-          "name": "Cathy Matete",
-          "url": "https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Praises to Mama",
-      "url": "https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
-      },
-      "artists": [
-        {
-          "name": "Muthaka",
-          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Love Ballad No. 3",
-      "url": "https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Unanikosha",
-        "url": "https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu"
-      },
-      "artists": [
-        {
-          "name": "Jovial",
-          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
-        }
-      ],
-      "duration_ms": 182569,
-      "name": "Unanikosha",
-      "url": "https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t"
-    },
-    {
-      "added_at": "2022-09-08 20:59:00",
-      "album": {
-        "name": "Osobola",
-        "url": "https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC"
-      },
-      "artists": [
-        {
-          "name": "Emilian Starz",
-          "url": "https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "Toola",
-      "url": "https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw"
-      },
-      "artists": [
-        {
-          "name": "Izabell",
-          "url": "https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al"
-        },
-        {
-          "name": "Kriminell Kunst",
-          "url": "https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC"
-        }
-      ],
-      "duration_ms": 208883,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt"
-      },
-      "artists": [
-        {
-          "name": "Mwiyeria Ess",
-          "url": "https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im"
-        }
-      ],
-      "duration_ms": 239177,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo"
-    },
-    {
-      "added_at": "2022-09-01 20:59:00",
-      "album": {
-        "name": "NYUMBANI",
-        "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "Amara Tari",
-          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Nyumbani",
-      "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     }
   ],
   "unique_name": "Malkia",

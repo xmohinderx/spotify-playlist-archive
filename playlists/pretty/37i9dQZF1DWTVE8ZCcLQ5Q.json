@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421308,
+  "num_followers": 421311,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDE1MjA5YWExOGJhOGY2NzJmMTJiOTliYTVlMWFlMjUz",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDUwOTk2Zjc1M2U1N2Y2YzczYWY2M2MyN2NlYzYzM2Mw",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 158057,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -748,7 +748,7 @@
       },
       "artists": [
         {
-          "name": "slipmami",
+          "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "BXD IN JAZZ",
         "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-10-14 20:28:37",

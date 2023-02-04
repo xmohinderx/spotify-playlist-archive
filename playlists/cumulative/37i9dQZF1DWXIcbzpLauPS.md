@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: August Burns Red
 
-627 songs - 1 day 15 hr 37 min
+630 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-17 | 2022-07-23 |
 | [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 | 2022-07-22 | 2022-10-24 |
-| [Elysium](https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Elysium](https://open.spotify.com/album/5NIeT2mluYPgmRyFevja1E) | 4:48 | 2022-12-16 |  |
+| [Elysium](https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Elysium](https://open.spotify.com/album/5NIeT2mluYPgmRyFevja1E) | 4:48 | 2022-12-16 | 2023-02-04 |
 | [Emerald](https://open.spotify.com/track/6M6uFcep2f8DhHz4RNoBvJ) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe) | [Emerald](https://open.spotify.com/album/0Ikr6a0Sd5SUazxtxsVNJ8) | 4:45 | 2022-07-13 | 2022-07-19 |
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2022-07-13 | 2022-07-23 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2022-07-13 | 2022-07-23 |
@@ -295,6 +295,7 @@
 | [Illusive Obsession](https://open.spotify.com/track/2YkSmJa5jtPuf3QKzQ9K7M) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Illusive Obsession](https://open.spotify.com/album/7GUg5PW2SOoowXQXLarO4G) | 4:47 | 2022-07-13 | 2022-07-16 |
 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-27 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |
+| [Immolation of Night](https://open.spotify.com/track/3OOeWlT6cQYNbdJ4qcBipL) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Immolation of Night](https://open.spotify.com/album/0DumP1DzkNR7b0uIASVDcy) | 3:50 | 2023-02-03 |  |
 | [IMPULSE](https://open.spotify.com/track/7LTOk9k8HowxRLNtATbsMJ) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [IMPULSE](https://open.spotify.com/album/6IoVKkqQUwIjbkQhDJSAF1) | 2:37 | 2022-07-13 | 2022-07-15 |
 | [In Our Heads](https://open.spotify.com/track/4IqJhaaZ1W12dy2fcIqkRB) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [In the Eye of Death We Are All the Same](https://open.spotify.com/album/1xpskdc0hJr2pKd0nkMhDW) | 3:31 | 2022-07-13 | 2022-07-18 |
 | [In Return, I Shed My Flesh](https://open.spotify.com/track/1imwJrRg0hgDd0IQRAHxao) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Quietus](https://open.spotify.com/album/1LYviZS72HcPQaaH52LtNC) | 4:07 | 2022-07-13 | 2022-07-23 |
@@ -433,7 +434,7 @@
 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 | 2022-06-10 | 2022-10-19 |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2022-07-13 | 2022-07-19 |
 | [Psalm of Agony](https://open.spotify.com/track/5uQadwUb80JnombUNJ3aJ1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Psalm of Agony](https://open.spotify.com/album/4T9StwfDCVyX6C9B0XYQqe) | 6:52 | 2022-07-13 | 2022-07-23 |
-| [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 | 2022-05-13 |  |
+| [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 | 2022-05-13 | 2023-02-04 |
 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 | 2022-07-08 |  |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2021-12-17 | 2022-07-23 |
 | [Purple Static](https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Purple Static](https://open.spotify.com/album/3SeMw7HoiSTnsc4sDr9tF9) | 3:49 | 2021-12-17 | 2022-02-18 |
@@ -453,6 +454,7 @@
 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 | 2022-07-08 | 2023-01-06 |
 | [Reflections of a Monster](https://open.spotify.com/track/271q2bXjvyjZCL7wiTQXVk) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Reflections of a Monster](https://open.spotify.com/album/6ZPFa0dwjstnXkroKXM16j) | 3:59 | 2022-07-13 | 2022-07-15 |
 | [Remember East Mercer](https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8) | [Vatic](https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS) | [Mercer 217](https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88) | 3:51 | 2022-10-21 |  |
+| [Remember Me](https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Remember Me](https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ) | 4:04 | 2023-02-03 |  |
 | [Remember Me](https://open.spotify.com/track/0ikvtIegu5Yh9vOOhCkc5L) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Remember Me](https://open.spotify.com/album/5I3SxQcAEwoiiE6GQw2Ngz) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 | 2022-07-13 | 2022-07-23 |
 | [Renegades](https://open.spotify.com/track/0tm8cNgXGRRwPur5q8qdUg) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Renegades](https://open.spotify.com/album/6CK1Dz5AfmgecgPtPyoaKL) | 3:42 | 2022-03-18 | 2022-05-21 |
@@ -604,6 +606,7 @@
 | [Voices](https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Voices](https://open.spotify.com/album/65HY54OfEyWDdtm2zFi8uF) | 2:53 | 2021-12-17 | 2022-04-02 |
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-07-13 | 2022-07-22 |
 | [Void](https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo) | 2:43 | 2021-12-17 | 2022-02-18 |
+| [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-03 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |

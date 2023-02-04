@@ -4,7 +4,7 @@
 
 > The best side! Cover: Mount Westmore
 
-111 songs - 8 hr 13 min
+112 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ain't No Fun \(If the Homies Cant Have None\) \(feat\. Nate Dogg, Warren G & Kurupt\)](https://open.spotify.com/track/4rLpAOk5KVNcqEMK3m6Lje) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [Doggystyle](https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM) | 4:06 | 2020-05-04 | 2022-07-29 |
 | [All About U \(ft\. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati\)](https://open.spotify.com/track/6tYL1tBaqTcaqXIykzfF7M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yani Hadati](https://open.spotify.com/artist/5LeeuJrsH0LDgVTQikx0eF), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Fatal](https://open.spotify.com/artist/7Kk52c4QPzzgXzsrce4rSF) | [All Eyez On Me](https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee) | 4:36 | 2021-02-01 | 2022-02-12 |
 | [Ambitionz Az A Ridah](https://open.spotify.com/track/3ssX20QT5c3nA9wk78V1LQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi) | 4:38 | 2020-05-04 | 2022-02-12 |
-| [Back in the Day \- Remix](https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P) | [Ahmad Lewis](https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI) | [Ahmad](https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT) | 5:03 | 2022-02-11 |  |
+| [Back in the Day \- Remix](https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P) | [Ahmad Lewis](https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI) | [Ahmad](https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT) | 5:03 | 2022-02-11 | 2023-02-04 |
 | [Backyard Boogie](https://open.spotify.com/track/0Bbd5inN2znpGQkxZbqmmU) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob) | [Based On A True Story](https://open.spotify.com/album/0i7KKsfzuGq5Awx5CBfxRH) | 4:19 | 2021-08-27 | 2022-02-12 |
 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 | 2021-08-27 | 2022-02-12 |
 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 | 2022-10-25 |  |
@@ -39,6 +39,7 @@
 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 | 2021-08-27 |  |
 | [Forgot About Dre](https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:42 | 2021-08-27 | 2022-02-12 |
 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 | 2020-05-04 | 2022-02-12 |
+| [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 | 2022-12-09 |  |
 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 4:52 | 2020-05-04 | 2022-07-28 |
 | [G'd Up](https://open.spotify.com/track/1zIXpzuCC7FM4kECt2eEzu) | [Tha Eastsidaz](https://open.spotify.com/artist/51FyBBOW464toW099BsW8z), [Butch Cassidy](https://open.spotify.com/artist/3uISNNuONokIh21KiNharS) | [Snoop Dogg Presents Tha Eastsidaz](https://open.spotify.com/album/3xazCuE8vBmfptpeX0OkXs) | 4:33 | 2021-08-27 | 2022-02-12 |
 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 | 2021-08-27 | 2022-02-12 |

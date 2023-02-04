@@ -1,15 +1,63 @@
 {
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Paula Cendejas",
-  "num_followers": 934,
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: RENEE",
+  "num_followers": 969,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzgxNSwwMDAwMDAwMGVmNjllYTU2ZDQxYjQwM2RlMGQzMGQ4ZjJjMGJkZTE4",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGVlZjg4YTI3MTQ3YzU2OWZlMTExNjFlNTRjNTNiOTdj",
   "tracks": [
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 113440,
+      "name": "No Me Digas Qu\u00e9 Hacer",
+      "url": "https://open.spotify.com/track/1fBip2frsNLgliGzaZiYeI"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/4uijW6H7ftPNzqde22mtWJ"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/7FrIwW1zNftXszQLSyCKtz"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
@@ -81,7 +129,7 @@
       "url": "https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
@@ -101,7 +149,7 @@
       "url": "https://open.spotify.com/track/4px78vJGkCKD6khhA8CUBp"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/47KpZS0JzglRFY7C9nRKMR"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Los Due\u00f1os De La Playa",
         "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Los Due\u00f1os De La Playa",
         "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/4zddWTgblKVFEeElQ6SRnS"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "C\u00f3mo Voy a Olvidarte",
         "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/50naDXYjnGlLgrE7yUxsok"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/1rrdKyAxsRnsBwUqQ9fD6U"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/5gytb5eqPOLdw7aqXEFVTT"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/0GdqbyaFyhO2oTzPBeC7ow"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
@@ -349,7 +397,7 @@
       "url": "https://open.spotify.com/track/3c371x88u28PmYZwvYNYF1"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/6QgI6TCwZFu0Z4jxgnVhKn"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/2zmue4FlRe9CsuNX0HbU98"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Asim\u00e9trico",
         "url": "https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/0v8w8V48lEUeNNMpxZvBR9"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Asim\u00e9trico",
         "url": "https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn"
@@ -417,7 +465,7 @@
       "url": "https://open.spotify.com/track/0soegYzbHsSghfKiiqzLiX"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Asim\u00e9trico",
         "url": "https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/4EV0UgwSBQm0u1F4y6nPMT"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/0dj7NHntvak92aA4Ubyyye"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/44nKSGMNqVFV6a60skPUad"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
@@ -617,7 +665,7 @@
       "url": "https://open.spotify.com/track/4u3vvLgg6AVkdhitdzA0RG"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
@@ -677,7 +725,7 @@
       "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/14uatjtUxCp76wlN5qtWEj"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
@@ -773,7 +821,7 @@
       "url": "https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -789,7 +837,7 @@
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/19iUrnYyBAG5LaxT72ajsM"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -825,7 +873,7 @@
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
@@ -873,7 +921,7 @@
       "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
@@ -893,7 +941,7 @@
       "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
@@ -909,7 +957,7 @@
       "url": "https://open.spotify.com/track/2h5MjaqDZmazfJGyOe48Y0"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
@@ -925,7 +973,7 @@
       "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La cuarta hoja",
         "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
@@ -945,7 +993,7 @@
       "url": "https://open.spotify.com/track/0irijtfZQ6fRZcvkGDrBpx"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La cuarta hoja",
         "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
@@ -965,7 +1013,7 @@
       "url": "https://open.spotify.com/track/20NeR3CwuyGfRktTncKRU7"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "La cuarta hoja",
         "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
@@ -985,7 +1033,7 @@
       "url": "https://open.spotify.com/track/68XBk9NDtBRYN5E52b3OHf"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
@@ -1005,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7ckRKkbipJ58Va3SSuGSB4"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
@@ -1025,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4eElSQrNzpkkH9lh11C1oS"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
@@ -1061,7 +1109,7 @@
       "url": "https://open.spotify.com/track/34SjSaS44EzxtbAxWmR6TC"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
@@ -1081,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2jrhRFsaeoZsynTTMXtVs5"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
@@ -1097,7 +1145,7 @@
       "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
@@ -1113,7 +1161,7 @@
       "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
@@ -1133,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
@@ -1149,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "@dannocean2",
         "url": "https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h"
@@ -1169,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6WyoiYwvve3YYtX99DLR5t"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "@dannocean2",
         "url": "https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h"
@@ -1189,7 +1237,7 @@
       "url": "https://open.spotify.com/track/6WvOAqhYXXfxWWN8BTEQyX"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "@dannocean2",
         "url": "https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h"
@@ -1209,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6GlVwkm84Gygt5G6yLsDnv"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
@@ -1225,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
@@ -1241,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR"
     },
     {
-      "added_at": "2023-01-27 16:43:35",
+      "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"

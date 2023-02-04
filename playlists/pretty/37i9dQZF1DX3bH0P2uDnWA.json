@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 327055,
+  "num_followers": 327210,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDFhZmVlMGYwZWNmMjBjNTIzNmZiYTA3MmFjZWY5ZDhm",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDZkYzM0MjQ2ZWNhNDZjMjQ2MmM0YWY5ZWI5ODA0MDM3",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Pressure (Klisch\u00e9e Remix)",
@@ -419,6 +403,22 @@
       "duration_ms": 203933,
       "name": "Pressure - Klisch\u00e9e Remix",
       "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -483,6 +483,22 @@
       "duration_ms": 178282,
       "name": "Laisse-Toi Tomber",
       "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Bend the Rules",
+        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Swing It Like Roger",
+      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -553,26 +569,6 @@
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Candy Girl",
-        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Vallemarie",
-          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
-        }
-      ],
-      "duration_ms": 162075,
-      "name": "Candy Girl",
-      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Love!",
@@ -591,18 +587,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Bend the Rules",
-        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
+        "name": "Mambo Rap",
+        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
       },
       "artists": [
         {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Swing It Like Roger",
-      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
+      "duration_ms": 203946,
+      "name": "Mambo Rap",
+      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -659,6 +655,22 @@
       "duration_ms": 236129,
       "name": "Posture - Wolfgang Lohr Remix",
       "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mais Non (1920 Version)",
+        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "Mais Non - 1920 Version",
+      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -721,6 +733,26 @@
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
     },
     {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Candy Girl",
+        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Vallemarie",
+          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
+        }
+      ],
+      "duration_ms": 162075,
+      "name": "Candy Girl",
+      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "No Swinggity",
@@ -735,38 +767,6 @@
       "duration_ms": 211520,
       "name": "No Swinggity",
       "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Mais Non (1920 Version)",
-        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "Mais Non - 1920 Version",
-      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Mambo Rap",
-        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mambo Rap",
-      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
     },
     {
       "added_at": "2023-01-20 05:01:00",
@@ -803,6 +803,38 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Brass Devil",
+        "url": "https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 232431,
+      "name": "Brass Devil",
+      "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Shocking Miss Emerald The Remixes",
         "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
       },
@@ -819,22 +851,6 @@
       "duration_ms": 207531,
       "name": "Pack Up The Louie - Caravan Palace Remix",
       "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -925,38 +941,6 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Brass Devil",
-        "url": "https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 232431,
-      "name": "Brass Devil",
-      "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Parla pi\u00f9 piano / In cerca di te",
@@ -975,22 +959,6 @@
       "duration_ms": 168387,
       "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Love Us a Ruckus",
-        "url": "https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 244202,
-      "name": "Love Us a Ruckus",
-      "url": "https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -1063,6 +1031,22 @@
       "duration_ms": 202946,
       "name": "Hep Cat Boogie",
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1297,22 +1281,6 @@
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Re-Charleston (Electro Swing)",
-        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Re-Charleston (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
-    },
-    {
       "added_at": "2021-05-28 04:00:00",
       "album": {
         "name": "Chicago",
@@ -1347,6 +1315,38 @@
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Re-Charleston (Electro Swing)",
+        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Re-Charleston (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     }
   ],
   "unique_name": "Electro Swing",

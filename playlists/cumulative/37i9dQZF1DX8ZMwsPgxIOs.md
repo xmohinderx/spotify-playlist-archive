@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Yazzus
 
-171 songs - 14 hr 39 min
+172 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2022-07-14 | 2022-11-11 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-10-13 |  |
 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 | 2022-04-15 |  |
-| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-20 |  |
+| [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 | 2023-01-20 |  |
+| [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-20 | 2023-02-04 |
 | [Bodies Of Water](https://open.spotify.com/track/3b8b4TaeU6eRbWPhMKWold) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Bodies Of Water](https://open.spotify.com/album/6alqpbqcg6wlWbgV9uloU3) | 5:04 | 2022-11-11 | 2022-11-13 |
 | [Bodies Of Water](https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Bodies Of Water](https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY) | 5:04 | 2022-04-15 | 2022-07-29 |
 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 | 2022-07-14 |  |

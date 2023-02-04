@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3M9fvySvpsmnWrCfpVLWr8"
+      },
+      "artists": [
+        {
+          "name": "Max Benton",
+          "url": "https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180901,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/4hf0kDIz99TEAhNSRDJoWo"
+    },
+    {
+      "album": {
         "name": "Falling Autumn Leaves",
         "url": "https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S"
       },
@@ -1302,6 +1320,24 @@
       "duration_ms": 185074,
       "name": "Poj\u010f se mnou",
       "url": "https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk"
+    },
+    {
+      "album": {
+        "name": "Positive Thinking",
+        "url": "https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0"
+      },
+      "artists": [
+        {
+          "name": "Noor Alston",
+          "url": "https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "Positive Thinking",
+      "url": "https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7"
     },
     {
       "album": {

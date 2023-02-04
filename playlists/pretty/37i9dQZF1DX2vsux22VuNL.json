@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: MC Cabelinho",
-  "num_followers": 252202,
+  "num_followers": 252438,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDdmY2U5NzBiNTRkODUyZTU5ZTBkZGU0NTFlY2ZiNWFi",
+  "snapshot_id": "MTY3NTQyNzkzMiwwMDAwMDAwMDhhZTdjZjYyZTc5NzM2NjllMTMwYjE5NzNiOWI5YjYw",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -31,6 +31,50 @@
       "duration_ms": 154694,
       "name": "MINHA CURA",
       "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Manual de Como Amar Errado",
+        "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cora\u00e7\u00e3o de Gelo",
+      "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Sozinha",
+      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -91,30 +135,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Te Amar Demais",
+        "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Sozinha",
-      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
+      "duration_ms": 131970,
+      "name": "Te Amar Demais",
+      "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -143,46 +175,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Puto de Luxo",
-        "url": "https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Puto de Luxo",
-      "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Manual de Como Amar Errado",
-        "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Cora\u00e7\u00e3o de Gelo",
-      "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Modo Repeat",
         "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
       },
@@ -203,18 +195,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Te Amar Demais",
-        "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
+        "name": "Puto de Luxo",
+        "url": "https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5"
       },
       "artists": [
         {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 131970,
-      "name": "Te Amar Demais",
-      "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+      "duration_ms": 144186,
+      "name": "Puto de Luxo",
+      "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -291,6 +291,50 @@
       "duration_ms": 122777,
       "name": "Desligado",
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
+    },
+    {
+      "added_at": "2023-02-04 00:51:07",
+      "album": {
+        "name": "Poesia Ac\u00fastica - Lisboa",
+        "url": "https://open.spotify.com/album/7lkw2vUf9rmWU3LQP6qXVW"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        }
+      ],
+      "duration_ms": 315652,
+      "name": "Poesia Ac\u00fastica - Lisboa",
+      "url": "https://open.spotify.com/track/0xYOVTHZVSvZBUQgCybH9b"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -609,6 +653,22 @@
       "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
     },
     {
+      "added_at": "2023-02-04 00:51:07",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Pisciano",
+        "url": "https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "Cora\u00e7\u00e3o Pisciano",
+      "url": "https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba"
+    },
+    {
       "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Domingo",
@@ -727,22 +787,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Posturada",
-        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 176064,
-      "name": "Posturada",
-      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Vem Pra C\u00e1",
         "url": "https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF"
       },
@@ -771,6 +815,22 @@
       "duration_ms": 233328,
       "name": "Vem Pra C\u00e1",
       "url": "https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Posturada",
+        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "duration_ms": 176064,
+      "name": "Posturada",
+      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1071,26 +1131,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Joga Menino",
-        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Dj Paulo Beck",
-          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Joga Menino",
-      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Flores e Ra\u00edzes",
         "url": "https://open.spotify.com/album/0mrcfLnnlLOFUuDSZTDc7C"
       },
@@ -1135,6 +1175,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Joga Menino",
+        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Dj Paulo Beck",
+          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Joga Menino",
+      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1159,22 +1219,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Melhor Que Ontem",
-      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -1191,6 +1235,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Melhor Que Ontem",
+      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Dire\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0dbn2sheleIRVpaThz9Vdy"
       },
@@ -1203,30 +1263,6 @@
       "duration_ms": 141052,
       "name": "Dire\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/45NQoSZq9wCX26LCXcG5Bf"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "SIGO REAL",
-        "url": "https://open.spotify.com/album/1sSANSGpdcjSWhIZOP4Q1Z"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Rick Beatz",
-          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "SIGO REAL",
-      "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1267,6 +1303,30 @@
       "duration_ms": 210426,
       "name": "Te Espero",
       "url": "https://open.spotify.com/track/6Sl0RHD51w2vnb0M5TX09k"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "SIGO REAL",
+        "url": "https://open.spotify.com/album/1sSANSGpdcjSWhIZOP4Q1Z"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "SIGO REAL",
+      "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1343,30 +1403,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Eu vim pra Somar",
-        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Eu vim pra Somar",
-      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1387,6 +1423,50 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 221262,
+      "name": "Eu Tive um Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Eu vim pra Somar",
+        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Eu vim pra Somar",
+      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1447,26 +1527,6 @@
       "duration_ms": 184629,
       "name": "Ainda \u00c9 Ver\u00e3o",
       "url": "https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 221262,
-      "name": "Eu Tive um Sonho - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1759,26 +1819,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "AL\u00c9M DE LOVE",
         "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
       },
@@ -1795,46 +1835,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Lembro de Voc\u00ea",
-        "url": "https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
         },
         {
-          "name": "MC Estudante",
-          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
         }
       ],
-      "duration_ms": 185777,
-      "name": "Lembro de Voc\u00ea",
-      "url": "https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Sem Censura",
-        "url": "https://open.spotify.com/album/3mjKPexmiwy6USeOC4Z0zZ"
-      },
-      "artists": [
-        {
-          "name": "Ya Malb",
-          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Sem Censura",
-      "url": "https://open.spotify.com/track/5mTFwS5ks9xz7VrZDLKm1T"
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
     }
   ],
   "unique_name": "brisa",

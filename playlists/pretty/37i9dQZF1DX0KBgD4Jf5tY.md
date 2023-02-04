@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2e0HLVyPlF5jP9khNWfV3m">Fata</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,446 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,448 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 51 | [motori](https://open.spotify.com/track/7rtne4qSZRCtHShB8yiWeB) | [fefè](https://open.spotify.com/artist/52wYExoftAantCAUjSLWUr) | [motori](https://open.spotify.com/album/4Cr84DvmsMTMRZCdGwtc5C) | 2:55 |
 | 52 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 |
 
-Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMDdlNTc4MGYyMjlkMWU0OTQ0ZTM0NmYyY2Y3M2FlMWNl`
+Snapshot ID: `MTY3NTQzMzAxOSwwMDAwMDAwMDhkYWFhYzFkNTBlZTU2NDM2NzlkMjBlZDA5NzYxYzcw`

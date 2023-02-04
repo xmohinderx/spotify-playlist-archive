@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 378611,
+  "num_followers": 378810,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMGQxZGI2OWNkMzRiZjdiMmIxNzQyODY0MzA3NTJhYzM0",
+  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMDQzNTRlMGMxNDcxZGMzMGExYmZiYmRmOGRlZDRiNDFh",
   "tracks": [
     {
       "added_at": "2023-01-16 14:16:50",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2023-01-16 14:16:50",
-      "album": {
         "name": "The Ringmaster",
         "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "added_at": "2023-01-16 14:16:50",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-01-16 14:16:50",

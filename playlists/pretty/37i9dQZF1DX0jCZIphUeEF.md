@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,943 likes - 76 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,969 likes - 76 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 57 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 | 58 | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9) | [Ramy Mishriky](https://open.spotify.com/artist/5YPnzmq0y55OzDVZl6lazT), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/album/0Ldq3I9JLNO1M5bu8wLHNo) | 4:19 |
 | 59 | [Chano \- DJ Chus Remix](https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Chano \(DJ Chus Remix\)](https://open.spotify.com/album/1y2gi7jIX2N6O4s3ZE4siW) | 3:28 |
-| 60 | [Freedom \- Red Zone Mix](https://open.spotify.com/track/5igjnWZCcaHmgsEZ9qM5t5) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Freedom](https://open.spotify.com/album/0Vey1M3YAMgrzP4wzoSlNa) | 7:13 |
+| 60 | [Freedom \- Red Zone Mix](https://open.spotify.com/track/6R4RsM2EVfitMKNouIK1GF) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Freedom](https://open.spotify.com/album/7t3lvKv1QqZyts6AuAwuxR) | 7:13 |
 | 61 | [Benirras](https://open.spotify.com/track/6TrrVSfiRqg5lOADOzSA9J) | [Antonio Rodriguez](https://open.spotify.com/artist/7nnrOimka5QcGMLUJnJtkS) | [Tú Gloria](https://open.spotify.com/album/5KlMAz2GucYfmNKSasb4nR) | 6:09 |
 | 62 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
 | 63 | [Basari \- Amine K Remix](https://open.spotify.com/track/1pUAMieBlYE5aOLpCvzGnG) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari](https://open.spotify.com/album/3PPB15rUXSk9jaeMGWoljO) | 6:08 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 75 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 76 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MTY2NzgwMzY0NywwMDAwMDAwMGE5NzhlM2NmZjA4ZTc0ZGNmNGU0NmNhYTM4NTE5MmQ5`
+Snapshot ID: `MTY2NzgwMzY0NywwMDAwMDAwMGMyNzNkNWE1Y2UzMmMwNGQ1OGNmNzcwMjdmNzU3YjE2`

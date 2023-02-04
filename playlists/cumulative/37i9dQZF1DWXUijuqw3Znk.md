@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-338 songs - 19 hr 47 min
+339 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Flow Away](https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:44 | 2022-07-22 |  |
 | [Forever](https://open.spotify.com/track/2UbelwIXVqlm9lBkXygpsg) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/3jSS7cVFrQoKytaPafmqJa) | 4:21 | 2022-05-11 | 2022-07-24 |
 | [Forever \(Prod\. By GRAY\)](https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 4:21 | 2022-07-22 |  |
-| [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 | 2022-05-11 |  |
+| [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 | 2022-05-11 | 2023-02-04 |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 |  |
 | [Freeway](https://open.spotify.com/track/08EBsSHhwzq2lWEhLukGnI) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:52 | 2022-06-03 | 2022-07-29 |
 | [Full of scars \(Feat.Lil Gimchi\)](https://open.spotify.com/track/1JVNIgNcoYqmdCxxpe2lQK) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Full of scars](https://open.spotify.com/album/0adY4FBTAKkaY7iLl1nmlp) | 2:52 | 2022-05-11 | 2022-07-29 |
@@ -302,6 +302,7 @@
 | [Upgrade 2020](https://open.spotify.com/track/6PuZFyiIGgbHMje4E3onES) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 9 Episode 2](https://open.spotify.com/album/1Xo6E0rz2yrkNI7aor5nIE) | 4:13 | 2022-05-11 | 2022-07-27 |
 | [Upside Down](https://open.spotify.com/track/69F89vyxsDnnYNJ9HfwoKr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Upside Down](https://open.spotify.com/album/4WkcSqzSz1q7oNpZEBNZFc) | 3:41 | 2022-05-11 |  |
 | [VISION](https://open.spotify.com/track/4RPuRnGoeVfB7GJSIZrKj4) | [HAHOE](https://open.spotify.com/artist/4ttkf7jdOF0znkUR1UNZYu) | [HAHOE VISION](https://open.spotify.com/album/48ndYtfYeiubJEknw6w1s2) | 2:26 | 2022-05-11 | 2022-07-26 |
+| [Vision](https://open.spotify.com/track/4N5Qqx1wYjmB0P5UbRr6SZ) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Van Ruther](https://open.spotify.com/artist/14nUThDEhdsnOASjLZhnQa) | [9th Wonder](https://open.spotify.com/album/50ll6S98hedNmTEdIz4ZBi) | 3:20 | 2023-02-04 |  |
 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 | 2022-07-22 |  |
 | [We Are](https://open.spotify.com/track/7Mrb4sz3MQNdTQINeO1dOB) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/6qBCvZ1ijMGnYKdCSLl8ne) | 3:16 | 2022-05-11 | 2022-07-29 |
 | [Well Done](https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Well Done](https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS) | 4:16 | 2022-07-22 | 2022-11-19 |

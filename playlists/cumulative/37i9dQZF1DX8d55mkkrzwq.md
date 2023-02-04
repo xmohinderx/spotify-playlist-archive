@@ -4,7 +4,7 @@
 
 > Get moving with these family\-friendly dance hits!
 
-48 songs - 2 hr 23 min
+49 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 | 2022-04-01 |  |
 | [Hand Jive](https://open.spotify.com/track/60GhTHlRCZuM1NOuHll3NY) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 2:59 | 2022-04-01 | 2022-07-29 |
 | [Hand Jive](https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:59 | 2022-04-01 |  |
+| [Happy Feet!](https://open.spotify.com/track/2pdM6c8v8ffUq6PBBnPmJa) | [Ashley Mills Monaghan](https://open.spotify.com/artist/3gTG7Lc7QV8tmYk9sSaeZm), [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Happy Feet!](https://open.spotify.com/album/0pwxpuimvtMPrprGYEw3Dr) | 3:04 | 2023-02-03 |  |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 | 2022-04-01 |  |
 | [Jump](https://open.spotify.com/track/4pM7P3snklLvAG2J3cWL6o) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 2:50 | 2022-04-01 | 2022-07-29 |
 | [Jump](https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Play With Me, Sing Along!](https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ) | 2:50 | 2022-04-01 |  |

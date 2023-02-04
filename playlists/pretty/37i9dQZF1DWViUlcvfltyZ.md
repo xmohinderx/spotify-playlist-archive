@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. In cover, gli Yonic South!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,696 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,713 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 53 | [Bla](https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp) | [ESSEHO](https://open.spotify.com/artist/2pVoUbHGWdqQhoaT8rMFsk) | [SANGUE//SALIVA](https://open.spotify.com/album/7s6MkBi98o4lHlyTNudqoQ) | 3:24 |
 | 54 | [Chi lo decide chi siamo?](https://open.spotify.com/track/03sZbzvfpwP6biNYJKXIjI) | [Cenere](https://open.spotify.com/artist/4KyxWZEHk1zSgqFgg4VtGR) | [Chi lo decide chi siamo?](https://open.spotify.com/album/7ueBkug7HODYaBbQE7GqND) | 2:32 |
 
-Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMDg5MDBiMGRkM2UyY2YzZTJjODZlZWQwYjk4ZjhmYmE2`
+Snapshot ID: `MTY3NTQzMzAwMywwMDAwMDAwMDcxYzkyYzM4NGI2Mjc3MjMwMmI2ZGY1YjEwYmEyMTY1`

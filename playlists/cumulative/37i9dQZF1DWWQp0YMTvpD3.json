@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "I Remember You Everywhere",
+        "url": "https://open.spotify.com/album/13E712H8wmf5CnIipxfaSB"
+      },
+      "artists": [
+        {
+          "name": "Tyler Greyson",
+          "url": "https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153952,
+      "name": "Forward Is The Bright",
+      "url": "https://open.spotify.com/track/6f9tGwVeyXAfqtDy844dLu"
+    },
+    {
+      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -2974,6 +2992,24 @@
       "duration_ms": 251150,
       "name": "Metro",
       "url": "https://open.spotify.com/track/1SyrAZF92VuicGpqky57DO"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/61UED012ycFtrMV5N13AuT"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198112,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO"
     },
     {
       "album": {
@@ -4340,7 +4376,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 164400,
       "name": "Stick with U",
       "url": "https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF"

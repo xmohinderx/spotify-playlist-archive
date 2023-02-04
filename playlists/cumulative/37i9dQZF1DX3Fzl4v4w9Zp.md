@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Sunny Sweeney
+> Keep your finger on the pulse of Americana\. Cover: Brit Taylor
 
-385 songs - 23 hr 48 min
+387 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2022-02-22 |  |
 | [Nice Things](https://open.spotify.com/track/2KmJNXpDwYWJFYfrWPgf5x) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:48 | 2022-02-22 |  |
 | [Night After Night](https://open.spotify.com/track/5CL6QLlz3pLtZg5T0EeNbS) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Night After Night](https://open.spotify.com/album/0tZTBQyG5GILL8wfv3BseE) | 2:41 | 2022-09-23 |  |
+| [No Cowboys](https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX) | 3:47 | 2023-02-03 |  |
 | [No More Tears](https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:34 | 2022-04-15 | 2022-06-25 |
 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 | 2022-11-11 |  |
 | [Nobody's Sweetheart](https://open.spotify.com/track/2vJihPQKmsrSYRKtLwRlES) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 3:44 | 2022-12-16 |  |
@@ -275,7 +276,7 @@
 | [Rhinestone](https://open.spotify.com/track/7dHy8LL7YpI69ZtmfmI83n) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Underground Forever](https://open.spotify.com/album/2EJv943X8gpKSdw82Hwhyb) | 3:32 | 2022-10-28 |  |
 | [RHODODENDRON](https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 3:34 | 2022-07-22 | 2023-01-28 |
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-12-17 | 2022-07-29 |
-| [Rich Little Girls](https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Rich Little Girls](https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg) | 2:59 | 2022-11-18 |  |
+| [Rich Little Girls](https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Rich Little Girls](https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg) | 2:59 | 2022-11-18 | 2023-02-04 |
 | [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 | 2022-01-07 | 2023-01-21 |
 | [Roll](https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 3:12 | 2022-02-22 | 2023-01-07 |
 | [Roll](https://open.spotify.com/track/3lwy3ZnXpZQ3d1lamB7AOD) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:12 | 2022-12-16 |  |
@@ -339,6 +340,7 @@
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-12-17 | 2022-02-23 |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2022-09-23 |  |
 | [The Real Thing](https://open.spotify.com/track/3IPhuFEJAPTveZeAMK7oFY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Be Here Instead](https://open.spotify.com/album/3vo1vBWSWG0mG3XSEs3eQt) | 3:13 | 2021-12-17 | 2022-02-23 |
+| [The Sacred Now](https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [The Sacred Now / How Long](https://open.spotify.com/album/0yol57x7XXIwXSrlnDZ4s8) | 4:12 | 2023-02-03 |  |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2021-12-17 | 2022-09-24 |
 | [The Storm](https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY) | [Michigan Rattlers](https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E) | [That Kind of Life](https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV) | 3:49 | 2021-12-17 | 2022-05-14 |
 | [The Storm in You](https://open.spotify.com/track/3R0JyiSxbzD30no8sjeLiU) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [ULTRAMODERN](https://open.spotify.com/album/5BhXwnBaSLS9zgKIdBV7AR) | 3:41 | 2021-12-17 | 2022-02-23 |
@@ -362,7 +364,7 @@
 | [Unsung Heroes](https://open.spotify.com/track/0w2PDgVUMnEbrtcIOJkIXj) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Lines in the Levee](https://open.spotify.com/album/3Kjt0tpYJudd0DgsOciiaQ) | 4:36 | 2022-10-07 |  |
 | [Upside Down](https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:08 | 2022-07-22 | 2023-01-14 |
 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 | 2021-12-17 | 2022-07-29 |
-| [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-04-01 |  |
+| [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-04-01 | 2023-02-04 |
 | [Waste Your Time](https://open.spotify.com/track/0sBRVZYkvO1m9sndONbhg5) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Waste Your Time](https://open.spotify.com/album/5Jbk7SSm8MwBeTbZTXLWjZ) | 3:36 | 2021-12-17 | 2022-06-04 |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2021-12-17 |  |
 | [Wave Dancer](https://open.spotify.com/track/4hWtttxOCrlMZY954i4Kr9) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:20 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-214 songs - 11 hr 45 min
+215 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 | 2021-12-17 |  |
 | [27](https://open.spotify.com/track/4YvNZIRILOrJNuMqBwdxkC) | [Kate Cameron](https://open.spotify.com/artist/788oTi6YK2sbYWPFJSOKEo) | [27](https://open.spotify.com/album/5ng1gjx5davZUvzX1mWfgF) | 3:32 | 2021-12-17 | 2022-07-20 |
 | [5 Foot 9 \- Acoustic](https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9 \(Acoustic\)](https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy) | 3:14 | 2022-10-28 |  |
-| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 |  |
+| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 | 2023-02-04 |
 | [a country song \- ballerini album version](https://open.spotify.com/track/4BXAoa1S3GPg5xp8UbEITA) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:07 | 2022-07-08 | 2022-07-10 |
 | [ABCDEFU \- Live Acoustic](https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [ABCDEFU \(Live Acoustic\)](https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb) | 2:49 | 2022-02-25 | 2022-07-26 |
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
@@ -60,6 +60,7 @@
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
 | [Fighting \- Acoustic](https://open.spotify.com/track/3ICJRbE7pf8Abk4uZiUMBH) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Fighting \(Acoustic\)](https://open.spotify.com/album/5RzLNJyVz0Z8XGWsAALX7l) | 3:47 | 2022-07-08 | 2022-07-12 |
 | [First Goodbye](https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:52 | 2021-12-17 |  |
+| [For What It’s Worth \- Acoustic](https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8) | 2:58 | 2023-02-03 |  |
 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 | 2022-05-20 |  |
 | [Forever and Always \- Acoustic Version](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always \(Acoustic Version\)](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 | 2021-12-17 | 2022-07-27 |
 | [Front Seat \- Acoustic](https://open.spotify.com/track/3GLE1aZvXO7vSFLQNDbSpC) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Front Seat \(Acoustic\)](https://open.spotify.com/album/4xaEycpO2WRe32xe485juu) | 3:43 | 2021-12-17 | 2022-07-25 |

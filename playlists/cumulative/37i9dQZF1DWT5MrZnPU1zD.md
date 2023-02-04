@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-617 songs - 1 day 5 hr 42 min
+618 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Money On Me](https://open.spotify.com/track/2OAZWC4eQR6b1DWrjmZldh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Money On Me](https://open.spotify.com/album/6stWrZRWkovGgmiXkWtJlk) | 2:22 | 2021-09-03 | 2022-07-29 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-21 | 2022-08-20 |
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-04-29 | 2022-10-08 |
-| [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-18 |  |
+| [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-18 | 2023-02-04 |
 | [MP5 \(feat\. SoFaygo\)](https://open.spotify.com/track/2wbcBAG51wD8fQw8ykL2Ab) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 2:39 | 2022-02-18 | 2022-05-03 |
 | [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/21VQqg9k0znNBQczrhvTIf) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 2:43 | 2022-11-11 |  |
 | [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season](https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf) | 2:43 | 2022-11-11 | 2023-01-08 |
@@ -598,6 +598,7 @@
 | [WHATCHUEXPECT](https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Qu'ality](https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [WHATCHUEXPECT](https://open.spotify.com/album/0YPgJF6eLxQgtQeKJheW9V) | 2:03 | 2022-09-02 | 2022-10-29 |
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-09-03 | 2022-11-12 |
 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 | 2022-07-01 | 2022-08-22 |
+| [Where's Dexter](https://open.spotify.com/track/0w3eAG8vNPSulwDOR1Th9F) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Where's Dexter](https://open.spotify.com/album/2huut23qggNR8NlsTpmn5q) | 2:19 | 2023-01-24 |  |
 | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/track/0a2Yk4ORO4MsGaJ4DI03qx) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/album/69zRKx6ZZQx652iPq1PRyp) | 3:03 | 2021-09-03 | 2022-03-18 |
 | [White Walls](https://open.spotify.com/track/292x0LG03veq1YIbcETPbO) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [White Walls](https://open.spotify.com/album/1wOYYzFpg5sbcuQ9nTNs1N) | 2:25 | 2022-03-25 | 2022-04-18 |
 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 | 2021-09-03 | 2022-01-07 |

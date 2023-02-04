@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: Mannywellz. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: October London. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "4 the Streets",
+        "url": "https://open.spotify.com/album/560INixdlezfqDSc5Jp56U"
+      },
+      "artists": [
+        {
+          "name": "Isong",
+          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121286,
+      "name": "4 the Streets",
+      "url": "https://open.spotify.com/track/6frqgUgfxIZ47m18XlCwf6"
+    },
+    {
+      "album": {
         "name": "Uncommon",
         "url": "https://open.spotify.com/album/5uAoxq451k7pjHJrNlKxAy"
       },
@@ -292,6 +310,28 @@
       "duration_ms": 161142,
       "name": "5 MO' MINUTES",
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
+    },
+    {
+      "album": {
+        "name": "50/50 (feat. Ballad)",
+        "url": "https://open.spotify.com/album/1PrWeMlkeJQomiYzbZSVbI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Reese",
+          "url": "https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173368,
+      "name": "50/50 (feat. Ballad)",
+      "url": "https://open.spotify.com/track/1qX6YTAFqJjo4oHIZjhc3x"
     },
     {
       "album": {
@@ -779,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Amazing #141",
+        "url": "https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5"
+      },
+      "artists": [
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147607,
+      "name": "Amazing #141",
+      "url": "https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S"
+    },
+    {
+      "album": {
         "name": "American Dirt / Sangre",
         "url": "https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3"
       },
@@ -1138,6 +1196,24 @@
       "duration_ms": 152571,
       "name": "Back 12 Times",
       "url": "https://open.spotify.com/track/4VjAj4rDmGnLVMV20n5ux5"
+    },
+    {
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "album": {
@@ -1566,6 +1642,28 @@
       "duration_ms": 196056,
       "name": "best",
       "url": "https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX"
+    },
+    {
+      "album": {
+        "name": "Best Feature (feat. Devin Morrison)",
+        "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Best Feature",
+      "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
     },
     {
       "album": {
@@ -2333,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "By My Side (feat. Kai Ca$h)",
+        "url": "https://open.spotify.com/album/1qZALfmBBt0NgdHLIHysET"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "By My Side (feat. Kai Ca$h)",
+      "url": "https://open.spotify.com/track/79YzNNX7vZpaC0ThGTnTJX"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/5sGahW0VVLSetTjypnMOy1"
       },
@@ -2698,7 +2818,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 211761,
       "name": "Can't Swim",
       "url": "https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn"
@@ -4425,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/7C9RYdx88Ql3KZcoHbq1fh"
+      },
+      "artists": [
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/7yDStMYHzHeGTqYSDxVAyV"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/5DFKGdfg2wcfytWU0D92Mp"
       },
@@ -5781,6 +5919,28 @@
     },
     {
       "album": {
+        "name": "Forgive Them (Live)",
+        "url": "https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa"
+      },
+      "artists": [
+        {
+          "name": "Good Compenny",
+          "url": "https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1"
+        },
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243107,
+      "name": "Forgive Them - Live",
+      "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
+    },
+    {
+      "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/5eICjCbr5GThbWHfNZVto8"
       },
@@ -6376,7 +6536,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 181816,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
@@ -7153,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/3S5GScw6Q3eIMX3rbJYMoa"
+      },
+      "artists": [
+        {
+          "name": "Brianna Knight",
+          "url": "https://open.spotify.com/artist/5CnW6JHWxmeApnMuuYxw6O"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5lGQXJk5ZWklpqVxszxAe1"
+    },
+    {
+      "album": {
         "name": "BETTER TIMES (REDUX VERSION)",
         "url": "https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi"
       },
@@ -7636,6 +7814,24 @@
       "duration_ms": 196591,
       "name": "I Won't Fall To Your Love",
       "url": "https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM"
+    },
+    {
+      "album": {
+        "name": "I'll Always Love You",
+        "url": "https://open.spotify.com/album/7CLbvF18WuuarRTARGW3FU"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104986,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/0o9npKz437HXOgsWgh94i9"
     },
     {
       "album": {
@@ -9143,6 +9339,24 @@
     },
     {
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/0xaHy9uyABRwAfLfJYpTXI"
+      },
+      "artists": [
+        {
+          "name": "Anuka",
+          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223660,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5huEBOAOhIhzl7sIQH8BPS"
+    },
+    {
+      "album": {
         "name": "LOSE YOU",
         "url": "https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4"
       },
@@ -10627,6 +10841,24 @@
     },
     {
       "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0nfZHoMCHgYsEu7M7P3oFJ"
+      },
+      "artists": [
+        {
+          "name": "CD Rose",
+          "url": "https://open.spotify.com/artist/3jhXQ1HoAnvxUhUrRGleJx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151447,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/1Aw1MbDdQFgClKqcZ8kAhX"
+    },
+    {
+      "album": {
         "name": "nirvana (feat. Phabo)",
         "url": "https://open.spotify.com/album/0oAh6hodhbQgqjIBviVJwX"
       },
@@ -11530,7 +11762,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/0YPi0MjhQKT0Ey68g0r3ai"
@@ -12197,6 +12429,24 @@
     },
     {
       "album": {
+        "name": "Play U Instead",
+        "url": "https://open.spotify.com/album/0HLt3vSn5btLK2c8WO11lx"
+      },
+      "artists": [
+        {
+          "name": "Journee",
+          "url": "https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201447,
+      "name": "Play U Instead",
+      "url": "https://open.spotify.com/track/4hOKOZm5Egd778uamaORZQ"
+    },
+    {
+      "album": {
         "name": "Dear New Girl",
         "url": "https://open.spotify.com/album/07K20xD5k8s3avb5lqEp9u"
       },
@@ -12458,6 +12708,24 @@
       "duration_ms": 198832,
       "name": "Priority",
       "url": "https://open.spotify.com/track/7hsDWEJKdukL99RzQjcr6L"
+    },
+    {
+      "album": {
+        "name": "Prom Night",
+        "url": "https://open.spotify.com/album/3LEtBD3xLJmv4JAq8d4UFd"
+      },
+      "artists": [
+        {
+          "name": "Justin Garner",
+          "url": "https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Prom Night",
+      "url": "https://open.spotify.com/track/1ngUYyUsMj7y1sEVUDbLiE"
     },
     {
       "album": {
@@ -13684,7 +13952,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
@@ -14370,7 +14638,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 168000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
@@ -15795,6 +16063,28 @@
     },
     {
       "album": {
+        "name": "TGI Fridays",
+        "url": "https://open.spotify.com/album/0NsDLYjbhtpF3yDwPHlWDq"
+      },
+      "artists": [
+        {
+          "name": "Dave James",
+          "url": "https://open.spotify.com/artist/4bDYAucgAfUgpAPTvJBuGG"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258528,
+      "name": "TGI Fridays",
+      "url": "https://open.spotify.com/track/1CBooBTu5CJivl68dssu0h"
+    },
+    {
+      "album": {
         "name": "The Calling",
         "url": "https://open.spotify.com/album/2ridtCRegwAWPogc0howcY"
       },
@@ -16114,7 +16404,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 172799,
       "name": "Throw It Away",
       "url": "https://open.spotify.com/track/1Khn7WhtkBK8ixeI95Msxx"
@@ -16360,6 +16650,24 @@
       "duration_ms": 184777,
       "name": "Torn",
       "url": "https://open.spotify.com/track/7C46gSLCsIBYRZVywr5Bno"
+    },
+    {
+      "album": {
+        "name": "Touch My Soul",
+        "url": "https://open.spotify.com/album/6IQ7DB04A38Ss68UL9MJtg"
+      },
+      "artists": [
+        {
+          "name": "Dana Vaughns",
+          "url": "https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179230,
+      "name": "Touch My Soul",
+      "url": "https://open.spotify.com/track/4HAVtnlziddPzDyB90RhGt"
     },
     {
       "album": {
@@ -16841,6 +17149,24 @@
     },
     {
       "album": {
+        "name": "Ur Vibe",
+        "url": "https://open.spotify.com/album/7ee9VcwNFgcatDWmp0gE4g"
+      },
+      "artists": [
+        {
+          "name": "ELENA",
+          "url": "https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "Ur Vibe",
+      "url": "https://open.spotify.com/track/6jaw8lQgSySyHrCyyAjzU9"
+    },
+    {
+      "album": {
         "name": "Used To (Acoustic)",
         "url": "https://open.spotify.com/album/2Fp7cOEfdLvARhnp2Oykgq"
       },
@@ -17080,7 +17406,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 144005,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI"
@@ -17290,7 +17616,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 175696,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
@@ -17875,6 +18201,28 @@
     },
     {
       "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/2qxlrseOMntoycNLDcL5K1"
+      },
+      "artists": [
+        {
+          "name": "Cyn\u00e1a-Nicole",
+          "url": "https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c"
+        },
+        {
+          "name": "Buto",
+          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230583,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0ZQMCdRjNARo53RXcFa2r6"
+    },
+    {
+      "album": {
         "name": "Wonderful Day (feat. Savage The Girl)",
         "url": "https://open.spotify.com/album/7Jl7JiRqFaqheMPWjxl3N9"
       },
@@ -18020,6 +18368,36 @@
       "duration_ms": 194000,
       "name": "Wrong Side",
       "url": "https://open.spotify.com/track/3LQOO4nWT6iadSPNrISZ6J"
+    },
+    {
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/1DzELP81LDxS3NZ4vSoS4y"
+      },
+      "artists": [
+        {
+          "name": "Maina Doe",
+          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
+        },
+        {
+          "name": "King Ivy",
+          "url": "https://open.spotify.com/artist/62nhtMbfF8zR4MC1FirUAJ"
+        },
+        {
+          "name": "IJALE",
+          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
+        },
+        {
+          "name": "Valve Sounds",
+          "url": "https://open.spotify.com/artist/0bF7ZdAMnvBwd7gQmPzBH6"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211965,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/3cgLWMVT7LOKeGNLeovYZ9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 176691,
+  "num_followers": 176789,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDMwNjQwMDM3MjI2MWMwZTg2MzUzYTRjODA1NDFhYTk5",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGZlZTE2NWRlMmFkZmJiYjgzMGI4NzcxYWQ4ODc0ZDA1",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196720,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Proud To Be",
-        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+        "name": "Hail Destroyer",
+        "url": "https://open.spotify.com/album/21rFHsmF8bEOVq7fYvCr67"
       },
       "artists": [
         {
-          "name": "DFL",
-          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
         }
       ],
-      "duration_ms": 85800,
-      "name": "Proud To Be DFL",
-      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
+      "duration_ms": 196680,
+      "name": "Hail Destroyer",
+      "url": "https://open.spotify.com/track/1G6dOWV5WuDkg78BCT77uX"
     }
   ],
   "unique_name": "Classic Hardcore",

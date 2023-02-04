@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Durung Ikhlas",
+        "url": "https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Durung Ikhlas",
+      "url": "https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx"
+    },
+    {
+      "album": {
         "name": "Eman Eman",
         "url": "https://open.spotify.com/album/2fjgyWXWk8FZnlqZm14HCB"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 314671,
       "name": "Tiket Suargo",
       "url": "https://open.spotify.com/track/0PaHX60BjbIycemtQkGWfm"

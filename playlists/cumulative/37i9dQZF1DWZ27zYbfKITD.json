@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "Pok\u00e9 & Piano",
+        "url": "https://open.spotify.com/album/7rE5645MaKQMnkkH3tt2xQ"
+      },
+      "artists": [
+        {
+          "name": "Super Piano 64",
+          "url": "https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        },
+        {
+          "name": "Unplugged",
+          "url": "https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174025,
+      "name": "Pok\u00e9mon Center",
+      "url": "https://open.spotify.com/track/4SdmpDFXumnSgTIysSmMmq"
+    },
+    {
+      "album": {
         "name": "Maleficent (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
       },

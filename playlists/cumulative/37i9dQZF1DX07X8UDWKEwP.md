@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Olga Tañón
+> Lo nuevo del mundo tropical\. Cover: Cheo
 
-206 songs - 12 hr 30 min
+208 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [A Partir De Hoy](https://open.spotify.com/track/4qlnsZUoAbvpjgpStiKIcH) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [J.O Music](https://open.spotify.com/artist/0kPQLtKqUTZPp7pDQAGzau) | [A Partir De Hoy](https://open.spotify.com/album/5Sr211iHVs2uy2tf0mzAhj) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-12 | 2023-01-21 |
 | [ADIÓS](https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:40 | 2023-01-20 |  |
+| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-02-03 |  |
 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-09 |  |
 | [Amigo de Que](https://open.spotify.com/track/3PnQ2GNxl77NbIcIWzWLS2) | [Dayran](https://open.spotify.com/artist/0qA7JQQZl2oTJgo3a8Vpff), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Amigo de Que](https://open.spotify.com/album/3fXneOjgdnCoPtcoeTS7iQ) | 2:56 | 2022-06-29 | 2023-01-14 |
 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 | 2023-01-20 |  |
 | [Antes de Ti](https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Antes de Ti](https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv) | 3:27 | 2022-01-01 | 2022-06-30 |
-| [Arrebata](https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Arrebata](https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3) | 2:55 | 2022-08-12 |  |
+| [Arrebata](https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Arrebata](https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3) | 2:55 | 2022-08-12 | 2023-02-04 |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-01-01 | 2022-06-30 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-01-28 |  |
 | [Aura](https://open.spotify.com/track/7AfhyU66mFMuSFks5viJWK) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP), [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [Aura](https://open.spotify.com/album/5oRdhnVRSF15lTiHWFZ70U) | 2:52 | 2022-03-25 | 2022-06-30 |
@@ -91,6 +92,7 @@
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-07-19 | 2023-01-24 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 |  |
 | [La Foto Se Me Borró \- Bachata](https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap) | [Regresó el Jefe 2.0](https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO) | 3:45 | 2022-01-01 | 2022-06-30 |
+| [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
 | [La Otra / Mi Forma de Ser \(Medley\)](https://open.spotify.com/track/1Rrd1LflwcO1vbDq7CRAmA) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [On Fire](https://open.spotify.com/album/6YNKw4ToWPZYy1AFzaCIBP) | 6:18 | 2022-01-01 | 2022-03-26 |
 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 | 2022-01-28 | 2022-06-30 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-01-01 | 2022-06-30 |
@@ -136,7 +138,7 @@
 | [Para Mi Viejo](https://open.spotify.com/track/1XLBz0hJhf7lDG6pFGDwt9) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Para Mi Viejo](https://open.spotify.com/album/3HhN9SDOMxvTRGp82PAIK0) | 3:49 | 2022-01-01 | 2022-06-30 |
 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 | 2022-01-01 | 2022-06-30 |
 | [Pasarela](https://open.spotify.com/track/4nWQcZu84VTHqWJBac6KMI) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Pasarela](https://open.spotify.com/album/7LlkJqeKRlr3rALJN4mCYB) | 3:51 | 2022-01-01 | 2022-06-30 |
-| [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-03-04 |  |
+| [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-03-04 | 2023-02-04 |
 | [Peligro \- Remix](https://open.spotify.com/track/3FE8bkjzBkpFc1vYDkEITi) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Peligro \(Remix\)](https://open.spotify.com/album/3w8tT7ZY4IWG1nX3HHPR95) | 3:40 | 2022-08-08 | 2023-01-14 |
 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 | 2023-01-20 |  |
 | [Pepas \(Version Merengue\)](https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Pepas \(Version Merengue\)](https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy) | 2:30 | 2022-01-01 | 2022-06-30 |

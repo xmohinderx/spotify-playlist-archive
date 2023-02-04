@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 288973,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE"
@@ -5392,6 +5392,24 @@
       "duration_ms": 197230,
       "name": "IMAGO",
       "url": "https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2"
+    },
+    {
+      "album": {
+        "name": "Immolation of Night",
+        "url": "https://open.spotify.com/album/0DumP1DzkNR7b0uIASVDcy"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Immolation of Night",
+      "url": "https://open.spotify.com/track/3OOeWlT6cQYNbdJ4qcBipL"
     },
     {
       "album": {
@@ -7998,7 +8016,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 204000,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0"
@@ -8364,6 +8382,24 @@
       "duration_ms": 231999,
       "name": "Remember East Mercer",
       "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
     },
     {
       "album": {
@@ -11178,6 +11214,32 @@
       "duration_ms": 163933,
       "name": "Void",
       "url": "https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a"
+    },
+    {
+      "album": {
+        "name": "W.A.R",
+        "url": "https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207980,
+      "name": "W.A.R",
+      "url": "https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa"
     },
     {
       "album": {

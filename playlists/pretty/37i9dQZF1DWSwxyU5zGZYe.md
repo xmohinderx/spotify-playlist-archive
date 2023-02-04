@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,625 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,710 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 4 | [Rabba Janda Acoustic Version \(From "Mission Majnu"\)](https://open.spotify.com/track/0lxj1JdpzWwD4uCpje4oy0) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Rabba Janda Acoustic Version \(From "Mission Majnu"\)](https://open.spotify.com/album/4vEt431lDcAR04hi9ueDGG) | 2:25 |
 | 5 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
 | 6 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
-| 7 | [Channa Ve Assi Marjawange \- Reprise](https://open.spotify.com/track/3MTWlilqiK53C76seZdL72) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Mission Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv) | 4:51 |
+| 7 | [Channa Ve Assi Marjawange \- Reprise](https://open.spotify.com/track/3MTWlilqiK53C76seZdL72) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Mission Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv) | 4:51 |
 | 8 | [Ikk Kudi](https://open.spotify.com/track/1NgRBQQD8ZHy6lv79KyeZO) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Udta Punjab](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 4:02 |
 | 9 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 |
 | 10 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 |

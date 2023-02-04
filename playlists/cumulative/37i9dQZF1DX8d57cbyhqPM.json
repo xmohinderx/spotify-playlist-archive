@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Coeur",
+        "url": "https://open.spotify.com/album/03EK6fSqFPAYOAjyHsKbcv"
+      },
+      "artists": [
+        {
+          "name": "Ange Mbyal",
+          "url": "https://open.spotify.com/artist/6z4tOCECU3Q9hducn5MzIg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Coeur",
+      "url": "https://open.spotify.com/track/3utX56OQ1D5JtcZc2s3VGv"
+    },
+    {
+      "album": {
         "name": "Chambre Noire",
         "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 226290,
       "name": "Dior - Remix",
       "url": "https://open.spotify.com/track/0qMTefNvgkvCO9cQ4feQSe"
@@ -1627,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Lolita",
+        "url": "https://open.spotify.com/album/1gwnP9Kx0kf3kHnap68sry"
+      },
+      "artists": [
+        {
+          "name": "Lova Lova",
+          "url": "https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC"
+        },
+        {
+          "name": "Natascha Wiese",
+          "url": "https://open.spotify.com/artist/3jgWVKfoiuzEJcLrPBCDbr"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/50P2sl58J2SGimBtMAuYmz"
+    },
+    {
+      "album": {
         "name": "Lubumbashi",
         "url": "https://open.spotify.com/album/23zgjg8tmsPMWpML2KXG8A"
       },
@@ -2052,7 +2092,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 201363,
       "name": "Nawe",
       "url": "https://open.spotify.com/track/1eP4rDdU5UohUBzfksBzOX"

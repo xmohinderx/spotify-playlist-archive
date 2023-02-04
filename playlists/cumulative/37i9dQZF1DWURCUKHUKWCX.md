@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-169 songs - 9 hr 20 min
+170 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 |  |
 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 | 2021-12-10 | 2023-01-04 |
+| [la chute \(piano\)](https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [la chute \(piano\)](https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho) | 3:07 | 2023-02-03 |  |
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK) | 3:38 | 2022-07-22 |  |
 | [Laura \(Piano Vision\)](https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Laura \(Piano Vision\)](https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT) | 1:51 | 2022-07-08 | 2023-01-04 |

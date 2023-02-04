@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-68 songs - 6 hr 17 min
+69 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [The Traitor](https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 2:42 | 2019-08-09 |  |
 | [The Volcano Song](https://open.spotify.com/track/2XKH3QI6csFvggAPJNKCBt) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 2:50 | 2019-08-09 |  |
 | [The Volcano Song](https://open.spotify.com/track/6g6HkKmfDebeUMH9oSIlhW) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/2hGtWaPtyDu3xxofiwDHNC) | 2:50 | 2019-08-09 | 2022-07-29 |
-| [Truth Don Die](https://open.spotify.com/track/0LcSuLxn3abxhGh0zRnfnP) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/3H963ogFzj0Zxin7NYcZhI) | 6:20 | 2019-08-09 |  |
+| [Truth Don Die](https://open.spotify.com/track/1hPLyce401XBZN2Psi8klK) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [The Definitive Collection](https://open.spotify.com/album/6pVnRn29sM9rDnRMDRq0eP) | 6:16 | 2022-09-26 |  |
+| [Truth Don Die](https://open.spotify.com/track/0LcSuLxn3abxhGh0zRnfnP) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/3H963ogFzj0Zxin7NYcZhI) | 6:20 | 2019-08-09 | 2023-02-04 |
 | [Ugali](https://open.spotify.com/track/2559TZcRM848q9t1kbTm02) | [The Tony Benson Sextet](https://open.spotify.com/artist/0KAihIxZASpqsWUSwaasOJ) | [Ugali](https://open.spotify.com/album/65tZYpJZUmIiWePyRlSV9M) | 5:23 | 2019-08-09 |  |
 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2019-08-09 |  |
 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-08-09 |  |

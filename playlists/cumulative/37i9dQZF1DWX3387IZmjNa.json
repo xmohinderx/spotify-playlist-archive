@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lambo4oe",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay ",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -1884,6 +1884,24 @@
       "duration_ms": 264794,
       "name": "Hello (feat. Chl\u00f6e & KayCyy)",
       "url": "https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX"
+    },
+    {
+      "album": {
+        "name": "Her Old Friends",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256117,
+      "name": "Her Old Friends",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
       "album": {
@@ -4116,7 +4134,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 209672,
       "name": "Slip N Slide (feat. Skillibeng & Shenseea)",
       "url": "https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc"

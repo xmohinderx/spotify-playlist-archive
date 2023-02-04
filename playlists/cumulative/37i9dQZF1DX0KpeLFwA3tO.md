@@ -2,7 +2,7 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Grandmas House
+> The best new music from the wide world of punk\. Cover: Real Friends
 
 818 songs - 1 day 17 hr 21 min
 

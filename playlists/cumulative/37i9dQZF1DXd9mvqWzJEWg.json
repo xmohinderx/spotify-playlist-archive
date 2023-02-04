@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \nMampintsha",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=j5RBm471QpeiVU8IHM3GfQ\">Omagoqa</a>.",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Coloured Goose",
+        "url": "https://open.spotify.com/album/4HRCidNp6wRmrD3mUsGIg5"
+      },
+      "artists": [
+        {
+          "name": "Atie-G",
+          "url": "https://open.spotify.com/artist/2FP2RNmzEllDXn8wyfRC6M"
+        },
+        {
+          "name": "Paula Kammies",
+          "url": "https://open.spotify.com/artist/7mMu1cx3o69EjbbtVyJhAA"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325080,
+      "name": "Coloured Goose",
+      "url": "https://open.spotify.com/track/7wesfLW7BjVajGqFw6MimD"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk"
       },
@@ -490,6 +512,28 @@
       "duration_ms": 280645,
       "name": "Grade 12",
       "url": "https://open.spotify.com/track/4cW03RQQo6F0mwawFSZjNi"
+    },
+    {
+      "album": {
+        "name": "Back To Ebombeni (Deluxe)",
+        "url": "https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Chumza",
+          "url": "https://open.spotify.com/artist/0C2qrnrnaf8B3R43gPRxoI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286451,
+      "name": "GWY",
+      "url": "https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb"
     },
     {
       "album": {
@@ -1166,7 +1210,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 291625,
       "name": "Nyuku",
       "url": "https://open.spotify.com/track/70oBGpSx7rM1zIxIEI3VmK"
@@ -2026,7 +2070,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 349935,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/3jp2qPoR0ZL6Fmsa4rzr0R"

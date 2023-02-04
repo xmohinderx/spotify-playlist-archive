@@ -301,6 +301,36 @@
     },
     {
       "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        },
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214182,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr"
+    },
+    {
+      "album": {
         "name": "What We Call Life",
         "url": "https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD"
       },
@@ -334,6 +364,24 @@
       "duration_ms": 202058,
       "name": "Fighting for Peace",
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "album": {
+        "name": "For A While",
+        "url": "https://open.spotify.com/album/1UJ8kecGU2PQlYDCicEyUk"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253086,
+      "name": "For A While",
+      "url": "https://open.spotify.com/track/7JM4b9VZVDD83l7f2F1ykf"
     },
     {
       "album": {
@@ -464,7 +512,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
@@ -529,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238226,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
+    },
+    {
+      "album": {
         "name": "J\u00faJ\u00fa & The Flowerbug",
         "url": "https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF"
       },
@@ -540,7 +606,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 262079,
       "name": "J\u00daJ\u00da",
       "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
@@ -798,6 +864,28 @@
       "duration_ms": 234174,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
+    },
+    {
+      "album": {
+        "name": "Place In My Heart",
+        "url": "https://open.spotify.com/album/45HotUb1B7Z2AcUIlQfjJG"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS"
+        },
+        {
+          "name": "Roki",
+          "url": "https://open.spotify.com/artist/6lqpbUGAoZyIUBnMa8iWGV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297306,
+      "name": "Place In My Heart",
+      "url": "https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX"
     },
     {
       "album": {
@@ -1118,7 +1206,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 217812,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
@@ -1248,7 +1336,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-04",
       "duration_ms": 266803,
       "name": "Who Knows Where the Time Goes",
       "url": "https://open.spotify.com/track/6xrZRS55yzDaQclNPxwiJI"
