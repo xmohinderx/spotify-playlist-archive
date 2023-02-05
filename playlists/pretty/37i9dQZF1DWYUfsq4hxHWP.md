@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Zack Dyer, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,061 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,099 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

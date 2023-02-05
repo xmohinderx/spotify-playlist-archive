@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 327210,
+  "num_followers": 327396,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDZkYzM0MjQ2ZWNhNDZjMjQ2MmM0YWY5ZWI5ODA0MDM3",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDc5MWZmM2Y4MGJjYjFlY2FkZjAwYzg0Y2ExYmE3NGRi",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2020-11-20 05:02:00",
       "album": {
-        "name": "Love!",
-        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
+        "name": "Demon Kitty Rag (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Tori & Dean",
+          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Love!",
-      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
+      "duration_ms": 215031,
+      "name": "Demon Kitty Rag - Electro Swing Version",
+      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M"
     },
     {
-      "added_at": "2020-11-20 05:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Demon Kitty Rag (Electro Swing Version)",
-        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
+        "name": "Love!",
+        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
       },
       "artists": [
         {
-          "name": "Tori & Dean",
-          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 215031,
-      "name": "Demon Kitty Rag - Electro Swing Version",
-      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
+      "duration_ms": 184737,
+      "name": "Love!",
+      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "No Swinggity",
-        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "No Swinggity",
-      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
-    },
-    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Black Swing",
@@ -783,6 +767,22 @@
       "duration_ms": 198584,
       "name": "Black Swing",
       "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Lady Swing",
@@ -991,6 +975,22 @@
       "duration_ms": 260306,
       "name": "Hold the Night",
       "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
       },
       "artists": [
         {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
         }
       ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+        "name": "Cinnamon Girl",
+        "url": "https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl"
       },
       "artists": [
         {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+          "name": "[dunkelbunt]",
+          "url": "https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3"
+        },
+        {
+          "name": "Boban i Marko Marcovic Orkestar",
+          "url": "https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
+      "duration_ms": 240800,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
     }
   ],
   "unique_name": "Electro Swing",

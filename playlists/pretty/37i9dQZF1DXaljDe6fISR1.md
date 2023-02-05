@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,435 likes - 73 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,516 likes - 73 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 |
 | 2 | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 |
 | 3 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
-| 4 | [Seu Pesadelo Continua](https://open.spotify.com/track/2MB5bNanBf3Y6pvpYzOxqe) | [Detentos do Rap](https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI), [DJ Cia](https://open.spotify.com/artist/5AZE9noV3KKwZRj10LgFdj) | [Seu Pesadelo Continua](https://open.spotify.com/album/1mqc77D4LodMdzs187qoKi) | 4:05 |
+| 4 | [Seu Pesadelo Continua](https://open.spotify.com/track/2MB5bNanBf3Y6pvpYzOxqe) | [Detentos do Rap](https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Seu Pesadelo Continua](https://open.spotify.com/album/1mqc77D4LodMdzs187qoKi) | 4:05 |
 | 5 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
 | 6 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 |
 | 7 | [Ucê Lembra](https://open.spotify.com/track/04KQ5fhrzEdfGB2L3OJJSv) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI) | [Ucê Lembra](https://open.spotify.com/album/5UfHBBQWL96CR6saMUKmUz) | 5:24 |

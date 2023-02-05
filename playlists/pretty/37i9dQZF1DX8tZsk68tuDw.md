@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013,670 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,013,793 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Tarde](https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd) | 2:43 |
 | 2 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
-| 3 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
+| 3 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
 | 4 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 5 | [Work](https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work](https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D) | 3:37 |
 | 6 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 |

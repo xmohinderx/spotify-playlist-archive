@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,702 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,681 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 5 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 |
 | 6 | [Let It Snow](https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [The Best Of/20th Century Masters: The Christmas Collection](https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC) | 4:11 |
 | 7 | [Silent Night](https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP) | 6:05 |
-| 8 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
-| 9 | [No Time Like Christmas](https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [It's Giving Christmas](https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I) | 3:16 |
+| 8 | [No Time Like Christmas](https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [It's Giving Christmas](https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I) | 3:16 |
+| 9 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
 | 10 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
 | 11 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
 | 12 | [presents \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 75 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGZlZjZlMzJjYmFiM2ZkMmVhMjdmMjkyNjZmZmU5NmI3`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDkxNWU0N2E5ODc3MjBmYzBhM2M3MzgwOWQ4NjQ0ODMy`

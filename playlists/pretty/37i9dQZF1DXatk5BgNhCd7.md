@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Maluma & Marc Anthony en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,712 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,800 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 2 | [Dame un Besito](https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Dame un Besito](https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8) | 3:15 |
-| 3 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 |
+| 3 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 |
 | 4 | [Demoler](https://open.spotify.com/track/0LrZbTDXgp3qestaXxxQQQ) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Un beso en Paris \(Remastered\)](https://open.spotify.com/album/54ZHE7TymiRSvqBOizqsOR) | 3:22 |
 | 5 | [Fabricando Fantasías](https://open.spotify.com/track/5wtobh7w5HnPnZse4dRd8s) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Fabricando Fantasías](https://open.spotify.com/album/4FKwqeMsUmUsNCS2EXtjZJ) | 3:57 |
 | 6 | [Cumbia de la Pura](https://open.spotify.com/track/1Iu81JrM7jl7Hxc0VXHtRI) | [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Cumbia de la Pura](https://open.spotify.com/album/5AnKz0XwvrDu6Q7SAOrSVb) | 2:46 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 18 | [Caso Indefinido](https://open.spotify.com/track/1J5CKvOAwJHN6O3ghWPoap) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe), [Agata Uruguay](https://open.spotify.com/artist/1i09cLSfZNYlP8yx7XbK6M) | [Caso Indefinido](https://open.spotify.com/album/13qbabvEQAj6MuDugDsKic) | 2:46 |
 | 19 | [Amor Te Extraño](https://open.spotify.com/track/7iAajMtFnyZGHfICpTv9qU) | [Jeremy Vasquez](https://open.spotify.com/artist/2bVM6KRU1TcrN78I4NxbHD), [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Amor Te Extraño](https://open.spotify.com/album/2vdmYcRK1buzqPYlzL35Vb) | 3:50 |
 | 20 | [No quiero llorar / Me dejaste / Pena que pena \- MIX](https://open.spotify.com/track/6t4DWtgZawqinhh9QR6zJi) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [No quiero llorar / Me dejaste / Pena que pena \(MIX\)](https://open.spotify.com/album/1qYtx79v9hdNIdFhc3dACq) | 6:09 |
-| 21 | [Cheto Bien](https://open.spotify.com/track/2nNjAC1YrczJO1rkW35qUp) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Cheto Bien](https://open.spotify.com/album/0dGC92UKIn1ci1YbxYh7eF) | 3:38 |
+| 21 | [Cheto Bien](https://open.spotify.com/track/2nNjAC1YrczJO1rkW35qUp) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [M Aquí Adonai](https://open.spotify.com/artist/0tRavoC8r9ZGglVJHbGpzy), [La Potencia Real](https://open.spotify.com/artist/2XUSardbn6PIVVxlmzm13N) | [Cheto Bien](https://open.spotify.com/album/0dGC92UKIn1ci1YbxYh7eF) | 3:38 |
 | 22 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
 | 23 | [Sintonía de Amor \- En Vivo](https://open.spotify.com/track/4Itb8t7D0uFYfQ0xOjfOHF) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sintonía de Amor \(En Vivo\)](https://open.spotify.com/album/6Tm8kJ7OoHQqSBB99GuhXr) | 4:06 |
 | 24 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 |

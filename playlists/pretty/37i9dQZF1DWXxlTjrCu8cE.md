@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,230 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,258 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 25 | [Pacote Completo \- Ao Vivo](https://open.spotify.com/track/24jcjW1en6iWOIRPysbbD3) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:35 |
 | 26 | [Rodovia \- Ao Vivo](https://open.spotify.com/track/4ZBvsjIuLAGWyuJ7dVjCMi) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Retomada \(Ao Vivo\)](https://open.spotify.com/album/18gDxwSWm2QQHnrfYkyCNd) | 3:27 |
 | 27 | [Lembrança \- Ao Vivo](https://open.spotify.com/track/6r8vriJvJEkVF3v8TGTGx2) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Pagode do Pericão II, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI) | 3:12 |
-| 28 | [Brisa da Varanda \- Ao Vivo](https://open.spotify.com/track/3DKAAlwx6r7nwFG4VFg5qk) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Pagode do Doce \(Ao Vivo\)](https://open.spotify.com/album/0rMJJQt8mKcMBG27q52zap) | 3:22 |
+| 28 | [Brisa da Varanda \- Ao Vivo](https://open.spotify.com/track/6YgxiEQIs427RiibKBWYDn) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Pagode do Doce \(Ao Vivo\)](https://open.spotify.com/album/2R4fSVaoh4dLRtyojRqrKH) | 3:22 |
 | 29 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 | 30 | [Vencedor \- Ao Vivo](https://open.spotify.com/track/61MLU3vQw6R8yIBb9fNbtk) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0) | [Meu Nome É Thiago André \(Ao Vivo\)](https://open.spotify.com/album/6zSN9UDV1jwdihKLvbRuKR) | 3:49 |
 | 31 | [Pede Pra God \- Ao Vivo](https://open.spotify.com/track/0WLtJoVhlPPZ9zdFBgjWiI) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Pede Pra God \(Ao Vivo\)](https://open.spotify.com/album/2BKGmONs2ezQ8eYS8KJJn1) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Metade Vai, Metade Fica \- Ao Vivo](https://open.spotify.com/track/2wjPolk9weQkKhsNtjaTSs) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:43 |
 | 50 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGRmODI1ZjJmZmNjMThiNzY4MTVjN2ExZDQwOGY1N2Rl`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDhiYzE5NmJkZGE1MTRiMGZlZGFmMDU1YTVmMDUwZjQy`

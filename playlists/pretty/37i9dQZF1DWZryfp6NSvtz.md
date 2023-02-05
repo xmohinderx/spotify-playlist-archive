@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: swim school
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,828 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,122 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 36 | [You Betray](https://open.spotify.com/track/4xteJQEiwhFHsKxBYPQIj9) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [You Betray](https://open.spotify.com/album/345jqJDKrvsPT4taUWPbNE) | 3:30 |
 | 37 | [The Invisible Man](https://open.spotify.com/track/5IDUQtej7G2op9SYHaHhHM) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [The Invisible Man](https://open.spotify.com/album/6LFH8cseWrwWG4lE8kwb1z) | 3:10 |
 | 38 | [Preliminary](https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Preliminary](https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6) | 4:11 |
-| 39 | [Give It up to Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 39 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 40 | [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 |
 | 41 | [Life in the Void](https://open.spotify.com/track/5QiZwq0VvqREkkEKm2m41t) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Life In The Void](https://open.spotify.com/album/7zeWrxLRDsvIC3zLLKrkK6) | 2:40 |
 | 42 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |

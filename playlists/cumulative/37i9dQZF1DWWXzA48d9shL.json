@@ -5589,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "PRISONER OF DARKNESS",
+        "url": "https://open.spotify.com/album/7xBRtGm9KfNi7kncG4gvz6"
+      },
+      "artists": [
+        {
+          "name": "Daedra",
+          "url": "https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122656,
+      "name": "PRISONER OF DARKNESS",
+      "url": "https://open.spotify.com/track/1CYwQ5CvUIWbCojH7s6YXW"
+    },
+    {
+      "album": {
         "name": "Priton",
         "url": "https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U"
       },

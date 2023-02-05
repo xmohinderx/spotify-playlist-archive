@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7IKgrJ3ej1.md) - [plain]
 
 > Nick and Charlie's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,051 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,133 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7IKgrJ3ej1.md) - [plain]
 | 3 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 4 | [Biggest Fan](https://open.spotify.com/track/0maGpI9zkOMONNx74cCHyA) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Sweet Dreamer](https://open.spotify.com/album/0ja8b5YdGJVr6A4SQA2v9U) | 3:15 |
 | 5 | [Wish You Were Gay](https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/0Hh5Iu5zm6nSnvjGmOM07g) | 3:11 |
-| 6 | [I Think Ur Rlly Cool](https://open.spotify.com/track/4Nolw5dQkREZUSwY9pZnB0) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/3nEufS60mmunqDeFMKfr07) | 3:16 |
+| 6 | [I Think Ur Rlly Cool](https://open.spotify.com/track/3OTQ2hgZINAHBs9QTk7bRk) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/7nKFnLp9UONjXQwsBsdESQ) | 3:16 |
 | 7 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
 | 8 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
 | 9 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7IKgrJ3ej1.md) - [plain]
 | 32 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 33 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 
-Snapshot ID: `MTY1NDAzNzU5OCwwMDAwMDAwMGU4Njk0OGY5MjNkZWM4OGY0YmZjNmE3ZjFhZDQ3MmZl`
+Snapshot ID: `MTY1NDAzNzU5OCwwMDAwMDAwMGRlMDQ4NTBlYzg1OTNlZDJlNGU1ZmEyMmQ0YTliZDZl`

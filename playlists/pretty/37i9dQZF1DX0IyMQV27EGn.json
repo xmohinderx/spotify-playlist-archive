@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 605332,
+  "num_followers": 605409,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGU4M2ZmNzc3N2FmNDliNzVmMGQzNzcyNjRkZTUyMDE1",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGRiYzk4YTI3MzhmOWNiNGIxMGMxYmVmYTAxMTVjZDRm",
   "tracks": [
     {
       "added_at": "2022-07-22 02:11:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju"
-      },
-      "artists": [
-        {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
-        }
-      ],
-      "duration_ms": 178256,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 158333,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju"
+      },
+      "artists": [
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
+        }
+      ],
+      "duration_ms": 178256,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y"
     },
     {
       "added_at": "2022-07-22 02:11:14",

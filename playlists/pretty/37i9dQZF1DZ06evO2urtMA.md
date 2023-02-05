@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786 likes - 24 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 24 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 23 | [Ash Anywhere](https://open.spotify.com/track/7jH4ClqJQJT1l0SxU10OOb) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Coursing Through](https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX) | 5:28 |
 | 24 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 |
 
-Snapshot ID: `Mjc5MjQwMzUsMDAwMDAwMDA3YTgxMzk2MzBkYTE3OTgwOGMwNDM3OTJmZmU2MTA5NA==`
+Snapshot ID: `Mjc5MjUzMjksMDAwMDAwMDBmODdkNjc0NDMwY2ViMWE2ZDBiM2JhNDg1MzYyNzlkMQ==`

@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Izegbe",
+        "url": "https://open.spotify.com/album/7tdtrRYNSdkl4P8pWw0ZhP"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Izegbe",
+      "url": "https://open.spotify.com/track/6ljQPw3QcfwNishetIByR6"
+    },
+    {
+      "album": {
         "name": "Izvor",
         "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
       },
@@ -2675,7 +2693,7 @@
     },
     {
       "album": {
-        "name": "Siento Libre",
+        "name": "Siento Libre (JJ Rework)",
         "url": "https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA"
       },
       "artists": [

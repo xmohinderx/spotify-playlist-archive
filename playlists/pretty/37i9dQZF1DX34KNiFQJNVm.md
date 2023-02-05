@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marcos & Belutti com João Gomes, Matuê, Teto e WIU, Zé Felipe, Matheus & Kauan com Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,359 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829,163 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 18 | [Vem N1](https://open.spotify.com/track/1ttzXBQoHqBl626zoqlBv5) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Vem N1](https://open.spotify.com/album/3VxGpDTe64f6sMAIsoA5jp) | 1:31 |
 | 19 | [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 |
 | 20 | [Olha Bela](https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Olha Bela](https://open.spotify.com/album/2H84den6cdw9vICRQfwav0) | 2:49 |
-| 21 | [Parece Mais Não É \- Ao Vivo](https://open.spotify.com/track/4XxwEpebOi6ZoQftVt4iJS) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos, Vol 4](https://open.spotify.com/album/6sUHrk6EDs5KG7rS2wqUbW) | 2:25 |
+| 21 | [Parece Mas Não É \- Ao Vivo](https://open.spotify.com/track/4XxwEpebOi6ZoQftVt4iJS) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos, Vol 4](https://open.spotify.com/album/6sUHrk6EDs5KG7rS2wqUbW) | 2:25 |
 | 22 | [Toma Toma \(Dança da Mãozinha\)](https://open.spotify.com/track/6rYpLinEDic5Iq6csMnjOX) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Toma Toma \(Dança da Mãozinha\)](https://open.spotify.com/album/5GXgR7Lthe3SfSQCfzeZJw) | 1:47 |
 | 23 | [Carol](https://open.spotify.com/track/4ETihwrhaIRcgAl2OwEbFY) | [Filipe Escandurras](https://open.spotify.com/artist/0LzKJGPuCzCpzO1nzfasU4), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Carol](https://open.spotify.com/album/6eez3cf5Hfa8DD2Mw8KkmH) | 3:10 |
 | 24 | [Nuvem Negra](https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Nuvem Negra](https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd) | 2:41 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6281,
+  "num_followers": 6293,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjgzNywwMDAwMDAwMDU0MWZlOWMwNjBmODc2MzUxZjc0MzBmOWVjOGE3MjU3",
+  "snapshot_id": "MTY3NTQwNjgzNywwMDAwMDAwMDJlZWVmNjI0M2MzMDllODQzZjQyZjkxYWQ0OWFkZmM1",
   "tracks": [
     {
       "added_at": "2023-02-03 06:47:17",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
-        "name": "Again & Again",
-        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
-        },
-        {
-          "name": "KOYO",
-          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Again & Again (Feat. KOYO)",
-      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 212386,
       "name": "Actor (Feat. pH-1)",
       "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
+        },
+        {
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Again & Again (Feat. KOYO)",
+      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     },
     {
       "added_at": "2023-02-03 06:47:17",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 230640,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     }
   ],
   "unique_name": "\uc378",

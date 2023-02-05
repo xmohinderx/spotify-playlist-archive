@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-380 songs - 23 hr 6 min
+381 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 | 2022-02-19 | 2022-06-26 |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-20 |  |
 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2022-04-01 | 2022-04-18 |
+| [By Your Stripes](https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [By Your Stripes](https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL) | 4:26 | 2023-01-20 |  |
 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 | 2022-04-08 |  |
 | [Can You Feel It \(feat\. Tamela Mann\) \- Kirk Franklin Remix](https://open.spotify.com/track/1aTvsZ24hGnqavThyNo7nY) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 5:48 | 2022-04-01 | 2022-06-05 |
 | [CAN'T](https://open.spotify.com/track/0FCzQqeK1Kqpmvjr4rrZ8H) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CAN'T](https://open.spotify.com/album/4A6vxUHZmpN3qq4ysEC90z) | 3:40 | 2022-02-19 | 2022-06-26 |
@@ -244,7 +245,7 @@
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/0q22YqinZnV4mehuz0QiU3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/48e9qQcXnEsaiib4LUSk1P) | 4:33 | 2022-04-01 | 2022-04-20 |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-06-25 |  |
 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 | 2023-01-20 |  |
-| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 |  |
+| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 | 2023-02-05 |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2022-06-25 |  |
 | [Not Gon’ Do](https://open.spotify.com/track/0RGuN1UxbbBKimDw9l9AIv) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2022-02-19 | 2022-06-26 |

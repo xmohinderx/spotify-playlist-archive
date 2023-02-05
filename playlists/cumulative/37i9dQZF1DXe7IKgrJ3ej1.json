@@ -420,6 +420,24 @@
     {
       "album": {
         "name": "Small and Quiet",
+        "url": "https://open.spotify.com/album/7nKFnLp9UONjXQwsBsdESQ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196048,
+      "name": "I Think Ur Rlly Cool",
+      "url": "https://open.spotify.com/track/3OTQ2hgZINAHBs9QTk7bRk"
+    },
+    {
+      "album": {
+        "name": "Small and Quiet",
         "url": "https://open.spotify.com/album/3nEufS60mmunqDeFMKfr07"
       },
       "artists": [
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 196048,
       "name": "I Think Ur Rlly Cool",
       "url": "https://open.spotify.com/track/4Nolw5dQkREZUSwY9pZnB0"

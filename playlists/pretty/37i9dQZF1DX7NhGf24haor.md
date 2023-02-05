@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,714 likes - 121 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,860 likes - 121 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 77 | [Sunlight](https://open.spotify.com/track/4OSJ9LrhlX3V2n3sYf4Vbk) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Sunlight](https://open.spotify.com/album/0RkrvVUlFLSADQTTH3K0Kw) | 3:34 |
 | 78 | [Darkside](https://open.spotify.com/track/6Fzn8WOBnpiPnNxjP9Ghew) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Darkside](https://open.spotify.com/album/4488v5b9SKQz5NF4fxteZ6) | 3:51 |
 | 79 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 |
-| 80 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/4bsUfMLOoqUmRHf4qbOTIn) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 |
+| 80 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/21P8yUQqDBC15Yj8RizZv7) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 |
 | 81 | [TOO HAPPY](https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [TOO HAPPY](https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna) | 4:34 |
 | 82 | [Lock And Load](https://open.spotify.com/track/2wQUSMZ9JFVF5pd48rMcCU) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Lock And Load](https://open.spotify.com/album/4DYk7asrtEb9W0CAQl1jDA) | 3:57 |
 | 83 | [Wasted](https://open.spotify.com/track/1PQI8kFnJDtth36Jb1Osf5) | [Cyndi](https://open.spotify.com/artist/6RlZmSFhYofrR4jSHcWubp), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Wasted](https://open.spotify.com/album/41VDmOZ7d9rl3dfhYeqqEH) | 3:26 |

@@ -4,7 +4,7 @@
 
 > All the best classical releases of 2022.
 
-101 songs - 7 hr 37 min
+102 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-11-30 |  |
 | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/album/4RNyRkhOHbb8BVfzKFqhCP) | 3:25 | 2022-11-30 |  |
 | [G\-Minor](https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:55 | 2022-11-30 |  |
-| [Hanover Birds](https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/3vHDJ2gVHKfBxv417wCBmI) | 3:41 | 2022-11-30 |  |
+| [Hanover Birds](https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/3vHDJ2gVHKfBxv417wCBmI) | 3:41 | 2022-11-30 | 2023-02-05 |
+| [Hanover Birds](https://open.spotify.com/track/0y0v7z8CnX9BgUlU65Ivj6) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Elliot Bergman](https://open.spotify.com/artist/2hGSM00KaHLWcMzgE37QUc) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg) | 3:41 | 2022-11-30 |  |
 | [Haydn: Trumpet Concerto in E\-Flat Major, Hob\. VIIe:1: III\. Finale\. Allegro](https://open.spotify.com/track/1hmRmrBdB36Gq0h6Zl9kLK) | [Franz Joseph Haydn](https://open.spotify.com/artist/27s7ZLntmKXrJ6KkP6fCNF), [Lucienne Renaudin Vary](https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54), [Michael Sanderling](https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ), [Luzerner Sinfonieorchester](https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD) | [Trumpet Concertos \- Haydn: Trumpet Concerto in E\-Flat Major: III\. Allegro](https://open.spotify.com/album/2zuL3XSDD6cBJEFp1wYiAX) | 4:32 | 2022-11-30 |  |
 | [Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu Joy of Man's Desiring \(Arr\. Hess for Piano\)](https://open.spotify.com/track/2RSK0dUWQSBvR0uaIpywDO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [J.S\. Bach: Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu Joy of Man's Desiring \(Arr\. Hess for Piano\)](https://open.spotify.com/album/3VxOmNTmBucxSwzepKgcrO) | 3:25 | 2022-11-30 |  |
 | [III\. Andante](https://open.spotify.com/track/3wqUNqrYnYctrTr2xgJDLk) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Lambert Orkis](https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3) | [Piano Trio in G Minor, Op\. 17/III\. Andante](https://open.spotify.com/album/1lp2OTDF0Tk1AH3YGUFYrQ) | 4:17 | 2022-11-30 |  |

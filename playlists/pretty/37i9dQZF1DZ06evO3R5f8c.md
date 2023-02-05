@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,900 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,961 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 23 | [Muyè \(Black Coffee Remix\)](https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Sónar 25: An advanced music mixtape by Black Coffee](https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ) | 7:20 |
 | 24 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 |
 | 25 | [Juju](https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
-| 26 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
-| 27 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
+| 26 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
+| 27 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
 | 28 | [Molo Sweetie](https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 5:43 |
 | 29 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 |
 | 30 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 47 | [Extra Time On You](https://open.spotify.com/track/2pesaSV3G2scS7BWywijgA) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 7:22 |
 | 48 | [Wathula Nje \- Live](https://open.spotify.com/track/4xWKIXZj0vlzUoDnnvD9jQ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 3:25 |
 | 49 | [Angelina](https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 8:06 |
-| 50 | [Inkodlo Kamashimane](https://open.spotify.com/track/5hI4ehQIIuPZWSjjXu61JW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 9:12 |
+| 50 | [Keep Moving](https://open.spotify.com/track/0R1OKth6oLvhDDvjBoHxWW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:54 |
 
-Snapshot ID: `Mjc5MjQwMzQsMDAwMDAwMDBiNjdkZjIzODk1YjRlM2FhMmQ3OGY5MmVhYjNlYzZmNQ==`
+Snapshot ID: `Mjc5MjUzMjksMDAwMDAwMDAzYTA5ZWIxMTZlMjdjZjE0YmI0NzBhNDkxMGIxMmY1NA==`

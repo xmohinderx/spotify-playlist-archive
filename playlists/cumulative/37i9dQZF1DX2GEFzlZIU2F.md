@@ -4,7 +4,7 @@
 
 > ahhhhhhhhh
 
-56 songs - 3 hr 0 min
+57 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 | 2022-06-16 |  |
 | [Ghost](https://open.spotify.com/track/4BxHvb29LvfTzGMmSVB1ou) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Burnt Sugar](https://open.spotify.com/album/2hRFrwaBSK3IdR1ahR7ajj) | 3:33 | 2022-06-16 |  |
 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 | 2022-06-16 |  |
-| [Groan](https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 3:00 | 2022-06-16 |  |
+| [Groan](https://open.spotify.com/track/04pktsRGucPz8jOgUSx9jp) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 2:59 | 2022-06-16 |  |
+| [Groan](https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 3:00 | 2022-06-16 | 2023-02-05 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-06-16 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-06-16 |  |
 | [Heavy In Your Arms](https://open.spotify.com/track/3YZ4ccGSysav9mPqbni9JU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:45 | 2022-06-16 |  |

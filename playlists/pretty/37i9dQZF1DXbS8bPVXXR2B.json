@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 189788,
+  "num_followers": 189932,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDE4ZjYwMmRjY2NkNzcwMWRlMDRlM2FkMzBjM2U2ODQy",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDhjMTUyMDZiNGVlNDVhMWIzY2Y4ZTVlM2ZiZThmMWVh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "You Make Me Feel (Mighty Real)",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Voices Inside My Head",
-      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
       },
       "artists": [
         {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
         }
       ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
       "artists": [
         {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
         }
       ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
-      },
-      "artists": [
-        {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Is It All Over My Face?",
         "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
       },
       "artists": [
         {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
         }
       ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+      "duration_ms": 177653,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1155,6 +1139,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Get It Right (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "Get It Right - Single Version",
+      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "You're a Melody",
         "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Get It Right (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 259413,
-      "name": "Get It Right - Single Version",
-      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Do It Do It Disco",
         "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,071 songs - 2 day 22 hr 15 min
+1,072 songs - 2 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Blink](https://open.spotify.com/track/3dg2D7oJvKvSK2SrjNKC4l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Blink](https://open.spotify.com/album/2S3jWaGHznX4BPiRZJThWe) | 4:10 | 2022-11-08 | 2022-11-16 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-29 | 2022-07-26 |
 | [Bloody Mary](https://open.spotify.com/track/1MQ2qrtlL8rByi9PlecX0H) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Bloody Mary](https://open.spotify.com/album/2w0SXIVuRUC3P5leDHdGDQ) | 4:36 | 2022-06-02 | 2022-07-13 |
-| [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 | 2022-05-31 |  |
+| [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 | 2022-05-31 | 2023-02-05 |
 | [Blue boat](https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [Blue boat](https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja) | 3:48 | 2022-07-12 | 2022-07-20 |
 | [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 | 2022-08-05 | 2022-08-24 |
 | [BLUE SOULS \- STUTS Remix](https://open.spotify.com/track/3yMxKnu8fsZaoS9ylqJKIu) | [A\_o](https://open.spotify.com/artist/5vkVMGd85KBUDi4ZDtL8Nd), [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [dodo](https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [BLUE SOULS \(STUTS Remix\)](https://open.spotify.com/album/3Im0bf24RYVE4ojLHUGA7w) | 2:38 | 2022-05-29 | 2022-07-13 |
@@ -365,7 +365,7 @@
 | [NATSU NO HAMON](https://open.spotify.com/track/7eukm0qtr0iBsVl3R9ktqr) | [heimrecord](https://open.spotify.com/artist/2JgVdTFw8AOfFAQEmb4NYC) | [NATSU NO HAMON](https://open.spotify.com/album/7gpyp8SJ911G4AUYdB04oa) | 5:27 | 2022-08-31 | 2022-09-07 |
 | [Neko no yume](https://open.spotify.com/track/3GAFxFe3iUzN63c0iYRKun) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Seikatsu](https://open.spotify.com/album/3W01XFOYDBF3zi15bmxQpi) | 3:35 | 2022-11-15 | 2022-11-23 |
 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 | 2023-01-10 | 2023-01-12 |
-| [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 | 2023-01-10 | 2023-01-25 |
+| [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 | 2023-01-10 |  |
 | [Never going back](https://open.spotify.com/track/56FDc2R7i8x9WiNeOEJVp4) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Never going back](https://open.spotify.com/album/7k3P0S9TBThJOMytSU6KZK) | 3:48 | 2022-06-30 | 2022-07-02 |
 | [New Life](https://open.spotify.com/track/6bV1wH2YpYrMv3GB7v892I) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [New Life](https://open.spotify.com/album/4UIP2Smckh0TOMFVNsC1mX) | 3:00 | 2022-07-14 | 2022-07-19 |
 | [NIA](https://open.spotify.com/track/20JUEfUxSqB7GIhfF1Qo5P) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:09 | 2022-06-02 | 2022-07-21 |
@@ -818,6 +818,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
+| [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 |  |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |
 | [再愛](https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [再愛](https://open.spotify.com/album/3BDdXgwJPJTCQTQ4krGpZZ) | 5:00 | 2023-01-26 | 2023-02-01 |
@@ -963,7 +964,7 @@
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-29 | 2022-07-29 |
 | [水面に、アイス](https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [水面に、アイス](https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA) | 4:30 | 2022-08-17 | 2022-10-05 |
 | [油そば](https://open.spotify.com/track/3ZOFJgcE6oZ7MHoF1VsOzQ) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [油そば](https://open.spotify.com/album/7uEnKSzsnqVlzD7Rm8NriL) | 2:18 | 2022-07-19 | 2022-07-27 |
-| [泣き笑い愛](https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [泣き笑い愛](https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB) | 2:51 | 2022-07-21 |  |
+| [泣き笑い愛](https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [泣き笑い愛](https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB) | 2:51 | 2022-07-21 | 2023-02-05 |
 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 | 2022-11-17 |  |
 | [海へ行こう \- DJ HASEBE HONEY Edit](https://open.spotify.com/track/1r2EVmiMfmHwJddQRjK7xi) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [PES](https://open.spotify.com/artist/7LjwJY093gH5dJHUSidPih), [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW) | [海へ行こう \(DJ HASEBE HONEY Edit\)](https://open.spotify.com/album/17BrsW2qCtmYMshh7d5UrX) | 3:25 | 2022-07-05 | 2022-07-21 |
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 |  |

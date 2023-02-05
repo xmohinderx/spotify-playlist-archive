@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-466 songs - 1 day 2 hr 50 min
+467 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-02-11 | 2022-07-28 |
 | [Cuéntame](https://open.spotify.com/track/335hZySHS94UpZkHkIJaDq) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Breve Relato de un Suceso Irreversible](https://open.spotify.com/album/5bWAI4BhBPaRcHYECcEfYE) | 3:38 | 2022-04-01 | 2022-05-26 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-14 |  |
+| [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-03 |  |
 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 | 2022-01-21 | 2022-07-21 |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 | 2022-07-26 |
 | [Dejarnos Ir](https://open.spotify.com/track/6D3ZVQ2DKY4ok1zgVTBgt3) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Dejarnos Ir](https://open.spotify.com/album/10M69ywq8k9hMomnlQS2JW) | 3:42 | 2022-01-14 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Es Real](https://open.spotify.com/track/48mDMIRYbrVEcHjt5y7vpK) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Es Real](https://open.spotify.com/album/7L7hGH6oMXQ7J8uFceyvFz) | 3:18 | 2022-01-14 | 2022-07-29 |
 | [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 | 2022-01-21 | 2022-07-06 |
 | [Eso Eres](https://open.spotify.com/track/6DjTGKDUjSz3JOnvwviSWg) | [Idea Blanco](https://open.spotify.com/artist/2Po6ad6yuJHVPjd40q4ipt) | [Eso Eres](https://open.spotify.com/album/1199Skw9Wf8WDibs5HVBMn) | 3:34 | 2022-04-01 | 2022-06-18 |
-| [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-01-21 |  |
+| [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-01-21 | 2023-02-05 |
 | [Este](https://open.spotify.com/track/79Bn9laRd6l6O5Uul7l83m) | [Olivia Viggiano](https://open.spotify.com/artist/3bxvahhx6gUAHFSZYHHMDt), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cien por Ciento](https://open.spotify.com/album/5LkkdmdGPXqpEC1D677mw7) | 3:04 | 2022-04-01 | 2022-04-19 |
 | [Estereotipa](https://open.spotify.com/track/4kEWrooNVhdx4IXTzxQl3g) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Estereotipa](https://open.spotify.com/album/0NGAex3VjmFCjZpFx20t8L) | 3:05 | 2022-01-21 | 2022-07-09 |
 | [Excusas](https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Excusas](https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN) | 3:59 | 2022-01-14 |  |

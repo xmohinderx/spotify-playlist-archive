@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
-  "num_followers": 30282,
+  "num_followers": 30299,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDI1N2JmOTlkNjRmZjdjMDcyYjQyMDQyNmZiMzU1NDZi",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGU1MDAyYThhNDE1ZDRkYThlZWQ2OWMwMjlmNjAxMmI5",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Foto di gruppo",
-        "url": "https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Foto di gruppo",
-      "url": "https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Vita bona",
         "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 259586,
       "name": "Quanno me ne so juto",
       "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Foto di gruppo",
+        "url": "https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Foto di gruppo",
+      "url": "https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -927,6 +927,38 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Funky Nano",
+          "url": "https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH"
+        },
+        {
+          "name": "Roy Paci",
+          "url": "https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb"
+        }
+      ],
+      "duration_ms": 237965,
+      "name": "Smackdown",
+      "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Mani sporche",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
@@ -963,38 +995,6 @@
       "duration_ms": 197227,
       "name": "Mani sporche",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Funky Nano",
-          "url": "https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH"
-        },
-        {
-          "name": "Roy Paci",
-          "url": "https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb"
-        }
-      ],
-      "duration_ms": 237965,
-      "name": "Smackdown",
-      "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Ad occhi chiusi",
-        "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
+        "name": "Entertainer",
+        "url": "https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
         },
         {
-          "name": "Elisa Aramonte",
-          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         }
       ],
-      "duration_ms": 225584,
-      "name": "Ad occhi chiusi",
-      "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
+      "duration_ms": 202142,
+      "name": "Pi\u00f9 forte di me",
+      "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Entertainer",
-        "url": "https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6"
+        "name": "Ad occhi chiusi",
+        "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
       },
       "artists": [
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         },
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+          "name": "Elisa Aramonte",
+          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
         }
       ],
-      "duration_ms": 202142,
-      "name": "Pi\u00f9 forte di me",
-      "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
+      "duration_ms": 225584,
+      "name": "Ad occhi chiusi",
+      "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183265,
       "name": "Lontano 2036",
       "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
+      },
+      "artists": [
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -2035,22 +2035,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "MEDIOEGO",
-        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
+        "name": "Sang\u00f2",
+        "url": "https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
         },
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
         }
       ],
-      "duration_ms": 233386,
-      "name": "VETERANO (feat. DJ Shocca)",
-      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
+      "duration_ms": 208636,
+      "name": "Sabbie Mobili (feat. Davide Shorty)",
+      "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
     }
   ],
   "unique_name": "Radici Hip Hop",

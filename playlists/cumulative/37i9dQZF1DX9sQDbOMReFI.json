@@ -1238,6 +1238,28 @@
     {
       "album": {
         "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jewell",
+          "url": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Let Me Ride",
+      "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
         "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
       },
       "artists": [
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 237533,
       "name": "Same Song - Edit Version",
       "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"

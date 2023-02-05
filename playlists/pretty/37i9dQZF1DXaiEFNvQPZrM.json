@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 633625,
+  "num_followers": 634109,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDhiYTFmNTdjNDBjZTQzYmVjOGVmNTEzYzMwZTJkYTZl",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGE3Y2JiYmI0NWI3N2YyMzZlYTQwMDNjZTFhNzM4NGJj",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -787,8 +787,8 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "She Won't Be Lonely Long",
-        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 209253,
-      "name": "She Won't Be Lonely Long",
-      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "She Won't Be Lonely Long",
+        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 209253,
+      "name": "She Won't Be Lonely Long",
+      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "You've Got to Stand for Something",
         "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2023-02-03 05:00:00",

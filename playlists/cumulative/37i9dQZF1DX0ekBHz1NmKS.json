@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "A Lover Like Me",
+        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "A Lover Like Me",
+      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
+    },
+    {
+      "album": {
         "name": "A Power In Letting Go",
         "url": "https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 214190,
       "name": "Barnsben",
       "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 231346,
       "name": "Don't Lay It All On Me",
       "url": "https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb"
@@ -2844,6 +2862,24 @@
       "duration_ms": 234420,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
+    },
+    {
+      "album": {
+        "name": "Every Little Heart",
+        "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Every Little Heart",
+      "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
     },
     {
       "album": {

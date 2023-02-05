@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 84561,
+  "num_followers": 84597,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDFmMjE1OGU0ZDg4NjJjMWZlMTBmNTUxMjdhODMxNDVj",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDgxZTYxMGIxMTZiNTgxNDA2ZDg3YWU0YjFjMjE5NGFh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 238831,
-      "name": "Heart on Fire",
-      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Georgia",
         "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Further Joy (Deluxe)",
-        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Further Joy (Deluxe)",
+        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+        "name": "Anything But You",
+        "url": "https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+      "duration_ms": 221156,
+      "name": "Anything But You",
+      "url": "https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Anything But You",
-        "url": "https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 221156,
-      "name": "Anything But You",
-      "url": "https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 165563,
-      "name": "Reality Television",
-      "url": "https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt"
+        "name": "001",
+        "url": "https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt"
       },
       "artists": [
         {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 199591,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg"
+      "duration_ms": 165563,
+      "name": "Reality Television",
+      "url": "https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg"
     }
   ],
   "unique_name": "Et Alt",

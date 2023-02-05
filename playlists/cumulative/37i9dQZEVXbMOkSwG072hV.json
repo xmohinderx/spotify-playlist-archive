@@ -439,6 +439,32 @@
     },
     {
       "album": {
+        "name": "A Divers\u00e3o dos Djs",
+        "url": "https://open.spotify.com/album/7jGIw1J39dZrADIcyKQw5O"
+      },
+      "artists": [
+        {
+          "name": "Mc Bombom",
+          "url": "https://open.spotify.com/artist/2Fl3BzlAwunaTYMA8yhlg1"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138109,
+      "name": "A Divers\u00e3o dos Djs",
+      "url": "https://open.spotify.com/track/45mqHKkQeb4SXxN0oNPT2S"
+    },
+    {
+      "album": {
         "name": "Smile Now Cry Never",
         "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
       },
@@ -6204,10 +6230,32 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "album": {
@@ -7208,7 +7256,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
@@ -10129,6 +10177,24 @@
     },
     {
       "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN"
+      },
+      "artists": [
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
+    },
+    {
+      "album": {
         "name": "Where You Wanna Go",
         "url": "https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB"
       },
@@ -12276,7 +12342,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 212884,
       "name": "Mo\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"

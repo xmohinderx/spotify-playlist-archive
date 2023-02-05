@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 557867,
+  "num_followers": 558749,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwODEyMCwwMDAwMDAwMDRlMjFmZDA3OGQ1ZGQ5Mjg4YThkZDhkMzI1ZTI1YWI5",
+  "snapshot_id": "MTY3NDcwODEyMCwwMDAwMDAwMGIwYzg5N2IwMDAxYjVhMDYxMzRlZTQxNzNjOGY5YTU5",
   "tracks": [
     {
       "added_at": "2023-01-13 04:10:03",
@@ -524,7 +524,7 @@
       },
       "artists": [
         {
-          "name": "Henry",
+          "name": "HENRY",
           "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         }
       ],
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-13 04:10:03",
       "album": {
-        "name": "Hometown Cha-Cha-Cha, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 254771,
-      "name": "Here Always (SEUNGMIN of Stray Kids)",
-      "url": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n"
-    },
-    {
-      "added_at": "2023-01-13 04:10:03",
-      "album": {
         "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
         "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-01-13 04:10:03",
       "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs"
+        "name": "Hometown Cha-Cha-Cha, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc"
       },
       "artists": [
         {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 244999,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x"
+      "duration_ms": 254771,
+      "name": "Here Always (SEUNGMIN of Stray Kids)",
+      "url": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n"
     },
     {
       "added_at": "2023-01-13 04:10:03",
@@ -795,6 +779,22 @@
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
+    },
+    {
+      "added_at": "2023-01-13 04:10:03",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x"
     },
     {
       "added_at": "2023-01-13 04:10:03",

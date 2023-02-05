@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-84 songs - 6 hr 21 min
+85 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 | 2022-02-11 |  |
 | [Nguwe](https://open.spotify.com/track/3JNNGzaXNqVAGZYI8l2Gzz) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:16 | 2022-02-11 |  |
 | [Nguwe](https://open.spotify.com/track/7tQKi99tyc2ZIMzwVX1k05) | [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Brave, True and Strong](https://open.spotify.com/album/1zbYhGs3pjKtO3Fw8OwFDx) | 4:24 | 2022-02-11 |  |
-| [Nhliziyo](https://open.spotify.com/track/2FvrvWOB4RGBoFYtzbt8Xk) | [Coolkiid Da Vocalist](https://open.spotify.com/artist/6l2obbFOXzUtnokXAqTlO0) | [Nhliziyo](https://open.spotify.com/album/3uAxTDRdp4RmcDpxzUshFt) | 4:33 | 2022-02-11 |  |
+| [Nhliziyo](https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH) | [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Nhliziyo](https://open.spotify.com/album/0g87VdtZ8LO9Vxd1vqPBTA) | 4:33 | 2022-02-11 |  |
+| [Nhliziyo](https://open.spotify.com/track/2FvrvWOB4RGBoFYtzbt8Xk) | [Coolkiid Da Vocalist](https://open.spotify.com/artist/6l2obbFOXzUtnokXAqTlO0) | [Nhliziyo](https://open.spotify.com/album/3uAxTDRdp4RmcDpxzUshFt) | 4:33 | 2022-02-11 | 2023-02-05 |
 | [No Ties](https://open.spotify.com/track/0xIk1Mv1q0pltMlbTWDkd3) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP) | [Pink Panther](https://open.spotify.com/album/5nqjH5Dwyb0kqpkazgHPN7) | 3:57 | 2022-02-11 |  |
 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 | 2022-02-11 |  |
 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 | 2022-02-11 |  |

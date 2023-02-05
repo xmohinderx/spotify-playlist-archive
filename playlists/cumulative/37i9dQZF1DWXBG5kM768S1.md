@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-200 songs - 12 hr 45 min
+201 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Danny Boy](https://open.spotify.com/track/6W0REfkZAVTo1JrLUdsAfU) | [Narum](https://open.spotify.com/artist/6r2dDOJwJMfAdt9kPcQc4b) | [Danny Boy](https://open.spotify.com/album/1hxN75DWN4liP5FwODoGaX) | 3:27 | 2021-12-16 | 2022-07-17 |
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |
 | [Den finast eg veit](https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [CoolTur](https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6) | 4:04 | 2021-12-16 |  |
-| [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 |  |
+| [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 | 2023-02-05 |
 | [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 | 2021-12-16 | 2023-01-29 |
 | [Der var du](https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK) | [Kim Rysstad](https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796) | [Der var du](https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf) | 3:36 | 2021-12-16 | 2022-07-28 |
 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 | 2021-12-16 | 2022-08-19 |
@@ -74,6 +74,7 @@
 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 | 2021-12-16 |  |
 | [Fingeravtrykk](https://open.spotify.com/track/7176c184pups4Q02ZPhTAl) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Fingeravtrykk](https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW) | 7:01 | 2022-07-14 | 2022-10-03 |
 | [Finn Veien Engel \- New version](https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Finn Veien Engel \(New Version\)](https://open.spotify.com/album/7wcbrQi9tIPwNN5R9g87vE) | 3:04 | 2021-12-16 | 2022-07-28 |
+| [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-02 |  |
 | [Fordi eg elskar deg](https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fordi eg elskar deg](https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC) | 3:10 | 2023-01-12 |  |
 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 | 2021-12-16 |  |
 | [Fremmed](https://open.spotify.com/track/2liMUVPm6WJu5dG2DD7ZRt) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [En Fremmed Banker På](https://open.spotify.com/album/6O1DlVAdXcMVuCOrfnl0nQ) | 2:59 | 2022-01-27 | 2022-01-29 |

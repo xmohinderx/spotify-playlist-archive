@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-249 songs - 14 hr 57 min
+250 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [El Viajecito](https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ) | [Renacimiento 74](https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU) | [12 Super Exitos](https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG) | 2:59 | 2022-07-19 |  |
 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 | 2022-07-19 |  |
 | [Ella Se Olvido De Mí](https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Nunca Te Olvidaré](https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88) | 3:25 | 2022-06-07 | 2022-07-29 |
+| [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 4:47 | 2022-12-30 |  |
 | [En septiembre fuiste mia](https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI) | [Miguel Alejandro](https://open.spotify.com/artist/0d2A861NEFqVpEogrYewVJ) | [Miguel Alejandro \- El conejito de Rio Cuarto](https://open.spotify.com/album/5cAP4mv4XQWlfZfjOK11nt) | 3:25 | 2022-07-19 |  |
 | [En Tus Manos](https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [En Tus Manos](https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK) | 3:29 | 2022-06-07 |  |
 | [Enamorada de un Amigo Mio](https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw) | [La Suerte Sonidera](https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v) | [30 Exitos de Oro 30, Vol\. 1](https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf) | 4:03 | 2022-12-30 |  |
@@ -166,7 +167,7 @@
 | [Muñeca Esquiva](https://open.spotify.com/track/0cSV5FFD9zgq5ugN30vCOW) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [24 Cumbias Pa' bailar: Al Calor De La Cumbia](https://open.spotify.com/album/6XjNCf40oumpbTuR7TByox) | 3:03 | 2021-10-19 | 2022-07-29 |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-19 |  |
 | [No Mientas Mas](https://open.spotify.com/track/18VNH7qlbge0PSmu5Rdr0t) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/5JsU1OR6DYloLGe7rC8Wt3) | 3:54 | 2022-06-07 | 2022-07-29 |
-| [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 | 2022-07-19 |  |
+| [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 | 2022-07-19 | 2023-02-05 |
 | [No Te Vayas, Corazón](https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [20 Superéxitos Originales](https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f) | 2:27 | 2022-06-07 | 2022-07-20 |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Vol\. 4](https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW) | 3:52 | 2022-07-19 |  |
 | [No Te Voy A Perdonar](https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Volumen 4](https://open.spotify.com/album/24V99ibPcTjI906jV1io1D) | 3:52 | 2021-10-19 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Agudo Mágico 3 e os funks mais 🔑 do Brasil\. Foto: MC K.K, Dj TG Beats, Dj Aurélio, MC Lipivox
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,331,292 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,334,900 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

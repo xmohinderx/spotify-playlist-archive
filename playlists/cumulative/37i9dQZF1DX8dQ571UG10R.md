@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-64 songs - 4 hr 30 min
+65 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F) | 3:56 | 2022-05-27 |  |
 | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/track/4QZbAIUPX2qUIrs7oXEXnK) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4bZJ9l9F1gnc4fFjJaWAv3) | 3:29 | 2022-02-22 | 2022-07-29 |
 | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/track/4suKHiKiIP8uBmYWRBm3l9) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4M15kEp2oeRXUV3UsApUms) | 3:29 | 2022-05-27 |  |
-| [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/3j4bPNymMeOJOw0WXhc9FU) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/3VeyxUS5BOFLenyKbNsscq) | 2:31 | 2022-02-22 |  |
+| [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 | 2022-05-27 |  |
+| [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/3j4bPNymMeOJOw0WXhc9FU) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/3VeyxUS5BOFLenyKbNsscq) | 2:31 | 2022-02-22 | 2023-02-05 |
 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/2hHMICUam5FJowur5Ca1Lj) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/6A85XFB7IFOOtxROr4Aj3B) | 9:21 | 2022-02-22 | 2022-07-29 |
 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/6xcQRc6H2UdTX425C2YzNY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/0epgFUtxp0mQwVWiGHbqzE) | 9:21 | 2022-05-27 |  |
 | [Rei dos Piratas](https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Rei dos Piratas](https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w) | 3:29 | 2022-02-22 |  |

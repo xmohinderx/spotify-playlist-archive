@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,209 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,262 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 51 | [Ecstatica](https://open.spotify.com/track/10kgnaSAqXAU0zYhcZcarP) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe), [Wasted Fates](https://open.spotify.com/artist/5qfISwWNd9LH2hrEh6oanq) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 3:43 |
 | 52 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 53 | [Neverland](https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Neverland](https://open.spotify.com/album/1z8kbd29vvgGVkjaxss02U) | 3:21 |
-| 54 | [Red Plum](https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Sunniva Lindgård \(Producer\), Sunniva Lindgård \(Composer\), Andrew Murray Baardsen \(Producer\)](https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:42 |
+| 54 | [Red Plum](https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:42 |
 | 55 | [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 |
 | 56 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 |
 | 57 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 |

@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-291 songs - 17 hr 9 min
+292 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 | 2021-06-22 | 2022-11-13 |
 | [Bitter St](https://open.spotify.com/track/62tDr0leoZeIRshAkGjFHX) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Bitter St](https://open.spotify.com/album/0XjCBT35cgyapga0J5pWnz) | 3:47 | 2021-06-22 | 2022-05-28 |
 | [Bitter With The Sweet](https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:28 | 2021-06-22 | 2022-07-29 |
-| [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 | 2021-06-22 |  |
+| [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 | 2021-06-22 | 2023-02-05 |
 | [Blame](https://open.spotify.com/track/1Q9QB2I96Yj5gO3oNgfh8q) | [Wilder Gray](https://open.spotify.com/artist/74RlyWfSIpHWsObpkuc0KC) | [Blame](https://open.spotify.com/album/50M2Qdh5WzzhVWhIH2htx6) | 2:36 | 2021-06-22 | 2022-01-07 |
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:09 | 2021-06-22 | 2022-05-18 |
 | [Boy You're Good](https://open.spotify.com/track/2FW8zqglrcLTWKKnmDUoi0) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Boy You're Good](https://open.spotify.com/album/0pVWMiCthCpbU0BOMONFoh) | 2:36 | 2021-06-22 | 2022-07-23 |
@@ -246,6 +246,7 @@
 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 | 2021-06-22 | 2022-07-23 |
 | [Take It With Me](https://open.spotify.com/track/3HqWGoi8pnK0YkqYR8Owlw) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Take It With Me](https://open.spotify.com/album/6i8Dp8VHJOawYl331h0qkl) | 4:59 | 2021-06-22 | 2022-05-14 |
 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-08-18 | 2023-02-03 |
+| [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-03 |  |
 | [Temporary Love](https://open.spotify.com/track/0xOkh1HVOkNL9pLbNryn58) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Temporary Love](https://open.spotify.com/album/6VFeONSpKL9y6KlWnH1rR7) | 3:38 | 2022-06-30 | 2022-07-21 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-10-04 | 2022-12-18 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 169702,
+  "num_followers": 169681,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGZlZjZlMzJjYmFiM2ZkMmVhMjdmMjkyNjZmZmU5NmI3",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMDkxNWU0N2E5ODc3MjBmYzBhM2M3MzgwOWQ4NjQ0ODMy",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "It's Giving Christmas",
+        "url": "https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "No Time Like Christmas",
+      "url": "https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn"
+    },
+    {
       "added_at": "2022-11-29 17:33:34",
       "album": {
         "name": "Christmas In Harlem",
@@ -147,22 +163,6 @@
       "duration_ms": 236213,
       "name": "Christmas In Harlem",
       "url": "https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "It's Giving Christmas",
-        "url": "https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "No Time Like Christmas",
-      "url": "https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn"
     },
     {
       "added_at": "2022-12-16 05:50:43",

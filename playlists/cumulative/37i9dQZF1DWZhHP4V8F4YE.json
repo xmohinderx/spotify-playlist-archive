@@ -965,6 +965,36 @@
     },
     {
       "album": {
+        "name": "Clandestina (JVSTIN Remix)",
+        "url": "https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW"
+      },
+      "artists": [
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        },
+        {
+          "name": "Edmofo",
+          "url": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
+        },
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        },
+        {
+          "name": "Jvstin",
+          "url": "https://open.spotify.com/artist/7yx9U0pCgGRvOPLjT75Rgd"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145233,
+      "name": "Clandestina - JVSTIN Remix",
+      "url": "https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz"
+    },
+    {
+      "album": {
         "name": "Clandestina",
         "url": "https://open.spotify.com/album/2XNNaihXW2NgngJ0sEoLMS"
       },
@@ -1760,7 +1790,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 146181,
       "name": "Imagine t'es d\u00e9scolaris\u00e9",
       "url": "https://open.spotify.com/track/09KjFPA3wIxxyPxqrARAjz"

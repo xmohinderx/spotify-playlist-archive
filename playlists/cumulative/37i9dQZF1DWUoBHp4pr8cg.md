@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax?si=0B3EUNRMSmmdMCPEDFJR\_Q">Trippie Redd</a>
 
-149 songs - 8 hr 7 min
+150 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [BIGGER THAN ME](https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 3:12 | 2022-10-21 |  |
 | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK) | 3:45 | 2022-09-22 | 2022-11-04 |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-09-22 | 2022-11-04 |
-| [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 | 2022-09-15 |  |
+| [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 | 2023-01-23 |  |
+| [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 | 2022-09-15 | 2023-02-05 |
 | [Bottle Girls \(feat\. Polo G & Almighty Jay\)](https://open.spotify.com/track/0bytLQW2lHZf8QcSaXnGMc) | [Manifest](https://open.spotify.com/artist/77PzT8wY3OapM2BHoyACz5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [Bottle Girls \(feat\. Polo G & Almighty Jay\)](https://open.spotify.com/album/5U1QskyIQkYSdRrtiHKPuG) | 2:15 | 2022-10-06 | 2022-12-13 |
 | [Break My Heart](https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Break My Heart](https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz) | 2:49 | 2022-11-14 | 2023-01-24 |
 | [Break Out Dat Cake](https://open.spotify.com/track/2WjrrTmJ7ZsZFvCSQy7bYY) | [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 3:31 | 2022-10-21 | 2022-11-15 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116055,
+  "num_followers": 116104,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MzYwMCwwMDAwMDAwMDc5NzliMmUxMGJmYmQ2NzIzMzhiMTc5ZGY3ZmI5MWMx",
+  "snapshot_id": "MTY3NTM1MzYwMCwwMDAwMDAwMDJlNTdiYTJkYjUxNDNmYzcyNzdmZDUxMGRkYmIzMmU1",
   "tracks": [
     {
       "added_at": "2023-02-02 16:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-02 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-02-02 16:00:00",
-      "album": {
         "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 193120,
       "name": "Remember - \u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
+    },
+    {
+      "added_at": "2023-02-02 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2023-02-02 16:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-02-02 16:00:00",
       "album": {
-        "name": "\u771f\u7f8e",
-        "url": "https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU"
-      },
-      "artists": [
-        {
-          "name": "Serrini",
-          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "8:13 am",
-      "url": "https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI"
-    },
-    {
-      "added_at": "2023-02-02 16:00:00",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 263173,
       "name": "\u592a\u8070\u660e",
       "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2023-02-02 16:00:00",
+      "album": {
+        "name": "\u771f\u7f8e",
+        "url": "https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "8:13 am",
+      "url": "https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI"
     },
     {
       "added_at": "2023-02-02 16:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-02 16:00:00",
       "album": {
-        "name": "Sounds of My Life",
-        "url": "https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "\u4e0d\u7528\u544a\u8a34\u6211 - \u6771\u68ee\u6232\u5287\u53f0\u97d3\u5287\u300c\u5de7\u514b\u529b\u300d\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX"
-    },
-    {
-      "added_at": "2023-02-02 16:00:00",
-      "album": {
         "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
         "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2023-02-02 16:00:00",
+      "album": {
+        "name": "Sounds of My Life",
+        "url": "https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "\u4e0d\u7528\u544a\u8a34\u6211 - \u6771\u68ee\u6232\u5287\u53f0\u97d3\u5287\u300c\u5de7\u514b\u529b\u300d\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX"
     },
     {
       "added_at": "2023-02-02 16:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-02-02 16:00:00",
       "album": {
-        "name": "\u6700\u7f8e\u7684\u554f\u5019-\u5c0fV\u4e4b\u6b4c",
-        "url": "https://open.spotify.com/album/20YZFuK2CKA2HcSw3nZYDu"
-      },
-      "artists": [
-        {
-          "name": "\u54c1\u51a0 feat. Jayden",
-          "url": "https://open.spotify.com/artist/5OT2MWZROTF7BxFIAUeDyt"
-        },
-        {
-          "name": "Jayden Wong",
-          "url": "https://open.spotify.com/artist/2yTm58eD41vWmwkv56AZe9"
-        }
-      ],
-      "duration_ms": 221690,
-      "name": "\u6700\u7f8e\u7684\u554f\u5019-\u5c0fV\u4e4b\u6b4c",
-      "url": "https://open.spotify.com/track/7c9R1ewxKUIMsU5QrWlwPi"
-    },
-    {
-      "added_at": "2023-02-02 16:00:00",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -831,6 +811,22 @@
       "duration_ms": 310933,
       "name": "\u966a\u8457\u4f60",
       "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2023-02-02 16:00:00",
+      "album": {
+        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
+        "url": "https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "\u4f60\u662f\u8aaa\u8b0a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

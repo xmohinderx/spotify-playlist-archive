@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 43 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 44 | [Siyathandana](https://open.spotify.com/track/3pSWBAu9rrzoD5RwHGBdtc) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 4:30 |
 | 45 | [let it go,](https://open.spotify.com/track/4Atca39I6C2YVIUQDBPayi) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [let it go,](https://open.spotify.com/album/1JPKedtSd5tIYraeevhQYn) | 3:35 |
-| 46 | [Nhliziyo](https://open.spotify.com/track/2FvrvWOB4RGBoFYtzbt8Xk) | [Coolkiid Da Vocalist](https://open.spotify.com/artist/6l2obbFOXzUtnokXAqTlO0) | [Nhliziyo](https://open.spotify.com/album/3uAxTDRdp4RmcDpxzUshFt) | 4:33 |
+| 46 | [Nhliziyo](https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH) | [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Nhliziyo](https://open.spotify.com/album/0g87VdtZ8LO9Vxd1vqPBTA) | 4:33 |
 | 47 | [Vuka \(feat\. Anthony Hamilton & Soweto Gospel Choir\)](https://open.spotify.com/track/224GNyXOJP9ouS7Z9jbtzX) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 4:39 |
 | 48 | [Uthando'lunje](https://open.spotify.com/track/65GUvMEHSemavaT6Jmm3Iv) | [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah), [Teamoswabii](https://open.spotify.com/artist/0ePAUhdGPzGvrX46teYQ80) | [Uthando'lunje](https://open.spotify.com/album/1FUMDbne73baYvn2Na6qL4) | 5:04 |
 | 49 | [Atamela](https://open.spotify.com/track/0ygf2pf66KVHaaFLPBqisI) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Evolution of Love](https://open.spotify.com/album/4Q3PFsJo6g39tOvcEEHhVJ) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 74 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 75 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMDc1MzY2MmZkNjMwNzQ3MjJlZDkxZjFkNzI0ZmFlODI5`
+Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMDE5YWJmNTVhN2E5NjBjZjY3N2UzODU0OGVkNWM2ZGQ5`

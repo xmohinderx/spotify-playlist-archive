@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-109 songs - 8 hr 1 min
+110 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Unna Nenachu \(From "Psycho \(Tamil\)"\)](https://open.spotify.com/track/5KW8kOHmXqkDEdj6JyP3dJ) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Unna Nenachu \[From "Psycho \(Tamil\)"\]](https://open.spotify.com/album/22B5z9zdXhj9z6j1ejTJ0F) | 4:35 | 2021-08-16 | 2022-08-30 |
 | [Uyir Urugudhey](https://open.spotify.com/track/66rGA1vJn4xCuNCyPFeLoz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 5:13 | 2022-07-21 | 2022-08-30 |
 | [Uyir Uruvaatha \- From "Iravukku Aayiram Kangal"](https://open.spotify.com/track/5dmT9CGPfulrQxLZDKnujW) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Adiyae Azhagae](https://open.spotify.com/album/5xKHvZGvhLHfsp7AgzL1kK) | 4:13 | 2022-01-03 |  |
+| [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 | 2023-02-04 |  |
 | [Vaseegara](https://open.spotify.com/track/34IgZueFcAjJ1xwVxH1ANy) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnalae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YU8UWD0sq0b3nAbR3pUfz) | 4:59 | 2022-03-11 |  |
 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 | 2021-08-16 | 2022-07-29 |
 | [Velicha Poove](https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 5:12 | 2022-01-03 |  |

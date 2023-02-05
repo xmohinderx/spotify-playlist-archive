@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,401 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,493 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 69 | [If I Ever](https://open.spotify.com/track/7bRz4TuVPUqb97BFcLPCqM) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [If I Ever](https://open.spotify.com/album/49fKC1zz6nq1MPkGIVDgTv) | 3:14 |
 | 70 | [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 |
 | 71 | [nervous](https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [nervous](https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5) | 2:58 |
-| 72 | [How Dare You](https://open.spotify.com/track/46BkUL2Djjg8jcEjXNpkZZ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/0I1ZzxaunjjzwTlL22RB3U) | 3:10 |
+| 72 | [How Dare You](https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b) | 3:09 |
 | 73 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 |
 | 74 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 |
 | 75 | [happier](https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [happier](https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 |
 | 100 | [Chill the fck out](https://open.spotify.com/track/55hyP7AgyARhDivfCUpYjk) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Chill the fck out](https://open.spotify.com/album/3Xnb5kb0Ko1mazhtq4jsRU) | 2:48 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDE1NTBmZjRlZGQ1NzY1OTg4ODhhYzcyYjRmMDYwMDlm`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDRmMzJlMmQxZGI2ZjE2Y2IyNzMwZGEyYmVhY2ZhNjQz`

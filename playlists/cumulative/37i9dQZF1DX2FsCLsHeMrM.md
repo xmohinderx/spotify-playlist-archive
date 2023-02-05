@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-295 songs - 19 hr 28 min
+296 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-08-02 |  |
 | [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 | 2021-11-10 |  |
 | [Sunrise](https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Sunrise European Single](https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP) | 3:20 | 2021-11-10 |  |
+| [Switch](https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:16 | 2023-01-30 |  |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-07 | 2022-11-08 |
 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 | 2021-11-10 |  |
 | [Temple of Soul](https://open.spotify.com/track/7DJzbogsi7SaCEQL3FwYsq) | [Shaolin Temple Defenders](https://open.spotify.com/artist/24JkoUWxHMpsrQFM9ADY4u) | [From the Inside](https://open.spotify.com/album/3N6254c1OtpQhnCVAScmfx) | 4:17 | 2022-01-20 | 2022-11-13 |
@@ -271,7 +272,7 @@
 | [Used to Love U](https://open.spotify.com/track/3uBbvynFWlF041WzNVHd1d) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 3:30 | 2021-11-10 | 2022-07-29 |
 | [Valerie \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/1879aiUSpb1qNoiwtQA2XH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3sCu3TWUbGFOEDm4IHx8Gu) | 3:52 | 2021-11-10 | 2022-07-29 |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-06-03 |  |
-| [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 | 2022-06-03 |  |
+| [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 | 2022-06-03 | 2023-02-05 |
 | [Video](https://open.spotify.com/track/5ewa79Xg31HDefmPUpZX0Y) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/2vc5pjWadm2Q8FxdJ3JSwV) | 4:09 | 2021-11-10 | 2022-07-29 |
 | [Video Girl](https://open.spotify.com/track/1QTwsvMPkxAhMNsuYamqZQ) | [Daniel Price](https://open.spotify.com/artist/7FzTAoAvEVREt2FjsLisDP) | [Video Girl](https://open.spotify.com/album/3CK5KtdXAGu9Cis8X1O5yt) | 2:49 | 2022-06-03 | 2022-08-10 |
 | [Video Girl](https://open.spotify.com/track/7EIKw1M8ByLYq9ISRRmtnE) | [Daniel Price](https://open.spotify.com/artist/7FzTAoAvEVREt2FjsLisDP) | [Video Girl](https://open.spotify.com/album/606mNPrS5IZEyfD8t9YmDk) | 2:50 | 2022-03-28 | 2022-07-29 |

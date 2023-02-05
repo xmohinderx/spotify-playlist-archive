@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,652 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,618 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 64 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
 | 65 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 66 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
-| 67 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 |
-| 68 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 67 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 68 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 |
 | 69 | [Little Toy Trains](https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG) | 2:14 |
-| 70 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
-| 71 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
+| 70 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
+| 71 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
 | 72 | [Blue Christmas](https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Blue Christmas](https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO) | 3:49 |
 | 73 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
 | 74 | [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 |
 | 100 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGExZTFmZGNkYzVhNTZlMDgyOWUxNTNiYjgzOWUwMzU3`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDYzYjYwYWY2NGZmMTZlNTY4ZTQxNjg1MmY4Yjk3Yzlh`

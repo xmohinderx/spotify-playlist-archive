@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-250 songs - 16 hr 27 min
+251 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-03-11 | 2023-01-07 |
 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 | 2021-05-15 |  |
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07\* | 2020-12-11 |
+| [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
 | [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 |  |
 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 | 2022-03-11 |  |
@@ -238,7 +239,7 @@
 | [Throne](https://open.spotify.com/track/3FrBWZ5A44JTlowzHrydLa) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Throne](https://open.spotify.com/album/5qlC51M6oE1JXumk2noo7r) | 2:59 | 2020-12-07\* | 2020-12-11 |
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |
 | [Tin Soldiers](https://open.spotify.com/track/7LvdCAqmBLiOFYReWT7crb) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Tin Soldiers](https://open.spotify.com/album/2suDNX2Zms7YMC3jymUXnp) | 6:26 | 2020-12-07\* | 2020-12-11 |
-| [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 | 2020-12-07\* |  |
+| [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 | 2020-12-07\* | 2023-02-05 |
 | [Umbra](https://open.spotify.com/track/6X5dxdTEbvVlzBWEZaNYYh) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Umbra](https://open.spotify.com/album/3hNt3wQ8EJzxShv4OkJJvw) | 3:57 | 2020-12-07\* | 2020-12-11 |
 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 | 2020-12-07\* | 2021-05-15 |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2020-12-07\* | 2022-07-28 |

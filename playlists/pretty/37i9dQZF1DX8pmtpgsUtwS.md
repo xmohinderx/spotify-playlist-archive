@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,432 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,461 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 4 | [Jazbaat](https://open.spotify.com/track/5KPgdiXBqZeMKn3LSkNV8S) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn), [Shubham Roy](https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io) | [Jazbaat](https://open.spotify.com/album/02WsvCMmNNPnsQLToOKMdL) | 5:46 |
 | 5 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 6 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 |
-| 7 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 |
-| 8 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
+| 7 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
+| 8 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 |
 | 9 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 10 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 | 11 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 46 | [HUES Of DAWN](https://open.spotify.com/track/0Vpe8MGbNeVD5dRIPY3gZa) | [Keshav Mohankumar](https://open.spotify.com/artist/5G29sllOnlnqJf5SGyEP1u), [sai shiv](https://open.spotify.com/artist/1bYiS5Rw8rpm8JxDoEUWga), [Sujayeendra Rao](https://open.spotify.com/artist/53sLC21LuaFVnLHAPk80FE), [Samrudh Srinivas](https://open.spotify.com/artist/5sm5js0tVo2wEgBVTmOwX7), [Shamith S Gowda](https://open.spotify.com/artist/5f7jMNBP9S7osyGl7wPz7i) | [HUES Of DAWN](https://open.spotify.com/album/3vbnOOJa9AL5DXz0zSSbOX) | 4:10 |
 | 47 | [Dehi](https://open.spotify.com/track/3dcxfK2dv5Wx41biEuRiZd) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Dehi](https://open.spotify.com/album/3JwEPc7W3rVTRv0rfHaHw5) | 4:33 |
 | 48 | [Manwa](https://open.spotify.com/track/1hGwx6Sr7kzdycdPBoIQ2C) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Manwa](https://open.spotify.com/album/1VcBUBWM2GZZZhBWMo3ZNZ) | 3:59 |
-| 49 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
-| 50 | [Naino Waaleya](https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Kamran Zafar](https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des), [Kshitij Mathur](https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Naino Waaleya](https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723) | 6:27 |
+| 49 | [Naino Waaleya](https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Kamran Zafar](https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des), [Kshitij Mathur](https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Naino Waaleya](https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723) | 6:27 |
+| 50 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 
-Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMGUxODY1NjdiNWE1NTJiNDg5MmNmZjRhNWY3OWQxOTg3`
+Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDk3NDcyZmJkZWMwNjJkNTZlZDU0ZjQwZDhmOThkM2Qy`

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-231 songs - 14 hr 46 min
+232 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 | 2022-07-24 |
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 |  |
+| [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 | 2023-02-05 |  |
 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH) | [Sympathies](https://open.spotify.com/artist/4ivXcuZRP6CfR9gVdmE2yb) | [Reconnect with Me](https://open.spotify.com/album/0DSfvoJLR6f9MzwlFutcqy) | 3:00 | 2021-12-15 | 2022-07-21 |
 | [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 |  |
@@ -163,7 +164,7 @@
 | [Passing On](https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4) | [Untitled With Drums](https://open.spotify.com/artist/4XiFVuDepsbUebkmNbTjlu) | [Hollow](https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ) | 4:05 | 2021-12-15 | 2022-07-28 |
 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 | 2023-01-27 |
 | [People In The Shadow](https://open.spotify.com/track/13Kk7Slvx443ZmMAFB9fjP) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late \(Super Deluxe Version\)](https://open.spotify.com/album/2D9zCv79mWQw6j3nRTcf4N) | 4:30 | 2022-04-17 | 2022-07-29 |
-| [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 |  |
+| [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 | 2023-02-05 |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |
 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 | 2022-04-17 |  |
 | [Post\-Post\-](https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Post\-Post\-](https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM) | 7:34 | 2023-02-03 |  |

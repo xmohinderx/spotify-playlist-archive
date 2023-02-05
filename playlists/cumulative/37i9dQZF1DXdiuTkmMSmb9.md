@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Craig Isto
 
-219 songs - 11 hr 29 min
+220 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-07-18 | 2022-08-19 |
 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 | 2022-07-18 | 2023-02-03 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-28 |  |
-| [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 | 2022-07-18 |  |
+| [Be Mine](https://open.spotify.com/track/3HJ7QmjAgQPrQMfLBcZSCV) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6TzSnNdrCirsilJc476YHs) | 3:45 | 2023-02-02 |  |
+| [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 | 2022-07-18 | 2023-02-05 |
 | [Be Your Man](https://open.spotify.com/track/7jS8pWrGS7BdD5MXMbciBW) | [WaiKid](https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q) | [Be Your Man](https://open.spotify.com/album/3Zc3rOr3Vbkn7iPql4huXG) | 3:01 | 2022-07-18 |  |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-07-18 | 2022-07-22 |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-07-18 |  |

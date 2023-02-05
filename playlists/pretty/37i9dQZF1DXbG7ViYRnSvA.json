@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 5616,
+  "num_followers": 5656,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDYzYTkzMWQwOTA5NDliYmI1M2FmZjZlNjA5ZmY3YWRl",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQ1YjQ1YWUxMjdlNDA5YjkwNWFhYWIyYmNhNWMyZWFj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Picture This",
-        "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
-      },
-      "artists": [
-        {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
-        }
-      ],
-      "duration_ms": 234826,
-      "name": "Po Pimp",
-      "url": "https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 305280,
       "name": "UMI Says",
       "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
+      },
+      "artists": [
+        {
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "duration_ms": 234826,
+      "name": "Po Pimp",
+      "url": "https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f"
     },
     {
       "added_at": "2022-10-01 16:00:00",

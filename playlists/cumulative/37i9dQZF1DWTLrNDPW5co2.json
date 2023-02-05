@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Heart Ego",
+        "url": "https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Red Plum",
+      "url": "https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf"
+    },
+    {
+      "album": {
         "name": "Red Plum",
         "url": "https://open.spotify.com/album/0qjHlh505jPgo8ZA8xRmR0"
       },
@@ -1468,28 +1486,6 @@
       "duration_ms": 222333,
       "name": "Red Plum",
       "url": "https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF"
-    },
-    {
-      "album": {
-        "name": "Heart Ego",
-        "url": "https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "Sunniva Lindg\u00e5rd (Producer), Sunniva Lindg\u00e5rd (Composer), Andrew Murray Baardsen (Producer)",
-          "url": "https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS"
-        }
-      ],
-      "date_added": "2022-07-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222333,
-      "name": "Red Plum",
-      "url": "https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf"
     },
     {
       "album": {

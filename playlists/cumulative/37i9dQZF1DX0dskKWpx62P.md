@@ -4,10 +4,11 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-110 songs - 7 hr 19 min
+110 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 0:00 | 2022-02-04 |  |
 | [A los Filos de un Cuchillo](https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM) | 3:08 | 2022-02-04 |  |
 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 | 2022-02-04 | 2022-07-29 |
 | [Acabas Conmigo](https://open.spotify.com/track/7rjG8mw40BN1wObtAXWfBS) | [Pata Amarilla](https://open.spotify.com/artist/3Ukp93gTWP1AnPcDtVBJNX) | [Alpaquitay](https://open.spotify.com/album/1ZigilzcTvEmshQoYyPfhT) | 4:02 | 2022-02-04 |  |
@@ -113,7 +114,6 @@
 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 | 2022-02-04 |  |
 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 | 2022-02-04 |  |
 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 | 2022-02-04 |  |
-| [Vida Ya No es Vida](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 4:43 | 2022-02-04 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1Neoq9Qlrcv0pHVWZTmDky) | 4:47 | 2022-02-04 | 2022-07-29 |
 | [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 | 2023-02-04 |

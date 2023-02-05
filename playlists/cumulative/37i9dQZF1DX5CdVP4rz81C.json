@@ -8768,6 +8768,24 @@
     {
       "album": {
         "name": "How Dare You",
+        "url": "https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189552,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ"
+    },
+    {
+      "album": {
+        "name": "How Dare You",
         "url": "https://open.spotify.com/album/0I1ZzxaunjjzwTlL22RB3U"
       },
       "artists": [
@@ -8778,7 +8796,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 190301,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/46BkUL2Djjg8jcEjXNpkZZ"

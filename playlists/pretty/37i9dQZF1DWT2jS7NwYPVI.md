@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: MOD SUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,647 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,736 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 24 | [Kaden's Van](https://open.spotify.com/track/6xYUqjuiCUX5ZX6V7EKfSw) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Kaden's Van](https://open.spotify.com/album/3GKk6TY6hsUXHzyXrtfvgH) | 2:37 |
 | 25 | [deadly ever after](https://open.spotify.com/track/6NzTKn3WXr8lX8nbjQ6EKz) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi) | 3:23 |
 | 26 | [Blueberry Pancakes](https://open.spotify.com/track/5q4ZaW736bhm3Cd9DQzCWU) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Blueberry Pancakes](https://open.spotify.com/album/2jeAs2YcrLecY2lJKC4jJR) | 3:29 |
-| 27 | [Give It up to Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 27 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 28 | [Holly](https://open.spotify.com/track/2JUvDYr4aKfI1Qg1dIefxZ) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Holly](https://open.spotify.com/album/1vUcIP9rKpbAnouzD7UCXW) | 2:47 |
 | 29 | [TIME&PLACE](https://open.spotify.com/track/7I2SSOnol8GMtxP9kFojdW) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [TIME&PLACE](https://open.spotify.com/album/7GagREZar3joLD8XRgilsP) | 2:53 |
 | 30 | [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 |

@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Sanchez
 
-1,158 songs - 2 day 13 hr 44 min
+1,159 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2020-04-26\* | 2020-10-09 |
 | [happy for me](https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [happy for me](https://open.spotify.com/album/5BMliAH2ieqeKktKa1qsbK) | 3:11 | 2021-09-11 | 2021-10-23 |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-07-31 | 2020-10-02 |
-| [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-04 |  |
+| [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-04 | 2023-02-05 |
 | [Haunt You](https://open.spotify.com/track/0ikj11vlWRTn6lxs5xMkOj) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Haunt You](https://open.spotify.com/album/16sm0PLHDeBVPQhNtpxLOC) | 2:46 | 2022-07-22 | 2022-08-27 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-04-10 | 2021-06-12 |
 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2022-06-24 |  |
@@ -997,6 +997,7 @@
 | [Talking to Myself](https://open.spotify.com/track/7t5uiTZNaSrQpTvs7fonmK) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself](https://open.spotify.com/album/6wkNeJH60FfISXiYHA6cpo) | 3:51 | 2020-04-26\* | 2020-05-01 |
 | [taxi](https://open.spotify.com/track/0P9Ae9w3C4A0SnNHvNPrMf) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [taxi](https://open.spotify.com/album/7uvIEzp4BtkQZxkmRBrnmD) | 3:17 | 2021-08-28 | 2021-10-02 |
 | [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-10-05 | 2023-02-04 |
+| [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-03 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-06 | 2021-03-14 |
 | [Temporary](https://open.spotify.com/track/2XvjJCTvgmV9rd4ZHImBfc) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0) | [Temporary](https://open.spotify.com/album/4Qghl3DP17dDl14pvXCrJ9) | 3:13 | 2021-04-03 | 2021-05-15 |
 | [tendency to be a loner](https://open.spotify.com/track/0PzwDnvMKSBmAw8zrZhf11) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [tendency to be a loner](https://open.spotify.com/album/3LOgsvdQ5sXeAFLYxvYiov) | 3:16 | 2021-05-15 | 2021-07-04 |

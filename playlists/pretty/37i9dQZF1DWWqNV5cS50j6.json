@@ -1,12 +1,12 @@
 {
   "description": "jonatan leandoer96 makes anti pop.",
-  "num_followers": 691387,
+  "num_followers": 691466,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGQxMDY4MDZiODMxYjFmMTA3ODNiNTUyNTk3NjNiYmUx",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGQ0ODRmNTBlMWY1MzZlODhiYTA0ZTI4YjJkZTI5ODAw",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "TROJAN HORSE",
+        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
+      },
+      "artists": [
+        {
+          "name": "SEBASTIAN PAUL",
+          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
+        }
+      ],
+      "duration_ms": 266393,
+      "name": "TROJAN HORSE",
+      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
+    },
+    {
       "added_at": "2022-12-16 15:41:08",
       "album": {
         "name": "The Family",
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "TROJAN HORSE",
-        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
-      },
-      "artists": [
-        {
-          "name": "SEBASTIAN PAUL",
-          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
-        }
-      ],
-      "duration_ms": 266393,
-      "name": "TROJAN HORSE",
-      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "ZIG ZAGGING",
         "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 124800,
       "name": "ZIG ZAGGING",
       "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sundance Freestyle",
+        "url": "https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 110091,
+      "name": "Sundance Freestyle",
+      "url": "https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -551,22 +567,6 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sundance Freestyle",
-        "url": "https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 110091,
-      "name": "Sundance Freestyle",
-      "url": "https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "lazy",
+        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "lazy (haste)",
+      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "wide eyed",
@@ -807,22 +823,6 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "lazy",
-        "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "lazy (haste)",
-      "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
     },
     {
       "added_at": "2022-11-30 19:41:15",

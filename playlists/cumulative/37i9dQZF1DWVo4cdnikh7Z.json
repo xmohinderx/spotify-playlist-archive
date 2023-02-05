@@ -8551,6 +8551,32 @@
     },
     {
       "album": {
+        "name": "Vaathi",
+        "url": "https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sooriya Paravaigaley",
+      "url": "https://open.spotify.com/track/2UwaecVMeY5mmMdSKAiMsK"
+    },
+    {
+      "album": {
         "name": "Sardar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE"
       },

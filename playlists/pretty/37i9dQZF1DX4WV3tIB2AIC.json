@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6248,
+  "num_followers": 6263,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDJjYzU0ZGM1YzI2ZGZlNjVmM2FhNjUzZTZmNTllN2Vl",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGM2NTQwNzU3YWVmYjhkMmQ5N2I0OTQxMmVjZjI0NzNj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 271696,
       "name": "Blood Upon the Snow",
       "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2022-11-30 13:46:00",

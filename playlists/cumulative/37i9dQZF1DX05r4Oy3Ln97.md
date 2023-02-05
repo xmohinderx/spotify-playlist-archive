@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-214 songs - 10 hr 54 min
+215 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-03-11 | 2022-07-26 |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-10-29 | 2022-03-26 |
 | [Kids of NYC](https://open.spotify.com/track/38QPK6YAciyWdfJNEY9siA) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA), [Strobe](https://open.spotify.com/artist/02kU78WfHXLRT2GvnmzNaA) | [Kids of NYC](https://open.spotify.com/album/5kS8n7HngorYxQKlpOXr0d) | 2:22 | 2021-10-29 | 2022-07-29 |
+| [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-27 |  |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2021-10-29 | 2022-07-28 |
 | [LaLaLife](https://open.spotify.com/track/65wtR5L5oqoTD1FRqa5Mnp) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [LaLaLife](https://open.spotify.com/album/3Y8haNQCsFIsaLPAOyYE47) | 2:38 | 2021-10-29 | 2022-03-26 |
 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 | 2021-10-29 | 2023-01-15 |
@@ -184,7 +185,7 @@
 | [Take Me Away](https://open.spotify.com/track/2fYLHOOmAn4rTO6zLYx0wj) | [NAOMi](https://open.spotify.com/artist/50zLQngWFzxVRJcQHVNpwj) | [Take Me Away](https://open.spotify.com/album/3XPCkW2JqpYza3WNaJ4j1q) | 3:27 | 2021-10-29 | 2022-07-29 |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-08-02 |  |
 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 | 2022-08-05 |  |
-| [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 | 2021-10-29 |  |
+| [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 | 2021-10-29 | 2023-02-05 |
 | [Terrified](https://open.spotify.com/track/4ypvGTFFUV8yJasEl7toew) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Terrified](https://open.spotify.com/album/56LHiKifAUCoXz8v2fWWR7) | 2:25 | 2021-10-29 | 2022-07-29 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2022-05-31 |  |
 | [The Festival Has Begun](https://open.spotify.com/track/7qZjrBnEXRA8I8NpQfqKdd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [The Festival Has Begun](https://open.spotify.com/album/4fpB0EwvrJtVP9MQBLRQtT) | 3:29 | 2023-01-27 |  |

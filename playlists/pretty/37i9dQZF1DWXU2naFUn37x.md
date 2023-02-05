@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Rondodasosa, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,870 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,973 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 27 | [Rollie AP \(feat\. Pyrex & Slings\)](https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:59 |
 | 28 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 |
 | 29 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 |
-| 30 | [Brutte Cose \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Brutte Cose \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 |
+| 30 | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 |
 | 31 | [BEBE \(feat\. Baby Gang\)](https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 2:46 |
 | 32 | [Incelofanata](https://open.spotify.com/track/4BTsPU8475oogvce7JnbN7) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 1:53 |
 | 33 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 |

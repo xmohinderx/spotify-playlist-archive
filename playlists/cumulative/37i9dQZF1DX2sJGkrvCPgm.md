@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-295 songs - 18 hr 34 min
+296 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,8 +195,9 @@
 | [Mistletoe Meltdown](https://open.spotify.com/track/6VYcqmoh8PqlsHQdvV4zAW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Irwin's Christmas Collection](https://open.spotify.com/album/317Rb3ssDv1clHRsHvEuYZ) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Noel](https://open.spotify.com/track/14811dAkS6Frq4vWNBxiLg) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Noel](https://open.spotify.com/album/3CSaK7RxIUinXyDW8coxou) | 3:25 | 2021-12-24 | 2022-07-24 |
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2021-12-24 | 2022-07-25 |
-| [Noel \- Live](https://open.spotify.com/track/08isGd2M7LhvFIrh4hNwJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:17 | 2021-12-24 |  |
+| [Noel \- Live](https://open.spotify.com/track/08isGd2M7LhvFIrh4hNwJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:17 | 2021-12-24 | 2023-02-05 |
 | [O Come \(Let Us Adore\)](https://open.spotify.com/track/0VlobtAI0AS2Zgk5KPFJbz) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [O Come \(Let Us Adore\)](https://open.spotify.com/album/40sjeJn5Nh3oBo0Wovyqje) | 3:23 | 2021-12-24 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [O Come All Ye Faithful](https://open.spotify.com/album/5thPoXoJSR4ooEcyXT8yGf) | 3:24 | 2022-12-11 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/6ZZ89AH8oApLLAWIgRKdPO) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Christmastime Is Here](https://open.spotify.com/album/0bKR3ZcGedHogpTXS6Vk1E) | 3:50 | 2021-12-24 | 2022-07-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/3PFcVGs3EfcUyoWsNIKf6w) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [O Come All Ye Faithful](https://open.spotify.com/album/7pAmb07Wl3TAYUREaimnwA) | 3:19 | 2021-12-24 |  |
 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 | 2022-12-11 |  |

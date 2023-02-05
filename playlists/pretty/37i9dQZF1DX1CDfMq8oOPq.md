@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,261 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,300 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
 | 42 | [Vibe](https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG) | [Dourado](https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x) | [Vibe](https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5) | 2:51 |
 | 43 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
-| 44 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
-| 45 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 |
+| 44 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 |
+| 45 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 46 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:24 |
 | 47 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 |
 | 48 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
 | 49 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 |
 | 50 | [Retada](https://open.spotify.com/track/1AGkCSTgA9CXLEalVk8VOj) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:30 |
 
-Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMDJjOTY2ZTk1NmRjM2U4NmIxNzk0MDA4NWEyM2FmNTQx`
+Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMGU0Y2MxYmU4ZTllZGUyN2Q4ODQwYmRiYTg4M2VhYzZl`

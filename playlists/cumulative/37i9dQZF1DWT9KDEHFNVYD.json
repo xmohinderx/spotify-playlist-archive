@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 431800,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq"
@@ -4321,6 +4321,28 @@
     },
     {
       "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+    },
+    {
+      "album": {
         "name": "Street Worms",
         "url": "https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk"
       },
@@ -5232,7 +5254,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 519260,
       "name": "Used to Think",
       "url": "https://open.spotify.com/track/6cIsY3cKGqj7GQFwezvseP"
@@ -5676,7 +5698,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 208784,
       "name": "\u00c9chale Campe\u00f3n",
       "url": "https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ"

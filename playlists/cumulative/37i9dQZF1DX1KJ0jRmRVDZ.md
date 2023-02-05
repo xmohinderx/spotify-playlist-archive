@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-614 songs - 1 day 11 hr 14 min
+615 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [ほっといて。](https://open.spotify.com/track/2trYnDbQVkQBW2X8Gk84vc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ほっといて。](https://open.spotify.com/album/5bld1SyxazffSqRWXqvZCM) | 2:57 | 2022-07-05 | 2022-07-27 |
 | [まいほろう](https://open.spotify.com/track/0C62SapmW8r7KaN36RE9uu) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [まいほろう](https://open.spotify.com/album/1rQBAoiwwvPNTXkan2hlrw) | 2:40 | 2022-06-09 | 2022-07-27 |
 | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/track/4cbnqWCOWxkZa5zHDuMqSA) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/album/4H767ooBx651dGXNBGlHal) | 3:42 | 2022-06-23 | 2022-07-27 |
+| [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-02-02 |  |
 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 | 2022-06-09 | 2023-01-11 |
 | [もう帰らないと](https://open.spotify.com/track/6wg6rOPRo0YxMZmuYp9S3K) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [もう帰らないと](https://open.spotify.com/album/1EMkb2H389wHZzVIqi38V0) | 4:08 | 2022-06-09 | 2022-06-13 |
 | [もしも命が描けたら](https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:21 | 2022-06-09 | 2022-07-27 |
@@ -443,7 +444,7 @@
 | [声届いた日から](https://open.spotify.com/track/6jpg3h3AUob8zNZJtECAku) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [声届いた日から](https://open.spotify.com/album/6lsgCIR0ASTH8pyL8Vhpg5) | 4:32 | 2022-08-18 | 2022-08-20 |
 | [売らん哉](https://open.spotify.com/track/2SLHjk0pPgwifmTml3bzWG) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [売らん哉](https://open.spotify.com/album/3i1S2wSQAUkB5eGcsVVl7w) | 2:15 | 2022-07-21 | 2022-07-23 |
 | [夏の予感](https://open.spotify.com/track/0pRVc4vIlWX0zHK1VTOAfm) | [kareru](https://open.spotify.com/artist/1hlJzANJbrdrCOdjWTD13f) | [夏めく](https://open.spotify.com/album/6NNfhAhK2TNHPhWGHDvJB5) | 2:40 | 2022-06-21 | 2022-07-01 |
-| [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 | 2022-10-04 |  |
+| [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 | 2022-10-04 | 2023-02-05 |
 | [夏端月の青さだけ](https://open.spotify.com/track/0eegDMhk0eorSNTCdLgzH3) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [夏端月の青さだけ](https://open.spotify.com/album/0vGgd0VdO83JYoDmfP2vbZ) | 3:29 | 2023-01-03 | 2023-01-11 |
 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 | 2022-06-14 | 2023-01-11 |
 | [夜行中](https://open.spotify.com/track/2Nw2EABynlmscrA3kE4FE7) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [夜行中](https://open.spotify.com/album/6Dlg4JVawt4ujXs89e9u1M) | 1:19 | 2022-06-14 | 2022-06-22 |

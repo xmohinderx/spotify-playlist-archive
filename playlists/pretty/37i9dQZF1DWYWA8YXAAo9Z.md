@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,237 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,286 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 54 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 55 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 |
 | 56 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
-| 57 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 |
-| 58 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
+| 57 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
+| 58 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 |
 | 59 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
-| 60 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
-| 61 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
+| 60 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
+| 61 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
 | 62 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
 | 63 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
 | 64 | [Raum \- Single Edit](https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Raum \(Single Edit\)](https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA) | 7:22 |
 | 65 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 |
 | 66 | [Liquid Planta Seeds](https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Liquid Planta Seeds](https://open.spotify.com/album/2qobaujPblxqumcde6yjVY) | 3:24 |
 | 67 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 |
-| 68 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
-| 69 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
-| 70 | [Biholomorphia](https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v) | [Benedict Mortimer](https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM), [Mark Watt](https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6) | [Biholomorphia](https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ) | 7:18 |
+| 68 | [Biholomorphia](https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v) | [Benedict Mortimer](https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM), [Mark Watt](https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6) | [Biholomorphia](https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ) | 7:18 |
+| 69 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
+| 70 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
 | 71 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 | 72 | [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 |
 | 73 | [Plant Memory](https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ) | [Caldera](https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V) | [One Last Glimpse](https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS) | 8:37 |
 | 74 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 |
 | 75 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
 
-Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMGY5MzFmZjE5MGYyYWFiNGRiNmUxZTk2YzM4YzhmZmVh`
+Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMGNlYjhkOWU5YmVhYjlmMjIzMTIwYjQ2Mzc3MDBkYmNj`

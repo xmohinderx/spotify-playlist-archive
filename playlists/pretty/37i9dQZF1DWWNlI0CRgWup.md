@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Nuit Incolore
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,968 likes - 32 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,974 likes - 32 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

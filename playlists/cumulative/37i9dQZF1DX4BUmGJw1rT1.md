@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-149 songs - 10 hr 35 min
+150 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 | 2022-07-08 |  |
 | [Forget What I Said](https://open.spotify.com/track/12tomJynzttjC14htb6SBE) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/5DiqFt60EYh2nEa3NzoCbp) | 3:19 | 2022-07-08 | 2022-07-21 |
 | [Fortunate Few](https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:25 | 2022-10-03 |  |
-| [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 | 2022-05-25 |  |
+| [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 | 2022-05-25 | 2023-02-05 |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-05-25 |  |
 | [Got Me a Party](https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Got Me a Party](https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk) | 2:20 | 2023-01-20 |  |
 | [Gravity](https://open.spotify.com/track/3KulI9oSHnhB9OZ41O3zMb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY) | 4:05 | 2022-05-25 | 2022-07-28 |
@@ -155,6 +155,7 @@
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-05-25 |  |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
+| [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |
 | [Wrong Hands](https://open.spotify.com/track/1HbbVMWUSmPpOhurz3vFXs) | [Moon Shine](https://open.spotify.com/artist/2npYYH9Tn3ndPMnulAxpAt) | [Wrong Hands](https://open.spotify.com/album/76daS0KbiciyyVWJEPXbYF) | 4:00 | 2022-10-03 | 2022-12-01 |
 | [You and Your Friend](https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [On Every Street \(Remaster\)](https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ) | 5:59 | 2022-05-25 |  |
 

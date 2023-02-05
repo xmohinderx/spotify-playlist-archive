@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Dylan Conrique
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,926 likes - 88 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,263 likes - 88 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 25 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
 | 26 | [No God](https://open.spotify.com/track/0RlBQOKhSIpAFmn2MbSH6j) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:17 |
 | 27 | [1000 Reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 Reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 |
-| 28 | [How Dare You](https://open.spotify.com/track/46BkUL2Djjg8jcEjXNpkZZ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/0I1ZzxaunjjzwTlL22RB3U) | 3:10 |
+| 28 | [How Dare You](https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b) | 3:09 |
 | 29 | [AVO TOAST](https://open.spotify.com/track/7B5EbapjMpLuK7A7PJUvxn) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AVO TOAST](https://open.spotify.com/album/4gH45jls1Zx5TSREuO53x9) | 2:41 |
 | 30 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
 | 31 | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/track/16TVnHHANCCcDN7673V7tC) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/album/3e6UcgzWDEJRC38lJ8Zj7o) | 3:22 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 87 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 88 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
 
-Snapshot ID: `MTY3NTQ0MzYwMCwwMDAwMDAwMGNhOGYxZTA1NDMxMzdjMmU1ZDU0MGE5NmQ1OGFmYjY5`
+Snapshot ID: `MTY3NTQ0MzYwMCwwMDAwMDAwMGMzNGJmMDc5ZjNmYWY0OGRlZGYyYjk2NTcwNzg3YWJl`

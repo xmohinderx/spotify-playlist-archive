@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Lin Rountree",
-  "num_followers": 43709,
+  "num_followers": 43763,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDEwYjIzNWEwMmZhODFiNWMxZTlkNDU3ZTJkZDVhMjZj",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGRiN2NiZDgwMjE3NGIxMmRjYjljMGU4MDcyOTBlMjAx",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -149,20 +149,20 @@
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+        "name": "Amalfi",
+        "url": "https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
         }
       ],
-      "duration_ms": 248573,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
+      "duration_ms": 231285,
+      "name": "Amalfi",
+      "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -181,20 +181,20 @@
       "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Amalfi",
-        "url": "https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
       },
       "artists": [
         {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 231285,
-      "name": "Amalfi",
-      "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -743,22 +759,6 @@
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
       "added_at": "2022-09-02 04:02:00",

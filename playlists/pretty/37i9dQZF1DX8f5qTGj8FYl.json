@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 322624,
+  "num_followers": 322764,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDhiOTg2NTZkMmY1OTE2MTIzMjFiMjZmNjI0MDk1ZDM2",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGUwMWZjNmEyYTQxNDgwMzMxNTMwODUxMzA3ZmYyZTZk",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
+        "name": "Mt. Crushmore",
+        "url": "https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey"
       },
       "artists": [
         {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 214387,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
+      "duration_ms": 186066,
+      "name": "116th St.",
+      "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Gun Metal Grey",
         "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Mt. Crushmore",
-        "url": "https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "116th St.",
-      "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Our Kind of Movement",
-        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
-      },
-      "artists": [
-        {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Kashmir",
-      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "3 (Remastered)",
         "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 138533,
       "name": "Work Tapes",
       "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Our Kind of Movement",
+        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
+      },
+      "artists": [
+        {
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Kashmir",
+      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Bacano",
         "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 309092,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Golden Ticket",
-        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Wrangler",
         "url": "https://open.spotify.com/album/54TFr7reQoam9PpEzw8mFp"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Golden Ticket",
+        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
     },
     {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Prospect Park West",
@@ -983,38 +999,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Canoga Madness",
-        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Beat",
-          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "El Camino Del Caballo",
-      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
-    },
-    {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Scratch My Itch",
         "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Canoga Madness",
+        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "El Camino Del Caballo",
+      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "False Prophets",
-        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 352374,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
-    },
-    {
       "added_at": "2021-07-09 04:01:00",
       "album": {
         "name": "Praise Me Now",
@@ -1095,6 +1079,22 @@
       "duration_ms": 220363,
       "name": "Mr Bong",
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 352374,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/5GRKKSeFR3jo08wsmvTZFa"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 126123,
-      "name": "PROG",
-      "url": "https://open.spotify.com/track/6oHXksqLTLGNTBb24g1tRy"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "The Fun Ones",
@@ -1171,6 +1155,22 @@
       "duration_ms": 281805,
       "name": "Indoor S'mores",
       "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/5GRKKSeFR3jo08wsmvTZFa"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 126123,
+      "name": "PROG",
+      "url": "https://open.spotify.com/track/6oHXksqLTLGNTBb24g1tRy"
     },
     {
       "added_at": "2020-11-13 05:02:00",

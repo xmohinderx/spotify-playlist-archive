@@ -1,15 +1,15 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Mr Eazi",
-  "num_followers": 276159,
+  "num_followers": 276235,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA4NzM0MywwMDAwMDAwMGJjNjdlODIyNGZiNDE1NTJhYzc4OTY4NDhkYWY0YmRk",
+  "snapshot_id": "MTY3NTA4NzM0MywwMDAwMDAwMGE2MzU1OGI1OGQ1MzNkZTFmNDU1OGY5ZDhjZGZkZGJl",
   "tracks": [
     {
-      "added_at": "2023-02-04 01:35:41",
+      "added_at": "2023-02-05 01:43:58",
       "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
-      "added_at": "2023-02-04 01:35:41",
+      "added_at": "2023-02-05 01:43:58",
       "album": {
         "name": "Nack",
         "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
-      "added_at": "2023-02-04 01:35:41",
+      "added_at": "2023-02-05 01:43:58",
       "album": {
         "name": "Werser",
         "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
-      "added_at": "2023-02-04 01:35:41",
+      "added_at": "2023-02-05 01:43:58",
       "album": {
         "name": "Been Thinking",
         "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-11-21 11:11:12",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 230721,
-      "name": "Time N Affection",
-      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2022-11-21 11:11:12",
-      "album": {
         "name": "Come Over (feat. Popcaan)",
         "url": "https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 208000,
       "name": "Come Over (feat. Popcaan)",
       "url": "https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD"
+    },
+    {
+      "added_at": "2022-11-21 11:11:12",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
     },
     {
       "added_at": "2022-11-21 11:11:12",

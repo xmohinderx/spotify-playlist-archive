@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: Base Ball Bear",
-  "num_followers": 248137,
+  "num_followers": 248218,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMzE0MywwMDAwMDAwMDcwZGE5NmFmOWE3NDAxZjcyNmMyZGFiM2E3OTgzNzkx",
+  "snapshot_id": "MTY3NTQwMzE0MywwMDAwMDAwMGRiYTY1ODliNmJhYmI3MmJhMzgyMGZjZGQwMThhZTUw",
   "tracks": [
     {
       "added_at": "2023-02-03 05:45:43",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-02-03 05:45:43",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+        "name": "Nonnegative",
+        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+      "duration_ms": 233678,
+      "name": "From Today",
+      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
     },
     {
       "added_at": "2023-02-03 05:45:43",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-02-03 05:45:43",
       "album": {
-        "name": "Nonnegative",
-        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 233678,
-      "name": "From Today",
-      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2023-02-03 05:45:43",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-02-03 05:45:43",
       "album": {
-        "name": "Adapt",
-        "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
+        "name": "\u30d0\u30fc\u30c9\u30d8\u30c3\u30c9\u30d6\u30eb\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Tsuki no Wan",
-      "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
+      "duration_ms": 229283,
+      "name": "\u30d0\u30fc\u30c9\u30d8\u30c3\u30c9\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB"
     },
     {
       "added_at": "2023-02-03 05:45:43",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-02-03 05:45:43",
       "album": {
-        "name": "\u30d0\u30fc\u30c9\u30d8\u30c3\u30c9\u30d6\u30eb\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH"
+        "name": "Adapt",
+        "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
       },
       "artists": [
         {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 229283,
-      "name": "\u30d0\u30fc\u30c9\u30d8\u30c3\u30c9\u30d6\u30eb\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB"
+      "duration_ms": 250000,
+      "name": "Tsuki no Wan",
+      "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
     },
     {
       "added_at": "2023-02-03 05:45:43",

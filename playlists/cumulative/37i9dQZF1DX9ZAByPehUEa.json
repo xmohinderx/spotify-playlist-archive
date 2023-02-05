@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
+    },
+    {
+      "album": {
         "name": "Love And Dancing",
         "url": "https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd"
       },
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 237875,
       "name": "Surrender (feat. PRICIE)",
       "url": "https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw"

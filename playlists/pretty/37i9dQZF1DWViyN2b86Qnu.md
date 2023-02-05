@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,308 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,337 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 59 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 |
 | 60 | [Darkness \(Lonelyspeck remix\)](https://open.spotify.com/track/2IJsJMnFJtMzj6oeN23g1R) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Urdata](https://open.spotify.com/album/6i6yQB0bedTRrDOEZ3hxwn) | 2:22 |
 | 61 | [Rendezvous](https://open.spotify.com/track/5UNRCb1mKJHiU6iQlGlKuv) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [Rendezvous](https://open.spotify.com/album/7jWbadSB4MhmBmt5ZgpW1e) | 3:16 |
-| 62 | [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 |
+| 62 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
 | 63 | [Prosecco](https://open.spotify.com/track/4rrEmelWLx5GkbpKTFWbcx) | [Rachel Maria Cox](https://open.spotify.com/artist/1xIb3fCc3TqfNJ24DNKKBq) | [Prosecco](https://open.spotify.com/album/6KeTVzhEgbAHWt3NTJ5QvI) | 2:46 |
 | 64 | [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 |
 | 65 | [Don’t Sleep](https://open.spotify.com/track/4gWPaTGXzBopeFHBXQMpLp) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 3:25 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [PAPERBAG](https://open.spotify.com/track/0t2vdbbw2HHbPhhZfXk5oc) | [closegood](https://open.spotify.com/artist/5ccNPpXpCTFMhvcytsGahy) | [GRAVEN](https://open.spotify.com/album/3xnGWmpQDODDH8Rx1cEDxQ) | 4:04 |
 | 86 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 
-Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMDY3NzVlOGY4OGQ2MDA3ZjI3ZDY4YWM3OTcyNDIzYjMy`
+Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMGI2NzBkMDJmMzk5ZDdmZTRjZmRhYjA4Y2JlNGY1M2Nh`

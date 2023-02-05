@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-709 songs - 1 day 14 hr 32 min
+710 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,7 +604,8 @@
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
 | [Sunset With You](https://open.spotify.com/track/1BwP2jVdo1DjkH84rxRVhi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Opi Music](https://open.spotify.com/artist/4z2hcMAL6JpUDOesb2ls5b) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:51 | 2022-12-09 |  |
-| [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 |  |
+| [Supna](https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 3:30 | 2023-02-03 |  |
+| [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 | 2023-02-05 |
 | [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 | 2023-02-02 |
 | [Surma](https://open.spotify.com/track/2DBaGfuoLB7GJpTKJpLO5P) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu), [Arsh Sarpal](https://open.spotify.com/artist/3CCMpMo6uEI0RiHOlcosz3) | [First Draft](https://open.spotify.com/album/6rPNjEczANskt3rINL8Ijl) | 2:04 | 2022-12-05 | 2022-12-24 |
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 | 2022-12-16 |

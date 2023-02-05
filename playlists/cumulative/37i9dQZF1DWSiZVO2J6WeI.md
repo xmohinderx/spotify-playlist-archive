@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-228 songs - 12 hr 4 min
+229 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Elusive Thoughts](https://open.spotify.com/track/6cYBl8KJEgVMFiSYEPHyOm) | [Nayantara](https://open.spotify.com/artist/6nyEz0nYXb8PwCF3QOEuj3) | [Elusive Thoughts](https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17) | 2:21 | 2022-01-12 |  |
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-12-09 |  |
 | [Enchanter](https://open.spotify.com/track/6Fakj19etJLkMV6Q4CgFWF) | [Venom Faun](https://open.spotify.com/artist/79zZ9jIHNl8UmjHSf3TXIM) | [Focus](https://open.spotify.com/album/17bCi53jDS78g7T2IE4Sd7) | 3:40 | 2022-04-13 | 2022-04-21 |
+| [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 |  |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 |  |
@@ -117,7 +118,7 @@
 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 | 2022-01-12 |  |
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-07-08 |  |
 | [isolation](https://open.spotify.com/track/4KZkW8LH1lwJDkVkzStUaH) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:45 | 2022-01-12 | 2022-06-29 |
-| [isolation](https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:45 | 2022-12-30 |  |
+| [isolation](https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:45 | 2022-12-30 | 2023-02-05 |
 | [Journey Within \(432hz\)](https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 | 2022-01-12 |  |
 | [Journey Within \(432hz\) \- Without Ambience](https://open.spotify.com/track/4Y3z3qQRb6cwQouwqD8UoM) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 | 2022-01-12 | 2022-04-22 |
 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2022-01-12 |  |

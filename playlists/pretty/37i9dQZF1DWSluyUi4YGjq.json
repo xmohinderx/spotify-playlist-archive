@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 25304,
+  "num_followers": 25381,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMDg3ZWUwMDY5MGEzNWExMTFhYTI0ZDFmNDhlOGI1ODk1",
+  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGRkY2Q0YzdiYzU1MjFjZGU3OTY4NmZhMWQ3N2FmNTM4",
   "tracks": [
     {
       "added_at": "2023-01-12 03:03:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Everything Else Matters",
         "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "eye cue rew see",
@@ -667,6 +651,22 @@
       "duration_ms": 178920,
       "name": "ERROR",
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2022-05-03 02:08:01",
-      "album": {
-        "name": "Destiny XL",
-        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "eightball",
-      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
-    },
-    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -875,6 +859,22 @@
       "duration_ms": 281746,
       "name": "Air Supply",
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2022-05-03 02:08:01",
+      "album": {
+        "name": "Destiny XL",
+        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        }
+      ],
+      "duration_ms": 189673,
+      "name": "eightball",
+      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
-      "added_at": "2022-12-12 18:23:41",
-      "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Colour Trip",
@@ -939,6 +923,22 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+    },
+    {
+      "added_at": "2022-12-12 18:23:41",
+      "album": {
+        "name": "Heaven Inches Away",
+        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
+      },
+      "artists": [
+        {
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2021-10-19 01:47:29",

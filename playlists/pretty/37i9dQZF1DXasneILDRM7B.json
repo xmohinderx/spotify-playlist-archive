@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
-  "num_followers": 1087040,
+  "num_followers": 1087679,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY1ODY1OCwwMDAwMDAwMDYwYmFhZWZhMzc3ZWI4ZWI1OTEzMzNkODZiYTJmNmYz",
+  "snapshot_id": "MTY3NDY1ODY1OCwwMDAwMDAwMDNjY2FhZjNjMTMzYzAwNmI1YjU5MmM1ZTZiMjYyNTIy",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "Kids In The Dark",
-      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 143080,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "Kids In The Dark",
+      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
     },
     {
       "added_at": "2023-01-25 14:57:38",

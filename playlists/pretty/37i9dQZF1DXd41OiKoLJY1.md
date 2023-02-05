@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Bugs, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,678 likes - 83 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,692 likes - 83 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 10 | [War Outside](https://open.spotify.com/track/0hyWpAM1B7rNdVpewFce5U) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [Alpha Phia](https://open.spotify.com/artist/3bkrGwgkizjF6f5XnBY5PX) | [War Outside](https://open.spotify.com/album/1UJIAJgtB9as8t58vmyvXy) | 2:46 |
 | 11 | [Denise](https://open.spotify.com/track/4iErngYaU4sjE9N0cLGK4k) | [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk) | [Denise](https://open.spotify.com/album/3zJZMuU0xs8oFULg5AmzfB) | 1:34 |
 | 12 | [Baby Momma](https://open.spotify.com/track/6S5z8hr2R6CRkDvPEFQXqf) | [downers](https://open.spotify.com/artist/4gxLBqfJRbgDef5K0ZXj1S), [Kyhler](https://open.spotify.com/artist/4jsiCHbMpW1rtpslqa6CtW) | [Baby Momma](https://open.spotify.com/album/2WUYYGSYU188rW1Cwautt6) | 3:04 |
-| 13 | [MIDNIGHT PSYCHO](https://open.spotify.com/track/2gYgNdoOD8JbsjuF2LckfZ) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Midnight Psycho](https://open.spotify.com/album/6wHkWj00LfcEURR9eWuCuG) | 2:18 |
+| 13 | [MIDNIGHT PSYCHO](https://open.spotify.com/track/2gYgNdoOD8JbsjuF2LckfZ) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [MIDNIGHT PSYCHO](https://open.spotify.com/album/6wHkWj00LfcEURR9eWuCuG) | 2:18 |
 | 14 | [Gusto Ko Nang Bumitaw](https://open.spotify.com/track/1x2nW4FPLagzO9L8OUlzEh) | [Yes My Love](https://open.spotify.com/artist/2ySp44kTR0uNVfilvTdyuX) | [Gusto Ko Nang Bumitaw](https://open.spotify.com/album/3go6h56xtpMxlqhEnA6lHb) | 4:38 |
 | 15 | [PARASITIKO](https://open.spotify.com/track/60wiposLC1z5ZzIjTJhtR0) | [P V R V $ I T E](https://open.spotify.com/artist/609Y4tvqp01F46SC1tTPJf) | [INTERITIO](https://open.spotify.com/album/0ufCu0ITu9g4mYgoe5PO2W) | 2:14 |
 | 16 | [If I Stay](https://open.spotify.com/track/5orORQ2flXw1sALhl2duvx) | [Southern Lights](https://open.spotify.com/artist/33wLJl2TFmw8mEDztLnG2F) | [If I Stay](https://open.spotify.com/album/7viBR4NGYOevB1TMwgWbVH) | 4:22 |

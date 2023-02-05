@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,494 likes - 50 songs - 2 hr 39 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,489 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 6 | [Gucci](https://open.spotify.com/track/4UQuyiposzTgE7uOQM2DBB) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [Gucci](https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7) | 3:02 |
 | 7 | [The Spot](https://open.spotify.com/track/5Hay8vuY89IrPOFgz9rGrx) | [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [The Spot](https://open.spotify.com/album/5IsMZJfuVM307aHNWmFMqD) | 2:57 |
 | 8 | [Contrast](https://open.spotify.com/track/5Zi2LEJaU81qjXBIPjB9Kf) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 3:39 |
-| 9 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
+| 9 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
 | 10 | [Deadly Vice](https://open.spotify.com/track/54ShqZjnusN1xknI6IycmY) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [Deadly Vice](https://open.spotify.com/album/1fZb11OuwvwExLsMtSaIcO) | 1:45 |
 | 11 | [You Know What I Need \- Shadow Child Classic Vocal Mix](https://open.spotify.com/track/2m4K9s4opg5e87UttVzT41) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [You Know What I Need \(Remixes\)](https://open.spotify.com/album/3aHSqJhe69W3keFBhFHGTe) | 2:41 |
 | 12 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |

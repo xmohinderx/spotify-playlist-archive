@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring Wet Leg.
 
-792 songs - 1 day 19 hr 3 min
+793 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [At the End of the Day](https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:53 | 2022-03-04 | 2022-06-23 |
 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-19 | 2022-06-10 |
 | [August](https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 3:04 | 2022-10-28 | 2022-11-19 |
+| [Australia \(Peter Bjorn and John Remix\)](https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Australia \(Peter Bjorn and John Remix\)](https://open.spotify.com/album/0Czepr6Z8rV8SddDmnQ2se) | 4:09 | 2023-01-27 |  |
 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 | 2022-07-01 | 2022-10-15 |
 | [Awkward Conversations](https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Awkward Conversations](https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf) | 3:19 | 2022-05-06 | 2022-07-29 |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-03-22 | 2022-06-11 |
@@ -102,7 +103,7 @@
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-09-30 | 2022-12-17 |
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-20 | 2022-06-25 |
 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2022-07-01 | 2022-08-06 |
-| [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 |  |
+| [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 | 2023-02-05 |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-06-25 | 2022-06-10 |
 | [Bottle Rocket \(feat\. Manchester Orchestra\)](https://open.spotify.com/track/7kMzfcoSuwrjc1LpkTpvYb) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bottle Rocket \(feat\. Manchester Orchestra\)](https://open.spotify.com/album/0uK7uTCOtUvCL3wE4shDdi) | 3:14 | 2021-06-25 | 2022-06-10 |
 | [Bottom of the Ocean](https://open.spotify.com/track/2aZd0oQUnICyk3KYFbBaW1) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 3:41 | 2022-04-29 | 2022-11-17 |

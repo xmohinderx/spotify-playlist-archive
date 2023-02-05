@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 86983,
+  "num_followers": 87083,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDM2N2U2MjFiMzdhNGEwMDk0MzAwMTg0ZmI4Y2U4YTcw",
+  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDc1MWE4NWI3NmVkZjE1OGM1MmEyMGYzZTFmMDE2MDE3",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "GODDESS REIGN",
         "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        },
-        {
-          "name": "Ebban Dorsey",
-          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Body Music (Deluxe)",
+        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Friends To Lovers",
+      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "Mr. Midnight (Winter Time Remix)",
         "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 240000,
       "name": "Mr. Midnight - Winter Time Remix",
       "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Body Music (Deluxe)",
-        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Friends To Lovers",
-      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
     },
     {
       "added_at": "2023-01-27 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,739 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,772 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 20 | [Father Son Holy Spirit](https://open.spotify.com/track/3kz5hcjAkiYEIZ84Zg4gOQ) | [Emily Ruff](https://open.spotify.com/artist/5QrOwNsbH35F2e2Hy2KW6g) | [Father Son Holy Spirit](https://open.spotify.com/album/6Mh4iTq0UPEHRkFFn3xUci) | 4:49 |
 | 21 | [Pursue](https://open.spotify.com/track/2YRa2rZ9TVbjXz8wHbmP63) | [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Pursue](https://open.spotify.com/album/1dFNHFInbVeUquYCug5qZm) | 4:55 |
 | 22 | [Never Change](https://open.spotify.com/track/35Eg9ucZenX7RdDmyRaSvQ) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t), [Chad Dorough](https://open.spotify.com/artist/28g8MNPw3FeLz12SJIgmDR) | [Never Change](https://open.spotify.com/album/29ebOhTmE5RCcuIX8OVj1h) | 4:41 |
-| 23 | [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/6fMDLbc40h9bEsCAUVdEgP) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [It Is Well \(My Soul Sings\)](https://open.spotify.com/album/6qAC5GtCNon0Kt3gKfWwKd) | 4:00 |
+| 23 | [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/3rkGSQ3DLY9aNXNscTepQU) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [As Long As I Live Vol\. 1](https://open.spotify.com/album/57hsPEX7xRDNlqBimHt8Bp) | 4:00 |
 | 24 | [Again and Again](https://open.spotify.com/track/2VtvyiPReTN9c7l7co6a0X) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Again and Again](https://open.spotify.com/album/2uH0NJYjekprSAWHx4IvQR) | 3:15 |
 | 25 | [Blessed.](https://open.spotify.com/track/4A5eegXZx6Bb4tnfza5Wiq) | [Conceptz](https://open.spotify.com/artist/2EqEcWQJAWmfOvs1xlW7GE) | [Blessed.](https://open.spotify.com/album/1DlOXOqfYGWCWEjXNRb0xM) | 3:02 |
 | 26 | [Attention](https://open.spotify.com/track/5VqxarRFLanDZWPavw1FXE) | [Pioneer Worship](https://open.spotify.com/artist/32UiwYJXqnQxIiPQlci4z1) | [Attention](https://open.spotify.com/album/57bRB0nEpV1DvH7K5aic5G) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 49 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
 | 50 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
 
-Snapshot ID: `MTYxMzExODkyOSwwMDAwMDAwMGRmMjNiNzM1MzhkMzNhZmFmMjhjNmY2ZmY0ZWQ4ZTQ1`
+Snapshot ID: `MTYxMzExODkyOSwwMDAwMDAwMDhlMTU4OWFlYWJhN2VlYzZjYjlkMGY3OGI1MjNlYjk1`

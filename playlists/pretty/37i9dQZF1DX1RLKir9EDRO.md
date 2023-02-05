@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Lal İlhan  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,466 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,464 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bi' Dinlesen](https://open.spotify.com/track/58qQ0CcU9r4hXp8QHCT04i) | [yağmur](https://open.spotify.com/artist/2v9dJfcr4BCUzkgScNaTtR) | [Bi' Dinlesen](https://open.spotify.com/album/3pduep6fI3Scgmvwokq1cD) | 3:12 |
 | 2 | [Büyü](https://open.spotify.com/track/3mzHwL4SnroznjZ1KQsDkE) | [Lal İlhan](https://open.spotify.com/artist/6myu7Qu2BGj8fFA6unKd4I) | [Büyü](https://open.spotify.com/album/7A5aZsvsgFVVCSizSxc7t2) | 2:39 |
-| 3 | [yeşil ormanlar](https://open.spotify.com/track/5ZTQX0Svabd6DtVu4Kr5yA) | [PAZ](https://open.spotify.com/artist/6LHspjQI5piBTulbMKodbF), [Seda Türkmen](https://open.spotify.com/artist/4dw8AVOAnukATBYAGQI67S) | [yeşil ormanlar](https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu) | 2:46 |
+| 3 | [yeşil ormanlar](https://open.spotify.com/track/5ZTQX0Svabd6DtVu4Kr5yA) | [PAZ](https://open.spotify.com/artist/6LHspjQI5piBTulbMKodbF), [Seda Türkmen](https://open.spotify.com/artist/6GA6VYWQbXkI0LVOXTcbby) | [yeşil ormanlar](https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu) | 2:46 |
 | 4 | [Sersefil](https://open.spotify.com/track/6iD3qLKRgzxAS0uBhZvcLa) | [Nicelatte](https://open.spotify.com/artist/5QFWw9YCsZzcVF4FXRPpHu) | [Sersefil](https://open.spotify.com/album/1Vvrybv643Qom7iy0r5opm) | 3:31 |
 | 5 | [Nazar](https://open.spotify.com/track/3GZzmJA8FGoIygQz5lTY68) | [VAYT](https://open.spotify.com/artist/6KsFwZYaFE0jLzAD4Toasv) | [Nazar](https://open.spotify.com/album/1vlfNQYCp9BorZAjzV4xHY) | 2:12 |
 | 6 | [Neden İnanasın](https://open.spotify.com/track/7JSl9VxIl9M6Jq8NFrhGUC) | [Ani](https://open.spotify.com/artist/1w7GXnVAbouWJoSGQ1gSJz) | [ANİ](https://open.spotify.com/album/5bELaeJr7w7NMEhF0HBq7e) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: The Heavenly Idol \(성스러운 아이돌\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,138 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,283 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 77 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 78 | [1second 1minute 1hour \(Something Between Us X 2am\)](https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [1second 1minute 1hour \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/0kvfmlPE9ZmDt5gazP1jsG) | 3:36 |
 | 79 | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 |
-| 80 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 |
+| 80 | [모든 밤 너에게 \(연애혁명 X 민현 \(뉴이스트\)\)](https://open.spotify.com/track/36EBMnghpYhNvzMLkZP8Ur) | [민현 \(뉴이스트\)](https://open.spotify.com/artist/64HIRG4yzI1n1Me435NQTa) | [모든 밤 너에게 \(연애혁명 X 민현 \(뉴이스트\)\)](https://open.spotify.com/album/0i7pJETu1u7QToz2Qh9MvD) | 3:14 |
 | 81 | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2uLI89pW1DWuduHzqjTqQs) | 3:07 |
 | 82 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
 | 83 | [Never Loved This Way Before](https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Never Loved This Way Before \(From “Odd Girl Out” \[Original Soundtrack\]\)](https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG) | 4:19 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 107 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
 | 108 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 |
 
-Snapshot ID: `MTY3NDgwODEyNCwwMDAwMDAwMDYwMjA0YTQwMGQwNmMxZGVmZTcxZjk1MDU5OGU2NDZh`
+Snapshot ID: `MTY3NDgwODEyNCwwMDAwMDAwMGQxNmJhMTgxNmJkMDBhNDk1MDIyY2RiMTU1MTViN2Vk`

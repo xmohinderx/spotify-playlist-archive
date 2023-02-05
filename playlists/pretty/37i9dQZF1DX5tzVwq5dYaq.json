@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDJkNDdkY2M0Y2M4MjI2Yzc0NDM4YTdkMTQyNzAyMmM1",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGE2YzdhN2M2NDQ2YTc4NjFiNGVkNWE2NmExMWIzZDUx",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 170186,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 185016,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
     },
     {
       "added_at": "2022-09-21 10:12:07",

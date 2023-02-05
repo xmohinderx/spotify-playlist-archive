@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring Wet Leg.",
-  "num_followers": 842044,
+  "num_followers": 842080,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGFmYTRhYzMzNzU0ZGM5ZGU1YzBlMDRmOTBiNTk4NTg4",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDA0ZTkxMjQ1YjRjOTZmZjViNTM4MjhlNGY4MWY4NjA4",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "WISH ME LUCK",
-        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 203033,
-      "name": "WISH ME LUCK",
-      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
-    },
-    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "Alpha Zulu",
@@ -347,6 +331,22 @@
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "added_at": "2022-12-16 04:00:00",
+      "album": {
+        "name": "WISH ME LUCK",
+        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "WISH ME LUCK",
+      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Here to Forever",
-      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Lying Through Their Teeth",
         "url": "https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Here to Forever",
+      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
-    },
-    {
       "added_at": "2023-01-06 17:05:46",
       "album": {
         "name": "Ants From Up There",
@@ -615,6 +599,22 @@
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "rock candy",
-        "url": "https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 144642,
-      "name": "feel good",
-      "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Homebody",
@@ -795,6 +779,22 @@
       "duration_ms": 169306,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "rock candy",
+        "url": "https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 144642,
+      "name": "feel good",
+      "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -829,24 +829,24 @@
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Borderline Insane",
-        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
+        "name": "Australia (Peter Bjorn and John Remix)",
+        "url": "https://open.spotify.com/album/0Czepr6Z8rV8SddDmnQ2se"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         },
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
         }
       ],
-      "duration_ms": 139664,
-      "name": "Borderline Insane",
-      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+      "duration_ms": 249160,
+      "name": "Australia (Peter Bjorn and John Remix)",
+      "url": "https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB"
     }
   ],
   "unique_name": "Today's Indie Rock",

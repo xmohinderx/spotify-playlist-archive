@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-506 songs - 1 day 4 hr 42 min
+507 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-07-22 | 2022-10-13 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-05-01 |  |
 | [Cannonball](https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Cannonball](https://open.spotify.com/album/6h51IcI0JjorHy2MFm7KNg) | 3:09 | 2021-05-01 | 2022-04-21 |
-| [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-11-29 |  |
+| [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-11-29 | 2023-02-05 |
 | [Catch the Sun](https://open.spotify.com/track/3rF6stvHK5JrAN9AAfIczG) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [A Treatise on the Rainbow](https://open.spotify.com/album/0zKdvj4RESPZAzDQ006MG3) | 2:25 | 2022-04-27 | 2022-06-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-05-01 | 2022-03-21 |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2022-04-13 |  |
@@ -137,7 +137,7 @@
 | [Down That Road](https://open.spotify.com/track/5IumbZ7yeqdlQG6did2IuL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Down That Road](https://open.spotify.com/album/2BD6lBUoeYarXRnjvQxy3C) | 4:17 | 2021-05-01 | 2022-04-13 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2021-05-01 | 2022-04-14 |
 | [Dreaming on the Bus \- Ra Ra Riot Remix](https://open.spotify.com/track/5fTDFgodYR6VDoBecROzFl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Dreaming on the Bus \(Ra Ra Riot Remix\)](https://open.spotify.com/album/3QRKsmsUgheSIqfBJu9AiI) | 4:59 | 2021-05-01 | 2022-04-14 |
-| [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 | 2022-04-13 | 2023-01-20 |
+| [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 | 2022-04-13 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Easier Said Than Done](https://open.spotify.com/album/2jQYIG9wE9pArx2ZQUXnvn) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 | 2021-05-01 | 2022-04-14 |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-04-13 |  |
@@ -242,6 +242,7 @@
 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 | 2022-11-30 | 2023-01-04 |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2022-04-13 | 2022-04-19 |
 | [Japanese Posters](https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/3zfsyrUc2lWulBUcDzaos7) | 2:36 | 2022-04-13 | 2022-07-29 |
+| [Japanese Posters](https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Japanese Posters](https://open.spotify.com/album/2RsHKX2dgI6GAN9UNPkIGZ) | 2:36 | 2022-11-07 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-07-22 | 2022-10-15 |
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2022-04-13 | 2022-07-29 |
 | [Jessica WJ](https://open.spotify.com/track/5Wu3CBUUlPU2pZv8Y3E8DD) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Jessica WJ](https://open.spotify.com/album/1Uv7tbO4AGwtdupFwmAPa0) | 3:17 | 2021-05-01 | 2022-04-13 |
@@ -464,7 +465,7 @@
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-04-13 |  |
 | [To Seattle](https://open.spotify.com/track/3aJECP6Q5TsoGixvgU5dhp) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Pollen](https://open.spotify.com/album/1BsPPyv9hzDSyvyFin3WKT) | 3:26 | 2021-05-01 | 2022-04-14 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-04-13 |  |
-| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 |  |
+| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 | 2023-02-05 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-05-01 | 2022-04-14 |
 | [Training Montage](https://open.spotify.com/track/6NFUlJU8cFmys9mUpUNbiq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Training Montage](https://open.spotify.com/album/2iUJhqOwLcqQD7gdrhCxvV) | 4:28 | 2022-06-03 | 2022-06-18 |
 | [Trajic Majic](https://open.spotify.com/track/42wRZeLbhzR3Fv7pMndCUQ) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [Trajic Majic](https://open.spotify.com/album/2TPO59tl3MweoBbXgpTPAg) | 3:13 | 2022-07-01 | 2022-07-07 |

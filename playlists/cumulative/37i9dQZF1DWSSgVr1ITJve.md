@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: kouz1
 
-72 songs - 3 hr 54 min
+73 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2022-06-29 |  |
 | [TKT](https://open.spotify.com/track/2ET8K5jJLaCCRn7M6u2ExO) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TKT](https://open.spotify.com/album/3p7wvvIX1IdeCtuJ24aXiS) | 2:49 | 2022-06-29 |  |
 | [Wouli Liya](https://open.spotify.com/track/0mk5S6toceisTSa1C4SUZ5) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/4g6eMqiCEFlivpJgII43rc) | 4:01 | 2022-10-06 | 2022-11-13 |
-| [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 | 2022-06-29 |  |
+| [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 | 2022-06-29 | 2023-02-05 |
 | [Wouli Liya](https://open.spotify.com/track/3I7MRe6fdlZX3GQxSNT88k) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy) | 4:01 | 2022-06-29 | 2022-07-29 |
+| [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 | 2023-02-04 |  |
 | [Ya la Laa](https://open.spotify.com/track/0pqGNW2u6uepefUa0L3KbA) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ya la Laa](https://open.spotify.com/album/2yrtP7DMdTELq4JoMtBZbO) | 2:36 | 2022-06-29 | 2022-07-29 |
 | [Ya La Laa](https://open.spotify.com/track/0cZ8ZtPjzOkFet9pGd7kxL) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:36 | 2022-06-29 | 2022-12-13 |
 | [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 | 2022-06-29 |  |

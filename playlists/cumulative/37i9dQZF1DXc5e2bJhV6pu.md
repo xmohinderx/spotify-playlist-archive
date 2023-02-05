@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,421 songs - 3 day 8 hr 44 min
+1,422 songs - 3 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2022-04-01 | 2022-04-04 |
 | [Birthday](https://open.spotify.com/track/5hff5RQeE84pznOt8WEWeO) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday](https://open.spotify.com/album/2KLNA0H5XiiMLPAWSb8sUu) | 3:01 | 2020-03-25 | 2022-04-21 |
 | [Biting My Tongue](https://open.spotify.com/track/2T8QPsEryIuLvDSobi7ceZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Biting My Tongue](https://open.spotify.com/album/0a7PMBswuRIi49UwllECV7) | 3:06 | 2020-07-03 | 2022-04-18 |
-| [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-07-28 |  |
+| [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-07-28 | 2023-02-05 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 | 2019-08-26 | 2022-04-01 |
 | [Black & Blue](https://open.spotify.com/track/4uy8pqHmNZ5r8AFSFehrqv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Black & Blue](https://open.spotify.com/album/55NoQf0gokpilNTLAnGGru) | 2:42 | 2021-03-11 | 2022-04-11 |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2020-03-25 | 2022-07-29 |
@@ -328,6 +328,7 @@
 | [Easy](https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Easy](https://open.spotify.com/album/25bVTJuPSWiiwdxgjJGRUi) | 3:46 | 2020-07-18 | 2022-04-01 |
 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 | 2020-12-11 | 2022-07-29 |
 | [Electric Feel](https://open.spotify.com/track/0vaf64cpnqM7COUZZkoBig) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular/Congratulations](https://open.spotify.com/album/3VfcbvbaalkDLRCIplPj3e) | 3:49 | 2019-11-08 | 2021-03-16 |
+| [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2023-01-30 |  |
 | [Electric Love](https://open.spotify.com/track/2KxgiMjCkMkqeSFBbjk1qj) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Hiturile verii](https://open.spotify.com/album/1mnlBQ3d1FZthvaapUlx72) | 3:38 | 2020-08-20 | 2022-04-15 |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2019-08-04 | 2021-05-15 |
 | [Embrace](https://open.spotify.com/track/36OkygdRZI6Nhspmuzkpn9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/1ghXnO9IptRdjiNedwB6cv) | 5:29 | 2019-08-04 | 2022-04-01 |

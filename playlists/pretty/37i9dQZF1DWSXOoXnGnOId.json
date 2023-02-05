@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15326,
+  "num_followers": 15334,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDFmYjJhMTQzZWNjMDY2YTcwZDI1NmYyMzgyYTFhZGY4",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDNmMmM4ZDkyNGJjNTIzY2FjNGJlODNkNDk4OWJmOTRh",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Think About Us (90's Club Mix)",
+        "url": "https://open.spotify.com/album/7lgjtyhPv90ixeruOV4jvz"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Lorne",
+          "url": "https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR"
+        }
+      ],
+      "duration_ms": 194904,
+      "name": "Think About Us - 90's Club Mix",
+      "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Your Love (9PM) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1H9wSqKGrpJmZV1C0Ipzuw"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 186531,
       "name": "Your Love (9PM) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3ZUGQQQdTteMWdPg2bvLsp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Think About Us (90's Club Mix)",
-        "url": "https://open.spotify.com/album/7lgjtyhPv90ixeruOV4jvz"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Lorne",
-          "url": "https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR"
-        }
-      ],
-      "duration_ms": 194904,
-      "name": "Think About Us - 90's Club Mix",
-      "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Silver Lining (DubVision Remix)",
-        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Silver Lining - DubVision Remix",
-      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "All I Want (feat. Jake Shears) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/3PqRAhuN9opU06QMRcyGoS"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 210267,
       "name": "All I Want (feat. Jake Shears) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1kb5MBYPIwuOucLUzYqnxi"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Silver Lining (DubVision Remix)",
+        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Silver Lining - DubVision Remix",
+      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "I Want Love (Cat Dealers Remix)",
-        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "I Want Love - Cat Dealers Remix",
-      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Strut (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "I Want Love (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "I Want Love - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 207785,
       "name": "Watch Your Step (Picard Brothers Remix)",
       "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",

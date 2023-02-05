@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 772564,
+  "num_followers": 772563,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDY1ZjE3Y2RiNzhhYzYxM2M3ZTE2MTA1ZmM1Zjc2NTE1",
+  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMGY2ZjA4YjllMGE4ZjMwZDIzZmNlNzFhZDRjY2E4NWNm",
   "tracks": [
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -1967,6 +1967,22 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1995,18 +2011,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2031,26 +2051,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        },
-        {
-          "name": "Emily Roberts",
-          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
-        }
-      ],
-      "duration_ms": 194618,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE"
       },
@@ -2063,6 +2063,26 @@
       "duration_ms": 211880,
       "name": "Silhouettes - Original Radio Edit",
       "url": "https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Sweet Lovin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2087,26 +2107,6 @@
       "duration_ms": 154838,
       "name": "Post Malone (feat. RANI) - VIZE Remix",
       "url": "https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Sweet Lovin' - Radio Edit",
-      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2151,6 +2151,26 @@
       "duration_ms": 199944,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/4dSoDnmR9opAQ8KxUc9SbC"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Love Again (feat. Alida)",
+        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Love Again (feat. Alida)",
+      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2207,42 +2227,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Love Again (feat. Alida)",
-        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Love Again (feat. Alida)",
-      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Friday Night",
-        "url": "https://open.spotify.com/album/3L7dWkpi2vNPu3qiskT6Yj"
-      },
-      "artists": [
-        {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Friday Night\u202c\u202c\u202c",
-      "url": "https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "L'Amour Toujour",
         "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 242053,
       "name": "L'amour Toujours (Small Mix)",
       "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/3L7dWkpi2vNPu3qiskT6Yj"
+      },
+      "artists": [
+        {
+          "name": "Vigiland",
+          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Friday Night\u202c\u202c\u202c",
+      "url": "https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2463,6 +2463,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Mar De Colores (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
       },
@@ -2503,26 +2523,6 @@
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "One More Time - Radio Edit [Short Radio Edit]",
-      "url": "https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 201000,
       "name": "Play Hard (feat. Ne-Yo & Akon)",
       "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "One More Time - Radio Edit [Short Radio Edit]",
+      "url": "https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2955,6 +2955,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -2979,26 +2999,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Mama (Remixes)",
         "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
@@ -3019,26 +3019,6 @@
       "duration_ms": 179887,
       "name": "Mama - Syn Cole Remix",
       "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Be Your Friend",
-        "url": "https://open.spotify.com/album/33GfLqCFzz4RMZe1bLkFTe"
-      },
-      "artists": [
-        {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
-        }
-      ],
-      "duration_ms": 180820,
-      "name": "Be Your Friend\u202c\u202c",
-      "url": "https://open.spotify.com/track/2mSIu1ZPo22Ihx3EwS4E6h"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3079,6 +3059,26 @@
       "duration_ms": 180952,
       "name": "Kings & Queens - MOTi Remix",
       "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Be Your Friend",
+        "url": "https://open.spotify.com/album/33GfLqCFzz4RMZe1bLkFTe"
+      },
+      "artists": [
+        {
+          "name": "Vigiland",
+          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "duration_ms": 180820,
+      "name": "Be Your Friend\u202c\u202c",
+      "url": "https://open.spotify.com/track/2mSIu1ZPo22Ihx3EwS4E6h"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3195,6 +3195,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Barbra Streisand",
+        "url": "https://open.spotify.com/album/53J8cK9ahvi4ZtJlASIkpE"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "Barbra Streisand (Radio Edit)",
+      "url": "https://open.spotify.com/track/5pYlc1vQ6999WU43WzF4SR"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Remix Hits, Vol.1",
         "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
       },
@@ -3211,22 +3227,6 @@
       "duration_ms": 229880,
       "name": "Summer Jam 2003 - Remix",
       "url": "https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Barbra Streisand",
-        "url": "https://open.spotify.com/album/53J8cK9ahvi4ZtJlASIkpE"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        }
-      ],
-      "duration_ms": 194531,
-      "name": "Barbra Streisand (Radio Edit)",
-      "url": "https://open.spotify.com/track/5pYlc1vQ6999WU43WzF4SR"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3871,26 +3871,18 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
+        "name": "Jubel (Radio Edit)",
+        "url": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
         }
       ],
-      "duration_ms": 184846,
-      "name": "Show Me Love - Radio Edit",
-      "url": "https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N"
+      "duration_ms": 201626,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3915,18 +3907,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Jubel (Radio Edit)",
-        "url": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
       },
       "artists": [
         {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
+      "duration_ms": 184846,
+      "name": "Show Me Love - Radio Edit",
+      "url": "https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N"
     },
     {
       "added_at": "2022-03-29 13:30:44",

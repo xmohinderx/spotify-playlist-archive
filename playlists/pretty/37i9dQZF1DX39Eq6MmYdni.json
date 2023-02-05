@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Bo Bundy",
-  "num_followers": 572,
+  "num_followers": 642,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMGFiNmM2MzkwZGZhNWE2YzY4ZDZiYTc4MGU2YWIzNWI5",
+  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMGJmOTg4ZmYyOWFmODk0OWIzMDdhYzkxNjZiYWU2NjU2",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
     },
     {
-      "added_at": "2023-02-04 01:18:18",
+      "added_at": "2023-02-05 01:02:44",
       "album": {
         "name": "Make it Norte\u00f1o Vol. 1",
         "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Nivelado",
         "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 185906,
       "name": "Que Vas a Hacer",
       "url": "https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     }
   ],
   "unique_name": "Rompiendo: Texas",

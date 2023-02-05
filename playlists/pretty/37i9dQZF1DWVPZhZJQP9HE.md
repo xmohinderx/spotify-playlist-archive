@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,342 likes - 159 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,372 likes - 159 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 93 | [Karumugil](https://open.spotify.com/track/6KyXfWQa4d3urTrXoF3NMX) | [Arjun Raju](https://open.spotify.com/artist/2N41Y1TkvfNW5XZGqe24Ez), [Vaishaly Sankar](https://open.spotify.com/artist/5QaVXuYcACv1UF5Hp52UdN), [SaiKrishnan Sundaram](https://open.spotify.com/artist/0PpZp8MHXrBYs5ERijOZG5) | [Karumugil](https://open.spotify.com/album/4ppkAcWO10uff2lsuLZSiW) | 4:23 |
 | 94 | [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 |
 | 95 | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/track/4mWpO1fpNXneis8q93SHpW) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Medha Ramasamy](https://open.spotify.com/artist/08pPLU6h73jp7wmuZwIwUb), [Siddharth Shandilyasa](https://open.spotify.com/artist/6r8Qnew7Dd79tqaMqTiz1s) | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/album/7qZNggBLqmEiUsnk6lyDEH) | 3:53 |
-| 96 | [Vizhithiraiyile](https://open.spotify.com/track/5STDPvcvF3dqoKO09DBo2s) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Chandramouli](https://open.spotify.com/artist/7u0MU8mWl8I0Xg9uXEn2CJ) | [Vizhithiraiyile](https://open.spotify.com/album/1Q7mzZZFORxNQlKgPmuqA1) | 3:43 |
+| 96 | [Vizhithiraiyile](https://open.spotify.com/track/5STDPvcvF3dqoKO09DBo2s) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Chandramouli Sundar](https://open.spotify.com/artist/39x0OeqEJXdSFSsRBvhoHi) | [Vizhithiraiyile](https://open.spotify.com/album/1Q7mzZZFORxNQlKgPmuqA1) | 3:43 |
 | 97 | [Kanmani](https://open.spotify.com/track/6hwEWc8UfIUEY7zONrkCsw) | [Paul Dany](https://open.spotify.com/artist/166XeaA9q60eXe9HA5nbgA) | [Kanmani](https://open.spotify.com/album/75oCfdVot9DkwhDzYRHdc0) | 3:15 |
 | 98 | [Gandhari \- Tamil](https://open.spotify.com/track/1cwF0UONpG1sy5mqqb5RRL) | [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD) | [Gandhari \(Tamil\)](https://open.spotify.com/album/0xlkH2wMrUW0Xzy09fE6bo) | 3:17 |
 | 99 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 |

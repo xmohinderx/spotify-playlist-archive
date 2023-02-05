@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58220,
+  "num_followers": 58223,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDk0NjAwNzE2NTE2ZWZiOGM3YjdkNGU4Nzk5OTQzMDU1",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGQ1ODcxYTk1NTcyMzQ0NmVhMjZlNzA5ZmVjYTIwNzMx",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Yours Truly, Angry Mob (Deluxe)",
+        "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 205087,
       "name": "Jonny Boy",
       "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/3Rleu2vd9qHGjRJdcFtPbC"
     }
   ],
   "unique_name": "Spela Shoreline!",

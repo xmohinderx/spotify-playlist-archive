@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 25678,
+  "num_followers": 25726,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDg1ZWNlOGRhNzRkNzY3YzEzMGU4ZjRhNDQwYzU4OTFl",
+  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDc4ZGJlODEzYzVkNzFkZGZkYzBkZGU4OWJmYWNiODUz",
   "tracks": [
     {
       "added_at": "2023-02-03 00:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
+        }
+      ],
+      "duration_ms": 153703,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "Cad\u00e1ver",
+        "url": "https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Cad\u00e1ver",
+      "url": "https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "Sobe & Desce",
         "url": "https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY"
       },
@@ -987,26 +1003,6 @@
       "duration_ms": 148670,
       "name": "Sobe & Desce",
       "url": "https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "AGORA NAW",
-        "url": "https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx"
-      },
-      "artists": [
-        {
-          "name": "James dos Reis",
-          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
-        },
-        {
-          "name": "9 Miller",
-          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
-        }
-      ],
-      "duration_ms": 175947,
-      "name": "AGORA NAW",
-      "url": "https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1031,6 +1027,26 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "AGORA NAW",
+        "url": "https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx"
+      },
+      "artists": [
+        {
+          "name": "James dos Reis",
+          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
+        },
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        }
+      ],
+      "duration_ms": 175947,
+      "name": "AGORA NAW",
+      "url": "https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "I Need a Lot",
         "url": "https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 232277,
       "name": "I Need a Lot",
       "url": "https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Hoje \u00c9 Hoje",
-        "url": "https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL"
-      },
-      "artists": [
-        {
-          "name": "TYKID",
-          "url": "https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Hoje \u00c9 Hoje",
-      "url": "https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF"
     }
   ],
   "unique_name": "Seda",

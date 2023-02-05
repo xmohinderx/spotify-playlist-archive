@@ -352,7 +352,7 @@
     {
       "album": {
         "name": "Maggot",
-        "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
+        "url": "https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S"
       },
       "artists": [
         {
@@ -363,6 +363,24 @@
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Groan",
+      "url": "https://open.spotify.com/track/04pktsRGucPz8jOgUSx9jp"
+    },
+    {
+      "album": {
+        "name": "Maggot",
+        "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
+      },
+      "artists": [
+        {
+          "name": "Dazey and the Scouts",
+          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
       "duration_ms": 180015,
       "name": "Groan",
       "url": "https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ"

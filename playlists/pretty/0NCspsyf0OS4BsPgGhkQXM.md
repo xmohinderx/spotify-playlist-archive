@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,548 likes - 139 songs - 7 hr 53 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,500 likes - 139 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,6 +146,6 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 136 | [Respect the Selector](https://open.spotify.com/track/3BiSC5gsupFqSVQyqk5zAx) | [Where's Rin](https://open.spotify.com/artist/7MkV3ngSihtUb8nCO57o0F) | [Respect the Selector](https://open.spotify.com/album/4rRfk6PqNBknBy1A8DQWc1) | 2:47 |
 | 137 | [5 Years](https://open.spotify.com/track/1ZFZQK8OGNdRP7NE8DFJMc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [V](https://open.spotify.com/album/3bIKrX3v2VWhIGe7MEzlwA) | 3:31 |
 | 138 | [Fallen](https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Fallen](https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj) | 3:30 |
-| 139 | [Found You](https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk) | [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd), [Vaux](https://open.spotify.com/artist/6Hx3KkS4jF8cJBEwFi6OHa) | [Found You](https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB) | 4:05 |
+| 139 | [Found You](https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk) | [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd), [VAUX](https://open.spotify.com/artist/30kxCU0wOt3JS75tZsYrZp) | [Found You](https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB) | 4:05 |
 
 Snapshot ID: `MTI4ODAsZGE3N2ZkMzg0ZTRkY2MyNzY3MTBiMjNlYzJiMDZjMGUwOTdlM2NiMA==`

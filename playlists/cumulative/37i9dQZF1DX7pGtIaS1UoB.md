@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-261 songs - 15 hr 39 min
+262 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [若你幸福](https://open.spotify.com/track/2v9CVwSRN0mOtIGVLBBE6a) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [若你幸福](https://open.spotify.com/album/3z1d8AuAoGXrqXqyrhvAOG) | 3:57 | 2022-06-13 | 2022-07-27 |
 | [藏不住的心跳\(《我只喜歡你》影視劇片頭曲\)](https://open.spotify.com/track/06lCOHWNcChv8OD1Eu3uu9) | [朱主愛](https://open.spotify.com/artist/2vL4i9Q9XBUFesjcAXKfKU) | [《我只喜歡你》影視原聲帶](https://open.spotify.com/album/3LDw6erSD3E4mzulS6wqWM) | 3:59 | 2022-06-06 | 2022-07-24 |
 | [蜂蜜月亮](https://open.spotify.com/track/4pEeMrkuigOI6ZRIpfL0v4) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [綻放的綻放的綻放](https://open.spotify.com/album/6LTJORKZE2w6k5b7mC5wbL) | 3:49 | 2022-07-04 | 2022-07-08 |
-| [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 |  |
+| [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 | 2023-02-05 |
 | [要怎麼告訴你我多喜歡](https://open.spotify.com/track/5KNSwtUycRBr3R1ghys4FK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 |  |
 | [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 | 2022-08-16 |
@@ -263,6 +263,7 @@
 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2022-06-06 | 2022-07-20 |
 | [静悄悄](https://open.spotify.com/track/2gH0rbZ9FSA3zI4ONrgkfC) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/07QFpkyKcZk4MiZWZBRdQq) | 3:05 | 2022-06-06 | 2022-07-29 |
 | [静悄悄](https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L) | 3:05 | 2022-07-25 | 2023-02-01 |
+| [静悄悄](https://open.spotify.com/track/751bgbxEOI9bjbTO88EKIb) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/1v452JuJ1JzALw0tBlIlGC) | 3:05 | 2023-01-30 |  |
 | [非酋](https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z) | [薛明媛](https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv), [朱贺](https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8) | [非酋](https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG) | 2:52 | 2022-07-25 |  |
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |

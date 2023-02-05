@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-117 songs - 7 hr 44 min
+118 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Udhungada Sangu](https://open.spotify.com/track/24GlSNySJ9tAwkvZPuVb63) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:29 | 2022-01-04 | 2022-06-29 |
 | [Ullaallaa \- From "Petta"](https://open.spotify.com/track/2LLZkWMReCWhgTrHuRh6dV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 4:56 | 2022-01-04 | 2022-06-15 |
 | [Uyir Urugudhey](https://open.spotify.com/track/66rGA1vJn4xCuNCyPFeLoz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 5:13 | 2022-07-13 | 2022-08-02 |
+| [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 | 2023-02-04 |  |
 | [Vaadi Pulla Vaadi \- From "Meesaya Murukku"](https://open.spotify.com/track/5gBa7yfdEUKrpJbhAygKRs) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi \(From "Meesaya Murukku"\)](https://open.spotify.com/album/6o279wwm5geGXjI6NnTCMl) | 4:06 | 2022-01-04 | 2022-08-23 |
 | [Vaathi Coming](https://open.spotify.com/track/2BcPFQ7nrtUObgAs72xaac) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:48 | 2022-01-04 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2022-01-04 | 2022-09-07 |

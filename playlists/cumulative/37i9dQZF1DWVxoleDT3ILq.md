@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico & Goyo Degano
 
-309 songs - 18 hr 51 min
+310 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acorde Digital](https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Acorde Digital](https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO) | 2:48 | 2022-10-07 | 2023-01-28 |
 | [Actitud](https://open.spotify.com/track/11JRqjddI6Znfd0YIeEgF1) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Actitud](https://open.spotify.com/album/2wkGD4lTmhxNp2hm5yQZzV) | 2:25 | 2022-04-15 | 2022-07-29 |
 | [Adolescencia](https://open.spotify.com/track/7lRwxlvyAkYFgXFiDgcLMZ) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro](https://open.spotify.com/album/2BzXETPGRSHbyV5m1dfpgF) | 3:16 | 2022-04-15 | 2022-07-28 |
-| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 |  |
+| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 | 2023-02-05 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2022-04-15 | 2022-12-10 |
 | [Al Borde del Abismo](https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Al Borde del Abismo](https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten) | 3:09 | 2022-04-15 | 2023-01-28 |
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
@@ -171,6 +171,7 @@
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-04-15 | 2022-07-28 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 | 2022-07-22 | 2022-12-10 |
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 |  |
+| [Me Hace Bien Amarte](https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Me Hace Bien Amarte](https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh) | 2:48 | 2023-02-03 |  |
 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 | 2022-08-26 |  |
 | [Me Puedo Morir](https://open.spotify.com/track/3nb9xSUUpEGdKuFtpgR91I) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Me Puedo Morir](https://open.spotify.com/album/3BYhGn7oJWC1ML1Yvzp39c) | 4:04 | 2022-04-15 | 2022-08-04 |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 |  |

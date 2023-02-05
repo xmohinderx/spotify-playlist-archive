@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 247385,
+  "num_followers": 247841,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDc3OGY1MTRhZGVlMzFmOTVhZWMwNjc5MzFjZjc3Nzc2",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDBmMjc2YzY1ZDU1NGZhOWZhYWQwNTFkMDkyNmEzYmFj",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Wild-Eyed Southern Boys",
@@ -587,6 +571,22 @@
       "duration_ms": 280636,
       "name": "Hold On Loosely",
       "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2022-03-04 19:14:07",

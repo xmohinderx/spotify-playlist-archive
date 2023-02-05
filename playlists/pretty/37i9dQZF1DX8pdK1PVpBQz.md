@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,823 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,825 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 47 | [Massage](https://open.spotify.com/track/0DQ1wJrap3erZnXeuRr66b) | [Oscar Key Sung](https://open.spotify.com/artist/2D7YyEYEeZY7W6rpuN6WoB) | [Massage](https://open.spotify.com/album/2YIVNbOZcWbSgxnlzWqZwR) | 4:49 |
 | 48 | [All The Same](https://open.spotify.com/track/2PCY35tMBVbF57R1av3KDx) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [All The Same](https://open.spotify.com/album/4B0eW8UUpzxjeFN8tMxRci) | 2:00 |
 | 49 | [Get Me Down](https://open.spotify.com/track/507Rf3rTNCMhYmoAix8Ici) | [Selfish Sons](https://open.spotify.com/artist/5Fqu2dYwt7GFleLcxCEYKE) | [Get Me Down](https://open.spotify.com/album/4rnC33ruwWzO6yOcR54EzJ) | 2:33 |
-| 50 | [Zero Attachments](https://open.spotify.com/track/0V5XEtXI3OkhtHiveV4gLo) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU) | [Zero Attachments](https://open.spotify.com/album/7cqzDsgVE3VpX90rtBsFPr) | 3:40 |
+| 50 | [Zero Attachments](https://open.spotify.com/track/0V5XEtXI3OkhtHiveV4gLo) | [Soul Brown](https://open.spotify.com/artist/0hlRm85W6ASeLxuSb84yv5) | [Zero Attachments](https://open.spotify.com/album/7cqzDsgVE3VpX90rtBsFPr) | 3:40 |
 | 51 | [Hometown](https://open.spotify.com/track/1qag6EIGiSQI3vo4PqXa3O) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Hometown](https://open.spotify.com/album/6cTRL5RnQJrpFaN4ue0xXp) | 3:05 |
 | 52 | [Hit My Line](https://open.spotify.com/track/6nJwdB1slw3GKz6bG1rcNf) | [Leighton Scott](https://open.spotify.com/artist/5Ne0fighE5p67hlCDN73Lj) | [Hit My Line](https://open.spotify.com/album/4zqP54yy7PAr08Wixooj2k) | 2:09 |
 | 53 | [Those Days Are Over](https://open.spotify.com/track/0I9tMEnJzW5jme9jbpvmND) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/27umoSQzOA6uPJpUY5TySs) | 3:38 |

@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Bad Boys (Harddance Mix)",
+        "url": "https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Shinzo",
+          "url": "https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Bad Boys - Harddance Mix",
+      "url": "https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF"
+    },
+    {
+      "album": {
         "name": "The Crystal Winter",
         "url": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj"
       },
@@ -600,8 +622,8 @@
           "url": "https://open.spotify.com/artist/6G6JlX1DE2Val7zPadVTzY"
         },
         {
-          "name": "EGGWYTE",
-          "url": "https://open.spotify.com/artist/3FGyHwCfYQXtjsnE1eBW7I"
+          "name": "Eggwyte",
+          "url": "https://open.spotify.com/artist/5VzIPn6munZ3O3n29BnZI8"
         }
       ],
       "date_added": "2023-02-02",
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 200800,
       "name": "The Game - Dr. Rude & Lunaticz Remix",
       "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"

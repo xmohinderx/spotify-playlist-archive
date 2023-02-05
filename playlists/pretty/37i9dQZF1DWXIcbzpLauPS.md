@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,930 likes - 61 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,132 likes - 61 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

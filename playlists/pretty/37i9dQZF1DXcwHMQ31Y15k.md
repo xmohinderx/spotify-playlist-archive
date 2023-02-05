@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,458 likes - 79 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,514 likes - 79 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 6 | [Klebus](https://open.spotify.com/track/6wxZIB1y1HPYifGCsAPGaA) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Klebus](https://open.spotify.com/album/0sP7ALG6951vlmpFpzJphu) | 4:57 |
 | 7 | [Teteg Ati](https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Teteg Ati](https://open.spotify.com/album/6YvFUGHjVHd3U8Ik1GU3Jt) | 5:20 |
 | 8 | [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 |
-| 9 | [Rungkad](https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI) | [Happy Asmara](https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK) | [Rungkad](https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp) | 5:08 |
+| 9 | [Rungkad](https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rungkad](https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp) | 5:08 |
 | 10 | [Gemati](https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG) | 4:38 |
 | 11 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 |
 | 12 | [Full Senyum Sayang](https://open.spotify.com/track/1MgqHpz3FQLaaUSK7fhGvL) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/2JXj5teDGxv4RQ2KfWfSIy) | 4:06 |

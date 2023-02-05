@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: \u062d\u0643\u064a\u0645\n\n",
-  "num_followers": 53225,
+  "num_followers": 53278,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0NTgyOCwwMDAwMDAwMDRiNDhkMWEwMzE0MjVmZGE5M2RmZDFkOTA5MzYwYmIy",
+  "snapshot_id": "MTY3NTM0NTgyOCwwMDAwMDAwMGE2OGZhYzUxYmU0MmUxYWQzYTBlYTEwNDk1MWE0NWUy",
   "tracks": [
     {
       "added_at": "2023-01-12 18:59:32",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy"
     },
     {
-      "added_at": "2023-02-04 00:40:36",
+      "added_at": "2023-02-05 01:06:20",
       "album": {
         "name": "Aazbny Aazib",
         "url": "https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv"
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-12 18:59:32",
       "album": {
-        "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
-        "url": "https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u062d\u0645\u062f \u0633\u0644\u0637\u0627\u0646",
-          "url": "https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
-      "url": "https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA"
-    },
-    {
-      "added_at": "2023-01-12 18:59:32",
-      "album": {
         "name": "Hayfout Alek",
         "url": "https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 252609,
       "name": "Hayfout Alek",
       "url": "https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ"
+    },
+    {
+      "added_at": "2023-01-12 18:59:32",
+      "album": {
+        "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
+        "url": "https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0633\u0644\u0637\u0627\u0646",
+          "url": "https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
+      "url": "https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA"
     },
     {
       "added_at": "2023-01-12 18:59:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-12 18:59:32",
       "album": {
-        "name": "\u0627\u0645\u0627\u0646\u0647",
-        "url": "https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW"
-      },
-      "artists": [
-        {
-          "name": "\u0631\u0645\u0636\u0627\u0646 \u0627\u0644\u0628\u0631\u0646\u0633",
-          "url": "https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn"
-        }
-      ],
-      "duration_ms": 258070,
-      "name": "\u0627\u0645\u0627\u0646\u0647",
-      "url": "https://open.spotify.com/track/1Xqv1JLeOgkaADrmi0Ivpx"
-    },
-    {
-      "added_at": "2023-01-12 18:59:32",
-      "album": {
         "name": "Eah El Asatokk Dah",
         "url": "https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 305711,
       "name": "Eah El Asatokk Dah",
       "url": "https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f"
+    },
+    {
+      "added_at": "2023-01-12 18:59:32",
+      "album": {
+        "name": "\u0627\u0645\u0627\u0646\u0647",
+        "url": "https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW"
+      },
+      "artists": [
+        {
+          "name": "\u0631\u0645\u0636\u0627\u0646 \u0627\u0644\u0628\u0631\u0646\u0633",
+          "url": "https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn"
+        }
+      ],
+      "duration_ms": 258070,
+      "name": "\u0627\u0645\u0627\u0646\u0647",
+      "url": "https://open.spotify.com/track/1Xqv1JLeOgkaADrmi0Ivpx"
     },
     {
       "added_at": "2023-01-12 18:59:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-12 18:59:32",
       "album": {
-        "name": "Omry",
-        "url": "https://open.spotify.com/album/6fqXjbB0w5V82nCilSM8NX"
-      },
-      "artists": [
-        {
-          "name": "Hassan El Asmar",
-          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Garahony",
-      "url": "https://open.spotify.com/track/1ix7NiigEUwVjJ0PWcRI8G"
-    },
-    {
-      "added_at": "2023-01-12 18:59:32",
-      "album": {
         "name": "Togar Saada",
         "url": "https://open.spotify.com/album/0tp0RCyY4MU5KdmQsZSt0T"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-01-12 18:59:32",
       "album": {
+        "name": "Omry",
+        "url": "https://open.spotify.com/album/6fqXjbB0w5V82nCilSM8NX"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Asmar",
+          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "Garahony",
+      "url": "https://open.spotify.com/track/1ix7NiigEUwVjJ0PWcRI8G"
+    },
+    {
+      "added_at": "2023-01-12 18:59:32",
+      "album": {
         "name": "\u064a\u0627 \u0628\u062a \u064a\u0644\u0627",
         "url": "https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 282026,
       "name": "\u064a\u0627 \u0628\u062a \u064a\u0644\u0627",
       "url": "https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t"
-    },
-    {
-      "added_at": "2023-01-12 18:59:32",
-      "album": {
-        "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
-        "url": "https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Amer",
-          "url": "https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ"
-        }
-      ],
-      "duration_ms": 313775,
-      "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
-      "url": "https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu"
     },
     {
       "added_at": "2023-01-12 18:59:32",
@@ -1291,6 +1275,22 @@
       "duration_ms": 267736,
       "name": "\u0633\u0644\u0627\u0645\u062a\u0643 \u064a\u0627 \u062f\u0645\u0627\u063a\u0649",
       "url": "https://open.spotify.com/track/23p8lKM81xFmdwpOxDNe0k"
+    },
+    {
+      "added_at": "2023-01-12 18:59:32",
+      "album": {
+        "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
+        "url": "https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Amer",
+          "url": "https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ"
+        }
+      ],
+      "duration_ms": 313775,
+      "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
+      "url": "https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu"
     },
     {
       "added_at": "2023-01-12 18:59:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-01-12 18:59:32",
       "album": {
+        "name": "El Einab",
+        "url": "https://open.spotify.com/album/0p8lgkWBHMToB5qipgqGKQ"
+      },
+      "artists": [
+        {
+          "name": "Saad El Soghayar",
+          "url": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
+        }
+      ],
+      "duration_ms": 195709,
+      "name": "El Einab",
+      "url": "https://open.spotify.com/track/6by5tScCl9jWT2GLRdKyaw"
+    },
+    {
+      "added_at": "2023-01-12 18:59:32",
+      "album": {
         "name": "Adewak Ebn Karak",
         "url": "https://open.spotify.com/album/1xTTnWMbK8ktrWD15l1BYY"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 235232,
       "name": "Adewak Ebn Karak",
       "url": "https://open.spotify.com/track/72nHkHaTVcM5iEbRVSlWvI"
-    },
-    {
-      "added_at": "2023-01-12 18:59:32",
-      "album": {
-        "name": "El Einab",
-        "url": "https://open.spotify.com/album/0p8lgkWBHMToB5qipgqGKQ"
-      },
-      "artists": [
-        {
-          "name": "Saad El Soghayar",
-          "url": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
-        }
-      ],
-      "duration_ms": 195709,
-      "name": "El Einab",
-      "url": "https://open.spotify.com/track/6by5tScCl9jWT2GLRdKyaw"
     },
     {
       "added_at": "2023-01-12 18:59:32",

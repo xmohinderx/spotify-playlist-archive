@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-160 songs - 16 hr 31 min
+161 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Inguwa](https://open.spotify.com/track/7p5NBdvGGB07m37M8mZkPM) | [Achex](https://open.spotify.com/artist/5lw2JXiEsBgZPSUClzh9pq), [Sunlee](https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Inguwa](https://open.spotify.com/album/1sYhNGp9nmFA6OJciMf0hL) | 8:03 | 2023-02-02 |  |
 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 | 2022-06-27 |  |
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
+| [Izegbe](https://open.spotify.com/track/6ljQPw3QcfwNishetIByR6) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Izegbe](https://open.spotify.com/album/7tdtrRYNSdkl4P8pWw0ZhP) | 2:31 | 2023-02-04 |  |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-13 |  |
 | [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 | 2022-10-16 |
 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 | 2022-07-13 |  |
@@ -129,7 +130,7 @@
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-28 |  |
 | [Sian \- David Mayer Remix](https://open.spotify.com/track/6QPsEsb8PnTeKN1YAbS4jh) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Más Allá](https://open.spotify.com/album/31AgEt2RKn5CTgrzgL948A) | 7:10 | 2022-04-13 |  |
 | [Sidi](https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z) | [Herrer](https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz) | [Sidi](https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp) | 5:00 | 2022-06-02 |  |
-| [Siento Libre \- Extended Mix](https://open.spotify.com/track/2rymUsZWzkAM9mJTECevbH) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Tcks](https://open.spotify.com/artist/1oNQhBscjoXDBZBKy9DKIb), [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Siento Libre](https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA) | 6:59 | 2022-09-08 |  |
+| [Siento Libre \- Extended Mix](https://open.spotify.com/track/2rymUsZWzkAM9mJTECevbH) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Tcks](https://open.spotify.com/artist/1oNQhBscjoXDBZBKy9DKIb), [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Siento Libre \(JJ Rework\)](https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA) | 6:59 | 2022-09-08 |  |
 | [Son Mansour](https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Son Mansour](https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP) | 5:44 | 2022-04-13 | 2022-07-22 |
 | [Sunday Showers \- Original Mix](https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn) | [Kentphonik](https://open.spotify.com/artist/5WvbWfo8umWyqSrmB8DviH) | [Hiya Kaya EP](https://open.spotify.com/album/41ai9POiSflKh3DVyyq6V8) | 7:01 | 2022-04-13 |  |
 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 | 2022-04-13 |  |

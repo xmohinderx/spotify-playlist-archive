@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 123491,
+  "num_followers": 123757,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDNjYzQyMDBlNmM3ODcwMGJkMWUzNTk0MjQ1OThjZjhi",
+  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDMxZjk1YmRmZWUxODE4NzNkZjQzOGY1NWVmOTNiZGRm",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172400,
       "name": "Mr. Soul",
       "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
     },
     {
       "added_at": "2021-03-22 17:56:31",

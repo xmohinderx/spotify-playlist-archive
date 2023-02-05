@@ -4,11 +4,12 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-134 songs - 10 hr 27 min
+135 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 | 2021-09-10 | 2023-02-03 |
+| [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 | 2021-09-10 |  |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2021-09-10 | 2023-02-03 |
 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 | 2021-09-10 | 2022-07-28 |
 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 | 2022-08-03 | 2022-09-15 |
@@ -127,7 +128,7 @@
 | [The Golden Morning Breaks](https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 5:22 | 2021-09-10 | 2022-07-27 |
 | [The Hostess](https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL) | [E Ruscha V](https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE) | [Who Are You](https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F) | 2:04 | 2021-09-10 |  |
 | [The Hostess](https://open.spotify.com/track/1uaNUjjK34gwMwU2iAopm5) | [E Ruscha V](https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE) | [Who Are You](https://open.spotify.com/album/5s3DENljN5VyspXpzgXAmI) | 2:04 | 2021-09-10 | 2022-07-28 |
-| [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 | 2021-09-10 |  |
+| [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 | 2021-09-10 | 2023-02-05 |
 | [The Running Water](https://open.spotify.com/track/7AOA3k3141Pw3Z0mvpuXRj) | [Cybe](https://open.spotify.com/artist/0QafFu1D0s1WrS4GpgoEvU) | [Tropisch Verlangen](https://open.spotify.com/album/0tqLssCKNx9BgijVqBdVjt) | 4:18 | 2021-09-10 | 2022-07-26 |
 | [The word 2](https://open.spotify.com/track/0MCmo1NCy0jrlHxhRevlEb) | [SHIGEO SEKITO](https://open.spotify.com/artist/73vrJ0s1YBCtEfHTsyRLNo) | [Special Sound Selection –the Word–](https://open.spotify.com/album/4STWskplK0DNyJ4tlBYWZd) | 3:02 | 2021-09-10 | 2022-06-28 |
 | [These Are Heavy Things](https://open.spotify.com/track/4pupPSHAUxLmgN0s2hiEAj) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:36 | 2022-03-30 | 2022-07-27 |

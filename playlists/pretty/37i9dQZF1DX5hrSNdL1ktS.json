@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Elvis de Yongol en portada.",
-  "num_followers": 55347,
+  "num_followers": 55359,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ2MDYyNywwMDAwMDAwMGNmMjY2NjFlN2ZlYjlhNjNlN2NmODM2M2NkYTVjOTRm",
+  "snapshot_id": "MTY3NTQ2MDYyNywwMDAwMDAwMDE0YTI5MWFkMTQzOGE2NzMxZWQ1YjljY2FiNWFlMzY3",
   "tracks": [
     {
       "added_at": "2023-01-27 18:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Las de Octubre",
         "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
@@ -683,26 +667,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "ICE BLUE",
         "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
@@ -719,6 +683,26 @@
       "duration_ms": 174000,
       "name": "GYAL",
       "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Loco Demente",
+        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Loco Demente",
+      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Pa' Siempre",
         "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
       },
@@ -1075,18 +1075,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Loco Demente",
-        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+        "name": "SI SE DA",
+        "url": "https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L"
       },
       "artists": [
         {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        },
+        {
+          "name": "DEEIKEL",
+          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+        },
+        {
+          "name": "J E A N",
+          "url": "https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Loco Demente",
-      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+      "duration_ms": 212842,
+      "name": "SI SE DA",
+      "url": "https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ"
     }
   ],
   "unique_name": "Urbano Fresh",

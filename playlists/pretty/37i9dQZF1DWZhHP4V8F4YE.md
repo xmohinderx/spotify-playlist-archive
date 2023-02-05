@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 4 | [Okalumu Mma](https://open.spotify.com/track/1rCSBpEN9CiO6UnZMalBTt) | [2weird](https://open.spotify.com/artist/1bLMyEwun62Eqb2JSaKP6G) | [Letter to Small Sleeky in Heaven](https://open.spotify.com/album/3W85zvHd964X82cFju6F2z) | 3:12 |
 | 5 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 |
 | 6 | [Abracadabra](https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Abracadabra](https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY) | 3:02 |
-| 7 | [Imagine t'es déscolarisé](https://open.spotify.com/track/09KjFPA3wIxxyPxqrARAjz) | [Louse](https://open.spotify.com/artist/42vyJiEswxCBCVUpgKZyT6) | [Imagine t'es déscolarisé](https://open.spotify.com/album/6Il9ZeBjrvfMJszYmB8TYV) | 2:26 |
+| 7 | [Clandestina \- JVSTIN Remix](https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Jvstin](https://open.spotify.com/artist/7yx9U0pCgGRvOPLjT75Rgd) | [Clandestina \(JVSTIN Remix\)](https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW) | 2:25 |
 | 8 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 9 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
 | 10 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 |
 | 50 | [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 |
 
-Snapshot ID: `MTY3NTE4OTk5NSwwMDAwMDAwMGEyMGZkMDJjZjJmYWVlN2E3ODkzMmU5NDUzOTE3ZWRm`
+Snapshot ID: `MTY3NTE4OTk5NSwwMDAwMDAwMGI5MmI1YmI3MWZkYjMwNDUzM2IxNGE4ZTY0NGZjZGJi`

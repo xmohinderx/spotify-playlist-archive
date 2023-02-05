@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 172658,
+  "num_followers": 172748,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMGZkOTMxNzdkZDk4NTg5ZDM3ZTQwYmMwOWQ4MTZmMTQw",
+  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMDFhODYxZjUxN2RmNTY0Y2Q1ZGRiOTBlZmU1YTM3MDVh",
   "tracks": [
     {
       "added_at": "2023-02-02 23:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 128280,
       "name": "Lou Lou",
       "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -567,22 +567,6 @@
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Your Ghost",
         "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 133184,
-      "name": "The Devil's Tongue",
-      "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 224560,
       "name": "When the Mourning Comes",
       "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 133184,
+      "name": "The Devil's Tongue",
+      "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Carvings",
-        "url": "https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln"
+        "name": "Jonas Alaska",
+        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
       "artists": [
         {
-          "name": "Juni Habel",
-          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
         }
       ],
-      "duration_ms": 142333,
-      "name": "Little Twirl",
-      "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
+      "duration_ms": 224179,
+      "name": "October",
+      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Jonas Alaska",
-        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
       "artists": [
         {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
         }
       ],
-      "duration_ms": 224179,
-      "name": "October",
-      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -935,34 +935,34 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Love Your Mother",
-        "url": "https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW"
+        "name": "Carvings",
+        "url": "https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln"
       },
       "artists": [
         {
-          "name": "Real Ones",
-          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
         }
       ],
-      "duration_ms": 209052,
-      "name": "Love Your Mother",
-      "url": "https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA"
+      "duration_ms": 142333,
+      "name": "Little Twirl",
+      "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
     },
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
       "artists": [
         {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
+        "name": "Love Your Mother",
+        "url": "https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW"
       },
       "artists": [
         {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+          "name": "Real Ones",
+          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Look At The Light",
-      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+      "duration_ms": 209052,
+      "name": "Love Your Mother",
+      "url": "https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA"
     },
     {
       "added_at": "2023-02-02 23:00:00",

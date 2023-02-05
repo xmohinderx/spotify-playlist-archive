@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,414 likes - 148 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,576 likes - 148 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 63 | [Cloak and Dagger](https://open.spotify.com/track/1xUGxXkQk894LVQptxTMcq) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Cloak and Dagger](https://open.spotify.com/album/6RxO1WGSpFM6BdlbzYkkEb) | 2:29 |
 | 64 | [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 |
 | 65 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 |
-| 66 | [Sahara \- Onderkoffer & Trap Mozart Remix](https://open.spotify.com/track/0Qmzdnm8vz72x3TOgCZYKn) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H), [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe), [Trap Mozart](https://open.spotify.com/artist/33x4Au62ogHpnu7DsgI07D) | [Sahara \(Onderkoffer & Trap Mozart Remix\)](https://open.spotify.com/album/5Bkdd89SaxesvN0ZlYpelT) | 2:47 |
+| 66 | [Sahara \- Onderkoffer & Basshoven Remix](https://open.spotify.com/track/0Qmzdnm8vz72x3TOgCZYKn) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H), [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe), [Basshoven](https://open.spotify.com/artist/3yc1IuXu7iTYuQFDTrIEZ1) | [Sahara \(Onderkoffer & Basshoven Remix\)](https://open.spotify.com/album/5Bkdd89SaxesvN0ZlYpelT) | 2:47 |
 | 67 | [Camelot](https://open.spotify.com/track/59kFsvZ4jPYS7zyOkuFJUy) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:11 |
 | 68 | [Twisted](https://open.spotify.com/track/6sDk75o8Fm7a4YCVbyfWHF) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/5l9PPNh220r3rE0PJIDAhG) | 5:20 |
 | 69 | [Catch](https://open.spotify.com/track/2YbpsxiihiN7yiIf1TQ9vn) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Catch](https://open.spotify.com/album/6EHikGB1Z5hXACJinPWqBT) | 4:16 |

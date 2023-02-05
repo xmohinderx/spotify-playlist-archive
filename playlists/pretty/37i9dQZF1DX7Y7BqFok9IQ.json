@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 140553,
+  "num_followers": 140751,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGJiNTcyYjRmNTExOTk2NjkxZWZjNTM5NTVhODc4NDVm",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDMyYjlmMmU0ZWM4NWM2NDI4MTRlMDAwMGJmMWJlMjdm",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Look Alive",
-        "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Spirit's Furnace",
         "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 194331,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Look Alive",
+        "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Come For Me",
-        "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 209667,
-      "name": "Come For Me",
-      "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Good for Sumthin'",
@@ -475,6 +459,22 @@
       "duration_ms": 326013,
       "name": "Steep Climb",
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 209667,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -573,24 +573,20 @@
       "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Wicked Girl",
-        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
+        "name": "John The Conqueror",
+        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
       },
       "artists": [
         {
-          "name": "Tyler Boone",
-          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
-        },
-        {
-          "name": "Peter Keys",
-          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
+          "name": "John The Conqueror",
+          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Wicked Girl",
-      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+      "duration_ms": 229720,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -625,22 +621,6 @@
       "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "John The Conqueror",
-        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
-      },
-      "artists": [
-        {
-          "name": "John The Conqueror",
-          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Bones Owens",
@@ -655,6 +635,42 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Wicked Girl",
+        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
+      },
+      "artists": [
+        {
+          "name": "Tyler Boone",
+          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
+        },
+        {
+          "name": "Peter Keys",
+          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Wicked Girl",
+      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+        "name": "Shake and Bake",
+        "url": "https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi"
       },
       "artists": [
         {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
         }
       ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+      "duration_ms": 328093,
+      "name": "The Waltz",
+      "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -703,22 +719,6 @@
       "duration_ms": 228517,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Shake and Bake",
-        "url": "https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "The Waltz",
-      "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
     },
     {
       "added_at": "2021-02-19 05:01:00",

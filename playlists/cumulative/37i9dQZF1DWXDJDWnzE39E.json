@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "kill[h]er",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145735,
+      "name": "kill[h]er",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
       },
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 194000,
       "name": "Ugly Fucker",
       "url": "https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs"

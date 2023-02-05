@@ -3340,7 +3340,7 @@
     {
       "album": {
         "name": "Miles Away",
-        "url": "https://open.spotify.com/album/3D5D91jemCyDXGXuXYerDl"
+        "url": "https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5"
       },
       "artists": [
         {
@@ -3351,6 +3351,24 @@
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 95985,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca"
+    },
+    {
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/3D5D91jemCyDXGXuXYerDl"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
       "duration_ms": 95985,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/7vd6g47Pel023P0zSyDdbX"

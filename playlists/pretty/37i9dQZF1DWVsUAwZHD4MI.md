@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,693 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,724 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 51 | [Ur Soul And Mine](https://open.spotify.com/track/1tNVVOlZK67YAI3zxrUqlM) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:17 |
 | 52 | [Softic Dnb](https://open.spotify.com/track/2Jv4UqZIYSubikMXCBKIfd) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI) | 3:41 |
 | 53 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
-| 54 | [Blue Racecar](https://open.spotify.com/track/4tmsqsTyxgKUnGczXhBeLa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Sunniva Lindgård \(Producer\), Sunniva Lindgård \(Composer\), Andrew Murray Baardsen \(Producer\)](https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:32 |
+| 54 | [Blue Racecar](https://open.spotify.com/track/4tmsqsTyxgKUnGczXhBeLa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:32 |
 | 55 | [Love Story](https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn) | 5:12 |
 | 56 | [Gotta Let You Go \- Original '95 Club Mix](https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR) | 6:22 |
 | 57 | [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 |

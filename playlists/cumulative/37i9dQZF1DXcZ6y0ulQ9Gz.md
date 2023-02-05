@@ -4,14 +4,14 @@
 
 > The best of Indie in one place\. Cover: Steve Lacy
 
-612 songs - 1 day 13 hr 8 min
+613 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2022-08-23 |  |
 | [1234](https://open.spotify.com/track/4MtkmGngLtWzv0Bz1rfMCz) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5wrv5Dre5uqI9Ne2A5dpT1) | 3:03 | 2020-10-29\* | 2022-04-14 |
 | [19.10](https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 5:08 | 2021-02-23 | 2022-04-15 |
-| [2725](https://open.spotify.com/track/56RTzSMcU5EQ8rSsTarKA6) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:21 | 2022-09-23 |  |
+| [2725](https://open.spotify.com/track/56RTzSMcU5EQ8rSsTarKA6) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:21 | 2022-09-23 | 2023-02-05 |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2021-02-23 | 2022-10-13 |
 | [5 dollars](https://open.spotify.com/track/1TVBQ71mvtYvSwYEMkFDtO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [5 dollars](https://open.spotify.com/album/6Y6dOXL6hRQnwU9LxOK2dM) | 3:28 | 2021-02-22 | 2022-04-15 |
 | [50//50](https://open.spotify.com/track/36lNDeaRf8F8aYaP0zaHpm) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/38xbAu3iEETF1Z9RiBlkTf) | 4:06 | 2020-10-29\* | 2022-04-13 |
@@ -301,6 +301,7 @@
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2022-08-23 | 2022-10-13 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-01-19 | 2022-11-02 |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-08-23 | 2023-02-02 |
+| [Kerosene!](https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 5:05 | 2022-11-11 |  |
 | [Kissing](https://open.spotify.com/track/4KBut1oQTHuF5uWCnPV9wr) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Twin Flames](https://open.spotify.com/album/1Ol2zdK8I3HJLjIIWTQQVr) | 3:20 | 2021-07-20 | 2022-04-12 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-08-23 |  |
 | [Lady Luck](https://open.spotify.com/track/0eTPzuJHhd9XLgdzPNUY4c) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Lady Luck](https://open.spotify.com/album/4pWo8rRwgDEOXnrmvJXadY) | 2:52 | 2022-04-20 | 2022-07-29 |

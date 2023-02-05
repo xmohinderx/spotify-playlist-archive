@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Cad\u00e1ver",
+        "url": "https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240298,
+      "name": "Cad\u00e1ver",
+      "url": "https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue"
+    },
+    {
+      "album": {
         "name": "Caixa De Pandora",
         "url": "https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 171782,
       "name": "Hoje \u00c9 Hoje",
       "url": "https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF"

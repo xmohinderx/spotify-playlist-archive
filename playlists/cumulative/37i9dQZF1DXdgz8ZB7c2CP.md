@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Pauline Herr.
 
-310 songs - 17 hr 30 min
+311 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2021-08-20 | 2022-07-29 |
 | [Lucid](https://open.spotify.com/track/0TVxCTwrNzKUgoKYVtwTY3) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Lucid](https://open.spotify.com/album/7xwefRWGLjwWKYTQsmfy3N) | 3:35 | 2021-10-29 | 2022-07-17 |
 | [Make Me A Memory](https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Make Me A Memory](https://open.spotify.com/album/3GZEU2tfdPrz7MWFDVxSyg) | 3:12 | 2021-09-17 |  |
+| [Memories](https://open.spotify.com/track/4A64jF6FhfuNduCm3VLLGZ) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Memories](https://open.spotify.com/album/5Te858VbhA2CD4zLrMYxIH) | 3:12 | 2023-02-05 |  |
 | [Mess With Me](https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Mess With Me](https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6) | 3:12 | 2021-08-06 |  |
 | [Mind](https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Mind](https://open.spotify.com/album/4R96TWKe91XV7yZj9Db53H) | 2:57 | 2021-08-06 |  |
 | [Minute](https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Minute](https://open.spotify.com/album/1WbWZSXhnqc6gowVQsESqA) | 2:52 | 2021-08-06 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-08-06 |  |
 | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/track/4Y6UXcqLYfYkt6Zk82XZFy) | [Katy Rose](https://open.spotify.com/artist/7fFDeuI6844uubidbokLE7), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/album/2iKPnx5cTUUczYDE2ZnKuV) | 3:35 | 2021-09-10 | 2022-06-22 |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2021-08-06 |  |
-| [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2021-08-06 |  |
+| [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2021-08-06 | 2023-02-05 |
 | [Sakura VIP](https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6) | [NUU$HI](https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh) | [Sakura VIP](https://open.spotify.com/album/3K8aKx7HyQOHrpeMU4pMOZ) | 2:30 | 2021-08-06 | 2022-12-22 |
 | [Salt](https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Light Garden](https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe) | 3:43 | 2022-05-06 |  |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-22 | 2023-01-12 |

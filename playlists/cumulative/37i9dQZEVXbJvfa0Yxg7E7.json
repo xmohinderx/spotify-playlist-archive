@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 139040,
       "name": "BAP",
       "url": "https://open.spotify.com/track/0SxQZ81RX3icOvVCrLDszO"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 141025,
       "name": "Bare en mann",
       "url": "https://open.spotify.com/track/0ZbEc2puxrGJ4VXfJ4VTuD"
@@ -4685,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "En Shot",
+        "url": "https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "En Shot",
+      "url": "https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY"
+    },
+    {
+      "album": {
         "name": "En Solskinnsdag",
         "url": "https://open.spotify.com/album/3NPw9UKNxpe5sr9Z4EpZbB"
       },
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
@@ -4946,6 +4964,28 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "album": {
@@ -5886,6 +5926,28 @@
       "duration_ms": 118125,
       "name": "Fylleangst",
       "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
+    },
+    {
+      "album": {
+        "name": "F\u00f6rsent",
+        "url": "https://open.spotify.com/album/2rC0CBaSDF2NJ23uXu6Fh6"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "F\u00f6rsent",
+      "url": "https://open.spotify.com/track/6xrlUHCSbqM2huGrQau5xv"
     },
     {
       "album": {
@@ -7871,6 +7933,28 @@
     },
     {
       "album": {
+        "name": "HVA SA DU",
+        "url": "https://open.spotify.com/album/4Idg3E4GRUoxqlmrL3B19g"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117982,
+      "name": "HVA SA DU",
+      "url": "https://open.spotify.com/track/1EWRs6LpS4PL5gTbWaUMs6"
+    },
+    {
+      "album": {
         "name": "Enten G\u00e5r Det Bra, Ellers G\u00e5r Det Over",
         "url": "https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd"
       },
@@ -9176,7 +9260,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 212459,
       "name": "Jeg glemmer deg aldri - fra R\u00e5debank",
       "url": "https://open.spotify.com/track/1oKXshzJtz3zDA6dJY8VlZ"
@@ -10353,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+    },
+    {
+      "album": {
         "name": "Level 1000",
         "url": "https://open.spotify.com/album/2P9Lmr8EGO02Sujzv72yoY"
       },
@@ -11232,7 +11334,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 135901,
       "name": "Mama",
       "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
@@ -12662,7 +12764,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 150359,
       "name": "Night In Oslo",
       "url": "https://open.spotify.com/track/4XnMxCBN6BQw6eUFXwUwKb"
@@ -12786,6 +12888,24 @@
       "duration_ms": 201720,
       "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
+    },
+    {
+      "album": {
+        "name": "Norge rundt",
+        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204306,
+      "name": "Norge rundt",
+      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
     },
     {
       "album": {
@@ -15274,7 +15394,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 217196,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -17718,6 +17838,24 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "album": {

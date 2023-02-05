@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Pola Rise
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,923 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,928 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 37 | [Taniec na Strach](https://open.spotify.com/track/003I6BfuzTaPfenPqy818s) | [Ada Fijał](https://open.spotify.com/artist/1z0HV5O0Xhe0shXzcmS1xr) | [Taniec na Strach](https://open.spotify.com/album/5uSW0DYB64tGuxuG0QNCDO) | 3:09 |
 | 38 | [Zostań](https://open.spotify.com/track/4bddoB0gTxMAYjyR3pfZzn) | [Marisol](https://open.spotify.com/artist/5oBe3ZLAxyhcl6w05EnZfF), [Ola Bird](https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6) | [Zostań](https://open.spotify.com/album/4ywiVhmvy98SWXPZ4OHQxc) | 3:02 |
 | 39 | [Historia](https://open.spotify.com/track/2XpJ3njGbqrJHWYzpvjwEh) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Historia](https://open.spotify.com/album/6BgXhyYZhy9ss70dT6JtS8) | 4:05 |
-| 40 | [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 |
+| 40 | [Lucynda](https://open.spotify.com/track/6NWcMpCZHt8V6du2R8GvT7) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/71pjaDh4yFeUdRkqs3N5Gs) | 4:07 |
 | 41 | [Ty i Ja](https://open.spotify.com/track/6mJWCC7VmyiLOXIyy2U6b0) | [Sara Chmiel](https://open.spotify.com/artist/57HF3clFmobnP0FmKb4leY), [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV) | [Ty i Ja](https://open.spotify.com/album/6gfiuHAHE0m6K0tDL4zCKR) | 2:38 |
 | 42 | [Czekam](https://open.spotify.com/track/2bTbymJoXM3y00zpWTJz1t) | [Ifi Ude](https://open.spotify.com/artist/5zSuf2Vd2XFJdF3I4nADbJ), [Antek Sojka](https://open.spotify.com/artist/2wklUU4qT3E6sAVBeDtJvv) | [Czekam](https://open.spotify.com/album/4JLHzURy7m3kH1Cr3UmajT) | 2:01 |
 | 43 | [Konstelacje](https://open.spotify.com/track/4LVpjT3EDnFXGGXH6ljEQR) | [MIMI](https://open.spotify.com/artist/5hZttgvVUUv4Y77OrTqeI6) | [Konstelacje](https://open.spotify.com/album/3IIop88UOfAbMlyjvqS7dB) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Lustro](https://open.spotify.com/track/7BhSVPtItIjLFbN6I5Yn9u) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4) | [Weda](https://open.spotify.com/album/5sTIxSkQ7Ukr80g5Er0Ytn) | 4:30 |
 | 50 | [Non stop](https://open.spotify.com/track/2uKFGUNechJSwHCiAjYpLk) | [MIJA MI](https://open.spotify.com/artist/04WYT3P4yQ8aC9Hbz9sCKx), [bunny](https://open.spotify.com/artist/1mGiUyxEsL9GDehRXf6kJC) | [Non stop](https://open.spotify.com/album/12zb2m3vpL5NiLGWyybQkh) | 2:33 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDExMmMxNzQ0NDdiZmM3NTZkMzc1ZjA5ZDE3MmEzOWIz`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDAwYWIzN2I1YTk5Y2I5YTUwMDdiODk1MWMwNGZhNGU1`

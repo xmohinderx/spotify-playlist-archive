@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Patricia Essong Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,326 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,381 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 11 | [PEACE St\. The REVIVAL](https://open.spotify.com/track/63yOJ0EgPcpRoRNXrMGklp) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG), [Naruyoshi Sano](https://open.spotify.com/artist/77QPAlmSKXvnejfB7FJJ8J), [Yuki Aikawa](https://open.spotify.com/artist/5Hbo2ayNVTWg6NX1yRIMsR) | [PEACE St\. The REVIVAL](https://open.spotify.com/album/6PTUezIZhjE5fj9HiqJOFi) | 3:26 |
 | 12 | [La Ritournelle](https://open.spotify.com/track/4J5oY955l3aXEmOJ7KS5l1) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Revival](https://open.spotify.com/album/0T9WYNXV8oI1cd0pGachtb) | 4:34 |
 | 13 | [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 |
-| 14 | [Still Not In Space](https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI) | [wnbl](https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Still not in Space](https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO) | 2:56 |
+| 14 | [Still Not In Space](https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI) | [wnbl](https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Still Not In Space](https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO) | 2:56 |
 | 15 | [matter](https://open.spotify.com/track/5zvkuCpPtkP3iW5GdubZCa) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Chloe Kibble](https://open.spotify.com/artist/5cQSNL47g1aGl81nwFAxJy) | [matter](https://open.spotify.com/album/1KuGOEYZFDDzxjVj4w5PlO) | 3:05 |
 | 16 | [Umbra](https://open.spotify.com/track/3t9zi86n8VkMPNYQXSJcfn) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Umbra](https://open.spotify.com/album/5mjUqt9neeWdapdLjvMBB1) | 2:30 |
 | 17 | [I Know A Place](https://open.spotify.com/track/6G8Nby6e8v5rPNJgvgFSTA) | [POSY](https://open.spotify.com/artist/7M10NL6tKUv1GytiknHDl9), [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt) | [I Know A Place](https://open.spotify.com/album/6rqEkeLCFaLcRefSy9aVac) | 2:29 |

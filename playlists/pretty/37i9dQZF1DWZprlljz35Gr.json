@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6193,
+  "num_followers": 6207,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGE2MDEwN2UyNGFmYjcyNjBmMzcxZTE3OTdhODM4Y2Jj",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDVlYjEyZjQ0NTUwOTljZDU0M2M5ZmNhZTcyNDUxNTU3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 398110,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
+      "duration_ms": 224510,
+      "name": "Sunroof Diesel Blues",
+      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 224510,
-      "name": "Sunroof Diesel Blues",
-      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+      "duration_ms": 398110,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
-      },
-      "artists": [
-        {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Precious Time",
         "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 319253,
       "name": "Back Against The Wall",
       "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
+      },
+      "artists": [
+        {
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2022-03-01 20:08:23",

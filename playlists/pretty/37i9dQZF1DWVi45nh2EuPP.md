@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,458 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,674 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 36 | [RISE](https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [RISE](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C) | 3:12 |
 | 37 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 |
 | 38 | [100 Ways](https://open.spotify.com/track/4mQMvcRtQou5yI8mjuJ1lf) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va) | 2:48 |
-| 39 | [Take Over](https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Jeremy McKinnon of A Day To Remember](https://open.spotify.com/artist/4aQY8buO08AQLaDOuLs6Yn), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Take Over](https://open.spotify.com/album/746kCUpkRofCTYBupy2grd) | 3:33 |
+| 39 | [Take Over](https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Jeremy McKinnon of A Day To Remember](https://open.spotify.com/artist/4aQY8buO08AQLaDOuLs6Yn), [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Take Over](https://open.spotify.com/album/746kCUpkRofCTYBupy2grd) | 3:33 |
 | 40 | [Burn It All Down](https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko) | 3:21 |
 | 41 | [Awaken](https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ) | [Awaken](https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1) | 3:18 |
 | 42 | [Nail Tech](https://open.spotify.com/track/0OpJ7UO05ccyRpMw0DeuDV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/7mN3UTHLfQh3ui4Opuiu3g) | 3:25 |

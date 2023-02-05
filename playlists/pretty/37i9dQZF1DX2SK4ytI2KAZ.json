@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 683234,
+  "num_followers": 683510,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMGU0ZjcyYzNlOTUzM2Q2MTNlY2IzNzljNzhiMzA0NTVi",
+  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDBmOTc0MTc2OGMyMjA5MmFiYjMwN2EyNjEyZWIwYjc2",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Off To The Races",
         "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 219000,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 218025,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 136940,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "2 Heads",
         "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 136940,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "I Love This Part",
-      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "I Love This Part",
+      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Silver Dream",
-        "url": "https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Hometown Heroes",
-      "url": "https://open.spotify.com/track/3g9T8Enufnw3IFfCaBZTRp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "SUPERBLOOM",
         "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 193026,
       "name": "3 small words",
       "url": "https://open.spotify.com/track/3TWkAgxg2LKjmJ4CiEvOkr"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Silver Dream",
+        "url": "https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Hometown Heroes",
+      "url": "https://open.spotify.com/track/3g9T8Enufnw3IFfCaBZTRp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "D.I.L.Y.D.",
+        "url": "https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 154808,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "D.I.L.Y.D.",
-        "url": "https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Do It Like You Do",
-      "url": "https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
+        "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        },
+        {
+          "name": "Mark McGrath",
+          "url": "https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid"
+        }
+      ],
+      "duration_ms": 164774,
+      "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
+      "url": "https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Come To The Beach",
         "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
       },
@@ -2011,22 +2031,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
-        "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
+        "name": "WONDER (reimagined)",
+        "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        },
-        {
-          "name": "Mark McGrath",
-          "url": "https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid"
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         }
       ],
-      "duration_ms": 164774,
-      "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
-      "url": "https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf"
+      "duration_ms": 225720,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5MvVNla7ZjT51haF10iVTu"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2043,22 +2059,6 @@
       "duration_ms": 294071,
       "name": "Better",
       "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "WONDER (reimagined)",
-        "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
-      },
-      "artists": [
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/5MvVNla7ZjT51haF10iVTu"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
     },
     {
-      "added_at": "2022-11-07 14:29:44",
-      "album": {
-        "name": "From Mexico with Love",
-        "url": "https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30"
-      },
-      "artists": [
-        {
-          "name": "Last Dinosaurs",
-          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
-        }
-      ],
-      "duration_ms": 176797,
-      "name": "Collect Call",
-      "url": "https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "I Don't Like Being Honest",
@@ -2231,6 +2215,22 @@
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
+    },
+    {
+      "added_at": "2022-11-07 14:29:44",
+      "album": {
+        "name": "From Mexico with Love",
+        "url": "https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "duration_ms": 176797,
+      "name": "Collect Call",
+      "url": "https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2495,22 +2495,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I Like to Hide in the Bathroom at Parties",
-        "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
+        "name": "Feelin' Good (Could Be Better)",
+        "url": "https://open.spotify.com/album/5Gr5dDOxke8SpvqP8tjE55"
       },
       "artists": [
         {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "The Orphan The Poet",
+          "url": "https://open.spotify.com/artist/4cqHx0neEP7BFbGlKkmIHQ"
         }
       ],
-      "duration_ms": 166910,
-      "name": "I Like to Hide in the Bathroom at Parties",
-      "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
+      "duration_ms": 168903,
+      "name": "Feelin' Good (Could Be Better)",
+      "url": "https://open.spotify.com/track/0w48XaKFfUByK6KuhL8OiF"
     }
   ],
   "unique_name": "It's ALT Good!",

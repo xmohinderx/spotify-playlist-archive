@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Real Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,003 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,071 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
 | 3 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
 | 4 | [VR Sex](https://open.spotify.com/track/37EAiBgtUTyCkpmLJ0ErZb) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [VR Sex](https://open.spotify.com/album/5AbCH8ThQi5E4zKk4nwYUG) | 3:12 |
-| 5 | [1983 \(A Merman I Should Turn To Be\)](https://open.spotify.com/track/0Fpio7ULDx8hthmi8wW6bk) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [Dan Kelly](https://open.spotify.com/artist/6nzx4nWlTj1islcuPm0UXo) | [Submersive Behaviour](https://open.spotify.com/album/2aXfRoTSsPNYdDCd60G1qf) | 17:52 |
+| 5 | [1983 \(A Merman I Should Turn To Be\)](https://open.spotify.com/track/0Fpio7ULDx8hthmi8wW6bk) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [Dan Kelly](https://open.spotify.com/artist/4u1itNxyjNwTblvBVZCqFC) | [Submersive Behaviour](https://open.spotify.com/album/2aXfRoTSsPNYdDCd60G1qf) | 17:52 |
 | 6 | [Period Sex](https://open.spotify.com/track/3fkmZWoLZQVCVZ7z7I2mOA) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Period Sex](https://open.spotify.com/album/25triDRvj4O9meyThIyve3) | 7:30 |
 | 7 | [40 winks](https://open.spotify.com/track/0yrju5I0Ps2ISUVe8Am9wG) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [40 winks](https://open.spotify.com/album/2yI440qYYQfWpUuNd5xAt6) | 2:45 |
 | 8 | [Love You Forever](https://open.spotify.com/track/5xmJd9jr3WDnovF6jFbP9Q) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Love You Forever](https://open.spotify.com/album/5CGHat0REGPwuer0u1CK3T) | 2:25 |

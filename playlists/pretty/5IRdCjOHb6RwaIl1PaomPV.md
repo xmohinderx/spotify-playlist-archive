@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,441 likes - 65 songs - 3 hr 51 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,448 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 55 | [Look \- All Night Mix](https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0X7UabUgIpoV9CfQwkCn7o) | 2:42 |
 | 56 | [chloe \(with XLOVCLO\)](https://open.spotify.com/track/5YRCDjEjHYHi9mALPOrqML) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [XLOVCLO](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:05 |
 | 57 | [BLACK MICHAEL JACKSON\*](https://open.spotify.com/track/1mI56FS2XaD5V3CKFKlkCt) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
-| 58 | [Solid Liquid Gas \- Hara Kiri VIP](https://open.spotify.com/track/3wjqPj94Bdx9Ir1zZvNgcV) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Hara Kiri](https://open.spotify.com/artist/4U7pRwxS462rFn3iUKvQc0) | [Trinity \(Deluxe\)](https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr) | 4:49 |
+| 58 | [Solid Liquid Gas \- Kiri VIP](https://open.spotify.com/track/3wjqPj94Bdx9Ir1zZvNgcV) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Kiri](https://open.spotify.com/artist/1915yVHD4xtsolPU4SNMn7) | [Trinity \(Deluxe\)](https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr) | 4:49 |
 | 59 | [No Quiero ser Madre](https://open.spotify.com/track/74tuTsVNQJ1h5Y9MGNQVYY) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [No Quiero ser Madre](https://open.spotify.com/album/21bQi55CkV4IkGCv7hBxQd) | 1:35 |
 | 60 | [The Flood](https://open.spotify.com/track/5nC0QNvm9GINzYOkDMQ2Uq) | [Tobias](https://open.spotify.com/artist/2XfJDeJW8WypSlrm2IBuhB) | [Two Birds](https://open.spotify.com/album/3SUIfTE7GjIPlGu3hJFjuS) | 3:05 |
 | 61 | [they don't know](https://open.spotify.com/track/4HsYcKJNjPYD7rrKXOCgt4) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 3:14 |

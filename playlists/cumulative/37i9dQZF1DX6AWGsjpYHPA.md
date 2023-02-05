@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-244 songs - 17 hr 45 min
+245 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,11 +83,12 @@
 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 | 2022-07-21 | 2022-09-16 |
 | [God Will Dry My Weeping Eyes](https://open.spotify.com/track/2NChwISAAlqRhqyDBkZCQ3) | [Horace Family](https://open.spotify.com/artist/6NZtgbDRv4BunlC07gh8zc) | [Good God! A Gospel Funk Hymnal](https://open.spotify.com/album/5xmgyTA4AlPBTYzOAmlMzM) | 3:11 | 2021-12-03 | 2022-07-17 |
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2021-12-03 | 2023-02-02 |
+| [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2022-09-15 |  |
 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 | 2022-06-24 |  |
 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 | 2022-04-21 | 2022-06-19 |
 | [Greener](https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK) | 3:54 | 2022-04-21 | 2022-07-29 |
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-24 |  |
-| [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 | 2021-12-03 |  |
+| [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 | 2021-12-03 | 2023-02-05 |
 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 | 2021-12-03 | 2022-03-11 |
 | [Halcyon & On \- Jon Hopkins Remix](https://open.spotify.com/track/3lvyFNbNIYhCePUQ8BYnE0) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 7:11 | 2022-07-21 | 2022-08-03 |
 | [Hold On \- Remastered 2010](https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 1:52 | 2022-09-15 |  |

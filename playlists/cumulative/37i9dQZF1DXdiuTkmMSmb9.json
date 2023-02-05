@@ -524,6 +524,32 @@
     {
       "album": {
         "name": "Be Mine",
+        "url": "https://open.spotify.com/album/6TzSnNdrCirsilJc476YHs"
+      },
+      "artists": [
+        {
+          "name": "Byg Boy Jay",
+          "url": "https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa"
+        },
+        {
+          "name": "Specikinging",
+          "url": "https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd"
+        },
+        {
+          "name": "Amvis",
+          "url": "https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3HJ7QmjAgQPrQMfLBcZSCV"
+    },
+    {
+      "album": {
+        "name": "Be Mine",
         "url": "https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI"
       },
       "artists": [
@@ -542,7 +568,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 225266,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp"

@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 878391,
+  "num_followers": 879209,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA1NzM0OCwwMDAwMDAwMDBlYzk4YmIwOTQxMWU4OWJkMjIyYzdhZjQ5MTQ0MThl",
+  "snapshot_id": "MTY3NTA1NzM0OCwwMDAwMDAwMGU3YWQwNDhhZmJjMTkwYzg1ZWQ1Y2QxOWE3OWE1ZTky",
   "tracks": [
     {
       "added_at": "2023-01-30 05:42:28",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Kind Reminder",
-        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Musta Been a Ghost",
-      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Kind Reminder",
+        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Musta Been a Ghost",
+      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "Saturday Songs",
+        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "Still Groovin (Remastered)",
         "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
       },
@@ -1291,22 +1307,18 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
       "artists": [
         {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1331,34 +1343,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Saturday Songs",
-        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
-      },
-      "artists": [
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
         {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 241906,
-      "name": "Get Down Saturday Night",
-      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1395,22 +1395,6 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 246757,
-      "name": "Video",
-      "url": "https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Beautifully Human: Words and Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
       },
@@ -1591,6 +1559,22 @@
       "duration_ms": 218413,
       "name": "The Walk",
       "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1751,22 +1735,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "South of the River",
-      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -1779,6 +1747,22 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 269815,
+      "name": "South of the River",
+      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -1847,22 +1831,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -1875,6 +1843,22 @@
       "duration_ms": 184938,
       "name": "Petit Prince Du Macadam",
       "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -2055,6 +2039,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "Rewind - The Collection",
+        "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "Pass Time",
         "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "Rewind - The Collection",
-        "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -2107,22 +2091,6 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
         "name": "Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
       },
@@ -2135,6 +2103,22 @@
       "duration_ms": 254480,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2023-01-30 05:42:28",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 205951,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
         "name": "Isina Muva (Gold Deluxe)",
         "url": "https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn"
       },
@@ -2207,22 +2207,6 @@
       "duration_ms": 228000,
       "name": "Ngempela (feat, Howard) - Bonus Track",
       "url": "https://open.spotify.com/track/0QKJGz2aZfZzcjSfktQiDG"
-    },
-    {
-      "added_at": "2023-01-30 05:42:28",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 205951,
-      "name": "Windy",
-      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
     },
     {
       "added_at": "2023-01-30 05:42:28",
@@ -2531,6 +2515,26 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2023-01-30 05:42:28",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "The Funk Apostles",
+          "url": "https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD"
+        }
+      ],
+      "duration_ms": 196722,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     }
   ],
   "unique_name": "Kitchen Swagger",

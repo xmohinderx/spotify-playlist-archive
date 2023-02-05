@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Pauline Herr.",
-  "num_followers": 740196,
+  "num_followers": 740271,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MTYxNiwwMDAwMDAwMDE5ZWE5MGUxMGZmYWM4MmI0YzcxYjA4MDU5MGUwOWQz",
+  "snapshot_id": "MTY3NTQ1MTYxNiwwMDAwMDAwMDhiNmM0YjVlNGVjYjgyZGE1NjgwNmU5MWIxNDQ5M2Fj",
   "tracks": [
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        }
-      ],
-      "duration_ms": 183646,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Never Be Mine",
         "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 154029,
       "name": "Never Be Mine",
       "url": "https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        }
+      ],
+      "duration_ms": 183646,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1077,6 +1077,38 @@
       "url": "https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p"
     },
     {
+      "added_at": "2023-02-05 01:02:00",
+      "album": {
+        "name": "lovely2*",
+        "url": "https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 155806,
+      "name": "lovely2*",
+      "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Your Struggle Is Also Mine",
+        "url": "https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Your Struggle Is Also Mine",
+      "url": "https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe"
+    },
+    {
       "added_at": "2022-12-21 16:54:11",
       "album": {
         "name": "Rooms on the Ark",
@@ -1095,22 +1127,6 @@
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Your Struggle Is Also Mine",
-        "url": "https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Your Struggle Is Also Mine",
-      "url": "https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1171,22 +1187,6 @@
       "duration_ms": 170769,
       "name": "Kaleidoscope (Me&U)",
       "url": "https://open.spotify.com/track/6T5BzQTQzr7JQkPUVlbbLL"
-    },
-    {
-      "added_at": "2023-02-04 01:02:01",
-      "album": {
-        "name": "lovely2*",
-        "url": "https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 155806,
-      "name": "lovely2*",
-      "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1283,6 +1283,46 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "Kids (feat. dawsonLIED)",
+        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Kids (feat. dawsonLIED)",
+      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Sticky Love",
+        "url": "https://open.spotify.com/album/3g0rJ4Y6CGySTQK1L8j2Op"
+      },
+      "artists": [
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        },
+        {
+          "name": "Lobii",
+          "url": "https://open.spotify.com/artist/1k5KTiYvJh6DXTmPhwIdDK"
+        }
+      ],
+      "duration_ms": 228985,
+      "name": "Sticky Love",
+      "url": "https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/5SBJTWXuATqUi9pzhK5MnH"
       },
@@ -1307,26 +1347,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Kids (feat. dawsonLIED)",
-        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "dawsonLIED",
-          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Kids (feat. dawsonLIED)",
-      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Escape Reality",
         "url": "https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 211200,
       "name": "Escape Reality",
       "url": "https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Sticky Love",
-        "url": "https://open.spotify.com/album/3g0rJ4Y6CGySTQK1L8j2Op"
-      },
-      "artists": [
-        {
-          "name": "CARLIE",
-          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
-        },
-        {
-          "name": "Lobii",
-          "url": "https://open.spotify.com/artist/1k5KTiYvJh6DXTmPhwIdDK"
-        }
-      ],
-      "duration_ms": 228985,
-      "name": "Sticky Love",
-      "url": "https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
     },
     {
+      "added_at": "2023-02-05 01:02:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5Te858VbhA2CD4zLrMYxIH"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4A64jF6FhfuNduCm3VLLGZ"
+    },
+    {
       "added_at": "2022-12-21 16:54:11",
       "album": {
         "name": "MOON WALK",
@@ -1635,6 +1651,26 @@
       "duration_ms": 156553,
       "name": "MOON WALK",
       "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Sleeptalking",
+        "url": "https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 222831,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1659,26 +1695,6 @@
       "duration_ms": 180779,
       "name": "Holding On - Rome In Silver Remix",
       "url": "https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Sleeptalking",
-        "url": "https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 222831,
-      "name": "Sleeptalking",
-      "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Intrastellar EP",
-        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
-      },
-      "artists": [
-        {
-          "name": "thomfjord",
-          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
-        }
-      ],
-      "duration_ms": 321535,
-      "name": "Intrastellar",
-      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Narrow",
         "url": "https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 216200,
       "name": "Narrow",
       "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Intrastellar EP",
+        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
+      },
+      "artists": [
+        {
+          "name": "thomfjord",
+          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
+        }
+      ],
+      "duration_ms": 321535,
+      "name": "Intrastellar",
+      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1791,6 +1807,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "All Glows",
+        "url": "https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "Dog Years (weird inside Remix)",
         "url": "https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k"
       },
@@ -1807,22 +1839,6 @@
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "All Glows",
-        "url": "https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1857,6 +1873,38 @@
       "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
     },
     {
+      "added_at": "2023-01-20 05:02:14",
+      "album": {
+        "name": "Tirana",
+        "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
+      },
+      "artists": [
+        {
+          "name": "minds&machines",
+          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
+        }
+      ],
+      "duration_ms": 249193,
+      "name": "Tirana",
+      "url": "https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0s7ddAC67T1Xb9s4maHvN3"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 234615,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver"
+    },
+    {
       "added_at": "2022-12-21 16:54:11",
       "album": {
         "name": "I Need",
@@ -1875,22 +1923,6 @@
       "duration_ms": 171129,
       "name": "I Need",
       "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/0s7ddAC67T1Xb9s4maHvN3"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 234615,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1971,18 +2003,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Sunburn (Reimagined)",
-        "url": "https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW"
+        "name": "A World Away",
+        "url": "https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
         }
       ],
-      "duration_ms": 247530,
-      "name": "Sunburn - Reimagined",
-      "url": "https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO"
+      "duration_ms": 159661,
+      "name": "Be Fine (feat. Wafia)",
+      "url": "https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2003,22 +2039,18 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "A World Away",
-        "url": "https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ"
+        "name": "Sunburn (Reimagined)",
+        "url": "https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW"
       },
       "artists": [
         {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        },
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 159661,
-      "name": "Be Fine (feat. Wafia)",
-      "url": "https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7"
+      "duration_ms": 247530,
+      "name": "Sunburn - Reimagined",
+      "url": "https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2043,22 +2075,6 @@
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
-    },
-    {
-      "added_at": "2023-01-20 05:02:14",
-      "album": {
-        "name": "Tirana",
-        "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
-      },
-      "artists": [
-        {
-          "name": "minds&machines",
-          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
-        }
-      ],
-      "duration_ms": 249193,
-      "name": "Tirana",
-      "url": "https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2107,22 +2123,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 163669,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "let it go",
         "url": "https://open.spotify.com/album/6xUiM2eyJCfBKAK1FesvC8"
       },
@@ -2135,6 +2135,22 @@
       "duration_ms": 185600,
       "name": "let it go",
       "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
+    },
+    {
+      "added_at": "2023-01-20 05:02:14",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2167,22 +2183,6 @@
       "duration_ms": 221168,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl"
-    },
-    {
-      "added_at": "2023-01-20 05:02:14",
-      "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"
     },
     {
       "added_at": "2022-12-21 16:54:11",

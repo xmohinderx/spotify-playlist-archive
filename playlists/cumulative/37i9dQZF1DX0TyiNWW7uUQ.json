@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "Vaathi",
+        "url": "https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225380,
+      "name": "Vaa Vaathi",
+      "url": "https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG"
+    },
+    {
+      "album": {
         "name": "Vaadi Pulla Vaadi (From \"Meesaya Murukku\")",
         "url": "https://open.spotify.com/album/6o279wwm5geGXjI6NnTCMl"
       },

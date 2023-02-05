@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 172221,
+  "num_followers": 172330,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGFhNWExYTJiNmZkMjgzZWVjYTJkZDZkNmJjNTZiOTJh",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDU1MDg0Yzc5ZGMyNmMyN2E3NDEwMmM2YWY5NWM5NGE4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Romantic Warrior",
         "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
       },
@@ -381,20 +365,20 @@
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
       },
       "artists": [
         {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
         }
       ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -411,6 +395,22 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Opuntia",
-        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
-      },
-      "artists": [
-        {
-          "name": "Anika Nilles",
-          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
-    },
-    {
       "added_at": "2021-10-29 04:02:00",
       "album": {
         "name": "Blue Macaw",
@@ -763,6 +747,22 @@
       "duration_ms": 274000,
       "name": "Blue Macaw",
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Opuntia",
+        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Between The Lines",
-        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
-      },
-      "artists": [
-        {
-          "name": "Uzeb",
-          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Spacy Country",
-      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "The Bass-ic Collection",
         "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 469333,
       "name": "School Days",
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
+      },
+      "artists": [
+        {
+          "name": "Uzeb",
+          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Spacy Country",
+      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1289,26 +1289,6 @@
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Common Ground",
-        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        }
-      ],
-      "duration_ms": 406453,
-      "name": "The Little Boxer",
-      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1335,6 +1315,26 @@
       "duration_ms": 378489,
       "name": "Prophecy Extended",
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "duration_ms": 406453,
+      "name": "The Little Boxer",
+      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
+      "added_at": "2022-02-11 19:09:35",
+      "album": {
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Aslan",
@@ -1463,22 +1479,6 @@
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
-    },
-    {
-      "added_at": "2022-02-11 19:09:35",
-      "album": {
-        "name": "The Description Is Not The Described",
-        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Cross",
-          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
-        }
-      ],
-      "duration_ms": 433160,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     }
   ],
   "unique_name": "Fusion Fest",

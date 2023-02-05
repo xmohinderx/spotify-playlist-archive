@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover:DJ Neptune
 
-312 songs - 15 hr 49 min
+313 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2021-11-18 | 2022-03-23 |
 | [Genuine \(ft\. SOLIS\)](https://open.spotify.com/track/46siAqYfYeT5fWHStdXN28) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC), [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh) | [Jellyfish](https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg) | 2:39 | 2022-04-21 | 2022-07-20 |
 | [Ghetto Luv](https://open.spotify.com/track/1I4TXR1BBf8uGPpW3tLadB) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:44 | 2023-01-19 | 2023-02-04 |
-| [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-05 |  |
+| [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-05 | 2023-02-05 |
 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 | 2022-06-30 | 2022-07-06 |
 | [Glowanna](https://open.spotify.com/track/5SFRU2eoNzXEuFnzsHD17y) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Big Girl](https://open.spotify.com/album/4xNgVlvmGjoNZNjKUDEs90) | 2:29 | 2022-01-27 | 2022-02-18 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2021-10-14 | 2022-04-22 |
@@ -317,6 +317,7 @@
 | [Yolo](https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Yolo](https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO) | 2:19 | 2023-02-03 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-27 |
+| [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2022-12-18 |  |
 | [You](https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX) | [KvY](https://open.spotify.com/artist/5yPapEPmS3x9wWjZqWYf11) | [You](https://open.spotify.com/album/57xoei8INC8r7QomPGQND1) | 2:59 | 2021-10-14 | 2022-02-11 |
 | [Your Number](https://open.spotify.com/track/57QcTLuRqbeyd6l9MgPPNd) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Your Number](https://open.spotify.com/album/2NC9XHUUFTUrgOrcgi3qld) | 3:07 | 2021-10-14 | 2022-02-27 |
 | [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-20 | 2022-10-29 |

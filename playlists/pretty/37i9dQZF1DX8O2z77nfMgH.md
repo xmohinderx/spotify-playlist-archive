@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Maluma y Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,500 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,574 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [Dame un Besito](https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Dame un Besito](https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8) | 3:15 |
 | 22 | [YO SOY REY MUSIC SESSIONS, VOL\. 20](https://open.spotify.com/track/49gVADtn2BoDCldjCiIA54) | [El Gobierno Urbano](https://open.spotify.com/artist/1VtUtNkpYpa22lnMY6j5xD), [Yo.Soy.Rey](https://open.spotify.com/artist/2ggzy2QfRRuHt3Slc398e9) | [YO SOY REY MUSIC SESSIONS, VOL\. 20](https://open.spotify.com/album/6kWqRlJW87Pix2687ytCMI) | 3:34 |
 | 23 | [Contra la pared](https://open.spotify.com/track/5bhhE30OE3TsxH4yEz3vfj) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Contra la pared](https://open.spotify.com/album/5fPx6Lo6C6oKoExuvSYdfg) | 2:33 |
-| 24 | [El Bolero \- acoustic](https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [El Bolero \(acoustic version\)](https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe) | 3:29 |
+| 24 | [El Bolero \- Acústico](https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [El Bolero \(acústico\)](https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe) | 3:29 |
 | 25 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 26 | [Arepa](https://open.spotify.com/track/7egbasgAAu0jILX5DvVwMy) | [Tunin Slow](https://open.spotify.com/artist/0UzxcbI6rrP3qxTebnUBcY), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [Arepa](https://open.spotify.com/album/6Zul9mbhDbwVv5X4LqmX9u) | 3:10 |
 | 27 | [Demoler](https://open.spotify.com/track/0LrZbTDXgp3qestaXxxQQQ) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Un beso en Paris \(Remastered\)](https://open.spotify.com/album/54ZHE7TymiRSvqBOizqsOR) | 3:22 |

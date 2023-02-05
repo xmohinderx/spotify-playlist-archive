@@ -4,7 +4,7 @@
 
 > 🧈 Smoooooth joints\. Cover: Tobe Nwigwe
 
-786 songs - 1 day 22 hr 32 min
+787 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Crumar](https://open.spotify.com/track/3JaSd4wBDl7LBMjXJSp8OI) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois](https://open.spotify.com/album/6uLHxiWNxJ49Dhx1du2uqO) | 4:12 | 2020-01-31 | 2020-02-28 |
 | [CRUMPY](https://open.spotify.com/track/3axI88EJvw5J6tnMdCvc66) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [CRUMPY](https://open.spotify.com/album/6dKmyxrba50ysYPG0fJlOA) | 3:07 | 2020-04-24 | 2020-05-08 |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-05-11 | 2023-02-02 |
+| [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 | 2023-02-03 |  |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 | 2022-04-15 |  |
 | [Cyclical](https://open.spotify.com/track/3wH3I5K1ncdQc0VCXoBwSV) | [Cassowary](https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Cassowary](https://open.spotify.com/album/3ps9Voi4DN1YSxbdeGxQ9v) | 3:18 | 2020-04-24 | 2020-05-22 |
 | [Daily](https://open.spotify.com/track/4nYAZXnEkeQUydNuNRml5k) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Jessy Rose](https://open.spotify.com/artist/71WVLOuQ8jIwgpudcz80Rd) | [Daily](https://open.spotify.com/album/4j6dGTZITzMsywJCLvvlt7) | 3:05 | 2020-04-18 | 2020-12-18 |
@@ -676,7 +677,7 @@
 | [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 |  |
 | [Tastes Like Freedom \- Radio Edit](https://open.spotify.com/track/4EAEt7y5pOzv1uY7w2QyKX) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Tastes Like Freedom](https://open.spotify.com/album/0XMEO0DmREPTcpquyo0aAd) | 3:11 | 2021-09-12 | 2022-07-29 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
-| [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 |  |
+| [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2023-02-05 |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2019-12-13 | 2020-01-16 |
 | [Thank You](https://open.spotify.com/track/7hiOhyoRgB7ycVsiNz2ipM) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Thank You](https://open.spotify.com/album/6KOSeG4bi6XumFRVh2tHwi) | 3:26 | 2019-09-29\* | 2020-04-24 |
 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 | 2021-03-20 | 2021-03-22 |

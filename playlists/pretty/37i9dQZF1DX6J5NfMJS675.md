@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,135,613 likes - 60 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136,640 likes - 60 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 16 | [Mandala](https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Mandala](https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht) | 7:00 |
 | 17 | [Nirvana](https://open.spotify.com/track/6LOlij2K5ipBbtIcOEHLiZ) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Nirvana](https://open.spotify.com/album/3PKAIFal9g1TxpasnpBUPV) | 4:20 |
 | 18 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
-| 19 | [Das Boot \(V2\) \- D72 Remix](https://open.spotify.com/track/31dLV0HuyoQJwuF8FiqRWj) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd), [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Das Boot \(D72 Remix\)](https://open.spotify.com/album/5lNwnHN8PftHsyjj9IXrGp) | 2:30 |
+| 19 | [Das Boot \(V2\) \- D72 Remix](https://open.spotify.com/track/31dLV0HuyoQJwuF8FiqRWj) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd), [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Das Boot \(V2\) \[D72 Remix\]](https://open.spotify.com/album/5lNwnHN8PftHsyjj9IXrGp) | 2:30 |
 | 20 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
 | 21 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 |
 | 22 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 |

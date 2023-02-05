@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,413,131 likes - 204 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,413,165 likes - 204 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 14 | [Exhaler](https://open.spotify.com/track/4hSJTUpx45WO1Ib6VCRiFW) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Exhaler](https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN) | 2:15 |
 | 15 | [A Defining Moment](https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [A Defining Moment](https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os) | 2:22 |
 | 16 | [Heart Open](https://open.spotify.com/track/0t9I0R052AW7iwwpwvn8Lv) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 2:16 |
-| 17 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Bengtsson](https://open.spotify.com/artist/3COlYosH1Bb7wTq2HRum8I), [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 |
+| 17 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 |
 | 18 | [Sunset by the River \- Piano Version](https://open.spotify.com/track/3IjGjpi8PzoRmCXYv8xPLx) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P), [Mara Kochendörfer](https://open.spotify.com/artist/2yCFihCg7BIZPJaagwEu0o) | [Sunset by the River](https://open.spotify.com/album/0y1szZL2xuRDfqUgdfxc55) | 2:28 |
 | 19 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 |
 | 20 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 43713,
+  "num_followers": 43801,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDU3MCwwMDAwMDAwMGZjZDFmMGE3ZTJiYzhjODBjOTYzMTQzZTg4NGY4OTRl",
+  "snapshot_id": "MTY3NTQ0MDU3MCwwMDAwMDAwMGNkMzM4NmVlMGQzZGI1ZmVkOTAyZWZmYzNmMzNhMjI0",
   "tracks": [
     {
       "added_at": "2023-02-03 16:09:30",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Carolina Confessions",
-        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
-      },
-      "artists": [
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 384373,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 268200,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Carolina Confessions",
+        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
+      },
+      "artists": [
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 384373,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Hope And Desire",
         "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 237600,
       "name": "Loving You Is Sweeter Than Ever",
       "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -591,6 +591,22 @@
       "duration_ms": 311226,
       "name": "Fire On The Floor",
       "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -659,22 +675,6 @@
       "duration_ms": 339600,
       "name": "One Room Country Shack",
       "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
-      },
-      "artists": [
-        {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
-        }
-      ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+      },
+      "artists": [
+        {
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+        }
+      ],
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "Precious Little",
         "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 289960,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 473080,
-      "name": "Need Your Love So Bad - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 473080,
+      "name": "Need Your Love So Bad - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1279,8 +1295,8 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
       "artists": [
         {
@@ -1288,25 +1304,9 @@
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1331,34 +1331,18 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
       },
       "artists": [
         {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 282253,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "How Many Times?",
-        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 285701,
-      "name": "How Many Times?",
-      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+      "duration_ms": 308893,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1379,18 +1363,50 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
       "artists": [
         {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
         }
       ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+      "duration_ms": 282253,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 285701,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1427,8 +1443,8 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
       },
       "artists": [
         {
@@ -1436,25 +1452,25 @@
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
     },
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Mystery Train / Love My Baby",
-        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1491,6 +1507,22 @@
       "duration_ms": 326761,
       "name": "Loving Arms - (radio edit), Masterlink Sessions",
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Drivin' Wheel - Single Version",
-      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "I Shouldn\u2019t Care (Bonus Track)",
         "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 219733,
       "name": "I Shouldn't Care - Bonus Track",
       "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1655,22 +1671,6 @@
       "duration_ms": 172013,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
     },
     {
       "added_at": "2023-02-03 16:09:30",

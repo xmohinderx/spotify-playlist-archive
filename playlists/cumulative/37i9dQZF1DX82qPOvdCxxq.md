@@ -4,7 +4,7 @@
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-56 songs - 4 hr 13 min
+57 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [I'll Be Okay](https://open.spotify.com/track/2oBjArqKH9SxMVsWsVbCAy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/5GUa8R91rDlhA3SCVbbfXE) | 4:02 | 2021-02-12 | 2022-07-29 |
 | [I'll Be Okay](https://open.spotify.com/track/6hPlQuK6U4XBudaLrvT4Ya) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/3wdOejNCa7uZq7ttTvz3YW) | 4:02 | 2021-02-12 |  |
 | [If You Only Knew](https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc) | [André K Barrow](https://open.spotify.com/artist/4Ldcu5W8LWs5jUYbI0ZGiZ), [Niki Carless](https://open.spotify.com/artist/2sEB8jCfYOGYh5IeNwiNJk) | [If You Only Knew](https://open.spotify.com/album/1EDDMhz2KDeBiqGWw2c05x) | 3:38 | 2021-02-12 |  |
-| [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/6fMDLbc40h9bEsCAUVdEgP) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [It Is Well \(My Soul Sings\)](https://open.spotify.com/album/6qAC5GtCNon0Kt3gKfWwKd) | 4:00 | 2021-02-12 |  |
+| [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/6fMDLbc40h9bEsCAUVdEgP) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [It Is Well \(My Soul Sings\)](https://open.spotify.com/album/6qAC5GtCNon0Kt3gKfWwKd) | 4:00 | 2021-02-12 | 2023-02-05 |
+| [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/3rkGSQ3DLY9aNXNscTepQU) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [As Long As I Live Vol\. 1](https://open.spotify.com/album/57hsPEX7xRDNlqBimHt8Bp) | 4:00 | 2021-02-12 |  |
 | [Jesus Is Coming Back](https://open.spotify.com/track/7Dxh2X3k565qoBEnNyqZoa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 3:33 | 2021-02-12 |  |
 | [Jesus Is Coming Back](https://open.spotify.com/track/7G6rmcvQU7oloMv4X8ppBJ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/5jWK2YBh6aE2tKmd57cRUX) | 3:33 | 2021-02-12 | 2022-07-29 |
 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 | 2021-02-12 |  |

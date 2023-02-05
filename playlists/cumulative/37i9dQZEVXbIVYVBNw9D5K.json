@@ -6164,7 +6164,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 178520,
       "name": "Kendileri",
       "url": "https://open.spotify.com/track/2zI5Vxd2X12f0S9LiQcyOy"
@@ -7810,7 +7810,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 176268,
       "name": "Nerdesin",
       "url": "https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX"
@@ -8017,6 +8017,28 @@
     },
     {
       "album": {
+        "name": "O Yeterdi Asl\u0131nda",
+        "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "O Yeterdi Asl\u0131nda",
+      "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
+    },
+    {
+      "album": {
         "name": "OHA Remix (feat. Luciano)",
         "url": "https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz"
       },
@@ -8094,7 +8116,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 169419,
       "name": "Olmazlara \u0130nat",
       "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
@@ -10739,6 +10761,28 @@
     },
     {
       "album": {
+        "name": "Yana Yana",
+        "url": "https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147905,
+      "name": "Yana Yana",
+      "url": "https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck"
+    },
+    {
+      "album": {
         "name": "Yand\u0131 \u0130\u00e7im",
         "url": "https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D"
       },
@@ -11044,6 +11088,24 @@
       "duration_ms": 152989,
       "name": "YOK (Ee daha daha nas\u0131ls\u0131n\u0131z?)",
       "url": "https://open.spotify.com/track/1CHaheVKXgbu4kkAJov2m8"
+    },
+    {
+      "album": {
+        "name": "yok muydu vaktin bana?",
+        "url": "https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "yok muydu vaktin bana?",
+      "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"
     },
     {
       "album": {

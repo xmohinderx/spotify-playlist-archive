@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 425259,
+  "num_followers": 425344,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDliZDlkOTAxZDIwZDg5NjM4NzU0NGQ5ZDk2MTc0MDc4",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDM2NDY3MGE1Y2Q5ZDNlZTNkNGY4MWMzYmViYTg0NzUw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Have a Ball",
+      "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Heavy Shoes",
@@ -473,20 +489,20 @@
       "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 144985,
-      "name": "Have a Ball",
-      "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Half The City",
         "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Tin Cups",
@@ -677,20 +693,24 @@
       "url": "https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
       "artists": [
         {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 306533,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
+      "duration_ms": 205115,
+      "name": "Long Black Electric Cadillac",
+      "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
       "added_at": "2022-12-09 14:46:32",
@@ -725,26 +745,6 @@
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205115,
-      "name": "Long Black Electric Cadillac",
-      "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Down to the River",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Introducing Junior Kimbrough",
-        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Feels so Bad - Previously Unreleased Take",
-      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
-    },
-    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Throw That Stone",
@@ -791,6 +775,22 @@
       "duration_ms": 178668,
       "name": "Throw That Stone",
       "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Introducing Junior Kimbrough",
+        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Feels so Bad - Previously Unreleased Take",
+      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "S\u00edminn+Spotify Session",
@@ -883,6 +867,22 @@
       "duration_ms": 352720,
       "name": "Neon Experience - Live from Vatnagar\u00f0ar",
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Devil and the Deep Blue",
-        "url": "https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Devil and the Deep Blue",
-      "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Undercover Bros.",
@@ -1203,6 +1187,22 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Devil and the Deep Blue",
+        "url": "https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Devil and the Deep Blue",
+      "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1237,20 +1237,24 @@
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Hands To Myself",
-        "url": "https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB"
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8"
       },
       "artists": [
         {
-          "name": "Myron Elkins",
-          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        },
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
         }
       ],
-      "duration_ms": 197426,
-      "name": "Hands To Myself",
-      "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
+      "duration_ms": 188869,
+      "name": "Shake! Shake! Shake!",
+      "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
     }
   ],
   "unique_name": "Blues Roots",

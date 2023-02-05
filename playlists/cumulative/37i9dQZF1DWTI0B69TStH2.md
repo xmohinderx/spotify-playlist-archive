@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: świtała \| Playlista odświeżana w każdą środę.
 
-749 songs - 1 day 19 hr 29 min
+750 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [Looking for Emotions](https://open.spotify.com/track/5nW8anquauoxaZP9kB8j7S) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Looking for Emotions](https://open.spotify.com/album/2XUmkpRtvlK8LdRdQ6gCSu) | 3:57 | 2022-11-21 | 2022-12-01 |
 | [Love Theme](https://open.spotify.com/track/3RjCY11fD4UmQ35g4wA8ei) | [julek ploski](https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3) | [Julek! Julek! Julek!](https://open.spotify.com/album/3P8mUVdGiD8FfvmmopQY7K) | 1:55 | 2022-11-21 | 2022-12-01 |
 | [Low Blow](https://open.spotify.com/track/6u6vq9pOeuLXThqzCbvxzH) | [Austee Fox](https://open.spotify.com/artist/42XnsHcgQifNug26gEkf5B), [MALINA](https://open.spotify.com/artist/3B0cVUko5nSiJ7i9VeInmN) | [Low Blow](https://open.spotify.com/album/5RsxJh4g0BVnHoXo8p2aOw) | 2:31 | 2022-07-11 | 2022-08-02 |
-| [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 | 2023-01-17 |  |
+| [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 | 2023-01-17 | 2023-02-05 |
+| [Lucynda](https://open.spotify.com/track/6NWcMpCZHt8V6du2R8GvT7) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/71pjaDh4yFeUdRkqs3N5Gs) | 4:07 | 2023-01-31 |  |
 | [lumia](https://open.spotify.com/track/6e0Utt4uUWSGRAchpRHpEB) | [asl33p](https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g) | [lumia](https://open.spotify.com/album/3Yazqm1zJa4ydgFutZRXOU) | 3:46 | 2022-11-30 | 2023-01-11 |
 | [lumpy i kwiatki](https://open.spotify.com/track/7bDuI7rHDURAAFoCJNdygJ) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [lumpy i kwiatki](https://open.spotify.com/album/1VT40bWo45IfnvBLX3vf5T) | 2:48 | 2022-11-30 | 2023-01-11 |
 | [Magda W.](https://open.spotify.com/track/3HFuWjALGXtoDT1bN27HIT) | [NOBO](https://open.spotify.com/artist/6wSHpGqWHcdUsGztGMy6iE) | [Magda W.](https://open.spotify.com/album/3E47CjDDSJLay8MCA7Sui9) | 3:30 | 2022-08-29 | 2022-10-04 |

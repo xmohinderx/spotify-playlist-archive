@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,205 likes - 102 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,251 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aka Plaka](https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1) | [Aka Plaka](https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv) | 2:51 |
-| 2 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 |
+| 2 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP), [Leo Jah](https://open.spotify.com/artist/4yS9w42JfhRhRjDrUMZMnp) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 |
 | 3 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
 | 4 | [Espada Sombra \- Narvarte Colectivo & Sacro Imperio Romano Remix](https://open.spotify.com/track/6s1ulsFVGXkF1RGr8SVGrm) | [Corina Lawrence](https://open.spotify.com/artist/0ov01DAYH1rS1xCroze7vn), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Narvarte Colectivo](https://open.spotify.com/artist/5QRHSZvwF2adtrJCEqigsS), [Sacro Imperio Romano](https://open.spotify.com/artist/0ds927QdYnDvjNX3t1KVn6) | [Espada Sombra \(Remixes\)](https://open.spotify.com/album/0GY9RaB38E8eelwgpuEh0u) | 3:53 |
 | 5 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 |

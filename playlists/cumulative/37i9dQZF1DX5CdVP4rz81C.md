@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Dylan Conrique
 
-1,155 songs - 2 day 12 hr 35 min
+1,156 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2021-10-16 | 2022-02-12 |
 | [House of Glass](https://open.spotify.com/track/3hcsfmbpory87Lt3LpFHIZ) | [Jon Caryl](https://open.spotify.com/artist/0TffQbBN7iT1M1HFMvBSJp) | [House of Glass](https://open.spotify.com/album/3MtM8UjmVsg90VjQlaSpyB) | 3:22 | 2021-02-19 | 2021-05-29 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2020-10-13\* | 2020-10-23 |
-| [How Dare You](https://open.spotify.com/track/46BkUL2Djjg8jcEjXNpkZZ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/0I1ZzxaunjjzwTlL22RB3U) | 3:10 | 2023-01-27 |  |
+| [How Dare You](https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b) | 3:09 | 2023-02-03 |  |
+| [How Dare You](https://open.spotify.com/track/46BkUL2Djjg8jcEjXNpkZZ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/0I1ZzxaunjjzwTlL22RB3U) | 3:10 | 2023-01-27 | 2023-02-05 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-09-17 |
 | [How Do I Feel](https://open.spotify.com/track/5AnrHozhGB9GqVSBv8uKlE) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [How Do I Feel](https://open.spotify.com/album/4L2VUTp78JK12KjYJoNwGt) | 2:50 | 2020-11-20 | 2021-02-09 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-08-27 |

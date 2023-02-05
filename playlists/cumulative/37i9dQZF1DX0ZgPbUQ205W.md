@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-272 songs - 20 hr 3 min
+273 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Poetry](https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd) | 3:52 | 2022-06-29 | 2022-11-11 |
 | [Poetry](https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2021-12-17 | 2022-12-03 |
+| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-02-02 |  |
 | [Provenance](https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ) | 6:11 | 2021-12-17 | 2022-07-29 |
 | [Provenance](https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf) | 6:11 | 2022-06-29 |  |
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |
@@ -230,7 +231,7 @@
 | [The First Touch](https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 4:13 | 2022-05-26 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-11-11 |  |
 | [The Frame](https://open.spotify.com/track/2wBIsUBGmhSpj65pp6qjnq) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o) | [The Frame](https://open.spotify.com/album/6fWlxYzFHJOuWlHF7waW9U) | 4:45 | 2021-12-17 | 2022-06-23 |
-| [The Gift](https://open.spotify.com/track/7fP3Z0jhBekXWoZL9HsH28) | [Tord Gustavsen Quartet](https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq) | [Extended Circle](https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ) | 6:20 | 2022-05-25 |  |
+| [The Gift](https://open.spotify.com/track/7fP3Z0jhBekXWoZL9HsH28) | [Tord Gustavsen Quartet](https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq) | [Extended Circle](https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ) | 6:20 | 2022-05-25 | 2023-02-05 |
 | [The Girl In The Headlands](https://open.spotify.com/track/5eeIPuNug1bP9ULXpepTpe) | [Sinikka Langeland](https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj) | [The Girl In The Headlands](https://open.spotify.com/album/735YO4inButsSQbsmLXFka) | 2:43 | 2021-12-17 | 2022-09-09 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-11 |  |
 | [The Lighthouse](https://open.spotify.com/track/3OnhMmKlWN1lLyGY6C01ji) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Bergmund Waal Skaslien](https://open.spotify.com/artist/5fuNAHD4veSpm8Sjn8Dk23), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Andreas Norbakken](https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb) | [Voyage](https://open.spotify.com/album/58xVC9DlIQERcKNvXVe39H) | 5:33 | 2021-12-17 | 2022-09-01 |

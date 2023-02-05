@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,395 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [O Quarto \(Fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O Quarto \(Fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 |
+| 1 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 |
 | 2 | [oxalá](https://open.spotify.com/track/65yHOhKHCQ9AIJw4ZAPgS3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Darío Barroso](https://open.spotify.com/artist/5syk0z6QzDNYExnE4qvy21), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [oxalá](https://open.spotify.com/album/7bmqrprnXd6k06srmXagPF) | 4:31 |
 | 3 | [Goodnight](https://open.spotify.com/track/2zBVLxBa67NP7rO4wjJMmP) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:57 |
 | 4 | [A+](https://open.spotify.com/track/2gGsuFVySFk1lMI2QNRHl1) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau) | [A+](https://open.spotify.com/album/057KMRdPqQAKKZkwbkylzh) | 2:52 |

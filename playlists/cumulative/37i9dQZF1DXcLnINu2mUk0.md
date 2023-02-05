@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-197 songs - 10 hr 48 min
+198 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 |  |
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |
 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 | 2022-07-07 |  |
+| [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 | 2023-02-03 |  |
 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 | 2022-11-11 | 2022-12-02 |
 | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j) | [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/album/6u6Qf0tOGmLW8JLDH7pgoL) | 3:25 | 2022-12-23 | 2023-01-06 |
 | [Calma](https://open.spotify.com/track/05t8u8aUPngMb4a0K35GUC) | [CP](https://open.spotify.com/artist/54FkNwUXQGoOXQF6nU3ZeB), [Maurex](https://open.spotify.com/artist/2h8Uc3bjHkRnEc2PVpO8Je) | [Calma](https://open.spotify.com/album/19zw55AIExi0SYdFJRBHGf) | 2:42 | 2022-10-13 | 2022-11-11 |
@@ -84,7 +85,7 @@
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-10-06 | 2022-10-28 |
 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 | 2023-01-27 |  |
 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 | 2022-07-07 |  |
-| [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 | 2023-01-27 |  |
+| [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 | 2023-01-27 | 2023-02-05 |
 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 | 2022-07-07 | 2022-12-02 |
 | [I Need a Lot](https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [I Need a Lot](https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw) | 3:52 | 2023-01-20 |  |
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 | 2022-09-17 |

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 249171,
+  "num_followers": 249244,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGMxZDM3ODZmY2M3NDMwNDYzN2Q1MzEzOTY5OTE2NWQw",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGFkOGQxMjA3OWFjMzg0ZDFiNjNkY2RjNjU0YzM4ZWIy",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
       "artists": [
         {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 196756,
       "name": "Horses",
       "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Calming Night Partner",
-        "url": "https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7"
-      },
-      "artists": [
-        {
-          "name": "Land of Talk",
-          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
-        }
-      ],
-      "duration_ms": 267148,
-      "name": "Moment Feed",
-      "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Calming Night Partner",
+        "url": "https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7"
+      },
+      "artists": [
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        }
+      ],
+      "duration_ms": 267148,
+      "name": "Moment Feed",
+      "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
     },
     {
       "added_at": "2023-01-27 05:00:00",

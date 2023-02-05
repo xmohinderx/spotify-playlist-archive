@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 205293,
       "name": "Croaking Lizard",
       "url": "https://open.spotify.com/track/5vyEPp9KszWVIOrvjWFZPw"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 206533,
       "name": "Dacoit Duel",
       "url": "https://open.spotify.com/track/4KT34MnZBuIgLKmzKr0e6V"
@@ -2829,6 +2829,28 @@
     },
     {
       "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251356,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/5TRo5Z26zJvw9CcWwOZI4h"
       },
@@ -3570,6 +3592,24 @@
       "duration_ms": 265866,
       "name": "Organ Donor - Extended Overhaul",
       "url": "https://open.spotify.com/track/0woxBVfznRP84kRSUS4Fuc"
+    },
+    {
+      "album": {
+        "name": "Endtroducing",
+        "url": "https://open.spotify.com/album/06c0BTlPTET6EjBg3lJtqF"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Organ Donor - Extended Overhaul",
+      "url": "https://open.spotify.com/track/1NDBAc8qEYARqMTi3rRxHu"
     },
     {
       "album": {

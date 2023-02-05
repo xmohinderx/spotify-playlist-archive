@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-259 songs - 18 hr 43 min
+260 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2022-01-20 |  |
 | [Shadow in the Frame](https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Shadow in the Frame](https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6) | 5:16 | 2022-01-20 | 2023-01-21 |
 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 | 2023-01-20 |  |
-| [Shining Armor](https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Shining Armor](https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n) | 2:39 | 2022-09-29 |  |
+| [Shining Armor](https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Shining Armor](https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n) | 2:39 | 2022-09-29 | 2023-02-05 |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-06 |  |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-06 | 2022-07-29 |
 | [Silver Ladders](https://open.spotify.com/track/6YJnrVhTHho0pBXlmiA0TE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/4MDkxEP7BVarbH6GXbFm8A) | 3:45 | 2021-10-06 | 2022-11-13 |
@@ -248,6 +248,7 @@
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-31 |  |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-25 | 2022-06-23 |
 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 | 2022-02-25 | 2023-01-21 |
+| [Unpeopled Space](https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 6:09 | 2022-02-25 |  |
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-04-22 | 2022-07-29 |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-04-22 | 2022-09-21 |
 | [Vexations](https://open.spotify.com/track/0eHOw5xlTyw2DbVTHu3mlH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK) | [A Young Person's Guide to the Avant\-Garde](https://open.spotify.com/album/3B4NWeTR5KQ8SItD6mz6x2) | 3:09 | 2023-01-20 | 2023-02-04 |

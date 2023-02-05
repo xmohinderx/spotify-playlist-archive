@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 354801,
+  "num_followers": 355107,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5NDc0MiwwMDAwMDAwMGRmZDExMTZlMjMxNmNmMGViOTJkMWViN2Y0MzAzZmE3",
+  "snapshot_id": "MTY3NTA5NDc0MiwwMDAwMDAwMDRjMjJhOGJkYmQzMTEzZDIyNjQ0NDlhMTkyYzIwNTg3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
+      "added_at": "2022-11-18 16:29:16",
+      "album": {
+        "name": "Let's Pretend",
+        "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
@@ -459,22 +475,6 @@
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
-    },
-    {
-      "added_at": "2022-11-18 16:29:16",
-      "album": {
-        "name": "Let's Pretend",
-        "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
     },
     {
       "added_at": "2022-12-02 16:06:53",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Otherside (Fideles Remix Edit)",
-        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 270243,
-      "name": "Otherside - Fideles Remix Edit",
-      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Fool's Paradise (Joris Voorn Remix)",
@@ -811,6 +791,26 @@
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Otherside (Fideles Remix Edit)",
+        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 270243,
+      "name": "Otherside - Fideles Remix Edit",
+      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
-      "added_at": "2023-02-04 00:38:58",
+      "added_at": "2023-02-05 01:03:15",
       "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Balafonerra",
         "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "The Church",
         "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
-    },
-    {
-      "added_at": "2022-07-08 17:15:14",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1197,24 +1181,20 @@
       "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-07-08 17:15:14",
       "album": {
-        "name": "A380",
-        "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
       "artists": [
         {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Mercurio",
-          "url": "https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG"
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
         }
       ],
-      "duration_ms": 286727,
-      "name": "A380",
-      "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "A380",
+        "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG"
+        }
+      ],
+      "duration_ms": 286727,
+      "name": "A380",
+      "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Your Love (Agents of Time Remix)",
@@ -1289,6 +1305,22 @@
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Kl\u00f8bb Ka2 (Vol. 3)",
@@ -1303,22 +1335,6 @@
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Upahl",
-        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
-      },
-      "artists": [
-        {
-          "name": "Seba Campos",
-          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Canto Al Sol",
-      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1339,6 +1355,22 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Upahl",
+        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
+      },
+      "artists": [
+        {
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Canto Al Sol",
+      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1375,22 +1407,6 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
     },
     {
       "added_at": "2022-12-09 19:43:58",
@@ -1449,20 +1465,20 @@
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Sleeping Beauty",
-        "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
       },
       "artists": [
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Sleeping Beauty",
-      "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1497,20 +1513,24 @@
       "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
+        "name": "Where We Should Be",
+        "url": "https://open.spotify.com/album/0TAPk95TmI780w2yqJzmGt"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
         }
       ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
+      "duration_ms": 271394,
+      "name": "Where We Should Be",
+      "url": "https://open.spotify.com/track/1epNzxapV6ZZ6XkSAU0LMW"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1553,6 +1573,22 @@
       "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Aguacero",
@@ -1567,42 +1603,6 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Where We Should Be",
-        "url": "https://open.spotify.com/album/0TAPk95TmI780w2yqJzmGt"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 271394,
-      "name": "Where We Should Be",
-      "url": "https://open.spotify.com/track/1epNzxapV6ZZ6XkSAU0LMW"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1689,6 +1689,26 @@
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Another Brick In The Wall",
@@ -1727,26 +1747,6 @@
       "duration_ms": 521940,
       "name": "Farsi",
       "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Made of Wood",
-        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 390371,
-      "name": "La Veleta",
-      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Calmo",
         "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 428181,
       "name": "Calmo",
       "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Made of Wood",
+        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 390371,
+      "name": "La Veleta",
+      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
     }
   ],
   "unique_name": "Tantra",

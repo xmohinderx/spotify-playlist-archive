@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,591 likes - 82 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,738 likes - 82 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

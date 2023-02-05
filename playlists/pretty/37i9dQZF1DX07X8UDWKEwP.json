@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Cheo",
-  "num_followers": 247636,
+  "num_followers": 247666,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGZhMDZkNDQyNDJhMzEyOTQxMmI5OTg0ZmRkOTU1NTEx",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDg1OTExZTAxNDY2NWI2YjcwY2E4NmE4MjViNGE2ZTU5",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Regr\u00e9same Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Regr\u00e9same Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Encaprichao",
         "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 129323,
       "name": "Encaprichao",
       "url": "https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Fronteo",
+        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
+      },
+      "artists": [
+        {
+          "name": "Pinto Picasso",
+          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
+        },
+        {
+          "name": "sP Polanco",
+          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Fronteo",
+      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "SexToy",
         "url": "https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 203562,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Fronteo",
-        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
-      },
-      "artists": [
-        {
-          "name": "Pinto Picasso",
-          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
-        },
-        {
-          "name": "sP Polanco",
-          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Fronteo",
-      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
     },
     {
       "added_at": "2023-02-03 05:00:00",

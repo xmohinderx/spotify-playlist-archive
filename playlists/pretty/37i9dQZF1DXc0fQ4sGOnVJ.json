@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146469,
+  "num_followers": 146488,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQwMzk2M2Q3M2VmNzUyMmZkMjM3ZThkYWNhMWZlZWU2",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQwZTNlNmQ0NDMwNzQ5ZTk3ZjkxYTI0MGY5ZjI2YmUz",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Calicountry",
         "url": "https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 262760,
       "name": "We All Country (feat. Colt Ford, Sarah Ross & Charlie Farley)",
       "url": "https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
-      },
-      "artists": [
-        {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        }
-      ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Hog Heaven",
         "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 282000,
       "name": "Backroads Life (feat. The Lacs)",
       "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -855,26 +855,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
       },
       "artists": [
         {
-          "name": "Avila Brothers",
-          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
         }
       ],
-      "duration_ms": 167919,
-      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -895,18 +887,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
       },
       "artists": [
         {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+          "name": "Avila Brothers",
+          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+      "duration_ms": 167919,
+      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "STICKS",
+        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        }
+      ],
+      "duration_ms": 157070,
+      "name": "STICKS",
+      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Country or Not",
         "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 174600,
       "name": "Country or Not",
       "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "STICKS",
-        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
-      },
-      "artists": [
-        {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
-        }
-      ],
-      "duration_ms": 157070,
-      "name": "STICKS",
-      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Urban Cowboy (Where the City Meets the Country)",
+        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
+      },
+      "artists": [
+        {
+          "name": "The Maverick Mikel Knight",
+          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
+        }
+      ],
+      "duration_ms": 278388,
+      "name": "Cowboy Way",
+      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 167755,
       "name": "Boondocks",
       "url": "https://open.spotify.com/track/7zNow8jwff91QBjGfUexpo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Urban Cowboy (Where the City Meets the Country)",
-        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
-      },
-      "artists": [
-        {
-          "name": "The Maverick Mikel Knight",
-          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
-        }
-      ],
-      "duration_ms": 278388,
-      "name": "Cowboy Way",
-      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
     },
     {
       "added_at": "2023-01-06 05:00:00",

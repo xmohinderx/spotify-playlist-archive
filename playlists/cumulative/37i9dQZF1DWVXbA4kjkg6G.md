@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-120 songs - 11 hr 22 min
+121 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 |  |
 | [ESSENTIAL DUB](https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c) | [MAJOR FORCE RARE TRACKS](https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd) | 4:58 | 2021-06-25 |  |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2021-06-25 |  |
-| [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 | 2021-06-25 |  |
+| [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 | 2021-06-25 | 2023-02-05 |
 | [Five Days](https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/5yS6FBypn4GpZV8LymMbWd) | 5:22 | 2021-06-25 | 2022-11-06 |
 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 | 2021-06-25 |  |
 | [Free Your Turntable And Your Scratch Will Follow](https://open.spotify.com/track/0HVYAM7HheGaM2pMHVfFcD) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 7:36 | 2021-06-25 | 2022-11-12 |
@@ -120,6 +120,7 @@
 | [Trigger Hippie](https://open.spotify.com/track/1GaYqv2NMMlVbG3ewJQ4A6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust?](https://open.spotify.com/album/5hoYuQl3lpjq4wSB1m7v7n) | 5:32 | 2021-06-25 | 2022-07-29 |
 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 | 2021-06-25 |  |
 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 | 2021-06-25 | 2023-02-02 |
+| [Turquoise Hexagon Sun](https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:07 | 2021-06-25 |  |
 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 | 2021-06-25 |  |
 | [We Be the Crew](https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX) | [The Wiseguys](https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA) | [The Antidote](https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I) | 5:49 | 2021-06-25 |  |
 | [We Be The Crew](https://open.spotify.com/track/7tLkfIKGpXYVU44YDDmhxG) | [The Wiseguys](https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA) | [The Antidote](https://open.spotify.com/album/7IRyNMCaEPw7wHZLvCyMQL) | 5:49 | 2021-06-25 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-146 songs - 10 hr 24 min
+147 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [akuma](https://open.spotify.com/track/3rsNKRINHRvYnQagyTqtnj) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/6KLzdU4IelYJvpQAzCQ4Yv) | 3:10 | 2022-07-26 | 2022-11-21 |
 | [akuma](https://open.spotify.com/track/6cr9O3zBVZ2Ityl8EMy890) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/7IPaRdgBOJlUahcAZxvazr) | 3:10 | 2022-03-10 | 2022-07-29 |
 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 | 2021-12-20 | 2022-11-19 |
-| [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 | 2022-09-29 |  |
+| [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 | 2022-09-29 | 2023-02-05 |
 | [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 | 2021-12-20 |  |
 | [Ancestral Recall](https://open.spotify.com/track/4F0cImmvDJ9IEvPgBHPaY9) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/4ZAz2jdFFsLsuc6KJScGh1) | 3:54 | 2021-12-20 | 2022-07-29 |
 | [Ancestral Recall](https://open.spotify.com/track/66EQnrHuas3WUn8aIOVmdg) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/0ppDekC0zA0aOKt9FxXVMY) | 3:54 | 2022-09-29 | 2022-11-13 |
@@ -130,6 +130,7 @@
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-03-10 |  |
 | [Terrestrial](https://open.spotify.com/track/0lAcdXzZbjmun1OFVgw9JW) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Terrestrial](https://open.spotify.com/album/5fe8okWl0OMdUWYq2xp8Nz) | 5:12 | 2021-12-20 | 2022-11-19 |
 | [The Drone Kingdom](https://open.spotify.com/track/08BEBkWxX4LNCX12gZh6xs) | [The Moth Gatherer](https://open.spotify.com/artist/4kozqldZZ5JqO1SxBqN8W4) | [The Drone Kingdom](https://open.spotify.com/album/74MU8VynnbgjO8DEjwYoGT) | 9:06 | 2021-12-20 | 2022-03-11 |
+| [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 | 2022-11-18 |  |
 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 | 2022-07-26 | 2023-01-30 |
 | [The Happiness Machine](https://open.spotify.com/track/0Mhc8mZp6UuZRoPONgD2Ct) | [Mark Deutrom](https://open.spotify.com/artist/4YMj1EBErL6NpwZgPZD3pp) | [The Happiness Machine](https://open.spotify.com/album/4uQzBfmCPjM1OIlBqJ8k1m) | 4:16 | 2021-12-20 | 2022-03-04 |
 | [The Many Faces of Dr\. Hubert Malbec](https://open.spotify.com/track/4a1L2czZXPHITIUhyxG18c) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Welcome to Bonkers](https://open.spotify.com/album/6EXsfqTqHgc0XNti4Dn5r7) | 3:06 | 2021-12-20 | 2022-03-11 |

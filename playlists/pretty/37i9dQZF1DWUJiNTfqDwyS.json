@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 221242,
+  "num_followers": 221552,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDBlODFlM2MxZmYzMjIzMDY5MjBhMTBlNzlmZmMxYjNk",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDZlZTE2Y2YyMTgzMDVkOTg3ZDBjODI2MmM5M2U4YTk0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Chamber Music",
         "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222533,
       "name": "Shock the Monkey",
       "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wind of Change",
-        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 322804,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Wind of Change",
+        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 322804,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM"
-      },
-      "artists": [
-        {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
-        }
-      ],
-      "duration_ms": 181301,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 182188,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP"
     },
     {
       "added_at": "2022-12-16 05:00:00",

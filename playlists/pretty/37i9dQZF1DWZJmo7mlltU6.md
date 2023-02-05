@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Stephen Sanchez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,292 likes - 107 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,340 likes - 107 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

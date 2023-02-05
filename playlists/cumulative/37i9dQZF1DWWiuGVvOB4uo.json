@@ -2253,24 +2253,6 @@
     },
     {
       "album": {
-        "name": "Sex is on fire",
-        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "date_added": "2023-01-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163833,
-      "name": "Isaac Hale",
-      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
-    },
-    {
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
       },
@@ -3408,6 +3390,24 @@
       "duration_ms": 158647,
       "name": "see you soon",
       "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
+    },
+    {
+      "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163833,
+      "name": "Sex is on fire",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 49244,
+  "num_followers": 49305,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDc4NDcyNGQ5Y2EyN2UyZGVjMzBlYTNlYjVmYmEyMTk5",
+  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDZjYjhjYjBhNGMwNzQ0MzNiNDg1NjY1Nzg1ZWVmMWYw",
   "tracks": [
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "All of Me (Live)",
-        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "All of Me - Live",
-      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1451,18 +1419,34 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Animals - Live In Manchester",
-      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
+      "duration_ms": 295613,
+      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "All of Me (Live)",
+        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "All of Me - Live",
+      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "Animals - Live In Manchester",
+      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1511,6 +1511,26 @@
       "duration_ms": 321453,
       "name": "Lemon Tree - Acoustic Live Version",
       "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1563,26 +1583,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "The Sydney Orchestra",
-          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Magic - Live",
-      "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Older (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 262864,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     }
   ],
   "unique_name": "Pop Live",

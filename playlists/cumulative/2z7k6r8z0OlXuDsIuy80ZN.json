@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Beso robado",
+        "url": "https://open.spotify.com/album/2O04tkJGpsLkoUcbjBBs57"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259320,
+      "name": "Beso robado",
+      "url": "https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox"
+    },
+    {
+      "album": {
         "name": "Lo Bonito",
         "url": "https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 202762,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/0M1WVPWkzCXrC9oNc83dke"
@@ -1886,6 +1904,28 @@
       "duration_ms": 223263,
       "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
       "url": "https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh"
+    },
+    {
+      "album": {
+        "name": "PLAYA DEL INGL\u00c9S",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "album": {

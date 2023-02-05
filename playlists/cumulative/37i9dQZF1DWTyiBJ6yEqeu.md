@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-609 songs - 1 day 6 hr 50 min
+610 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-24 | 2022-06-28 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2021-08-20 | 2022-04-15 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-22 |  |
-| [Demon \(featuring $NOT\)](https://open.spotify.com/track/6iHfCLrup2eZxt6nwB8e1W) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:39 | 2022-12-16 |  |
+| [Demon \(featuring $NOT\)](https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/2zhQ0DnZfURZJpHv3HGgw7) | 1:39 | 2023-02-03 |  |
+| [Demon \(featuring $NOT\)](https://open.spotify.com/track/6iHfCLrup2eZxt6nwB8e1W) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:39 | 2022-12-16 | 2023-02-05 |
 | [Devil](https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/5gUzUIi3oyy1RZae2GkKnD) | 2:56 | 2021-09-30 | 2022-06-23 |
 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/6kPO7ivI0eTml0H61STYGl) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/1NvOhObAJma5sgHbAGnAno) | 2:53 | 2021-12-02 | 2021-12-23 |
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2021-12-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Nick and Charlie's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-40 songs - 2 hr 5 min
+41 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-05-26 |  |
 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 | 2022-05-26 |  |
 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 | 2022-05-26 |  |
-| [I Think Ur Rlly Cool](https://open.spotify.com/track/4Nolw5dQkREZUSwY9pZnB0) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/3nEufS60mmunqDeFMKfr07) | 3:16 | 2022-05-26 |  |
+| [I Think Ur Rlly Cool](https://open.spotify.com/track/3OTQ2hgZINAHBs9QTk7bRk) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/7nKFnLp9UONjXQwsBsdESQ) | 3:16 | 2022-05-31 |  |
+| [I Think Ur Rlly Cool](https://open.spotify.com/track/4Nolw5dQkREZUSwY9pZnB0) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/3nEufS60mmunqDeFMKfr07) | 3:16 | 2022-05-26 | 2023-02-05 |
 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 | 2022-05-26 |  |
 | [I Want to Be Your Boyfriend](https://open.spotify.com/track/3AxUulNOa2QSBXKedKDj5E) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Hot Freaks](https://open.spotify.com/album/6qWQC8BJ0mq3e0SY5a7zoi) | 2:36 | 2022-05-31 |  |
 | [I Want to Be Your Boyfriend](https://open.spotify.com/track/58wjGqSPMBTPV9Pnhru46G) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Hot Freaks](https://open.spotify.com/album/6UcXM9ejZcOiTALDtFFJgP) | 2:36 | 2022-05-26 | 2022-12-16 |

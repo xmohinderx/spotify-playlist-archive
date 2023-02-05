@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-210 songs - 13 hr 49 min
+211 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Loveless Fan Club](https://open.spotify.com/track/6LGzijZQRFSypcWELbCeni) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts) | [The World Is Like a Handkerchief](https://open.spotify.com/album/7trpOK3KKjYt6nxMBKT2S1) | 4:04 | 2022-05-11 | 2022-07-27 |
 | [Lovesick](https://open.spotify.com/track/0gPNUEHPZJN0oOSwJ1Ymnd) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:13 | 2022-07-08 | 2022-07-24 |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2022-05-11 |  |
+| [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-05 |  |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-09-05 | 2022-11-23 |
 | [Midnight sun](https://open.spotify.com/track/46B34DWj7HjB4eEKHFa5sB) | [Marvin](https://open.spotify.com/artist/5Ge2wlLiHJlpzMSnbGkbpO) | [Nostalgia](https://open.spotify.com/album/2t0ynhYs5QkYMorNReZJSC) | 3:19 | 2022-07-08 | 2022-07-25 |
 | [Milky Way](https://open.spotify.com/track/7uYP73T6rByUNYL8RE7kiF) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Milky Way](https://open.spotify.com/album/7xiwhKvFNNeThDoLP4oRTy) | 3:53 | 2022-05-11 | 2022-06-06 |
@@ -152,7 +153,7 @@
 | [Page](https://open.spotify.com/track/2ud2xN2O5nDoyts4fdUwAC) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n), [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Page \(406 project X zitten\)](https://open.spotify.com/album/0bgg1V8RIMCnXugSYYrNYt) | 4:26 | 2022-05-11 | 2022-07-25 |
 | [parting](https://open.spotify.com/track/1NHAUW0XDaYeWtpLqtLgrs) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [pretzel of love \(Original Television Soundtrack, Pt\. 22\)](https://open.spotify.com/album/2K391MtoTJvNNZzxOcd5Jk) | 3:37 | 2022-06-20 | 2022-07-04 |
 | [Photo album](https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 2:31 | 2022-05-11 | 2022-06-05 |
-| [Recognize you](https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [No movie series : A bar with emotions OST](https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J) | 3:03 | 2023-01-13 |  |
+| [Recognize you](https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [No movie series : A bar with emotions OST](https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J) | 3:03 | 2023-01-13 | 2023-02-05 |
 | [Regret](https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Regret \(Emotions : Gummy\)](https://open.spotify.com/album/5szwIys3wT08homn7ED5hx) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2022-05-11 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/1a4GOXHBQLIg23ilouiAsl) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Remember](https://open.spotify.com/album/3RZ1A5fRgXfT9j1rDgDOuZ) | 4:25 | 2022-07-04 | 2022-07-29 |

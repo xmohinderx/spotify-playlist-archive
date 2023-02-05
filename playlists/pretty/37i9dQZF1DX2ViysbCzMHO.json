@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 112296,
+  "num_followers": 112421,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDMxNDk1NTcyODc2MDdkMGE4MjQxMjAxYTQ3ZjE0NmJm",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDM2NDc0MWExMDJlMmZjOWQ0ZmExN2YyOTAwN2IzMDlj",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 205375,
       "name": "Come Back To Bed (Acoustic)",
       "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Long Live Cowgirls (Me and a Fiddle)",
-        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Long Live Cowgirls - Me and a Fiddle",
-      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Acoustic Sessions EP",
-        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Last Cigarette - Acoustic",
-      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Last Cigarette - Acoustic",
+      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1399,6 +1399,22 @@
       "duration_ms": 207272,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "I Can Tell You're Small Town (The Back Home Version)",
+        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        }
+      ],
+      "duration_ms": 181947,
+      "name": "I Can Tell You're Small Town (The Back Home Version)",
+      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "What A Song Can Do (Stripped Down)",
-        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "What A Song Can Do - Stripped Down",
-      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "12/12 (Acoustic)",
         "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "What A Song Can Do (Stripped Down)",
+        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "What A Song Can Do - Stripped Down",
+      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Be The Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Be The Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Loved Me That Way (stripped)",
         "url": "https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o"
       },
@@ -1635,38 +1667,6 @@
       "duration_ms": 172663,
       "name": "Thought This Through",
       "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "While You're Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
-      },
-      "artists": [
-        {
-          "name": "Drew Parker",
-          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "While You're Gone - Acoustic",
-      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "First Goodbye",
-        "url": "https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p"
-      },
-      "artists": [
-        {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "First Goodbye",
-      "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
     }
   ],
   "unique_name": "Nashville Stripped",

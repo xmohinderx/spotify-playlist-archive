@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7883,
+  "num_followers": 7892,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDY5ZDkyMzA4YjdhYzQ0YmYzOTI2ZGI4MzQ5YTU5ODNj",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDI2MGM4YTE0YTU3YzBmNWVlMDExN2JlZjA3NzUyNmZi",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Fieldtrip",
-        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
-      },
-      "artists": [
-        {
-          "name": "GrimSkunk",
-          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Gros tas d'marde",
-      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le d\u00e9lire du savant fou",
         "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 199066,
       "name": "Le savant fou",
       "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Gros tas d'marde",
+      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+      },
+      "artists": [
+        {
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+        }
+      ],
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 279160,
       "name": "Le teint de Linda",
       "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Vent fou",
-        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
-      },
-      "artists": [
-        {
-          "name": "Jorane",
-          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
-        }
-      ],
-      "duration_ms": 79840,
-      "name": "Vent fou",
-      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
     },
     {
       "added_at": "2020-06-23 14:47:30",

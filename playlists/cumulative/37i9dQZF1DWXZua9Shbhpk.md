@@ -4,7 +4,7 @@
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-178 songs - 10 hr 46 min
+179 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Making Luv To The Beat \(feat\. T.I\. & DJ E\-Feezy\) \- MERCE Remix](https://open.spotify.com/track/2haqQhsi8AM7mCpYPIr5mm) | [WATCH THE DUCK](https://open.spotify.com/artist/5pHc8cGF3alNcHJUx7bcaq), [DJ E\-Feezy](https://open.spotify.com/artist/2MI9v4Ou3eiDZ1XvZgn5QP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [MERCE](https://open.spotify.com/artist/2d4eIpB1YEmNsBrjFqnBI1) | [The Trojan Horse \(Deluxe Edition\)](https://open.spotify.com/album/60B5WvIDrqciIFYDuRxxZ2) | 4:09 | 2021-09-07 | 2022-07-29 |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2021-09-07 | 2022-07-28 |
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2021-09-07 | 2022-07-26 |
+| [MIA](https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:30 | 2022-09-02 |  |
 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 | 2021-09-07 | 2023-01-01 |
 | [Miracle Man \- Zeds Dead Remix](https://open.spotify.com/track/4VZPR0Wjeu9yJNrlBurBK5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Miracle Man \(Zeds Dead Remix\)](https://open.spotify.com/album/4r3K6qHopKKNA3XP4aCmdt) | 2:29 | 2021-09-07 | 2022-07-28 |
 | [Mo Bamba](https://open.spotify.com/track/3QybPutx0Tjk472bBKjNWn) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Mo Bamba](https://open.spotify.com/album/5q8LsoYDea4MBBJ21vr0Ne) | 3:00 | 2021-09-07 | 2022-07-21 |
@@ -166,7 +167,7 @@
 | [The Ballad Of Curtis Loew](https://open.spotify.com/track/6PPhp1qpAjLUxQr75vSD4H) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:51 | 2021-09-07 | 2022-07-24 |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-09-07 |  |
 | [The City \(with Quinn XCII\)](https://open.spotify.com/track/5X3VpTYsESWoh80dMa60jd) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:06 | 2021-09-07 | 2022-07-25 |
-| [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2021-09-07 |  |
+| [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2021-09-07 | 2023-02-05 |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 | 2021-09-07 | 2022-07-09 |
 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 | 2021-09-07 | 2022-07-29 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2021-09-07 |  |

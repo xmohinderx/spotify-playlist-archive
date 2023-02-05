@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 64915,
+  "num_followers": 65089,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDY5YWYzY2IwNWVhMjYzYzdkNTNhOTMwN2IzMTAzNzY5",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGY5NGZjNTE2YWRkNDQ1NzI2Mjk4OGUzNmU4NmIxMWY3",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "4 Seasons Of Loneliness",
-      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217640,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "4 Seasons Of Loneliness",
+      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
     },
     {
       "added_at": "2021-10-20 15:00:00",

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Mario G klau
 
-162 songs - 10 hr 18 min
+163 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
 | [Bertahan / Pergi](https://open.spotify.com/track/5ljnTSvVHXNlOLYSRDWPgM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Bertahan / Pergi](https://open.spotify.com/album/33lrHJbplh0dOA5WzVP2T0) | 4:00 | 2022-11-24 | 2023-01-26 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 | 2022-10-09 |
-| [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-10-05 |  |
+| [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-02-01 |  |
+| [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-10-05 | 2023-02-05 |
 | [Berubah](https://open.spotify.com/track/1WhkLfwJ0rJtAeNQ0ylYKh) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Berubah](https://open.spotify.com/album/7ldfXTwlEZChKWBTBL81LY) | 2:46 | 2022-10-12 | 2023-01-12 |
 | [BILA NANTI](https://open.spotify.com/track/4nAcExb3w5lk5LVGVULfcM) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BILA NANTI](https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C) | 4:57 | 2022-05-25 |  |
 | [Bisik](https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bisik](https://open.spotify.com/album/51J63QPmvNrjbhIFPNc3Wx) | 4:00 | 2022-07-21 | 2022-09-16 |

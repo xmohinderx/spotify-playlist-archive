@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Kenia OS en portada.
 
-165 songs - 8 hr 26 min
+166 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-04-22 | 2022-04-24 |
 | [BOY BYE](https://open.spotify.com/track/1rskNLiG7qPmvaJWnQ6Ijw) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [BOY BYE](https://open.spotify.com/album/7DoGqiWF84pl0Rh4xUGOC7) | 3:08 | 2022-02-18 | 2022-06-22 |
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-06-15 | 2022-09-02 |
-| [Buena Suerte](https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Buena Suerte](https://open.spotify.com/album/74fYwjYPrKgQwMZxQzFuTZ) | 3:20 | 2022-02-04 |  |
+| [Buena Suerte](https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Buena Suerte](https://open.spotify.com/album/74fYwjYPrKgQwMZxQzFuTZ) | 3:20 | 2022-02-04 | 2023-02-05 |
 | [Cafeína](https://open.spotify.com/track/2JqCcsDlOpnKSvSlFKNgMN) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Cafeína](https://open.spotify.com/album/6KnqwfyVKhCIQ2MNh1UKyp) | 3:21 | 2022-02-04 | 2022-07-26 |
 | [Calendario](https://open.spotify.com/track/78R4gwIR5s2qoyNwVP6Z6m) | [Kevin Rogers](https://open.spotify.com/artist/45AV3EoWdFzdEMqhfot4QK) | [Calendario](https://open.spotify.com/album/4fq5rBmUen36wSAJjxpVu3) | 3:19 | 2022-03-04 | 2022-06-19 |
 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 | 2022-02-04 |  |
@@ -143,6 +143,7 @@
 | [Sirena](https://open.spotify.com/track/24qPSsYbHn9NzeDde6tIg7) | [Isabella de la Torre "La Bala"](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Sirena](https://open.spotify.com/album/75D1TCWnX5TMNPcNvO8Uzp) | 3:26 | 2022-02-18 | 2022-07-11 |
 | [Solita En La Playa](https://open.spotify.com/track/1UHDeQzIBBiAMXFWuUTq1X) | [Sofía Blumer](https://open.spotify.com/artist/7ph2lA8aukTsX8JkgjjdZ2) | [Solita En La Playa](https://open.spotify.com/album/5eBEN4WWl8Y6HdwTACmWta) | 3:10 | 2022-04-22 | 2022-07-01 |
 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 | 2022-02-04 |  |
+| [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 | 2023-02-03 |  |
 | [Suerte](https://open.spotify.com/track/2TIKfPzyuQ2X1SnAv5PvUQ) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy) | [Suerte](https://open.spotify.com/album/7oggcTW87RNFibNUQLi1hB) | 3:00 | 2022-02-04 | 2022-06-01 |
 | [SUPERFUME](https://open.spotify.com/track/72C3TsZFmwrKXU6e4pDrRW) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [SUPERFUME](https://open.spotify.com/album/2EnEclbA3ZSBTEnWMpcFg9) | 2:51 | 2022-02-11 | 2022-07-29 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-03-11 |  |

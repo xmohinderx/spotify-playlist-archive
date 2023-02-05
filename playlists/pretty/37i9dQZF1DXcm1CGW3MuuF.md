@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 
 > Celebramos a los héroes y heroínas locales que con su talento y osadía nos dan patria musical\. En portada: THE SUPUESTOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,830 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 16 | [Piscis](https://open.spotify.com/track/79E1sUujCAQByOUQ16LPmf) | [Casster](https://open.spotify.com/artist/46gSZfO9YHEQKTpKWrphhT) | [Piscis](https://open.spotify.com/album/18kttwZKXov8JbBpzu8Dzr) | 3:20 |
 | 17 | [Maldita flor](https://open.spotify.com/track/3VQYOn2LnvdtDfOFwvlzoY) | [Los Lujo](https://open.spotify.com/artist/2fE5rBXqsjXrN0KbCNi0tG) | [Maldita flor](https://open.spotify.com/album/3VT69GkLBJDkgjtYYnjRVd) | 3:34 |
 | 18 | [Iztaccihuatl](https://open.spotify.com/track/4dJ0yc03jD9lkl5rL0sXul) | [Sonidos Nómadas](https://open.spotify.com/artist/7rUMtfd8sfJZdJAaNv5auj) | [Iztaccihuatl](https://open.spotify.com/album/4A5wAvzr4mPOLFLAeeVbpO) | 4:35 |
-| 19 | [A Distancia](https://open.spotify.com/track/523Kl5xXgNNegdsMjTSWgz) | [Los Muebles Asolados](https://open.spotify.com/artist/6frgojnoGaYmfhOyIyXcFR) | [Los Muebles Asolados \(2020\-2021\)](https://open.spotify.com/album/19qJ7uZdX2Hmaw8uQarE1r) | 3:29 |
-| 20 | [Hazme una señal](https://open.spotify.com/track/7N283ILanstxJdMC6f198w) | [Rey Casino](https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn) | [Hazme una señal](https://open.spotify.com/album/2MTdoM1R7w8LTRBp8kwSYK) | 3:00 |
+| 19 | [Hazme una señal](https://open.spotify.com/track/7N283ILanstxJdMC6f198w) | [Rey Casino](https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn) | [Hazme una señal](https://open.spotify.com/album/2MTdoM1R7w8LTRBp8kwSYK) | 3:00 |
+| 20 | [A Distancia](https://open.spotify.com/track/523Kl5xXgNNegdsMjTSWgz) | [Los Muebles Asolados](https://open.spotify.com/artist/6frgojnoGaYmfhOyIyXcFR) | [Los Muebles Asolados \(2020\-2021\)](https://open.spotify.com/album/19qJ7uZdX2Hmaw8uQarE1r) | 3:29 |
 | 21 | [Rock!](https://open.spotify.com/track/5hYf1O7H6eRyM3uNnWpJj0) | [Karl Neudert](https://open.spotify.com/artist/0mvgQK2rUN99614MrmzmmJ) | [Rock!](https://open.spotify.com/album/7qhi00RuvJBbWYX5mfWGcQ) | 1:43 |
 | 22 | [Niña Perdida](https://open.spotify.com/track/0gkla29XsA4lfNZFXfZgZK) | [Bahía Switch](https://open.spotify.com/artist/1dVgLrya74vl5BXiVxkvsF) | [Niña Perdida](https://open.spotify.com/album/3NEq3MpLvHZl2YupOvJzvA) | 4:25 |
 | 23 | [Mar de Luna](https://open.spotify.com/track/65rWkyMVuGxMDHJnmiGZTD) | [Índico](https://open.spotify.com/artist/5HPXztjYgDGo6maPHbtLbI) | [Alma Libre](https://open.spotify.com/album/0Z7ByybT1cgrZLPiCBrGMj) | 3:25 |
-| 24 | [Déjate Llevar](https://open.spotify.com/track/4isJypMsFAgh2om6OCR4fp) | [CNTROS](https://open.spotify.com/artist/3EmT5aR5CuEWWYTVg61hZP) | [Déjate Llevar](https://open.spotify.com/album/5QHSCidtZyc5Cwij40xcdI) | 3:51 |
-| 25 | [Ordinarios](https://open.spotify.com/track/1s7WD2GgJT9lHkPROyopE6) | [Pablo Schmal](https://open.spotify.com/artist/7uOaKGhUGsQcCldvpsVXhb) | [Ordinarios](https://open.spotify.com/album/16q6x0yDGMgYxn8J45ZVGi) | 3:42 |
+| 24 | [Ordinarios](https://open.spotify.com/track/1s7WD2GgJT9lHkPROyopE6) | [Pablo Schmal](https://open.spotify.com/artist/7uOaKGhUGsQcCldvpsVXhb) | [Ordinarios](https://open.spotify.com/album/16q6x0yDGMgYxn8J45ZVGi) | 3:42 |
+| 25 | [Déjate Llevar](https://open.spotify.com/track/4isJypMsFAgh2om6OCR4fp) | [CNTROS](https://open.spotify.com/artist/3EmT5aR5CuEWWYTVg61hZP) | [Déjate Llevar](https://open.spotify.com/album/5QHSCidtZyc5Cwij40xcdI) | 3:51 |
 | 26 | [¡Ya No Hay Funk!](https://open.spotify.com/track/5gwFXisyqOhopyboVm0O6r) | [Willka](https://open.spotify.com/artist/1vtA9ebWO2m9lkZRHwiQXH) | [¡Ya No Hay Funk!](https://open.spotify.com/album/1gE94RVD745nnV004FKYng) | 4:00 |
 | 27 | [Toronjil \(Aquí Todo Cambia\)](https://open.spotify.com/track/6qJ8fH37CLv1cvs7QAa3lj) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Toronjil \(Aquí Todo Cambia\)](https://open.spotify.com/album/2cgGlLv6tZ5Ap2mq0FSzqW) | 3:13 |
 | 28 | [Llego Tarde](https://open.spotify.com/track/5vYNVKX0uyR2BGrgLGZh7D) | [El Pillin](https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm) | [Llego Tarde](https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR) | 2:57 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 35 | [Arrollar](https://open.spotify.com/track/0yccCBlWH2SLmqy3U7KyhJ) | [Inda Midland](https://open.spotify.com/artist/5nHAmmeVYOfZ0eydaehHbh) | [Arrollar](https://open.spotify.com/album/41tJZm7VPRqR8r6ZLBtKSW) | 3:27 |
 | 36 | [¡Hey, Tú!](https://open.spotify.com/track/5nJpekyYgGG9f5o0gaFoqZ) | [Cooper](https://open.spotify.com/artist/5enC1sejhpx5Ggqn3wYa7t) | [¡Hey, Tú!](https://open.spotify.com/album/4AGurXE3pAo4YQpEN7XvBl) | 3:07 |
 | 37 | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl) | 3:24 |
-| 38 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
-| 39 | [Mitad de Nada](https://open.spotify.com/track/20ut1fid2B0j3maj36WMkt) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [El Viaje de Lázaro](https://open.spotify.com/album/5OWQd0NuD2HbP09D07qivw) | 3:41 |
-| 40 | [¿cómo estoy?](https://open.spotify.com/track/3LRlgPr301xxC17yMT5fqP) | [rotten honney](https://open.spotify.com/artist/1QuIes9Oj5QFapUe9jReYg) | [¿cómo estoy?](https://open.spotify.com/album/4vwfhu43tPmJMA7ygN4hXj) | 3:38 |
-| 41 | [Escarabajos](https://open.spotify.com/track/6GVgs1iV9gAzXYWCzGZdUk) | [niños rosas](https://open.spotify.com/artist/4Op5dds0nq1iW9B230j18S) | [Escarabajos](https://open.spotify.com/album/75PAb8JlPV4D5p21ePWmPs) | 5:00 |
+| 38 | [Mitad de Nada](https://open.spotify.com/track/20ut1fid2B0j3maj36WMkt) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [El Viaje de Lázaro](https://open.spotify.com/album/5OWQd0NuD2HbP09D07qivw) | 3:41 |
+| 39 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
+| 40 | [Escarabajos](https://open.spotify.com/track/6GVgs1iV9gAzXYWCzGZdUk) | [niños rosas](https://open.spotify.com/artist/4Op5dds0nq1iW9B230j18S) | [Escarabajos](https://open.spotify.com/album/75PAb8JlPV4D5p21ePWmPs) | 5:00 |
+| 41 | [¿cómo estoy?](https://open.spotify.com/track/3LRlgPr301xxC17yMT5fqP) | [rotten honney](https://open.spotify.com/artist/1QuIes9Oj5QFapUe9jReYg) | [¿cómo estoy?](https://open.spotify.com/album/4vwfhu43tPmJMA7ygN4hXj) | 3:38 |
 | 42 | [Estrellas](https://open.spotify.com/track/0DfZivWoMlLjKkGECS5eLG) | [Vigilante](https://open.spotify.com/artist/6xm4gYSGOg3ik5pVBwl50L) | [Estrellas](https://open.spotify.com/album/1UPhpzt1r8oGikJID1EbhT) | 4:40 |
 | 43 | [Blusibox](https://open.spotify.com/track/7EUAipiZh9rOdGWVp73pIF) | [Sunozun](https://open.spotify.com/artist/3DApw6y8GAhFcjWIshuTax) | [Blusibox](https://open.spotify.com/album/5IbYlT1SFQzmnzP50bZ7C7) | 2:36 |
 | 44 | [A través](https://open.spotify.com/track/47RjaPF1vjaRB2EHayJY6B) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [A través](https://open.spotify.com/album/7h1kkFJoiCySILCOffz8Aa) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 49 | [Dagas](https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W) | [Homero III](https://open.spotify.com/artist/2uoCxMOphYKMd0dYZf7bcM) | [Dagas](https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz) | 3:10 |
 | 50 | [Nostalgia Suicida](https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q) | [Vicios Juveniles](https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI) | [Vicios Juveniles, Vol\. 2](https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL) | 1:50 |
 
-Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMDgwMTA4MzIwMmE1MDNkNjBhODVhMzVmNGFlNDFiYTYy`
+Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMDJiZDM0YjlkNjBhYjEyZjBmZWRjYzI1NzgzOGEwMDVk`

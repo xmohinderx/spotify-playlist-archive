@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Somebody's Child",
-  "num_followers": 110943,
+  "num_followers": 110937,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDU4NGU3ZmMwNTI1MWEyOGQ3NmM3ZDkyMzhjNTU4NmJl",
+  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDdlZjE0ZWZkNzA5OGI1MzM2NjNiMTY2OTY0MjYwN2Zj",
   "tracks": [
     {
       "added_at": "2023-02-03 00:00:00",
@@ -65,7 +65,7 @@
         }
       ],
       "duration_ms": 193120,
-      "name": "Give It up to Love",
+      "name": "Give It Up To Love",
       "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 174626,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Fading Like A Picture",
         "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 236586,
       "name": "Fading Like A Picture",
       "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Struggle",
+        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Struggle - Single Version",
+      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Struggle",
-        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 204407,
-      "name": "Struggle - Single Version",
-      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Good Old",
-        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Everybody's Saying Thursday's The Weekend",
         "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 197333,
       "name": "My Very Best",
       "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Good Old",
+        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -631,6 +631,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Cowboy Nudes",
+        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 177529,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Makes Me Sick Makes Me Smile",
         "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 177529,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1103,6 +1119,22 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 178212,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "Guitar Music",
         "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
       },
@@ -1215,6 +1247,22 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
       },
@@ -1227,54 +1275,6 @@
       "duration_ms": 147378,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 178212,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Only Good Things",
-        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 195430,
-      "name": "Only Good Things",
-      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 143322,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Dreams, Pains & Paper Planes",
-        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+        "name": "Only Good Things",
+        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
         }
       ],
-      "duration_ms": 201942,
-      "name": "I'm Just High",
-      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
+      "duration_ms": 195430,
+      "name": "Only Good Things",
+      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
     }
   ],
   "unique_name": "pulp",

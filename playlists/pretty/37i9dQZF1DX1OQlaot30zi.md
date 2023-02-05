@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Paky, Rondodasosa, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,020 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,058 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 5 | [Pochi Pochi](https://open.spotify.com/track/34wBFYmnw1sBcHyrhoYAS0) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Pochi Pochi](https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc) | 3:45 |
 | 6 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 |
 | 7 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 |
-| 8 | [Brutte Cose \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Brutte Cose \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 |
+| 8 | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 |
 | 9 | [TCHOP](https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [TCHOP](https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW) | 3:01 |
 | 10 | [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 |
 | 11 | [4AM \(feat\. Nayt\)](https://open.spotify.com/track/28e2tSmvlacRKq69nkhDQ2) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [FLOW](https://open.spotify.com/album/1rXh4Ui9xfA0qK4k9GZYza) | 2:28 |

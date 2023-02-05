@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,726 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 20 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
 | 21 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 22 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
-| 23 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
-| 24 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 23 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 24 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
 | 25 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 26 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 27 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 |
 | 54 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 |
 | 55 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 |
-| 56 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
-| 57 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 |
+| 56 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 |
+| 57 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
 | 58 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 |
-| 59 | [I Need a Lot](https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [I Need a Lot](https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw) | 3:52 |
-| 60 | [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 |
+| 59 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 |
+| 60 | [I Need a Lot](https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [I Need a Lot](https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw) | 3:52 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDg1ZWNlOGRhNzRkNzY3YzEzMGU4ZjRhNDQwYzU4OTFl`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDc4ZGJlODEzYzVkNzFkZGZkYzBkZGU4OWJmYWNiODUz`

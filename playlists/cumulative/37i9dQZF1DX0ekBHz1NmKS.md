@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-630 songs - 1 day 9 hr 25 min
+632 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 |  |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
+| [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 |  |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [ABAJO](https://open.spotify.com/track/1GXd4kZSdrJEBo11WgQiDi) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [ABAJO](https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D) | 2:40 | 2022-01-27 | 2022-02-06 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
@@ -51,7 +52,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 |  |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
-| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 |  |
+| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-05 |
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 |  |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
@@ -131,7 +132,7 @@
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
-| [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-10-15 |  |
+| [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-10-15 | 2023-02-05 |
 | [Don't Want To Know](https://open.spotify.com/track/5sZaLWNPVqcqRv0JFj4uY1) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Don't Want To Know](https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF) | 2:23 | 2022-03-10 | 2022-04-21 |
 | [Don't You Dare](https://open.spotify.com/track/4pPlZhhuHGACJewIvWNEMG) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Don't You Dare](https://open.spotify.com/album/7jZ5uylJxeg5TA1jHy32LQ) | 2:53 | 2022-05-26 | 2023-01-08 |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-11-10 |  |
@@ -159,6 +160,7 @@
 | [ENSAM \(feat\. estraden\)](https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [ENSAM \(feat\. estraden\)](https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5) | 3:09 | 2022-10-27 |  |
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
+| [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 |  |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2022-05-13 |

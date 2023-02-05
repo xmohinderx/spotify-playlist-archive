@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Mario G klau
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,659 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,742 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 26 | [Test Drive](https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Test Drive](https://open.spotify.com/album/7KeMDStkuEMZfLyEiHJRxS) | 3:43 |
 | 27 | [Jujurlah](https://open.spotify.com/track/7lIeRxGVub1d6DV17yZGXB) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9), [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [Jujurlah](https://open.spotify.com/album/4wRn6GpKhGNAQ9FABQ4TdO) | 2:58 |
 | 28 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 |
-| 29 | [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 |
+| 29 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 |
 | 30 | [Sudi](https://open.spotify.com/track/13j1GXauy306qxQmmBPRQm) | [Akwa Arifin](https://open.spotify.com/artist/07brHDNIrWQZPcOrepCicM), [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sudi](https://open.spotify.com/album/35FywzkPW8jYWX4naV5Xgv) | 3:04 |
 | 31 | [Aku Terluka](https://open.spotify.com/track/4tOl0MdcOT9J1IAQ1MdnGh) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Aku Terluka](https://open.spotify.com/album/2JPX9QMY45CetMKK8xk3TH) | 3:25 |
 | 32 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 |
 | 50 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
 
-Snapshot ID: `MTY3NTI1NTA0MCwwMDAwMDAwMDAwNDk2MTkzYTNjNWU3ODU2NDI5Y2FhMWFkYzlmMGZj`
+Snapshot ID: `MTY3NTI1NTA0MCwwMDAwMDAwMDI5MWU1Yzg2MDlmZTFkZGJjMDhkMzlhOWI4Mjk5Mjli`

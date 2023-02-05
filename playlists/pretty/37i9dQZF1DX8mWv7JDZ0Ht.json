@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Manu Gavassi, Liniker",
-  "num_followers": 416444,
+  "num_followers": 416523,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDRiM2NhNjRjYTRmZTBiMWE5MTczNjQ1YzhjZjJkZmMy",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGMxMTliZmQ0M2FmYjljYjczYTAwNzBjNzlmMzRlNGIy",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 243370,
       "name": "Ver Em Cores",
       "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "te vi dan\u00e7ando",
+        "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "duration_ms": 78968,
+      "name": "te vi dan\u00e7ando",
+      "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Amor Sem Pausa",
         "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 211351,
       "name": "Voc\u00ea nasceu para mudar",
       "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "te vi dan\u00e7ando",
-        "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        }
-      ],
-      "duration_ms": 78968,
-      "name": "te vi dan\u00e7ando",
-      "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -511,22 +511,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Sem Filtro (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
+        "name": "Cora\u00e7\u00f5es Psicod\u00e9licos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Roupa Nova",
+          "url": "https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS"
         },
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 184914,
-      "name": "Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+      "duration_ms": 207810,
+      "name": "Cora\u00e7\u00f5es Psicod\u00e9licos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -567,38 +567,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Cora\u00e7\u00f5es Psicod\u00e9licos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m"
+        "name": "Sem Filtro (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
       "artists": [
         {
-          "name": "Roupa Nova",
-          "url": "https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         },
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 207810,
-      "name": "Cora\u00e7\u00f5es Psicod\u00e9licos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Folha",
-        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 197336,
-      "name": "Folha",
-      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
+      "duration_ms": 184914,
+      "name": "Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -619,6 +603,38 @@
       "duration_ms": 205913,
       "name": "LSD",
       "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Folha",
+        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "Folha",
+      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Amor Compartilhado",
+        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 146231,
+      "name": "Amor Compartilhado",
+      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 188000,
       "name": "MUITA BAD pouca idade",
       "url": "https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Amor Compartilhado",
-        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Amor Compartilhado",
-      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "A Voz",
         "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 242696,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Se S\u00easse",
-        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
+        "name": "Decolagem",
+        "url": "https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK"
       },
       "artists": [
         {
-          "name": "Gabi Shima",
-          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
+          "name": "Zek",
+          "url": "https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh"
         }
       ],
-      "duration_ms": 171752,
-      "name": "Se S\u00easse",
-      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
+      "duration_ms": 152666,
+      "name": "Logo Eu",
+      "url": "https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Decolagem",
-        "url": "https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK"
+        "name": "Se S\u00easse",
+        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
       },
       "artists": [
         {
-          "name": "Zek",
-          "url": "https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh"
+          "name": "Gabi Shima",
+          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
         }
       ],
-      "duration_ms": 152666,
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj"
+      "duration_ms": 171752,
+      "name": "Se S\u00easse",
+      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
     }
   ],
   "unique_name": "Pop Leve",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 117682,
+  "num_followers": 118061,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGQwZGFkMzUyNDc2YjhlNGU5NGQyZWRhMjZhMTAwNjc4",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDM5NTFiMzQ1NjQ4ZTY3MjdmOGJmMjVjMDk0ZmQzY2Iz",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -387,18 +387,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
         }
       ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+      "duration_ms": 175040,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -519,26 +519,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "SIMPLE (feat. Joe L Barnes)",
         "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",

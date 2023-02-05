@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-386 songs - 22 hr 37 min
+387 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bedi e7kik / بدي احكيك \- Remix by DJ JO MK](https://open.spotify.com/track/66iwWLfDAvp2DVDE33fhKR) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [DJ JO MK](https://open.spotify.com/artist/3WOC13QE3Jgx1MGaM8tIAL) | [Bedi e7kik / بدي احكيك \(Remix by DJ JO MK\)](https://open.spotify.com/album/38d60nfn1G0W8tlzfvSUAY) | 2:33 | 2022-10-13 |  |
 | [Bel Mukhtsar](https://open.spotify.com/track/5UDj8FpgnvAAgFEYhrFU9a) | [Sanaa Al Alami](https://open.spotify.com/artist/7o5hnekeakdew02SBU4w5D) | [Bel Mukhtsar](https://open.spotify.com/album/6Vp4pfEkr3ck0ecLyfomvg) | 2:27 | 2021-12-23 | 2022-02-26 |
 | [Betateb Khialak](https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Betateb Khialak](https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq) | 4:51 | 2022-03-08 | 2022-12-27 |
+| [Betshoof Alamat](https://open.spotify.com/track/22cuGWNOX0pEj6JcvcPGVp) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Betshoof Alamat](https://open.spotify.com/album/6k1KUXl3bGPoDWpYqqwpKX) | 3:18 | 2023-02-03 |  |
 | [Bi Saraha](https://open.spotify.com/track/5Is9gbdTLHpZfaieLYGvrr) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/4PvK6tDuoEeeYy7jzI2xA9) | 3:19 | 2022-10-20 |  |
 | [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 | 2022-03-03 | 2022-12-29 |
 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 | 2021-12-23 | 2022-02-28 |
@@ -320,7 +321,7 @@
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 |  |
 | [أناكوندا](https://open.spotify.com/track/1XWBr66ODYX70TMRFvqVqc) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [أناكوندا](https://open.spotify.com/album/4CRITjhIkefit5B9J1HCEq) | 3:16 | 2021-12-23 | 2022-02-26 |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2021-12-30 | 2022-03-01 |
-| [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 |  |
+| [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2023-02-05 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-21 |  |
 | [الشوق](https://open.spotify.com/track/64WFp5DnkD3kSjHPj0IXzL) | [هبة بلمقادم](https://open.spotify.com/artist/2ErgG7JPJ662kZxFCa5tT2) | [الشوق \- Single](https://open.spotify.com/album/6hDoFUGm1D19yGcAFXTtD1) | 3:52 | 2021-12-23 | 2022-02-28 |
 | [العين يا نور العين](https://open.spotify.com/track/0FH3HZnLtOsirwMDpZAEXQ) | [فرح شريم](https://open.spotify.com/artist/05xj0n89xCSoCIyH42n1uN), [Ahmad H Music](https://open.spotify.com/artist/7uX4GJ4dsIR1SxV2V5t0Fr) | [العين يا نور العين](https://open.spotify.com/album/2ygZaiQo51akgXIZLG3XmS) | 1:54 | 2021-12-23 | 2022-03-02 |

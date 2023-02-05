@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,715 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,707 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 76 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 |
 | 77 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
 | 78 | [Overdose](https://open.spotify.com/track/5NSPsOGVNWYOMeeyZPF7HY) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Overdose \- The 2nd Mini Album](https://open.spotify.com/album/3Nyhs0ZYxVmXDVfv4PLsqv) | 3:25 |
-| 79 | [It's You](https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [당신이 잠든 사이에 Pt\. 2 Original Television Soundtrack](https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI) | 3:51 |
+| 79 | [It's You](https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [당신이 잠든 사이에 Pt\. 2 Original Television Soundtrack](https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI) | 3:51 |
 | 80 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 81 | [YOUNG](https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [YOUNG](https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe) | 3:49 |
 | 82 | [Truth](https://open.spotify.com/track/3O5CrJjatffDXBtVUK4XB5) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#2 : The Truth of Love \- 15th Anniversary Special Album](https://open.spotify.com/album/0pHTB9s8eflsnSSIhrCBEY) | 2:57 |

@@ -1,12 +1,12 @@
 {
   "description": "The best remixes of popular tracks!",
-  "num_followers": 5208,
+  "num_followers": 5380,
   "original_name": "Hardstyle Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMDgxYTQ2YzZhNTNjM2RjYmFmNDM0MDAzMmRiOWVmOWMw",
+  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMGM5MGYyYTM2YTJhMTQzYTBhMmY2OTRlMzY3Mzk0NGQw",
   "tracks": [
     {
       "added_at": "2023-02-02 23:00:00",
@@ -92,8 +92,8 @@
           "url": "https://open.spotify.com/artist/6G6JlX1DE2Val7zPadVTzY"
         },
         {
-          "name": "EGGWYTE",
-          "url": "https://open.spotify.com/artist/3FGyHwCfYQXtjsnE1eBW7I"
+          "name": "Eggwyte",
+          "url": "https://open.spotify.com/artist/5VzIPn6munZ3O3n29BnZI8"
         }
       ],
       "duration_ms": 177200,
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Can Can (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "High Level",
-          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
-        }
-      ],
-      "duration_ms": 120187,
-      "name": "Can Can (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Only Girl (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 127312,
       "name": "Only Girl - Hardstyle Remix",
       "url": "https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Can Can (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "High Level",
+          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
+        }
+      ],
+      "duration_ms": 120187,
+      "name": "Can Can (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -487,6 +487,30 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Lambada (Your Love)",
+        "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 266668,
+      "name": "Lambada (Your Love)",
+      "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 198010,
       "name": "Heaven - DJ Isaac Remix",
       "url": "https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Lambada (Your Love)",
-        "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 266668,
-      "name": "Lambada (Your Love)",
-      "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Ecuador (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7"
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
       },
       "artists": [
         {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
         }
       ],
-      "duration_ms": 130016,
-      "name": "Ecuador (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t"
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+        "name": "Ecuador (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7"
       },
       "artists": [
         {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+      "duration_ms": 130016,
+      "name": "Ecuador (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1155,6 +1155,42 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Mirrors (Hardstyle)",
+        "url": "https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        }
+      ],
+      "duration_ms": 116117,
+      "name": "Mirrors (Hardstyle)",
+      "url": "https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Bad Boys (Harddance Mix)",
+        "url": "https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Shinzo",
+          "url": "https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Bad Boys - Harddance Mix",
+      "url": "https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Klaagzang",
         "url": "https://open.spotify.com/album/0ep74B5082yRdihkXVB4kx"
       },
@@ -1175,18 +1211,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Mirrors (Hardstyle)",
-        "url": "https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU"
+        "name": "Twerk Anthem",
+        "url": "https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31"
       },
       "artists": [
         {
-          "name": "PXSEIDON",
-          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 116117,
-      "name": "Mirrors (Hardstyle)",
-      "url": "https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx"
+      "duration_ms": 170000,
+      "name": "Twerk Anthem",
+      "url": "https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1207,22 +1243,6 @@
       "duration_ms": 207840,
       "name": "Bitter Sweet Symphony - Steve 80 Remix Edit",
       "url": "https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Twerk Anthem",
-        "url": "https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Twerk Anthem",
-      "url": "https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Pianoman (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/7IAIcE7jVRC1enFK7f6Um4"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "De Sfeermakers",
-          "url": "https://open.spotify.com/artist/4ziSTKIdIX5tP8y0EZ4LLA"
-        }
-      ],
-      "duration_ms": 198045,
-      "name": "Pianoman (Hardstyle Remix)",
-      "url": "https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Faded (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4BDXzHXyoFG0zuyhClsD2X"
       },
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Speel Niet Met M'n Voeten",
-        "url": "https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY"
+        "name": "Pianoman (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/7IAIcE7jVRC1enFK7f6Um4"
       },
       "artists": [
         {
-          "name": "Beatcrooks",
-          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "De Sfeermakers",
+          "url": "https://open.spotify.com/artist/4ziSTKIdIX5tP8y0EZ4LLA"
         }
       ],
-      "duration_ms": 177494,
-      "name": "Summer Of '69 - Happy H\u00f8ken Remix",
-      "url": "https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu"
+      "duration_ms": 198045,
+      "name": "Pianoman (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/3HipQ7QxF3QD4uqvGnl1p3"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1335,6 +1339,22 @@
       "duration_ms": 230412,
       "name": "Mr Brightside",
       "url": "https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Speel Niet Met M'n Voeten",
+        "url": "https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY"
+      },
+      "artists": [
+        {
+          "name": "Beatcrooks",
+          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
+        }
+      ],
+      "duration_ms": 177494,
+      "name": "Summer Of '69 - Happy H\u00f8ken Remix",
+      "url": "https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1383,30 +1403,6 @@
       "duration_ms": 167229,
       "name": "Pok\u00e9mon Theme (Fallen Superhero Remix)",
       "url": "https://open.spotify.com/track/0rgLJMtbtKIsTHFB52WnAS"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "The Game (Dr. Rude & Lunaticz Remix)",
-        "url": "https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG"
-      },
-      "artists": [
-        {
-          "name": "DJ Galaga",
-          "url": "https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Lunaticz",
-          "url": "https://open.spotify.com/artist/4bsUfMLOoqUmRHf4qbOTIn"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "The Game - Dr. Rude & Lunaticz Remix",
-      "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
     }
   ],
   "unique_name": "Hardstyle Remixes",

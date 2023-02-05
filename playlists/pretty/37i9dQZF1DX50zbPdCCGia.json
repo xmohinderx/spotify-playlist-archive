@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 178333,
+  "num_followers": 178522,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMGI5NWZlZGMxZDc3ZjIxMTQyMGEzNjRhNTliOWRkMDJh",
+  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMDBkNDMyMjQyYWY3YTJhOTAxY2Y5NTllZjIzZDc2YTFh",
   "tracks": [
     {
       "added_at": "2023-01-18 22:01:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Hollies",
         "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 257106,
       "name": "The Air That I Breathe - 2008 Remaster",
       "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 430866,
+      "name": "Isn't It A Pity - Remastered 2014",
+      "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "CSN 2012",
         "url": "https://open.spotify.com/album/1gKLKKS7zYJJsV0pF1R2f9"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/1dirmucBUgOm45ld0yDY6u"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Lucixn",
+          "url": "https://open.spotify.com/artist/7jyXXQEyXVGDYKQ85Es2Er"
+        },
+        {
+          "name": "imnotege",
+          "url": "https://open.spotify.com/artist/7pySAy9Rry78aefhmoQy0s"
         }
       ],
-      "duration_ms": 430866,
-      "name": "Isn't It A Pity - Remastered 2014",
-      "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
+      "duration_ms": 202840,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/1geuctUKhvAydlkc0xzMTp"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1455,42 +1475,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/1dirmucBUgOm45ld0yDY6u"
-      },
-      "artists": [
-        {
-          "name": "Lucixn",
-          "url": "https://open.spotify.com/artist/7jyXXQEyXVGDYKQ85Es2Er"
-        },
-        {
-          "name": "imnotege",
-          "url": "https://open.spotify.com/artist/7pySAy9Rry78aefhmoQy0s"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/1geuctUKhvAydlkc0xzMTp"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Pendulum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "(Wish I Could) Hideaway",
-      "url": "https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -1507,26 +1491,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        },
-        {
-          "name": "Odia Coates",
-          "url": "https://open.spotify.com/artist/3UgUTRbDBLMcRCantpTWIe"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "I Don't Like To Sleep Alone",
-      "url": "https://open.spotify.com/track/0kgjL2oRFsV6GSwVNCcQS6"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "All Things Must Pass (2020 Mix)",
         "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
       },
@@ -1539,6 +1503,22 @@
       "duration_ms": 226960,
       "name": "All Things Must Pass - 2020 Mix",
       "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Pendulum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "(Wish I Could) Hideaway",
+      "url": "https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1571,6 +1551,26 @@
       "duration_ms": 248800,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        },
+        {
+          "name": "Odia Coates",
+          "url": "https://open.spotify.com/artist/3UgUTRbDBLMcRCantpTWIe"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "I Don't Like To Sleep Alone",
+      "url": "https://open.spotify.com/track/0kgjL2oRFsV6GSwVNCcQS6"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Venus And Mars (Archive Collection)",
-        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Listen To What The Man Said - 2014 Remaster",
-      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 298280,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Venus And Mars (Archive Collection)",
+        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Listen To What The Man Said - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Getting In Tune",
+      "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Back to Front",
         "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 352413,
       "name": "Louisiana Rain",
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Getting In Tune",
-      "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
     },
     {
       "added_at": "2023-01-18 22:01:37",

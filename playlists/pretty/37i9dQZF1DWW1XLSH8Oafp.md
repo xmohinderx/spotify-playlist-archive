@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,025 likes - 108 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,167 likes - 108 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 54 | [Fool](https://open.spotify.com/track/5JbT1O4xgaupqbsd2mwZKY) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Fool](https://open.spotify.com/album/2rSsXi6ei1jVv7rSIndXyO) | 2:41 |
 | 55 | [Voyage en Europe \- TDJ Remix](https://open.spotify.com/track/5hWKNmayPtKecMxIVTf4oN) | [Roland Cristal](https://open.spotify.com/artist/3JOPSnZYkyyM9pS1Dpswbf), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Voyage en Europe \(TDJ Remix\)](https://open.spotify.com/album/5yHeP0TNLzLbAODgCPjKON) | 4:11 |
 | 56 | [Banshee](https://open.spotify.com/track/60VxfR69YQf7KqvxTqs4dP) | [Dan Larkin](https://open.spotify.com/artist/2hbkBcgVkM8GVJQQuf5jy9), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Banshee](https://open.spotify.com/album/4jckpNyd7AyJhUHTUO4I4A) | 3:41 |
-| 57 | [Look \- All Night Mix](https://open.spotify.com/track/2qmnDGzVVsutea3plrJsXf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0zya05sL9tpRmmIuRXFLON) | 2:42 |
+| 57 | [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 |
 | 58 | [Taysidersinspace](https://open.spotify.com/track/1u87krsx683q4ThjgjSXIk) | [Finnfm](https://open.spotify.com/artist/72aRkNKl7m68V6mCRcjOMA) | [Taysidersinspace](https://open.spotify.com/album/77UeNFkfssTISZiESAvdG9) | 3:38 |
 | 59 | [aliens](https://open.spotify.com/track/0sGjMUeSsITeJ4Hjyk9XT8) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [aliens](https://open.spotify.com/album/4DCUwy16QMSQTtlxClp9Un) | 2:29 |
 | 60 | [anxiety](https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [anxiety](https://open.spotify.com/album/4hEfPE1lbqovFYK5sYTpq5) | 3:41 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 107 | [Running Out Of Time](https://open.spotify.com/track/2XyDgvJov4rPwMWdihlXiZ) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Running Out Of Time](https://open.spotify.com/album/1t3C39uMHC1kGCg28PGNHQ) | 3:20 |
 | 108 | [Aquarius](https://open.spotify.com/track/3ESZfPBmzPc6nbjhy45dAD) | [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Time Machine](https://open.spotify.com/album/6BB4Xczb32vmkRSPiLrUin) | 2:31 |
 
-Snapshot ID: `MTY3NTQzODM0NywwMDAwMDAwMGJjNzc2YjQwN2ZiZjE1OTgxZWZkMGQzNTk0MjY3MmVh`
+Snapshot ID: `MTY3NTQzODM0NywwMDAwMDAwMDAwZGFkMWMwMGRlMzM2MDZhZjE0ODFlMDE4YWFjZWQ1`

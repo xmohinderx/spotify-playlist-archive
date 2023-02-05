@@ -4,7 +4,7 @@
 
 > dig through the record bin.
 
-185 songs - 12 hr 14 min
+186 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [I Never Want to See You Again](https://open.spotify.com/track/3qCQKf1AAyT5yFe4QdCKic) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Featuring "Birds"](https://open.spotify.com/album/7tAnCo8qn6xIRkcDs3FEUQ) | 3:47 | 2022-02-25 | 2022-07-29 |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2022-02-25 |  |
 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 | 2022-02-25 |  |
-| [If I Could Talk I'd Tell You](https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Car Button Cloth](https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf) | 2:50 | 2022-02-25 |  |
+| [If I Could Talk I'd Tell You](https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Car Button Cloth](https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf) | 2:50 | 2022-02-25 | 2023-02-05 |
 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 | 2022-02-25 |  |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/4OciRObYGzPzlU40U7YRc8) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F) | 3:22 | 2022-02-25 | 2022-07-29 |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-05-30 |  |
@@ -121,6 +121,7 @@
 | [Never Said](https://open.spotify.com/track/1YavIlstxard9kLKRAqe72) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville](https://open.spotify.com/album/3DRlG4ezNna6WCi3uPGcDL) | 3:16 | 2022-02-25 | 2022-07-29 |
 | [No Culture Icons](https://open.spotify.com/track/18CXbFOkfxesB75qawtn57) | [The Thermals](https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C) | [More Parts Per Million](https://open.spotify.com/album/3UrnF2XfCMUPKuxV4SHfQD) | 2:21 | 2022-03-25 | 2022-07-22 |
 | [Not Too Amused \- Remastered](https://open.spotify.com/track/5D6e2eR7ibXaeYCM9SkLts) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bakesale: Deluxe Edition](https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh) | 4:15 | 2022-02-25 | 2022-07-29 |
+| [Novocaine For The Soul](https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii) | 3:08 | 2023-01-10 |  |
 | [Novocaine For The Soul](https://open.spotify.com/track/4uPi47C1WcnhIbvCx4zCu6) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/7sqwuxORaCogFGgygafdSt) | 3:08 | 2022-02-25 | 2023-01-28 |
 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 | 2022-02-25 |  |
 | [One Angry Dwarf and 200 Solemn Faces](https://open.spotify.com/track/7q23OMsgK72FQiK1SYY3Pl) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 3:52 | 2022-03-25 | 2022-04-02 |

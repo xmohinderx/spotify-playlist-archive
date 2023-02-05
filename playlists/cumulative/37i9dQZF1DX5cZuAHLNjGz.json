@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi hits with AP Dhillon",
+  "description": "Ultimate 101 Punjabi hits with Karan Aujla",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
+        "name": "Four You",
+        "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214024,
+      "name": "52 Bars",
+      "url": "https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"
     },
     {
       "album": {
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 287573,
       "name": "Nasha (Equals Sessions)",
       "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
@@ -2812,7 +2834,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 204922,
       "name": "Secret",
       "url": "https://open.spotify.com/track/1SAUUkJEPYqiewV2dZ7JnZ"
@@ -3738,6 +3760,28 @@
       "duration_ms": 200816,
       "name": "Wytb",
       "url": "https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx"
+    },
+    {
+      "album": {
+        "name": "Four You",
+        "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "Yeah Naah",
+      "url": "https://open.spotify.com/track/0uHpY2weZMUCUTqlf8OD74"
     },
     {
       "album": {

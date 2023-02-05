@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-234 songs - 17 hr 26 min
+235 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [One Soul](https://open.spotify.com/track/2UpdWyiHg8gDDPTDKh8k4P) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Nikos Giouletzis](https://open.spotify.com/artist/0SPLdwEwKSVDbsOhGzPSwc) | [One Soul](https://open.spotify.com/album/00vxM8qbchIRJZzSEiP3Id) | 3:56 | 2021-02-22 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR) | [Manda](https://open.spotify.com/artist/3Zd5lZmsC7lqZPXHBqNUSe), [Nesco](https://open.spotify.com/artist/3j0OYwICzUpiw4VAp6ivuD), [ZADI](https://open.spotify.com/artist/1FgRT0ZNs5kubsp4XqjhPA) | [Only You](https://open.spotify.com/album/3KN4rQchOIqlXmKrMPNOG1) | 3:18 | 2021-09-08 | 2022-12-19 |
 | [Orient Express](https://open.spotify.com/track/7tYOJVJoptDjtBvE1fHwfU) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Orient Express](https://open.spotify.com/album/75atJZdj78b77e6u29N10h) | 4:20 | 2022-10-15 |  |
+| [Orient Spirit](https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI), [Doan](https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC) | [Orient Spirit](https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m) | 2:27 | 2023-02-04 |  |
 | [Origin](https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Origin](https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE) | 3:54 | 2022-02-24 |  |
 | [Ormila](https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91) | [Majed Zane](https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR), [Sam Abdullah](https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq) | [Ormila](https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX) | 4:58 | 2022-02-12 |  |
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 | 2022-11-14 |
@@ -183,7 +184,7 @@
 | [Play the Game](https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play the Game](https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w) | 2:22 | 2021-08-13 | 2022-07-29 |
 | [Play The Game](https://open.spotify.com/track/7v20uWK7xG3hpnxwh2vUQH) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play The Game](https://open.spotify.com/album/6pmoPn92MLxuIJLYG0gq5T) | 2:22 | 2022-10-27 | 2022-11-13 |
 | [Por Ti](https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82) | [Houssem Amari](https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd), [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1) | [Por Ti](https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m) | 3:20 | 2020-12-21 |  |
-| [Qalbi](https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX) | [Ali Termos](https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK) | [Qalbi](https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ) | 6:18 | 2022-04-04 |  |
+| [Qalbi](https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX) | [Ali Termos](https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK) | [Qalbi](https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ) | 6:18 | 2022-04-04 | 2023-02-05 |
 | [Qamuran](https://open.spotify.com/track/4aqc8muXR8anfNoFhmdnGZ) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Qamuran](https://open.spotify.com/album/1TBpfCqwf84mA9LnXHTY6Z) | 6:05 | 2020-10-18\* | 2020-12-13 |
 | [Ramla](https://open.spotify.com/track/0aPtCFb0E1ZKGzE1bMuvV0) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Ramla](https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik) | 6:34 | 2020-12-21 |  |
 | [Rhim \- Jad Halal Remix](https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Salam](https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA) | 4:33 | 2021-08-22 |  |

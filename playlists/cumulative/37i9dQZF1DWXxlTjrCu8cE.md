@@ -4,7 +4,7 @@
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-146 songs - 8 hr 2 min
+147 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bonnie and Bonnie \(Bestfriend\)](https://open.spotify.com/track/4biz591kPeKSXKofmV6HzW) | [Aint Afraid](https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5) | [Ain't Afraid](https://open.spotify.com/album/3rtsEThcbz9DxWCbRHlVAv) | 3:22 | 2022-05-30 | 2022-12-01 |
 | [Bouncin \(feat\. Offset\)](https://open.spotify.com/track/1YWnrz4pqjtt2zlEOuDIFg) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Myself](https://open.spotify.com/album/4EhEkDClVOByI6FzYxfvlc) | 2:52 | 2022-05-30 | 2022-11-30 |
 | [Boys Ain't Shit](https://open.spotify.com/track/6vzLbfskWigBsCzNdB0kfE) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Boys Ain't Shit](https://open.spotify.com/album/14h9GgdPLs6rnEqORICaAm) | 2:55 | 2022-05-30 | 2022-11-30 |
-| [Brisa da Varanda \- Ao Vivo](https://open.spotify.com/track/3DKAAlwx6r7nwFG4VFg5qk) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Pagode do Doce \(Ao Vivo\)](https://open.spotify.com/album/0rMJJQt8mKcMBG27q52zap) | 3:22 | 2022-11-30 |  |
+| [Brisa da Varanda \- Ao Vivo](https://open.spotify.com/track/3DKAAlwx6r7nwFG4VFg5qk) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Pagode do Doce \(Ao Vivo\)](https://open.spotify.com/album/0rMJJQt8mKcMBG27q52zap) | 3:22 | 2022-11-30 | 2023-02-05 |
+| [Brisa da Varanda \- Ao Vivo](https://open.spotify.com/track/6YgxiEQIs427RiibKBWYDn) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Pagode do Doce \(Ao Vivo\)](https://open.spotify.com/album/2R4fSVaoh4dLRtyojRqrKH) | 3:22 | 2022-11-30 |  |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-05-30 | 2022-11-30 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-05-30 | 2022-11-30 |
 | [Cansei / Sem Perceber \- Ao Vivo](https://open.spotify.com/track/0axHDzbklfW6jyRwOpI5WZ) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Retomada \(Ao Vivo\)](https://open.spotify.com/album/18gDxwSWm2QQHnrfYkyCNd) | 4:21 | 2022-11-30 |  |

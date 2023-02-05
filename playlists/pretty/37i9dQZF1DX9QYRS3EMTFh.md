@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Rachelle Allison
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,348 likes - 40 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,438 likes - 40 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Too Hot](https://open.spotify.com/track/5YIvwu6p04xoP8MM1jUxCq) | [Rachelle Allisson](https://open.spotify.com/artist/7hLjSKfCy23Nt0dUpIwklR) | [Too Hot](https://open.spotify.com/album/0h56vBwhxwsXIYJ7zefydW) | 2:00 |
+| 1 | [Too Hot](https://open.spotify.com/track/5YIvwu6p04xoP8MM1jUxCq) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Too Hot](https://open.spotify.com/album/0h56vBwhxwsXIYJ7zefydW) | 2:00 |
 | 2 | [Ek c tou](https://open.spotify.com/track/6Ufsa246KudOlxKXRM2PgG) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Ek c tou](https://open.spotify.com/album/5lT2p0esBtqL6rtKnsg6uC) | 2:14 |
 | 3 | [U'r Bad](https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Dopeman](https://open.spotify.com/artist/3uPMES49lCQUHHnCaWaeLr) | [U'r Bad](https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX) | 2:26 |
 | 4 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |

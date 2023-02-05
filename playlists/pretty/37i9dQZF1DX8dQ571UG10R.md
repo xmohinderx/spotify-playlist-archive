@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,522 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,562 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/6xcQRc6H2UdTX425C2YzNY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/0epgFUtxp0mQwVWiGHbqzE) | 9:21 |
 | 2 | [Vibe Zabuza](https://open.spotify.com/track/3HWBHERbMiilhipGquIuuE) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Vibe Zabuza](https://open.spotify.com/album/45rh16gGALDIn93TdurKkg) | 3:35 |
 | 3 | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/track/1AiQsM4HVi0A3xxrXKvdxu) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/album/51waJCCTeUhh893IsA9AeS) | 3:12 |
-| 4 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/3j4bPNymMeOJOw0WXhc9FU) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/3VeyxUS5BOFLenyKbNsscq) | 2:31 |
+| 4 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 |
 | 5 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 |
 | 6 | [Tripulação](https://open.spotify.com/track/2N9AvwuptNKvpF1BM5vl7E) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Tripulação](https://open.spotify.com/album/5czSNphndXvBgjXWz102vt) | 2:29 |
 | 7 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 48 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 |
 | 49 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMGQ2Njk5YmY2M2E2YjAzYmM0YWE0YzA1YmM0YTdiODdj`
+Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMDk3NWYwZjZkNjgwZmZjNjRiYjZjMTAzZWE3MzgyMTQ4`

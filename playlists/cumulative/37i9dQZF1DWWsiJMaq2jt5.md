@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Pola Rise
 
-806 songs - 1 day 20 hr 0 min
+807 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Louboutin](https://open.spotify.com/track/058aGoxR9dScBBx59BOqA9) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [DZIARMA \(DELUXE\)](https://open.spotify.com/album/1fPxT4KxJeVlaJE58FslN8) | 2:54 | 2022-11-30 | 2023-01-04 |
 | [Louboutin](https://open.spotify.com/track/0JNyBvVyQ5awHtRLsiKrKL) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [DZIARMA](https://open.spotify.com/album/3M2jL4tMc6m3aIFYm7MpAk) | 2:54 | 2022-01-04 | 2022-02-02 |
 | [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2022-11-08 | 2022-12-01 |
-| [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 | 2023-01-31 |  |
+| [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 | 2023-01-31 | 2023-02-05 |
+| [Lucynda](https://open.spotify.com/track/6NWcMpCZHt8V6du2R8GvT7) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/71pjaDh4yFeUdRkqs3N5Gs) | 4:07 | 2023-01-31 |  |
 | [Lupa \- Radio Edit](https://open.spotify.com/track/3IhpqFFkTUMvss4HMbKEud) | [Sabina Szewczyk](https://open.spotify.com/artist/1Ofkj69uBttIicwL9skzh6) | [Lupa](https://open.spotify.com/album/4445PdIJTXtP9mytmK75hG) | 3:09 | 2022-03-07 | 2022-04-06 |
 | [Lustro](https://open.spotify.com/track/7BhSVPtItIjLFbN6I5Yn9u) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4) | [Weda](https://open.spotify.com/album/5sTIxSkQ7Ukr80g5Er0Ytn) | 4:30 | 2023-01-31 |  |
 | [Lustro \- Live](https://open.spotify.com/track/3vU4phpSikEmkaiRuBXLDq) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Lustro](https://open.spotify.com/album/5WSRBwMKXBNvUtritzYQJw) | 3:14 | 2022-05-31 | 2022-07-06 |

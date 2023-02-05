@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 225899,
+  "num_followers": 226030,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwMzI5NywwMDAwMDAwMDUxZDUxNmRhM2NiMzBhMDQ2ODAzODI4Y2U1OGE2NmNl",
+  "snapshot_id": "MTY3NTEwMzI5NywwMDAwMDAwMDE1YWYyMjI5MjEyNzM4YmRlOWQ3YjRhNTk4MGFiZTMw",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs"
     },
     {
-      "added_at": "2023-02-04 00:42:51",
+      "added_at": "2023-02-05 00:17:49",
       "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Charlie Rich - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 162866,
       "name": "The Most Beautiful Girl",
       "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2022-07-25 21:35:55",

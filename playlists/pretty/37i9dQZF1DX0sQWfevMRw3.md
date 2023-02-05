@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Trodde aldrig jag skulle gilla EPA RAPAPAPA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,990 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,169 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 18 | [KONSEKVENSER](https://open.spotify.com/track/1yetXqjXAkCJhledKsx2mw) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8) | [KONSEKVENSER](https://open.spotify.com/album/7efRAMIPMYiA0nDkxT862U) | 2:26 |
 | 19 | [BANKA BANKA](https://open.spotify.com/track/48ThTgiCCug6yQK6XGtmsH) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [BANKA BANKA](https://open.spotify.com/album/6QPjeFce4XLkTHevZWdpXe) | 2:33 |
 | 20 | [CLARK](https://open.spotify.com/track/5dfzFa1ui1uHqhdcFbs3C2) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO) | [CLARK](https://open.spotify.com/album/4PBYJLf23LYzOngK3o87Z2) | 2:15 |
-| 21 | [Bonka Bäver \- Remix](https://open.spotify.com/track/5bQZn1LAtvDfImjJYOJliv) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [Bonka Bäver \(Remix\)](https://open.spotify.com/album/2RHlAbvOgFEhKb6G3znhni) | 2:33 |
+| 21 | [Bonka Bäver \- Remix](https://open.spotify.com/track/5bQZn1LAtvDfImjJYOJliv) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Bonka Bäver \(Remix\)](https://open.spotify.com/album/2RHlAbvOgFEhKb6G3znhni) | 2:33 |
 | 22 | [JAG SKA BLI KVINNA INATT](https://open.spotify.com/track/1lY3xfkgoGdtQsaKGkumtJ) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [JAG SKA BLI KVINNA INATT](https://open.spotify.com/album/4jBEyzFY3PxYTqq9fAS3ZB) | 2:13 |
 | 23 | [99 FLASKOR SPRIT](https://open.spotify.com/track/0UtSMvMsg5RXuJ98VLyinR) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [99 FLASKOR SPRIT](https://open.spotify.com/album/3kRZ4ywZCJDIfFHkiDoumP) | 2:18 |
 | 24 | [SPELAR LITE DOTA](https://open.spotify.com/track/2iZ0lth0LzIqzwre0SzQUW) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [SPELAR LITE DOTA](https://open.spotify.com/album/0uQTp2MfSKiAXiFv9LwAXD) | 2:10 |

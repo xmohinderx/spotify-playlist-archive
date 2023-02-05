@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 192715,
       "name": "Lost in Thought",
       "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
@@ -4406,6 +4406,24 @@
       "duration_ms": 401560,
       "name": "Next Stop",
       "url": "https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV"
+    },
+    {
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/1jxTVeRziaAzk8drcOh3II"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5NR9iphghcSLdLdLTNFsm5"
     },
     {
       "album": {
@@ -5796,6 +5814,28 @@
     {
       "album": {
         "name": "Spectre (Theo Kottis Remix)",
+        "url": "https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290652,
+      "name": "Spectre - Theo Kottis Remix",
+      "url": "https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg"
+    },
+    {
+      "album": {
+        "name": "Spectre (Theo Kottis Remix)",
         "url": "https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb"
       },
       "artists": [
@@ -7174,7 +7214,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 434346,
       "name": "Welcome To My World",
       "url": "https://open.spotify.com/track/4yALLcuMLrfslEuqbq6BPn"

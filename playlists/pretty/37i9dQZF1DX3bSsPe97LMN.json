@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 48353,
+  "num_followers": 48433,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGE3ZWU1MDRhMThiMzgwYTRlMjgyMjkzNTYyZmRlYTMy",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDk0NTE3MmI5YTA4NmJlOTJlNWQ1YjBmODc2ZTE0YjMy",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Yo Soy El Pirata",
         "url": "https://open.spotify.com/album/1sSKz7PYco6qblWi8cIZoM"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 168670,
       "name": "Yo Soy El Pirata",
       "url": "https://open.spotify.com/track/6syuatoW05nFiHFcT0uoKJ"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Gente Del Nini",
-        "url": "https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R"
-      },
-      "artists": [
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "Gente Del Nini",
-      "url": "https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Corridos 602",
@@ -399,6 +383,22 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Gente Del Nini",
+        "url": "https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "Gente Del Nini",
+      "url": "https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "El Coquito",
+        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "El Coquito",
+      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Manzana en el Mapa",
@@ -883,22 +899,6 @@
       "duration_ms": 197653,
       "name": "2A",
       "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "El Coquito",
-        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
-      },
-      "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "El Coquito",
-      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -981,6 +981,26 @@
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "De La Nada",
+        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Hd_offisial",
+          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
+        }
+      ],
+      "duration_ms": 264003,
+      "name": "De La Nada",
+      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
+    },
+    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "El Beso De Judas",
@@ -1035,26 +1055,6 @@
       "duration_ms": 200187,
       "name": "Sigo De Pie (En Vivo)",
       "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "De La Nada",
-        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        },
-        {
-          "name": "Hd_offisial",
-          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
-        }
-      ],
-      "duration_ms": 264003,
-      "name": "De La Nada",
-      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "duration_ms": 201848,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
+    },
+    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Somos de la Mayiza (El Checo)",
@@ -1171,22 +1187,6 @@
       "duration_ms": 194403,
       "name": "Casa en Llamas",
       "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        }
-      ],
-      "duration_ms": 201848,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -1269,24 +1269,24 @@
       "url": "https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Ven Conmigo",
-        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
+        "name": "Bajo la Lluv\u00eda",
+        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
         },
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Cuadra FL",
+          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+      "duration_ms": 154017,
+      "name": "Bajo la Lluv\u00eda",
+      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

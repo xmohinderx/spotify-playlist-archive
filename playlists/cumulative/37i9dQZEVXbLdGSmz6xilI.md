@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-659 songs - 1 day 14 hr 56 min
+660 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-17 | 2022-08-04 |
 | [Anh Chua Thuong Em Den Vay Dau](https://open.spotify.com/track/78mj7RcaCM5lnectJluav8) | [Inkle](https://open.spotify.com/artist/77G2RfyKEaiPfCIoBnceND) | [Anh Chua Thuong Em Den Vay Dau](https://open.spotify.com/album/35ptNNjMlGUKC2g1rj1UFQ) | 4:27 | 2022-11-29 | 2022-12-02 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-12 |  |
-| [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 |  |
+| [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 | 2023-02-05 |
 | [Anh Tự Do Nhưng Cô Đơn](https://open.spotify.com/track/5NxZpeMGUQ5T5At5xZM5Hf) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Anh Tự Do Nhưng Cô Đơn](https://open.spotify.com/album/3bvrwbi7mFIqOa8XvYTA2L) | 5:15 | 2022-11-12 | 2022-11-18 |
 | [Anh đánh rơi người yêu](https://open.spotify.com/track/074ZzFyAvexkC3IWB2E6kK) | [Trần Quang Ngọc](https://open.spotify.com/artist/7z7klQ25fMHE7bzum1FUj6) | [Tha Thứ](https://open.spotify.com/album/78lyVQwepXvsjb4ZDzwkAc) | 3:27 | 2022-12-02 | 2022-12-06 |
 | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/0Nz6SyAceTkTy4lCDgqFJ7) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/5uucqP2OHCCloq5bf9AiAG) | 3:37 | 2022-11-19 |  |
@@ -118,6 +118,7 @@
 | [Chúng Ta Của Hiện Tại](https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Chúng Ta Của Hiện Tại](https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa) | 5:01 | 2021-03-27\* |  |
 | [Chúng Ta Sau Này](https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/7xWIiLIMicso31AA6umVjI) | 3:31 | 2021-03-27\* | 2021-07-11 |
 | [Chơi Vơi](https://open.spotify.com/track/5BL9QQTJNIuME3RE9Tgv3W) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Chơi Vơi](https://open.spotify.com/album/3KgYdMSQ3nmsub26Tw28s9) | 4:38 | 2022-04-21 | 2022-05-25 |
+| [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3hxfMsWQOcS2o68G62SpuU) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4bs6KH6sFnt1Y08VtKBB0q) | 5:02 | 2023-02-04 |  |
 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-02 |  |
 | [Chạy Về Khóc Với Anh](https://open.spotify.com/track/7hzVxbVA6Y5t9YDzpSgdRS) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Chạy Về Khóc Với Anh](https://open.spotify.com/album/7JOa0R0TMdg40E6s7gtlx4) | 3:43 | 2022-02-06 | 2022-03-26 |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-27 | 2022-09-11 |

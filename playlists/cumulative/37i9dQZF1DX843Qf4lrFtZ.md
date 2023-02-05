@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,247 songs - 2 day 15 hr 47 min
+1,248 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Anything](https://open.spotify.com/track/23vmDN34TErDZd2bHzsGKO) | [Frank Pole](https://open.spotify.com/artist/7LMar0WAyjuaMlYUGh9HBb), [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Anything](https://open.spotify.com/album/3V9l8CcXuHMDCr5iTgmAJc) | 3:41 | 2019-07-30 | 2019-11-09 |
 | [Anywhere](https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Anywhere](https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G) | 3:35 | 2019-07-29\* | 2022-04-07 |
 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 | 2019-08-01 | 2022-04-20 |
-| [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-07 |  |
+| [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-07 | 2023-02-05 |
 | [Are You Lonely \(feat\. ISÁK\)](https://open.spotify.com/track/52EB2Gk1nkxZmbomJOXUde) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Are You Lonely \(feat\. ISÁK\)](https://open.spotify.com/album/7kfaArlpn1f192XMoWQs5U) | 2:37 | 2019-07-29\* | 2022-04-17 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:54 | 2021-03-30 | 2022-07-24 |
 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 | 2020-09-11 | 2022-04-21 |
@@ -194,6 +194,7 @@
 | [Can't Help Myself \(feat\. Mugisho and Julie Bergan\)](https://open.spotify.com/track/5lOJK1YNHSRMsy7LX6lkg3) | [Clairmont](https://open.spotify.com/artist/652eUkxKIP934rtatRgJWq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Can\`t Help Myself \(feat\. Mugisho and Julie Bergan\)](https://open.spotify.com/album/002lWL9ARBSleGNOgD1kyd) | 3:24 | 2019-07-30 | 2019-08-10 |
 | [Can't Let You Go](https://open.spotify.com/track/7uYCHSy8JLsMKwwuoYAZFM) | [Josef Bamba](https://open.spotify.com/artist/1QNQUlR0uLW0ovRuVRjYir) | [Can't Let You Go](https://open.spotify.com/album/18ZuivSfD0ZhpMZfWJAQvB) | 2:51 | 2019-07-30 | 2020-01-02 |
 | [Can't Say No \(feat\. PJZ\)](https://open.spotify.com/track/5CQ6McE86ztNSOhQwRwgSf) | [Alex Mattson](https://open.spotify.com/artist/1AqQ7buD0q6SRbQtYQUnou), [PJZ](https://open.spotify.com/artist/52BfgFx0alUVa4yKyCrcPz) | [Can't Say No \(feat\. PJZ\)](https://open.spotify.com/album/1sddQ5bzBhPAISVWJoxa9t) | 2:39 | 2019-07-29\* | 2020-01-03 |
+| [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-02 |  |
 | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 | 2021-03-08 | 2022-06-13 |
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2019-07-30 | 2021-03-22 |
 | [Caught Up](https://open.spotify.com/track/5HVHKlGGtm0jBlf44ED4qc) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Un\-Ti](https://open.spotify.com/artist/76hAxBrc3yYu8OgifcZr2U) | [Caught Up](https://open.spotify.com/album/4NybS0Zz7PCyqSTQZAGYiZ) | 3:28 | 2019-08-01 | 2022-04-18 |

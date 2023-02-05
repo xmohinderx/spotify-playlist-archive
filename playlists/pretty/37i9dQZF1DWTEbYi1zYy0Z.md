@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Lin Rountree
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,709 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,763 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 6 | [The One \- Vocal](https://open.spotify.com/track/2BthCO2NWEyStwmCcQANRe) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [The One](https://open.spotify.com/album/16M4hOJYp2hXZcRYMjh06F) | 4:31 |
 | 7 | [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 |
 | 8 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 |
-| 9 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 |
+| 9 | [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 |
 | 10 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 |
-| 11 | [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 |
+| 11 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 |
 | 12 | [Lavish](https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab), [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Lavish](https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p) | 4:17 |
 | 13 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 |
 | 14 | [After Party](https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After Party](https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4) | 3:50 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 39 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 |
 | 40 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 |
 | 41 | [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 |
-| 42 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 |
-| 43 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
-| 44 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 |
+| 42 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 |
+| 43 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 |
+| 44 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
 | 45 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
 | 46 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
 | 47 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 49 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
 | 50 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDEwYjIzNWEwMmZhODFiNWMxZTlkNDU3ZTJkZDVhMjZj`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGRiN2NiZDgwMjE3NGIxMmRjYjljMGU4MDcyOTBlMjAx`

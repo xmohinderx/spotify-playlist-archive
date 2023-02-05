@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187752,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/0CyPMRxLuoteZTXuILKB1K"
+    },
+    {
+      "album": {
         "name": "Idegen, Vol. 1.",
         "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 187752,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
@@ -3772,10 +3790,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 166588,
       "name": "Fiatal \u00e9s \u0151r\u00fclt",
       "url": "https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "M Ricch",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Fiatal \u00e9s \u0151r\u00fclt",
+      "url": "https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc"
     },
     {
       "album": {
@@ -7947,6 +7987,32 @@
     },
     {
       "album": {
+        "name": "KDT",
+        "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
+      },
+      "artists": [
+        {
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        },
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Csoky",
+          "url": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201615,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/79Uwyvh1h5GylxBJMkCLiT"
+    },
+    {
+      "album": {
         "name": "Mostant\u00f3l",
         "url": "https://open.spotify.com/album/5wQ2aCu6uJZBCk2Lgz1bOH"
       },
@@ -9376,10 +9442,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 218461,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/0fC7eoQAIEkB72YBKjfn8N"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/0gW2MaJU6dWtgrrlFzwbE5"
     },
     {
       "album": {
@@ -9941,6 +10025,36 @@
     },
     {
       "album": {
+        "name": "KDT",
+        "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
+      },
+      "artists": [
+        {
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        },
+        {
+          "name": "Csoky",
+          "url": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224697,
+      "name": "Rizik\u00f3",
+      "url": "https://open.spotify.com/track/6WBuRbov384zl6wPJ49piD"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -10319,6 +10433,24 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152817,
+      "name": "Sajn\u00e1lom",
+      "url": "https://open.spotify.com/track/2reQMkt56XBVbYl91tX5C8"
+    },
+    {
+      "album": {
         "name": "Idegen, Vol. 1.",
         "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
       },
@@ -10330,7 +10462,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 152817,
       "name": "Sajn\u00e1lom",
       "url": "https://open.spotify.com/track/5FPk6JYK0tYzEWtqYgUvrA"
@@ -10920,6 +11052,28 @@
       "duration_ms": 204114,
       "name": "spir\u00e1l",
       "url": "https://open.spotify.com/track/2lnmvnD0OW8ToJeddFWKzH"
+    },
+    {
+      "album": {
+        "name": "KDT",
+        "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
+      },
+      "artists": [
+        {
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        },
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6eWNILfVrywm07o6w5hQFK"
     },
     {
       "album": {
@@ -11538,10 +11692,32 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 160000,
       "name": "Tenger",
       "url": "https://open.spotify.com/track/1o1jU5NJW5lTAllW6udk6Y"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/0d76eNZLxcMQiFIhdNKFnA"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216258,
+      "name": "Terapeuta",
+      "url": "https://open.spotify.com/track/3U9lp5RVHWCJRxUOzlPQnw"
     },
     {
       "album": {
@@ -11560,7 +11736,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 216258,
       "name": "Terapeuta",
       "url": "https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC"
@@ -13161,6 +13337,24 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191411,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/2lF99ylSPEk3yIkzudtwWQ"
+    },
+    {
+      "album": {
         "name": "Zombi",
         "url": "https://open.spotify.com/album/7Lv9fN83OQiv7Zyb77x6wk"
       },
@@ -13172,7 +13366,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 191411,
       "name": "Zombi",
       "url": "https://open.spotify.com/track/5WthbIy7Qp7HmGYGRCZ43z"
@@ -13194,10 +13388,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 193251,
       "name": "Zombi - Pt.2",
       "url": "https://open.spotify.com/track/40CEufN1AE9J2sb6fH5HPO"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Darius King",
+          "url": "https://open.spotify.com/artist/6tX86ql40AoZSYDv3Bx7Vr"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193251,
+      "name": "Zombi - Pt.2",
+      "url": "https://open.spotify.com/track/6s96kqADsufv7bcoWOCxts"
     },
     {
       "album": {

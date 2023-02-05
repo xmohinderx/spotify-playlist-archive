@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 244281,
+  "num_followers": 244444,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMGQxODM1NzQ3ODRjMzY3M2MzMmJlNTAwY2ZkMzI3YzI3",
+  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMDY3MzNjZTA5OGE2NTdiY2ZlYzkyYWEwYzc5ZDFiMTk4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:05:31",
@@ -879,18 +879,22 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Corazones",
-        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 383573,
-      "name": "Estrechez De Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
+      "duration_ms": 210653,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -911,22 +915,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+        "name": "Corazones",
+        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 210653,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
+      "duration_ms": 383573,
+      "name": "Estrechez De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Originales",
-        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 269613,
       "name": "C\u00f3mo Te Deseo",
       "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Hispanic Causing Panic",
         "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209066,
       "name": "La Raza",
       "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
     },
     {
       "added_at": "2022-08-31 07:05:31",

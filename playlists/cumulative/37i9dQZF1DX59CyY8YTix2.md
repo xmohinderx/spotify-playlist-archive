@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: Chilli Beans.
 
-771 songs - 2 day 1 hr 24 min
+774 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,8 @@
 | [トキメキ](https://open.spotify.com/track/77qw8jtFOuBGF27B9sD4sA) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5DYGmpzZJvoeOWPh23LQtX) | 1:48 | 2022-06-07 | 2022-06-15 |
 | [トマトマシュマロメロン](https://open.spotify.com/track/41xEkGIUlL3AKG46RcrWAZ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [トマトマシュマロメロン](https://open.spotify.com/album/6kOBIm3AWRRcIhKBHqdk7h) | 2:27 | 2022-06-23 | 2022-06-25 |
 | [トランスファー](https://open.spotify.com/track/3Yv2jXpOPgZdZPgnOVK0oI) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [いつかの海](https://open.spotify.com/album/2hWKbb8Vy5CUzu1IzvgRrZ) | 4:08 | 2022-06-07 | 2022-06-15 |
-| [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 |  |
+| [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
+| [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 |  |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
 | [ナリ](https://open.spotify.com/track/2iYVaNmdk2ILYqQMhFG6VH) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ナリ](https://open.spotify.com/album/3Hz8WKenuIV2aXz1AFCaES) | 3:57 | 2022-11-24 | 2022-12-02 |
 | [ニャロメ!](https://open.spotify.com/track/2BcDomfKRKB7ykMMLTiSlw) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ニャロメ!](https://open.spotify.com/album/05WpStScuVguyaSn4AGHhn) | 5:08 | 2022-06-16 | 2022-07-21 |
@@ -514,7 +515,8 @@
 | [ピアノのうた](https://open.spotify.com/track/0QBx28zQX1NRLsLxsBfJPD) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ピアノのうた](https://open.spotify.com/album/0m7aYfaDainyoMeDaLbU68) | 4:06 | 2022-05-31 | 2022-06-02 |
 | [ピンク](https://open.spotify.com/track/1lTej2b4mzVZkG81cC1Mzs) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ピンク](https://open.spotify.com/album/46de2vcPtnxqfBWEElHetD) | 4:29 | 2022-08-25 | 2022-09-07 |
 | [ピース](https://open.spotify.com/track/3ZRYzEAL4phP3r8GwhnA18) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [ピース](https://open.spotify.com/album/0BEchiPUGerIku6wn9b2Je) | 3:18 | 2022-05-26 | 2022-07-24 |
-| [フェイバリットボーイ](https://open.spotify.com/track/0phleiL5NgESnjM2Ch0frb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 4:27 | 2023-02-03 |  |
+| [フェイバリットボーイ](https://open.spotify.com/track/0phleiL5NgESnjM2Ch0frb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 4:27 | 2023-02-03 | 2023-02-05 |
+| [フェイバリットボーイ](https://open.spotify.com/track/4S5zxn5xMQsNjnDNLGIWuD) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:29 | 2023-02-03 |  |
 | [フランボワーズ・パルフェのために \- For Tracy Hyde ver.](https://open.spotify.com/track/4l262bR6NZZNI85OoL2sBL) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7dYn1Qg44ssT772rhVjlKz) | 3:31 | 2022-06-14 | 2022-06-29 |
 | [フランボワーズ・パルフェのために \- RAY ver.](https://open.spotify.com/track/02Tws9cin3ysmqFNzERZvQ) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy), [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7coHxqWdl3yZsAwxWworPL) | 3:31 | 2022-06-30 | 2022-07-02 |
 | [ブーツを鳴らして](https://open.spotify.com/track/4W2KhLs5rhIbo73x1hw48L) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ブーツを鳴らして \- EP](https://open.spotify.com/album/7jdLRIgpAKYnDJjuR6vkFX) | 5:57 | 2022-05-26 | 2022-07-11 |
@@ -593,8 +595,9 @@
 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 | 2022-06-23 | 2022-12-14 |
 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 | 2022-08-20 |
 | [君が好き](https://open.spotify.com/track/5ayV49fExKlGllY8oyebHI) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [君が好き](https://open.spotify.com/album/1ilZXqYgWvF23c13eWO39D) | 3:37 | 2022-06-23 | 2022-07-03 |
-| [君と夏フェス](https://open.spotify.com/track/74zARC4MuJSrlq0QaaE13j) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 2](https://open.spotify.com/album/5IrLSSicyUJipJvCfOAfwb) | 3:44 | 2023-02-03 |  |
+| [君と夏フェス](https://open.spotify.com/track/74zARC4MuJSrlq0QaaE13j) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 2](https://open.spotify.com/album/5IrLSSicyUJipJvCfOAfwb) | 3:44 | 2023-02-03 | 2023-02-05 |
 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 | 2022-07-28 | 2022-12-08 |
+| [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 | 2023-02-03 |  |
 | [君のこゝろ](https://open.spotify.com/track/4z9eQafGoStgUATU9b7KNO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:13 | 2022-08-18 | 2022-08-20 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-07 | 2022-07-24 |
 | [吸って、吐いて](https://open.spotify.com/track/1jDkBxbUhmgQ0MJ8N2Sjcy) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [後日改めて伺います](https://open.spotify.com/album/5j9v6cG9gytC1hmNj0Zmmb) | 3:44 | 2022-06-16 | 2022-07-16 |

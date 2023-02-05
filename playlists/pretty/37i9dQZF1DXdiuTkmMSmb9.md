@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Craig Isto
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,629 likes - 73 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,667 likes - 73 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 56 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 |
 | 57 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 58 | [My Lil Dancer](https://open.spotify.com/track/4eKr7ZffDd4SigyNaKCkr3) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [My Lil Dancer](https://open.spotify.com/album/2R92f2ua8bB6XZ81BoUZX0) | 2:25 |
-| 59 | [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 |
+| 59 | [Be Mine](https://open.spotify.com/track/3HJ7QmjAgQPrQMfLBcZSCV) | [Byg Boy Jay](https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6TzSnNdrCirsilJc476YHs) | 3:45 |
 | 60 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 |
 | 61 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 |
 | 62 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 72 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 |
 | 73 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
 
-Snapshot ID: `MTY3NTM0ODg3NywwMDAwMDAwMDQ3NGEzMjBjZDc5OGQ0MGU5ZTYzNjczMzMzMDZmMWRj`
+Snapshot ID: `MTY3NTM0ODg3NywwMDAwMDAwMDExYWVkZWNhMDMwMjQyZGJkZGQ3MThhN2YzOTZlZjg2`

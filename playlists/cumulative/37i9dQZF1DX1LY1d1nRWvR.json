@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
+    },
+    {
+      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-05",
       "duration_ms": 222148,
       "name": "The Sun Is Warm and Directly Above You",
       "url": "https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt"

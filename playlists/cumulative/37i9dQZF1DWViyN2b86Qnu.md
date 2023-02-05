@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-197 songs - 11 hr 2 min
+198 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 | 2022-07-14 |  |
 | [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 | 2021-10-05 | 2022-12-01 |
 | [Supertouch](https://open.spotify.com/track/5Qn5hlzIjTynSHxDoKRTr9) | [Simona Castricum](https://open.spotify.com/artist/0eNPmXReFLJMJVh1sJ1SIv), [m8riarchy](https://open.spotify.com/artist/1SyZcNNzVu8d0K0Rmesfbt) | [Panic/Desire](https://open.spotify.com/album/4l7EVZQhkTe3sIXyTPh3mE) | 6:08 | 2023-01-23 |  |
-| [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 | 2021-10-05 |  |
+| [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 | 2023-01-23 |  |
+| [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 | 2021-10-05 | 2023-02-05 |
 | [That's My Sis](https://open.spotify.com/track/2XIeW9O9rwtgNgQ3IpQ3dF) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [That's My Sis](https://open.spotify.com/album/51YpXABPAuZmlcOViZkLLP) | 2:58 | 2021-10-05 | 2022-03-09 |
 | [The Art Of Starting Over](https://open.spotify.com/track/0Xnczz6WOco9RiC6NyPsat) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 2:47 | 2022-02-20 | 2023-01-24 |
 | [The Future is Female](https://open.spotify.com/track/4QRqYAX5SP1DmXESnxanmr) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Voices](https://open.spotify.com/album/5l9seKsDpX6RCaJrPDTfKF) | 3:55 | 2021-10-05 | 2022-02-21 |

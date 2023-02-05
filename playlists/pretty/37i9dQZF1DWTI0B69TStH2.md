@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: świtała \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,688 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,694 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 55 | [Ivory](https://open.spotify.com/track/70CfDK40V17Nm0tG71G3wZ) | [Rose White](https://open.spotify.com/artist/2w8BGfmXyEmnOpDopRVx56) | [Ivory](https://open.spotify.com/album/1ysv3cnXZ3ErSrkkyriyQR) | 3:18 |
 | 56 | [Nie widzę cię](https://open.spotify.com/track/2s0FpXSlR09KUGES51whRg) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Nie widzę cię](https://open.spotify.com/album/6EsyD4IJwAOWVVeodFoyeN) | 4:02 |
 | 57 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
-| 58 | [Lucynda](https://open.spotify.com/track/3xAw3gCAZxISYNfNXQ5ELF) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/50mJ9vXCzHU2mjs0KyM3fC) | 4:07 |
+| 58 | [Lucynda](https://open.spotify.com/track/6NWcMpCZHt8V6du2R8GvT7) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Lucynda](https://open.spotify.com/album/71pjaDh4yFeUdRkqs3N5Gs) | 4:07 |
 | 59 | [Drogowskazy](https://open.spotify.com/track/7J5PTOZCip4HiWap2LlpiO) | [Michał Madajczyk](https://open.spotify.com/artist/4Spwq9te7qI9GvQhHXWfLX) | [Drogowskazy](https://open.spotify.com/album/5qkxooeuMY3oZWxQGcBekE) | 4:00 |
 | 60 | [Dust](https://open.spotify.com/track/1JYyS6GE6oYYX7ZvXqLW6d) | [Poem Below](https://open.spotify.com/artist/6F1K0b8myaqixi1AzPXwKH) | [Dust](https://open.spotify.com/album/7CEmILfudjMN1DFJdG93ZU) | 3:37 |
 | 61 | [Na Marginesie](https://open.spotify.com/track/3GJ6svAaWk3WYoXxxofmxR) | [ARKADIUSZ](https://open.spotify.com/artist/6c4ks4YTQfYc0J3vHsl7kK) | [Na Marginesie](https://open.spotify.com/album/3pE8rPvdc78HgJE7OPzjxB) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [All About It](https://open.spotify.com/track/1vWHLyDySd9R2Vi9MAnT4D) | [Black Radio](https://open.spotify.com/artist/6yFzr6tJ20oC1CTt0MLgmw) | [All About It](https://open.spotify.com/album/62C2i60VjjASVPMVsZV7xn) | 3:01 |
 | 100 | [warszawa](https://open.spotify.com/track/4cpo5G97NWQBeNbuNz1OAd) | [chcebycnext](https://open.spotify.com/artist/0v8CZqjIdNOiNrRiGsrDTN), [Haranczykov](https://open.spotify.com/artist/5oshgoJcu9dGw7fvZtQGvx) | [warszawa](https://open.spotify.com/album/5ukMQ3S4UtdtBoh7FCeQs2) | 2:14 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMGM4NDkwZGIwYWYzZGE1MjYwMTkxZjQ5MjY5NDhkMmVj`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDQwZjQzYTkwMTRiZTRlMGNhODQ3M2M0ODJjOGNhNTE3`
