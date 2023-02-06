@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-467 songs - 1 day 2 hr 52 min
+468 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ay tentación](https://open.spotify.com/track/36aqyvgi0LDv23pZNYTbFH) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [ay tentación](https://open.spotify.com/album/4WClPjVnjq3q5FwHpX8cg9) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2022-01-14 |  |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-07-15 | 2022-07-28 |
+| [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 | 2023-02-03 |  |
 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2022-01-21 | 2023-01-14 |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 | 2022-11-28 |  |
@@ -90,7 +91,7 @@
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-18 | 2022-07-29 |
 | [Como Yo Quiero](https://open.spotify.com/track/6QcbtHMt6gDQ79Muv0AZoH) | [Fernanda Aleman](https://open.spotify.com/artist/7j59f8sBApT07ZgGuKgoDK) | [Nogoya](https://open.spotify.com/album/4fhYwvAoULyvveXGG9Kgu7) | 2:54 | 2022-04-01 | 2022-04-17 |
 | [Con el Frío](https://open.spotify.com/track/7dGaRZLn6uA5rfkGvYslkp) | [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Con el Frío](https://open.spotify.com/album/3sSlDs0fAjhBXTBFSpNzRD) | 3:43 | 2022-01-21 | 2022-06-02 |
-| [Contenida](https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:31 | 2022-10-14 |  |
+| [Contenida](https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:31 | 2022-10-14 | 2023-02-06 |
 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 | 2022-01-14 | 2022-07-29 |
 | [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-01-21 | 2022-07-29 |
 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 | 2022-01-14 | 2022-07-29 |

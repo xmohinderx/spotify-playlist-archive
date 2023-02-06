@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 157008,
+  "num_followers": 157492,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMGY4OWI4ZTg1OTJiYWM0YTA5ZDkwZDkyNWFiZDc5N2Ez",
+  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMGVlOTRmYWNmOTFmMjQwOGU5YWIxNzJiM2Q3MjRhNGI4",
   "tracks": [
     {
       "added_at": "2023-01-20 02:08:11",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
-      "added_at": "2023-02-05 00:26:23",
+      "added_at": "2023-02-06 00:34:26",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Una Raya M\u00e1s al Tigre",
-        "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
-      },
-      "artists": [
-        {
-          "name": "Banda Elemental de Mazatl\u00e1n Sinaloa",
-          "url": "https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz"
-        },
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 139658,
-      "name": "Una Raya M\u00e1s al Tigre",
-      "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Una Raya M\u00e1s al Tigre",
+        "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
+      },
+      "artists": [
+        {
+          "name": "Banda Elemental de Mazatl\u00e1n Sinaloa",
+          "url": "https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz"
+        },
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 139658,
+      "name": "Una Raya M\u00e1s al Tigre",
+      "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Oficialmente en Solter\u00eda",
-        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Oficialmente en Solter\u00eda",
+        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Modo Crudo",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Simplemente Arrolladora",
         "url": "https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 207186,
       "name": "\u00bfQu\u00e9 Me Vas a Dar?",
       "url": "https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Modo Crudo",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 128513,
+      "name": "Modo Crudo",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+        "name": "M\u00e1s Caro, que ayer",
+        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 169080,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
+      "duration_ms": 147221,
+      "name": "M\u00e1s Caro, que ayer",
+      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "M\u00e1s Caro, que ayer",
-        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 147221,
-      "name": "M\u00e1s Caro, que ayer",
-      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
+      "duration_ms": 169080,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 192936,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Porque Te Quiero Amor",
         "url": "https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 186706,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 192936,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 217283,
-      "name": "As\u00ed Quer\u00eda Mirarte",
-      "url": "https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Lo Mejor De",
         "url": "https://open.spotify.com/album/7dMRW3tCBP6A2F9TXtQ6QZ"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 155240,
       "name": "Esa Fue Mi Novia",
       "url": "https://open.spotify.com/track/6SMRkZa63lLHNMkQTsvFuE"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 217283,
+      "name": "As\u00ed Quer\u00eda Mirarte",
+      "url": "https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Lloro? O No Lloro?",
-        "url": "https://open.spotify.com/album/5IO8CJjeiZswNZW1Zg7uMJ"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Lloro? O No Lloro?",
-      "url": "https://open.spotify.com/track/6rTKBvuGuq076GQfPIPb4B"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 1",
         "url": "https://open.spotify.com/album/5jEbFTiNlxGvfkGPTbCdKp"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 144914,
       "name": "Amor a la Ligera",
       "url": "https://open.spotify.com/track/5hBDLZtFCA0wQ4cdxQqdW0"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Lloro? O No Lloro?",
+        "url": "https://open.spotify.com/album/5IO8CJjeiZswNZW1Zg7uMJ"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Lloro? O No Lloro?",
+      "url": "https://open.spotify.com/track/6rTKBvuGuq076GQfPIPb4B"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "El Favorito",
-        "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 155760,
-      "name": "El Pisto Es Primero",
-      "url": "https://open.spotify.com/track/4u4ySbVVXWLIjjTS2XlDaM"
+      "duration_ms": 155100,
+      "name": "Una Pagina Mas",
+      "url": "https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY"
     }
   ],
   "unique_name": "Puras Pa' Pistear",

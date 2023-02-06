@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-350 songs - 17 hr 35 min
+351 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Rich And Famous](https://open.spotify.com/track/5J2iRyi0EpKwiU5NeQQRZ5) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Restoration: The Deluxe Album](https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP) | 3:25 | 2021-12-11 | 2022-11-19 |
 | [Right Out The Gate](https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:57 | 2022-03-19 | 2022-11-19 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 | 2022-11-18 |  |
-| [Run](https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX) | [Lyne Nsongo](https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA), [David Okit](https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ) | [Run](https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd) | 2:54 | 2022-11-18 |  |
+| [Run](https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX) | [Lyne Nsongo](https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA), [David Okit](https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ) | [Run](https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd) | 2:54 | 2022-11-18 | 2023-02-06 |
 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 | 2022-03-25 | 2022-04-21 |
 | [Scam Likely](https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Scam Likely](https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG) | 2:35 | 2021-12-11 | 2022-11-19 |
 | [Selfish](https://open.spotify.com/track/75tSIhIDbU67o6McDsnK9Q) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Selfish](https://open.spotify.com/album/3pVyRIZwegrjMwyEg8w85i) | 2:48 | 2021-12-11 | 2022-04-21 |
@@ -304,6 +304,7 @@
 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 | 2022-11-18 |  |
 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 | 2022-05-28 |  |
 | [Supernatural](https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Supernatural](https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD) | 2:19 | 2021-12-11 |  |
+| [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 | 2022-11-18 |  |
 | [Tell Me](https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Tell Me](https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV) | 3:08 | 2022-05-28 | 2022-07-28 |
 | [Terraform \(feat\. Brandi Price\)](https://open.spotify.com/track/6cZXAkMHY6HCYGQU3Uru9A) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj), [Brandi Price](https://open.spotify.com/artist/1PjOAwA4O7hnNutcGKrtgn) | [Terraform: The Sky](https://open.spotify.com/album/09lNRhUgiYaY45cRX2ah1f) | 4:58 | 2022-03-25 | 2022-11-19 |
 | [Tested](https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Tested](https://open.spotify.com/album/1chlteN1sQQVdWFHhRS7LY) | 2:08 | 2022-03-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,909 likes - 190 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,918 likes - 190 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 41 | [paris](https://open.spotify.com/track/70pmjmW5fmcKl2jA1JWHvj) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [paris](https://open.spotify.com/album/2WlvbIwWLEwkflo74OMKQS) | 2:15 |
 | 42 | [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 |
 | 43 | [Moonlight over Berlin](https://open.spotify.com/track/7xlsc2DKFeGVpX5j75IedC) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Moonlight over Berlin](https://open.spotify.com/album/3vWziBwLsv2STXfJR2wnnJ) | 2:25 |
-| 44 | [Seven Seas](https://open.spotify.com/track/58QEUVMhf4ngIuJbmect7Y) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/2QcGmtIa9PTcwai3NlSedF) | 2:27 |
+| 44 | [Seven Seas](https://open.spotify.com/track/2yHEcXbsG36FNM9QNtTsNg) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Dimensions](https://open.spotify.com/album/24G9m7O40uKE7GfZRm9Fs8) | 2:27 |
 | 45 | [Moonlight Sonata](https://open.spotify.com/track/4Rjyl9EtVoXTf5cXiBr2R3) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Moonlight Sonata](https://open.spotify.com/album/0fFzxBcaCHEXRa4BI07oCp) | 2:45 |
 | 46 | [Artifact](https://open.spotify.com/track/2vi4MXSr5taqNZEmpvA7w9) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Artifact](https://open.spotify.com/album/6sBfndQpBMuAJPiuMMiwxA) | 1:57 |
 | 47 | [natare](https://open.spotify.com/track/5aE1q3Rc1iiyqvUBSw1PVj) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [natare](https://open.spotify.com/album/2KSh91ai8GWpTqbqgMP2Lf) | 1:57 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 189 | [Once There](https://open.spotify.com/track/69PdAAgrIKX9wY7k35D23o) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Once There](https://open.spotify.com/album/6hYaa2cFCMKvv9pfeKNodV) | 2:18 |
 | 190 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDEzZDkwODRhODFkYTBkM2E1OTY4NmMxZWRjNTMwNWJh`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGQ4MWRmOWZlMjU3ODZhODk2ODkxMjc1YmUwNjU0NDFk`

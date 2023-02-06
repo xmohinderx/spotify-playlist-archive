@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Mario G klau
 
-163 songs - 10 hr 22 min
+164 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Retreat](https://open.spotify.com/track/7m1c0Scsxcqc1tV5gmkYyP) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Retreat](https://open.spotify.com/album/2XdkuBgdYMYlPau3nTMZsh) | 2:10 | 2022-12-21 | 2023-02-02 |
 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 | 2022-05-25 | 2022-09-16 |
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 | 2022-09-01 |
-| [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-10-05 |  |
+| [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-10-05 | 2023-02-06 |
+| [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-01 |  |
 | [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 | 2022-10-08 |
 | [Saat Kau Pergi](https://open.spotify.com/track/60KyqCqx207IWtHxLpMZdz) | [Harry](https://open.spotify.com/artist/42Fi9dpzwjgV0yKkJZdjiT) | [Saat Kau Pergi](https://open.spotify.com/album/4Sf3yMxm2adH49CffAi7tE) | 3:58 | 2022-09-15 | 2022-11-17 |
 | [Sahabat](https://open.spotify.com/track/3rjq1rRyoB9mlkiZaCjw5w) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Sahabat](https://open.spotify.com/album/3PbOq3PCQub4eGJ2f9z76L) | 4:05 | 2022-08-11 | 2022-09-29 |

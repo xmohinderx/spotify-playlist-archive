@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,228 likes - 79 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,326 likes - 79 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 32 | [Sudden Delight](https://open.spotify.com/track/1ZJ9SPq4dBCuUB00uaNFbK) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Rob Mass](https://open.spotify.com/artist/3wqcLspE9PxAA8xtNySShF) | [Soodhu Kavvum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NuVIoxqbLTkRhEFiJYMb4) | 2:37 |
 | 33 | [Seemaraja Swag](https://open.spotify.com/track/2aZrRfplV2lvKbhzuEyO3U) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Vignesh Narayanan](https://open.spotify.com/artist/1lSvO0nN0XCmQfOPhL3Oac), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Swetha Suresh](https://open.spotify.com/artist/44vvZVE1qBKy23InVwjnRL) | [Seemaraja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41iC61HwQAga6GAVvOtXAz) | 1:30 |
 | 34 | [S3 Vetta \(Theme Music\)](https://open.spotify.com/track/73DlBWrcBuetKprQ4bJ7wO) | [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [S3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2j52pF4Mlus8MEOxRHSrpY) | 1:32 |
-| 35 | [Maaran \- Motion Poster Theme](https://open.spotify.com/track/6Yx0t6gQsokYuTlrUXtoc2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Maaran \- Motion Poster Theme](https://open.spotify.com/album/2w7PzPw9uy7699CjWv2amy) | 1:03 |
-| 36 | [Michael Theme Song \(Tamil\)](https://open.spotify.com/track/3mQp0Zo0iSvfjXmaxXHOVp) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Michael \(Tamil\)](https://open.spotify.com/album/45ZKgYcHjkpSSDbqYt90Sy) | 2:08 |
+| 35 | [Michael Theme Song \(Tamil\)](https://open.spotify.com/track/3mQp0Zo0iSvfjXmaxXHOVp) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Michael \(Tamil\)](https://open.spotify.com/album/45ZKgYcHjkpSSDbqYt90Sy) | 2:08 |
+| 36 | [Maaran \- Motion Poster Theme](https://open.spotify.com/track/6Yx0t6gQsokYuTlrUXtoc2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Maaran \- Motion Poster Theme](https://open.spotify.com/album/2w7PzPw9uy7699CjWv2amy) | 1:03 |
 | 37 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 |
 | 38 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
 | 39 | [Trigger \(Theme Song\) \- From "Trigger"](https://open.spotify.com/track/2ToXOcfS1YgHc3h9YAogP5) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Bmac Mastamind](https://open.spotify.com/artist/4utuxKXdRpXcvh3x69qFtV), [Vamanaa](https://open.spotify.com/artist/2mZvMF5SPXj4OfCYfq7RQE) | [Trigger \(Theme Song\) \[From "Trigger"\]](https://open.spotify.com/album/6UG80I3RLMBODuvwVc05uL) | 2:32 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 78 | [Prabanjan Theme \- Background Score](https://open.spotify.com/track/0PHhtgecVrG1HhJ5viLLIG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:56 |
 | 79 | [Sound of Vikram \- Background Score](https://open.spotify.com/track/6jjovlKoKmt38bF4XJJc0s) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:04 |
 
-Snapshot ID: `MTY3NTQ1NDM2NCwwMDAwMDAwMGE5ZDIyZTkwODY4Y2M4MjkzZDRjNGI1OGMwNzAxMDU2`
+Snapshot ID: `MTY3NTQ1NDM2NCwwMDAwMDAwMGE2NjI5NDQ3ZDkzYzBlOTdhMDYyODU1NjY3NjRiNDYx`

@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 245093,
       "name": "Les Yper-Sound",
       "url": "https://open.spotify.com/track/7CjHVBO2kxsRKvKU5rF6XX"
@@ -5687,6 +5687,28 @@
     },
     {
       "album": {
+        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
+        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334979,
+      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
+    },
+    {
+      "album": {
         "name": "SGTP",
         "url": "https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm"
       },
@@ -5734,7 +5756,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 272840,
       "name": "\u30ad\u30e5\u30fc",
       "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"

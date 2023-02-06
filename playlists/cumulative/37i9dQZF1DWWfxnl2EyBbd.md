@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-403 songs - 1 day 8 hr 10 min
+404 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Find The Way](https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 5:58 | 2022-02-10 | 2022-11-09 |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-12 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
+| [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-02-02 |  |
 | [Flight \(Slow\)](https://open.spotify.com/track/6Nw6PMW4vKujeHj3Q2wZck) | [Roberta Piket](https://open.spotify.com/artist/7bpPpC3Sr6XbvmWvJXusEO), [Harvie S](https://open.spotify.com/artist/4VUN8x6ggBQmQOiO9Ui1fe), [Billy Mintz](https://open.spotify.com/artist/0x93sQfixNNuX3utx7cU25) | [You've Been Warned](https://open.spotify.com/album/44uZLWz6KGCIYN9kHNgIuO) | 2:41 | 2022-08-17 | 2022-11-12 |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
 | [For a While](https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [For a While](https://open.spotify.com/album/53p46AYlwyeYi7MRgf5GM6) | 2:54 | 2023-01-19 |  |
@@ -270,7 +271,7 @@
 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 | 2022-07-07 | 2022-11-12 |
 | [Promise of Spring](https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Promise of Spring](https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F) | 4:29 | 2022-03-25 | 2022-07-29 |
 | [Quiet Corner](https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6) | [Shalosh](https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX) | [Broken Balance](https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb) | 2:40 | 2022-02-25 | 2022-11-21 |
-| [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2022-11-12 |  |
+| [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2022-11-12 | 2023-02-06 |
 | [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-07-07 | 2022-11-09 |
 | [Rain](https://open.spotify.com/track/61Wh9vJtPH9gqRTEsgi6cU) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/4Bd8Cuk3T1UhXQKZ3YBboH) | 7:33 | 2022-02-10 | 2022-07-29 |
 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-02-10 | 2022-11-12 |

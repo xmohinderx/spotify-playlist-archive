@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 418331,
+  "num_followers": 418393,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGI4NjhiYzU2NmQ4MzFmZDU1MGI4Y2M5MDNmYTNlOGZi",
+  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMDUzZmZmMjE5MDhmNzNmZjM4ZjU1Njk5ZTY1YjJkODM5",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Lamp2",
         "url": "https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198259,
       "name": "Lamp2",
       "url": "https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "fog morning",
-        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
+        "name": "Star Lights",
+        "url": "https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL"
       },
       "artists": [
         {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
         }
       ],
-      "duration_ms": 158400,
-      "name": "fog morning",
-      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
+      "duration_ms": 101647,
+      "name": "Star Lights",
+      "url": "https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -531,34 +531,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Star Lights",
-        "url": "https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL"
+        "name": "fog morning",
+        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
       },
       "artists": [
         {
-          "name": "Lil\u2019Yukichi",
-          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
         }
       ],
-      "duration_ms": 101647,
-      "name": "Star Lights",
-      "url": "https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "SPICA",
-        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
-      },
-      "artists": [
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "SPICA",
-      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
+      "duration_ms": 158400,
+      "name": "fog morning",
+      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 202733,
       "name": "Good song",
       "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "SPICA",
+        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "SPICA",
+      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 195692,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "In A Dream",
-      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Lucid Dream",
         "url": "https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui"
       },
@@ -979,6 +947,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "tomoshibi",
         "url": "https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 187894,
       "name": "tomoshibi",
       "url": "https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "In A Dream",
+      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Breezin",
-        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 155401,
-      "name": "Breezin",
-      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
@@ -1131,6 +1115,42 @@
       "duration_ms": 219207,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "City Creatures",
+        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "City Creatures",
+      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Breezin",
+        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 155401,
+      "name": "Breezin",
+      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1155,26 +1175,6 @@
       "duration_ms": 96000,
       "name": "tasty greens",
       "url": "https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "City Creatures",
-        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
-      },
-      "artists": [
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "City Creatures",
-      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "re: Labyrinth",
-        "url": "https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "re: Labyrinth",
-      "url": "https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Memories of Furniture",
         "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 213333,
       "name": "Memories of Furniture",
       "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "re: Labyrinth",
+        "url": "https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "re: Labyrinth",
+      "url": "https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Spring Fever",
+        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
+      },
+      "artists": [
+        {
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+        }
+      ],
+      "duration_ms": 243696,
+      "name": "Spring Fever",
+      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Milk Shake",
         "url": "https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 111000,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Spring Fever",
-        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
-      },
-      "artists": [
-        {
-          "name": "VIDEOTAPEMUSIC",
-          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
-        }
-      ],
-      "duration_ms": 243696,
-      "name": "Spring Fever",
-      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Resynthesis (Yellow)",
+        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
+      },
+      "artists": [
+        {
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        },
+        {
+          "name": "Kent",
+          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
+        }
+      ],
+      "duration_ms": 249107,
+      "name": "4 Ever",
+      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "TOPANGA",
         "url": "https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 153191,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/3tHEw9CiFsWefYrjy7t2a3"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Resynthesis (Yellow)",
-        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
-      },
-      "artists": [
-        {
-          "name": "grooveman Spot",
-          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
-        },
-        {
-          "name": "Kent",
-          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
-        }
-      ],
-      "duration_ms": 249107,
-      "name": "4 Ever",
-      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
     },
     {
       "added_at": "2023-02-02 15:00:00",

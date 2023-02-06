@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Jung Dong Won(\uc815\ub3d9\uc6d0) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 17918,
+  "num_followers": 17944,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTI3MCwwMDAwMDAwMDRkNDg4NjUzNjljZmU4Mzk5OThmNzVlYWExMTk3MzI4",
+  "snapshot_id": "MTY3NDcwOTI3MCwwMDAwMDAwMDAxYjI0YWVjNjkzMmVkNTM5MjJhMDg2ODFlYzIxMDNh",
   "tracks": [
     {
       "added_at": "2022-12-05 08:34:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-05 08:34:53",
       "album": {
-        "name": "\ud2b8\ub86f\uac00\uc655",
-        "url": "https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b"
-      },
-      "artists": [
-        {
-          "name": "Jin Sung",
-          "url": "https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "\ubcf4\ub9bf\uace0\uac1c",
-      "url": "https://open.spotify.com/track/2RYQrS3fDdnincR9K6mNgp"
-    },
-    {
-      "added_at": "2022-12-05 08:34:53",
-      "album": {
         "name": "\uc544\ud649 \uc774\uc57c\uae30",
         "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 278413,
       "name": "\ud14c\uc2a4\ud615!",
       "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
+    },
+    {
+      "added_at": "2022-12-05 08:34:53",
+      "album": {
+        "name": "\ud2b8\ub86f\uac00\uc655",
+        "url": "https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b"
+      },
+      "artists": [
+        {
+          "name": "Jin Sung",
+          "url": "https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "\ubcf4\ub9bf\uace0\uac1c",
+      "url": "https://open.spotify.com/track/2RYQrS3fDdnincR9K6mNgp"
     },
     {
       "added_at": "2022-12-05 08:34:53",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-12-05 08:34:53",
       "album": {
+        "name": "Super Five - Hello",
+        "url": "https://open.spotify.com/album/0SHDJH2nZncK3QWkbWvvV0"
+      },
+      "artists": [
+        {
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0tNFcj0jSRtD49JifWJLTt"
+    },
+    {
+      "added_at": "2022-12-05 08:34:53",
+      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 126520,
       "name": "Mom Arirang",
       "url": "https://open.spotify.com/track/71KOmCA0xRVfxhGJAF69U1"
-    },
-    {
-      "added_at": "2022-12-05 08:34:53",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr"
-      },
-      "artists": [
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "\ubb34\uba85\ubc30\uc6b0",
-      "url": "https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0"
     },
     {
       "added_at": "2022-12-05 08:34:53",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-12-05 08:34:53",
       "album": {
-        "name": "Super Five - Hello",
-        "url": "https://open.spotify.com/album/0SHDJH2nZncK3QWkbWvvV0"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr"
       },
       "artists": [
         {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
         }
       ],
-      "duration_ms": 201573,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0tNFcj0jSRtD49JifWJLTt"
+      "duration_ms": 255200,
+      "name": "\ubb34\uba85\ubc30\uc6b0",
+      "url": "https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0"
     },
     {
       "added_at": "2022-12-05 08:34:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-05 08:34:53",
       "album": {
+        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
+        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+      },
+      "artists": [
+        {
+          "name": "Tae Yeon Kim",
+          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Wind road",
+      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
+    },
+    {
+      "added_at": "2022-12-05 08:34:53",
+      "album": {
         "name": "REDEVELOPMENT OF LOVE 2",
         "url": "https://open.spotify.com/album/3DQ0qjt95ZBDLy8LSDq8ne"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-12-05 08:34:53",
       "album": {
-        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
-        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
+        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
       },
       "artists": [
         {
-          "name": "Tae Yeon Kim",
-          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
+          "name": "\uae40\uc6a9\uc784",
+          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Wind road",
-      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
+      "duration_ms": 169914,
+      "name": "\uc0bc\uac01\uad00\uacc4",
+      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2022-12-05 08:34:53",
@@ -1351,22 +1367,6 @@
       "duration_ms": 238013,
       "name": "Parting story",
       "url": "https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd"
-    },
-    {
-      "added_at": "2022-12-05 08:34:53",
-      "album": {
-        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
-        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
-      },
-      "artists": [
-        {
-          "name": "\uae40\uc6a9\uc784",
-          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
-        }
-      ],
-      "duration_ms": 169914,
-      "name": "\uc0bc\uac01\uad00\uacc4",
-      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2022-12-05 08:34:53",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW"
     },
     {
-      "added_at": "2023-02-05 01:15:55",
-      "album": {
-        "name": "HI-RYANG",
-        "url": "https://open.spotify.com/album/27vjFQz43CXWW38kAALA4e"
-      },
-      "artists": [
-        {
-          "name": "\ud558\uc774\ub7c9",
-          "url": "https://open.spotify.com/artist/7Jal3agTZgU8c1nKEtNdZc"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "In Lover Arms",
-      "url": "https://open.spotify.com/track/5FOEgHlotrnrRuTsRERe3N"
-    },
-    {
       "added_at": "2022-12-05 08:34:53",
       "album": {
         "name": "Love call center PART12",
@@ -1675,6 +1659,22 @@
       "duration_ms": 196640,
       "name": "Reverse life:Poor man",
       "url": "https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0"
+    },
+    {
+      "added_at": "2023-02-06 01:28:47",
+      "album": {
+        "name": "HI-RYANG",
+        "url": "https://open.spotify.com/album/27vjFQz43CXWW38kAALA4e"
+      },
+      "artists": [
+        {
+          "name": "\ud558\uc774\ub7c9",
+          "url": "https://open.spotify.com/artist/7Jal3agTZgU8c1nKEtNdZc"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "In Lover Arms",
+      "url": "https://open.spotify.com/track/5FOEgHlotrnrRuTsRERe3N"
     }
   ],
   "unique_name": "K-Trot Stars",

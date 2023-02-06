@@ -1759,6 +1759,32 @@
     },
     {
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/7LIZoLfBkDZ2JyMv1WTugP"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Mick Mazoo",
+          "url": "https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve"
+        },
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4RgZBeQu8LtQVmSy0GXLof"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2uaJmzs43n1ql9dXs61dvs"
       },
@@ -4400,6 +4426,28 @@
       "duration_ms": 172380,
       "name": "Rhythm 2 U",
       "url": "https://open.spotify.com/track/4NwQEKcLfOWZcvaN2bob6x"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/091FjIA5q3xjMuCI2EV81a"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Umberto Pagliaroli",
+          "url": "https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/1Ftqz7NH47SscxNieFz6Tw"
     },
     {
       "album": {

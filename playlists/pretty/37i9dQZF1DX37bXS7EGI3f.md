@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,555 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,665 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 36 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 37 | [God Is Silent](https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [God Is Silent](https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog) | 6:06 |
 | 38 | [Guiding Light](https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 3:57 |
-| 39 | [Reborn](https://open.spotify.com/track/0hCBk9VMLgCfbnikfUgmbA) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/06K3aF7hbLYGAQHAH6Wo83) | 5:13 |
+| 39 | [Reborn](https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 5:12 |
 | 40 | [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 |
 | 41 | [Generations' Legacy](https://open.spotify.com/track/5IQkaqFVUaw8MSVY1TsDsX) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Generations' Legacy](https://open.spotify.com/album/7DsqNbS1FIzE736qTj5DuQ) | 5:28 |
 | 42 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Eternal Darkness](https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Eternal Darkness](https://open.spotify.com/album/13G54l6oV3HKT4HaWsKDQB) | 5:46 |
 | 80 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDFmYTgwMmYyNmVkN2YzMjk0YjhlY2Q1NjBiM2NhYjk0`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDdiZjE4ZWYyZmRmODNlMTEyNWU0ODk4ZTk1YjY1OWM2`

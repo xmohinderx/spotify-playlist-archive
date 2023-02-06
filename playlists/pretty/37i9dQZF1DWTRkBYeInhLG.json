@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu adem untuk segala suasana.",
-  "num_followers": 390922,
+  "num_followers": 391052,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMTU2OCwwMDAwMDAwMGNkMzFjNjc1OGRhYzcwZTliM2NmZjQzYTliMWQzNTAz",
+  "snapshot_id": "MTY3MzUzMTU2OCwwMDAwMDAwMGEzMDM1ZTY4YTc4OGRmMWIyMTkxZDY4ODEwMDIxY2Ux",
   "tracks": [
     {
       "added_at": "2023-01-12 13:52:48",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 277359,
       "name": "Meant 2 Be",
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 257252,
-      "name": "Kali Kedua",
-      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
         "name": "Cukup Tau",
         "url": "https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207191,
       "name": "Cukup Tau",
       "url": "https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 257252,
+      "name": "Kali Kedua",
+      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1151,34 +1151,18 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68"
+        "name": "say you're done with me",
+        "url": "https://open.spotify.com/album/4fbZtfYUFeESZmfaifPXE0"
       },
       "artists": [
         {
-          "name": "Ten2Five",
-          "url": "https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO"
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
         }
       ],
-      "duration_ms": 193480,
-      "name": "You - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4p7IAleWshNIxPZgXjuAxZ"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
-        "name": "Kesempurnaan Cinta",
-        "url": "https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 216047,
-      "name": "Kesempurnaan Cinta",
-      "url": "https://open.spotify.com/track/5WmeAm8HXWRnUTFNTlzpBL"
+      "duration_ms": 229760,
+      "name": "say you're done with me",
+      "url": "https://open.spotify.com/track/3M3CQFX5Q9dEaauR5dMtku"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1199,18 +1183,34 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "say you're done with me",
-        "url": "https://open.spotify.com/album/4fbZtfYUFeESZmfaifPXE0"
+        "name": "Kesempurnaan Cinta",
+        "url": "https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U"
       },
       "artists": [
         {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 229760,
-      "name": "say you're done with me",
-      "url": "https://open.spotify.com/track/3M3CQFX5Q9dEaauR5dMtku"
+      "duration_ms": 216047,
+      "name": "Kesempurnaan Cinta",
+      "url": "https://open.spotify.com/track/5WmeAm8HXWRnUTFNTlzpBL"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68"
+      },
+      "artists": [
+        {
+          "name": "Ten2Five",
+          "url": "https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "You - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4p7IAleWshNIxPZgXjuAxZ"
     },
     {
       "added_at": "2023-01-12 13:52:48",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-12 13:52:48",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Jangan Kau Lepas",
-      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2023-01-12 13:52:48",
-      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/4PuuRAc30rb3rPbTFHBWXx"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 240505,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG"
+    },
+    {
+      "added_at": "2023-01-12 13:52:48",
+      "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Jangan Kau Lepas",
+      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
     },
     {
       "added_at": "2023-01-12 13:52:48",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Uru",
-  "num_followers": 91159,
+  "num_followers": 91220,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGUzZmFjZjQ2MWU2NDU3MGQxMjQ3MzkyOWVlNjc5OGNk",
+  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMDE2ZGUxNjgxYTU0MzIwMjhiOTE2NjI5M2U2Y2JiZGI3",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "\u604b",
+        "url": "https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "TOKYO 4AM",
         "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 236133,
       "name": "\u590f\u67af\u308c",
       "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "\u604b",
-        "url": "https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 266158,
+      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 228626,
       "name": "Don!!",
       "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 266158,
-      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-      "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03b1",
+        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 303627,
+      "name": "\u661f\u306e\u30af\u30ba \u03b1",
+      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "\u96e8\u6a21\u69d8",
         "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
       },
@@ -1483,22 +1503,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "\u661f\u306e\u30af\u30ba \u03b1",
-        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+        "name": "\u5148\u99c6\u8005",
+        "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
       },
       "artists": [
         {
-          "name": "Salyu",
-          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
-        },
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
         }
       ],
-      "duration_ms": 303627,
-      "name": "\u661f\u306e\u30af\u30ba \u03b1",
-      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
+      "duration_ms": 274000,
+      "name": "\u5148\u99c6\u8005",
+      "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1523,22 +1539,6 @@
       "duration_ms": 285306,
       "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
       "url": "https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "\u5148\u99c6\u8005",
-        "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
-      },
-      "artists": [
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "\u5148\u99c6\u8005",
-      "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "rubble pile",
-      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "\u82b1\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u"
       },
@@ -1659,22 +1643,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Never Fear",
         "url": "https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT"
       },
@@ -1687,6 +1655,38 @@
       "duration_ms": 229906,
       "name": "Never Fear",
       "url": "https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "rubble pile",
+      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     }
   ],
   "unique_name": "Women's Voice",

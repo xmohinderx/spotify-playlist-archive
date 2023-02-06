@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Dalex
 
-404 songs - 21 hr 55 min
+405 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [48 Horas](https://open.spotify.com/track/27gKh0pcK0jbslrB9yCwk7) | [Ballah](https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7), [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0) | [48 Horas](https://open.spotify.com/album/5uHCibcnxRyGMoVFde36jq) | 2:47 | 2023-01-27 |  |
 | [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2022-03-21 | 2022-04-02 |
 | [A MI LADO](https://open.spotify.com/track/4Oou88tB7V7uo8n6tdYm5C) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 3:12 | 2022-03-21 | 2022-04-16 |
-| [ACERCATE](https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz) | [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [ACERCATE](https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm) | 2:56 | 2022-11-25 |  |
+| [ACERCATE](https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz) | [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [ACERCATE](https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm) | 2:56 | 2022-11-25 | 2023-02-06 |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2022-10-14 | 2023-01-21 |
 | [Adelantah](https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Adelantah](https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P) | 3:24 | 2022-11-25 | 2023-02-05 |
 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 | 2022-12-02 |  |
@@ -151,6 +151,7 @@
 | [Fundota](https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Fundota](https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo) | 2:20 | 2022-11-25 |  |
 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 | 2022-03-21 | 2022-04-16 |
 | [GATAS](https://open.spotify.com/track/0Dsd2YdaCaFGnLHeur33vE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:27 | 2022-12-16 | 2023-02-05 |
+| [GATAS](https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:27 | 2023-02-03 |  |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-12-16 | 2022-12-24 |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-18 |  |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-01-13 |  |

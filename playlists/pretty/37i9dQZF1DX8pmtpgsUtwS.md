@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,461 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,481 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 17 | [Darbari](https://open.spotify.com/track/1i3czNhlQb0InQ3NKyvgdd) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/1PAqoTpGkISBuLWYUdrxra) | 5:16 |
 | 18 | [Cloud 8.9](https://open.spotify.com/track/6WWHC3W4wFROHcZXfuHBjG) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Uplift](https://open.spotify.com/album/7CbP0jtXR00EFqdBNfh6zy) | 3:00 |
 | 19 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 |
-| 20 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 |
-| 21 | [Rang \- Raga Baageshri](https://open.spotify.com/track/2L5XVJGJBrDmG7W8ImYvwZ) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX) | [Rang \- Raga Baageshri](https://open.spotify.com/album/1YsrnSEmy0IKl851qSY7fm) | 6:38 |
+| 20 | [Rang \- Raga Baageshri](https://open.spotify.com/track/2L5XVJGJBrDmG7W8ImYvwZ) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX) | [Rang \- Raga Baageshri](https://open.spotify.com/album/1YsrnSEmy0IKl851qSY7fm) | 6:38 |
+| 21 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 |
 | 22 | [Mere Yaar](https://open.spotify.com/track/1OUXH35gQqdsZzrdGEkqkN) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 3:45 |
 | 23 | [Naina \(feat\. Isheeta Chakrvarty\)](https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 5:31 |
 | 24 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 49 | [Naino Waaleya](https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Kamran Zafar](https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des), [Kshitij Mathur](https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Naino Waaleya](https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723) | 6:27 |
 | 50 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 
-Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDk3NDcyZmJkZWMwNjJkNTZlZDU0ZjQwZDhmOThkM2Qy`
+Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDQzYzIwYWM3OTdkMTE0MmVjZDM4M2U0ZmMxMWNjYWZh`

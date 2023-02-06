@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42609,
+  "num_followers": 42625,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0ODI2MywwMDAwMDAwMDc0NmM0MmJjM2Y3MGY1NDdkNGE4NmFhNGQ5Yzk5OTVm",
+  "snapshot_id": "MTY3NTQ0ODI2MywwMDAwMDAwMDU2MzEzNjRiNDE0ZTNmNjFmNGNlOTE1NmJjM2RmMGZj",
   "tracks": [
     {
       "added_at": "2023-02-03 18:17:43",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 204712,
-      "name": "Paris in the Rain",
-      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-02-03 18:17:43",
@@ -175,22 +179,18 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 204712,
+      "name": "Paris in the Rain",
+      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
     },
     {
       "added_at": "2023-02-03 18:17:43",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
-        "name": "Pink Balloon / Sea Lions",
-        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Sea Lions",
-      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
-    },
-    {
-      "added_at": "2023-02-03 18:17:43",
-      "album": {
         "name": "\u706f\u706b",
         "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
       },
       "artists": [
         {
-          "name": "South Penguin",
-          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 109997,
-      "name": "luv revolution",
-      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
     },
     {
       "added_at": "2023-02-03 18:17:43",
@@ -643,6 +627,22 @@
       "duration_ms": 220471,
       "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
       "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
+    },
+    {
+      "added_at": "2023-02-03 18:17:43",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "duration_ms": 109997,
+      "name": "luv revolution",
+      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
     },
     {
       "added_at": "2023-02-03 18:17:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
-        "name": "The Youth Night",
-        "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
-      },
-      "artists": [
-        {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
-        }
-      ],
-      "duration_ms": 203846,
-      "name": "Neon wo Keshite",
-      "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
-    },
-    {
-      "added_at": "2023-02-03 18:17:43",
-      "album": {
         "name": "NOT IN ALMIGHTY",
         "url": "https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 280084,
       "name": "DOCUMENT",
       "url": "https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4"
+    },
+    {
+      "added_at": "2023-02-03 18:17:43",
+      "album": {
+        "name": "The Youth Night",
+        "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 203846,
+      "name": "Neon wo Keshite",
+      "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
     },
     {
       "added_at": "2023-02-03 18:17:43",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-03 18:17:43",
       "album": {
+        "name": "306",
+        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "\u30df\u30a2\u30cd",
+      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "added_at": "2023-02-03 18:17:43",
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 235500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4"
-    },
-    {
-      "added_at": "2023-02-03 18:17:43",
-      "album": {
-        "name": "306",
-        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "\u30df\u30a2\u30cd",
-      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
     },
     {
       "added_at": "2023-02-03 18:17:43",

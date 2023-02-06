@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,280 likes - 350 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,416 likes - 350 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 99 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 | 100 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 |
 | 101 | [Somebody That I Used to Know](https://open.spotify.com/track/3rDiwjYjKHVJPvsQizul5W) | [Red Lemon](https://open.spotify.com/artist/5sjFMwugEcq82OeC9O78Sd), [Michael Ford](https://open.spotify.com/artist/0pxkbA5HKBZkMyqyhINQqd) | [Somebody That I Used to Know](https://open.spotify.com/album/0XMYtML3V72KGKQL9SYmDR) | 2:43 |
-| 102 | [Enemy](https://open.spotify.com/track/10jULQ7v0FBHh8W2LMZYsJ) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Enemy](https://open.spotify.com/album/5i6yBBqifKd9eduDFhfP3L) | 2:29 |
+| 102 | [Enemy](https://open.spotify.com/track/1ZkTLswmhUSHHSPILGPMKL) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Enemy](https://open.spotify.com/album/4i6gA7aadsUzYY71DpQouO) | 2:29 |
 | 103 | [La Isla Bonita](https://open.spotify.com/track/1OIz7jysPpEUNKAJQbrZkk) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Bryan V](https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [La Isla Bonita](https://open.spotify.com/album/5cAIP4upCNqS0aWFXY7HcK) | 2:21 |
 | 104 | [Tell It To My Heart](https://open.spotify.com/track/3ixiQFCEoBtXb81K2LNPEu) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Megan Brands](https://open.spotify.com/artist/6WpxpY67c3tPxHouatk7TM) | [Tell It To My Heart](https://open.spotify.com/album/4NQpKRknfmrPQL28AuFRL3) | 3:08 |
 | 105 | [You Give Love a Bad Name](https://open.spotify.com/track/3qg8AEXcMlvSRF67ybV8lf) | [MAZLIK](https://open.spotify.com/artist/0AxY9Dv3ZrNsJ9qHhy54MT), [BSCO](https://open.spotify.com/artist/3kVBulQbnJOvIUibuvSadD) | [You Give Love a Bad Name](https://open.spotify.com/album/1cownfUnTBviXek9dT0DJ7) | 3:31 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 349 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 350 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMGYzNzA2N2E3NjcxMGY1NzM4OGNlZDQwMTA0MDIxOTk0`
+Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMDZlODJmOThiZjM2MjEyN2E2OGVjZTFkOGEzMjQ0MTE2`

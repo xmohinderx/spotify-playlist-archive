@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los de FL
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,383 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,396 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 43 | [Manzana en el Mapa](https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Manzana en el Mapa](https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j) | 3:03 |
 | 44 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 |
 | 45 | [Sangre Avendaño](https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Sangre Avendaño](https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL) | 2:47 |
-| 46 | [En La Siembra](https://open.spotify.com/track/5GChQ50BdF3oK5jSvArtp3) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [En La Siembra](https://open.spotify.com/album/0bkVHcppGjTPZffNU0BMIX) | 2:29 |
-| 47 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
+| 46 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
+| 47 | [En La Siembra](https://open.spotify.com/track/5GChQ50BdF3oK5jSvArtp3) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [En La Siembra](https://open.spotify.com/album/0bkVHcppGjTPZffNU0BMIX) | 2:29 |
 | 48 | [Ve Nada Mas](https://open.spotify.com/track/4Y1F0pOIXmClD85dHLBW8D) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Ve Nada Mas](https://open.spotify.com/album/1jRUDpdNrA8N1tK13bLsry) | 3:10 |
 | 49 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 |
 | 50 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 55 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
 | 56 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 |
 | 57 | [Las Rayas](https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Las Rayas](https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD) | 3:10 |
-| 58 | [Mi Corazón Lloro](https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg) | [Jonatan Fuentes](https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG) | [Mi Corazón Lloro](https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy) | 2:52 |
-| 59 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
+| 58 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
+| 59 | [Mi Corazón Lloro](https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg) | [Jonatan Fuentes](https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG) | [Mi Corazón Lloro](https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy) | 2:52 |
 | 60 | [DOLOR](https://open.spotify.com/track/1S4Xk3LEaXrmvQye3viFFa) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [DOLOR](https://open.spotify.com/album/2SiOMpq82Qv1svVMt35sP1) | 3:35 |
 | 61 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 |
-| 62 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
-| 63 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 |
+| 62 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 |
+| 63 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
 | 64 | [Ganas de Amarte](https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Ganas de Amarte](https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt) | 3:23 |
 | 65 | [Fvck You](https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Endless Summer](https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6) | 3:10 |
 | 66 | [Estilo Palazuelos](https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Estilo Palazuelos](https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [Poder Sangriento](https://open.spotify.com/track/1ywZ5YvDT4hbGk1Dg31cEf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Poder Sangriento](https://open.spotify.com/album/5JBsJBLvGoQ9m4hnHcMVao) | 3:49 |
 
-Snapshot ID: `MTY3NDc5Njg1NSwwMDAwMDAwMDI3MWNhOTk2MmVhZGZhNGUwOGE1Mjc4ZTg3OTE1MTcw`
+Snapshot ID: `MTY3NDc5Njg1NSwwMDAwMDAwMGFiOGE4NTAyNGJhMGViNjRmNTk1YjE1YWMzZTllNzYy`

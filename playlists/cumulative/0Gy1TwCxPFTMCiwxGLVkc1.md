@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-89 songs - 3 hr 52 min
+90 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Are You Ready To Rock](https://open.spotify.com/track/68uRn5hfyRhOGTdf2qYSLL) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [School of Rock Cast](https://open.spotify.com/artist/4K0OM7fVHVhfMNfMklEwaa) | [School of Rock \(Original Music from the Series\)](https://open.spotify.com/album/3SsHDfRaZOQqsnEYudPV4C) | 1:56 | 2023-01-30 |  |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
 | [Bright Lights](https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Bright Lights](https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3) | 4:22 | 2022-10-25 |  |
-| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 |  |
+| [Brusha, Brusha](https://open.spotify.com/track/2aTENCRUOZcG7zzAEhTEeo) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Play Along With Sam: We're Gonna Dance!](https://open.spotify.com/album/1wzpCQo4cJL2ICv9p4mkC0) | 2:01 | 2023-02-05 |  |
+| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 | 2023-02-06 |
 | [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-10-25 |  |
 | [Colors](https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X) | [Toys and Colors](https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K) | [Colors](https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1) | 2:13 | 2022-10-31 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/11aNnE6AFyuYbk4bSlHKFO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4) | 3:05 | 2022-05-27 | 2022-10-26 |
@@ -42,7 +43,7 @@
 | [If I Were In Your Shoes](https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago’s Sea Shanties Vol\. 2](https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs) | 2:15 | 2022-10-25 |  |
 | [It's A Snow Day](https://open.spotify.com/track/2XO6U3D3h3dnlEMq9jp6zy) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Snow Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xwyAIxnln2pl0fus9a0tH) | 1:51 | 2022-12-22 |  |
 | [Itsy Bitsy Spider](https://open.spotify.com/track/2t03vqSeWEX0HjtdozYSpr) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq) | 2:17 | 2023-01-25 | 2023-02-01 |
-| [Just Gotta Be You \(feat\. Bob\)](https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Bob](https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 3:15 | 2022-10-25 |  |
+| [Just Gotta Be You \(feat\. Bob\)](https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Bob](https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 3:15 | 2022-10-25 | 2023-02-06 |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2022-10-25 |  |
 | [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 | 2022-10-25 |  |
 | [Like Like You](https://open.spotify.com/track/51xnULBdyOqq3liDY8grhV) | [Danger Force](https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn) | [Fightin' Crimes, Spittin' Rhymes](https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3) | 1:07 | 2022-10-25 |  |

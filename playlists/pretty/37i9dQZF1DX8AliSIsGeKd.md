@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: GHEIST
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,859 likes - 78 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,947 likes - 78 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

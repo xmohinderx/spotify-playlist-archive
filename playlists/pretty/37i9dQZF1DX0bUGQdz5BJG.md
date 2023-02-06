@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,202 likes - 144 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,334 likes - 144 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

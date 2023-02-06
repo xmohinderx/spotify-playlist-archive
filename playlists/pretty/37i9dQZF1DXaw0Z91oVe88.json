@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2244,
+  "num_followers": 2243,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMDRlNTVmNTI5ZTYxOGYzYzcwMmFkNDNhNTY1NmYxMmRh",
+  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMGEyN2RlZDk0MTJjMGQ2ZTgxOGM2ZTk1NGE0MTk0YTI2",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
-      },
-      "artists": [
-        {
-          "name": "Hwang Inhyeock",
-          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "I Will Remember You",
-      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Feeling Good - 2019 Ver",
-      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

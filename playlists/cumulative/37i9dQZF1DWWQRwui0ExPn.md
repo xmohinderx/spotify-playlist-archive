@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,223 songs - 8 day 6 hr 37 min
+5,224 songs - 8 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2236,7 +2236,8 @@
 | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/track/5cZa4r5cgR9krvDrMA2KRS) | [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/album/5CIvGXPKxjBSJRbQOWZgno) | 2:54 | 2022-08-05 | 2022-11-18 |
 | [Invierno Solitario](https://open.spotify.com/track/21sV7KSahkzxD9R9o3Cz5y) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Invierno Solitario](https://open.spotify.com/album/0vcH0VZmpLMMzKw8fsajaF) | 2:24 | 2021-12-17 | 2022-07-01 |
 | [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 | 2022-12-11 |
-| [invisible](https://open.spotify.com/track/2tVqVeui93tpUnyw1AuWsI) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3BLrcNKCSk0fE5zx5ethjb) | 3:06 | 2022-12-09 |  |
+| [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 | 2023-01-20 |  |
+| [invisible](https://open.spotify.com/track/2tVqVeui93tpUnyw1AuWsI) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3BLrcNKCSk0fE5zx5ethjb) | 3:06 | 2022-12-09 | 2023-02-06 |
 | [Invisible Palette](https://open.spotify.com/track/57JCZANsYmlLC0BVUsrbEr) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Invisible Palette](https://open.spotify.com/album/3B6VKba9I1XXl3G2bJdDOA) | 2:59 | 2022-02-25 | 2022-07-29 |
 | [Iris](https://open.spotify.com/track/4Y3EegnlSZe3AtJGP7TWUz) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Iris](https://open.spotify.com/album/35E9f2qQSTr4Z7w7PnFDeP) | 1:56 | 2020-01-19 | 2021-08-22 |
 | [Iris](https://open.spotify.com/track/3TJrimZVZZhv3jfuTeYdnp) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Iris](https://open.spotify.com/album/3uQ6tlbMviMWVBBYaJTwq9) | 2:25 | 2020-06-17 | 2020-06-18 |

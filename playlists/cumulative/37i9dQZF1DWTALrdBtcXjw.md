@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-233 songs - 21 hr 2 min
+234 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Make Me Rainbows](https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 7:04 | 2022-02-18 |  |
 | [Manhattan](https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Manhattan](https://open.spotify.com/album/5mHR1XnBoXIDZ9KSTyCx2I) | 4:23 | 2022-05-19 | 2022-07-29 |
 | [Manhattan](https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:23 | 2022-07-28 |  |
-| [Masthuggsgruppen \- Live](https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:22 | 2022-02-18 |  |
+| [Masthuggsgruppen \- Live](https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:22 | 2022-02-18 | 2023-02-06 |
 | [Miljarder stjärnor](https://open.spotify.com/track/6Y8BG02Wx9bAMw53Aqc7WK) | [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Swedish Jazz Masters: Alla Mina Kompisar](https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV) | 5:39 | 2022-02-18 | 2022-04-22 |
 | [Min Soldat \(My Soldier\)](https://open.spotify.com/track/74DrMrLFqJEqyOx6ucc0vT) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 8:26 | 2020-03-31 | 2023-01-12 |
 | [Mindful Moments](https://open.spotify.com/track/2T72V6rYV4CUxf0ecO5cSc) | [Alexa Tarantino](https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh) | [Firefly](https://open.spotify.com/album/7FKQHCMFXj4MqMU0DyZWp3) | 4:44 | 2022-02-18 | 2022-08-31 |
@@ -174,6 +174,7 @@
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
 | [Rain Waltz](https://open.spotify.com/track/3HMysWiZrkfQhSdX5OqQcq) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:01 | 2022-09-06 | 2022-10-08 |
 | [Rain Waltz](https://open.spotify.com/track/5IVCNqztB1lm7sTqXn3ww7) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:01 | 2020-03-31 | 2022-07-28 |
+| [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-02-02 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/38AeuMJBRBWSlbmuC03EhJ) | [Half Time Feel](https://open.spotify.com/artist/0tuSphyaStgT5UvOxReZLV) | [Red Sails in the Sunset](https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW) | 4:27 | 2022-11-12 |  |
 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 | 2022-09-16 |  |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2020-03-31 | 2022-05-04 |

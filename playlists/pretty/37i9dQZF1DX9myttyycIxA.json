@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Cottonwood Firing Squad",
-  "num_followers": 279094,
+  "num_followers": 279177,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGYwM2RiNDJmMzM5OWIwZGQ5MTBiY2U4NmM0YmY5NTM5",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDY3N2MzM2YwYWE5NDc5OWZjYzI5YmUxZjhjYjRiNWQz",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Sunshine, I'm Counting on You!",
@@ -503,6 +487,22 @@
       "duration_ms": 255317,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2022-11-17 17:47:18",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Under Tongues",
-        "url": "https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G"
-      },
-      "artists": [
-        {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
-        }
-      ],
-      "duration_ms": 170735,
-      "name": "Under Tongues",
-      "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "i love you",
@@ -551,6 +535,22 @@
       "duration_ms": 269963,
       "name": "i love you",
       "url": "https://open.spotify.com/track/0G1qD9ymU11Yzoo266q0AP"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Under Tongues",
+        "url": "https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 170735,
+      "name": "Under Tongues",
+      "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
     },
     {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+    },
+    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "SALTWATER SKY",
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-01-17 19:42:49",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+        "name": "Quiet the Room",
+        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
       "artists": [
         {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 231680,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+      "duration_ms": 225154,
+      "name": "Whatever Fits Together",
+      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
     },
     {
       "added_at": "2022-12-22 06:08:00",
@@ -899,22 +915,6 @@
       "duration_ms": 292142,
       "name": "I'm Not Ok",
       "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Quiet the Room",
-        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Whatever Fits Together",
-      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Bull Believer",
-        "url": "https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 510773,
-      "name": "Bull Believer",
-      "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "runnning in place at the edge of the map",
@@ -1061,20 +1045,20 @@
       "url": "https://open.spotify.com/track/26DOPFm4uhx8EVpwrYTb8M"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
+      "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "When The Wind Forgets Your Name",
-        "url": "https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN"
+        "name": "Bull Believer",
+        "url": "https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb"
       },
       "artists": [
         {
-          "name": "Built To Spill",
-          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 323300,
-      "name": "Spiderweb",
-      "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
+      "duration_ms": 510773,
+      "name": "Bull Believer",
+      "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
+    },
+    {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "When The Wind Forgets Your Name",
+        "url": "https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN"
+      },
+      "artists": [
+        {
+          "name": "Built To Spill",
+          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+        }
+      ],
+      "duration_ms": 323300,
+      "name": "Spiderweb",
+      "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1123,22 +1123,6 @@
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -1189,6 +1173,22 @@
       "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
     },
     {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "how would you know",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/5gHHjvl70x2T4DdWKFVLM7"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 199861,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "\u200evacation",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/5gHHjvl70x2T4DdWKFVLM7"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 199861,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
-    },
-    {
       "added_at": "2023-01-17 19:42:49",
       "album": {
         "name": "Study",
@@ -1299,6 +1299,22 @@
       "duration_ms": 219565,
       "name": "Boy Next Door",
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "French Blonde",
+        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 266584,
+      "name": "French Blonde",
+      "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "French Blonde",
-        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 266584,
-      "name": "French Blonde",
-      "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 239986,
       "name": "WASTELAND",
       "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
-    },
-    {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
-      },
-      "artists": [
-        {
-          "name": "Shy High",
-          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
+    },
+    {
+      "added_at": "2022-12-16 04:00:00",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1433,26 +1433,6 @@
       "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Secrecies (feat. Sam Austins)",
-        "url": "https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl"
-      },
-      "artists": [
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        },
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 138302,
-      "name": "Secrecies - feat. Sam Austins",
-      "url": "https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl"
-    },
-    {
       "added_at": "2022-12-20 17:28:48",
       "album": {
         "name": "Here Comes The Devil",
@@ -1471,6 +1451,26 @@
       "duration_ms": 193112,
       "name": "Another Devil (feat. Shinra Knives)",
       "url": "https://open.spotify.com/track/3q616lz9fcp3n9siMPQQlM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Secrecies (feat. Sam Austins)",
+        "url": "https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 138302,
+      "name": "Secrecies - feat. Sam Austins",
+      "url": "https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl"
     },
     {
       "added_at": "2022-12-22 17:59:11",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
     },
     {
-      "added_at": "2022-12-09 06:32:00",
-      "album": {
-        "name": "drama",
-        "url": "https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd"
-      },
-      "artists": [
-        {
-          "name": "Surf Rock Is Dead",
-          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
-        }
-      ],
-      "duration_ms": 223686,
-      "name": "show me the world",
-      "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "4th of July",
@@ -1591,6 +1575,22 @@
       "duration_ms": 176996,
       "name": "4th of July",
       "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
+    },
+    {
+      "added_at": "2022-12-09 06:32:00",
+      "album": {
+        "name": "drama",
+        "url": "https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "duration_ms": 223686,
+      "name": "show me the world",
+      "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
     },
     {
       "added_at": "2022-10-21 14:21:02",

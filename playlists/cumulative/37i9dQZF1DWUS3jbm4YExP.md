@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-490 songs - 1 day 12 hr 5 min
+491 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Boul Bayi](https://open.spotify.com/track/1aJ0avSZwIt5qlJKt9aYXX) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Boul Bayi](https://open.spotify.com/album/5fnjE6FP4f2JzhEu22tzWb) | 3:25 | 2022-08-13 | 2022-09-13 |
 | [Brondesbury Park](https://open.spotify.com/track/1EKDGVTyTvaFeWvlDEh5qn) | [Ziggy Funk](https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia) | [Brondesbury Park](https://open.spotify.com/album/1E7PZsd3kQPIQNzySwA076) | 5:37 | 2022-04-17 | 2022-06-17 |
 | [Bukaroo Bank](https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX) | [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Bukaroo Bank](https://open.spotify.com/album/6gwODjchuMhNcNRfbwsrZw) | 3:19 | 2022-09-09 | 2022-10-19 |
-| [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 | 2022-09-30 |  |
+| [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 | 2022-09-30 | 2023-02-06 |
 | [C'est Vrai](https://open.spotify.com/track/2o727Omitml7Jvj7AVEa4f) | [Prosper](https://open.spotify.com/artist/46Vmd1YA5zUO017xsfAAIa), [Le Marabout](https://open.spotify.com/artist/4YXND3dd55ervyH4b8G1hS), [Fou Malade](https://open.spotify.com/artist/6c96fgZXjavQnU9WxH1P2D), [Niagass](https://open.spotify.com/artist/0EQjerybhkqKvlfnVIvAOW) | [C'est Vrai](https://open.spotify.com/album/6OiJQ75UZXmMjltmTNIHXb) | 4:27 | 2022-04-22 | 2022-05-25 |
 | [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 | 2021-10-06 |  |
 | [Calling England Home](https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9) | [Calling England Home](https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz) | 6:13 | 2021-10-06 | 2022-07-29 |
@@ -201,6 +201,7 @@
 | [Hei! Você](https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 2:32 | 2021-10-06 |  |
 | [Hermetico](https://open.spotify.com/track/6MutCpt7eKil6FSvvStCjD) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Nu Med](https://open.spotify.com/album/0ZiyJSosOLDjfWoqxcMeMe) | 5:14 | 2022-03-16 | 2022-04-23 |
 | [Hey Boy](https://open.spotify.com/track/2a7A7T4zjoK1UxzlMLsAzQ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Hey Boy](https://open.spotify.com/album/0BiIix6p1yHvqZYcciHrrh) | 3:15 | 2021-10-06 | 2022-04-18 |
+| [Hey Boy](https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:15 | 2021-10-06 |  |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/7trNi5IxjzvaWces2oI4T7) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Nervous Energy 一触即发](https://open.spotify.com/album/6mWU0Zd0TbHJiuCMvkpnX9) | 3:17 | 2021-11-26 | 2022-07-26 |
 | [Home Soon](https://open.spotify.com/track/7wYN8yIS47A71ZCb3ekHY5) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hounds Tooth](https://open.spotify.com/album/2QQdxn4W5WaiY4SD61BJ6L) | 2:57 | 2022-03-09 |  |
 | [Homo Sapiens](https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX), [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Homo Sapiens / Take the Money \(Octopus Version\)](https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS) | 4:53 | 2021-10-06 | 2022-08-10 |

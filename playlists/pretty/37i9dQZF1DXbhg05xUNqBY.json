@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 276535,
+  "num_followers": 276795,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMGY3ZThiNzA5YzBhNjk2Nzk1MThjZTg5MWU4ODA1Zjc5",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMGEzYTFmNDFiZGM4NzE3OTE0MjJhMTNiNzliMWI2M2Jl",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -211,6 +211,26 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Yahweh Elyon",
+        "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Nathan Staggers",
+          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Yahweh Elyon",
+      "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/41FnfKYB6m3uQSAzPC7Jfc"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Yahweh Elyon",
-        "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
-      },
-      "artists": [
-        {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Nathan Staggers",
-          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Yahweh Elyon",
-      "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -439,26 +439,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "If I Had Stayed",
+        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+      "duration_ms": 131641,
+      "name": "If I Had Stayed",
+      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -495,18 +487,26 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
         }
       ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -551,18 +551,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "If I Had Stayed",
-        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
       },
       "artists": [
         {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
         }
       ],
-      "duration_ms": 131641,
-      "name": "If I Had Stayed",
-      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2021-10-31 01:35:26",

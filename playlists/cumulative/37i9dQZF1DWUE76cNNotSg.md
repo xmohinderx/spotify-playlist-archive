@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-324 songs - 21 hr 26 min
+325 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Far Away Place](https://open.spotify.com/track/6vdX3EXarqCZv28rC4OkCR) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On The Quiet](https://open.spotify.com/album/30SJ2QrjkUMXGrfX0dOGxq) | 4:19 | 2020-12-22 | 2022-04-21 |
 | [Far Away Place](https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 4:19 | 2020-12-22 |  |
 | [Feel Better Now](https://open.spotify.com/track/5F5tU7gE94Kmzi7lHPCgUp) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Feel Better Now](https://open.spotify.com/album/33d0GIhGtH6VL2cLx05yIk) | 3:45 | 2020-12-22 | 2022-07-16 |
+| [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 | 2020-12-22 |  |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(The Remixes\)](https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1) | 3:14 | 2020-12-22 | 2022-12-19 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2020-12-22 | 2022-05-04 |
 | [Feel You](https://open.spotify.com/track/2NHRH85fSwtAXmtQXwEAHV) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Jonas Bjerre](https://open.spotify.com/artist/6XPzWnS6mnbzlY9E9sx9KK) | [YOU](https://open.spotify.com/album/3BAoabrqf7J3aBblCcbUbI) | 4:38 | 2021-09-10 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Music Sounds Better With You](https://open.spotify.com/track/0GL1ye91pT3nJIQzXwncG2) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better With You](https://open.spotify.com/album/143dMy2NJalRNn5AdOA8AI) | 3:18 | 2020-12-22 | 2022-07-29 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 | 2020-12-22 |  |
 | [My Love is True](https://open.spotify.com/track/6b6QfZ7xsZ6sYc6OpoHfTo) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [My Love is True](https://open.spotify.com/album/4CmrtDXXIGt1q2B91lLyx0) | 3:28 | 2022-04-15 | 2022-07-29 |
-| [Myrrh](https://open.spotify.com/track/0GJPN9x51c454tJcYEv5ix) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Selcouth](https://open.spotify.com/album/2lXnIs4McHfWLTn8kRsrE1) | 2:41 | 2020-12-22 |  |
+| [Myrrh](https://open.spotify.com/track/0GJPN9x51c454tJcYEv5ix) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Selcouth](https://open.spotify.com/album/2lXnIs4McHfWLTn8kRsrE1) | 2:41 | 2020-12-22 | 2023-02-06 |
 | [Même Langue](https://open.spotify.com/track/6sp5lUljSuO6nBsCpiPU1K) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 5:04 | 2021-08-31 | 2022-05-08 |
 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 | 2020-12-22 |  |
 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 | 2020-12-22 | 2023-01-04 |

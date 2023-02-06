@@ -31043,7 +31043,7 @@
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211120,
+      "duration_ms": 222000,
       "name": "Just Leave The Past Behind - Human Version",
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
     },
@@ -65490,10 +65490,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 145714,
       "name": "TINTA2",
       "url": "https://open.spotify.com/track/0ftTp4NvYdRzLdZRPtNon3"
+    },
+    {
+      "album": {
+        "name": "TINTA2",
+        "url": "https://open.spotify.com/album/62R5TMCSyyBkJBFC4yZWCQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Milli",
+          "url": "https://open.spotify.com/artist/3fndEtcwxV80TlJ82LXuGM"
+        },
+        {
+          "name": "Kaemeprod",
+          "url": "https://open.spotify.com/artist/6XYzaaShx1NgNmEY50GcQe"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "TINTA2",
+      "url": "https://open.spotify.com/track/70XDxrNLL5bQ7xcsMV10E7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 23,
+  "num_followers": 24,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDNiYzc3NGMzOTEwMzYyNGMzNTM0ODAzNzI1NTk1YTM2",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDQ0MTUwNWRmZjc4ZGQ1MWVmNWJkNmU3YTRlMDg5NTUw",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -711,18 +711,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Some People's Lives",
-        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
+        "name": "An American Tail",
+        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
         }
       ],
-      "duration_ms": 276346,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
+      "duration_ms": 238173,
+      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
+      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -743,22 +747,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "An American Tail",
-        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
+        "name": "Some People's Lives",
+        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
-      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
+      "duration_ms": 276346,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
     },
     {
       "added_at": "2022-02-16 05:37:41",

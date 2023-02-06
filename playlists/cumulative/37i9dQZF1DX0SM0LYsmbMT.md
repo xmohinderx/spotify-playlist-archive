@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,330 songs - 5 day 8 hr 23 min
+3,331 songs - 5 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,7 +770,7 @@
 | [Dreaming Reality](https://open.spotify.com/track/3tsK1dMdL8q1Fb0fkzbeVW) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Dreaming Reality](https://open.spotify.com/album/4YniiagQQMVQ6UaMJeBTW1) | 2:44 | 2019-06-22 | 2019-11-29 |
 | [Dreams](https://open.spotify.com/track/2BMqw1SwM0Oj7JcgX0cAI3) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Dreams](https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm) | 1:40 | 2020-11-03 | 2021-05-21 |
 | [Dreams About](https://open.spotify.com/track/7qjOk4LdB11CnE6a4llbFI) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dreams About](https://open.spotify.com/album/21lS055Om5S3lo49Cbo2m0) | 2:48 | 2022-06-02 |  |
-| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 |  |
+| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 | 2023-02-06 |
 | [Dreamy](https://open.spotify.com/track/4KKCW5nGHbO0OqE4L02rhb) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Dreamy](https://open.spotify.com/album/4WLQGmBGAzeJlm8q2SVqci) | 2:15 | 2021-07-16 | 2021-09-10 |
 | [Drift](https://open.spotify.com/track/6nwDUDXx8IWzPMqQGm72we) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Drift](https://open.spotify.com/album/29Fr3IX73K1KX8gBPhqdFW) | 2:45 | 2021-02-18 | 2021-07-09 |
 | [Drift](https://open.spotify.com/track/0oOJy3FP3Z0zPBqXgxy1A8) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Drift / Voyage](https://open.spotify.com/album/0tQpckZax3v5yKDqXODGoM) | 2:05 | 2020-06-19 | 2021-03-06 |
@@ -1243,6 +1243,7 @@
 | [Honey](https://open.spotify.com/track/2sKOR97teUvnFpiG3HE08D) | [mowtif](https://open.spotify.com/artist/5eY6Vl9jYEjpH5ZeKne0ZT), [Andrea Stefano](https://open.spotify.com/artist/7hyroNuGeG9kBa5aQVJVzL) | [Life From The Stu'](https://open.spotify.com/album/5RzAcEUVo9UIc32BQkelCv) | 3:21 | 2020-08-08 | 2021-02-12 |
 | [Honey](https://open.spotify.com/track/10y6ACyIT28QCEWoJJfQrl) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Washed Away](https://open.spotify.com/album/38aJHJuwRI12tW7rJdWJXG) | 1:58 | 2021-07-27 | 2021-09-17 |
 | [Honey](https://open.spotify.com/track/3J5TOfdapr7qhtHBTVyVkv) | [V.Raeter](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ), [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Honey](https://open.spotify.com/album/5i6E5I06eaXT4zZ6qsFckK) | 2:28 | 2021-12-12 | 2021-12-26 |
+| [Honey BBQ](https://open.spotify.com/track/3gwrmMNE03XPOGf8PikAjX) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Honey BBQ](https://open.spotify.com/album/1FsCFzDQhtgugb0zaM02dG) | 1:57 | 2023-02-02 |  |
 | [Honeydew](https://open.spotify.com/track/1hbHXbiiTFYTdepJpbpiBK) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Eske](https://open.spotify.com/artist/0KMz5qZIZekZPfPUfwo2y9), [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr) | [Honeydew](https://open.spotify.com/album/1Qu5zbvZX7R1tcPHSEtlGG) | 2:26 | 2021-12-17 | 2022-07-01 |
 | [Hoody Allen](https://open.spotify.com/track/0dADUiNsDP1Os9bYAuEL2D) | [Dabey](https://open.spotify.com/artist/5PlbCXGclhKsbKfOtuzmVM), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Hoody Allen](https://open.spotify.com/album/1osOj1I6vVQr2LUlss92Xt) | 2:34 | 2021-01-29 | 2021-05-28 |
 | [Hook Up \- Instrumental](https://open.spotify.com/track/45vkCCNZVFqxk2RThqpe1Y) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Hook Up](https://open.spotify.com/album/2pynidpCBkQFaH3XVwykzm) | 2:27 | 2020-06-05 | 2020-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Westerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,724 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,758 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 73 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 |
 | 74 | [Toybox](https://open.spotify.com/track/0QCBCBIw9U3L10PgNrqNDT) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Toybox](https://open.spotify.com/album/1uWBc1FpOgflaKtLilrmcQ) | 3:05 |
 | 75 | [80,000](https://open.spotify.com/track/2PtoXnSazKxTmvDXGojzxm) | [Tungz](https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7) | [80,000](https://open.spotify.com/album/49mknv9FJku0CLyDhu9vlU) | 2:53 |
-| 76 | [Divebomb](https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Divebomb](https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6) | 3:22 |
+| 76 | [Divebomb](https://open.spotify.com/track/0Q0ePAA7KOrodVfDpwDvDY) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Get Up Sequences Part Two](https://open.spotify.com/album/4wkclV3QQZPnjFWBqqrgzh) | 3:22 |
 | 77 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 78 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
 | 79 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 |
 | 100 | [At Square One](https://open.spotify.com/track/5bC9v4bOpSOePUppltJIVc) | [404 Guild](https://open.spotify.com/artist/3mgH0hO1O28tYKhsucv0PG) | [False Dawn](https://open.spotify.com/album/0UE93XiGrVV8k6lkecu3qe) | 3:37 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDlmMDg4NGE0ZmI1NWU5ODNmNjBlMTBjZTllNWIwZTUz`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGU0YTMyNjFmNjA3NGYyYWViNjNhMzdlNWFjNGRkZTZl`

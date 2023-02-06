@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53061,
+  "num_followers": 53058,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDNjZWQ0MTI0MWQwMzU3YmVhYzcwOTcxZTIxZDk2Mjgz",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDI3YjBmYmJkZmY4ZGQwYmMyOTAzN2JhYzczMWUwYjFi",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 401266,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
+        "name": "The Blood Song",
+        "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
       },
       "artists": [
         {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
+          "name": "Chris Bender",
+          "url": "https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG"
+        },
+        {
+          "name": "D'Shondra Perry",
+          "url": "https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa"
         }
       ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
+      "duration_ms": 334550,
+      "name": "The Blood Song",
+      "url": "https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa"
     },
     {
       "added_at": "2022-04-17 06:11:04",

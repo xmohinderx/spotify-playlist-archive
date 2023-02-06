@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Cheo",
-  "num_followers": 247666,
+  "num_followers": 247693,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDg1OTExZTAxNDY2NWI2YjcwY2E4NmE4MjViNGE2ZTU5",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDQ2MzEzYzgyOGQyMjUzYzI3NmRlNmM4MTMxZmMyOGU5",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Mi Mundo Entero",
-        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 158067,
-      "name": "Mi Mundo Entero",
-      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Mi Mundo Entero",
+        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158067,
+      "name": "Mi Mundo Entero",
+      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 186674,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "atravesao",
         "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 276726,
       "name": "Decid\u00ed Tener Pantalones",
       "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 186674,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "La Boda",
-        "url": "https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 233479,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "La Boda",
+        "url": "https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 233479,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "SexToy",
-        "url": "https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB"
-      },
-      "artists": [
-        {
-          "name": "Esme",
-          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
-        }
-      ],
-      "duration_ms": 233269,
-      "name": "SexToy",
-      "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Es Mentiroso (Nueva Versi\u00f3n 2022)",
         "url": "https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Creo En Amor",
-        "url": "https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK"
+        "name": "SexToy",
+        "url": "https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB"
       },
       "artists": [
         {
-          "name": "Mandinga",
-          "url": "https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe"
+          "name": "Esme",
+          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
         }
       ],
-      "duration_ms": 210300,
-      "name": "Creo en amor",
-      "url": "https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j"
+      "duration_ms": 233269,
+      "name": "SexToy",
+      "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 269471,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Creo En Amor",
+        "url": "https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK"
+      },
+      "artists": [
+        {
+          "name": "Mandinga",
+          "url": "https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe"
+        }
+      ],
+      "duration_ms": 210300,
+      "name": "Creo en amor",
+      "url": "https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
+        "name": "Tu Juguete",
+        "url": "https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk"
       },
       "artists": [
         {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
         }
       ],
-      "duration_ms": 203327,
-      "name": "Me Voy a Quitar de en Medio",
-      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
+      "duration_ms": 231500,
+      "name": "Tu Juguete",
+      "url": "https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke"
     }
   ],
   "unique_name": "el nuevo tropical",

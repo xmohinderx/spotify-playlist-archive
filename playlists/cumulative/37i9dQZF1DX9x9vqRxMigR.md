@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-482 songs - 1 day 7 hr 29 min
+483 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Inside Out](https://open.spotify.com/track/0O9q0skb5Xt8jKZCZdL02u) | [The Heart Collectors](https://open.spotify.com/artist/0DEsyMMqjveH8o0Higee5E) | [Time To Say I Love You](https://open.spotify.com/album/2atu32OqtlBCYxvmmgvEPK) | 4:23 | 2022-04-25 | 2023-01-25 |
 | [Intemporal](https://open.spotify.com/track/0H2Da34ZeqCkUeBjk6mkaT) | [Pipo Romero](https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq) | [Ikigai](https://open.spotify.com/album/4YwSofiVUy4Ju0nOw21Na6) | 6:05 | 2023-01-24 |  |
 | [Iontach Bheith Beo \(Good to be Alive\)](https://open.spotify.com/track/4GoZSaAzdGvgcu1zI33C1t) | [Clare Sands](https://open.spotify.com/artist/3aTPHHQklWiBhXpGr0Ujx0), [BRÍDÍN](https://open.spotify.com/artist/7dYTPbaq6GRjIQaUhDb4fh) | [Iontach Bheith Beo \(Good to be Alive\)](https://open.spotify.com/album/5PDPA99KbBwQpDyqqUsP9t) | 3:48 | 2022-04-25 | 2023-01-25 |
-| [Iron Horse Gallup](https://open.spotify.com/track/5sCrvtVlJkJkzc7x7uWH98) | [The Delbert Anderson Trio](https://open.spotify.com/artist/4FBVfbxB8aMCmnLzzt4cz3) | [Manitou](https://open.spotify.com/album/0nPlHlIqsVHhc4eY9cfS86) | 5:29 | 2022-04-25 |  |
+| [Iron Horse Gallup](https://open.spotify.com/track/5sCrvtVlJkJkzc7x7uWH98) | [The Delbert Anderson Trio](https://open.spotify.com/artist/4FBVfbxB8aMCmnLzzt4cz3) | [Manitou](https://open.spotify.com/album/0nPlHlIqsVHhc4eY9cfS86) | 5:29 | 2022-04-25 | 2023-02-06 |
 | [Is It Like Today](https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [Paradise Hotel](https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa) | 5:49 | 2022-04-25 | 2023-01-25 |
 | [It Slips Away](https://open.spotify.com/track/7ArgRCEOSGHKv7pnY75RKV) | [Shane Pendergast](https://open.spotify.com/artist/7tZRWCtvjQO3Q1tjlzzfFw) | [It Slips Away](https://open.spotify.com/album/7aQt9b2eG6Zk7F04giTUfk) | 3:51 | 2021-02-23 | 2022-04-26 |
 | [It Works](https://open.spotify.com/track/650Z7MTSE1nLjuTq1xKdo4) | [Monique Clare](https://open.spotify.com/artist/3zQWN1nkGlvo1MpwTuZBWk) | [It Works](https://open.spotify.com/album/2e5jkK1Q8MY3L4dgZpr1KY) | 3:05 | 2021-02-23 | 2022-04-26 |
@@ -228,6 +228,7 @@
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-02-23 | 2022-04-26 |
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-04-25 | 2023-01-25 |
 | [Keep On](https://open.spotify.com/track/5ITo0Il1GL376VHywWD7xr) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Joy](https://open.spotify.com/album/4BT5txfrTsxlXpoRVTx8QX) | 3:59 | 2021-02-23 | 2022-04-26 |
+| [Keep Your Lamps Trimmed and Burning](https://open.spotify.com/track/1P48SL7KyyVQbcLPoW0AvV) | [Danny Glover](https://open.spotify.com/artist/5OTCpfGPEqrf6FPu6WPdA3), [Rev\. Robert B\. Jones Sr.](https://open.spotify.com/artist/0jbRikvi4pqzMDmsg8Hkys) | [Get On Board! Underground Railroad & Civil Rights Freedom Songs, Vol\. 2](https://open.spotify.com/album/5c3wVZMmV0nE4us13kgzDi) | 3:31 | 2023-01-24 |  |
 | [Keeper](https://open.spotify.com/track/3iFgpSs3JOc1r4Z3cIeMaZ) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Little Misty](https://open.spotify.com/album/7Kcur3ttx8Cj4HpdcBFClK) | 4:07 | 2021-02-23 | 2022-04-26 |
 | [Kites](https://open.spotify.com/track/7xwNdMaP5A8fxaTAwARJ3X) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [Rising](https://open.spotify.com/album/2tfVDWZlGOrAEz4M7tpZfn) | 8:07 | 2022-04-25 | 2023-01-25 |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2021-02-23 | 2022-04-26 |

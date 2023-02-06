@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "i'm closing my eyes",
+        "url": "https://open.spotify.com/album/1wGHYYuPgPz7z9rwrhwmSg"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118413,
+      "name": "i'm closing my eyes",
+      "url": "https://open.spotify.com/track/5biMMPWAIQXJEwScwcWWcr"
+    },
+    {
+      "album": {
         "name": "Futari",
         "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
       },

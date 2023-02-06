@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: Leony",
-  "num_followers": 863399,
+  "num_followers": 863712,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI0MTI3MCwwMDAwMDAwMDZkODg4MDgwZGY3ZjZhNTUzNjBkZmNkMTkzODBmZGU2",
+  "snapshot_id": "MTY3NTI0MTI3MCwwMDAwMDAwMGUzMjZkMjRmNjdlYmEyZmRlMTFmZjRjODE0ZmUwNWRi",
   "tracks": [
     {
       "added_at": "2023-02-01 08:47:50",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161202,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "N\u00e9ztek",
-        "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Andi",
-          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
-        }
-      ],
-      "duration_ms": 147164,
-      "name": "N\u00e9ztek",
-      "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
         "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
         "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ"
+        "name": "N\u00e9ztek",
+        "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
         }
       ],
-      "duration_ms": 204622,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL"
+      "duration_ms": 147164,
+      "name": "N\u00e9ztek",
+      "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -491,6 +475,38 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "Amante y Amigo",
+      "url": "https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
         "name": "\u05d4\u05d2\u05d9\u05dc \u05d3\u05d5\u05e4\u05e7 \u05d1\u05d3\u05dc\u05ea (Prod. By Triangle)",
         "url": "https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf"
+        "name": "Ma Place",
+        "url": "https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK"
       },
       "artists": [
         {
-          "name": "Arelys Henao",
-          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
         }
       ],
-      "duration_ms": 184517,
-      "name": "Amante y Amigo",
-      "url": "https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef"
+      "duration_ms": 161565,
+      "name": "Ma Place",
+      "url": "https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "Ma Place",
-        "url": "https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK"
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
       },
       "artists": [
         {
-          "name": "RORI",
-          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
         }
       ],
-      "duration_ms": 161565,
-      "name": "Ma Place",
-      "url": "https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P"
+      "duration_ms": 193493,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
         "name": "Haramata",
         "url": "https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
@@ -623,6 +639,22 @@
       "duration_ms": 334000,
       "name": "Late Night People",
       "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
+      },
+      "artists": [
+        {
+          "name": "GONEISBACK",
+          "url": "https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -671,22 +703,6 @@
       "duration_ms": 243946,
       "name": "Wytrzymam",
       "url": "https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
-      },
-      "artists": [
-        {
-          "name": "GONEISBACK",
-          "url": "https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
         "name": "Down Down Down Down",
         "url": "https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 191040,
       "name": "Down Down Down Down",
       "url": "https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh"
-      },
-      "artists": [
-        {
-          "name": "Numcha",
-          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "in my white dress",
-      "url": "https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "The One (I Haven't Met)",
-        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh"
       },
       "artists": [
         {
-          "name": "Nathalie Ezmeralda",
-          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
         }
       ],
-      "duration_ms": 187636,
-      "name": "The One (I Haven't Met)",
-      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
+      "duration_ms": 183250,
+      "name": "in my white dress",
+      "url": "https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
+        "name": "The One (I Haven't Met)",
+        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Ezmeralda",
+          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "The One (I Haven't Met)",
+      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
         "name": "Kiazaki",
         "url": "https://open.spotify.com/album/426YtAuT6tUO7MXo9xLjA2"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
-      },
-      "artists": [
-        {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
-      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
         "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
         "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 191927,
       "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
+        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
+        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
+      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
     },
     {
       "added_at": "2023-02-01 08:47:50",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-02-01 08:47:50",
       "album": {
+        "name": "Laal Ishq",
+        "url": "https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR"
+      },
+      "artists": [
+        {
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
+        }
+      ],
+      "duration_ms": 113005,
+      "name": "Laal Ishq",
+      "url": "https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N"
+    },
+    {
+      "added_at": "2023-02-01 08:47:50",
+      "album": {
         "name": "la jaula",
         "url": "https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 182933,
       "name": "la jaula",
       "url": "https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz"
-    },
-    {
-      "added_at": "2023-02-01 08:47:50",
-      "album": {
-        "name": "Laal Ishq",
-        "url": "https://open.spotify.com/album/3DwG13lfiH3IL5DWgmyQuR"
-      },
-      "artists": [
-        {
-          "name": "Zaw Ali",
-          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
-        }
-      ],
-      "duration_ms": 113005,
-      "name": "Laal Ishq",
-      "url": "https://open.spotify.com/track/538KG2KvN1nMhMdXAJa49N"
     },
     {
       "added_at": "2023-02-01 08:47:50",

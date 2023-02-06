@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-294 songs - 19 hr 22 min
+295 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cuento Breve](https://open.spotify.com/track/06tzhAN6FRlL4HbR1X0ODE) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Cuento Breve](https://open.spotify.com/album/5mrJl1caIWSIpwLHXzeSX7) | 3:20 | 2022-02-11 | 2022-04-29 |
 | [Dame el Aire](https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Al Máximo Late](https://open.spotify.com/album/5BoaBnzIipQvH6vHYQPlii) | 3:24 | 2021-12-24 | 2022-06-03 |
 | [Dame un Poco Mas](https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/7v1XJK0ehRER8L2PezbOzH) | 3:47 | 2021-12-24 | 2022-07-26 |
-| [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 | 2022-07-22 |  |
+| [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 | 2022-07-22 | 2023-02-06 |
 | [Dame una Razón](https://open.spotify.com/track/1auGDpDg9HqMjrYG7tjcPB) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Dame una Razón](https://open.spotify.com/album/5qSBL4XLxjWHd4Y9y1HJlk) | 2:48 | 2022-11-11 | 2022-12-22 |
 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 | 2021-12-24 | 2022-07-29 |
 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 | 2021-12-24 |  |
@@ -92,6 +92,7 @@
 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 | 2022-09-05 | 2023-01-14 |
 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 | 2021-12-24 |  |
 | [Fiesta para dos](https://open.spotify.com/track/5iH1LuJAXVadg4p4GZQkVB) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Fiesta para dos](https://open.spotify.com/album/0qPqSqsuiRk6WuNhc3fNEx) | 5:05 | 2022-01-21 | 2022-06-18 |
+| [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 | 2023-01-27 |  |
 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 | 2022-06-24 | 2023-01-23 |
 | [Fragmentos Enganchados, Pt\. 2](https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R), [Pelusa](https://open.spotify.com/artist/4arvU6IZ9iiulbCZPiO1GB), [Orly](https://open.spotify.com/artist/1ga5jO5WHSc52U7aLHjgMu), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Ariel Ferrari](https://open.spotify.com/artist/3KnOrIiRxuOpbrsEu3fs4g), [Cuarteto La Leo](https://open.spotify.com/artist/40hqSkAkIFIDvGF829OspL), [Damian](https://open.spotify.com/artist/0k2x5gTohSgbssM7qLYgvW), [Alberto Tosas](https://open.spotify.com/artist/3aFNWFkFsSfGr9UPDxagWq), [Cuarteto de Oro](https://open.spotify.com/artist/5Gc3h7r4iV94WZYozevgYT), [Santamarina](https://open.spotify.com/artist/0bWJRk7RVy4BSt0S8S7fTJ), [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL), [Heraldo Bosio](https://open.spotify.com/artist/5B8x8r9gHNj8pVqc8sWQyW), [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rubino](https://open.spotify.com/artist/0eXidz8GSBhFhtqd7fdcs7), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Ferné, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!](https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT) | 25:00 | 2021-12-24 |  |
 | [Fue Culpa del Amor](https://open.spotify.com/track/2PapQiMjbJ5ALCPnpwIk87) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Fue Culpa del Amor](https://open.spotify.com/album/4iXP6iThkVJY1Y6Zi0niPL) | 3:52 | 2021-12-24 | 2022-07-11 |

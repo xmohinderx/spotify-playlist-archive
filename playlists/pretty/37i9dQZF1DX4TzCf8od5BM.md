@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Spidey and His Amazing Friends! Watch now on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,208 likes - 164 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,250 likes - 164 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

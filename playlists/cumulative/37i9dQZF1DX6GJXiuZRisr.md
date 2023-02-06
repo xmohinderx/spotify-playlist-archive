@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-335 songs - 1 day 1 hr 17 min
+336 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-01 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-09-30 |  |
-| [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 | 2021-05-07 |  |
+| [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 | 2021-05-07 | 2023-02-06 |
 | [That Feeling](https://open.spotify.com/track/2A0i0EbPhPPQB1DijycJ27) | [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [That Feeling](https://open.spotify.com/album/3rK4b6PnEFmch3KMyu54yK) | 3:51 | 2021-12-17 | 2022-07-27 |
 | [The Arrival](https://open.spotify.com/track/5DCQiBkk4jqj3y7ozW6DuG) | [FaderX](https://open.spotify.com/artist/2LlrfyQDYOQrRgySUicv1Y) | [The Arrival](https://open.spotify.com/album/0jqur582jBbWAHMPiKBvXj) | 4:10 | 2021-05-07 | 2022-07-27 |
 | [The Blame \- Single Edit](https://open.spotify.com/track/4dffcyDgshaZyEQaMDkOVB) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 4:25 | 2021-05-07 | 2022-04-21 |
@@ -320,6 +320,7 @@
 | [Unity \- Radio Edit](https://open.spotify.com/track/6IRX8HIpiNuUF3F5cat8su) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Regrets \(Radio Edits\)](https://open.spotify.com/album/5VzOEPqJTYOSl1zr9FOx2T) | 3:14 | 2021-05-07 | 2022-04-20 |
 | [Universal Love \- Edit](https://open.spotify.com/track/1eDXl7SV2o2jSrFbClsgVB) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Universal Love](https://open.spotify.com/album/0Ze2x7JSIuxLz7gXPzJMAY) | 5:17 | 2021-05-07 | 2022-07-29 |
 | [Unlovable](https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo) | 4:02 | 2023-01-27 | 2023-02-02 |
+| [Unlovable](https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1) | 4:02 | 2023-01-27 |  |
 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 | 2021-05-07 | 2022-06-23 |
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 |  |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |

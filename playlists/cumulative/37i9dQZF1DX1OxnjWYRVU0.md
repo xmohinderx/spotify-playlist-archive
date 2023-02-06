@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-403 songs - 17 hr 46 min
+404 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Down](https://open.spotify.com/track/6mgFmrqH0Ea48gnUHvhtzO) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY), [Idetto](https://open.spotify.com/artist/1KfEELJWhaiw5NeP3jAztZ) | [Down](https://open.spotify.com/album/2u2b7wNsh3t0KYdobb17OC) | 2:26 | 2022-01-13 |  |
 | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B) | 3:24 | 2022-01-13 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/78WlCmDXofKQyBt1MfGdGz) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo), [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Edge of Seventeen](https://open.spotify.com/album/0WiZxJN1FbchsFtE6ehToP) | 2:57 | 2022-05-19 |  |
-| [Enemy](https://open.spotify.com/track/10jULQ7v0FBHh8W2LMZYsJ) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Enemy](https://open.spotify.com/album/5i6yBBqifKd9eduDFhfP3L) | 2:29 | 2022-05-19 |  |
+| [Enemy](https://open.spotify.com/track/10jULQ7v0FBHh8W2LMZYsJ) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Enemy](https://open.spotify.com/album/5i6yBBqifKd9eduDFhfP3L) | 2:29 | 2022-05-19 | 2023-02-06 |
+| [Enemy](https://open.spotify.com/track/1ZkTLswmhUSHHSPILGPMKL) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Enemy](https://open.spotify.com/album/4i6gA7aadsUzYY71DpQouO) | 2:29 | 2022-10-27 |  |
 | [Every Breath](https://open.spotify.com/track/4DmWlH9odBJzBEdhrqOcFn) | [Gino Manzotti & Maxx](https://open.spotify.com/artist/0TBbNuZHUk7EvTFycBycOS), [KARLA](https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3) | [Every Breath](https://open.spotify.com/album/1HSYAu12jEJ9PvQxOqM71i) | 2:49 | 2022-01-13 |  |
 | [Every Breath You Take](https://open.spotify.com/track/5pO2v6kaQwh8aeVISo7NYG) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Every Breath You Take](https://open.spotify.com/album/0VlhtM0WNt1WXRJXFz3Ovk) | 2:00 | 2022-01-13 |  |
 | [Everytime We Touch](https://open.spotify.com/track/3GHVBPMCBK125Z0g5N8aBz) | [Frank Moody](https://open.spotify.com/artist/0ZL2OZFfHk4BiwnnPKsD3e), [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Round Light](https://open.spotify.com/artist/3Fww7SwFqe9RvMQlfeYhef) | [Everytime We Touch](https://open.spotify.com/album/55Ix923tDdUj2F86APGpoj) | 2:37 | 2022-09-29 |  |

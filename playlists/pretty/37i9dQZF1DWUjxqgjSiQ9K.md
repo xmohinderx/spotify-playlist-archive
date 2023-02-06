@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Majo y Dan
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,750 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,980 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 31 | [Poema \- Remix](https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Poema \(Remix\)](https://open.spotify.com/album/3dLjaByozvJs91ooszGEEp) | 3:21 |
 | 32 | [Dios No Ha Terminado Contigo](https://open.spotify.com/track/37qiAdXakIsMmY5SgXdmHW) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Dios No Ha Terminado Contigo](https://open.spotify.com/album/7nX6ZExMSeiCviItKuku22) | 3:30 |
 | 33 | [Tu Bondad](https://open.spotify.com/track/7xURcWepR5TwKQMhA3vnMC) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Tu Bondad](https://open.spotify.com/album/6czX5yPQCPYjFp7QU0eoqU) | 4:15 |
-| 34 | [El justo vivirá por fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El justo vivirá por fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
+| 34 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
 | 35 | [Bello Jesús](https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s) | [Alisha Quinonez](https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8) | [Bello Jesús](https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB) | 4:41 |
 | 36 | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/track/6rX9TQKXlw09RqewRHLSCG) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/album/4h3p0gYx5Ti6VFHS9ACMZy) | 4:33 |
 | 37 | [Te seguiré](https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Te seguiré](https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC) | 5:02 |

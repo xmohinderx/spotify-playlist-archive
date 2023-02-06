@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-632 songs - 1 day 9 hr 31 min
+633 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 |  |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
-| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-05 |
+| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 |  |
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 |  |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
@@ -68,6 +68,7 @@
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 | 2022-09-16 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
 | [Bon Voyage](https://open.spotify.com/track/5tLiS8p0h4bvKzfXZQRuHR) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Bon Voyage](https://open.spotify.com/album/2uv4wl8CnCEb0ZIIKOaCj5) | 2:54 | 2022-02-05 | 2022-07-28 |
+| [Borde veta bättre](https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Borde veta bättre](https://open.spotify.com/album/1GxOfH3LSqV3ySAEbCSnHE) | 2:45 | 2023-02-02 |  |
 | [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 | 2023-01-06 |
 | [Boys We Chased](https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Boys We Chased](https://open.spotify.com/album/05kCs6VC9to0deUTGfioej) | 3:29 | 2022-03-10 | 2022-07-29 |
 | [Bra ihop](https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Bra ihop](https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC) | 3:43 | 2021-12-16 | 2022-03-11 |
@@ -246,7 +247,7 @@
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |
 | [Hold Me Close](https://open.spotify.com/track/1u9Pa9SFHXZ8C3XAs58a0X) | [Jean Root](https://open.spotify.com/artist/552ZwELQyZPtQtikl5e1tn) | [Hold Me Close](https://open.spotify.com/album/5M1PlvFGwsOg0DH4ntV8n6) | 3:33 | 2022-05-05 | 2022-05-07 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-02-26 | 2022-09-16 |
-| [Hold Out](https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Hold Out](https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics) | 3:11 | 2022-10-06 |  |
+| [Hold Out](https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Hold Out](https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics) | 3:11 | 2022-10-06 | 2023-02-06 |
 | [Holding me more](https://open.spotify.com/track/4kV0TDGZChH1My78V6B3FW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Holding me more](https://open.spotify.com/album/6U8WUYtjLkZP3CG208XsPj) | 3:30 | 2021-12-16 | 2022-03-11 |
 | [Hollow Woods](https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Hollow Woods](https://open.spotify.com/album/2L3CYGyZmGjCg6DKSrusQP) | 3:41 | 2022-05-05 | 2022-06-07 |
 | [Hon har dig](https://open.spotify.com/track/02twVAfoDG1podz5ns885c) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N) | [Bara bby](https://open.spotify.com/album/3plhQIEFllsYNv708OaENV) | 2:35 | 2022-05-05 |  |
@@ -492,7 +493,7 @@
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 |  |
-| [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 |  |
+| [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 | 2023-02-06 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-05 | 2022-09-16 |
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-09-29 |  |

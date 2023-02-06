@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Gloss Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,445 likes - 65 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,274 likes - 65 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

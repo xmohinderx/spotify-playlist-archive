@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-841 songs - 1 day 22 hr 30 min
+842 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Dancing Shoes](https://open.spotify.com/track/6n9o7RoWEcX9LOrggAq2Sc) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Dancing Shoes](https://open.spotify.com/album/6srhHq4uoGMCSeUeUouTbR) | 3:34 | 2020-05-22\* | 2021-12-21 |
 | [Dare Me](https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Tim Morrison](https://open.spotify.com/artist/7jorGtdk1HfscrUyanHXlf) | [Dare Me](https://open.spotify.com/album/4mO6PozqdENP4fB9g8lxZv) | 3:02 | 2020-08-04 | 2022-04-20 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/1evGUMi2rIAvUewPRHm3sl) | 2:20 | 2022-09-30 | 2023-01-07 |
+| [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2023-02-03 |  |
 | [Day & Nite](https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Day & Nite](https://open.spotify.com/album/01rqtg7JizK7VAbzo77Rft) | 2:53 | 2022-05-13 | 2022-07-29 |
 | [Day 'N' Nite \- Martin Jensen Edit](https://open.spotify.com/track/0ou367q5bmco9pZNxq80iD) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Ben Hamilton](https://open.spotify.com/artist/1Rqa3ZF83zo3rKGrKMM0iD), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Day 'N' Nite \(Martin Jensen Edit\)](https://open.spotify.com/album/4edGK565BSJL2C8wwZAnDh) | 2:46 | 2020-05-22\* | 2020-10-21 |
 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 | 2022-08-19 | 2022-11-13 |
@@ -457,7 +458,7 @@
 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 | 2021-04-20 | 2022-04-21 |
 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-12-31 |  |
 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2021-07-16 | 2022-12-15 |
-| [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2021-12-18 |  |
+| [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2021-12-18 | 2023-02-06 |
 | [Love You Like That](https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Love You Like That](https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT) | 2:55 | 2021-10-11 | 2022-04-21 |
 | [Love, Dance And Feel](https://open.spotify.com/track/6mDFoD64XOInpQJOtd9N3r) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Leon Benesty](https://open.spotify.com/artist/6Z6GWcZniHVuVjmCq3kIh1) | [Love, Dance And Feel](https://open.spotify.com/album/7nHUe9WmlzONCSIRYDo46Z) | 3:56 | 2020-10-13 | 2021-10-13 |
 | [Love, Peace & Harmony](https://open.spotify.com/track/1vKVGg4sQDZW4eO7qLh6WM) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Love, Peace & Harmony](https://open.spotify.com/album/2vyp5UBiqBNn2zkAmLslyi) | 2:27 | 2022-07-14 | 2022-07-30 |

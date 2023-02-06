@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Pastor Mike Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,759 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,031 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 40 | [Fill Us Again](https://open.spotify.com/track/7kVkRvD6GzhiE9HyeTyzUx) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Fill Us Again](https://open.spotify.com/album/1UY2yWmD89szxPnrBpCVXX) | 7:22 |
 | 41 | [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 |
 | 42 | [Be Alright](https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY) | [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF), [Christina Bell](https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR) | [How Are You Healing?](https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy) | 4:45 |
-| 43 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 |
+| 43 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 |
 | 44 | [View The City \(Remix\)](https://open.spotify.com/track/7AYkcUM5V8XMOapDLfyhum) | [RiZen](https://open.spotify.com/artist/7C3Pq2a9BxqO7lEhCuXMLV) | [View The City \(Remix\)](https://open.spotify.com/album/7K0eWzmViERBe9IKdIa9xC) | 4:34 |
 | 45 | [I Love to Call Him](https://open.spotify.com/track/3X2XCrzqrs1Wo8oEidcZMb) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [I Love to Call Him](https://open.spotify.com/album/3S2W9Kd9sMYrbNNDTnM1uP) | 5:25 |
 | 46 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 |

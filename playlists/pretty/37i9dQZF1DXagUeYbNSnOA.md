@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Pao Pestana\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,702 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,699 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 |
 | 2 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
-| 3 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
+| 3 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
 | 4 | [Aguardiente](https://open.spotify.com/track/4YnkXoTta5kVHEJulE7D6V) | [Juana](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W), [Koen Peters](https://open.spotify.com/artist/17jLGwFc7vsKlK7Znqy01D) | [Aguardiente](https://open.spotify.com/album/1IM47Svpim9peeGUXZ2bhC) | 3:03 |
-| 5 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
+| 5 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
 | 6 | [Modo Racing](https://open.spotify.com/track/5Tfu400KFxjNmUuhObNYjF) | [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj) | [Modo Racing](https://open.spotify.com/album/07UFeeR6w1OqWkdFBTxX4O) | 3:21 |
 | 7 | [La Idea de Ti](https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [La Idea de Ti](https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV) | 5:12 |
 | 8 | [La sombra visible](https://open.spotify.com/track/1TY1eRuJ3kIVqBkg5U1xLM) | [Pilu Fernández](https://open.spotify.com/artist/2wbpMVf2cJsSMRo7bVgz4p) | [La sombra visible](https://open.spotify.com/album/2t1cQcNUIiWzskUACKU0Er) | 4:51 |
@@ -34,18 +34,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [Esa Estrella](https://open.spotify.com/track/4iJRpz6i71WVWe8Kszfj6h) | [Tans](https://open.spotify.com/artist/0pURC7MsEZie2cumBkMqfL), [Servio jr](https://open.spotify.com/artist/6WRHJS846qfSBWLAGTNczH) | [Esa Estrella](https://open.spotify.com/album/5hRegApwbSKKGkTZwdvaFL) | 2:26 |
 | 25 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 |
 | 26 | [Majalca](https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V) | [Charlie Gahu](https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs) | [Majalca](https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O) | 2:58 |
-| 27 | [No Me Queda Mas](https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH) | [Yelka](https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji) | [No Me Queda Mas](https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu) | 1:41 |
-| 28 | [Caminos Diferentes](https://open.spotify.com/track/2bVN9n3bKHkm9Qcwdokk9H) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Caminos Diferentes](https://open.spotify.com/album/3ccrmjkBbnWyZe9VJrfeWk) | 3:26 |
+| 27 | [Caminos Diferentes](https://open.spotify.com/track/2bVN9n3bKHkm9Qcwdokk9H) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Caminos Diferentes](https://open.spotify.com/album/3ccrmjkBbnWyZe9VJrfeWk) | 3:26 |
+| 28 | [No Me Queda Mas](https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH) | [Yelka](https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji) | [No Me Queda Mas](https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu) | 1:41 |
 | 29 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
-| 30 | [Volver a Verte](https://open.spotify.com/track/22WlMDCW6ESoWOdpNSzvsA) | [Jota Taborda](https://open.spotify.com/artist/0D2Az4CC8VhYnNuiXX1qvM), [Orquesta La Central](https://open.spotify.com/artist/1KlFuGgeFCBe09jhko5a75) | [Volver a Verte](https://open.spotify.com/album/2L12a7a6djd5lykCQDtoSu) | 2:48 |
-| 31 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
+| 30 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
+| 31 | [Volver a Verte](https://open.spotify.com/track/22WlMDCW6ESoWOdpNSzvsA) | [Jota Taborda](https://open.spotify.com/artist/0D2Az4CC8VhYnNuiXX1qvM), [Orquesta La Central](https://open.spotify.com/artist/1KlFuGgeFCBe09jhko5a75) | [Volver a Verte](https://open.spotify.com/album/2L12a7a6djd5lykCQDtoSu) | 2:48 |
 | 32 | [Quédate Aquí](https://open.spotify.com/track/1zm530Ob5yye9Nio6owc3X) | [Fernanda Sardaneta](https://open.spotify.com/artist/1x29wDLnv8Gdf25MaJn1v4) | [Quédate Aquí](https://open.spotify.com/album/6xTbo6pgEB8YKExx8mOGG6) | 3:24 |
-| 33 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
-| 34 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
+| 33 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
+| 34 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
 | 35 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
 | 36 | [Luna Llena](https://open.spotify.com/track/4GoUK8z8lKY9V6bfuOvyyk) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Luna Llena](https://open.spotify.com/album/1qIVHrzSRxCEEfFw5UJcFo) | 2:48 |
-| 37 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 |
-| 38 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
+| 37 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
+| 38 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 |
 | 39 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
 | 40 | [Sábanas Mojadas](https://open.spotify.com/track/4zXAxx7dfk74nN8VQLn9p5) | [Alexxzandro](https://open.spotify.com/artist/4uFSptT61DCmQY8E48punv), [MNYLOW](https://open.spotify.com/artist/7baYWc35aEW5aDL0WMwxxD) | [Sábanas Mojadas](https://open.spotify.com/album/5WGFrugNZzsCPOwU7U7G1w) | 3:12 |
 | 41 | [SALIÓ EL SOL](https://open.spotify.com/track/01MYnmiGiS72uFRJduLSOa) | [PCAS](https://open.spotify.com/artist/7zmFV5etYHA7DYuJYJZXvh) | [SALIÓ EL SOL](https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 |
 | 50 | [AUCH](https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg) | [Marco Gordiano](https://open.spotify.com/artist/0C2DioA7LLMoIpWwdnlOMY), [Mane Zavala](https://open.spotify.com/artist/2oAjxTmKnRKNwyq6FvjtdY), [Guiza](https://open.spotify.com/artist/5WWOCNWvqOYLTreVl1esP4) | [AUCH](https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q) | 3:06 |
 
-Snapshot ID: `MTY3NTI3MDgwMCwwMDAwMDAwMDU4ZTg0MDI5YjNiNTc2Y2UzZGNlZDZhMmJmZjIxMmNk`
+Snapshot ID: `MTY3NTI3MDgwMCwwMDAwMDAwMGMwYjVhYWNlOWQwYjBiNWQ4OTUyZTMzMjI3ODJmM2Y4`

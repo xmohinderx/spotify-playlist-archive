@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 301589,
+  "num_followers": 301683,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ4OTM5NCwwMDAwMDAwMDdlODM5Zjc4MmIzMDBlMmQ3MmRhYjNlOTJhMmEyN2I2",
+  "snapshot_id": "MTY3MzQ4OTM5NCwwMDAwMDAwMDQxOTc3ZjRjOGQ0NWUyNjNlMTg4OGE5OTY0ZjRhY2Vk",
   "tracks": [
     {
       "added_at": "2023-01-12 02:09:54",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Clube Da Esquina",
         "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -579,8 +579,8 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 464293,
-      "name": "#3",
-      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Selected Public Works, Vol. 5",
-        "url": "https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn"
-      },
-      "artists": [
-        {
-          "name": "Lightbath",
-          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
-        }
-      ],
-      "duration_ms": 86601,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
         "name": "Existenzmaximum - EP",
         "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Selected Public Works, Vol. 5",
+        "url": "https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn"
+      },
+      "artists": [
+        {
+          "name": "Lightbath",
+          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
+        }
+      ],
+      "duration_ms": 86601,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh"
+        "name": "Wurlitzer",
+        "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
       },
       "artists": [
         {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+          "name": "Leifur James",
+          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
         }
       ],
-      "duration_ms": 242624,
-      "name": "Hypnagogia",
-      "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"
+      "duration_ms": 257692,
+      "name": "Wurlitzer",
+      "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
     }
   ],
   "unique_name": "Deep Listening",

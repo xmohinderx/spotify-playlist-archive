@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 362346,
+  "num_followers": 362782,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMGU5MGYxMGMyZDg3N2U2M2Y1ZDgwMDJjOTEwZjVhMWVh",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDcwMTgxNWU2ODUzYmM3YzgwNTgzYjkxODBkOWM4Nzhi",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Bricolage",
-        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 353426,
-      "name": "Stoney Street",
-      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Bricolage",
+        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 353426,
+      "name": "Stoney Street",
+      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -559,6 +559,22 @@
       "duration_ms": 250400,
       "name": "Eine Kleine Hedmusik",
       "url": "https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Dayvan Cowboy",
+      "url": "https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -643,22 +659,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 428265,
-      "name": "The bootleggers",
-      "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 381240,
       "name": "Deep Shit, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 428265,
+      "name": "The bootleggers",
+      "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -691,22 +707,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Dayvan Cowboy",
-      "url": "https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Who Can You Trust? / Beats & B-Sides",
         "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 332759,
       "name": "Trigger Hippie",
       "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 456666,
-      "name": "Trans Fatty Acid",
-      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Lifestyle2 - Chill Lounge Vol 1",
         "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 374480,
       "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
       "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 456666,
+      "name": "Trans Fatty Acid",
+      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -875,18 +891,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -903,22 +919,6 @@
       "duration_ms": 285933,
       "name": "Listen To The Beat",
       "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
       },
       "artists": [
         {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 307880,
-      "name": "Turquoise Hexagon Sun",
-      "url": "https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0"
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
     }
   ],
   "unique_name": "Trip Hop",

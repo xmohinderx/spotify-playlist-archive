@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. abby sage on the cover.
 
-1,010 songs - 2 day 3 hr 53 min
+1,011 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,8 +409,9 @@
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2022-01-15 |
 | [Hotel Lobby](https://open.spotify.com/track/6iDOz3Eiq0LucNf2eHKoxt) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t), [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Together Alone](https://open.spotify.com/album/1sPejSJ9oRQu72BBEmLjZo) | 3:15 | 2021-06-27 | 2021-08-14 |
 | [Hotmail](https://open.spotify.com/track/2MAARIzSi5c1A7XgeG3qX7) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Hotmail](https://open.spotify.com/album/1irlxT7n8Fgh1s93imxOiw) | 3:33 | 2021-07-31 | 2021-08-14 |
+| [HOUSEPARTY](https://open.spotify.com/track/0uh340u40fjox7RNU2HQKi) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/3tF5k1ayfqXyx9adwdDz6I) | 2:27 | 2023-02-03 |  |
 | [HOUSEPARTY](https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/1ByroWcsJkB2R4PpzouniL) | 2:27 | 2022-09-23 | 2022-10-13 |
-| [HOUSEPARTY](https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8) | 2:27 | 2022-10-07 |  |
+| [HOUSEPARTY](https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8) | 2:27 | 2022-10-07 | 2023-02-06 |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-03-27 | 2021-06-12 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |

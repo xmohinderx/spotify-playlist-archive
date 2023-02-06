@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 284327,
+  "num_followers": 284404,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0Mzg3NiwwMDAwMDAwMDhkNjg3N2Q3ZjlhZjUzZTJiMDVkMTNhNzE4NjI4Nzkz",
+  "snapshot_id": "MTY3NTQ0Mzg3NiwwMDAwMDAwMDA3YTE2ZjM0ZTgyOGJiMWM1NmYzOWM4Y2Y3ZjQzNjFi",
   "tracks": [
     {
       "added_at": "2023-01-13 12:32:17",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2023-02-05 01:09:16",
+      "added_at": "2023-02-06 00:17:16",
       "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Eastbound Silhouette",
         "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 220776,
       "name": "Love Will Tear Us Apart - Tensnake Remix",
       "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -597,23 +597,7 @@
       "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "King Curtis",
-        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "King Curtis - Edit",
-      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
-    },
-    {
-      "added_at": "2023-02-05 01:09:16",
+      "added_at": "2023-02-06 00:17:16",
       "album": {
         "name": "Oh, Lover (NTO Remix)",
         "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
@@ -635,6 +619,22 @@
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "King Curtis",
+        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 226848,
+      "name": "King Curtis - Edit",
+      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 315297,
       "name": "Fj\u00e4ll",
       "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Let Us Be Free",
         "url": "https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 427815,
       "name": "Let Us Be Free",
       "url": "https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
-        }
-      ],
-      "duration_ms": 192972,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "I Won't Be",
-        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
-      },
-      "artists": [
-        {
-          "name": "NIHILS",
-          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
-        }
-      ],
-      "duration_ms": 212596,
-      "name": "I Won't Be",
-      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "I Won't Be",
+        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "I Won't Be",
+      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF"
-      },
-      "artists": [
-        {
-          "name": "Jonas Schilling",
-          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
-        }
-      ],
-      "duration_ms": 328080,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF"
+      },
+      "artists": [
+        {
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
+        }
+      ],
+      "duration_ms": 328080,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Just To Hear You Say",
         "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1255,6 +1239,22 @@
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2023-01-13 12:32:17",

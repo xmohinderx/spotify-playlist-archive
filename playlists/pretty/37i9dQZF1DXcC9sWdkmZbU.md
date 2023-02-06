@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,446 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,505 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 3 | [The Blessing](https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 4:27 |
 | 4 | [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 3:50 |
 | 5 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
-| 6 | [Jesus \- Kids Version](https://open.spotify.com/track/7Hd90b1Oh8HIRk7gyIZ8BW) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/68gsIXz2fHm4eY2jCODwnZ) | 3:54 |
+| 6 | [Jesus \- Kids Version](https://open.spotify.com/track/56uSBnJy5BSfustA6HFZl5) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/4hc8GEMNnQHaPBhii63ykk) | 3:54 |
 | 7 | [The Wages and The Gift \(Romans 3:23 & 6:23\)](https://open.spotify.com/track/66FICekGoTUgxZtJjJmMaG) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Seeds of Character \(Vol\. 6\)](https://open.spotify.com/album/6b1JxuC35XDHlwsMitTzt2) | 3:12 |
 | 8 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
 | 9 | [You're Worthy Of My Praise](https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 4:17 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 57 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 58 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 |
 
-Snapshot ID: `MTY3NDgzNzc4NiwwMDAwMDAwMDY3OWQ1ZTcyMGJkNWEzNTY2YTJmYTY5OTY2ZTBiOGYw`
+Snapshot ID: `MTY3NDgzNzc4NiwwMDAwMDAwMDNlMDVhNzJiMDVmYzQ3MTkwYjZkMmIyOGZlZTZiODg2`

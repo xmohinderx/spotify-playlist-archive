@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,225 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,265 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 27 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 |
 | 28 | [Fixin' To Die Blues](https://open.spotify.com/track/2GM7Q376O8D1L5egNPjwTY) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Aberdeeen Mississippi Blues \- Sounds Of The 30s](https://open.spotify.com/album/1MVK1X7iUByCN67Abh9byW) | 2:50 |
 | 29 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
-| 30 | [Church Bells Blues](https://open.spotify.com/track/3xJoE2JFGDTADwZjUKjrRe) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [If I Call You Mama](https://open.spotify.com/album/1RzqZV4fEZ5wBrdgjFTTwB) | 3:16 |
+| 30 | [Church Bells Blues](https://open.spotify.com/track/3pDIbEwGSWug1qyabTGPp8) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [Presenting Luke Jordan](https://open.spotify.com/album/35vPAJab40RQZfpJmSNAam) | 3:15 |
 | 31 | [Blue Guitar](https://open.spotify.com/track/5nrFJNFoatpDYUQoSbf6jr) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Sun Records \- Blues Archive](https://open.spotify.com/album/4lKN83NcPLUYuKDUhYbk9x) | 2:44 |
 | 32 | [Mean Old Twister](https://open.spotify.com/track/7z4xP8kzJ6UDviV0qmO9l1) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Presenting Kokomo Arnold](https://open.spotify.com/album/60D5tvGM6mLtJaXnkpEOdd) | 2:59 |
 | 33 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 49 | [A Spoonful Blues](https://open.spotify.com/track/51pOZACVv195eLRsIRVEx6) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [The Complete Recordings 1929\-34, Vol\. 1](https://open.spotify.com/album/3FNisSG0Qa7d1sbnRDNIob) | 3:10 |
 | 50 | [Double Trouble](https://open.spotify.com/track/4eglzfnT6Z8XiJnJuXtDqF) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Spotlights the Blues Volume 2](https://open.spotify.com/album/7ay3aj05yhwcdS6GIAWcnE) | 3:30 |
 
-Snapshot ID: `MTU2ODAxMzE4NCwwMDAwMDAwMDg2NzgwYzFjM2FiNWU5MmE2NGZjOTNlMTZhNjU5MGZi`
+Snapshot ID: `MTU2ODAxMzE4NCwwMDAwMDAwMGYwNGRhNDA3ZDIzYmFmMjYyNzNhMjNiOGMzODNhOGQ2`

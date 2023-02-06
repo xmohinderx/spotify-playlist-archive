@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Play Along With Sam: We're Gonna Dance!",
+        "url": "https://open.spotify.com/album/1wzpCQo4cJL2ICv9p4mkC0"
+      },
+      "artists": [
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121764,
+      "name": "Brusha, Brusha",
+      "url": "https://open.spotify.com/track/2aTENCRUOZcG7zzAEhTEeo"
+    },
+    {
+      "album": {
         "name": "Bubbly (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg"
       },
@@ -172,7 +190,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 186604,
       "name": "Bubbly - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 195720,
       "name": "Just Gotta Be You (feat. Bob)",
       "url": "https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN"

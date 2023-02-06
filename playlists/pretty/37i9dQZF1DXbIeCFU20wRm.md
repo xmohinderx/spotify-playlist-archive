@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,335 likes - 42 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,615 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 37 | [Earth](https://open.spotify.com/track/1iZ1nPS3fNaN68uZRUJPmV) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Prometheus](https://open.spotify.com/album/6EBKizssvnyirTMsefFuXh) | 2:35 |
 | 38 | [Prawnkus](https://open.spotify.com/track/7BcP7BxG7eu9PxTckz1jz6) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [District 9 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3F4kQDXbqW842P77PeXcaR) | 4:00 |
 | 39 | [Everything Comes Around](https://open.spotify.com/track/5CdOCKgKWUxNRaVS3P9o9t) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Looper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5agtjIi8N9Eklm32TC8pa8) | 2:38 |
-| 40 | [The Thing \- From "The Thing"](https://open.spotify.com/track/3prpCQntkUBMO4AYhHlGZr) | [Gareth Williams](https://open.spotify.com/artist/6FEm5Itid5H7ppKPEEMhuu), [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Essential Ennio Morricone](https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn) | 4:28 |
+| 40 | [The Thing \- From "The Thing"](https://open.spotify.com/track/3prpCQntkUBMO4AYhHlGZr) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Gareth Williams](https://open.spotify.com/artist/6FEm5Itid5H7ppKPEEMhuu) | [The Essential Ennio Morricone](https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn) | 4:28 |
 | 41 | [Philosophy of Time Travel](https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:02 |
 | 42 | [Benno](https://open.spotify.com/track/3XiRUEgCkrXI42GqHaUkZw) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Cosmopolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZODeTWdmP8gtOKt4j7oOB) | 6:52 |
 

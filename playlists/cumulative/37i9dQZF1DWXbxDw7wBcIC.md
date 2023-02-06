@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-86 songs - 4 hr 18 min
+87 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Blues As I Can Be](https://open.spotify.com/track/4cEzHktMaGrNAw36GbNhwr) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 2:43 | 2017-11-02 |  |
 | [Boogie Chillun](https://open.spotify.com/track/0AyuXBS2btC46SOUgnOZ2N) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Absolutely the Best of the Blues](https://open.spotify.com/album/1Hvxowri66nzP4jPXpO8qE) | 2:38 | 2017-11-02 |  |
 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 | 2017-11-02 |  |
-| [Church Bells Blues](https://open.spotify.com/track/3xJoE2JFGDTADwZjUKjrRe) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [If I Call You Mama](https://open.spotify.com/album/1RzqZV4fEZ5wBrdgjFTTwB) | 3:16 | 2017-11-02 |  |
+| [Church Bells Blues](https://open.spotify.com/track/3pDIbEwGSWug1qyabTGPp8) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [Presenting Luke Jordan](https://open.spotify.com/album/35vPAJab40RQZfpJmSNAam) | 3:15 | 2017-11-02 |  |
+| [Church Bells Blues](https://open.spotify.com/track/3xJoE2JFGDTADwZjUKjrRe) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [If I Call You Mama](https://open.spotify.com/album/1RzqZV4fEZ5wBrdgjFTTwB) | 3:16 | 2017-11-02 | 2023-02-06 |
 | [Church Bells Blues](https://open.spotify.com/track/2tum92BT0cSwZBChb5evfK) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [Essential Blues Masters](https://open.spotify.com/album/0naloikWrRZsGKDEnoICGW) | 3:17 | 2017-11-02 | 2022-07-29 |
 | [Cool Drink Of Water](https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd) | [Houston Stackhouse](https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb) | [The Devil's Music Vol\. 1](https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57) | 3:16 | 2017-11-02 |  |
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2017-11-02 |  |

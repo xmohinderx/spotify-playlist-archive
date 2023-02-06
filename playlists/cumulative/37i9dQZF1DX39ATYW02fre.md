@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-199 songs - 15 hr 2 min
+200 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Afterglo](https://open.spotify.com/track/4Uk9Xnh8RzS9O8SlY6XirP) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [A Celebration Of The Euphoria Of Life](https://open.spotify.com/album/2afxG4ppn5YXesFLZbWFxa) | 3:51 | 2022-05-30 |  |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-03-19 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2021-03-18 | 2023-02-02 |
+| [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-11-25 |  |
 | [All Is Full Of Love](https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW) | 4:46 | 2021-03-18 | 2021-05-26 |
 | [All Points Back to U](https://open.spotify.com/track/3joGqdbtiWS0wZ9u8H34YM) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Parallels](https://open.spotify.com/album/3ud7LPjrdJbvVk3Ray5du5) | 4:14 | 2021-03-18 | 2021-05-27 |
 | [Alone With You](https://open.spotify.com/track/5GC28e7y4jS89A9qrmWi5s) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/3cFONFMdjoCx5ybY1RJKha) | 4:36 | 2020-06-05\* | 2022-07-28 |
@@ -132,7 +133,7 @@
 | [Opening Credits](https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm) | 4:03 | 2022-11-25 |  |
 | [Orange](https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 3:08 | 2020-06-05\* | 2022-07-05 |
 | [Painting On Glass](https://open.spotify.com/track/52BaGmviMTO9z4cIerve0C) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Painting On Glass](https://open.spotify.com/album/4sx4UF9JugEaB2dTIbRzlV) | 2:32 | 2021-01-05 | 2022-07-29 |
-| [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 | 2021-01-05 |  |
+| [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 | 2021-01-05 | 2023-02-06 |
 | [Parallel Space](https://open.spotify.com/track/4LEL7awuDP5GIZ8QrRhu3Z) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 6:42 | 2020-06-12 | 2022-07-21 |
 | [Parting Ways \- Edit](https://open.spotify.com/track/4t8Wj2B859gQJ4pR8D8eAf) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Six Sigma](https://open.spotify.com/artist/611HYzCmDN0PUG2AUrJ8gq) | [Parting Ways](https://open.spotify.com/album/7Dgatu1IOIwmPSyqPTrzZJ) | 4:37 | 2020-06-05\* | 2022-07-29 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-01-05 |  |

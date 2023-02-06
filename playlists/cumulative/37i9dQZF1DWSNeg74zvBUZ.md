@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-135 songs - 10 hr 32 min
+136 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2021-09-10 |  |
 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 | 2022-01-07 |  |
 | [Nevada](https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw) | 4:19 | 2022-06-30 | 2022-08-04 |
-| [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 | 2022-06-30 |  |
+| [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 | 2022-06-30 | 2023-02-06 |
 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 | 2021-09-10 |  |
 | [Oceanic Feeling](https://open.spotify.com/track/2gJFKpv3oezmcu4DduMgfx) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/2wOvYShlGVSdwuTlYrpsjh) | 2:23 | 2021-09-10 | 2022-07-27 |
 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 | 2021-09-10 |  |
@@ -123,6 +123,7 @@
 | [Sonnengeflecht](https://open.spotify.com/track/34Tsmlc1lm6hcFXtQXVdCo) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 3:29 | 2021-09-10 | 2022-07-23 |
 | [Sonnenschein](https://open.spotify.com/track/0DMbLxuMciNItsnSJxvgNm) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/4GtsLus5BLAG4BzEYeBUqa) | 3:56 | 2021-09-10 | 2022-04-18 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-09-10 | 2023-02-02 |
+| [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-09-10 |  |
 | [Strands](https://open.spotify.com/track/0XA6999Nceq9KDYlqC7H06) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Strands](https://open.spotify.com/album/2W0Onu4JKgSYhJAzR19cZ0) | 5:17 | 2021-09-10 | 2022-04-21 |
 | [The First Daffodils](https://open.spotify.com/track/09O91GIt6HRLhgKnlkzjEi) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Silver Wilkinson](https://open.spotify.com/album/635cLXDOf3Kh5WA9c63xm8) | 2:57 | 2021-09-10 | 2022-04-21 |
 | [The Golden Morning Breaks](https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 5:22 | 2021-09-10 | 2022-07-27 |

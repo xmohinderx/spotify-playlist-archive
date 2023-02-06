@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: TAEYEON(\ud0dc\uc5f0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 312817,
+  "num_followers": 312906,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0OTM0MiwwMDAwMDAwMDE4MTIzMjFmNDA2MzFmMmJkOTAwNGY5OTVkMThiM2Ni",
+  "snapshot_id": "MTY3NTM0OTM0MiwwMDAwMDAwMDM1NGNhMTZhOGU0MjU0ODdjZTZhMzY5NDg4NDM5ZDEw",
   "tracks": [
     {
       "added_at": "2023-02-02 14:49:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Myo (Cat)",
-        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 217640,
-      "name": "Myo (Cat)",
-      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -715,6 +699,22 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Myo (Cat)",
+        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Myo (Cat)",
+      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 260264,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Bad Influence",
-        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Soul Pop City",
-        "url": "https://open.spotify.com/album/56BCgGh2HwPJKKJmZ1dZKx"
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 325969,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/6RWADSjNxfNgzUrsfsD1H7"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
-        "name": "When You Believe",
-        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "When You Believe",
-      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1559,18 +1543,34 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Soul Pop City",
+        "url": "https://open.spotify.com/album/56BCgGh2HwPJKKJmZ1dZKx"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 325969,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/6RWADSjNxfNgzUrsfsD1H7"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
         }
       ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
+      "duration_ms": 251160,
+      "name": "You're My End and My Beginning",
+      "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
     }
   ],
   "unique_name": "v o K a l",

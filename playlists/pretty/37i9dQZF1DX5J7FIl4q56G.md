@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Falling In Reverse
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,003 likes - 54 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,262 likes - 54 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 15 | [Promise to Live](https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Promise to Live](https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h) | 4:53 |
 | 16 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 |
 | 17 | [Message in a Bottle](https://open.spotify.com/track/56ntjROexKxC8lgJ8IxVqG) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Message in a Bottle](https://open.spotify.com/album/13UvLg8Y5M8tFTQARW746G) | 3:37 |
-| 18 | [Two Worlds](https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Two Worlds](https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM) | 7:08 |
+| 18 | [Two Worlds](https://open.spotify.com/track/56tQYOngIOa30sTofGTokq) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 7:08 |
 | 19 | [MONSTER](https://open.spotify.com/track/7b659LcHUIXAlarmigTLnr) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [MONSTER](https://open.spotify.com/album/0BLyDJErYf4SMLY4OPKl41) | 4:10 |
 | 20 | [Sokea Sisar](https://open.spotify.com/track/16y6dzWwqVD331tzEvTgyZ) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Sokea Sisar](https://open.spotify.com/album/2WGFZ5I1pbgmgEHiCdkfhY) | 10:54 |
 | 21 | [Feening for Bloodshed](https://open.spotify.com/track/2ksSrqMHkQwuk4fDqbXAZD) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Homicidal Ecstasy](https://open.spotify.com/album/32ZHR9tU1jBp3xdYldee30) | 4:34 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 27 | [Kerosene](https://open.spotify.com/track/3qPbYWO3etFt6C4Hk1AwgB) | [All Faces Down](https://open.spotify.com/artist/0IohuWvOYtIiMCLsIXal8m) | [Kerosene](https://open.spotify.com/album/5s1aqzOFmJWNqjDkONB2ks) | 2:51 |
 | 28 | [Rest](https://open.spotify.com/track/0a6Dw645JMBdvrer1QJkpb) | [In Fear](https://open.spotify.com/artist/2HbS5oR1eY6yJARuVUtAz8) | [Rest](https://open.spotify.com/album/1uKkAh6qdQRx8uYJ6snbFA) | 4:07 |
 | 29 | [Higher](https://open.spotify.com/track/7cAvo29lsJZtyERm6R4yr8) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Higher](https://open.spotify.com/album/4vwBCAlQ3rZojlBknlryG6) | 2:18 |
-| 30 | [Paschli](https://open.spotify.com/track/37hY8rIKeH6KOXKMOpDo0O) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Paschli](https://open.spotify.com/album/1PMNKEvv1kWrAWZUjJ7wBW) | 3:28 |
+| 30 | [Paschli](https://open.spotify.com/track/6PTcJimZ2HXjG1SIT9ggMr) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Turbo Polka Party](https://open.spotify.com/album/1mMs1gU8ZtB5Yv1ZhXnnSa) | 3:28 |
 | 31 | [ATTACK OF THE BLUE BIRDS](https://open.spotify.com/track/45nXBmb8JEKrFBrZEklbEu) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [ATTACK OF THE BLUE BIRDS](https://open.spotify.com/album/5C02LaupSrosbgKVcC74lm) | 3:33 |
 | 32 | [Anti\-Savior](https://open.spotify.com/track/3BU7uj7ixhXYAC7ZoWsRrT) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Anti\-Savior](https://open.spotify.com/album/5XgyKKzd4aC3E6zeKfBdDg) | 3:14 |
 | 33 | [Rise To Power](https://open.spotify.com/track/6hjRjjt3KM1ScUq6yprJpd) | [Memoriam](https://open.spotify.com/artist/2EAy7g3Ga8hS10hAHMf6C4) | [Rise To Power](https://open.spotify.com/album/5Oea0sqQTkdNfZ9wNEr1ps) | 4:42 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Sick and Wrong](https://open.spotify.com/track/3GEffdgRPX8LkfRJRrHjPc) | [Electron](https://open.spotify.com/artist/0QlVbfZTx8ex7cutyyUl3H) | [Sick and Wrong](https://open.spotify.com/album/3591dyk8WjpQKBqN8qY9Jj) | 4:41 |
 | 54 | [Prisoner Again](https://open.spotify.com/track/1F77lGM7TO9pCYi1bhE6kq) | [The Ongoing Concept](https://open.spotify.com/artist/7rzpJkLttUwGsrsZmOwZU5) | [Prisoner Again](https://open.spotify.com/album/55LtBWm25nBpbgqoOHyQmu) | 3:58 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDliZDQ4YTQzOGM5YzAxYTNmYzgxNDJkMmJmYzliYWVm`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGM3YTM0YTRlYWRkNWJmNmQ5MzMwNzVhMjVhNzYyNjIy`

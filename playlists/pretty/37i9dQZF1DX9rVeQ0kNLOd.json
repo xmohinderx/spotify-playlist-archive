@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 13298,
+  "num_followers": 13324,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGE3ZTIwZTI0OGZlY2ZlZDhlMDE5ZTViOTUwZTM5Y2Ji",
+  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGI4MDFjNWVjOTYwZDdlZDkwZmRjNzFkM2U1ZjQyNDUy",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
-      },
-      "artists": [
-        {
-          "name": "South Penguin",
-          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
-        }
-      ],
-      "duration_ms": 109997,
-      "name": "luv revolution",
-      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "S.S.S.",
         "url": "https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "duration_ms": 109997,
+      "name": "luv revolution",
+      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
     },
     {
       "added_at": "2023-02-02 15:00:00",

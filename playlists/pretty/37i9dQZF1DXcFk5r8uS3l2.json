@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 425344,
+  "num_followers": 425438,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDM2NDY3MGE1Y2Q5ZDNlZTNkNGY4MWMzYmViYTg0NzUw",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGY1Njk1YTQ2ZDc2MjQyYTc3NWYxODEzNGRmNjI2YjEx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "If These Walls Could Talk",
@@ -487,22 +503,6 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
-      "added_at": "2022-12-09 14:46:32",
-      "album": {
-        "name": "Pound Cake",
-        "url": "https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK"
-      },
-      "artists": [
-        {
-          "name": "Drake White",
-          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
-        }
-      ],
-      "duration_ms": 179717,
-      "name": "Pound Cake",
-      "url": "https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Rubber Factory",
@@ -743,6 +727,22 @@
       "duration_ms": 294933,
       "name": "The Lengths",
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
+    },
+    {
+      "added_at": "2022-12-09 14:46:32",
+      "album": {
+        "name": "Pound Cake",
+        "url": "https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK"
+      },
+      "artists": [
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+        }
+      ],
+      "duration_ms": 179717,
+      "name": "Pound Cake",
+      "url": "https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -795,8 +795,8 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
       "artists": [
         {
@@ -804,25 +804,9 @@
           "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -851,6 +835,22 @@
       "duration_ms": 273981,
       "name": "Hit 'Em Back",
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -971,8 +971,8 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 290482,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 290482,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Devil and the Deep Blue",
-        "url": "https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Devil and the Deep Blue",
-      "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "U kin B the Sun",
@@ -1219,6 +1203,22 @@
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Devil and the Deep Blue",
+        "url": "https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Devil and the Deep Blue",
+      "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
     },
     {
       "added_at": "2022-05-27 04:03:00",

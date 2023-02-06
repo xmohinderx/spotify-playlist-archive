@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Eric Bibb
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,797 likes - 88 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,836 likes - 88 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

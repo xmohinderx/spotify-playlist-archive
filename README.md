@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5525\)
+## Playlists \(5526\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1247,6 +1247,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Dark & Stormy](/playlists/pretty/37i9dQZF1DX2pSTOxoPbx9.md)
 - [Dark Academia Classical](/playlists/pretty/37i9dQZF1DX17GkScaAekA.md)
 - [Dark Ambient](/playlists/pretty/37i9dQZF1DX7XfRr4cb6cr.md)
+- [Darkwave](/playlists/pretty/37i9dQZF1DWWmsWPbM2pKT.md)
 - [Date Night At Home](/playlists/pretty/1MmXcTuWbvBApvUMIgxDhV.md)
 - [Date Night Jazz](/playlists/pretty/37i9dQZF1DX6ZiG5Dz8cUM.md)
 - [Dawn Richard's track IDs](/playlists/pretty/37i9dQZF1DX9qhCMWQZHJh.md)

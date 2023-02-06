@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Kimbra
 
-338 songs - 18 hr 20 min
+339 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-03 | 2022-08-29 |
 | [I'll Be There](https://open.spotify.com/track/1rb3JMv4B08skOrLHhCVuo) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [I'll Be There](https://open.spotify.com/album/2cFaOuix1b5Qh2ySuqy14Y) | 3:11 | 2022-10-02 | 2023-01-01 |
 | [I'm Upset](https://open.spotify.com/track/54H0lpWzFmkJHgwSTRJQLo) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wear My Wounds Like Armour](https://open.spotify.com/album/23fM3XHDMqq62dPBIurneZ) | 3:31 | 2022-02-03 | 2022-07-04 |
-| [If You Wanna Love Me](https://open.spotify.com/track/3CEwwm7ZnG6zhar9YTZIGh) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [If You Wanna Love Me](https://open.spotify.com/album/4JSbDdRI9y8gBKsQq4hbqU) | 3:24 | 2022-10-02 |  |
+| [If You Wanna Love Me](https://open.spotify.com/track/3CEwwm7ZnG6zhar9YTZIGh) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [If You Wanna Love Me](https://open.spotify.com/album/4JSbDdRI9y8gBKsQq4hbqU) | 3:24 | 2022-10-02 | 2023-02-06 |
+| [If You Wanna Love Me](https://open.spotify.com/track/3jzpeb2htfvSp2Qssmky0B) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 3:24 | 2023-01-31 |  |
 | [If You Want My Love](https://open.spotify.com/track/2Qm9VAt4t1BghrBzkbsRbJ) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [If You Want My Love](https://open.spotify.com/album/5yP5FeVIxjBNUnZ59Hg4sY) | 2:38 | 2022-11-30 |  |
 | [In Person](https://open.spotify.com/track/6VSIeXguQQFWomYqBP9ECD) | [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [In Person](https://open.spotify.com/album/7DcV93rZBpU6R1v8Qm9Tc5) | 3:27 | 2022-12-31 |  |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-27 |  |

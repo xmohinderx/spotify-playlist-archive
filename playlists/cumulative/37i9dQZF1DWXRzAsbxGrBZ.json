@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 424810,
       "name": "On It",
       "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 411481,
       "name": "Something For Closure",
       "url": "https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 521744,
       "name": "We Gonna Fight For Music",
       "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
@@ -1510,6 +1510,32 @@
       "duration_ms": 416000,
       "name": "With Time",
       "url": "https://open.spotify.com/track/49Hy25TIq1DPhTuo9yAeIM"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
+      },
+      "artists": [
+        {
+          "name": "Dj Burger",
+          "url": "https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH"
+        },
+        {
+          "name": "Ryu Ken",
+          "url": "https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366217,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,257 likes - 64 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,295 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 2 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 |
 | 3 | [Movin' Me \(feat\. Chris Cauley\)](https://open.spotify.com/track/71PrSZj5hRreVqAl8zJuWe) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Chris Cauley](https://open.spotify.com/artist/5aH9aHu8oKkghDgylS6lJc) | [Movin' Me](https://open.spotify.com/album/3vjIfc6z80mXSyadef0ZOm) | 3:16 |
 | 4 | [Praise the Lord Every Day](https://open.spotify.com/track/0LtfXpNnGPhoRoFndutmco) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK), [Chris Lockwood](https://open.spotify.com/artist/5RDtfsKM6NApcmFuRpmee6) | [Taste and See](https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY) | 3:11 |
-| 5 | [10,000 Armies \- Kids Version](https://open.spotify.com/track/1HiqYVHbYJY9T5WdFuXlyX) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/68gsIXz2fHm4eY2jCODwnZ) | 3:16 |
+| 5 | [10,000 Armies \- Kids Version](https://open.spotify.com/track/2fVoexLeh71ItMts6APPnv) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/4hc8GEMNnQHaPBhii63ykk) | 3:16 |
 | 6 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
 | 7 | [You Are My All In All](https://open.spotify.com/track/7otvN0P4iAuRa2dLv5XGEr) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Trading My Sorrows](https://open.spotify.com/album/1lWuBzzz2U7qLHmO0tnugB) | 4:04 |
 | 8 | [All The Things](https://open.spotify.com/track/4VJDD8PDFTjzxaVohUBggh) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [All The Things](https://open.spotify.com/album/07ztb4D77ZUFdMJ2NpVNoo) | 3:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 63 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
 | 64 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
 
-Snapshot ID: `MTY3NTQzNzE2NywwMDAwMDAwMGNkNjYzOWNlNGVmNzhkZjAyMTZhZGNjZWRlMTcwYjkx`
+Snapshot ID: `MTY3NTQzNzE2NywwMDAwMDAwMDhkYjA1ZjlkMGY0OThlZTI5ZGEwODQ0MDc1Zjc4YjRi`

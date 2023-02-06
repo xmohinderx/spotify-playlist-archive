@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 170947,
+  "num_followers": 170992,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGJmNTVmMTAzNjFiYmJlMWM3ZDEzZGRhZjc3OWUxMWRk",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDJkNjk0Y2MwNDc5MmUzYTVlOGE5NTczMDI1NzkzM2Nl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 230680,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
     },
     {
       "added_at": "2022-11-04 04:00:00",

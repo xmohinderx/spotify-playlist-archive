@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-312 songs - 1 day 5 hr 12 min
+313 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Edge Of Wonder \- Andrew Weatherall remix](https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [Oscillations 2019](https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU) | 9:03 | 2021-07-30 | 2023-01-26 |
 | [El Camino](https://open.spotify.com/track/6For0xsv97TPl1X1093Lpv) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Sei Still](https://open.spotify.com/album/0BpHN04KTTokAjsMHHP1oz) | 7:48 | 2021-07-30 | 2023-01-26 |
 | [El Camino](https://open.spotify.com/track/5MkxQg7z6vqgbVKdLdyaFh) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Camino](https://open.spotify.com/album/7zmF5OYpcjJ75jDvuTjwix) | 7:54 | 2021-07-30 | 2022-07-29 |
-| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 |  |
+| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 | 2023-02-06 |
 | [Electronic Track 15](https://open.spotify.com/track/3CAmwEqxHr7vXX30VfrJ6B) | [Cecil Leuter](https://open.spotify.com/artist/700j6BXXlji6HaEhmN2YjX) | [Luke Vibert's Nuggets](https://open.spotify.com/album/0DCe05QuXwQB5d42nynTc6) | 1:31 | 2021-07-30 | 2023-01-26 |
 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2021-11-05 | 2023-01-26 |
 | [Equilibrio](https://open.spotify.com/track/7jkbwPOYDsXxtOLfj6YWG5) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [Uno de Estos Días](https://open.spotify.com/album/4bkFmSdZeSN3ZgP8ouFBhU) | 4:52 | 2021-07-30 | 2023-01-26 |
@@ -156,7 +156,7 @@
 | [Land Gone](https://open.spotify.com/track/2Fup3RrZM5baJTSZp3MkwV) | [Novella](https://open.spotify.com/artist/3QkWT3I8AqtmvhT5eXifNi) | [Land](https://open.spotify.com/album/543Cj0QdG4m9eg3O2T9iU6) | 4:54 | 2021-07-30 | 2022-07-29 |
 | [Land Gone](https://open.spotify.com/track/7jxmlfUe28GSDXXIpGMmzH) | [Novella](https://open.spotify.com/artist/3QkWT3I8AqtmvhT5eXifNi) | [Land](https://open.spotify.com/album/1OB68sLz3cAFuH6MVA1iPh) | 4:54 | 2021-07-30 | 2023-01-26 |
 | [Land III](https://open.spotify.com/track/4yPNhKtW4OMbIK1nhPfnaZ) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Yamil Rezc](https://open.spotify.com/artist/3aPYY9W0MYbzcpDcbLjVgS) | [The Changing Landscapes](https://open.spotify.com/album/16o3yIAEJKDdmrbLHCi9gC) | 4:43 | 2021-07-30 | 2023-01-26 |
-| [Les Yper\-Sound](https://open.spotify.com/track/7CjHVBO2kxsRKvKU5rF6XX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/4420hj4RNgpozukzJlePCG) | 4:05 | 2021-07-30 |  |
+| [Les Yper\-Sound](https://open.spotify.com/track/7CjHVBO2kxsRKvKU5rF6XX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/4420hj4RNgpozukzJlePCG) | 4:05 | 2021-07-30 | 2023-02-06 |
 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 | 2021-07-30 |  |
 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 | 2021-07-30 |  |
 | [Love Builds Up](https://open.spotify.com/track/2rvcGIgiXQW6ISyaJM9K3n) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/6SW50UcFp4INcJNkCIrr07) | 5:24 | 2021-07-30 | 2022-07-29 |
@@ -317,8 +317,9 @@
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:22 | 2021-07-30 |  |
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/559261quLx4Iuiz1PjmvgY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 3:22 | 2021-07-30 | 2023-02-02 |
 | [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/691HbefeRbA751TYr9PCGJ) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/3tPGDPk4zOrdlBsuS01jci) | 5:34 | 2021-07-30 | 2023-02-02 |
+| [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj) | 5:34 | 2021-07-30 |  |
 | [Échale Campeón](https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 3:28 | 2021-10-21 | 2023-02-05 |
 | [Échale Campeón](https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 3:28 | 2021-10-21 | 2022-12-13 |
-| [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 | 2021-07-30 | 2023-02-04 |
+| [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 | 2021-07-30 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

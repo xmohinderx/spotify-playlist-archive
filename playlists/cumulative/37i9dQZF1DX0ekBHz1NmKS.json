@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 214190,
       "name": "Barnsben",
       "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
@@ -1102,6 +1102,28 @@
       "duration_ms": 174613,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5tLiS8p0h4bvKzfXZQRuHR"
+    },
+    {
+      "album": {
+        "name": "Borde veta b\u00e4ttre",
+        "url": "https://open.spotify.com/album/1GxOfH3LSqV3ySAEbCSnHE"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        },
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Borde veta b\u00e4ttre",
+      "url": "https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo"
     },
     {
       "album": {
@@ -4476,7 +4498,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 191186,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
@@ -9084,7 +9106,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-06",
       "duration_ms": 171600,
       "name": "Solen i G\u00f6teborg",
       "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"

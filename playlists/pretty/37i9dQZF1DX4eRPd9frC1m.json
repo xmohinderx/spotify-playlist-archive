@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2495083,
+  "num_followers": 2495368,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGU2NzBkODQ1NmYxZDE3ZTlkNThhZDJlNGIzZjQ0MDZh",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQ3OTgyYmM3ZGUxMTNjNmViMzFjN2IxN2IzNzIzNjg4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -215,22 +215,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+        "name": "dashstar* (Yellow Claw Trap Edit)",
+        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+      "duration_ms": 152776,
+      "name": "dashstar* - Yellow Claw Trap Edit",
+      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -275,22 +275,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "dashstar* (Yellow Claw Trap Edit)",
-        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 152776,
-      "name": "dashstar* - Yellow Claw Trap Edit",
-      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "KARMA (With Jazz Cartier)",
-        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "KARMA (With Jazz Cartier)",
-      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "KARMA (With Jazz Cartier)",
+        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "KARMA (With Jazz Cartier)",
+      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Gainz",
+        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
+      },
+      "artists": [
+        {
+          "name": "Deadlyft",
+          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Gainz",
+      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 297620,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Gainz",
-        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
-      },
-      "artists": [
-        {
-          "name": "Deadlyft",
-          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Gainz",
-      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "NEW WIP",
-        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "NEW WIP",
-      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 282834,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "NEW WIP",
+        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "NEW WIP",
+      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Moshpit / Comin For Ya Neck",
+        "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "TILL I DIE",
         "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
       },
@@ -1227,26 +1251,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Moshpit / Comin For Ya Neck",
-        "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
       },
       "artists": [
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Moshpit",
-      "url": "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
+      "duration_ms": 159162,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 264500,
       "name": "Shell Shock (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 159162,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
     },
     {
       "added_at": "2023-01-06 05:00:00",

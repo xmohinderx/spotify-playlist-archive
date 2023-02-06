@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-259 songs - 1 day 1 hr 34 min
+260 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Good Weather Girl \- Zombies In Miami Remix](https://open.spotify.com/track/6CRUXy410QrpsHBSxDltvn) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV), [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy) | [Good Weather Girl](https://open.spotify.com/album/4vO8thSReHypp5vyFhQzDj) | 6:57 | 2022-11-07 | 2022-12-24 |
 | [Gundagai](https://open.spotify.com/track/62sbqyGMgtbFyv07MsR4fS) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv) | [Space Racer](https://open.spotify.com/album/3r87fv0QiXKAHpSXI00kbB) | 5:46 | 2022-05-13 | 2022-12-24 |
 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 | 2022-05-13 | 2022-12-24 |
-| [Halim Guelil](https://open.spotify.com/track/2CxX2wp4wbgp2av4L95UWB) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [Halim Guelil](https://open.spotify.com/album/5QBINoK1KolSRIMmrkdQF6) | 3:57 | 2022-10-14 |  |
+| [Halim Guelil](https://open.spotify.com/track/2CxX2wp4wbgp2av4L95UWB) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [Halim Guelil](https://open.spotify.com/album/5QBINoK1KolSRIMmrkdQF6) | 3:57 | 2022-10-14 | 2023-02-06 |
+| [Halim Guelil](https://open.spotify.com/track/72KrVLumKmZgtBM3vXKhVK) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [٣ \(Trois\)](https://open.spotify.com/album/7v2WkOUlCmdAefZ2DSRSzC) | 3:57 | 2022-12-22 |  |
 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 | 2021-12-10 | 2022-05-14 |
 | [Hart Und Kalt](https://open.spotify.com/track/2WtElnjUqWwPwm0aDJQW4l) | [Chinaski](https://open.spotify.com/artist/4pXVDLP9qRl1ecfaXnMTza) | [Hart Und Kalt](https://open.spotify.com/album/2mtu4fMzSU0CaIwwhQBN2q) | 4:54 | 2021-12-10 | 2022-05-14 |
 | [Head2Toe](https://open.spotify.com/track/4v6pQ662HfpVI3XjbTHh8H) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In The Mood](https://open.spotify.com/album/3ZYzZUCtlSHTMaRO5RjRXu) | 4:38 | 2022-09-16 | 2022-11-08 |

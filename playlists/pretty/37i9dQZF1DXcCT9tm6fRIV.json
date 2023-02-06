@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 227274,
+  "num_followers": 227328,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDhiNWQ5NGYzNTQ0N2Y2Y2QxOWYyZjlhYTI2NzMxMGRj",
+  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDEzNzM2Y2U4Mjc1MzYxMmI0OGZkMThhOGY0ODU5Yjgx",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
       "artists": [
         {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Celebridades",
-        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Adi\u00f3s Muchachos",
-      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Anibal Troilo - Cancion desesperada",
         "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 204960,
       "name": "Adios Pampa mia",
       "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Celebridades",
+        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Adi\u00f3s Muchachos",
+      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Re-Encuentro",
+        "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Angeleri",
+          "url": "https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ"
+        },
+        {
+          "name": "Daniel Binelli",
+          "url": "https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh"
+        }
+      ],
+      "duration_ms": 193738,
+      "name": "Milonga Triste",
+      "url": "https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
         "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
@@ -1039,22 +1059,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Re-Encuentro",
-        "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Angeleri",
-          "url": "https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ"
-        },
-        {
-          "name": "Daniel Binelli",
-          "url": "https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh"
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
         }
       ],
-      "duration_ms": 193738,
-      "name": "Milonga Triste",
-      "url": "https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y"
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Pasional",
+        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
+      },
+      "artists": [
+        {
+          "name": "Jorge V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Pasional",
+      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
         "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Pasional",
-        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
       "artists": [
         {
-          "name": "Jorge V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 208285,
-      "name": "Pasional",
-      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Se Tiran Conmigo",
+      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1231,34 +1263,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 161061,
-      "name": "Se Tiran Conmigo",
-      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+        "name": "Boleros y Tangos Cl\u00e1sicos Mix",
+        "url": "https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+      "duration_ms": 179213,
+      "name": "Desde El Alma - Instrumental",
+      "url": "https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Boleros y Tangos Cl\u00e1sicos Mix",
-        "url": "https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Desde El Alma - Instrumental",
-      "url": "https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Presentando a Charlo",
         "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 191320,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 320922,
       "name": "Fuimos - En Vivo",
       "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Bandoneon Es Cultura",
-        "url": "https://open.spotify.com/album/79IXjtaj0Jp4uLYm65LSoo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ruggiero",
-          "url": "https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR"
-        }
-      ],
-      "duration_ms": 337525,
-      "name": "Mi Tango Triste",
-      "url": "https://open.spotify.com/track/5dRE1WG0rHgpu0SU3QNYs1"
     }
   ],
   "unique_name": "Tangos y Milongas",

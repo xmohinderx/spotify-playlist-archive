@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Beenzino\(빈지노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-579 songs - 1 day 7 hr 40 min
+580 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Acid Fly Remix \(feat\. CAMO\)](https://open.spotify.com/track/1Ilw0zTfz9tTEmpXpeE1yI) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Acid Fly](https://open.spotify.com/album/1blCTbDNhWWH8iDzsL0Ykz) | 3:04 | 2022-04-21 | 2022-07-17 |
 | [Action!](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 | 2022-04-01 | 2022-07-29 |
 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 | 2022-06-18 | 2022-08-24 |
+| [After Love \(feat\. Han Yo Han\)](https://open.spotify.com/track/6Abz3v8mRTS9NJlyzLQIID) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [After Love](https://open.spotify.com/album/4vAmITEtZcLh6BoB4THvcz) | 3:08 | 2023-01-25 |  |
 | [After Party](https://open.spotify.com/track/4njqjPN7tp4cohBr1PMavg) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:31 | 2022-04-01 | 2022-04-21 |
 | [Airbag](https://open.spotify.com/track/2NhTSoKSOZzTc6SYIoIWCd) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Watcha Original <Inside Lyrics> \`Airbag\`](https://open.spotify.com/album/1BGa0SY2AqensYrVvbRrtR) | 5:52 | 2022-10-08 | 2022-10-15 |
 | [All Day \(Feat\. SOLE\)](https://open.spotify.com/track/3YeHFV31pNFXKUikN3KvaD) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [All In](https://open.spotify.com/album/7HC4ncEdIrm0z8Ju33G97h) | 2:26 | 2022-06-09 | 2022-07-09 |
@@ -500,7 +501,7 @@
 | [TAKE IT OFF](https://open.spotify.com/track/01uePcvWj4yclJUpSQ6LGq) | [Wooks](https://open.spotify.com/artist/3l7GFDLQsdvNzHcLqTIXbt) | [OFF](https://open.spotify.com/album/7LuIZnLMfPJAwx3WoYxFat) | 2:06 | 2022-04-01 | 2022-07-12 |
 | [Take Me There](https://open.spotify.com/track/1ng3gM2zQ7kIJwC89np2oX) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Take Me There](https://open.spotify.com/album/0Z2eQf5pUlFIs5PXgy1lml) | 3:41 | 2022-06-27 | 2022-07-18 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2022-04-01 |  |
-| [Tasty x Tasty](https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Tasty x Tasty](https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF) | 2:49 | 2022-10-28 |  |
+| [Tasty x Tasty](https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Tasty x Tasty](https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF) | 2:49 | 2022-10-28 | 2023-02-06 |
 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-02 | 2022-08-18 |
 | [Tempo \(Feat\. Sik\-K\)](https://open.spotify.com/track/430xiIUvtaViMfqORYXmrh) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Tempo \(Feat\. Sik\-K\)](https://open.spotify.com/album/67jhcvEOaTGRqOlzrQ0IQg) | 3:30 | 2022-05-11 | 2022-06-21 |
 | [TEXTURE \(feat\. Owen\)](https://open.spotify.com/track/0YgCQvFMSrdMpBJamVYU6k) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [ROLLYBOI](https://open.spotify.com/album/7ceWDP7D3cC2UJRPEJGYwJ) | 3:01 | 2022-12-19 | 2023-01-11 |

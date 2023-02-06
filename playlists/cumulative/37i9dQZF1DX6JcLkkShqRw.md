@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Zita Zoe.
 
-746 songs - 1 day 15 hr 17 min
+747 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Bestsoundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 | 2022-01-21 | 2022-03-06 |
 | [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 | 2022-01-28 | 2022-07-14 |
 | [Con el ki](https://open.spotify.com/track/7CIIMUk8oq1oJCAGeIdTjP) | [Luciano Freakin](https://open.spotify.com/artist/5C1QlAP3EAqOlgPmietR8s), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Con el ki](https://open.spotify.com/album/3kodVwEhrON2U01jEDbnx7) | 2:57 | 2022-11-04 | 2022-11-12 |
+| [Con Puras de 25](https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Con Puras de 25](https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5) | 2:18 | 2023-02-03 |  |
 | [Con y Sin](https://open.spotify.com/track/68B1HiwTxquab8p1vd9aj1) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Con y Sin](https://open.spotify.com/album/5iRUAUphYl7gm37U4DTl8X) | 2:10 | 2022-01-14 | 2022-04-07 |
 | [Cone](https://open.spotify.com/track/5wdiGmxKgZLTl7yJYqZqIY) | [Nico LaFleur](https://open.spotify.com/artist/6rbkJWvuW9zoolkQQicDZc), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Cone](https://open.spotify.com/album/1SYSVfZ4osbMGbvOwMuiVP) | 2:30 | 2022-03-11 | 2022-04-03 |
 | [Conectando](https://open.spotify.com/track/6nGLxK4KQH6n6k5AttsI5t) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Conectando](https://open.spotify.com/album/5GLXfmMa9enncznhqh07aZ) | 2:53 | 2022-01-03 | 2022-03-31 |
@@ -487,7 +488,7 @@
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-10 |  |
 | [Nos Robamos la Movie](https://open.spotify.com/track/43Pa6T68pFnIs8DrtPHxPr) | [Fat Broka](https://open.spotify.com/artist/3gbf617lW6MVtNKzBK5BBp), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Nos Robamos la Movie](https://open.spotify.com/album/0pG1liXeE2bMnpXVP6vADj) | 4:09 | 2021-12-27 | 2022-04-06 |
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2022-05-20 |  |
-| [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-04 |  |
+| [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-04 | 2023-02-06 |
 | [NOXE CONTIGO](https://open.spotify.com/track/3iHWl6cYQtxYET3h3yFIIP) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [NOXE CONTIGO](https://open.spotify.com/album/1WB9qAxpD57yMPFagD8CIc) | 3:37 | 2022-01-03 | 2022-04-19 |
 | [Nube](https://open.spotify.com/track/0c1k2QJe8JnlRrOLNPJCHY) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Nube](https://open.spotify.com/album/3m8PPV2UKzgfuyUfUvAavq) | 3:13 | 2022-01-03 | 2022-04-04 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-05-10 |  |

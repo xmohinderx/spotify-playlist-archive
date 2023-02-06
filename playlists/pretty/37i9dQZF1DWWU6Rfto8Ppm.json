@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2092428,
+  "num_followers": 2095911,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0NDA2MiwwMDAwMDAwMDUzNjVmYTFjNDJkNTRiZmIwYTY2M2NjNjdhYjJhMDFk",
+  "snapshot_id": "MTY3MzU0NDA2MiwwMDAwMDAwMGZhODY3NDAxYzc4Njk2ZDMyNzJmMDZjZWViMGJjYTc3",
   "tracks": [
     {
       "added_at": "2022-12-16 17:15:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "El Enemy de Los Guas\u00edbiri",
-        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Al Natural (feat. Yandel)",
-      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 281813,
       "name": "Lo Grande Que Es Perdonar",
       "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "El Enemy de Los Guas\u00edbiri",
+        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Al Natural (feat. Yandel)",
+      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1179,26 +1179,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "La Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/4S4ueZuml3FELqmy1M9krz"
+        "name": "Gargolas 5: The Next Generation",
+        "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         }
       ],
-      "duration_ms": 303640,
-      "name": "Aparentemente",
-      "url": "https://open.spotify.com/track/1wYFvhxzKJ8W3B8TM0Ag2k"
+      "duration_ms": 184737,
+      "name": "Soy una Gargola",
+      "url": "https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1219,22 +1215,26 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Gargolas 5: The Next Generation",
-        "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
+        "name": "La Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/4S4ueZuml3FELqmy1M9krz"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
         },
         {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Soy una Gargola",
-      "url": "https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC"
+      "duration_ms": 303640,
+      "name": "Aparentemente",
+      "url": "https://open.spotify.com/track/1wYFvhxzKJ8W3B8TM0Ag2k"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 208274,
-      "name": "Nena Fichu",
-      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 246080,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 208274,
+      "name": "Nena Fichu",
+      "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Tu Cuerpo Me Llama Rmx",
-        "url": "https://open.spotify.com/album/5CwurLyTFtA7LxYqj94P9Q"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "LOS MORTAL COMBAT",
-          "url": "https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Tu Cuerpo Me Llama Rmx",
-      "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Roc La Familia & Hector Bambino \"EL FATHER\" Present Los Rompe Discotekas",
         "url": "https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 235760,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "Tu Cuerpo Me Llama Rmx",
+        "url": "https://open.spotify.com/album/5CwurLyTFtA7LxYqj94P9Q"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "LOS MORTAL COMBAT",
+          "url": "https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Tu Cuerpo Me Llama Rmx",
+      "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
@@ -1899,22 +1919,18 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+        "name": "El Pat\u00e1n",
+        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
       },
       "artists": [
         {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
         }
       ],
-      "duration_ms": 218506,
-      "name": "Sexo Seguro",
-      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+      "duration_ms": 236893,
+      "name": "Daga Adicta",
+      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1951,22 +1967,6 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "El Pat\u00e1n",
-        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Daga Adicta",
-      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "Drama Queen (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "Fatal Fantassy 3",
         "url": "https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 167026,
       "name": "Te la Tiro Pa Que Bailes",
       "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "Drama Queen (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "La Vida Es As\u00ed",
-      "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Broke & Famous",
-        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Sexo En La Playa",
-      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2503,26 +2503,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Solos",
-      "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Los Mackieavelikos 2055",
         "url": "https://open.spotify.com/album/65mWBdR3c3ueYBJggBIXKC"
       },
@@ -2543,18 +2523,38 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
       "artists": [
         {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
         }
       ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
+      "duration_ms": 218386,
+      "name": "Sexo En La Playa",
+      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Chica 10",
         "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
       },
@@ -3075,6 +3059,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
         "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
       },
@@ -3087,22 +3087,6 @@
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Tuve un Sueno",
-      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3135,6 +3119,22 @@
       "duration_ms": 196533,
       "name": "Volver\u00e1s a M\u00ed",
       "url": "https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Tuve un Sueno",
+      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3415,22 +3415,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 196468,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -3447,6 +3431,22 @@
       "duration_ms": 186618,
       "name": "Te Hago el Amor",
       "url": "https://open.spotify.com/track/2yhumMKS2cwLdroqgVnZ5P"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 196468,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
     },
     {
       "added_at": "2022-12-16 17:15:38",

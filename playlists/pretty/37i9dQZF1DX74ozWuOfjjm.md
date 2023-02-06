@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Kimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,400 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,406 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 41 | [Myriagon \(No Photos Please\)](https://open.spotify.com/track/1bHMdStFH8IKo8KO3umtyC) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Myriagon \(No Photos Please\)](https://open.spotify.com/album/5yJA9xeRSuSX3FIlsJIG8L) | 2:54 |
 | 42 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
 | 43 | [Kawakawa](https://open.spotify.com/track/0UskdhhbACeXbohWfhzrt5) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [woo!](https://open.spotify.com/artist/0jP7f3TNcoJ4mTRy3nHWIU) | [Seashell Cassette](https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL) | 3:16 |
-| 44 | [If You Wanna Love Me](https://open.spotify.com/track/3CEwwm7ZnG6zhar9YTZIGh) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [If You Wanna Love Me](https://open.spotify.com/album/4JSbDdRI9y8gBKsQq4hbqU) | 3:24 |
+| 44 | [If You Wanna Love Me](https://open.spotify.com/track/3jzpeb2htfvSp2Qssmky0B) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 3:24 |
 | 45 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 |
 | 46 | [Matter of Time](https://open.spotify.com/track/462aabfmzV9MooKz64OAtj) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:58 |
 | 47 | [1975](https://open.spotify.com/track/12HJOH8NQ1l7U6eRJ8LKj5) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [1975](https://open.spotify.com/album/5aQcSUI8hRBpMuaNbmZy5B) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Unaware](https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv) | 3:57 |
 | 100 | [It's a Lot](https://open.spotify.com/track/4S548hdBDpaVE87HXwGT2a) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It's a Lot](https://open.spotify.com/album/6HajKAvn7DGmBdXaZUrxbf) | 3:54 |
 
-Snapshot ID: `MTY3NTE3MDAwMCwwMDAwMDAwMDZjMzE4ZTc4Y2IzNTEzZTM2OWVlZmZiZjNhMjljMTQ4`
+Snapshot ID: `MTY3NTE3MDAwMCwwMDAwMDAwMGI0NjM2MWZiMTNkNGZhZjk3Nzk2NTRmZmQ1NzVmMWUw`

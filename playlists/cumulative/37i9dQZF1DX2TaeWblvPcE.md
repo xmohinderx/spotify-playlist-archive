@@ -4,7 +4,7 @@
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-214 songs - 14 hr 25 min
+215 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blood Sweat & Tears](https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [Blood Sweat & Tears](https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o) | 4:01 | 2022-03-28 | 2022-11-13 |
 | [BLUE \- Piano Version](https://open.spotify.com/track/5Kk2wLYQ6MfbrIG3Yaxeyj) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 5:59 | 2022-03-28 | 2022-07-28 |
 | [Boy With Luv](https://open.spotify.com/track/0TWshEbDM3ELQQQ7UvMYhb) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6) | 4:00 | 2022-03-28 | 2022-07-24 |
-| [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 | 2022-03-28 |  |
+| [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 | 2022-03-28 | 2023-02-06 |
 | [Bravo, My Life! \- Instrumental](https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB) | 4:05 | 2022-03-28 |  |
 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 | 2022-03-28 |  |
 | [BUBBLE POP \- Piano Version](https://open.spotify.com/track/6YYUgIvpMo7xGhue0i04C9) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 4:29 | 2022-03-28 | 2023-02-04 |
@@ -125,6 +125,7 @@
 | [Love Scenario](https://open.spotify.com/track/2zGa46tj0yrGPAFiAGa1gF) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:31 | 2022-03-28 | 2023-01-28 |
 | [Love Scenario](https://open.spotify.com/track/6Mv7VUKArYqMuepAnUsjLe) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb) | 3:31 | 2022-03-28 | 2022-07-29 |
 | [LOVE SCENARIO \- Piano Version](https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 5:14 | 2022-03-28 |  |
+| [Love Shot](https://open.spotify.com/track/0NnkzjSm8iwrx2cHwjUKaC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:35 | 2022-11-02 |  |
 | [Love Shot](https://open.spotify.com/track/2Sqdy1nkWllSjnsQQeBzZ4) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb) | 3:35 | 2022-03-28 | 2022-07-27 |
 | [Lovesick Girls](https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [Lovesick Girls](https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx) | 3:27 | 2022-03-28 |  |
 | [Make It Right](https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 3:54 | 2022-03-28 | 2022-11-13 |

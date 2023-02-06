@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard hitting pop\. This is SALT\. Cover: Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,178 likes - 76 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,251 likes - 76 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. abby sage on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,543 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,576 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 36 | [Gone](https://open.spotify.com/track/3mDZYUiAmHqPr6vl0a9Erv) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Gone](https://open.spotify.com/album/6kllSzXR7OltIa8QkBNEna) | 2:58 |
 | 37 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 | 38 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 |
-| 39 | [HOUSEPARTY](https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8) | 2:27 |
+| 39 | [HOUSEPARTY](https://open.spotify.com/track/0uh340u40fjox7RNU2HQKi) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/3tF5k1ayfqXyx9adwdDz6I) | 2:27 |
 | 40 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
 | 41 | [Serotonin](https://open.spotify.com/track/2UmrAOZI329X453Z0u1H1K) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Serotonin](https://open.spotify.com/album/0jrztDedMPZDMl0OIyCcr0) | 3:35 |
 | 42 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGM2YmEyNTVkYmNkMzc1NjQzMjAyOGIzOGY0MDBhNDc3`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDgzMjg3MGJkOWY2ZjE4MGI2ZjE4NTk1OWQyMTkzYWEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,381 likes - 70 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,390 likes - 70 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 3 | [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 |
 | 4 | [First, I Heard Colors \- Pye Corner Audio Remix](https://open.spotify.com/track/4PzSHFgLLm5JwqBIu3qnNG) | [Principles Of Geometry](https://open.spotify.com/artist/6Bh6qrI9HTgMAspYdttsGJ), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [First, I Heard Colors](https://open.spotify.com/album/3DO6ONwMAZ1hTY5MVgDo8E) | 5:45 |
 | 5 | [No Palm Too Big](https://open.spotify.com/track/61W6h4tk6gReHI9PmIc6ko) | [Heap](https://open.spotify.com/artist/6EznVfuIwtomx8m0QefYka), [Gayna Rose Madder](https://open.spotify.com/artist/1UVAMXZxqc3I1zTpipKD8h) | [False Hope](https://open.spotify.com/album/0ik5DB7ZtlMncJZFJrBYPe) | 3:31 |
-| 6 | [Halim Guelil](https://open.spotify.com/track/2CxX2wp4wbgp2av4L95UWB) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [Halim Guelil](https://open.spotify.com/album/5QBINoK1KolSRIMmrkdQF6) | 3:57 |
+| 6 | [Halim Guelil](https://open.spotify.com/track/72KrVLumKmZgtBM3vXKhVK) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [٣ \(Trois\)](https://open.spotify.com/album/7v2WkOUlCmdAefZ2DSRSzC) | 3:57 |
 | 7 | [Mosquito \- Tzusing Remix](https://open.spotify.com/track/0rb1Ngna2bumcUf4YCUeNv) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC), [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [Mosquito \(Tzusing Remix\)](https://open.spotify.com/album/2x0cKKk9b9zlBKJLcWyWag) | 3:25 |
 | 8 | [Show Me No Tears](https://open.spotify.com/track/19AmcbQM5qBQYxPsSxLjbJ) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4), [Maggie The Cat](https://open.spotify.com/artist/6hpoziIGXqw7lsc7VyafR4) | [Show Me No Tears](https://open.spotify.com/album/4DxMctNRfXroYEG8rZNTtQ) | 5:08 |
 | 9 | [Mission Control](https://open.spotify.com/track/3bLBYZxxhBwvmLdnoTHtf9) | [Cemos](https://open.spotify.com/artist/2LNZBpwdXwJHtXxGGNYVfo) | [Writers on Wax: The Sound of Graffiti Volume 2](https://open.spotify.com/album/4DGcQzb4hh0vqNgAG2qUqG) | 7:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [XoX](https://open.spotify.com/track/3jS2C2qCiaOckpwwlnBLxt) | [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0), [Michelle Manetti](https://open.spotify.com/artist/5LcNSaw8X9bRD2r0GU3DyI) | [Transit 2.2](https://open.spotify.com/album/6cZreIMSHIk8JBb6p9ZYX5) | 5:05 |
 | 70 | [Lucie's Love \- Blond Edit](https://open.spotify.com/track/5ZZozUTsxtu2LO5H4Yb6dl) | [Oceanic](https://open.spotify.com/artist/7sANqRox5nKK9vc7MZrg81), [Blond](https://open.spotify.com/artist/53kc7S5JCqXB5hlFgCXMQ9) | [Choral Dance](https://open.spotify.com/album/5Uhhf61cjR5fFjOHuZsjBl) | 6:59 |
 
-Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDAyZjhkZDUzZDNhZjUxY2E0NTFmZGUwMzcwOTY3ZjNj`
+Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDVmZjkzY2EyZDIzMGU1NWM5YTJlMjAzNDk0NzcwNzI2`

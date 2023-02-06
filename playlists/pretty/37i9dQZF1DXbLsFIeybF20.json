@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141189,
+  "num_followers": 141218,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDhkOGY0Y2MwNzJiNGY0NTg4MDk5ODM4MTZkZWJiOGM2",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGM1N2NkMDZkY2QyMGNjZjkyZTRmOTNhOTk4NDY1YTQw",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -47,22 +47,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Firehouse Five Plus Two Story",
-        "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
-      },
-      "artists": [
-        {
-          "name": "Firehouse Five Plus Two",
-          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Yes Sir! That's My Baby",
-      "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "25th Anniversary",
         "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 192680,
       "name": "Do Whatcha Wanna",
       "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Firehouse Five Plus Two Story",
+        "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Yes Sir! That's My Baby",
+      "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Jazz King Of New Orleans",
-        "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Black Bottom Stomp - 2002 Remastered",
-      "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -227,18 +227,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+        "name": "Jazz King Of New Orleans",
+        "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
       "artists": [
         {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
         }
       ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+      "duration_ms": 192426,
+      "name": "Black Bottom Stomp - 2002 Remastered",
+      "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Presenting Johnny Dodds",
         "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
@@ -375,38 +391,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Take It To The Street",
         "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 259533,
       "name": "Take It To The Street",
       "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swinging Mainstream Sides",
-        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
-      },
-      "artists": [
-        {
-          "name": "Wingy Manone",
-          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Ultimate Mardi Gras",
         "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 201146,
       "name": "Mardi Gras In New Orleans",
       "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swinging Mainstream Sides",
+        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+      },
+      "artists": [
+        {
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+        }
+      ],
+      "duration_ms": 192937,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Good Neighbor",
-        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
-      },
-      "artists": [
-        {
-          "name": "John Boutt\u00e9",
-          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Foot Of Canal Street",
-      "url": "https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Here Come da Great Olympia Band",
         "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 385040,
       "name": "I Gotta Woman - Bonus Track",
       "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Good Neighbor",
+        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
+      },
+      "artists": [
+        {
+          "name": "John Boutt\u00e9",
+          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Foot Of Canal Street",
+      "url": "https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -863,26 +863,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
       },
       "artists": [
         {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
         }
       ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
+      "duration_ms": 49333,
+      "name": "Everything's Lovely",
+      "url": "https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy"
     }
   ],
   "unique_name": "New Orleans Brass",

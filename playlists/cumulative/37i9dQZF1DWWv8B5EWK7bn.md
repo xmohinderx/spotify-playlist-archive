@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-260 songs - 18 hr 50 min
+261 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-06 | 2022-07-29 |
 | [Silver Ladders](https://open.spotify.com/track/6YJnrVhTHho0pBXlmiA0TE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/4MDkxEP7BVarbH6GXbFm8A) | 3:45 | 2021-10-06 | 2022-11-13 |
 | [Simple Headphone Mind](https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Simple Headphone Mind / Trippin' With The Birds](https://open.spotify.com/album/0WK9DyPkE7wGn958hjF6X4) | 10:46 | 2022-08-03 | 2022-09-12 |
+| [Simple Headphone Mind](https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal) | 10:46 | 2022-09-06 |  |
 | [Simple Headphone Mind](https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk) | 10:46 | 2022-09-06 | 2023-01-21 |
 | [Situation](https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Unfamiliar Minds](https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0) | 3:00 | 2022-02-09 | 2023-01-21 |
 | [Sixty Years On \- Album Edit](https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:35 | 2023-01-20 |  |
@@ -239,7 +240,7 @@
 | [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 | 2023-01-21 |
 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 | 2023-01-04 |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |
-| [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 |  |
+| [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 | 2023-02-06 |
 | [Treasures](https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp) | [Astral Brain](https://open.spotify.com/artist/7oDU5TJ0OiPqfxTlq2VMbk) | [The Bewildered Mind](https://open.spotify.com/album/432UfhVmmYhrzsaZepGgEW) | 3:43 | 2022-04-22 | 2022-10-01 |
 | [Two minutes](https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [Two minutes](https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8) | 2:40 | 2022-09-29 |  |
 | [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 | 2022-07-29 |

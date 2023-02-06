@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,208 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,225 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 4 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 | 5 | [Chỉ Cần Em Biết](https://open.spotify.com/track/6QzM9dmoDRaPEwTenp5Ipc) | [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG), [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1), [Lil Tian](https://open.spotify.com/artist/5PycWaugD9Q5dyWytEihtR) | [Chỉ Cần Em Biết](https://open.spotify.com/album/6Fg7xD0n3EbvAhnAW9CjlR) | 4:15 |
 | 6 | [Hà Nội Đổi Sắc](https://open.spotify.com/track/4h3WMIF62pA9MUR9JnaCyv) | [Lyan](https://open.spotify.com/artist/0ENZtFo3fQYpkOrWboLbIV), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Hà Nội Đổi Sắc](https://open.spotify.com/album/6I0ANjoQX2RcP6iEVsSm2Z) | 3:45 |
-| 7 | [Biết Làm Sao](https://open.spotify.com/track/2dCiHYDk4CBevyQsR8uEtf) | [Ran](https://open.spotify.com/artist/6kvTVjmZPfRmZVKfgDFt6J), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [Biết Làm Sao](https://open.spotify.com/album/0PfMCThjh5JaUkeZcHT1um) | 3:02 |
+| 7 | [Biết Làm Sao](https://open.spotify.com/track/2dCiHYDk4CBevyQsR8uEtf) | [Ran](https://open.spotify.com/artist/0Nru2xZlOHoIRwpLZO785D), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [Biết Làm Sao](https://open.spotify.com/album/0PfMCThjh5JaUkeZcHT1um) | 3:02 |
 | 8 | [biet iu 1 nguoi](https://open.spotify.com/track/1g81KcA7tjoHug3WE9GhC5) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [biet iu 1 nguoi](https://open.spotify.com/album/7uKuy9aMQmqvQkpVx8927F) | 3:00 |
 | 9 | [Trước Hiên Nhà](https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/2X9yZYndhyE6wK4jKjrMUr) | 4:09 |
 | 10 | [Tối Thứ 7](https://open.spotify.com/track/4LUbs9qORuVD802ivUlYoZ) | [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw), [Xavia](https://open.spotify.com/artist/7zgLsvHw6pUjHYwvVDZ9s8), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Tối Thứ 7](https://open.spotify.com/album/5RMD3gdmxQV9wGWJobIL7H) | 3:21 |

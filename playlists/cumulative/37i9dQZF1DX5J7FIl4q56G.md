@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Falling In Reverse
 
-2,622 songs - 7 day 9 hr 16 min
+2,624 songs - 7 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1705,7 +1705,8 @@
 | [Parasite](https://open.spotify.com/track/3BzmjMmyQGx6qD2BnjclNe) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Parasite](https://open.spotify.com/album/5Y8OkF9YdWgc6tc5fMd0a7) | 4:00 | 2023-02-03 |  |
 | [Parasocial](https://open.spotify.com/track/1PDJqKu1YnJ9DNSAG7cdO8) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y), [Joshua Travis](https://open.spotify.com/artist/0lAkhEiuVXNhO0icEvCstI) | [Parasocial](https://open.spotify.com/album/7EG8dzPyEyLHviUX2MeYvL) | 3:04 | 2023-01-20 | 2023-01-28 |
 | [Part of the End](https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Part of the End](https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV) | 5:46 | 2021-12-17 | 2022-01-28 |
-| [Paschli](https://open.spotify.com/track/37hY8rIKeH6KOXKMOpDo0O) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Paschli](https://open.spotify.com/album/1PMNKEvv1kWrAWZUjJ7wBW) | 3:28 | 2023-02-03 |  |
+| [Paschli](https://open.spotify.com/track/37hY8rIKeH6KOXKMOpDo0O) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Paschli](https://open.spotify.com/album/1PMNKEvv1kWrAWZUjJ7wBW) | 3:28 | 2023-02-03 | 2023-02-06 |
+| [Paschli](https://open.spotify.com/track/6PTcJimZ2HXjG1SIT9ggMr) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Turbo Polka Party](https://open.spotify.com/album/1mMs1gU8ZtB5Yv1ZhXnnSa) | 3:28 | 2023-02-03 |  |
 | [Passenger](https://open.spotify.com/track/21XSbuxGQyB0mqThRB8cQq) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Passenger](https://open.spotify.com/album/6NgDNZEQpTvvHWvEQnoTnY) | 3:49 | 2022-07-29 | 2022-08-06 |
 | [PASSENGER SEAT](https://open.spotify.com/track/6rNDCD1AW2dchYknbN3dSL) | [Heirloom](https://open.spotify.com/artist/5Atdd8NVwC99330AgFiixH), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [PASSENGER SEAT](https://open.spotify.com/album/3c6zxp5JsX6e4yga5mKqLG) | 2:50 | 2022-12-02 | 2022-12-10 |
 | [Pathless](https://open.spotify.com/track/70TxgOH8bjc8nKFHahlTRt) | [Aphyxion](https://open.spotify.com/artist/40UIlN4YEByXy4ewEZmqXu), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Pathless](https://open.spotify.com/album/22MqAWh1A8UQ2G0uUhTFrs) | 3:55 | 2023-01-13 | 2023-01-21 |
@@ -2399,7 +2400,8 @@
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-03 | 2022-03-18 |
 | [Twilight Force](https://open.spotify.com/track/0H0u8Vfl1oe9apnzeVQyWi) | [Twilight Force](https://open.spotify.com/artist/0tO6ALWmduAbneXoHmnl2T) | [Twilight Force](https://open.spotify.com/album/69aZkH6ghthdHLZ2tGV3B1) | 4:11 | 2022-11-11 | 2022-11-19 |
 | [Two Towers](https://open.spotify.com/track/3XlaOuW4DqjxNMkAymbyHK) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Two Towers](https://open.spotify.com/album/3rU63KBhXWboo4ScB6JbhE) | 5:46 | 2022-01-07 | 2022-01-14 |
-| [Two Worlds](https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Two Worlds](https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM) | 7:08 | 2023-02-03 |  |
+| [Two Worlds](https://open.spotify.com/track/56tQYOngIOa30sTofGTokq) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 7:08 | 2023-02-03 |  |
+| [Two Worlds](https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Two Worlds](https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM) | 7:08 | 2023-02-03 | 2023-02-06 |
 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 | 2022-11-25 | 2022-12-03 |
 | [UFO Party](https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [UFO Party](https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2) | 4:02 | 2022-05-20 | 2022-05-27 |
 | [UGLY](https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [UGLY](https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS) | 3:33 | 2022-02-11 | 2022-03-04 |

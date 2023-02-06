@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-837 songs - 2 day 1 hr 45 min
+838 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Fly When I Fall](https://open.spotify.com/track/6lT0DHecA1thspBEZX2X1y) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Fly When I Fall](https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv) | 4:10 | 2021-12-21 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:14 | 2021-12-21 | 2022-07-21 |
 | [Follow My Voice](https://open.spotify.com/track/6J5XDjKMhyWbIBW8JkLXFL) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1fA7zjpDoE4aBNSgGQ7dVa) | 4:02 | 2022-03-24 | 2022-04-21 |
+| [Follow You](https://open.spotify.com/track/6oxF2qekhu413M3g8J8P54) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:17 | 2023-01-27 |  |
 | [Fool For You](https://open.spotify.com/track/4eECaktwFUcoBwdhuukv6d) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 3:16 | 2021-12-21 |  |
 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 | 2022-12-10 |
 | [Fool's Gold](https://open.spotify.com/track/7kAxc7ZfkPiCWSZBD5ed6F) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Fool's Gold](https://open.spotify.com/album/0EaZIiPjCpZoODnTuzSroH) | 4:14 | 2022-03-24 | 2022-04-21 |
@@ -325,7 +326,7 @@
 | [I Don't Think I'm Doing This Right](https://open.spotify.com/track/6VsuywIFkNthRBk6fqDexy) | [TY Falcoa](https://open.spotify.com/artist/6SXpF6cSSqv7pNmDcoFaBY), [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [I Don't Think I'm Doing This Right](https://open.spotify.com/album/30BgnnfGHvztcP4jjEpumT) | 2:54 | 2022-01-07 | 2022-02-03 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/1NEV2pt7AJSHWadhfCZ48t) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears / I Don’t Wanna Love You Anymore](https://open.spotify.com/album/00lk0dGMhyu40RBQGKiTr0) | 3:21 | 2022-03-24 | 2022-04-19 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 | 2022-07-08 |  |
-| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 |  |
+| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 | 2023-02-06 |
 | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/track/3eVuglKxN2sjoIGHAsFAge) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/album/1LQCzEUoXIGLH9qLfsV7Ur) | 3:11 | 2022-03-24 | 2022-03-31 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-08 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-12-21 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 62157,
+  "num_followers": 62183,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDAzYTgzOTllMmJmMDI0YjU4ZDljNjgxMDgyM2EyMjNi",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDllNDgzNWRkOGZjOWRjZTBhYjRhYTEwZmEyNThiMjhi",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -199,22 +199,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -235,18 +231,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
+      },
+      "artists": [
+        {
+          "name": "ONIX",
+          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
+        },
+        {
+          "name": "castleurbano",
+          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
-      },
-      "artists": [
-        {
-          "name": "ONIX",
-          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
-        },
-        {
-          "name": "castleurbano",
-          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
     },
     {
       "added_at": "2023-01-27 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,236 likes - 123 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,334 likes - 123 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

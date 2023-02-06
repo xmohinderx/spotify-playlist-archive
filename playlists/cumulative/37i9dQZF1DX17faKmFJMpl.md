@@ -4,7 +4,7 @@
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-211 songs - 14 hr 7 min
+212 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [So U Wanna Be Hardcore \(feat\. MC META\)](https://open.spotify.com/track/65nWhpQj9M7S5flk4hhS6I) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC META](https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7) | [HEAVY BASS](https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3) | 3:09 | 2021-08-18 |  |
 | [Solo To The Top 2 \(feat\. Kim Bum Soo\)](https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf), [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Superior Vol\. 1 \- This Iz My Life](https://open.spotify.com/album/6qMDEfSa6SB7YLaA6AaEQu) | 3:47 | 2021-08-18 |  |
 | [Solo To The Top 2 정상을 향한 독주 2 \(Feat\. Kim Bum Soo\)](https://open.spotify.com/track/5UzBhnEl5xTU4K0lJTesoA) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf), [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Superior Vol.1 \- This Iz My Life](https://open.spotify.com/album/2Mxypsh7OKdQ5nOwZ4aPlj) | 3:47 | 2021-08-18 | 2022-07-29 |
+| [Soulfire](https://open.spotify.com/track/14eK4UqEYMEZbkfYzyCWro) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [SOULFIRE](https://open.spotify.com/album/5FIFczVP8ipPjX4IlOtpYs) | 4:21 | 2021-08-18 |  |
 | [Soulfire](https://open.spotify.com/track/3dohr40uZNncbZOmEXQgGY) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [SOULFIRE](https://open.spotify.com/album/4O0v3AqlSVEkUg7zHaM4bp) | 4:21 | 2021-08-18 | 2022-07-29 |
 | [Spell My Name Right \- Original Version](https://open.spotify.com/track/0LtEA0xOv2mzEBJEnNuNWj) | [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a) | [Andre](https://open.spotify.com/album/6V87GA7Y0i5mMjJFkgAlNx) | 3:50 | 2021-08-18 | 2022-07-27 |
 | [Spell My Name Right \- Original Version](https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq) | [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a) | [Andre](https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV) | 3:50 | 2021-08-18 |  |
@@ -179,7 +180,7 @@
 | [뭐 \(feat\. Notorious Kid, Friz & Pumkin\)](https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Notorious Kid](https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF), [Friz](https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo), [Pumkin](https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:38 | 2021-08-18 | 2022-07-28 |
 | [반갑습니다 \(feat\. AG\)](https://open.spotify.com/track/2RVjDCmtwaBf8RBq9kQGY8) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP), [AG](https://open.spotify.com/artist/2Fi0a9OJGrQAcvbeRtJfV3) | [Giant](https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo) | 3:46 | 2021-08-18 |  |
 | [반갑습니다 \(feat\. AG\)](https://open.spotify.com/track/2WXdxJC5ccIdqaEkT6IkPi) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP), [AG](https://open.spotify.com/artist/2Fi0a9OJGrQAcvbeRtJfV3) | [Giant](https://open.spotify.com/album/4gCdwl8jqPWNBB4L96ugFK) | 3:46 | 2021-08-18 | 2022-07-29 |
-| [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 | 2021-08-18 |  |
+| [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 | 2021-08-18 | 2023-02-06 |
 | [불한당가 \(with 나찰, 피타입 & MC 메타\)](https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82) | [NUCK](https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu), [Nachal](https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 4:23 | 2021-08-18 |  |
 | [뽕짝이야기](https://open.spotify.com/track/4dDETFzyd7iCbiev3Ct29J) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:55 | 2021-08-18 | 2022-07-26 |
 | [뿌리깊은 나무](https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [Garion 가리온](https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp) | 5:31 | 2021-08-18 | 2022-07-29 |

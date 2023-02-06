@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Maluma y Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,574 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,637 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 47 | [BANDIDA](https://open.spotify.com/track/0O2CATLIqeZxIxrmyL8yYt) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BANDIDA](https://open.spotify.com/album/5K4Ddp2FU8ywH21ypN85VK) | 2:38 |
 | 48 | [Funky Punch](https://open.spotify.com/track/64IRMxvsv80dZvRLGaLiCP) | [El Tambor De La Tribu](https://open.spotify.com/artist/5fwK7ENG6aLoNLdYskJLzQ) | [Funky Punch](https://open.spotify.com/album/1C4Roruy6aHOtb5B2wjJrx) | 2:41 |
 | 49 | [Se Desacató](https://open.spotify.com/track/0jLv4OpU6LFl6oxMiBus1p) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq) | [Se Desacató](https://open.spotify.com/album/3NaiCrNm3GsA4wax0emQRJ) | 2:22 |
-| 50 | [TINTA2](https://open.spotify.com/track/0ftTp4NvYdRzLdZRPtNon3) | [Josh Milli](https://open.spotify.com/artist/3fndEtcwxV80TlJ82LXuGM), [Kaemeprod](https://open.spotify.com/artist/6XYzaaShx1NgNmEY50GcQe) | [TINTA2](https://open.spotify.com/album/0Ojfk1tB4aDxTTwefzzjPq) | 2:25 |
+| 50 | [TINTA2](https://open.spotify.com/track/70XDxrNLL5bQ7xcsMV10E7) | [Josh Milli](https://open.spotify.com/artist/3fndEtcwxV80TlJ82LXuGM), [Kaemeprod](https://open.spotify.com/artist/6XYzaaShx1NgNmEY50GcQe) | [TINTA2](https://open.spotify.com/album/62R5TMCSyyBkJBFC4yZWCQ) | 2:25 |
 | 51 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
 | 52 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
 | 53 | [Gracias a Dios](https://open.spotify.com/track/1tAtyWrWZssMPuB5MsjfuQ) | [Sheko](https://open.spotify.com/artist/6yUy3tj1ySuBdAl6W7ECAl), [Jbramah](https://open.spotify.com/artist/48MndYyEvn0SomOag5ai79), [Moreno itf](https://open.spotify.com/artist/5el3ACLFyuXCtnjXIAvZxc), [Nelly Nelz](https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su) | [El Bien y el Mal](https://open.spotify.com/album/0C0s46BZjyrLPEgikeLYwH) | 4:22 |
 | 54 | [Despues De Las 12](https://open.spotify.com/track/1MvUxYOgvOlOkvejZ86OpO) | [Greyvi](https://open.spotify.com/artist/4ZmxOjYwmOtLF1VhoYiayF) | [Despues De las 12](https://open.spotify.com/album/0PlWYOT6LDaR9hQatFnnix) | 2:55 |
 | 55 | [La fruta](https://open.spotify.com/track/6ES5LAlIbm81pHHbmUiBDg) | [Tony Warrior](https://open.spotify.com/artist/6lDCApp8uc15JzNsewHjSe), [Denzell](https://open.spotify.com/artist/66s94aSbeZDup1V6Tcr7He) | [La fruta](https://open.spotify.com/album/45EPy4u60MfjdkiYxdPdCw) | 4:25 |
 | 56 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 |
-| 57 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:31 |
+| 57 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:42 |
 | 58 | [POSES](https://open.spotify.com/track/33XNjNZtVwe8cP03nVBjox) | [Santto XO](https://open.spotify.com/artist/1WPYhBE4ToXu5YRKYF2SQw), [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy), [T\-Morris](https://open.spotify.com/artist/2tvhrmpHbiNPmRZ5d1uYv6) | [POSES](https://open.spotify.com/album/5ZKsWRTcEaEdfpdPLKXGLh) | 3:09 |
 | 59 | [Ella es](https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3) | [Ella es](https://open.spotify.com/album/6vnbQXwWrfMaW5cCt256t3) | 3:01 |
 | 60 | [Fantasmiao](https://open.spotify.com/track/4tOQl86a1bu5BwbUsaBOq1) | [Tiffany Selenne](https://open.spotify.com/artist/7G3RwF8CDWEXU1fbitN46s) | [Fantasmiao](https://open.spotify.com/album/612WkkEItt0MJFWAzsesCS) | 2:16 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 66 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 |
 | 67 | [15 de Maio](https://open.spotify.com/track/4Ay7TKLiOJvuavlc5bKeUK) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [15 de Maio](https://open.spotify.com/album/3W4WE8Q0E42A2W3TbeLv9I) | 2:53 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGUwYzk2MzBiMjc1OGQ0YzMwMTY3M2EzNDQ1NDBjNjAz`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDllYzNiMDJmZWJjN2RhMTBhOWM2MzgwZmY1ZGVlMGVm`

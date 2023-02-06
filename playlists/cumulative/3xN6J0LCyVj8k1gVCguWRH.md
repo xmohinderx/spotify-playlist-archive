@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,984 songs - 4 day 18 hr 12 min
+1,985 songs - 4 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1659,6 +1659,7 @@
 | [Swing With Me](https://open.spotify.com/track/4OIFVICOvkbP8yQ0k8LVrn) | [Leon Rosen](https://open.spotify.com/artist/13O0zKTEYQA0fx7VT0RFAr) | [The Night is for Jokers](https://open.spotify.com/album/5VoDkkbIWrOYWOec1rPJeQ) | 3:09 | 2021-01-05 | 2021-01-21 |
 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 | 2021-07-11 |  |
 | [Switch Off](https://open.spotify.com/track/19DEsE9oHqRVZXtAO8wNNy) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Switch Off](https://open.spotify.com/album/26KLso0iYAnzXqVrJSyTYI) | 2:54 | 2020-02-27 | 2020-03-11 |
+| [Só Pra Dizer](https://open.spotify.com/track/4tBTV37b72pBYMYUuZctat) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Téka Penteriche](https://open.spotify.com/artist/0pOsCjNjgezuvqdvPGapuZ) | [Só Pra Dizer](https://open.spotify.com/album/0dje5oJErhHLE3hoRxryVd) | 3:08 | 2023-02-05 |  |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0FlfN5cbUUpIHCRH8X1M44) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 5:04 | 2020-12-20 |  |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0XS2rOeAPNEoi23fS7K5TO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/2Q8nhGOz0h2HJraU44goUF) | 5:05 | 2020-08-20 | 2021-07-12 |
 | [Table for Two](https://open.spotify.com/track/7F7WRCNDWTwGkNEu8otUoY) | [Matt Sterling](https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT) | [Table for Two](https://open.spotify.com/album/4XqkBHArY0LTq481SdbNE3) | 3:10 | 2022-12-09 | 2023-01-03 |

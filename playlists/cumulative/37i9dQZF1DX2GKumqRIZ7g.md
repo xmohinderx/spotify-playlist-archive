@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-99 songs - 8 hr 14 min
+100 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,9 @@
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2022-05-31 |  |
 | [Love Hangover \- 12" Version](https://open.spotify.com/track/4NnTT5Bk4iddbZct0jz00I) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All The Great Hits](https://open.spotify.com/album/4JsSOfR8Jp41NFjNaLZ7zU) | 7:54 | 2021-06-01 | 2022-07-29 |
 | [Love Hangover \- 12" Version](https://open.spotify.com/track/60ahYtHTWGhrA8LAUZfbhW) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [BIGGEST DISCO HITS](https://open.spotify.com/album/5Gn7ArvK8JYZI4VAbmpv0a) | 7:54 | 2022-05-31 | 2022-11-13 |
+| [More Than A Woman](https://open.spotify.com/track/0nz7eSSUtNM7wLkYE3x1Wl) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Future Bound](https://open.spotify.com/album/0pqHRSv6OfxRSc0kLNDrUb) | 3:27 | 2022-05-31 |  |
 | [More Than A Woman \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/0OhpOmbSSSlNROas9zGP7N) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 3:17 | 2021-06-01 | 2022-07-29 |
-| [More Than A Woman \- Remastered](https://open.spotify.com/track/4pHjt1Hs1ghsey8dHnViYX) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 3:28 | 2022-05-31 |  |
+| [More Than A Woman \- Remastered](https://open.spotify.com/track/4pHjt1Hs1ghsey8dHnViYX) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 3:28 | 2022-05-31 | 2023-02-06 |
 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 | 2021-06-01 |  |
 | [Night Fever \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/66wpCqkkM6MrxXSbfgmsrh) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 3:33 | 2021-06-01 | 2022-07-29 |
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 | 2022-05-31 |  |

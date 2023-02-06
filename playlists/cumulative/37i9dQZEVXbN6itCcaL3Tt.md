@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-987 songs - 2 day 3 hr 6 min
+988 songs - 2 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [ADHD](https://open.spotify.com/track/2jidsTTbs8VEXKyc16rqgQ) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 3:35 | 2022-06-11 | 2022-06-26 |
 | [Adios](https://open.spotify.com/track/6HFVoNXErW7mM9P9sfunYh) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Fight Club](https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj) | 3:32 | 2021-04-01 | 2021-04-04 |
 | [ADRENALINA](https://open.spotify.com/track/09LwPi7fLnNkVnV6DV6FyY) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [ADRENALINA](https://open.spotify.com/album/225ID2ujq8wqPJM9HnOryT) | 3:00 | 2022-09-18 | 2023-01-03 |
-| [Adwokat Diabła Intro](https://open.spotify.com/track/5B3vaZQcdqv2KRtzZ9cEQ8) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Adwokat Diabła Intro](https://open.spotify.com/album/5PGsUq1YMn7D6LbZfnyBWF) | 2:17 | 2023-01-21 |  |
+| [Adwokat Diabła Intro](https://open.spotify.com/track/5B3vaZQcdqv2KRtzZ9cEQ8) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Adwokat Diabła Intro](https://open.spotify.com/album/5PGsUq1YMn7D6LbZfnyBWF) | 2:17 | 2023-01-21 | 2023-02-06 |
 | [Afera](https://open.spotify.com/track/5o8w6UnXdQDvEO7pFYBjWH) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [Diamentowy Las](https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs) | 2:02 | 2021-05-09 | 2021-05-13 |
 | [Afryka](https://open.spotify.com/track/2JD2C6QTsIjogwoP1QRn6y) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Dom Dla Zmyślonych Przyjaciół Pana Mateusza](https://open.spotify.com/album/0msLBh7Jo7cFkvTrigflxi) | 2:42 | 2022-04-08 | 2022-04-16 |
 | [Afryka](https://open.spotify.com/track/3oCymcZu2ewG2UlVlRtyo1) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Afryka](https://open.spotify.com/album/24vmXvyLmuKtDdNEOKYEEs) | 2:42 | 2022-03-15 | 2022-03-26 |
@@ -409,6 +409,7 @@
 | [Kamień \(A\. Asnyk\)](https://open.spotify.com/track/5PpdPYO0cImtBed9WuLWuW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kamień \(A\. Asnyk\)](https://open.spotify.com/album/1py7iv35DApAOvGuAuwsVh) | 4:07 | 2022-10-18 | 2022-10-21 |
 | [Kap Kap](https://open.spotify.com/track/29PZo17jDYrodZBhvts23N) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [amfisbena](https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4) | 2:45 | 2022-01-15 | 2022-01-19 |
 | [Kapie Deszcz](https://open.spotify.com/track/6HSOnIzkBJnd3aBYCLCDBl) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 3:26 | 2021-04-18 | 2021-05-03 |
+| [KAPITAN](https://open.spotify.com/track/3HhlP8GnDmeTrSXPaEB4yT) | [Team X](https://open.spotify.com/artist/6319D09erMRIrr8bl6ZAHC), [Natsu World](https://open.spotify.com/artist/3jIcoQOjdcGJUGGZ2HdaMV) | [KAPITAN](https://open.spotify.com/album/0fEerbHDAPgsH3IuNuZt8E) | 2:36 | 2023-02-05 |  |
 | [Kapitan](https://open.spotify.com/track/3GJW3WLsbqcP0HAFlIvzAC) | [Wac Toja](https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv) | [Kapitan](https://open.spotify.com/album/5OBuCNSrgVHvcvvWSPgN1i) | 2:27 | 2021-03-27\* | 2021-03-30 |
 | [Karaluchy](https://open.spotify.com/track/0B287gCJFWfvoCMs8ZIO1K) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Karaluchy](https://open.spotify.com/album/53H8xnW9CjDrAffFVQ6Npt) | 2:21 | 2022-01-19 | 2022-02-17 |
 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 | 2021-04-23 | 2021-06-18 |

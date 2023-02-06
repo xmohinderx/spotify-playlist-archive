@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 107277,
+  "num_followers": 107285,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDkzOTk0NSwwMDAwMDAwMGYyYmNjNTRjNTJjNGE3MTU2ZjRjNmM3OTcyYzMyODNi",
+  "snapshot_id": "MTY3NDkzOTk0NSwwMDAwMDAwMGU3MTk5ZTE5YzNlYTUxODBhN2RkYWYxNTU5MTNhNGRh",
   "tracks": [
     {
       "added_at": "2023-01-28 21:05:45",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Still Life - EP",
-        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 200352,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 225600,
       "name": "Taste",
       "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Still Life - EP",
+        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 200352,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
     },
     {
       "added_at": "2023-01-28 21:05:45",

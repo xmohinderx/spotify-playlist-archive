@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-302 songs - 19 hr 21 min
+304 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Eyes Off You](https://open.spotify.com/track/3eY0PzM1UKs9XkCph8b3US) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Eyes Off You](https://open.spotify.com/album/3mU4KOiDmbxXcQK3NL0lNx) | 4:01 | 2023-01-28 |  |
 | [f1 racer](https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: F1 Racer & Locked In \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 2:26 | 2022-10-15 | 2022-11-01 |
 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 | 2023-01-21 | 2023-01-29 |
+| [Falling Down](https://open.spotify.com/track/4RgZBeQu8LtQVmSy0GXLof) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [Falling Down](https://open.spotify.com/album/7LIZoLfBkDZ2JyMv1WTugP) | 2:24 | 2023-02-05 |  |
 | [Fantasy](https://open.spotify.com/track/3MGDui01P1lMggLMe4vxYR) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV) | [Fantasy](https://open.spotify.com/album/2uaJmzs43n1ql9dXs61dvs) | 2:50 | 2022-10-31 | 2022-12-03 |
 | [Fatige \- GUM & Ginoli Remix](https://open.spotify.com/track/35W8mYUB4PTRdfc6VJdKod) | [Grace Barbe](https://open.spotify.com/artist/2G7Wvnha0ThnKlKLlRQ2wG), [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ginoli](https://open.spotify.com/artist/0TFrrDk4VVDjnLSEIa3SqJ) | [Fatige \(GUM & Ginoli Remix\)](https://open.spotify.com/album/4U36sa96GiNVSZjf5WvSKB) | 4:49 | 2022-11-18 | 2022-12-03 |
 | [February Fluorine](https://open.spotify.com/track/2DKdDSJ0qliNzHysxKKqPH) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe) | [February Fluorine](https://open.spotify.com/album/4A0pUmnZw7GCQ7CAev6Cd4) | 4:34 | 2022-10-15 | 2022-11-01 |
@@ -223,6 +224,7 @@
 | [RESTORE POWER](https://open.spotify.com/track/4YrNLXWp78sMdxQn34LYke) | [Les Char](https://open.spotify.com/artist/2qJjHcYZPuhSI1g0bIEfG1), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [OBSIDIENNE](https://open.spotify.com/album/2ylJayvQTz9LZO0hfo00Gi) | 4:00 | 2023-01-21 | 2023-01-29 |
 | [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 | 2022-11-04 | 2022-11-13 |
 | [Rhythm 2 U](https://open.spotify.com/track/4NwQEKcLfOWZcvaN2bob6x) | [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD) | [Rhythm 2 U](https://open.spotify.com/album/3rQK4mV2dtEFJ79hJuyc0k) | 2:52 | 2022-11-04 | 2022-11-13 |
+| [Rosa](https://open.spotify.com/track/1Ftqz7NH47SscxNieFz6Tw) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Umberto Pagliaroli](https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI) | [Rosa](https://open.spotify.com/album/091FjIA5q3xjMuCI2EV81a) | 3:31 | 2023-02-05 |  |
 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 | 2022-11-12 | 2022-11-19 |
 | [Royal Purple](https://open.spotify.com/track/53zoCuwP7HuVhwkB4hkjXH) | [Saine](https://open.spotify.com/artist/40a1QzTRI0cwpsd4fBKSAu) | [Ceramics](https://open.spotify.com/album/6GvHAlRl0fKbKkqSFp5JPH) | 4:20 | 2022-12-03 | 2023-01-07 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-06 | 2023-01-14 |
