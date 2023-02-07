@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-267 songs - 1 day 1 hr 10 min
+268 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2020-10-09 |  |
 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
 | [Sad Tune](https://open.spotify.com/track/3LZ0GUgBO1XXW6jKK5A2lJ) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 6:15 | 2020-10-09 | 2022-02-18 |
+| [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-06 |  |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-10-09 |  |
 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 | 2022-09-15 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2021-07-23 |  |

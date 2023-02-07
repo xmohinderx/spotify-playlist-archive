@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 186752,
+  "num_followers": 186846,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDZlYjE3ODkwNjQ5ZGNhZGI3OGFlYmJkZTJkOWQwOTgy",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGZhMTQyYjY4MWU4MDA5ODVkYTVjMDVlZGQzNWI0ZmVj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "NF",
         "url": "https://open.spotify.com/album/2cMXPk9NsWWnawWxa3SSUf"
       },
@@ -383,30 +383,6 @@
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        },
-        {
-          "name": "Courtney",
-          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
-        }
-      ],
-      "duration_ms": 323946,
-      "name": "Pioneers",
-      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -467,18 +443,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Gave You My Heart",
-        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
       "artists": [
         {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        },
+        {
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
         }
       ],
-      "duration_ms": 187706,
-      "name": "Gave You My Heart",
-      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
+      "duration_ms": 323946,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -511,6 +495,22 @@
       "duration_ms": 210372,
       "name": "Dancing in the Minefields",
       "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Gave You My Heart",
+        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Gave You My Heart",
+      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love in the West",
         "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Baby Will You Love Me",
         "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 213338,
       "name": "Baby Will You Love Me",
       "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
-      },
-      "artists": [
-        {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dear Future Wife (Acoustic)",
         "url": "https://open.spotify.com/album/3yHmNaCf9I1nXTYSdd5WoT"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/0RQok78Z58rek1FfvvWmYp"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1507,38 +1507,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -1559,6 +1527,22 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1611,6 +1595,22 @@
       "duration_ms": 237401,
       "name": "Loving A Person - Reimagined",
       "url": "https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Josh Wilson",
-        "url": "https://open.spotify.com/album/4egEbjr9keEfncjr8dTd33"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An"
       },
       "artists": [
         {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 197653,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/6tjDAG0A92Xyb7M0612fjn"
+      "duration_ms": 173861,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz"
     }
   ],
   "unique_name": "Higher Love",

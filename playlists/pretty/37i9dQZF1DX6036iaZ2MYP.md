@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> 
+> Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,758 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,937 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 69 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 70 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 |
 
-Snapshot ID: `MTY3NTM3ODgwMCwwMDAwMDAwMGM2NjAxMWNjODY2YmZlMzA2NTc0MDMyYzMzMzM5YzYy`
+Snapshot ID: `MTY3NTY3OTYzNiwwMDAwMDAwMDgyNmZhY2EwODQwZDRkNGMyYzk4YzYyMTVhYWNkN2Q0`

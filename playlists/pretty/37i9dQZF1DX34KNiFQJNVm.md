@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marcos & Belutti com João Gomes, Matuê, Teto e WIU, Zé Felipe, Matheus & Kauan com Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,789 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,830,239 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

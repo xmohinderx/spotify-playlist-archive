@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib"
+    },
+    {
+      "album": {
         "name": "Beautiful Liar",
         "url": "https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih"
       },

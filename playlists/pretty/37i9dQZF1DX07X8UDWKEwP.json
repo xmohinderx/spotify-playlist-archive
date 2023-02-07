@@ -1,33 +1,13 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Cheo",
-  "num_followers": 247693,
+  "num_followers": 247727,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDQ2MzEzYzgyOGQyMjUzYzI3NmRlNmM4MTMxZmMyOGU5",
+  "snapshot_id": "MTY3NTcwNTY2NCwwMDAwMDAwMDUxZDM4MjhiYTgzNzQzMGVlNjRhZTYzZDM2MDlmZDc0",
   "tracks": [
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
@@ -63,6 +43,26 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -255,38 +255,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Bluetooth",
         "url": "https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 160560,
       "name": "Bluetooth",
       "url": "https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -335,6 +319,22 @@
       "duration_ms": 244850,
       "name": "El Ignorante",
       "url": "https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Encaprichao",
+        "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 129323,
+      "name": "Encaprichao",
+      "url": "https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "atravesao",
         "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
@@ -531,22 +551,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Encaprichao",
-        "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
+        "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
+        "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
       },
       "artists": [
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
         }
       ],
-      "duration_ms": 129323,
-      "name": "Encaprichao",
-      "url": "https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d"
+      "duration_ms": 186440,
+      "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
+      "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
-        "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
-      "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 233269,
       "name": "SexToy",
       "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2023-02-03 05:00:00",

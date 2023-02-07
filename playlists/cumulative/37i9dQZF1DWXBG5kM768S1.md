@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-201 songs - 12 hr 47 min
+202 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [God morgen, min kjære](https://open.spotify.com/track/1y7t76EK1A3lsh6iLQwqH8) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den Største Reisen](https://open.spotify.com/album/3tvpaisrdoJlVNKcOexM8w) | 4:08 | 2021-12-16 | 2022-07-29 |
 | [God morgen, min kjære](https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den største reisen](https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ) | 4:08 | 2022-07-14 | 2022-10-27 |
 | [God Natt Oslo](https://open.spotify.com/track/03DAM7GVONIxrPlxD2nUbp) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/5luzv9hkJpBEPW4DhXHjzm) | 4:48 | 2022-01-06 | 2022-07-29 |
-| [God Natt Oslo](https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz) | 4:48 | 2022-07-14 |  |
+| [God Natt Oslo](https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz) | 4:48 | 2022-07-14 | 2023-02-07 |
 | [Godt nok](https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Inn i skogen](https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq) | 3:56 | 2022-10-06 | 2022-12-13 |
 | [Gressholmen](https://open.spotify.com/track/2wfnh9UNfZPrPKb3PWUOYl) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gressholmen](https://open.spotify.com/album/7mdhA3SaJpAwxthbw2mksg) | 3:32 | 2023-01-26 |  |
 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 | 2021-12-16 |  |
@@ -122,6 +122,7 @@
 | [Jupiter](https://open.spotify.com/track/4o76TSM5Oks01fAwgBBSG4) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [Jupiter](https://open.spotify.com/album/3InLXFrUYYE9mAQEdUPXRe) | 4:39 | 2022-03-23 | 2022-04-21 |
 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 | 2022-01-06 | 2022-06-18 |
 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 | 2021-12-16 |  |
+| [Ka e du redd for \(feat\. Sigvart Dagsland\)](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 | 2023-02-02 |  |
 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 | 2021-12-16 |  |
 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 | 2021-12-16 |  |
 | [Kom Sommarvijnn](https://open.spotify.com/track/4Fd3PLV1eWKmWt3MvQp6kq) | [Tove Karoline Knutsen](https://open.spotify.com/artist/0H20aoTibm2Q403c4RD4Dk) | [Blå Kveill](https://open.spotify.com/album/6lAQCB6EzlD0mBAwWj84Zs) | 2:31 | 2022-01-06 | 2022-07-29 |

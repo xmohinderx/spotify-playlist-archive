@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-525 songs - 22 hr 53 min
+530 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 |  |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 |  |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-07-16 |
-| [Always Watching Over You](https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Always Watching Over You](https://open.spotify.com/album/6LqqB9KbNrztwPnJQkgECi) | 2:30 | 2021-12-07 |  |
+| [Always Watching Over You](https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Always Watching Over You](https://open.spotify.com/album/6LqqB9KbNrztwPnJQkgECi) | 2:30 | 2021-12-07 | 2023-02-07 |
 | [Am Arbersee](https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw) | [Lucas Riggio](https://open.spotify.com/artist/0kqkulxBTv0YPpWssUxpfb) | [Am Arbersee](https://open.spotify.com/album/6fCYKO0Zd3eUALoZh2viCB) | 3:09 | 2021-12-07 |  |
 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 | 2021-12-07 |  |
 | [am Horizont](https://open.spotify.com/track/4IudYeS170UrdIwjdSP8EH) | [Isabelle Taylor](https://open.spotify.com/artist/4XTnPVtZMaZfV1pScZs0g2) | [am Horizont](https://open.spotify.com/album/4PuYbtdPihvvfrUruh4FnR) | 3:24 | 2021-12-07 |  |
@@ -50,6 +50,7 @@
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 | 2023-01-27 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 |  |
 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 | 2021-12-07 |  |
+| [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-02-06 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-28 | 2023-01-27 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-12-07 | 2022-07-29 |
 | [As I Was](https://open.spotify.com/track/7FXTsAqtuTMc7UMuRyY95D) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [As I Was](https://open.spotify.com/album/1yp2jl5uXSD8b9yw3LMc85) | 3:27 | 2021-12-07 | 2022-01-19 |
@@ -105,6 +106,7 @@
 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2021-12-07 |  |
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2021-12-07 | 2022-07-16 |
+| [Divinity](https://open.spotify.com/track/5ifNZSCzdccj4gxbwB5amJ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Divinity](https://open.spotify.com/album/5towv8URRgVtNLMWniWVd1) | 2:06 | 2023-02-06 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-01-04 |  |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-07-15 |  |
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2021-12-07 |  |
@@ -173,6 +175,7 @@
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-07 |  |
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2021-12-07 |  |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-02-01 | 2022-12-24 |
+| [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 |  |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2021-12-07 |  |
 | [Haze](https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP) | [Benito Hidaka](https://open.spotify.com/artist/4UyhrqbotqTVu12QkpsQWg) | [Haze](https://open.spotify.com/album/3TmuG0POkrpP8Ulcu3n977) | 2:33 | 2021-12-07 |  |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2021-12-07 |  |
@@ -259,6 +262,7 @@
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-28 |  |
+| [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-06 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2021-12-07 | 2022-07-16 |
 | [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 | 2022-09-14 |  |
 | [Low](https://open.spotify.com/track/47NrymHrpDp5A5yzDPVwMp) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Low](https://open.spotify.com/album/4HjKTcQJ1FuzweldF83GCx) | 2:42 | 2022-07-15 |  |
@@ -311,6 +315,7 @@
 | [Nježno](https://open.spotify.com/track/5SJY135DzmU9PIgYKKkSAh) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Nježno](https://open.spotify.com/album/2FoyXABr5XeiYpQIkQCF3z) | 2:02 | 2022-02-01 |  |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2021-12-07 | 2022-07-16 |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 |  |
+| [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-06 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-07 |  |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-02-01 |  |

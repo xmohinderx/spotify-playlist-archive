@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-52 songs - 2 hr 40 min
+53 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Lied To Me](https://open.spotify.com/track/5dO6eoFYVSkqtIcwIIAWr5) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Ari](https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1), [Lost Dreamers](https://open.spotify.com/artist/19jOvlXvoXs2Crt2RJ0R9B) | [Lied To Me](https://open.spotify.com/album/4AXoL7a5TPU6rktqwBeBgU) | 2:31 | 2022-12-20 |  |
 | [Magic \- Edit](https://open.spotify.com/track/2u5BsxcvX36t9ecVM70Ati) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 2:49 | 2022-12-20 |  |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-12-20 |  |
-| [Missing U](https://open.spotify.com/track/0vzWDHKtEUfbvyVZTiFg4r) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Aukoustics](https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT) | [Missing U](https://open.spotify.com/album/7foipjFR7Z4BTl4V3zEnHY) | 3:01 | 2022-12-20 |  |
+| [Missing U](https://open.spotify.com/track/0vzWDHKtEUfbvyVZTiFg4r) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Aukoustics](https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT) | [Missing U](https://open.spotify.com/album/7foipjFR7Z4BTl4V3zEnHY) | 3:01 | 2022-12-20 | 2023-02-07 |
 | [Nopalitos](https://open.spotify.com/track/7mTu2ZcNb2Ip79YEzZZnrf) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Nopalitos](https://open.spotify.com/album/0qPeoLei81BIwwi8NKf27W) | 3:50 | 2022-12-20 |  |
 | [Now You Know](https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [Now You Know](https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw) | 2:49 | 2022-12-20 |  |
 | [Paradise](https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Rya Rey](https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS) | [Paradise](https://open.spotify.com/album/1sawVZiyUViCzUPVmjUxsU) | 2:24 | 2022-12-20 |  |
@@ -48,6 +48,7 @@
 | [Smoke & Ash](https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy) | [Smoke & Ash](https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp) | 2:44 | 2022-12-20 |  |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2022-12-20 |  |
 | [Sunset Memories](https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Sunset Memories](https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj) | 3:04 | 2022-12-20 |  |
+| [Take Me Home](https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww) | [Lieutenant 71](https://open.spotify.com/artist/3V0O5QILU07M67Y2S3l0cy), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Take Me Home](https://open.spotify.com/album/55rV8BxbZiE5cGoJPrDsWo) | 2:38 | 2023-02-06 |  |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-20 |  |
 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2022-12-20 | 2023-01-27 |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-12-20 |  |

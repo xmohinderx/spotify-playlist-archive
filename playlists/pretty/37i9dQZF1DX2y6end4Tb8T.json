@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 47600,
+  "num_followers": 47648,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGUxZmRlODAyNjY2NTY4NWRjYjAzYjIwYjAxMGMxMThk",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGJiMzJlYzEzMDg2M2I3NThiODdjOWY0ZmIzNmI1ZDE4",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -583,30 +583,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "The Bigger Picture",
         "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
       },
@@ -647,22 +623,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -687,6 +647,30 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
+        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Life's A Mess II (with Clever & Post Malone)",
+      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Eternal Atake",
         "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
       },
@@ -699,6 +683,38 @@
       "duration_ms": 234626,
       "name": "P2",
       "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Red Light Green Light",
+        "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159082,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -739,22 +755,6 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Red Light Green Light",
-        "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159082,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -927,6 +927,30 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
+        }
+      ],
+      "duration_ms": 196180,
+      "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
+      "url": "https://open.spotify.com/track/3WpHqtFUwzIQBsV9YC5iNc"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "TattleTales",
         "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 177314,
       "name": "Heatin Up (feat. Gunna)",
       "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Sly Pyper",
-          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
-        }
-      ],
-      "duration_ms": 196180,
-      "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
-      "url": "https://open.spotify.com/track/3WpHqtFUwzIQBsV9YC5iNc"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 192000,
       "name": "My Window (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 141320,
-      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "Lock It Up (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "duration_ms": 141320,
+      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1255,22 +1255,6 @@
       "duration_ms": 222801,
       "name": "B.B. King Freestyle (with Drake)",
       "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Los Bo",
-        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Los Bo",
-      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1387,6 +1367,26 @@
       "duration_ms": 278280,
       "name": "Los Dioses",
       "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Los Bo",
+        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Los Bo",
+      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "TOLKIN YIT",
+        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 141407,
+      "name": "TOLKIN YIT",
+      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "UGLY (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 194285,
       "name": "UGLY (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "TOLKIN YIT",
-        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 141407,
-      "name": "TOLKIN YIT",
-      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
-        "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 213060,
-      "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
-      "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1607,6 +1583,30 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
+        "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 213060,
+      "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
+      "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Saga of Wiz Khalifa (Deluxe)",
-        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 125577,
-      "name": "POV (feat. Rubi Rose)",
-      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "MONTANA",
         "url": "https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 262134,
       "name": "Twisted (feat. Juicy J, Logic & A$AP Rocky)",
       "url": "https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "The Saga of Wiz Khalifa (Deluxe)",
+        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 125577,
+      "name": "POV (feat. Rubi Rose)",
+      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
     },
     {
       "added_at": "2021-11-12 16:22:17",

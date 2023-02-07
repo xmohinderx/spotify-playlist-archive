@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-164 songs - 9 hr 15 min
+168 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [247](https://open.spotify.com/track/1FlIEnP3DdFgeP3dhVfNZf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:33 | 2022-07-21 |  |
 | [247](https://open.spotify.com/track/6laJrwQiRDKqyOmURCra8o) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:33 | 2022-05-27 | 2022-07-29 |
 | [24H](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [24H](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) | 3:08 | 2022-05-27 |  |
+| [7PM \(Feat\. Peder Elias\)](https://open.spotify.com/track/6tAPw1Rtt3SGEOm6ohYi8l) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:15 | 2023-02-06 |  |
 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 | 2022-05-27 |  |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-21 |  |
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-10-03 |  |
@@ -29,6 +30,7 @@
 | [Back it up](https://open.spotify.com/track/6c5ccrEzRtGQdIM04xNtSI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:07 | 2022-07-21 |  |
 | [BEAUTIFUL](https://open.spotify.com/track/0fK4XOE0TjcXOcMezZtncZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:37 | 2022-05-27 |  |
 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 | 2022-05-27 |  |
+| [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2023-02-06 |  |
 | [BOOMBOOM](https://open.spotify.com/track/0pWxUlYb3EM2WkcTJfwBdP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:26 | 2022-05-27 |  |
 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 | 2022-05-27 |  |
 | [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 3:19 | 2022-05-27 | 2022-07-29 |
@@ -59,6 +61,7 @@
 | [Fear](https://open.spotify.com/track/1SgRnIFTs39lSkQJACYDoY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 | 2022-07-21 |  |
 | [Fearless](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:14 | 2022-07-21 |  |
 | [Fearless](https://open.spotify.com/track/24md79Pvck5AWciO5Xc3Ee) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:14 | 2022-05-27 | 2022-07-29 |
+| [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-06 |  |
 | [Flower](https://open.spotify.com/track/3wIDLZ8nEHeyxSrVJsD6tv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 | 2022-05-27 |  |
 | [Fronting](https://open.spotify.com/track/7ppRZp3i4KpK7UHeNLAHrJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:05 | 2022-05-27 |  |
 | [GAM3 BO1](https://open.spotify.com/track/5Zt86CL16kbPvuwcmHMEg8) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:09 | 2022-05-27 |  |
@@ -110,6 +113,7 @@
 | [Love Letter](https://open.spotify.com/track/5UZJPEEup9UVUojRKXcv0f) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 2:58 | 2022-05-27 |  |
 | [Lucky](https://open.spotify.com/track/4U1tSjwx6FjV27EcXCE9d3) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:17 | 2022-05-27 | 2022-07-29 |
 | [Lucky](https://open.spotify.com/track/6BuUJqtxrQZWKOJFibfFFv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:17 | 2022-07-21 |  |
+| [LUNCH](https://open.spotify.com/track/0MMIrw3mCssQj4uqJlBzdp) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:20 | 2023-02-06 |  |
 | [Mansae](https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:06 | 2022-05-27 |  |
 | [March](https://open.spotify.com/track/5Av3flFGhQPu960OvjeNhm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:16 | 2022-05-27 |  |
 | [Maze \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/6lWicdbY0xMkeLxYeswFxL) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Maze \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/7G73I4zSOc9jhxHFAgYIlS) | 3:46 | 2022-05-27 |  |

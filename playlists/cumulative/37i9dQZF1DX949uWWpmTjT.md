@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-360 songs - 1 day 1 hr 43 min
+361 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-11-10 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 | 2022-06-30 | 2022-11-11 |
 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 | 2021-12-03 | 2022-07-29 |
-| [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2023-02-02 |  |
+| [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2023-02-02 | 2023-02-07 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-10 | 2023-01-20 |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-08 |  |
 | [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 | 2021-12-03 | 2022-11-11 |
@@ -209,6 +209,7 @@
 | [Manha De Carnaval](https://open.spotify.com/track/5dn2ogDHiTDFMwW597ip2T) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus](https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY) | 5:48 | 2022-04-13 | 2022-11-11 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-11-10 |  |
 | [Melody](https://open.spotify.com/track/7Djo7DXnbmp5MBsWPr4go0) | [Tom Oren](https://open.spotify.com/artist/4rWD6FNjhXrLX6qoAlTbyx) | [Melody](https://open.spotify.com/album/5VLQ2inXkEkxBAt5Eul1Hp) | 3:54 | 2021-12-03 | 2022-10-26 |
+| [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-10 |  |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-30 |  |

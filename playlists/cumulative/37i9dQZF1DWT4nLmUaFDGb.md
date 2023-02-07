@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-204 songs - 13 hr 4 min
+205 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [My Baby Just Cares For Me](https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Sophie Milman](https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5) | 3:34 | 2021-12-21 | 2022-12-06 |
 | [My Funny Valentine](https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy) | 4:32 | 2021-12-21 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 4:03 | 2022-08-19 | 2023-01-09 |
+| [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH) | 2:07 | 2023-02-02 |  |
 | [My Kind of Girl](https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 4:06 | 2021-12-21 | 2022-10-26 |
 | [My Way](https://open.spotify.com/track/29wGQwGblvBlUbKuS79f25) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Classic Songs, My Way](https://open.spotify.com/album/6Wnovhi56DG9BpxufQLSER) | 5:19 | 2021-12-21 | 2022-09-27 |
 | [Oh My Love](https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [The Big Picture](https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56) | 2:46 | 2022-08-19 |  |
@@ -170,7 +171,7 @@
 | [Taxes](https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM) | [Disco Loveless](https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL) | [Taxes](https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv) | 3:21 | 2022-04-07 | 2022-12-25 |
 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 | 2021-12-21 |  |
 | [The Age Of Anxiety](https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Age of Anxiety](https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux) | 5:24 | 2021-12-21 |  |
-| [The Best Is Yet To Come](https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 3:27 | 2022-08-29 |  |
+| [The Best Is Yet To Come](https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 3:27 | 2022-08-29 | 2023-02-07 |
 | [The Good Life \(with Billy Joel\)](https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:20 | 2021-12-21 | 2022-10-08 |
 | [The Lemonade Song](https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP) | 2:34 | 2022-07-14 | 2022-11-14 |
 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 | 2021-12-21 | 2022-07-29 |

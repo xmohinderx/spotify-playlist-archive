@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Kesho",
+        "url": "https://open.spotify.com/album/4sylMukFQrAHtmk9a6h3e9"
+      },
+      "artists": [
+        {
+          "name": "Phil Kimemia",
+          "url": "https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB"
+        },
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172903,
+      "name": "Kesho",
+      "url": "https://open.spotify.com/track/0TCgBgpoXiTiXC6dLrjzqZ"
+    },
+    {
+      "album": {
         "name": "Kingdom Choir",
         "url": "https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt"
       },
@@ -1025,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Secret Agenda",
+        "url": "https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "Secret Agenda",
+      "url": "https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9"
+    },
+    {
+      "album": {
         "name": "Tawala",
         "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
       },
@@ -1116,7 +1156,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 219428,
       "name": "Ulimi wangu",
       "url": "https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5"
@@ -1152,7 +1192,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 194037,
       "name": "Wakati wa Mungu",
       "url": "https://open.spotify.com/track/4DTPr7ltGCqXwYa5wARFP5"

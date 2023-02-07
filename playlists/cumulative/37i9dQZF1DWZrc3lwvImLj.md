@@ -4,11 +4,12 @@
 
 > Beautifully sad and moody piano music.
 
-279 songs - 12 hr 26 min
+282 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2021-12-14 |  |
+| [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 | 2023-02-06 |  |
 | [A Winter's Elegy](https://open.spotify.com/track/6bHkocAft4fa7LAfJqbRM7) | [Steven Poole](https://open.spotify.com/artist/1yQhRcOp7MsXQTZuoaOhyX) | [A Winter's Elegy](https://open.spotify.com/album/2eFmV9yZC88CNwG72C5pWS) | 2:23 | 2023-01-09 |  |
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-07-28 |  |
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2021-12-14 | 2022-07-29 |
@@ -79,6 +80,7 @@
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2022-05-04 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-12-14 |  |
 | [Fireplace](https://open.spotify.com/track/4EmiPEv2zeh1fS43C5y4MW) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Fireplace](https://open.spotify.com/album/3VADBiEDYxL28OE36LXSMy) | 1:51 | 2023-01-09 |  |
+| [Fjærland](https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9) | [Erica Statværd](https://open.spotify.com/artist/5s1olurhMGBz2Qfh3p2kcv) | [Fjærland](https://open.spotify.com/album/0QTUZYk4rNk5pkcFOBZLK1) | 2:24 | 2023-02-06 |  |
 | [Florentin](https://open.spotify.com/track/6lE5ACHHqeEk7nLciGJH3P) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Florentin](https://open.spotify.com/album/6AUPQJfBYnyw47dZ9V0w89) | 1:58 | 2021-12-14 | 2022-01-20 |
 | [Flâneuses](https://open.spotify.com/track/7IPAwOkbjDxQI3cE0c1uvX) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Flâneuses](https://open.spotify.com/album/5uK79ozFUxOb2Lw2D45AQM) | 2:47 | 2023-01-27 |  |
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-13 |  |
@@ -168,6 +170,7 @@
 | [Nostalgia](https://open.spotify.com/track/1zj98YuXYeQP02d4kqoSEE) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Nostalgia](https://open.spotify.com/album/2tPUS5tvDkuKL66bLk5CYN) | 2:23 | 2022-07-06 |  |
 | [Numéro 11](https://open.spotify.com/track/1esrhRyrNWhIn2OcB48AzP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 11](https://open.spotify.com/album/1TRmbAEVPLZNn1aNW0YdKh) | 2:48 | 2022-08-03 |  |
 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 | 2022-12-21 |  |
+| [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 | 2023-02-06 |  |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2021-12-14 |  |
 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 | 2021-12-14 |  |
 | [Oktobervals](https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Oktobervals](https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS) | 2:28 | 2022-12-21 |  |
@@ -244,7 +247,7 @@
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-12-14 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-14 |  |
 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-06 | 2022-08-04 |
-| [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-01-27 |  |
+| [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-01-27 | 2023-02-07 |
 | [Tout Doucement](https://open.spotify.com/track/3q3LCzKr47um4mipbkIplC) | [Marianna Zsuska](https://open.spotify.com/artist/3xUOva5IZhjyBHYJrgM8wJ) | [Tout Doucement](https://open.spotify.com/album/7rUlpRcwrhFkCWUotNDn6a) | 2:22 | 2022-03-30 | 2022-07-29 |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2021-12-14 | 2022-01-20 |
 | [Trinité](https://open.spotify.com/track/4mj4DJxJCBZjbUdA5qMvxE) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [Trinité](https://open.spotify.com/album/5dfnZVMMnSHXI2Ihws6wgE) | 2:46 | 2022-04-14 |  |

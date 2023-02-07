@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Lin Rountree
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,819 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,871 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 17 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
 | 18 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
 | 19 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
-| 20 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
-| 21 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
+| 20 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
+| 21 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
 | 22 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
 | 23 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 |
-| 24 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 |
-| 25 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
+| 24 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
+| 25 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 |
 | 26 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
 | 27 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 |
 | 28 | [Step to This](https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Step to This](https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM) | 3:52 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 33 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
 | 34 | [Making Love To You](https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ), [Andrea Razzauti](https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1) | [Making Love To You](https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7) | 4:45 |
 | 35 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
-| 36 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
-| 37 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 |
-| 38 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 |
+| 36 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 |
+| 37 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
+| 38 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 |
 | 39 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 |
 | 40 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 |
 | 41 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 49 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
 | 50 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGJjZGRiMzNmMzBmNjk3OThiNGY0NTllZjM4NGM2NDFl`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGViYWIwOGJiZjgwZDAxNTE1NjMzNmI0ZGJjM2I5YmRj`

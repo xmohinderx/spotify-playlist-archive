@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Junior H",
-  "num_followers": 377255,
+  "num_followers": 377310,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwNDIyNCwwMDAwMDAwMDQxYmJiNzAzZWQ0MDFjMjYyM2Q4ZTNlMGNiNTU1MTVh",
+  "snapshot_id": "MTY3NDYwNDIyNCwwMDAwMDAwMDg1MDcwMTkxMmIyNmUwZmUxNDQ2NDdkNjNhNDUyMGEz",
   "tracks": [
     {
       "added_at": "2023-01-24 23:50:24",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-01-24 23:50:24",
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+        "name": "First Of The Year",
+        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+      "duration_ms": 170873,
+      "name": "First Of The Year",
+      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
     },
     {
       "added_at": "2023-01-24 23:50:24",
@@ -511,18 +507,22 @@
     {
       "added_at": "2023-01-24 23:50:24",
       "album": {
-        "name": "First Of The Year",
-        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 170873,
-      "name": "First Of The Year",
-      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": "2023-01-24 23:50:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-24 23:50:24",
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 172748,
-      "name": "Mi Vecindario",
-      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
-    },
-    {
-      "added_at": "2023-01-24 23:50:24",
-      "album": {
         "name": "Moneysign Suede",
         "url": "https://open.spotify.com/album/5PtCXycY9LrvdDeXWioM9o"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 150678,
       "name": "El Matrix",
       "url": "https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl"
+    },
+    {
+      "added_at": "2023-01-24 23:50:24",
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 172748,
+      "name": "Mi Vecindario",
+      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
     },
     {
       "added_at": "2023-01-24 23:50:24",

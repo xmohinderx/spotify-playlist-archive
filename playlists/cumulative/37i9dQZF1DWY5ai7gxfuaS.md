@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-147 songs - 10 hr 28 min
+148 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [akuma](https://open.spotify.com/track/6cr9O3zBVZ2Ityl8EMy890) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/7IPaRdgBOJlUahcAZxvazr) | 3:10 | 2022-03-10 | 2022-07-29 |
 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 | 2021-12-20 | 2022-11-19 |
 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 | 2022-09-29 | 2023-02-05 |
-| [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 | 2021-12-20 |  |
+| [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 | 2021-12-20 | 2023-02-07 |
 | [Ancestral Recall](https://open.spotify.com/track/4F0cImmvDJ9IEvPgBHPaY9) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/4ZAz2jdFFsLsuc6KJScGh1) | 3:54 | 2021-12-20 | 2022-07-29 |
 | [Ancestral Recall](https://open.spotify.com/track/66EQnrHuas3WUn8aIOVmdg) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/0ppDekC0zA0aOKt9FxXVMY) | 3:54 | 2022-09-29 | 2022-11-13 |
 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 | 2022-07-26 |  |
@@ -35,6 +35,7 @@
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-20 |  |
 | [Believe](https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 4:36 | 2022-11-18 | 2023-01-28 |
 | [Believe](https://open.spotify.com/track/3wfc00OGxwIK9zRBPBvplY) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dive](https://open.spotify.com/album/0ld5U0aAKWiNUiUYqSJi13) | 4:36 | 2022-11-18 | 2023-02-04 |
+| [Believe](https://open.spotify.com/track/4ArYorRF2fc7QoZhnpouWN) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Parasite](https://open.spotify.com/album/5Y8OkF9YdWgc6tc5fMd0a7) | 4:36 | 2022-11-18 |  |
 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-07-26 | 2022-12-11 |
 | [Believe](https://open.spotify.com/track/6NdcU1BYB4jxXBn88OTeAH) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Best Of Me](https://open.spotify.com/album/0hCgFa5oQgotbahA3C4gzb) | 4:36 | 2022-11-18 | 2023-01-13 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-26 |  |

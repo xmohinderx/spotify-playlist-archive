@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 409080,
+  "num_followers": 409213,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDIwN2Y1ZWMzOWJlMmVmMzIzNTJkYTQ5Mjk1ZGU0YjU0",
+  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDFiMjBkN2FmMWNjZGQzZDM5MzQ0MzFmMGIxMWNkOTIz",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -155,26 +155,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "SALES LP",
         "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Luxury Beverage",
+        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "lavender blood",
+      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Spiral Stairs",
         "url": "https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Luxury Beverage",
-        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
       },
       "artists": [
         {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 158785,
-      "name": "lavender blood",
-      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -527,22 +543,6 @@
       "duration_ms": 328421,
       "name": "A Sad Song About a Girl I No Longer Know",
       "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 127085,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "Come Down",
@@ -915,6 +899,22 @@
       "duration_ms": 153234,
       "name": "Her Sinking Sun",
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
         "url": "https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 263727,
       "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
       "url": "https://open.spotify.com/track/15pUb5F93loQQWGN5yqB0y"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
-      },
-      "artists": [
-        {
-          "name": "Em Glasser",
-          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
-        },
-        {
-          "name": "Maatz",
-          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "FULL TIME LOVER",
         "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 102500,
       "name": "IN THE DOG HOUSE",
       "url": "https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+      },
+      "artists": [
+        {
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Fun Times",
         "url": "https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     }
   ],
   "unique_name": "Lo-fi Indie",

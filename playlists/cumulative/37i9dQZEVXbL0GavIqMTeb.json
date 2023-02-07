@@ -8802,7 +8802,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 190654,
       "name": "PUNTO 40",
       "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
@@ -8940,6 +8940,28 @@
       "duration_ms": 180610,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/0s3EXMb8Wk2u46Fuhk3O2e"
+    },
+    {
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
     },
     {
       "album": {

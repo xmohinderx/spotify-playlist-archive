@@ -6,7 +6,7 @@
     "name": "Johnny Le",
     "url": "https://open.spotify.com/user/12158668258"
   },
-  "snapshot_id": "Mjc1LDFlNGU4NzRkNjNkNjU5NzJlZjZjNmEyOGRjOWE5YmRjNGI2YWFkM2Y=",
+  "snapshot_id": "Mjc3LGU0NTkxMDlmNTQwM2M2ZmQ1NDBlZDAyZTRmNGJjZThkMTA1M2ZjYjQ=",
   "tracks": [
     {
       "added_at": "2022-08-25 09:19:40",
@@ -2927,6 +2927,38 @@
       "duration_ms": 203110,
       "name": "Hello Cold World",
       "url": "https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc"
+    },
+    {
+      "added_at": "2023-02-06 16:10:46",
+      "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 176101,
+      "name": "castle in the sky",
+      "url": "https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB"
+    },
+    {
+      "added_at": "2023-02-06 16:13:37",
+      "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "wallflower",
+      "url": "https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL"
     }
   ],
   "unique_name": "//divided.",

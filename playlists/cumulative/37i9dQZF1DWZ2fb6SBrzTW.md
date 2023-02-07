@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-203 songs - 10 hr 45 min
+204 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-18 | 2023-01-28 |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-19 |
-| [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 |  |
+| [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 | 2023-02-07 |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-12-03 |
 | [Hasta Luego](https://open.spotify.com/track/07a8iJ1nKPQYVAYWbTBAMu) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [BuMan](https://open.spotify.com/artist/3Y72vFwgOXdJCiJfGD5rSn), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Hasta Luego](https://open.spotify.com/album/0EAAPEajgMXR0LpK9k3jeu) | 2:44 | 2022-06-03 | 2022-07-26 |
 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-02-24 | 2022-12-06 |
@@ -115,6 +115,7 @@
 | [Kpanla](https://open.spotify.com/track/7vyPsq17QO1sN982fxtL3z) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kpanla](https://open.spotify.com/album/6Be7V1VsrltIu9AQoKkJ6k) | 2:46 | 2022-05-05 | 2022-07-29 |
 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:56 | 2023-02-06 |  |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-08-05 |
+| [La Maluka](https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [La Maluka](https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm) | 4:34 | 2023-01-27 |  |
 | [Lakiriboto](https://open.spotify.com/track/5D3fIoS0kHh6Yzzz3RP9eW) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Alari](https://open.spotify.com/album/0hjZTmymeFzADTD4Wevzkg) | 2:48 | 2021-08-20 | 2022-07-29 |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-09-24 |
 | [Life](https://open.spotify.com/track/3DRyA8NAr5Zc8DlVIfosNx) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Life](https://open.spotify.com/album/6FL0VzDEc7b4EXy4qgidAb) | 2:31 | 2022-04-28 | 2022-07-27 |

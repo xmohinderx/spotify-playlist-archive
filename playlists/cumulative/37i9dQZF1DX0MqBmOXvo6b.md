@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-512 songs - 22 hr 1 min
+513 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-06-07 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-06-07 | 2022-09-15 |
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-06-07 | 2022-09-24 |
-| [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2022-06-07 |  |
+| [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2022-06-07 | 2023-02-07 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2022-06-07 |  |
 | [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2022-06-07 |  |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2022-06-07 |  |
@@ -271,6 +271,7 @@
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2022-06-07 | 2022-09-24 |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-06-07 | 2022-09-15 |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-06-07 | 2022-09-24 |
+| [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-07 |  |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2022-06-07 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-06-07 |  |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-06-07 |  |

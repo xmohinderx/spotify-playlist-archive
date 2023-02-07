@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 42506,
+  "num_followers": 42600,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzE3NCwwMDAwMDAwMDYxMzc0MDM0ODMyZTI2MzgzYWY1MGY1NzQxZGQyNTdl",
+  "snapshot_id": "MTY3NDgzNzE3NCwwMDAwMDAwMDBiZDg4ZmI4ZDI0MmM5NDdjZDBjYzE1ZmQ1NDU4YWY1",
   "tracks": [
     {
       "added_at": "2023-01-10 17:32:46",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 158200,
       "name": "Nobody Knows You When You're Down And Out",
       "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
-      "added_at": "2023-02-06 01:24:06",
+      "added_at": "2023-02-07 00:57:35",
       "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 170000,
       "name": "Forty Four",
       "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "Blues With A Feeling",
         "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 174560,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -991,22 +1007,6 @@
       "duration_ms": 189466,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Sitting On Top Of The World",
-      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
     }
   ],
   "unique_name": "Blues Standards",

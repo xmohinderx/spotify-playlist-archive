@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 14228,
+  "num_followers": 14254,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0MzMxMiwwMDAwMDAwMDRmYWRkYTM5ZGViYmZhOWRhODgzMjk4MDkzOTg2NmRj",
+  "snapshot_id": "MTY3NDc0MzMxMiwwMDAwMDAwMGFlZjgyZTlhMTdlYzVmOGQ4NWVmODc1OTY1YTE1ODRl",
   "tracks": [
     {
       "added_at": "2023-01-26 14:28:32",
@@ -151,6 +151,26 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "duration_ms": 345920,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
         "name": "In New York [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
@@ -187,26 +207,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 345920,
-      "name": "Fall Out",
-      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 190360,
       "name": "Cast Your Fate to the Wind",
       "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Everybody's Jumpin'",
-      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -255,22 +239,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Chet is Back",
-        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Chetty's Lullaby",
-      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
         "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
@@ -287,38 +255,6 @@
       "duration_ms": 508093,
       "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
       "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -355,6 +291,54 @@
       "duration_ms": 426533,
       "name": "Grooveyard",
       "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Everybody's Jumpin'",
+      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Chet is Back",
+        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Chetty's Lullaby",
+      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -471,6 +455,22 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Chico Hamilton Quintet In Hi-Fi",
         "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 219760,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Patti Cake",
-      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
-    },
-    {
-      "added_at": "2023-01-26 14:28:32",
-      "album": {
         "name": "Gongs East!",
         "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-01-26 14:28:32",
       "album": {
-        "name": "Jazz Loves Paris",
-        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
       },
       "artists": [
         {
-          "name": "Buddy Collette",
-          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 146306,
-      "name": "Pigalle",
-      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+      "duration_ms": 361760,
+      "name": "Patti Cake",
+      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
     },
     {
       "added_at": "2023-01-26 14:28:32",
@@ -799,6 +783,22 @@
       "duration_ms": 416866,
       "name": "Gettin' Together [Original Take]",
       "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
+    },
+    {
+      "added_at": "2023-01-26 14:28:32",
+      "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
     },
     {
       "added_at": "2023-01-26 14:28:32",

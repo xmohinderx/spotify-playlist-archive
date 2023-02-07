@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,438 likes - 36 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,466 likes - 36 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 31 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 |
 | 32 | [Backseat](https://open.spotify.com/track/2Rl7RvM8RNEyCj1bLidnaJ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:31 |
 | 33 | [Blank Canvas \(Interlude\)](https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 1:35 |
-| 34 | [One In Rotation + Wide Awake](https://open.spotify.com/track/4HGabMXDHtjOYTNihq6YXF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:55 |
-| 35 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 |
+| 34 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 |
+| 35 | [One In Rotation + Wide Awake](https://open.spotify.com/track/4HGabMXDHtjOYTNihq6YXF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:55 |
 | 36 | [Her \- Interlude](https://open.spotify.com/track/4dkq5eUifgGK5ESn5vYQq8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 1:57 |
 
-Snapshot ID: `Mjc5MjY3NTcsMDAwMDAwMDA3YmNiZTE0NWY0MWYwMTAxMjBjY2U2ODZkNjg2YmE3NA==`
+Snapshot ID: `Mjc5MjgxNjcsMDAwMDAwMDA0NDc1ZmQyZTY5MDkyN2E0NTk2ZmYzZWNiYzVjZThkMA==`

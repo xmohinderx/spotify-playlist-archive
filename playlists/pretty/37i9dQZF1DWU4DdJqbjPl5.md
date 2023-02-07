@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=xEKiAihIQCqCh5PClHy0Jg" >Nonso Amadi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,619 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,771 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

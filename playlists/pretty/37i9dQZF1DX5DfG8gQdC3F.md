@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from RAYE \(pictured\), Shania Twain, JID ft\. Lute, Lyn Lapid ft\. Ruth B, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,555 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,556 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

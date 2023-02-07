@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 81419,
+  "num_followers": 81437,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGIzMjdiZTM0MThkYmI2YzI0NTE5YTUzNDQzMWFkZTJk",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDViNmRmMDk4ZTI0YTkyNjcyZDNjNjhjY2MwYzgzYTc3",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Ni\u00f1o Gigante",
-        "url": "https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT"
-      },
-      "artists": [
-        {
-          "name": "Ekhymosis",
-          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
-        }
-      ],
-      "duration_ms": 297456,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Babel (Special Edition)",
         "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 227369,
       "name": "Lobo Hombre en Paris",
       "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Ni\u00f1o Gigante",
+        "url": "https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT"
+      },
+      "artists": [
+        {
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
+        }
+      ],
+      "duration_ms": 297456,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Volver Amar",
-        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
-      },
-      "artists": [
-        {
-          "name": "Los De Adentro",
-          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Productos Desaparecidos",
         "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 237173,
       "name": "Nada Me Obliga",
       "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -235,6 +203,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Volver Amar",
+        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
+      },
+      "artists": [
+        {
+          "name": "Los De Adentro",
+          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Cent\u00e9simo Humano",
         "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 206225,
       "name": "Alquimia",
       "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Apolog\u00eda de una Amigdala Inflamada",
         "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
       },
@@ -351,22 +335,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Productos Desaparecidos",
         "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 225693,
       "name": "Ahora Me Cuesta",
       "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -463,42 +463,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -523,6 +487,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -543,6 +523,26 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Perdedor",
         "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
       },
@@ -555,38 +555,6 @@
       "duration_ms": 191533,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
-      },
-      "artists": [
-        {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -619,6 +587,38 @@
       "duration_ms": 204400,
       "name": "D\u00e9jala Rodar",
       "url": "https://open.spotify.com/track/560cSoD6PzX6Rot8peH1RG"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+      },
+      "artists": [
+        {
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+        }
+      ],
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237658,
       "name": "Portales",
       "url": "https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+      },
+      "artists": [
+        {
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -847,6 +847,22 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -915,38 +931,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
-      },
-      "artists": [
-        {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Marteko Euriak",
         "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+      },
+      "artists": [
+        {
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     },
     {
       "added_at": "2022-10-13 15:12:40",

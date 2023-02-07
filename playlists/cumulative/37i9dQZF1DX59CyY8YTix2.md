@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: Chilli Beans.
 
-774 songs - 2 day 1 hr 38 min
+775 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 | 2023-02-03 |
 | [積乱雲の下で](https://open.spotify.com/track/6fNtxTx6Ic15mlXlGiNXG6) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [積乱雲の下で](https://open.spotify.com/album/1PtvRzDk8nMaURJ3G0fs55) | 3:30 | 2022-06-02 | 2022-06-28 |
 | [空とビール](https://open.spotify.com/track/74qvHeWqG6wjvEqnc46vuJ) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [空とビール](https://open.spotify.com/album/5RixdW8Oe3w9xJbKdwOSF4) | 3:33 | 2022-05-31 | 2022-07-08 |
+| [空蒼いまま](https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [空蒼いまま](https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR) | 4:41 | 2023-02-03 |  |
 | [終末時計の音が鳴る](https://open.spotify.com/track/6QkngCDHTaduoIyeXN8AVB) | [プランクトン](https://open.spotify.com/artist/4Q8UvCP77UmlQv1oSUMkYF) | [終末時計の音が鳴る](https://open.spotify.com/album/4yn1mj78ZHAzLpwQc9I1lS) | 3:43 | 2022-11-23 | 2022-12-07 |
 | [絶対](https://open.spotify.com/track/2TsxnvrERFElzCEZ1FnIZ1) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [絶対](https://open.spotify.com/album/1sO6sSqKL4CVKfOQzUCppf) | 4:08 | 2022-06-16 | 2022-07-21 |
 | [絶紅潮 \(feat.Reichi\)](https://open.spotify.com/track/4hnDerdSGaKUoeYn5bCY9c) | [BimBamBoom feat\. Reichi](https://open.spotify.com/artist/4GbbK02269ycXojllEl1Ns), [Reichi](https://open.spotify.com/artist/5XuFtIvKtZ7QxJsFnuGiIY) | [絶紅潮](https://open.spotify.com/album/25MovdJRn21AHWPy542AUJ) | 4:24 | 2022-05-31 | 2022-07-28 |
@@ -767,7 +768,7 @@
 | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/track/6MDSUhNh6SoXVGCZAEhTzF) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/album/2hKAqKHIwRJNwpiwLixIQ1) | 4:08 | 2022-05-26 | 2022-07-15 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-21 | 2022-12-14 |
 | [雨に唄えば](https://open.spotify.com/track/38EFP5EhjiAP5tvEDHwUwx) | [Roomania](https://open.spotify.com/artist/6Bt0jCjfp1hkUC9WoTu95A) | [雨に唄えば](https://open.spotify.com/album/5pgZnxIkw411LWujn2nii9) | 3:51 | 2022-05-31 | 2022-07-27 |
-| [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 | 2022-12-22 |  |
+| [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 | 2022-12-22 | 2023-02-07 |
 | [青い](https://open.spotify.com/track/4KvyuTmcrOet6WqRikmQUb) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [赤裸々](https://open.spotify.com/album/6wRtSzdO7anqoLWbIlgznm) | 4:09 | 2022-06-23 | 2022-07-24 |
 | [青い炎](https://open.spotify.com/track/3nyvk1nuR347CtYhCR7zDu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [青い炎](https://open.spotify.com/album/34qIhT57OrCSu1lofhjTc3) | 2:20 | 2022-11-08 | 2022-11-10 |
 | [青く青く光る feat\. ACAね\(ずっと真夜中でいいのに。\), ぬゆり](https://open.spotify.com/track/7tIogxMoaDHGfLKIlkUlqk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ULTRAPANIC](https://open.spotify.com/album/2Yu0lYaUxSHBLppeJACXb2) | 3:47 | 2022-12-07 | 2022-12-08 |

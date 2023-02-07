@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 75745,
+  "num_followers": 75777,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDZlNTUxMmVjMDYyYTkxYjI3ZWE0ODYzNDZmOWRiMDA4",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDJjYmU3ZTE3NzUxZGM0NTMyODI2MWYyYTVhNzMxNzI3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 86000,
       "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
       "url": "https://open.spotify.com/track/3TChFoNvKras9uQkimzK8R"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 78000,
-      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
-      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: An American In Paris / Porgy And Bess",
         "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 132826,
       "name": "7 Virtuoso Etudes: 1. I Got Rhythm (after G. Gershwin)",
       "url": "https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 78000,
+      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
+      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -827,6 +827,54 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+        }
+      ],
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
+        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
+      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
       },
@@ -855,26 +903,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
-        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Martin James Bartlett",
-          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
-      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Take Two",
         "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
@@ -891,34 +919,6 @@
       "duration_ms": 131400,
       "name": "Three-Quarter Blues",
       "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 426866,
-      "name": "Oh, Kay!: Overture",
-      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2022-08-05 04:02:00",

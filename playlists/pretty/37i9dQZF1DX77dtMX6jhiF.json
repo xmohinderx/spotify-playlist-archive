@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 4350,
+  "num_followers": 4373,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDA1NDJjMGNiYzc5NTY1OTA2MTE2OTY0OGEwMzRkOTdh",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGRiOTMyNWI3MTc0ZTcyMjhmNjJjOTU1NzUxZDBmMzE0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 329426,
       "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240217,
+      "name": "4pm in Calabasas",
+      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "A Written Testimony",
         "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240217,
-      "name": "4pm in Calabasas",
-      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
     },
     {
       "added_at": "2022-10-01 16:57:49",

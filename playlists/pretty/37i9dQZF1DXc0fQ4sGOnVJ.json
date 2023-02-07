@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146504,
+  "num_followers": 146514,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDk1MDY0YjQ2ZDVhODU0ZjEzMWFkYTkzYzNiMmFkYmU4",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDNiN2MxNGJmYWQ1NzZhYzBjYTAxNWJjYjVjNWI3YzFj",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "We The People, Vol. 1",
         "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 138318,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -195,6 +195,30 @@
       "duration_ms": 190410,
       "name": "Ready To Go",
       "url": "https://open.spotify.com/track/3S5Y7dgTwR6AFgRM5UQaGk"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Keys To The Country",
+        "url": "https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/4QJpdcOcFubTS0VEWu5Guj"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -319,22 +343,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Read Me My Rights",
-      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ"
       },
@@ -351,26 +359,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Keys To The Country",
-        "url": "https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Hood",
-      "url": "https://open.spotify.com/track/4QJpdcOcFubTS0VEWu5Guj"
+      "duration_ms": 234880,
+      "name": "Read Me My Rights",
+      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Calicountry",
         "url": "https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv"
       },
@@ -623,22 +643,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv"
       },
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Mud Digger 5",
+        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
+      },
+      "artists": [
+        {
+          "name": "Gunnar & The Grizzly Boys",
+          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Standard American",
+      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 167755,
       "name": "Boondocks",
       "url": "https://open.spotify.com/track/7zNow8jwff91QBjGfUexpo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Mud Digger 5",
-        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
-      },
-      "artists": [
-        {
-          "name": "Gunnar & The Grizzly Boys",
-          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Standard American",
-      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Deep Creek",
         "url": "https://open.spotify.com/album/56nF5vr56IXqttefq8N6GX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 192000,
       "name": "Deep Creek",
       "url": "https://open.spotify.com/track/5rsNlCqnnuu89icdMkO1Rb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
     },
     {
       "added_at": "2023-01-06 05:00:00",

@@ -2,7 +2,7 @@
 
 ### [Top Trending: R&B / Soul](https://open.spotify.com/playlist/3wjPs3pZiBROjNC2sgWJbN)
 
-> A collection of R&amp;B jams and viral trends featuring Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Ari Lennox
+> A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Coco Jones
 
 107 songs - 6 hr 13 min
 

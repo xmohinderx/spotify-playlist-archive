@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 477 songs - 1 day 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835 likes - 477 songs - 1 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 214 | [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 |
 | 215 | [Cold](https://open.spotify.com/track/7rJ6F4JGL9tixHzu0Y8fiP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:37 |
 | 216 | [Friends Never Say Goodbye \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3pxxSXxPKNXleWZ9ZcL0k1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:20 |
-| 217 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
-| 218 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 217 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 218 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
 | 219 | [A Woman's Needs](https://open.spotify.com/track/3qqx8ZzV345NQwkMGIozFg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 5:17 |
 | 220 | [Phoenix](https://open.spotify.com/track/7hZgVPoWLQ6wicIT2iD3Zv) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:29 |
 | 221 | [A Word In Spanish](https://open.spotify.com/track/1EsN2D481Q3E8vz68nkNoA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:39 |
@@ -444,8 +444,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 434 | [Give Me The Love](https://open.spotify.com/track/45yhLSiMoYvz8rfSke939Z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:30 |
 | 435 | [Restless](https://open.spotify.com/track/73nYjLyEtNZHRyDtIFFQIC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 5:16 |
 | 436 | [Satellite](https://open.spotify.com/track/6Xj6fvQHPBCQvLX4Z4lBl5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 4:37 |
-| 437 | [Burning Buildings](https://open.spotify.com/track/4hgId8WzUQkUV5mpu6vB9P) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:01 |
-| 438 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Music from the Motion Picture Mona Lisa Smile](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
+| 437 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Music from the Motion Picture Mona Lisa Smile](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
+| 438 | [Burning Buildings](https://open.spotify.com/track/4hgId8WzUQkUV5mpu6vB9P) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:01 |
 | 439 | [Theme From A Non\-Existent TV Series](https://open.spotify.com/track/20MO6EEhXXDqopJFg97J5z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 1:19 |
 | 440 | [The North Star](https://open.spotify.com/track/3ckYMpc386fUZHI1g809nB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 5:28 |
 | 441 | [Shooting Star](https://open.spotify.com/track/2ewZevXBQuNuNQVHhSKdmC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 2:44 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5MjczODIsMDAwMDAwMDBkODRjN2JmMGRmYTQxN2Q1ZWJkMzIyNWQ4Y2MzYjZhZA==`
+Snapshot ID: `Mjc5Mjg4MjIsMDAwMDAwMDBjYWRhNzFhNmMzYzdjZWYxYmNmMzIxMDQ1OTk2ZmY0Yw==`

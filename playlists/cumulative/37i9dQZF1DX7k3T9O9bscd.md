@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-256 songs - 20 hr 48 min
+257 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Maria También](https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-11-12 |  |
 | [Marihuana](https://open.spotify.com/track/0Vkc2BBI7d6toJky9WtIKX) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/6eH4KQkY5YvxGkBhONc9lg) | 3:40 | 2021-11-12 | 2022-07-21 |
+| [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 | 2021-11-12 |  |
 | [María Juana](https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [María Juana](https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM) | 4:54 | 2022-08-03 | 2022-09-03 |
 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 | 2021-11-12 | 2022-11-14 |
 | [Mesmo Coração \- The Holydrug Couple Remix](https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Mesmo Coração Remixes](https://open.spotify.com/album/1a2A7vTxesBdKP0uXy2XKH) | 4:35 | 2021-11-12 | 2022-07-19 |
@@ -199,7 +200,7 @@
 | [Seven Eight](https://open.spotify.com/track/6ZWmdXphddI7g3FJqESxmw) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [Seven Eight](https://open.spotify.com/album/2Up9pGOglkRN9isg1phnVD) | 3:12 | 2021-11-12 | 2022-07-28 |
 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 | 2022-04-12 |  |
 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 | 2021-11-12 |  |
-| [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 | 2021-11-12 |  |
+| [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 | 2021-11-12 | 2023-02-07 |
 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 | 2021-11-12 |  |
 | [Silbury Sands](https://open.spotify.com/track/6rsQ7ctgzajUqa8PXImfgt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/2BEOwzGZxwNJ4ResMq5rSc) | 5:18 | 2021-11-12 | 2022-07-29 |
 | [Sistemas](https://open.spotify.com/track/3dQ2nhZ910Opi1yeIQeMur) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Sistemas](https://open.spotify.com/album/3Ur9bUsj4fMXggapxBSiRw) | 5:29 | 2021-11-12 | 2022-07-22 |

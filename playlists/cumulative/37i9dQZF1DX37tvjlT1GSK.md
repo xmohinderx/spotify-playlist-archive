@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Cuatro de Oro en portada.
 
-195 songs - 10 hr 28 min
+196 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [From La Finikera](https://open.spotify.com/track/0ya66ZjAYqkP3nQWhXe9Xc) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [De La Finikera](https://open.spotify.com/album/7fksSbYuu7VSTp33FSojv3) | 3:14 | 2022-04-15 | 2022-08-18 |
 | [Fuera De Servicio](https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53) | [Hugo Cesar](https://open.spotify.com/artist/3U67RcLV2FxtknAMdsnGuq), [Humilde Imperio](https://open.spotify.com/artist/58QNGapT6WC2fGWXvUuRqa) | [Fuera De Servicio x El Padre de Toda La Bola](https://open.spotify.com/album/2xsXCc4xPoR2QKMyBcsnke) | 2:58 | 2022-07-01 | 2022-07-29 |
 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 | 2023-01-27 |  |
+| [Gente De Sombrero \- En Vivo](https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 3:05 | 2023-01-20 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-07-01 | 2023-01-21 |
 | [Hoy A Festejar](https://open.spotify.com/track/0mCsvOQbv1ikYEMpITNSeB) | [Grupo Los Caballeros](https://open.spotify.com/artist/5Nyw7PGLzZg1zOMUgstdWI) | [Hoy A Festejar](https://open.spotify.com/album/20EIRyJST9PtcOgHwAZDiF) | 2:49 | 2022-07-01 | 2022-07-13 |
 | [Hoy toca y Ando Bien Pedo](https://open.spotify.com/track/0LrrEt7WBu4Xo5HmStgA6b) | [La Reserva](https://open.spotify.com/artist/1AxKDVCZBiByzeCrZD2zal) | [Hoy Toca](https://open.spotify.com/album/53WXafXErsbYee7qW0Onw9) | 4:28 | 2022-07-01 | 2022-07-26 |
@@ -118,7 +119,7 @@
 | [Marcando La Diferencia](https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [Marcando La Diferencia](https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa) | 2:59 | 2022-04-18 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-02-01 |  |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-07-01 |  |
-| [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 | 2023-01-13 |  |
+| [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 | 2023-01-13 | 2023-02-07 |
 | [Mi Morenita](https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [Mi Morenita](https://open.spotify.com/album/29LGs55jLEj5WjFDB7DdrH) | 3:13 | 2022-04-22 | 2022-07-28 |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-22 | 2023-01-21 |
 | [Miedo](https://open.spotify.com/track/5GEnSZnHLmhqulhSseeBNQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Renacer](https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs) | 3:22 | 2022-07-01 | 2022-09-24 |

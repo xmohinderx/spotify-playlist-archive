@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 41018,
+  "num_followers": 41097,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDY1Njc4YTlmMzVjM2ZkMWYwOWY3NDI0NzQyZjllMDk2",
+  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDI3OWI0NTFmMmU3ZWFiN2VmMjg0ZGEzODE1M2U2Y2Qw",
   "tracks": [
     {
       "added_at": "2023-01-27 19:51:48",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -175,18 +171,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
-      },
-      "artists": [
-        {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
+        "name": "ULYSE",
+        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -875,22 +895,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "ULYSE",
-        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+      "duration_ms": 191141,
+      "name": "Amen\u00e1bar",
+      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Amen\u00e1bar",
-      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Hubo Algo",
         "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Dimittas",
         "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 167023,
       "name": "Sue\u0301ltate",
       "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Autom\u00e1tico",
-        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
-      },
-      "artists": [
-        {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
-        }
-      ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
+      },
+      "artists": [
+        {
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+        }
+      ],
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2023-01-27 19:51:48",

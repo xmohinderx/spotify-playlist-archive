@@ -2,9 +2,9 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Vedha
+> Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-542 songs - 1 day 9 hr 47 min
+544 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Bevarsi Mansa](https://open.spotify.com/track/3ApW8FONGoEe170g8Ulkd1) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Harikathe Alla Girikathe](https://open.spotify.com/album/3d7zADljhH7sCuTGfySUGx) | 3:05 | 2022-06-22 | 2022-11-23 |
 | [Bhagavanta \(From "Saddu! Vicharane Nadeyuttide"\)](https://open.spotify.com/track/0vwFmuW1yhn30SxU7l9m2a) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Lokanath Sugum](https://open.spotify.com/artist/6RMeayRCB3tDcTdy9Z0q2o), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG) | [Bhagavanta \(From "Saddu! Vicharane Nadeyuttide"\)](https://open.spotify.com/album/6zk3W1fBVjyWfknr3JbcjB) | 3:20 | 2022-09-06 | 2022-11-23 |
 | [Bhajare Bhajare Bhajarangi](https://open.spotify.com/track/7aLRDwrJl8ssCPVC86xLvC) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Grant Vocals: Arjun Janya](https://open.spotify.com/artist/0UCVTZA8eAPrfDoflxxzmm) | [Bhajarangi 2](https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0) | 3:20 | 2021-12-06 | 2022-05-19 |
+| [Bharaniya Male Hoydu](https://open.spotify.com/track/33dOsaCZEPbJC9AhO4c97I) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Arundhati Vasishta](https://open.spotify.com/artist/5rGbDooCF87zLNS8eSpxKx), [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Prof\. S.G\. Siddaramaiah](https://open.spotify.com/artist/0ZCVMKRRvzCPQsSUB8Kf5V) | [Bharaniya Male Hoydu \(From "Kasina Sara"\) \- Single](https://open.spotify.com/album/7cnyILvM0Do4Qt5NPxGzUU) | 3:48 | 2023-02-06 |  |
 | [Bharjari Gandu Theme Music](https://open.spotify.com/track/7MFWWJjptqF9OxPfsO1bHR) | [Na](https://open.spotify.com/artist/0ux3yRco8mXkh8nc24I4Ia) | [Bharjari Gandu](https://open.spotify.com/album/7jSd91bZuPwk5NyukcqnZ4) | 1:27 | 2022-06-13 | 2023-02-04 |
 | [Bheema Theme Music 02](https://open.spotify.com/track/4lwpLVVOsn7AYq2bKDkmJ3) | [Duniya Vijaykumar](https://open.spotify.com/artist/7ft0dZNzMlaYTiQAabk3SA) | [Bheema](https://open.spotify.com/album/209XgvCrhFucyROj9vwMLs) | 1:24 | 2023-01-25 |  |
 | [Bhorgaredu](https://open.spotify.com/track/1Nj2qdyNBeHC5ADAd5oNby) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Love 360](https://open.spotify.com/album/29e5ElrOjoBpJRCx0uYEvw) | 2:21 | 2022-07-21 | 2022-11-23 |
@@ -233,6 +234,7 @@
 | [Junjappa \(From "Vedha"\)](https://open.spotify.com/track/3qP5knNwVKwgHAbjXEeS8H) | [Mohan Kumar N](https://open.spotify.com/artist/6IHdeveUdgaHWaYxYlbDIe), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Junjappa \(From "Vedha"\)](https://open.spotify.com/album/1JZdSryh7Edy3TjLBdap6p) | 2:54 | 2022-12-15 |  |
 | [Kaama Krodha Lobhake](https://open.spotify.com/track/0rjE5v9fgdDS5JYwILdnMD) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Nata Bhayankara](https://open.spotify.com/album/2m23gf6wli08SXB9gCvAhk) | 5:01 | 2023-02-01 |  |
 | [Kaavalugaara](https://open.spotify.com/track/6ZY5jOFuPR3ZzE1ohq8v1D) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Gandhada Gudi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7) | 3:24 | 2022-11-11 | 2023-02-04 |
+| [Kabzaa Title Track](https://open.spotify.com/track/3WcKQigG9P0I0fxtj1jpPh) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Bhavyashri Bandimata](https://open.spotify.com/artist/7rqcihag4phHx5GH4eMnDL) | [Kabzaa](https://open.spotify.com/album/4tbldhUtSBlqNJYJ0EhBhP) | 3:58 | 2023-02-06 |  |
 | [Kadala Neeru](https://open.spotify.com/track/5oiDeSE5JcYilMwWrkCFxN) | [Praveen B V](https://open.spotify.com/artist/49NyuCUNHTqEXi3h3aeR7R), [Pradeep B V](https://open.spotify.com/artist/3Xy1GmjVSNwPk32EQcRF0W), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [9 Sullu Kathegalu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1t5FsnyyDLJOJZHKq6BCV2) | 5:21 | 2022-10-21 | 2023-02-04 |
 | [Kadiyalenu \- From "Girki"](https://open.spotify.com/track/4WgHm8Uucf3vFVsj7idtp3) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb) | [Kadiyalenu \(From "Girki"\)](https://open.spotify.com/album/0lR0WXPJX1EHpnCQFCzpXh) | 3:35 | 2022-06-17 | 2022-11-19 |
 | [Kailasa \(From "Ranga Samudra"\)](https://open.spotify.com/track/2B9YnY1V5BczXTyauNUIwo) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Desi Mohan](https://open.spotify.com/artist/3ulgjGAAoPrw7rHaMfR9sa), [Vagish Channagiri](https://open.spotify.com/artist/7fLsKdmYi0nnKNRnydobpO) | [Kailasa \(From "Ranga Samudra"\)](https://open.spotify.com/album/3cGRrgqrOBY1MEvbzI7M5j) | 4:16 | 2023-01-17 |  |

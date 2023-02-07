@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-658 songs - 1 day 4 hr 23 min
+665 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 |  |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 | 2022-11-25 |
 | [Almonte](https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Almonte](https://open.spotify.com/album/5VJsgBNa4q6FyUIN3Bpvkp) | 2:31 | 2021-12-07 | 2022-10-14 |
+| [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 | 2023-02-06 |  |
 | [Along The Willows](https://open.spotify.com/track/20odG080Gaefa2UXl1XZsy) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Along The Willows](https://open.spotify.com/album/6fAyTzbAp4gQX2yX11N0HA) | 3:07 | 2023-01-26 |  |
 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 | 2022-03-30 | 2022-11-25 |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-05-06 |
@@ -125,6 +126,7 @@
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 |  |
 | [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 | 2022-10-04 |  |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 |  |
+| [Consolation](https://open.spotify.com/track/10J0Gos6S2zgLbTdmWMAAz) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [Consolation](https://open.spotify.com/album/26Dlhu9Mz2Wr3Dmk31zhgh) | 2:15 | 2023-02-06 |  |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-12-07 |  |
 | [Contours](https://open.spotify.com/track/7a5R2EBE3U9cByR9EbD1zC) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Contours](https://open.spotify.com/album/09u2ELLZ0BNQPhMj4BKinj) | 1:55 | 2022-11-24 |  |
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2021-12-07 |  |
@@ -316,6 +318,7 @@
 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 | 2022-03-16 |  |
 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 | 2021-12-07 |  |
 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 | 2021-12-07 | 2022-05-06 |
+| [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 | 2023-02-06 |  |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-12-07 | 2022-11-12 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-14 | 2022-06-08 |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-12-07 |  |
@@ -328,6 +331,7 @@
 | [Ljóma](https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7) | [Shel Alyse](https://open.spotify.com/artist/01CktpdDnrnnfx3wKMbnPT) | [Ljóma](https://open.spotify.com/album/05yodSTO8kMnX0EZQ9Ak30) | 2:39 | 2021-12-07 | 2022-11-25 |
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2021-12-07 | 2022-09-24 |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2021-12-07 | 2022-05-06 |
+| [Longing for You](https://open.spotify.com/track/33CNA3gUX4HkShLA3ILNjs) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Longing for You](https://open.spotify.com/album/2v6a6jspsycdaJvdydLgRE) | 2:18 | 2023-02-06 |  |
 | [Longitude](https://open.spotify.com/track/4I1mxtKEEH8SKcwumA3rZr) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Longitude](https://open.spotify.com/album/0bpI2oKXdBTCMVZXINAR27) | 2:07 | 2023-01-26 |  |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2021-12-07 | 2022-11-12 |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2021-12-07 | 2022-05-06 |
@@ -465,6 +469,7 @@
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2021-12-07 |  |
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2022-03-30 |  |
 | [Rivers](https://open.spotify.com/track/67zZV7JzIx9Wcf65Ztt4CJ) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Rivers](https://open.spotify.com/album/4tKxlFMHSQU51A1Z3iOKy0) | 2:40 | 2021-12-07 | 2022-07-20 |
+| [Roadhouse](https://open.spotify.com/track/5kpuskunhcXjxXCBGyNXLf) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Roadhouse](https://open.spotify.com/album/5RdLscnTdzRsIirtZY27Wa) | 3:32 | 2023-02-06 |  |
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-17 | 2022-07-20 |
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2021-12-07 |  |
 | [Rêveuse](https://open.spotify.com/track/2WKKf8jH7nOZ28yLjr67RM) | [Hibou](https://open.spotify.com/artist/6HhcL4UQynXwbA9sLoonuy) | [Rêveuse](https://open.spotify.com/album/4RbYp5krh9CSt7DTrfSmnb) | 2:11 | 2021-12-07 | 2022-05-06 |
@@ -489,6 +494,7 @@
 | [Separate In Time](https://open.spotify.com/track/3Qwlg0GoR7oYU1V4liyYNa) | [Ximena Lopez](https://open.spotify.com/artist/0xYM56zKh0cqSMVSAkqg0P) | [Separate In Time](https://open.spotify.com/album/4ulh2ZiMzD4k8RytTl7Oix) | 2:47 | 2021-12-07 | 2022-10-25 |
 | [Serán](https://open.spotify.com/track/0KuTiAtn3Dx74iJfTJknWt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 2:32 | 2021-12-07 | 2022-10-14 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 |  |
+| [Setsu](https://open.spotify.com/track/1GKz0TpC7HktxQTirXpyZi) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Setsu](https://open.spotify.com/album/71WMr4bfxj6i5oHI9ZJy1N) | 2:38 | 2023-02-06 |  |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-03-01 |  |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-03-16 | 2022-08-26 |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
@@ -639,6 +645,7 @@
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-08-05 |
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2021-12-07 | 2022-05-06 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2022-10-14 |
+| [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-06 |  |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-05-06 |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 |  |
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-04 |  |

@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-261 songs - 19 hr 0 min
+262 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Ritual in Transfigured Time](https://open.spotify.com/track/5c1WARTmXsU40hCFsh2nWp) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Painting Box](https://open.spotify.com/album/3vUuEVJpnQBcmSiEYbjoC1) | 4:38 | 2022-07-06 | 2023-01-07 |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2021-10-06 | 2023-01-21 |
 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 | 2021-10-06 |  |
+| [Robot Riot](https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal) | 2:56 | 2022-07-15 |  |
 | [Robot Riot](https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Robot Riot](https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4) | 2:56 | 2022-07-15 | 2023-01-21 |
 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 | 2022-03-11 | 2022-07-29 |
 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/02d76FIf2ocVHxzf8MQeHQ) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/album/62Rnn0D1EGzrOeHtrBBiKP) | 5:11 | 2022-03-11 | 2022-11-13 |
@@ -231,7 +232,7 @@
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-08-14 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-05-13 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
-| [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 |  |
+| [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2023-02-07 |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2021-10-06 |  |
 | [Theme from SCUD](https://open.spotify.com/track/1atsnzNJRSTmmyg99h3k7D) | [SCUDFM](https://open.spotify.com/artist/32ick7QrmuMlgsV3i6IXGT) | [INNIT](https://open.spotify.com/album/6SvKfVNfxNQA7YtoNJClAw) | 4:09 | 2023-01-07 | 2023-01-21 |
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2021-10-06 | 2022-08-12 |

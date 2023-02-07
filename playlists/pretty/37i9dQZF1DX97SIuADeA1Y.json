@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 286827,
+  "num_followers": 286927,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzMzQwMCwwMDAwMDAwMDcxZDllNTQ3NmFiYzhiNjUyYzMzM2ZiMjY3NzgxY2Uz",
+  "snapshot_id": "MTY3NDgzMzQwMCwwMDAwMDAwMGNhZmIyYTA0MDFkZDFkNTk1MTE0NzY3YjU3M2ZlYjQ0",
   "tracks": [
     {
       "added_at": "2023-01-27 15:30:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
-      },
-      "artists": [
-        {
-          "name": "Perfect Pitch",
-          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
         "name": "Heaven (feat. Sofia Quinn)",
         "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
+      },
+      "artists": [
+        {
+          "name": "Perfect Pitch",
+          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
     },
     {
       "added_at": "2023-01-27 15:30:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2023-01-27 15:30:00",

@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-105 songs - 8 hr 23 min
+106 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5UMQ4CuTzvyupxPjp17vlj) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/album/0oTTtDuXyZhRn9zEdQj0Zv) | 9:34 | 2022-06-30 | 2022-11-14 |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5vqpMzEjuCBlQBuQKskXur) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Enyo](https://open.spotify.com/album/0WkS8qu4bVzN96PLwluSA9) | 9:34 | 2022-06-30 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2022-06-30 |  |
-| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 |  |
+| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 | 2023-02-07 |
 | [For Me](https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [For Me](https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae) | 2:52 | 2022-06-30 |  |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-01-19 |  |
 | [Ga Praise](https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:03 | 2022-06-30 |  |
@@ -62,6 +62,7 @@
 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 | 2022-09-30 |  |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-03 |  |
 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 |  |
+| [Morning Devotion](https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Morning Devotion](https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds) | 2:07 | 2023-02-03 |  |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 |  |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-01-20 |

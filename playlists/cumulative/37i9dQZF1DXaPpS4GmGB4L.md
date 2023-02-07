@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-118 songs - 6 hr 57 min
+119 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-02-04 | 2022-11-19 |
 | [I Ain't Drunk](https://open.spotify.com/track/0NkbSdUKVUTouk8JLh9TjG) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/18XbxRCuvLeKk9zbmhyARH) | 4:07 | 2021-12-20 | 2022-07-29 |
 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 | 2022-07-08 |  |
+| [I Cry For You \- Live](https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [I Cry For You \(Live\)](https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA) | 2:12 | 2023-01-27 |  |
 | [I'll Forget About You](https://open.spotify.com/track/31dbXIqWyrPQfmgGCyJSMP) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:19 | 2022-06-14 | 2022-11-19 |
 | [I'm Slippin' In](https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe) | [Ford Eaglin](https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL) | [I'm Slippin' In \(Mono Version\)](https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8) | 2:53 | 2022-11-17 | 2022-11-19 |
 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 | 2021-12-20 |  |
@@ -97,7 +98,7 @@
 | [Shake It Baby](https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Volume 2](https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9) | 4:55 | 2022-11-17 | 2022-11-19 |
 | [Shake Your Hips](https://open.spotify.com/track/2vb1sXfQJ3WsmevEvfnKeo) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:53 | 2022-11-17 | 2022-11-19 |
 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 | 2021-12-20 |  |
-| [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 | 2021-12-20 |  |
+| [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 | 2021-12-20 | 2023-02-07 |
 | [Shake Your Money\-Maker](https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:26 | 2021-12-20 |  |
 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 | 2022-08-18 |  |
 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 | 2022-05-27 |  |

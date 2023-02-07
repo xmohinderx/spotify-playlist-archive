@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2495368,
+  "num_followers": 2495751,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQ3OTgyYmM3ZGUxMTNjNmViMzFjN2IxN2IzNzIzNjg4",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDRkYjY2ZGE0YjA3MjEzMGJiNzE4MmU3ZDNjZTM2Yzlk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 133274,
+      "name": "Trials",
+      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Name Drop",
         "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
       },
@@ -195,22 +215,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -235,42 +255,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         },
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 133274,
-      "name": "Trials",
-      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Gainz",
+        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
+      },
+      "artists": [
+        {
+          "name": "Deadlyft",
+          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Gainz",
+      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "The Pit",
         "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 152500,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Gainz",
-        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
-      },
-      "artists": [
-        {
-          "name": "Deadlyft",
-          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Gainz",
-      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1115,6 +1095,26 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 159162,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "TILL I DIE",
         "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 171810,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 159162,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Shell Shock (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 264500,
       "name": "Shell Shock (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1499,30 +1499,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "AD INFINITUM",
-        "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "SHARPS",
-          "url": "https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8"
-        },
-        {
-          "name": "Hashu",
-          "url": "https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "G.T.F.O.T.W. (feat. Hashu)",
-      "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Astro Funk",
         "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 248275,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "AD INFINITUM",
+        "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "SHARPS",
+          "url": "https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8"
+        },
+        {
+          "name": "Hashu",
+          "url": "https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "G.T.F.O.T.W. (feat. Hashu)",
+      "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
     }
   ],
   "unique_name": "Hype",

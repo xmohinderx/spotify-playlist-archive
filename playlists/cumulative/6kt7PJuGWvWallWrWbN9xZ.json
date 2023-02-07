@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176101,
+      "name": "castle in the sky",
+      "url": "https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB"
+    },
+    {
+      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/1kXtiGkGi9myC9D35lwdG5"
       },
@@ -3010,6 +3028,24 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "wallflower",
+      "url": "https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL"
     },
     {
       "album": {

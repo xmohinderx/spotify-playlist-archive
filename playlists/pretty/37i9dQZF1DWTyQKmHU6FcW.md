@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,688 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,809 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
-| 2 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
-| 3 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
-| 4 | [Unchained Melody \- Live at Ann Arbor, MI](https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:31 |
-| 5 | [Memories \- Live from the '68 Comeback Special](https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 |
-| 6 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
-| 7 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
-| 8 | [Fever](https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 3:32 |
-| 9 | [\(Marie's The Name\) His Latest Flame](https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:07 |
+| 1 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
+| 2 | [Unchained Melody \- Live at Ann Arbor, MI](https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:31 |
+| 3 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
+| 4 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
+| 5 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
+| 6 | [Memories \- Live from the '68 Comeback Special](https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 |
+| 7 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
+| 8 | [\(Marie's The Name\) His Latest Flame](https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:07 |
+| 9 | [Fever](https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 3:32 |
 | 10 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
 | 11 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 12 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 35 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 36 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 
-Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDAzZTIxMjdlMzIwOTFjN2M5NzFkNGZkZTM4ZTRmOTE1`
+Snapshot ID: `MTY3NTY4NjIxNCwwMDAwMDAwMGJiNmVlYTNmNzJkOWIxMWE0OWNlYmI5ZWY1NjZhN2Vk`

@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring Wet Leg.",
-  "num_followers": 842105,
+  "num_followers": 842227,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDQ0YzBlMjQxYjIyMDc0ZTk5NWUyODIwOTU4YzBlZThi",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDhkNDM2ZDBkZTQ2ODQ0OWQzMWY2YTFiNWE1MWIzMTY3",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
     },
     {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
       "added_at": "2022-12-14 15:21:35",
       "album": {
         "name": "Wet Leg",
@@ -283,22 +299,6 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-12-14 15:21:35",
@@ -781,6 +781,26 @@
       "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Australia (Peter Bjorn and John Remix)",
+        "url": "https://open.spotify.com/album/0Czepr6Z8rV8SddDmnQ2se"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        },
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 249160,
+      "name": "Australia (Peter Bjorn and John Remix)",
+      "url": "https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB"
+    },
+    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "rock candy",
@@ -811,26 +831,6 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Australia (Peter Bjorn and John Remix)",
-        "url": "https://open.spotify.com/album/0Czepr6Z8rV8SddDmnQ2se"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        },
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 249160,
-      "name": "Australia (Peter Bjorn and John Remix)",
-      "url": "https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB"
     },
     {
       "added_at": "2023-01-27 05:00:00",

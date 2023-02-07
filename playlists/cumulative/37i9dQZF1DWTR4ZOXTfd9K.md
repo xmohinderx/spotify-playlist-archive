@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-132 songs - 13 hr 43 min
+133 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 | 2021-12-02 |  |
 | [Gangsterism On Canvas](https://open.spotify.com/track/3KVKimpQ2S6X3IZxKbR8ot) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Soundtrack To Human Motion](https://open.spotify.com/album/5DEgkcPpvX1PSNVSbq0PAS) | 4:37 | 2021-12-02 | 2022-10-07 |
 | [Gato's Gift](https://open.spotify.com/track/4askDmHBmHLiKnd96n13FZ) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Who Are You?](https://open.spotify.com/album/4xq8VBZYwExP31yuSidyZg) | 6:08 | 2021-12-02 |  |
+| [Gazelle Suite](https://open.spotify.com/track/6IYxQ0EqUnhEEsJuoWi0iv) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 5:27 | 2023-02-06 |  |
 | [Geo Rose](https://open.spotify.com/track/2yj1dE8qFszO6OTdCN19wW) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Civilization](https://open.spotify.com/album/77pQEd70AJ5WKOcbSIRl15) | 7:26 | 2021-12-02 |  |
 | [Grace And Mercy](https://open.spotify.com/track/6AFJ6v57ZevcNCR2mJHDKf) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 6:49 | 2021-12-02 | 2022-02-03 |
 | [Harlem River Drive](https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blacks And Blues](https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv) | 7:50 | 2021-12-02 |  |
@@ -119,7 +120,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 | 2021-12-02 | 2022-10-07 |
 | [Sunday Mornin' \- Digitally Remastered](https://open.spotify.com/track/2sSXpVDd1DbzZaICG6i0FG) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Sunday Mornin'](https://open.spotify.com/album/13kjTNpNB9CkwNIys1M1bG) | 4:01 | 2021-12-02 | 2022-10-07 |
 | [Sway](https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Flight](https://open.spotify.com/album/4pMOMICZbcyAT4bk4GUWb9) | 6:17 | 2021-12-02 | 2022-10-07 |
-| [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 | 2021-12-02 |  |
+| [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 | 2021-12-02 | 2023-02-07 |
 | [The Bluest Eye](https://open.spotify.com/track/4WAJmXMCoEf29VgK8j2wWA) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC) | 7:22 | 2022-03-04 |  |
 | [The Coaster \- 2008 Remaster](https://open.spotify.com/track/4PBqAOYTedJXNdDwtUvbTx) | [Grachan Moncur III](https://open.spotify.com/artist/5NrnFpBCv4Z43MgMVXfrrY) | [Evolution \(Remastered\)](https://open.spotify.com/album/4lybhjIqqPtLb5xV8sXg3x) | 11:39 | 2021-12-02 |  |
 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 | 2021-12-02 |  |
@@ -129,7 +130,7 @@
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2021-12-02 |  |
 | [The Windjammer](https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Is Beautiful](https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy) | 5:42 | 2022-10-06 |  |
 | [These Are Soulful Days](https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [These Are Soulful Days](https://open.spotify.com/album/1yDQ8iFIOquXATNe0hztWi) | 6:50 | 2022-10-06 |  |
-| [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 | 2021-12-02 |  |
+| [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 | 2021-12-02 | 2023-02-07 |
 | [True Blue](https://open.spotify.com/track/1s1UN3QMJGyhXQAuMqNcbK) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [True Blue](https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW) | 4:57 | 2021-12-02 |  |
 | [Two For Bleu](https://open.spotify.com/track/0tNDiq8LzjMNeSyqpv3RyK) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Charlie Hunter](https://open.spotify.com/album/251reNF6bDMHO5SB7YUvno) | 5:39 | 2021-12-02 | 2022-10-07 |
 | [Unsophisticated](https://open.spotify.com/track/3FmL7hAgo3C3iPnDdSiRn9) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:27 | 2021-12-02 | 2022-10-07 |

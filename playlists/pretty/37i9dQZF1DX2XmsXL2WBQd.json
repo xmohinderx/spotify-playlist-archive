@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 334257,
+  "num_followers": 334480,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2OTk5MSwwMDAwMDAwMGI0NGY3YTFlZjQ3MzEwMWIyNThjN2MzNTVlZDE3ZTcw",
+  "snapshot_id": "MTY3Mzg2OTk5MSwwMDAwMDAwMDc0ZjNjNDkxYzRlZDY2NWNhZjE3ZTVjNGJjMzUzYTI3",
   "tracks": [
     {
       "added_at": "2023-01-16 11:53:11",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
+        "name": "Paul's Boutique (20th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
-        "name": "Paul's Boutique (20th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-01-16 11:53:11",
@@ -335,30 +335,6 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash & The Furious Five",
-          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        },
-        {
-          "name": "Duke Bootee",
-          "url": "https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk"
-        }
-      ],
-      "duration_ms": 431800,
-      "name": "The Message (feat. Melle Mel & Duke Bootee)",
-      "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -379,18 +355,26 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+        },
+        {
+          "name": "Duke Bootee",
+          "url": "https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk"
         }
       ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+      "duration_ms": 431800,
+      "name": "The Message (feat. Melle Mel & Duke Bootee)",
+      "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
     },
     {
       "added_at": "2023-01-16 11:53:11",
@@ -443,6 +427,22 @@
       "duration_ms": 302800,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-01-16 11:53:11",
@@ -511,38 +511,6 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
@@ -607,6 +575,38 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
         "name": "In Full Gear",
         "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
@@ -635,54 +635,6 @@
       "duration_ms": 221986,
       "name": "I Got It Made",
       "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
       "added_at": "2023-01-16 11:53:11",
@@ -719,6 +671,54 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-01-16 11:53:11",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
-        "name": "Paid In Full (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 429560,
-      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
-      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
-    },
-    {
-      "added_at": "2023-01-16 11:53:11",
-      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
+        "name": "Duck Rock",
+        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
+      },
+      "artists": [
+        {
+          "name": "Malcolm McLaren",
+          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+        }
+      ],
+      "duration_ms": 259426,
+      "name": "Buffalo Gals",
+      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2023-01-16 11:53:11",
+      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-01-16 11:53:11",
       "album": {
-        "name": "Duck Rock",
-        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
+        "name": "Paid In Full (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
       },
       "artists": [
         {
-          "name": "Malcolm McLaren",
-          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 259426,
-      "name": "Buffalo Gals",
-      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+      "duration_ms": 429560,
+      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
+      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
     },
     {
       "added_at": "2023-01-16 11:53:11",

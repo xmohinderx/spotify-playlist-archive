@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "album": {
         "name": "NEED ME",
         "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 167767,
       "name": "Single",
       "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"

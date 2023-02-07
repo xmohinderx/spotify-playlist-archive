@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 247989,
+  "num_followers": 248059,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDk2YjIyNGMwNjRiMDA3MWIzNGZhNTQ4YzU1YjgyODVh",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDcyMTc4NzdmNTE1NzY3N2Q4MTU2ZjhjMzFkZjVhOTg3",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -27,26 +27,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        },
-        {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 157384,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        },
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo"
+        }
+      ],
+      "duration_ms": 252121,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -479,6 +479,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 255214,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
-      },
-      "artists": [
-        {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -757,20 +741,20 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
-      "added_at": "2019-06-07 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
       },
       "artists": [
         {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
         }
       ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -787,6 +771,22 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
+    },
+    {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -875,22 +875,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Passionfruit Falls",
         "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 101469,
       "name": "The Falls",
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -923,6 +923,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",

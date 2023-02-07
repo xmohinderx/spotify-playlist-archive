@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6861,
+  "num_followers": 6865,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDQ1ODIwZDEwMWRlNzFhNDA4MWFlZmU5ZWI4NTM3MmFm",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGJhZTQ2NjM5N2U2YWU0ZjYxMGRlNDJlM2EyZTAzMzcw",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -139,6 +139,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -151,6 +167,22 @@
       "duration_ms": 175600,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -243,50 +275,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+        "name": "That's A Plenty",
+        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
       },
       "artists": [
         {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
-      },
-      "artists": [
-        {
-          "name": "Turk Murphy",
-          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "When My Sugar Walks Down The Street",
-      "url": "https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb"
+      "duration_ms": 227026,
+      "name": "Frankie & Johnny",
+      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -307,34 +307,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "That's A Plenty",
-        "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
+        "name": "The Essential Sidney Bechet",
+        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
       },
       "artists": [
         {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+          "name": "Sidney Bechet and his New Orleans Feetwarmers",
+          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
         }
       ],
-      "duration_ms": 227026,
-      "name": "Frankie & Johnny",
-      "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
-        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Struttin' with Some Barbecue - 78 rpm Version",
-      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
+      "duration_ms": 173653,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -355,18 +339,34 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Essential Sidney Bechet",
-        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
+        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
       },
       "artists": [
         {
-          "name": "Sidney Bechet and his New Orleans Feetwarmers",
-          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 173653,
-      "name": "Maple Leaf Rag",
-      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
+      "duration_ms": 183960,
+      "name": "Struttin' with Some Barbecue - 78 rpm Version",
+      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+      },
+      "artists": [
+        {
+          "name": "Turk Murphy",
+          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "When My Sugar Walks Down The Street",
+      "url": "https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "30 Jahre Black Bottom Stompers",
         "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
       },
@@ -563,6 +579,22 @@
       "duration_ms": 242733,
       "name": "Clarinete Marmelade",
       "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -607,38 +639,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Mardi Gras Parade Music from New Orleans",
         "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -767,6 +751,22 @@
       "duration_ms": 315600,
       "name": "Bugle Boy March",
       "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Sounds Of New Orleans, Vol. 2",
-        "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Dippermouth Blues",
-      "url": "https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "On Parade",
         "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 136714,
       "name": "The Billboard",
       "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Sounds Of New Orleans, Vol. 2",
+        "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Dippermouth Blues",
+      "url": "https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7"
     },
     {
       "added_at": "2020-08-19 17:19:14",

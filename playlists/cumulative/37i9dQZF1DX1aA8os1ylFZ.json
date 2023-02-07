@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 224427,
       "name": "River",
       "url": "https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha"
@@ -5270,6 +5270,28 @@
       "duration_ms": 189576,
       "name": "Why We Love",
       "url": "https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1"
+    },
+    {
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195976,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     },
     {
       "album": {

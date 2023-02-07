@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: عبد العزيز لويس و اصيل حميم
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,522 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,537 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 47 | [Dehkat Ayami](https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Dehkat Ayami](https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz) | 4:17 |
 | 48 | [Galbi Zojaj](https://open.spotify.com/track/5r4EQu8vV34Yk3hwvUWzf2) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [Galbi Zojaj](https://open.spotify.com/album/0Ko6385ojdQjYR0Bs8cMJb) | 4:50 |
 | 49 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 |
-| 50 | [Mahad Ymoot](https://open.spotify.com/track/2CqHFZJqvk8nydObpUKc3r) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Mahad Ymoot](https://open.spotify.com/album/4yeVnJMIwINePWRu5ybPtK) | 3:49 |
 
-Snapshot ID: `MTY3NTM4MDY1NywwMDAwMDAwMDllYjJmOTUwMjgzOTEzMzI0ZWJjYzkyODg0M2U3YjJi`
+Snapshot ID: `MTY3NTY3Mzk4OSwwMDAwMDAwMDUwYzQxZDliZWNlNzUyYzQ4M2YxOWU3YmU5NmQ3Zjc5`

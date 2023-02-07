@@ -204,6 +204,24 @@
     {
       "album": {
         "name": "Garden Of Delete",
+        "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234938,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
+    },
+    {
+      "album": {
+        "name": "Garden Of Delete",
         "url": "https://open.spotify.com/album/4l4tgdU69cbukMzliC4xI6"
       },
       "artists": [
@@ -848,7 +866,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 301757,
       "name": "Der Luftbusen des kleinen Fritz",
       "url": "https://open.spotify.com/track/4nUFTEaSnWyyIr3GYbtbAB"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 168126,
       "name": "November Sequence",
       "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"

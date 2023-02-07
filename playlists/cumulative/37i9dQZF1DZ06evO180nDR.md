@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Vida Mafiosa \- En Vivo](https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Volumen 2 \(En Vivo\)](https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz) | 2:06 | 2022-06-01 |  |
 | [Vivir Sin Aire](https://open.spotify.com/track/1kPds8OapQhPuFZQ9mnyXi) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:32 | 2022-06-01 | 2022-11-27 |
 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 | 2022-06-07 | 2022-12-18 |
-| [Yo Vengo de Abajo](https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m) | 3:21 | 2022-07-30 |  |
+| [Yo Vengo de Abajo](https://open.spotify.com/track/13I3CFc0m2GrXMxdTBWgst) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/3T0u1TBQE1eKyjVMGaRsaG) | 3:21 | 2023-02-06 |  |
+| [Yo Vengo de Abajo](https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m) | 3:21 | 2022-07-30 | 2023-02-07 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

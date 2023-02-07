@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-284 songs - 20 hr 24 min
+285 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-11 | 2023-01-22 |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 | 2021-12-16 | 2022-11-11 |
+| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-02-02 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-11 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2021-12-16 | 2022-11-13 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-11 |  |
@@ -106,7 +107,7 @@
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-12-01 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Honey, I'm Glad You're Mine](https://open.spotify.com/track/4L6de6eylUUkvtJYVknqR0) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Honey, I'm Glad You're Mine](https://open.spotify.com/album/6hAOj6NbTdS278alY0xTYp) | 2:17 | 2022-12-08 |  |
-| [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-11 |  |
+| [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-11 | 2023-02-07 |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 | 2022-11-11 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Quiet Nights of Quiet Songs](https://open.spotify.com/album/371VzyXWti506VTodQfkf8) | 6:15 | 2022-09-08 | 2022-11-11 |

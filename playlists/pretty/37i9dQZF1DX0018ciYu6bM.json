@@ -1,15 +1,15 @@
 {
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: LOOKISM",
-  "num_followers": 744946,
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: MAVE:",
+  "num_followers": 746245,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMwNDk4MiwwMDAwMDAwMDQzMTU1YzIxY2ZkYjdkYTUyZDgxZjQwMzEzYmJkYTNj",
+  "snapshot_id": "MTY3NTY3NDY3NCwwMDAwMDAwMGRmY2MzODhmMDg3Y2FlYzA5NGJkZWU2YmViOTAwMTk5",
   "tracks": [
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "LOOKISM (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/0M55V4n7l0ULeYP64IcjX7"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Lowlife Princess: Noir",
         "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
@@ -77,7 +93,23 @@
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
@@ -97,39 +129,7 @@
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186570,
-      "name": "Sugar Rush Ride",
-      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "The 3rd Mini Album 'VarioUS'",
         "url": "https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "MOONLIGHT SUNRISE",
-        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Raise y_our glass",
         "url": "https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y"
@@ -197,23 +181,43 @@
       "url": "https://open.spotify.com/track/7j1vFohEm1lbsctYY9gyGd"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
-        "name": "Ay-Yo - The 4th Album Repackage",
-        "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
+        "name": "BSS 1st Single Album 'SECOND WIND'",
+        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Ay-Yo",
-      "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
+      "duration_ms": 204466,
+      "name": "Fighting (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "8TURNRISE",
         "url": "https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ"
@@ -229,7 +233,7 @@
       "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
@@ -253,7 +257,7 @@
       "url": "https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
@@ -269,7 +273,75 @@
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "Love to Hate You, Pt. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0yGjEMAPhsKQ0BWSfOASFd"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/52S5z54LOqFTKmrUVPMn5z"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "Poppy (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Poppy (Korean Ver.)",
+      "url": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "Ay-Yo - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Ay-Yo",
+      "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Stamp On It - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
@@ -285,7 +357,7 @@
       "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -301,7 +373,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
@@ -321,7 +393,7 @@
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Trippy",
         "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
@@ -337,7 +409,7 @@
       "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
@@ -357,7 +429,7 @@
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
@@ -373,7 +445,7 @@
       "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "2022 Winter SMTOWN : SMCU PALACE",
         "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "LOOKISM (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1KHVPqrQsgT5xbNbRXNJjA"
@@ -417,7 +489,7 @@
       "url": "https://open.spotify.com/track/5hFlI0omJJ0OYXCIMLozvn"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "2022 Winter SMTOWN : SMCU PALACE",
         "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
@@ -441,7 +513,7 @@
       "url": "https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -457,7 +529,23 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+    },
+    {
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -473,7 +561,7 @@
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "HOP ON THE TRUCK",
         "url": "https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE"
@@ -505,23 +593,7 @@
       "url": "https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Chapter 0: WITH",
         "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
@@ -569,7 +641,7 @@
       "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -585,7 +657,7 @@
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "SPIN OFF : FROM THE WITNESS",
         "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
@@ -601,7 +673,7 @@
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -649,7 +721,7 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "[REASON]",
         "url": "https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ"
@@ -681,7 +753,7 @@
       "url": "https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -697,7 +769,7 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Candy - Winter Special Mini Album",
         "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
@@ -713,7 +785,7 @@
       "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -729,23 +801,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
@@ -761,7 +817,7 @@
       "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "\uc218\uc0c1\ud55c \uc791\uc5c5\uc2e4 Episode 2",
         "url": "https://open.spotify.com/album/5EjqxCdy711Yzx4Rgo9aLp"
@@ -777,7 +833,7 @@
       "url": "https://open.spotify.com/track/4RDeeHsaxvS9jr2aUzyhXg"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "MAXIDENT",
         "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
@@ -793,23 +849,7 @@
       "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
@@ -825,7 +865,7 @@
       "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "BOYS PLANET - Here I Am",
         "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
@@ -841,23 +881,7 @@
       "url": "https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
-      "album": {
-        "name": "Black Mamba",
-        "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Black Mamba",
-      "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
-    },
-    {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/6edM83YRAJhqhaBkOth7wO"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/0MLF5da6SiuWndgqvjC8mX"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "THE PIECE OF9",
         "url": "https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Acid Angel from Asia <ACCESS>",
         "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Ponytail",
         "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -953,7 +977,7 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-02-02 02:29:42",
+      "added_at": "2023-02-06 09:11:14",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"

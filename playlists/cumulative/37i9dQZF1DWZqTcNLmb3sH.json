@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -1810,6 +1810,36 @@
       "duration_ms": 200999,
       "name": "Bhajare Bhajare Bhajarangi",
       "url": "https://open.spotify.com/track/7aLRDwrJl8ssCPVC86xLvC"
+    },
+    {
+      "album": {
+        "name": "Bharaniya Male Hoydu (From \"Kasina Sara\") - Single",
+        "url": "https://open.spotify.com/album/7cnyILvM0Do4Qt5NPxGzUU"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Arundhati Vasishta",
+          "url": "https://open.spotify.com/artist/5rGbDooCF87zLNS8eSpxKx"
+        },
+        {
+          "name": "Sridhar V Sambhram",
+          "url": "https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9"
+        },
+        {
+          "name": "Prof. S.G. Siddaramaiah",
+          "url": "https://open.spotify.com/artist/0ZCVMKRRvzCPQsSUB8Kf5V"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228275,
+      "name": "Bharaniya Male Hoydu",
+      "url": "https://open.spotify.com/track/33dOsaCZEPbJC9AhO4c97I"
     },
     {
       "album": {
@@ -5184,6 +5214,28 @@
       "duration_ms": 204518,
       "name": "Kaavalugaara",
       "url": "https://open.spotify.com/track/6ZY5jOFuPR3ZzE1ohq8v1D"
+    },
+    {
+      "album": {
+        "name": "Kabzaa",
+        "url": "https://open.spotify.com/album/4tbldhUtSBlqNJYJ0EhBhP"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Bhavyashri Bandimata",
+          "url": "https://open.spotify.com/artist/7rqcihag4phHx5GH4eMnDL"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "Kabzaa Title Track",
+      "url": "https://open.spotify.com/track/3WcKQigG9P0I0fxtj1jpPh"
     },
     {
       "album": {

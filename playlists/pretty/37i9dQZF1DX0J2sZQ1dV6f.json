@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 70589,
+  "num_followers": 70729,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NjIzOSwwMDAwMDAwMGU5OTE5NzhkYmQ5Njc1Y2VlMDE5ZjExZmM0YWUzMTVh",
+  "snapshot_id": "MTY3NDc5NjIzOSwwMDAwMDAwMDU5ZDJmOTEwNDE5NmNkOGNlNDY1ODE2NGNkOTBmMzI2",
   "tracks": [
     {
       "added_at": "2023-01-27 05:10:39",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 136892,
-      "name": "La Zona",
-      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "Nuevas Metas",
         "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 136892,
+      "name": "La Zona",
+      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -511,6 +511,38 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Sexo Virtual",
+      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -539,22 +571,6 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -599,18 +615,22 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 208291,
-      "name": "Sexo Virtual",
-      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+      "duration_ms": 235626,
+      "name": "El Telefono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -635,22 +655,22 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 235626,
-      "name": "El Telefono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -707,22 +727,18 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 207835,
-      "name": "Sin Seguro",
-      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -743,22 +759,6 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -827,30 +827,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 174898,
-      "name": "Peli-Culeo",
-      "url": "https://open.spotify.com/track/2pEmxGe9nMIjg8wniWkYjJ"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 300266,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/6KeweE0BlXx3AtjMKhBLaz"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 174898,
+      "name": "Peli-Culeo",
+      "url": "https://open.spotify.com/track/2pEmxGe9nMIjg8wniWkYjJ"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Magicenelbeat",
-          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
-        }
-      ],
-      "duration_ms": 197434,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 166050,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "duration_ms": 197434,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Kachin",
-        "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 142453,
-      "name": "Kachin",
-      "url": "https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/6XromBO32uhidY3LWZORO1"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 174236,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "Kachin",
+        "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "Kachin",
+      "url": "https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 211657,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
-    },
-    {
-      "added_at": "2023-01-27 05:10:39",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1339,18 +1319,22 @@
     {
       "added_at": "2023-01-27 05:10:39",
       "album": {
-        "name": "Mi Peor Error",
-        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Mi Peor Error",
-      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+      "duration_ms": 211657,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
     },
     {
       "added_at": "2023-01-27 05:10:39",
@@ -1395,6 +1379,22 @@
       "duration_ms": 200400,
       "name": "Ll\u00e1mame - Remix",
       "url": "https://open.spotify.com/track/6su7DzwrexLTCYBadDG4iR"
+    },
+    {
+      "added_at": "2023-01-27 05:10:39",
+      "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
     },
     {
       "added_at": "2023-01-27 05:10:39",

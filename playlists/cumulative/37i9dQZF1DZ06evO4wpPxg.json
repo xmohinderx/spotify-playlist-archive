@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 174733,
       "name": "I Belong To The Band",
       "url": "https://open.spotify.com/track/3aGOyp9ty4PnRoQKDh0huq"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 180560,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -1370,6 +1370,24 @@
       "duration_ms": 222173,
       "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
       "url": "https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8"
+    },
+    {
+      "album": {
+        "name": "Blues At Newport (Live At The Newport Folk Festival 1959 - 1964)",
+        "url": "https://open.spotify.com/album/1kSpcx0GAKoChdBtwDGBwk"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
+      "url": "https://open.spotify.com/track/7j9BzjJNU1oMXlSnrYT1kQ"
     },
     {
       "album": {
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 159713,
       "name": "I'm Gonna Meet You At The Station",
       "url": "https://open.spotify.com/track/5cAFPKZ6KUXPTdtrzRfO66"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 299640,
       "name": "Lost Boy In The Wilderness",
       "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 164350,
       "name": "Rag Blues In C",
       "url": "https://open.spotify.com/track/0IG9Fvk68jxwSK2k7MM61N"
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 264866,
       "name": "Tryin' To Get To Heaven In Due Time",
       "url": "https://open.spotify.com/track/1rf5Hq6UjxScYRwnZ1TBne"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "You Got To Go Down",
       "url": "https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8"

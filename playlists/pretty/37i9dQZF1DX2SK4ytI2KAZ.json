@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 683618,
+  "num_followers": 683779,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMGFiZDg5N2EzZGJkYzJjMGI1NTA1YTUwMTA5YzNkYzY3",
+  "snapshot_id": "MTY2ODcyMDQ3MSwwMDAwMDAwMDUwOGU5YmQzMDM0NDdhYzQyOTE0MWFkNzM0ZWNiODE1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Long Drives",
         "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 159646,
       "name": "Long Drives",
       "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "tryhard",
-        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Daphne Blue",
-      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "tryhard",
+        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Daphne Blue",
+      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Pacific Coast Highway (with Trevor Hall)",
+        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        },
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Pacific Coast Highway (with Trevor Hall)",
+      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Moment In The Sun",
         "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 136940,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Pacific Coast Highway (with Trevor Hall)",
-        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        },
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Pacific Coast Highway (with Trevor Hall)",
-      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "LOVETAP!",
-        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Killer Whales",
-      "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "D.I.L.Y.D.",
         "url": "https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 199274,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "LOVETAP!",
+        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Killer Whales",
+      "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Good Old Days",
-        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 204428,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 188587,
       "name": "Find Someone",
       "url": "https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Ready Coat",
+        "url": "https://open.spotify.com/album/50vcCzmnypTVGY8N3xF8Jl"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "duration_ms": 208401,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/4zgHdjKyAYq68gpPblOQa4"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "DIE OUT HERE (feat. POORSTACY)",
         "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Ready Coat",
-        "url": "https://open.spotify.com/album/50vcCzmnypTVGY8N3xF8Jl"
-      },
-      "artists": [
-        {
-          "name": "Mo Lowda & the Humble",
-          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
-        }
-      ],
-      "duration_ms": 208401,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/4zgHdjKyAYq68gpPblOQa4"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Do You Really Wanna Know?",
         "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
       },
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
       },
@@ -2115,6 +2115,26 @@
       "duration_ms": 179356,
       "name": "Lone Survivor",
       "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2151,22 +2171,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+        "name": "Painting (Masterpiece)",
+        "url": "https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC"
       },
       "artists": [
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 177746,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
+      "duration_ms": 243413,
+      "name": "Painting (Masterpiece)",
+      "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2183,22 +2199,6 @@
       "duration_ms": 189520,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Painting (Masterpiece)",
-        "url": "https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Painting (Masterpiece)",
-      "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
       },
@@ -2323,18 +2339,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+        "name": "Going Mainstream",
+        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+      "duration_ms": 211040,
+      "name": "Sunshine Time",
+      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2351,22 +2367,6 @@
       "duration_ms": 184473,
       "name": "High Low",
       "url": "https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Going Mainstream",
-        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Sunshine Time",
-      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "MERIDIAN",
-        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
-      },
-      "artists": [
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 214785,
-      "name": "DON'T THINK ABOUT IT",
-      "url": "https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Preacher Man",
         "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
       },
@@ -2463,18 +2447,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         }
       ],
-      "duration_ms": 137386,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ"
+      "duration_ms": 214785,
+      "name": "DON'T THINK ABOUT IT",
+      "url": "https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2491,6 +2475,22 @@
       "duration_ms": 168903,
       "name": "Feelin' Good (Could Be Better)",
       "url": "https://open.spotify.com/track/0w48XaKFfUByK6KuhL8OiF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ"
     },
     {
       "added_at": "2022-10-07 04:01:00",

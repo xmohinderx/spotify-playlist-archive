@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-225 songs - 13 hr 29 min
+226 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Encrucijada](https://open.spotify.com/track/5cl92NMB7WRiIoAQuJcKQS) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Mala Reputación: Latfem Presenta una Memoria Feminista en Canción](https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L) | 2:48 | 2022-01-20 | 2022-07-29 |
 | [Eras](https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:24 | 2022-07-15 |  |
 | [Eras](https://open.spotify.com/track/0fmeyEfwd1xCqs0ix7nYUz) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5q5BriBYhxvr3qV7milXbT) | 4:24 | 2022-01-20 | 2022-07-27 |
-| [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 | 2022-01-20 |  |
+| [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 | 2022-01-20 | 2023-02-07 |
 | [Escobas y cacerolas](https://open.spotify.com/track/1I0x2Ugh6y9VAn6gabsRB3) | [Las Vin Up](https://open.spotify.com/artist/1GKl38LwDLslERfIvZqUXO) | [Caminata Lunar China](https://open.spotify.com/album/5uHc4yfeYCNz7wdcVRfk6d) | 1:46 | 2022-01-20 | 2022-07-27 |
 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 | 2022-01-20 |  |
 | [Esto Que Me Pasa](https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras](https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV) | 4:22 | 2022-01-20 |  |
@@ -213,6 +213,7 @@
 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 | 2022-07-06 |  |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2022-01-20 |  |
 | [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 | 2022-01-20 | 2023-01-28 |
+| [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 | 2023-02-03 |  |
 | [Tormenta](https://open.spotify.com/track/03LRwI0kXUha3YtlRwmR2V) | [Elisa Marenis](https://open.spotify.com/artist/5YaQbPt5IaQZKIBPMmQz3U) | [Tormenta](https://open.spotify.com/album/3AXNeqfT3zy5uSHYlqr6ri) | 3:31 | 2022-01-20 | 2022-07-28 |
 | [Tormenta](https://open.spotify.com/track/78Zb0J40S65I818RCqyjz5) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Tormenta](https://open.spotify.com/album/06vxDpg3EJvkv2FzFuq572) | 3:59 | 2022-01-20 | 2022-07-28 |
 | [Transformarme](https://open.spotify.com/track/4rkf8GAsnpt2zed4MVqf7l) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 3:23 | 2022-07-15 | 2022-07-29 |

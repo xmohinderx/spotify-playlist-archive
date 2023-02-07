@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 58300,
+  "num_followers": 58317,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGE4NTQ3ZTBjNDFkNmYyOGIzODE4MDFhNjUzNWE3NTQx",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGQzZDhiZDljNjZhNzRkYWVhZWMwN2E4OTViMjM1Y2E3",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Coraz\u00f3n D' Roto",
         "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 217920,
       "name": "Apariencia",
       "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Cometas",
+        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
+      },
+      "artists": [
+        {
+          "name": "Novella Inc",
+          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
+        }
+      ],
+      "duration_ms": 183118,
+      "name": "Cometas",
+      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -515,38 +531,6 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Cometas",
-        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
-      },
-      "artists": [
-        {
-          "name": "Novella Inc",
-          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
-        }
-      ],
-      "duration_ms": 183118,
-      "name": "Cometas",
-      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
-    },
-    {
-      "added_at": "2022-12-21 17:22:42",
-      "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2022-12-21 17:22:42",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
     },
     {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Humanos Como T\u00fa",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg"
-      },
-      "artists": [
-        {
-          "name": "Diez Veces Yo",
-          "url": "https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l"
-        }
-      ],
-      "duration_ms": 198624,
-      "name": "Distancias",
-      "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 166540,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg"
+      },
+      "artists": [
+        {
+          "name": "Diez Veces Yo",
+          "url": "https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l"
+        }
+      ],
+      "duration_ms": 198624,
+      "name": "Distancias",
+      "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "No Digas Lo Siento",
+        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "No Digas Lo Siento",
+      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Clavo",
         "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "No Digas Lo Siento",
-        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 171821,
-      "name": "No Digas Lo Siento",
-      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
     },
     {
       "added_at": "2022-10-01 18:54:42",

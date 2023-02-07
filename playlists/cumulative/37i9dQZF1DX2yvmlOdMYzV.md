@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-296 songs - 16 hr 45 min
+297 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2021-12-15 | 2022-10-13 |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2021-12-15 | 2022-10-15 |
 | [From My Heart and My Soul \(feat\. Phoelix\)](https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:30 | 2021-12-15 |  |
+| [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 |  |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-12-15 |  |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-15 |  |
 | [Good Together](https://open.spotify.com/track/1Evdjw7BetnQeOLeofGG0F) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Good Together](https://open.spotify.com/album/295gq9XBTMw0V5Hl29l8A4) | 2:56 | 2021-12-15 | 2022-06-28 |
@@ -212,7 +213,7 @@
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2021-12-15 | 2022-05-14 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-09-29 | 2023-01-28 |
 | [Potential](https://open.spotify.com/track/1Wl7Rh9lUbQjA9RvHEiCbc) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/5U7pW6Www9PZzXB1JFrBtF) | 2:54 | 2021-12-15 | 2022-07-29 |
-| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2023-01-12 |  |
+| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2023-01-12 | 2023-02-07 |
 | [PRETTY.](https://open.spotify.com/track/0xUTuscCV7C6l7VHoqJIxo) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [PRETTY.](https://open.spotify.com/album/2Ikb79E7Qi4yqzNxqovztu) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Pricey](https://open.spotify.com/track/0vkT3Lz1Ojv1pTmyfdaHlE) | [Runway the Catwalker](https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ) | [Pricey](https://open.spotify.com/album/0RvPoh7PrhYs5HcYRPlpRG) | 2:37 | 2021-12-15 | 2022-07-29 |
 | [Queen Tings](https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:08 | 2021-12-15 |  |

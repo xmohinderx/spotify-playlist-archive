@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Rondodasosa, Artie 5ive
 
-215 songs - 10 hr 2 min
+216 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-10 | 2023-02-03 |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-05-11 | 2022-09-09 |
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-11 | 2022-07-08 |
-| [Tirana \(feat\. Finem\)](https://open.spotify.com/track/1EsVVU4G94ZdAaeEHP4T0d) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Tirana \(feat\. Finem\)](https://open.spotify.com/album/0D2zfLodyfFuVg4W5uT3gU) | 2:37 | 2023-02-02 |  |
+| [Tirana \(feat\. Finem\)](https://open.spotify.com/track/1EsVVU4G94ZdAaeEHP4T0d) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Tirana \(feat\. Finem\)](https://open.spotify.com/album/0D2zfLodyfFuVg4W5uT3gU) | 2:37 | 2023-02-02 | 2023-02-07 |
+| [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 | 2023-02-06 |  |
 | [TOKYO](https://open.spotify.com/track/2bhDasGoszlTbf5xdPLK8c) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:22 | 2022-11-04 | 2023-02-03 |
 | [TONIGHT \(feat\. Vale Pain\)](https://open.spotify.com/track/71uYj5xxe1m3e8O0LZ8oh9) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:04 | 2022-11-04 |  |
 | [Totò Riina](https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:22 | 2022-09-08 | 2022-11-25 |

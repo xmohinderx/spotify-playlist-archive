@@ -4,10 +4,11 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-477 songs - 1 day 21 hr 6 min
+478 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 | 2021-10-06 |  |
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2021-10-06 | 2023-02-03 |
 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2021-10-06 | 2023-02-03 |
 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 | 2021-10-06 |  |
@@ -72,7 +73,7 @@
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-10-06 | 2022-04-14 |
 | [Blanket](https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 2:37 | 2022-03-30 | 2022-07-13 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-22 |
-| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 |  |
+| [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 | 2023-02-07 |
 | [Blue Ice Cave](https://open.spotify.com/track/6e4JrbtTPhWWDlbnRWey8F) | [Lektromonk](https://open.spotify.com/artist/47anoF4IxhwqttTUhvIfuO) | [Blue Ice Cave](https://open.spotify.com/album/25TFCFVn3NhLcmzxgBmXM2) | 3:15 | 2022-02-18 | 2022-07-27 |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-01-01 |
 | [Border of Mind](https://open.spotify.com/track/5leVwcmopsoOVCVjKeZrnl) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Border of Mind](https://open.spotify.com/album/68lHjTeBd91IIFkGiBgIve) | 5:53 | 2021-10-06 | 2022-07-21 |
@@ -457,7 +458,7 @@
 | [Veils and Mirrors](https://open.spotify.com/track/3WWOniXQOWprUhfWkIsmXe) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/2rT5TTG2aomPh1tzk1XAWi) | 4:53 | 2022-03-30 | 2022-04-13 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 | 2022-06-21 |
 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 | 2022-10-15 |
-| [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 | 2023-02-03 |
+| [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 |  |
 | [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-04-06 | 2022-07-10 |
 | [VLetrmx](https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 8:27 | 2021-10-06 | 2022-04-10 |
 | [Voicen](https://open.spotify.com/track/0FFOJsHgE6Egh6MEm2QnPu) | [tristan](https://open.spotify.com/artist/76wCQLbhdV3sr1eRfhSZhU), [Yearling](https://open.spotify.com/artist/2lZ8Jshc8PibJ2UNC7RwNc) | [Exchange](https://open.spotify.com/album/6Ytk3moNRtMnRSa75vrPvA) | 3:54 | 2022-03-30 | 2022-04-20 |
@@ -477,7 +478,7 @@
 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 | 2022-03-30 | 2022-07-28 |
 | [Wing Pinger 06](https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 23:17 | 2022-03-30 | 2022-07-26 |
 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 | 2022-07-09 |
-| [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 |  |
+| [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 | 2023-02-07 |
 | [Yesterday](https://open.spotify.com/track/7aLQZTDhGcUOJCQinQbGWG) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Spirit](https://open.spotify.com/album/3ItdNpejzmrIcEtRRUjXgz) | 2:27 | 2022-02-18 | 2022-07-24 |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2022-03-30 | 2022-07-01 |
 | [Zamami](https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:05 | 2021-10-06 | 2022-06-17 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1kydukZhLms.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kydukZhLms) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kydukZhLms)
 
-### [Metal Ballads](https://open.spotify.com/playlist/37i9dQZF1DX1kydukZhLms)
+### [Heavy Ballads](https://open.spotify.com/playlist/37i9dQZF1DX1kydukZhLms)
 
-> A collection of the best metal ballads\. Cover: Guns N' Roses
+> Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
 274 songs - 23 hr 23 min
 
@@ -154,7 +154,7 @@
 | [Man of Sorrows \- 2001 Remaster](https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Best of Bruce Dickinson](https://open.spotify.com/album/0yPd9nZ543MWHGoGHcFKRR) | 5:20 | 2022-04-15 | 2022-07-29 |
 | [Master of the Wind](https://open.spotify.com/track/2rDIYysZGyx68TWlBdvjqk) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 5:26 | 2022-04-15 | 2022-07-29 |
 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 | 2022-04-15 |  |
-| [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 | 2022-04-15 | 2023-01-16 |
+| [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 | 2022-04-15 |  |
 | [Might As Well Be On Mars](https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 7:08 | 2022-04-15 | 2022-07-29 |
 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 | 2022-04-15 |  |
 | [Miss You](https://open.spotify.com/track/2vtIydWBcUBvlJfRZ4kRrq) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [Golgotha](https://open.spotify.com/album/6yzU8QYj6od609Pu17e7kP) | 7:41 | 2022-04-15 | 2022-11-13 |
@@ -188,7 +188,7 @@
 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 | 2022-04-15 | 2022-11-13 |
 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 | 2022-04-15 |  |
 | [Quicksand Jesus](https://open.spotify.com/track/1WYCGlOv6XhCqDyZBYnu9E) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/5rwVv60GrqUYkkrD3vxSJy) | 5:24 | 2022-04-15 | 2022-11-13 |
-| [Rebirth](https://open.spotify.com/track/1hEVuE88R6SC3Q8ogis00B) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Rebirth](https://open.spotify.com/album/2ruinOPJ9p66TuwYUoOANI) | 5:17 | 2022-04-15 |  |
+| [Rebirth](https://open.spotify.com/track/1hEVuE88R6SC3Q8ogis00B) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Rebirth](https://open.spotify.com/album/2ruinOPJ9p66TuwYUoOANI) | 5:17 | 2022-04-15 | 2023-02-07 |
 | [Red Star Falling](https://open.spotify.com/track/5iHH2lrLlPKjuHmR31I6R2) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [The Inner Sanctum](https://open.spotify.com/album/2OyDlMTRnDcdzNC49G8z91) | 6:15 | 2022-04-15 | 2022-07-27 |
 | [Replica](https://open.spotify.com/track/5Q964CEfbwUO0xXGrIzQoI) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Ecliptica \(2008 Edition\)](https://open.spotify.com/album/2Rh0VA8ZkUandJlddNJwE4) | 4:54 | 2022-04-15 | 2022-07-29 |
 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 | 2022-04-15 |  |

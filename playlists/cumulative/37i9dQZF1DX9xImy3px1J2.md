@@ -2,7 +2,7 @@
 
 ### [Fino Al Mattino](https://open.spotify.com/playlist/37i9dQZF1DX9xImy3px1J2)
 
-> L'unica party playlist di cui hai bisogno, personalizzata per te 🍾
+> L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾
 
 203 songs - 10 hr 52 min
 

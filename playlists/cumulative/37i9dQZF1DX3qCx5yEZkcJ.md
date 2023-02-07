@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-442 songs - 18 hr 1 min
+443 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Faded Curtains](https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Hotel Melancholia](https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0) | 2:27 | 2019-05-26\* | 2022-07-21 |
 | [Fainting Of Rejection](https://open.spotify.com/track/5qymBHAVVGAxaDk5bYkrBB) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Sixcube](https://open.spotify.com/artist/5HWrBwfAPQmLpIucF3OJZm) | [Fainting Of Rejection](https://open.spotify.com/album/38WnRhTdawosNXBvYRDp5m) | 1:56 | 2020-06-19 | 2021-09-09 |
 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2019-05-26\* | 2021-12-21 |
-| [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 |  |
+| [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-02-07 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
 | [Fallin' in Love](https://open.spotify.com/track/3UREhjLw6D1yJ4n83GbNkp) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Fallin' in Love](https://open.spotify.com/album/55AmgdUcDxjSQJWvGZqVbZ) | 3:19 | 2019-05-26\* | 2022-04-18 |
 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 | 2020-01-14 | 2022-10-15 |
@@ -144,6 +144,7 @@
 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 | 2019-05-26\* | 2022-04-21 |
 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 | 2022-05-26 |  |
 | [Fresh Air](https://open.spotify.com/track/3Pj5p85yrHKzWShk4miojl) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Fresh Air](https://open.spotify.com/album/566nDMR8PdCGJjWw2YndxP) | 1:46 | 2021-11-19 | 2022-07-29 |
+| [Fresh Air](https://open.spotify.com/track/5h5WN0oNDpmtlx2Idrt8BL) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [A Walk in the Park](https://open.spotify.com/album/4JJwKSAEJr7gG7k52WRA6h) | 1:46 | 2023-02-02 |  |
 | [Fresh Air](https://open.spotify.com/track/5jJZnHK679mNtMpXHOSvkx) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [A Walk in the Park](https://open.spotify.com/album/343j4VCot2OFegemslrsbS) | 1:46 | 2022-07-28 | 2022-11-20 |
 | [From Home, to Work, and Back..](https://open.spotify.com/track/2cXHGk1xgwKBghFTBTYQJ5) | [Tall Black Guy](https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP) | [8 Miles to Moenart](https://open.spotify.com/album/7wSig6uCYzfqpQxQaoRSJ9) | 2:53 | 2019-05-26\* | 2020-01-14 |
 | [Fuzz](https://open.spotify.com/track/3iroK6SSKb3lJpCQKYP1gk) | [Miscél](https://open.spotify.com/artist/5P8zM1rnE2owF1M5HzAuM5) | [Threads](https://open.spotify.com/album/6cfAPNV2nrtu1AgluepgZg) | 1:32 | 2020-07-18 | 2020-11-06 |

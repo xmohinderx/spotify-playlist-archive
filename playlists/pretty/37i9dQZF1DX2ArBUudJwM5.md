@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Yami Safdie y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,042 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,065 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [325](https://open.spotify.com/track/3uQWgSJt3iy1F4BhFTb9as) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [325](https://open.spotify.com/album/7Gauz2VdHBrLczzW7rSRcn) | 2:41 |
 | 12 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 13 | [Lo Que Dicen de Mí](https://open.spotify.com/track/7qyAsohYX9IQVCUkzkJ1dY) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Lo Que Dicen de Mí](https://open.spotify.com/album/2xh8jQdye3snS91DyUWJjH) | 3:23 |
-| 14 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
-| 15 | [En Mi Cuarto](https://open.spotify.com/track/0B5GEQLMwjHbUGnZDTF4Xo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:01 |
-| 16 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 14 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 15 | [Juguito Mañanero](https://open.spotify.com/track/3H5Esjz1C6r3nWyBMRNpQI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Juguito Mañanero](https://open.spotify.com/album/68JOn4Xtdqgez41Wkvic88) | 2:46 |
+| 16 | [En Mi Cuarto](https://open.spotify.com/track/0B5GEQLMwjHbUGnZDTF4Xo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:01 |
 | 17 | [Pedazo de Cielo](https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pedazo de Cielo](https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG) | 3:29 |
 | 18 | [Rápido y Furioso](https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [Rápido y Furioso](https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx) | 2:33 |
-| 19 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
-| 20 | [De Fiesta](https://open.spotify.com/track/23wYKiztl4FUFXLiZiIeQh) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [De Fiesta](https://open.spotify.com/album/65xcr6qMi0C0t1EO0NS5Tz) | 3:13 |
+| 19 | [De Fiesta](https://open.spotify.com/track/23wYKiztl4FUFXLiZiIeQh) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [De Fiesta](https://open.spotify.com/album/65xcr6qMi0C0t1EO0NS5Tz) | 3:13 |
+| 20 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 21 | [Lotería](https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Lotería](https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa) | 2:13 |
 | 22 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
 | 23 | [La historia de la sensibilidad](https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [El terciopelo](https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/3BeDygN8kF3KTYt1Uk7trO) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/4mAIuhNoyIVljEC1KCKNYd) | 4:13 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDdhMDIyYTk0MTRmMzM3YWJlMGRmZTU1OWJhMWUzYWFm`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMGRkMTA3NDE2ZDMxNzM0MzExOTllNTVmNGFmYWI1NDdj`

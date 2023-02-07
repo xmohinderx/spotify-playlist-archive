@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 32584,
+  "num_followers": 32652,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGE4OTVmMGQxNGEzOWRmN2JhMzY1ZmMxYjk3M2NjZDdh",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDJlNjk0YTdhN2NkYTQ5OGVjNmIxNTc3MTQxY2YwYWY2",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -507,18 +507,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
       "artists": [
         {
-          "name": "Swamp",
-          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 185597,
-      "name": "Get Gone",
-      "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
+      "duration_ms": 220960,
+      "name": "Go Crazy (feat. Keb' Mo')",
+      "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -539,22 +543,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Go Crazy (feat. Keb' Mo')",
-      "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
+      "duration_ms": 185597,
+      "name": "Get Gone",
+      "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "The Juice (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 194093,
       "name": "Can't Nobody Stop Us",
       "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "The Juice (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "The Difference Between Me & You",
         "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 241226,
       "name": "Nothing but a Clich\u00e9",
       "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -839,22 +855,6 @@
       "duration_ms": 225551,
       "name": "Searching for Captain Save a Hoe",
       "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     }
   ],
   "unique_name": "Alt-Blue",

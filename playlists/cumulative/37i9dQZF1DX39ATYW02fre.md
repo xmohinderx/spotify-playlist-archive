@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-200 songs - 15 hr 7 min
+201 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2020 Souls](https://open.spotify.com/track/7yLpUdGa76usENji6lSIHO) | [Aaaron](https://open.spotify.com/artist/6sAjR3KTv3ndbi77RmREoj) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:38 | 2020-07-07 | 2022-06-26 |
 | [Afterglo](https://open.spotify.com/track/4Uk9Xnh8RzS9O8SlY6XirP) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [A Celebration Of The Euphoria Of Life](https://open.spotify.com/album/2afxG4ppn5YXesFLZbWFxa) | 3:51 | 2022-05-30 |  |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-03-19 | 2023-02-02 |
+| [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 | 2022-11-25 |  |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2021-03-18 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-11-25 |  |
 | [All Is Full Of Love](https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW) | 4:46 | 2021-03-18 | 2021-05-26 |
@@ -72,7 +73,7 @@
 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 | 2020-06-05\* | 2022-07-21 |
 | [Hates Me](https://open.spotify.com/track/65TQTuti8fOntyi7NzXLTQ) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Hates Me](https://open.spotify.com/album/3hISp4YyeYVGRPvEM2j5E0) | 4:23 | 2020-06-05\* | 2022-07-25 |
 | [Heal Me](https://open.spotify.com/track/7o71V9ORhk5GSZEAiXSFyv) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Robin Chasing Butterflies](https://open.spotify.com/album/3rkab7kaZP5chfRREs21v3) | 5:52 | 2020-06-12 | 2022-06-17 |
-| [Her Revolution](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:48 | 2021-01-05 |  |
+| [Her Revolution](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:48 | 2021-01-05 | 2023-02-07 |
 | [Hold Me](https://open.spotify.com/track/6WuwGoNeKE0dvlyCFaByVg) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Hold Me](https://open.spotify.com/album/1ngR1LRVaHDZZx9X8BjZGk) | 3:50 | 2021-03-20 | 2022-07-28 |
 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 | 2022-05-30 | 2022-11-12 |
 | [Howling](https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 5:09 | 2021-03-16 | 2021-10-14 |

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-379 songs - 20 hr 18 min
+380 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Live It Up](https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j) | [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV) | [Live It Up](https://open.spotify.com/album/5mpcdRMQb57jWEX88aAaHV) | 2:11 | 2021-12-16 | 2022-07-29 |
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-12-16 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-05-25 |  |
-| [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2021-12-16 |  |
+| [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2021-12-16 | 2023-02-07 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-12-16 |  |
 | [Love Overdose](https://open.spotify.com/track/5CaQCvp2r6moa6l9JkQ2Fy) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Marho](https://open.spotify.com/artist/1R8ZeCsSCxvqG7hLQbZpYR) | [Love Overdose](https://open.spotify.com/album/3D82lvE1IcAHnuzBXrzNPp) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Love Riddim](https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Walk With Me](https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj) | 3:39 | 2021-12-16 |  |
@@ -268,6 +268,7 @@
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2021-12-28 | 2022-04-21 |
 | [Pandemia](https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Pandemia](https://open.spotify.com/album/0zLvsXd527Lg8rAJRFERnq) | 2:58 | 2021-12-16 | 2022-01-11 |
 | [People](https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Victory Rock Riddim](https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu) | 3:27 | 2021-12-16 |  |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-06 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-16 |  |
 | [Peru Mashup](https://open.spotify.com/track/1dhpWnmkssLMMCoTWhJOlE) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Peru Mashup](https://open.spotify.com/album/0WgttMqNi5lo1HPYyUKA7V) | 3:45 | 2021-12-16 | 2022-05-17 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-12 |  |

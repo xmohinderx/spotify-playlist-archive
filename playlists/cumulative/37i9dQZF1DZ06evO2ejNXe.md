@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 38 min
+49 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,5 +56,6 @@
 | [Tu Yo Somos Uno Mismo](https://open.spotify.com/track/6PbQ5NUTEwCNBpbea0N3pp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:38 | 2022-06-01 | 2022-09-04 |
 | [Uno, Dos, Tres](https://open.spotify.com/track/1ssU56tFNBKznd8GYQ9UUT) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:06 | 2022-06-01 |  |
 | [Viva La Fiesta \(Me Like To Party\)](https://open.spotify.com/track/2taVzkrj093yCYb9DecjBN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:35 | 2022-06-01 |  |
+| [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 | 2023-02-06 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

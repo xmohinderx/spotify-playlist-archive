@@ -2,7 +2,7 @@
 
 ### [悲傷釋放](https://open.spotify.com/playlist/37i9dQZF1DWV3IJ2kse1M3)
 
-> 在音樂的懷抱裡，你想哭就哭。<br/>我想夢見你 可你沒回應<br/>別怕我再次經歷分離<br/>我想你 就看看鏡子裡的我自己。
+> 在音樂的懷抱裡，你想哭就哭。<br/>可惜這是屬於你的風景 而我只是嘉賓<br/>遇見你的他真的好幸運 但願他會比我更愛你
 
 141 songs - 10 hr 39 min
 
@@ -45,14 +45,14 @@
 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 | 2022-06-01 |  |
 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 | 2022-06-01 |  |
 | [半情歌](https://open.spotify.com/track/4VfcZ1QIunfm38pd1lr1dW) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK) | [命中注定我愛你 電視原聲帶](https://open.spotify.com/album/0lF9XMoqY46gnHknizjW7m) | 5:05 | 2022-06-01 | 2022-07-29 |
-| [可有可無](https://open.spotify.com/track/1X9O2CmT8BYS5BDJki3UZL) | [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [BJ肆](https://open.spotify.com/album/5T35349hTMWRleq4coPvV0) | 4:13 | 2022-10-04 |  |
+| [可有可無](https://open.spotify.com/track/1X9O2CmT8BYS5BDJki3UZL) | [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [BJ肆](https://open.spotify.com/album/5T35349hTMWRleq4coPvV0) | 4:13 | 2022-10-04 | 2023-02-07 |
 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 | 2022-06-01 | 2022-07-28 |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2022-06-01 |  |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2022-06-01 | 2022-07-29 |
 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 | 2022-06-01 | 2023-02-01 |
 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 | 2022-06-01 | 2022-11-14 |
 | [天真有邪](https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [今日營業中](https://open.spotify.com/album/1mrrKAhUxCAIrTDLTYFGnA) | 5:30 | 2022-06-01 | 2022-07-29 |
-| [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 | 2022-06-01 | 2023-01-17 |
+| [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 | 2022-06-01 |  |
 | [失物招領\(電影《以年為單位的戀愛》情感主題曲\)](https://open.spotify.com/track/6arzoxKHtpm9UAgbw5jfO6) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [失物招領\(電影《以年為單位的戀愛》情感主題曲\)](https://open.spotify.com/album/3RVkgn1DUFegm00z0qgseU) | 4:06 | 2022-06-01 | 2022-07-29 |
 | [失落沙洲](https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk) | 4:59 | 2022-06-01 |  |
 | [她說](https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 5:18 | 2022-06-01 |  |
@@ -138,9 +138,9 @@
 | [遠距離練習](https://open.spotify.com/track/3CKodSS2anFIvg55hd2hxe) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [遠距離練習\(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/album/2vsxca9pRl3dohmr4A9IWl) | 5:12 | 2022-06-01 | 2022-07-27 |
 | [重傷](https://open.spotify.com/track/2e8Vy4cHpFZV9Jz4O7wFz7) | [林凡](https://open.spotify.com/artist/1YmWActCNjKmuIz1TSgSRx) | [眼淚流回去](https://open.spotify.com/album/4oCdaixHDKhqZzW0dvhXng) | 4:02 | 2022-06-01 | 2022-07-13 |
 | [錯過](https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [錯過](https://open.spotify.com/album/1sg7gVYA2JDl0aCJiWFuuC) | 4:09 | 2022-06-01 | 2022-07-20 |
-| [關於你](https://open.spotify.com/track/6CJFDeZktYnqWuIOKqClxy) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [無數](https://open.spotify.com/album/5iKJwAiDKFl0IPM4kQ55XX) | 4:53 | 2022-11-03 |  |
+| [關於你](https://open.spotify.com/track/6CJFDeZktYnqWuIOKqClxy) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [無數](https://open.spotify.com/album/5iKJwAiDKFl0IPM4kQ55XX) | 4:53 | 2022-11-03 | 2023-02-07 |
 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 | 2022-06-01 |  |
-| [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 | 2022-06-01 | 2023-01-17 |
+| [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 | 2022-06-01 |  |
 | [难堪](https://open.spotify.com/track/0QDHq2JoM54iTX016iPXIN) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [你我之间](https://open.spotify.com/album/3WBgii1mU51EaTUofSXVVB) | 3:10 | 2022-06-01 | 2022-07-19 |
 | [雙棲動物](https://open.spotify.com/track/6c0cc99NWg4aTn3ZN40aCM) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [T\-TIME新歌精選](https://open.spotify.com/album/35uKQngH6AkejkY0sVYyku) | 4:35 | 2022-06-01 | 2022-07-10 |
 | [離人](https://open.spotify.com/track/5rwEzOpDovuwZ12wAUbzQi) | [林志炫](https://open.spotify.com/artist/6O9BAkGBRRzHUDrWqdT68r) | [擦聲而過](https://open.spotify.com/album/7z7KNMXDU1qjXBxPVEMnV7) | 4:55 | 2022-06-01 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Big Thief",
-  "num_followers": 59483,
+  "num_followers": 59520,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDk0YjRhMDc3ODk5MDdhOTcxZmIwOWU3NTUyYjQ5YmU5",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDk5OGIzMDZiNTUxZGUxNzhmN2FhZjZiNDZkMjQ2Y2Zk",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Before You Gotta Go",
+      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Hailaker",
         "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 253666,
       "name": "Not Much",
       "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Before You Gotta Go",
-      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 188390,
-      "name": "Ignore Tenderness",
-      "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 188390,
+      "name": "Ignore Tenderness",
+      "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Dr. Johann Averies",
         "url": "https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Bad Radio",
         "url": "https://open.spotify.com/album/5Fh8bD99yT2xlDUlLNw005"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 151578,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/64XLoFc5NQjjFgaM5n7UzF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Let Go of the Myth",
-        "url": "https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi"
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
       "artists": [
         {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Let Go of the Myth",
-      "url": "https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz"
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Let Go of the Myth",
+        "url": "https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Let Go of the Myth",
+      "url": "https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Sucker's Lunch",
         "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Dibujos De Mi Alma",
-        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Giant Palm",
-        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
-      },
-      "artists": [
-        {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Giant Palm",
-      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Giant Palm",
+        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Giant Palm",
+      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1547,34 +1531,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
       "artists": [
         {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 182720,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Serpentine Prison (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1591,6 +1559,22 @@
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Serpentine Prison (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "needy",
-        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 232419,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Wooh Dang",
         "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 246293,
       "name": "Rolling Rolling Rolling",
       "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "needy",
+        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 232419,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 278316,
-      "name": "Rare to Wake",
-      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Fever Dreams",
         "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 207786,
       "name": "Circles In The Firing Line - Edit",
       "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "4th of July",
+      "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1851,22 +1867,6 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "4th of July",
-        "url": "https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 176996,
-      "name": "4th of July",
-      "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 196106,
       "name": "Convention",
       "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "grow your hair long if you\u2019re wanting to see something that you can change",
-        "url": "https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "stained glass",
-      "url": "https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "grow your hair long if you\u2019re wanting to see something that you can change",
+        "url": "https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "stained glass",
+      "url": "https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f"
     }
   ],
   "unique_name": "Folk Arc",

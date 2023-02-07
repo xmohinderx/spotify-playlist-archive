@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-841 songs - 1 day 23 hr 43 min
+842 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-03 |  |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-11-17 | 2022-07-29 |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2021-11-17 | 2022-07-27 |
-| [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 | 2021-11-17 | 2023-02-03 |
+| [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 | 2021-11-17 |  |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-11-17 | 2023-01-14 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-11-17 | 2022-11-13 |
 | [Don't forget](https://open.spotify.com/track/3vUhplxWXZzRROaw3zmeag) | [SEULGI](https://open.spotify.com/artist/73Ag41hlRQlEj8wJloKccQ) | [Don't forget me](https://open.spotify.com/album/5o9y5DIHPh6zqlaPFUHFYX) | 3:14 | 2021-11-17 | 2022-07-16 |
@@ -410,7 +410,7 @@
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-11-17 | 2022-07-20 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-08 | 2022-08-22 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-02-03 |  |
-| [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-07-08 |  |
+| [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-07-08 | 2023-02-07 |
 | [KILLING ME](https://open.spotify.com/track/27kB4qLUCV8nZd2eOgj1Tk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS : CONTINUE](https://open.spotify.com/album/2yUTAuGu8Xu7xoTdASjClx) | 3:13 | 2021-11-17 | 2022-07-28 |
 | [KILLING ME](https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:13 | 2021-11-17 | 2022-06-01 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-11-17 | 2022-07-21 |
@@ -504,6 +504,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-11-17 |  |
 | [MY WAY](https://open.spotify.com/track/6J0X6cmz8etKQQ6IRdWBvD) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [MY WAY](https://open.spotify.com/album/46YfprnVuCrpeEIFXhyiVn) | 3:13 | 2021-11-17 | 2022-06-20 |
 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 | 2022-08-12 | 2022-11-21 |
+| [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-26 |  |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-06-10 |  |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2021-11-17 | 2023-01-29 |
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2022-03-24 | 2022-04-20 |
@@ -737,7 +738,7 @@
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-24 |  |
 | [TOMBOY](https://open.spotify.com/track/6iEmphADpJy3pQaG83SB7Q) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [TOMBOY](https://open.spotify.com/album/4vlX820NC8uvVfOxtaxK5r) | 3:00 | 2022-01-03 | 2022-04-21 |
 | [Too young to die \(Prod\. FRANTS\)](https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2) | [HOOK](https://open.spotify.com/artist/3pS5aTs5sdGlypb1vVWhvA), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:55 | 2022-02-03 | 2022-05-17 |
-| [TOUCH](https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:09 | 2021-11-17 |  |
+| [TOUCH](https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:09 | 2021-11-17 | 2023-02-07 |
 | [Toy](https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3) | 3:26 | 2021-11-17 | 2022-07-29 |
 | [Tried to walk](https://open.spotify.com/track/6UYc8n6PjvN6vrrNTSDM51) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IN THE WIND](https://open.spotify.com/album/14uRVwwLjCIq9UZjfdccDF) | 3:36 | 2021-11-17 | 2022-07-23 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2021-11-17 | 2022-06-15 |

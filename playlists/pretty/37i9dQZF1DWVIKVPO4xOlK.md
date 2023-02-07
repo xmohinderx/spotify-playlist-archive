@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,255 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,310 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 21 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 22 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 23 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 |
-| 24 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
+| 24 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
 | 25 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
 | 26 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
-| 27 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
+| 27 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
 | 28 | [Chosen](https://open.spotify.com/track/5ugygrS3SmuK6GJFOj9ASB) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 2:37 |
 | 29 | [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 |
 | 30 | [MÍNIMO](https://open.spotify.com/track/0Dfzwt3rqrsDiWZr3zyq02) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [Lyon808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc) | [MÍNIMO](https://open.spotify.com/album/5GIvKNN1Nq2lSBeNdijiUQ) | 3:27 |
 | 31 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
-| 32 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
-| 33 | [I’m Back](https://open.spotify.com/track/2EdzaalW7m9tbE183AtNFC) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Moneysign Suede](https://open.spotify.com/album/5PtCXycY9LrvdDeXWioM9o) | 1:57 |
-| 34 | [El Matrix](https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [El Matrix](https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU) | 2:30 |
+| 32 | [I’m Back](https://open.spotify.com/track/2EdzaalW7m9tbE183AtNFC) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Moneysign Suede](https://open.spotify.com/album/5PtCXycY9LrvdDeXWioM9o) | 1:57 |
+| 33 | [El Matrix](https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [El Matrix](https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU) | 2:30 |
+| 34 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 35 | [Sábanas Mojadas](https://open.spotify.com/track/4zXAxx7dfk74nN8VQLn9p5) | [Alexxzandro](https://open.spotify.com/artist/4uFSptT61DCmQY8E48punv), [MNYLOW](https://open.spotify.com/artist/7baYWc35aEW5aDL0WMwxxD) | [Sábanas Mojadas](https://open.spotify.com/album/5WGFrugNZzsCPOwU7U7G1w) | 3:12 |
 | 36 | [Me Saliste Regular](https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Saliste Regular](https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy) | 3:46 |
 | 37 | [Chiki Bombón](https://open.spotify.com/track/0nfsrNIB814CthJad7fBth) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Chiki Bombón](https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn) | 2:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 39 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
 | 40 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 |
 
-Snapshot ID: `MTY3NDYwNDIyNCwwMDAwMDAwMDQxYmJiNzAzZWQ0MDFjMjYyM2Q4ZTNlMGNiNTU1MTVh`
+Snapshot ID: `MTY3NDYwNDIyNCwwMDAwMDAwMDg1MDcwMTkxMmIyNmUwZmUxNDQ2NDdkNjNhNDUyMGEz`

@@ -4,7 +4,7 @@
 
 > Listen to the women of the world at full volume\. Cover: Leony
 
-970 songs - 2 day 5 hr 23 min
+971 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Cada Beijo \- Ao Vivo](https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:05 | 2022-09-07 | 2022-10-05 |
 | [a dream i dream](https://open.spotify.com/track/4tt7M0Km4zaslJMDWrTUsJ) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [sake sake sake](https://open.spotify.com/album/4Tn27R8ceNNdsqSNbDHwiN) | 3:20 | 2022-06-01 | 2022-07-07 |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-02-01 |  |
-| [A Mulher Vento](https://open.spotify.com/track/3umV5jWUiYYzrcD2TzshHJ) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:27 | 2023-02-01 |  |
+| [A Mulher Vento](https://open.spotify.com/track/3umV5jWUiYYzrcD2TzshHJ) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:27 | 2023-02-01 | 2023-02-07 |
 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 | 2023-02-01 |  |
 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 | 2022-07-09 | 2022-08-04 |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-08-03 | 2022-09-09 |
@@ -591,6 +591,7 @@
 | [Néztek](https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Néztek](https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km) | 2:27 | 2023-02-01 |  |
 | [O Bom Pastor](https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [O Bom Pastor](https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7) | 5:23 | 2021-12-11 | 2022-01-06 |
 | [O Menino e a Cidade](https://open.spotify.com/track/4JejocjvgZdqS4xIBbeojq) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:47 | 2023-01-04 | 2023-02-02 |
+| [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 | 2023-02-06 |  |
 | [O Sajna](https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [O Sajna](https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK) | 4:05 | 2022-10-04 | 2022-11-03 |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-03-08 | 2022-04-07 |
 | [Obvi](https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Obvi](https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU) | 2:31 | 2022-10-04 | 2022-11-03 |

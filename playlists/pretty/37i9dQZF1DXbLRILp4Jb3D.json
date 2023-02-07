@@ -1,12 +1,12 @@
 {
   "description": "Dulces canciones para disfrutar con tus beb\u00e9s.",
-  "num_followers": 132253,
+  "num_followers": 132286,
   "original_name": "Leche con Chocolate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjY5Njg1MywwMDAwMDAwMGJlNzUzMzkyNDA4ZDQ4NjdmZGQzMWM0MGUwYjBlMGUy",
+  "snapshot_id": "MTY0MjY5Njg1MywwMDAwMDAwMGM0NzZiMGQzYmE5NTMyZjQ3ZjQ2MTBhNjM0M2NkNzk3",
   "tracks": [
     {
       "added_at": "2022-01-20 16:40:05",
@@ -175,6 +175,22 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "Nada en Su Lugar",
+        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Cumbia del Monstruo",
+      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Nada en Su Lugar",
-        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
       "artists": [
         {
-          "name": "Canticu\u00e9nticos",
-          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Cumbia del Monstruo",
-      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
+      "duration_ms": 291000,
+      "name": "No Importa la Distancia (Go the Distance)",
+      "url": "https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -287,22 +303,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "No Importa la Distancia (Go the Distance)",
-      "url": "https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -331,6 +331,26 @@
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -387,26 +407,6 @@
       "duration_ms": 184972,
       "name": "Agua",
       "url": "https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "A Eme O",
-      "url": "https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Canciones de Luna",
         "url": "https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "A Eme O",
+      "url": "https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "En Vivo - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
       },
@@ -539,26 +539,6 @@
       "duration_ms": 178780,
       "name": "Chuchuw\u00e1 - Remasterizado 2016",
       "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -619,6 +599,26 @@
       "duration_ms": 187652,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -759,6 +759,22 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "Marc Anthony For Babies",
+        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony For Babies",
+          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "Ag\u00fcita De Lim\u00f3n Con Ch\u00eda",
         "url": "https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl"
       },
@@ -799,54 +815,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "El Ni\u00f1o Robot",
-        "url": "https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rincon",
-          "url": "https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "El Nino Robot",
-      "url": "https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Marc Anthony For Babies",
-        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony For Babies",
-          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Elena de Avalor",
         "url": "https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 62226,
       "name": "Elena of Avalor (Main Title)",
       "url": "https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "El Ni\u00f1o Robot",
+        "url": "https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rincon",
+          "url": "https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "El Nino Robot",
+      "url": "https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -879,6 +863,22 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "Marc Anthony For Babies",
+        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony For Babies",
+          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "Canciones Sin Ropa",
         "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 173724,
       "name": "M\u00e1s feliz",
       "url": "https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -911,38 +927,18 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Mariposa Azul",
-        "url": "https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU"
+        "name": "Bob Marley For Babies",
+        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
         }
       ],
-      "duration_ms": 264424,
-      "name": "Estrellita Viajera",
-      "url": "https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Nube de Algod\u00f3n",
-        "url": "https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "CACUCA",
-          "url": "https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Nube de Algod\u00f3n",
-      "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
+      "duration_ms": 161172,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB"
     }
   ],
   "unique_name": "Leche con Chocolate",

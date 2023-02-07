@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687450,
+  "num_followers": 687428,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGI1MTA2YTlkMDk4ZDc1NGJlNDRlZjk4OTc5OTY1MDUw",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDc2NGEyYTgwODNhYjUzNjE0YTQ0MmYwM2RkODg2M2Uw",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -475,26 +495,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -595,30 +575,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -631,6 +587,26 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -651,6 +627,30 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Get Out My Head",
+        "url": "https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Get Out My Head",
+      "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 190955,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Get Out My Head",
-        "url": "https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Get Out My Head",
-      "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Make Luv",
-        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 168091,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+        "name": "Make Luv",
+        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
+      "duration_ms": 168091,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Don't You Worry About Me",
         "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 220173,
       "name": "Don't You Worry About Me",
       "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Peaches & Cream",
+        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 198956,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1891,22 +1907,6 @@
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Peaches & Cream",
-        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 198956,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
     },
     {
       "added_at": "2022-12-31 15:51:36",

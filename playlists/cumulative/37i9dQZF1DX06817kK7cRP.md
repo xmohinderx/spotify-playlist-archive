@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-104 songs - 4 hr 45 min
+105 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 |  |
 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
-| [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
+| [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 | 2023-02-07 |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2023-01-12 |  |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 |  |
 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 |  |
@@ -75,6 +75,7 @@
 | [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 |  |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
+| [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 |  |
 | [Pathways](https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Howard B Thy Name 7](https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Pathways](https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4) | 3:29 | 2023-01-12 |  |
 | [Peach Rings](https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Daybreak](https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj) | 2:41 | 2023-01-12 |  |
 | [Pivot](https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Every Story / Pivot](https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi) | 3:18 | 2023-01-12 |  |

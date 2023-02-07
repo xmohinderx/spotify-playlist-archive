@@ -334,7 +334,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 299690,
       "name": "C\u00f3 M\u1ed9t Ng\u01b0\u1eddi T\u1eebng L\u00e0 T\u1ea5t C\u1ea3",
       "url": "https://open.spotify.com/track/0zvG8nb0KNKhNUS1cIn4MV"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
@@ -566,6 +566,24 @@
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
+    },
+    {
+      "album": {
+        "name": "Em L\u00e0 Coffee",
+        "url": "https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa"
+      },
+      "artists": [
+        {
+          "name": "Juky San",
+          "url": "https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Em L\u00e0 Coffee",
+      "url": "https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu"
     },
     {
       "album": {
@@ -921,6 +939,24 @@
     },
     {
       "album": {
+        "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n (The 5th Anniversary)",
+        "url": "https://open.spotify.com/album/4uoFsEGWuNaf754zs4J4wu"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260863,
+      "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n (Nashville Version)",
+      "url": "https://open.spotify.com/track/1Q3hhLiYXlomgwH4oDuBeC"
+    },
+    {
+      "album": {
         "name": "h\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/6DET8Fkgy2bz1sl6gXcnGO"
       },
@@ -972,7 +1008,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 195750,
       "name": "H\u1ea1 Ph\u1ecfm",
       "url": "https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt"
@@ -1336,7 +1372,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 285885,
       "name": "M\u00ecnh Y\u00eau \u0110\u1ebfn \u0110\u00e2y Th\u00f4i",
       "url": "https://open.spotify.com/track/5P5lTAd4r6ro0rMpjwg34u"
@@ -1749,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
+        "url": "https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl"
+      },
+      "artists": [
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278732,
+      "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
+      "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
+    },
+    {
+      "album": {
         "name": "Sashimi",
         "url": "https://open.spotify.com/album/04EHUwLYoqGaFYv9d7AJFG"
       },
@@ -1986,7 +2040,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 259272,
       "name": "th\u1ebf gi\u1edbi kh\u00f4ng anh",
       "url": "https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In"

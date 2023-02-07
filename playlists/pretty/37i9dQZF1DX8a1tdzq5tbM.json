@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
-  "num_followers": 1304553,
+  "num_followers": 1304737,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMDkxZDdlOTVlZTJhMDYzM2VhYzExYjY5NGI0YzFhYmRj",
+  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMDA2N2E2NWU2ZTE4ODE2NDZiNGUxOGM5M2U2NGUzNjg5",
   "tracks": [
     {
       "added_at": "2022-02-28 22:22:26",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -199,22 +183,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -231,6 +199,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Let the Music Play",
         "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 214379,
       "name": "Let the Music Play",
       "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -591,26 +591,18 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
       "artists": [
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -679,6 +671,30 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 239213,
       "name": "The Longest Road - deadmau5 Remix Edit",
       "url": "https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -871,6 +871,34 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Toca Me (twoloud Remix)",
         "url": "https://open.spotify.com/album/7KfVcH7IJRyKEBf5JvoKvk"
       },
@@ -927,34 +955,6 @@
       "duration_ms": 237293,
       "name": "Move For me",
       "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Elements Of Life",
+        "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/3GQmTjG7lCwEiujCanfRQI"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Empty Streets (Remixes)",
         "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 270964,
       "name": "Cafe Del Mar - Radio Edit",
       "url": "https://open.spotify.com/track/4LIbYKwuUBMKmqyZZC7XVg"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Elements Of Life",
-        "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/3GQmTjG7lCwEiujCanfRQI"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1263,6 +1263,42 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Basement Boys Anthology",
+        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 581226,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
       },
@@ -1279,22 +1315,6 @@
       "duration_ms": 181230,
       "name": "It's Too Late - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Basement Boys Anthology",
-        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 581226,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1363,26 +1383,6 @@
       "duration_ms": 217500,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 292160,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
     },
     {
       "added_at": "2022-02-28 22:22:26",

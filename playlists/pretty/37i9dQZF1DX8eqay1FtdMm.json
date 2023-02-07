@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: TAEYEON(\ud0dc\uc5f0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 312906,
+  "num_followers": 312955,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0OTM0MiwwMDAwMDAwMDM1NGNhMTZhOGU0MjU0ODdjZTZhMzY5NDg4NDM5ZDEw",
+  "snapshot_id": "MTY3NTM0OTM0MiwwMDAwMDAwMDcwOTkzMWM1MTdhMmZjZjhjYmYzOGE4MjcwMDAwOGEx",
   "tracks": [
     {
       "added_at": "2023-02-02 14:49:02",
@@ -387,38 +387,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -475,18 +443,34 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -507,6 +491,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "WAW",
-        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Where Are We Now",
-      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Myo (Cat)",
         "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 217640,
       "name": "Myo (Cat)",
       "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Spring Again",
-        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 236071,
-      "name": "The Snowman",
-      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -831,6 +831,26 @@
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Mother Nature (H\u2082O)",
+        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Mother Nature (H\u2082O)",
+      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -863,26 +883,6 @@
       "duration_ms": 221746,
       "name": "Just Look for you",
       "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
-        "name": "Mother Nature (H\u2082O)",
-        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Kang Seungwon",
-          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Mother Nature (H\u2082O)",
-      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
-      },
-      "artists": [
-        {
-          "name": "SEO EUNKWANG",
-          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
-        }
-      ],
-      "duration_ms": 275503,
-      "name": "How Can I Forget You",
-      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "#tb",
         "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 275200,
       "name": "#tb",
       "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "duration_ms": 275503,
+      "name": "How Can I Forget You",
+      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 337480,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 202858,
       "name": "Lie to me",
       "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-02-02 14:49:02",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-02-02 14:49:02",
       "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
-    },
-    {
-      "added_at": "2023-02-02 14:49:02",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-02-02 14:49:02",
+      "album": {
+        "name": "One Day More",
+        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "One Day More",
+      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
     },
     {
       "added_at": "2023-02-02 14:49:02",

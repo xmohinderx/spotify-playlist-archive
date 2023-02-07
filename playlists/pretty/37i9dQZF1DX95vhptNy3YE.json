@@ -1,12 +1,12 @@
 {
   "description": "Orochi e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 179827,
+  "num_followers": 179998,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQzOTYwNCwwMDAwMDAwMGJhY2RiNDk2Nzg2NjJkNTUwNWVkOTRlM2I1MjFkZDkx",
+  "snapshot_id": "MTY3NTQzOTYwNCwwMDAwMDAwMDNkMjc4YTQ0NWE0ZGIyMzFhZWQxZjk0MDczNWM1OGRm",
   "tracks": [
     {
       "added_at": "2023-02-03 15:53:24",
@@ -175,42 +175,6 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
-        "name": "Sereia",
-        "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 294418,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
         "name": "Revoada do Tubar\u00e3o 3",
         "url": "https://open.spotify.com/album/5bMkWLD5fjWCrriJuKPEOI"
       },
@@ -303,30 +267,6 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
         "name": "Papo de Agustinho",
         "url": "https://open.spotify.com/album/6zhoQQ4slrBbrAKrhTycwo"
       },
@@ -367,6 +307,66 @@
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
+        "name": "Sereia",
+        "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 294418,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": "2023-02-03 15:53:24",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
     },
     {
       "added_at": "2023-02-03 15:53:24",
@@ -631,6 +631,54 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
+        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 168165,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
+        "name": "Vit\u00f3ria Dobrada",
+        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Vit\u00f3ria Dobrada",
+      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -655,22 +703,6 @@
       "duration_ms": 186947,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
-        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 168165,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
     },
     {
       "added_at": "2023-02-03 15:53:24",
@@ -707,38 +739,6 @@
       "duration_ms": 179439,
       "name": "Meio P\u00e1",
       "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
-        "name": "Vit\u00f3ria Dobrada",
-        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Mozin",
-          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Vit\u00f3ria Dobrada",
-      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
     },
     {
       "added_at": "2023-02-03 15:53:24",
@@ -879,6 +879,34 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
       },
@@ -995,34 +1023,6 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
-        "name": "Movimento - Spotify Singles",
-        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Movimento - Spotify Singles",
-      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
         "name": "SUV PRATA",
         "url": "https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy"
       },
@@ -1119,6 +1119,34 @@
     {
       "added_at": "2023-02-03 15:53:24",
       "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "A Jolly Child",
+          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Luxo No Morro",
+      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
+    },
+    {
+      "added_at": "2023-02-03 15:53:24",
+      "album": {
         "name": "PIX (feat. 4Genesis & Cax Camp)",
         "url": "https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx"
       },
@@ -1183,34 +1211,6 @@
       "duration_ms": 333176,
       "name": "Minha Raiz",
       "url": "https://open.spotify.com/track/3y2OoXuWjC5s0JciRdhYbv"
-    },
-    {
-      "added_at": "2023-02-03 15:53:24",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "A Jolly Child",
-          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Luxo No Morro",
-      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
     },
     {
       "added_at": "2023-02-03 15:53:24",

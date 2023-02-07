@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-344 songs - 1 day 7 hr 12 min
+345 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Karabali](https://open.spotify.com/track/0IEuz3GjLdjk8WQfPw8Q3m) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/0pnCkqw8Kl7MP1A9j7MqKL) | 7:05 | 2022-10-28 |  |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2021-12-08 | 2022-10-13 |
 | [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 |  |
+| [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 |  |
 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 |  |
@@ -223,7 +224,7 @@
 | [Piano Boy](https://open.spotify.com/track/3sVSsA99BCGt81nMNKqUNu) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:08 | 2022-05-03 | 2023-01-06 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/1jZqT8S8zfyLBw0BdCQn6X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 7:07 | 2022-05-03 | 2022-11-17 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
-| [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 |  |
+| [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-02-07 |
 | [Pulse](https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:43 | 2022-05-03 |  |
 | [Pura Vida](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW) | 7:14 | 2022-05-03 |  |
 | [Pura Vida](https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/0XkAQnJ9rGm1Zzv70yfJVb) | 7:14 | 2021-12-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,725 likes - 62 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 62 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

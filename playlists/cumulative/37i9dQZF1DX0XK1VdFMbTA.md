@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-838 songs - 2 day 10 hr 35 min
+839 songs - 2 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 | 2022-01-05 |  |
 | [Gimme Back My Bullets](https://open.spotify.com/track/02UFwtmJ0ogLQWMx43Okuh) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 3:29 | 2022-01-05 |  |
 | [Gimme Danger \- Bowie Mix](https://open.spotify.com/track/74CcP6fDBFdH8Xjo2F6Nb4) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Legacy Edition\)](https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls) | 3:29 | 2022-01-05 | 2023-02-04 |
-| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 | 2022-11-17 |  |
+| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/3MHYDIspsysJxn1xkMJpjY) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(50th Anniversary Legacy Edition\)](https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew) | 3:33 | 2022-11-17 |  |
+| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 | 2022-11-17 | 2023-02-07 |
 | [Gimme Some Truth \- Remastered 2010](https://open.spotify.com/track/3d2oiHuHm3rftzRDPeL5LU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:17 | 2022-01-05 |  |
 | [Gimme Some Water](https://open.spotify.com/track/0LKH8nMS8WFISQRo5RXGcq) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Life For The Taking](https://open.spotify.com/album/6rZ5ZREEbF43M67P2yV6Sx) | 3:37 | 2022-01-05 |  |
 | [Gimme Your Money Please](https://open.spotify.com/track/6sqshZ3VTPTQL2EW5c3WQ9) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman Turner Overdrive](https://open.spotify.com/album/1jd8urGvuFR1fXWxEJi4ny) | 4:45 | 2022-01-05 |  |

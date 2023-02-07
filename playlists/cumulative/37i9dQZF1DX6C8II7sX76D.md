@@ -4,12 +4,12 @@
 
 > pov: u hand the internet the aux
 
-157 songs - 8 hr 38 min
+158 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 0:00 | 2022-12-28 |  |
-| [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-12-03 |  |
+| [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-12-03 | 2023-02-07 |
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-08 | 2022-07-29 |
 | [2 Phút Hơn \- KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn \(KAIZ Remix\)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2021-12-03 | 2022-04-19 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-03 | 2022-07-29 |
@@ -39,6 +39,7 @@
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-12-03 |  |
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2022-02-10 | 2022-07-23 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-01-08 | 2022-07-29 |
+| [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-02-06 |  |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2021-12-03 | 2022-07-29 |
 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 | 2021-12-23 | 2022-07-29 |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2021-12-03 |  |

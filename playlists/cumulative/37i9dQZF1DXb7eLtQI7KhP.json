@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 146000,
       "name": "At dawn",
       "url": "https://open.spotify.com/track/3s8OzufTF0QYthWCQErO32"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 170000,
       "name": "Hazy Dreaming",
       "url": "https://open.spotify.com/track/1gdcOxO6prRb6CfxMljnrD"
@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Snow beats",
+        "url": "https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205780,
+      "name": "Snow beats",
+      "url": "https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR"
+    },
+    {
+      "album": {
         "name": "Sonhando",
         "url": "https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T"
       },
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 191485,
       "name": "Summer of 79",
       "url": "https://open.spotify.com/track/2vnpkOmyi64QT173bWssLK"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 127613,
       "name": "The Thread",
       "url": "https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y"
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Winter solstice",
+        "url": "https://open.spotify.com/album/0aUUS04W5TOsnBGxsE8A18"
+      },
+      "artists": [
+        {
+          "name": "De Seu",
+          "url": "https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181483,
+      "name": "Winter solstice",
+      "url": "https://open.spotify.com/track/5ahM6oAPik0WB6sEN8Oep6"
+    },
+    {
+      "album": {
         "name": "Mind Flow",
         "url": "https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H"
       },
@@ -2108,6 +2144,24 @@
       "duration_ms": 135925,
       "name": "Wistful",
       "url": "https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg"
+    },
+    {
+      "album": {
+        "name": "\u00c5\u030aterh\u00e4mtning",
+        "url": "https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU"
+      },
+      "artists": [
+        {
+          "name": "\u00c5mliden",
+          "url": "https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "\u00c5\u030aterh\u00e4mtning",
+      "url": "https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP"

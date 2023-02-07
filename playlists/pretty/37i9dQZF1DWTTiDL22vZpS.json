@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 4915,
+  "num_followers": 4937,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDAwMCwwMDAwMDAwMDUzM2I1Mzk0YmYzYmY1OTM2YWM2MjE5ZjljOWQ1YTYz",
+  "snapshot_id": "MTY3NTQ0MDAwMCwwMDAwMDAwMDM3Y2UxMjAyYjFkMjIzYjA0MTk0OWE1Mjc2NmUxODhj",
   "tracks": [
     {
       "added_at": "2023-02-03 16:00:00",
@@ -123,18 +123,22 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Te Miro Para Ver Si Me Ves Mirarte",
-      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -159,22 +163,18 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+      "duration_ms": 275520,
+      "name": "Te Miro Para Ver Si Me Ves Mirarte",
+      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
-    },
-    {
-      "added_at": "2023-02-03 16:00:00",
-      "album": {
         "name": "Buitres & Co.",
         "url": "https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
       "artists": [
         {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
         }
       ],
-      "duration_ms": 249250,
-      "name": "Parar el Tiempo",
-      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -427,6 +411,22 @@
       "duration_ms": 229997,
       "name": "\u00d3yeme Bien",
       "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
+    },
+    {
+      "added_at": "2023-02-03 16:00:00",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 249250,
+      "name": "Parar el Tiempo",
+      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
-    },
-    {
-      "added_at": "2023-02-03 16:00:00",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 228466,
       "name": "Golden Choice",
       "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+    },
+    {
+      "added_at": "2023-02-03 16:00:00",
+      "album": {
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
-    },
-    {
-      "added_at": "2023-02-03 16:00:00",
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 332546,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
+    },
+    {
+      "added_at": "2023-02-03 16:00:00",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-02-03 16:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-03 16:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
-      },
-      "artists": [
-        {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
-    },
-    {
-      "added_at": "2023-02-03 16:00:00",
-      "album": {
         "name": "Hay frases que s\u00f3lo escuchamos de noche",
         "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 237909,
       "name": "nuncatevayasnunca",
       "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
+    },
+    {
+      "added_at": "2023-02-03 16:00:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+      },
+      "artists": [
+        {
+          "name": "MNKYBSNSS",
+          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mi Necedad",
+      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
     },
     {
       "added_at": "2023-02-03 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 284404,
+  "num_followers": 284487,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0Mzg3NiwwMDAwMDAwMDA3YTE2ZjM0ZTgyOGJiMWM1NmYzOWM4Y2Y3ZjQzNjFi",
+  "snapshot_id": "MTY3NTQ0Mzg3NiwwMDAwMDAwMGYxOWM0MjU1YjRiMDBkOTdjYmZjYTBiZTVkNjJlOTFk",
   "tracks": [
     {
       "added_at": "2023-01-13 12:32:17",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2023-02-06 00:17:16",
+      "added_at": "2023-02-07 00:25:59",
       "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Clara Ward",
+          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Clara (the night is dark)",
+      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Your Voice (Adam Port Remix)",
         "url": "https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Clara Ward",
-          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Clara (the night is dark)",
-      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -211,6 +211,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -279,22 +295,6 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Fade Into Black",
         "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -487,22 +503,6 @@
       "duration_ms": 258665,
       "name": "Ordel",
       "url": "https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Sumidero",
-        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 298492,
-      "name": "Sumidero",
-      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Purified Fragments Vi",
         "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
       },
@@ -597,7 +581,7 @@
       "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
-      "added_at": "2023-02-06 00:17:16",
+      "added_at": "2023-02-07 00:25:59",
       "album": {
         "name": "Oh, Lover (NTO Remix)",
         "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
@@ -619,6 +603,22 @@
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Sumidero",
+        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 298492,
+      "name": "Sumidero",
+      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Fj\u00e4ll",
         "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 315297,
       "name": "Fj\u00e4ll",
       "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "In The Morning - Edit",
+      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Vanished",
         "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 356000,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
     },
     {
       "added_at": "2023-01-13 12:32:17",

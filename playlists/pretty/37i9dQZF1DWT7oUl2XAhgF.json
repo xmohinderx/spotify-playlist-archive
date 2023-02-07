@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Phillip-Michael Scales",
-  "num_followers": 177390,
+  "num_followers": 177514,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDdhMTk5YjZhZDJhYTI4MTgxNzgwNDI5NmNhZmY5YmIx",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDk5OWIzYzI1MGU5NDNlYzkyOTg4NjE2N2VjNDA2OTU5",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 166890,
-      "name": "911",
-      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Queen Alone",
@@ -439,6 +423,22 @@
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "911",
+      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -515,38 +515,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 224730,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -579,6 +563,22 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
-      "added_at": "2022-04-05 15:36:09",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "That's How Love Is Made",
@@ -661,20 +645,20 @@
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-04-05 15:36:09",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
       "artists": [
         {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
         }
       ],
-      "duration_ms": 247133,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -691,6 +675,22 @@
       "duration_ms": 174586,
       "name": "Trade of Hearts",
       "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Cruisin' To The Parque",
@@ -825,38 +841,6 @@
       "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
       "added_at": "2022-02-15 17:48:45",
       "album": {
         "name": "Forget Me Not",
@@ -877,20 +861,20 @@
       "url": "https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-10-29 04:01:00",
       "album": {
-        "name": "By Design [Evel Knievel]",
-        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 225312,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -909,6 +893,22 @@
       "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "It's A Long Road",
@@ -923,26 +923,6 @@
       "duration_ms": 282773,
       "name": "Tell You Not To Worry",
       "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -995,6 +975,26 @@
       "duration_ms": 218027,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1133,26 +1133,6 @@
       "url": "https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
-        }
-      ],
-      "duration_ms": 248777,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Forever",
@@ -1187,6 +1167,26 @@
       "duration_ms": 208320,
       "name": "Communion in My Cup (feat. The Ton3s)",
       "url": "https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 248777,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
     },
     {
       "added_at": "2022-03-04 05:01:00",

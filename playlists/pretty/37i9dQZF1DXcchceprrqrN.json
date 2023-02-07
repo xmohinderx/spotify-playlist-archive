@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 22270,
+  "num_followers": 22476,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMGUxZTZlYjBlOWFlZDZlOTg5MGU1YzU3NjkxM2M3OTg4",
+  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMDAzMzIwNTMzZmQzNzk0MTZjOTJjYWVkMmJlZDFlZmEy",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Race",
+        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "cyanide (feat. cryogeyser)",
         "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Race",
-        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "The Same",
-      "url": "https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Endure",
-        "url": "https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9"
-      },
-      "artists": [
-        {
-          "name": "Special Interest",
-          "url": "https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m"
-        }
-      ],
-      "duration_ms": 203454,
-      "name": "Cherry Blue Intention",
-      "url": "https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "God Is a Circle",
         "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212706,
       "name": "God Is a Circle",
       "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9"
+      },
+      "artists": [
+        {
+          "name": "Special Interest",
+          "url": "https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m"
+        }
+      ],
+      "duration_ms": 203454,
+      "name": "Cherry Blue Intention",
+      "url": "https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Here\u2019s What You Could Have Won",
         "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204012,
       "name": "Charlie Bronson",
       "url": "https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
     }
   ],
   "unique_name": "hair dye",

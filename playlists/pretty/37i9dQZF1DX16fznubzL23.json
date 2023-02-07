@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 5514,
+  "num_followers": 5531,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNTMwNSwwMDAwMDAwMDE3NzI4ZDQxOGNjZDcyMzc1YzgyNmFkNDg0OGE3ZmI4",
+  "snapshot_id": "MTY3NTQxNTMwNSwwMDAwMDAwMDQ4ZTA5NTNjNjg1NjU1OTExYTg2MDlkOTZiZTdmMjI4",
   "tracks": [
     {
       "added_at": "2023-02-03 05:06:11",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
-    },
-    {
-      "added_at": "2023-02-03 05:06:11",
-      "album": {
         "name": "The Prince I Became",
         "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
       },
@@ -407,22 +387,6 @@
       "duration_ms": 179580,
       "name": "Thunder Fire You",
       "url": "https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ"
-    },
-    {
-      "added_at": "2023-02-03 05:06:11",
-      "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-02-03 05:06:11",
@@ -443,22 +407,18 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
-        "name": "Gentility (feat. Wande Coal)",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-02-03 05:06:11",
@@ -499,6 +459,46 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "added_at": "2023-02-03 05:06:11",
+      "album": {
+        "name": "Gentility (feat. Wande Coal)",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+    },
+    {
+      "added_at": "2023-02-03 05:06:11",
+      "album": {
         "name": "Some Nights I Dream of Doors",
         "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
       },
@@ -511,30 +511,6 @@
       "duration_ms": 203800,
       "name": "I Wish It Was Me",
       "url": "https://open.spotify.com/track/3ghmdRTijueJLRzswc779P"
-    },
-    {
-      "added_at": "2023-02-03 05:06:11",
-      "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
     },
     {
       "added_at": "2023-02-03 05:06:11",
@@ -599,6 +575,30 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": "2023-02-03 05:06:11",
+      "album": {
         "name": "How To Kill A Man",
         "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 174590,
       "name": "How To Kill A Man",
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
-    },
-    {
-      "added_at": "2023-02-03 05:06:11",
-      "album": {
-        "name": "Freestyle EP",
-        "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Boulevard",
-      "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
     },
     {
       "added_at": "2023-02-03 05:06:11",
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-02-03 05:06:11",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+        "name": "Freestyle EP",
+        "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+      "duration_ms": 112000,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
     },
     {
       "added_at": "2023-02-03 05:06:11",
@@ -755,6 +739,22 @@
       "duration_ms": 201824,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh"
+    },
+    {
+      "added_at": "2023-02-03 05:06:11",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": "2023-02-03 05:06:11",

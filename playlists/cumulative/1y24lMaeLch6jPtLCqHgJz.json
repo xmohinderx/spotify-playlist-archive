@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Forever (feat. Crooked Bangs)",
+        "url": "https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143401,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm"
+    },
+    {
+      "album": {
         "name": "Here With You",
         "url": "https://open.spotify.com/album/3KToxcWG2LFewyjNFLVfNb"
       },
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 196935,
       "name": "Recount the Stars",
       "url": "https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5"
@@ -2592,7 +2614,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 143333,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/43F4XlADKdd1IHds72gTgm"

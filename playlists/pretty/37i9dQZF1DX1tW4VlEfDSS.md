@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,224 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,281 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 51 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
 | 52 | [Someday \- Harris & Hurr Remix](https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy) | [Just Us](https://open.spotify.com/artist/6gZBuGRyiyGkAVFCJAWdMk), [Eddy](https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Someday \(Harris & Hurr Remix\)](https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S) | 3:40 |
 | 53 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
-| 54 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
-| 55 | [On My Mind](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa) | 3:26 |
+| 54 | [On My Mind](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa) | 3:26 |
+| 55 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
 | 56 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
 | 57 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 |
 | 58 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
 | 59 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
 | 60 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDBlYzI3NTRjNTNmMWU2NGNhNDk2MDVhZGUxMTg3OGNi`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGZhNzk3Zjk5NTU3MWE4NDM5MmM3ZmFlYjI5Mzk1ZTFm`

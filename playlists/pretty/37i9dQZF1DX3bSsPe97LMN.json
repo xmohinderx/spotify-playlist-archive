@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 48507,
+  "num_followers": 48570,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGFjYzA1YTk2MTNlMjBkNGZiNmUzZGI2YTAxOTQ3YzVj",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDBmMThlYmIwMTQ3MWIyZGQ2MWEzYjFiYWUxZGY5MjIz",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -297,26 +297,6 @@
       "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
     },
     {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "H\u00e1gase Hombre",
-        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "H\u00e1gase Hombre",
-      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
-    },
-    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "EL KARMA",
@@ -353,20 +333,24 @@
       "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
+      "added_at": "2022-12-02 06:00:00",
       "album": {
-        "name": "En Vivo De Culiacan",
-        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
+        "name": "H\u00e1gase Hombre",
+        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 158772,
-      "name": "El Dos Sierras ( En Vivo)",
-      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
+      "duration_ms": 184927,
+      "name": "H\u00e1gase Hombre",
+      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -383,6 +367,22 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "En Vivo De Culiacan",
+        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "El Dos Sierras ( En Vivo)",
+      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Triste Navidad - Spotify Singles",
-        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Triste Navidad - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Una Copa Por Cada Reina",
@@ -487,6 +471,22 @@
       "duration_ms": 226466,
       "name": "Lo Siento Mi Amor",
       "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Triste Navidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Triste Navidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
     },
     {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "No Se Olvida",
@@ -595,22 +611,6 @@
       "duration_ms": 196693,
       "name": "Este Sentimiento",
       "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-18 06:00:00",
       "album": {
-        "name": "C\u00f3mo Poder Olvidar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 216208,
-      "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
-      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 196437,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 216208,
+      "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
+      "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "A Ti S\u00ed Te Quer\u00eda",
@@ -761,36 +745,20 @@
       "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
-      "added_at": "2022-11-11 06:00:00",
+      "added_at": "2022-11-18 06:00:00",
       "album": {
-        "name": "INERCIA",
-        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
       },
       "artists": [
         {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 203866,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Pa Que Ordene y Mande",
-        "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Pa Que Ordene y Manden",
-      "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -829,6 +797,38 @@
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Pa Que Ordene y Mande",
+        "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Pa Que Ordene y Manden",
+      "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "INERCIA",
+        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
+    },
+    {
       "added_at": "2023-01-27 06:00:00",
       "album": {
         "name": "El Coquito",
@@ -859,6 +859,22 @@
       "duration_ms": 163824,
       "name": "Traigo Un Equip\u00f3n",
       "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
+    },
+    {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
+        "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 212004,
+      "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
+      "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 197653,
       "name": "2A",
       "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
-    },
-    {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-        "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 212004,
-      "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-      "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Soy Nayarita",
-        "url": "https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "Soy Nayarita",
-      "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
-    },
-    {
       "added_at": "2023-01-27 06:00:00",
       "album": {
         "name": "Nuestra Canci\u00f3n",
@@ -1151,6 +1135,22 @@
       "duration_ms": 201848,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Soy Nayarita",
+        "url": "https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Soy Nayarita",
+      "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
     },
     {
       "added_at": "2022-12-05 23:10:14",

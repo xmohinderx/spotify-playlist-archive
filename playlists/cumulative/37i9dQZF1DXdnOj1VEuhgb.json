@@ -1153,6 +1153,32 @@
     },
     {
       "album": {
+        "name": "YALA DEDI YALAMA",
+        "url": "https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7"
+      },
+      "artists": [
+        {
+          "name": "yungcihad",
+          "url": "https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d"
+        },
+        {
+          "name": "Qimp",
+          "url": "https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9"
+        },
+        {
+          "name": "SWIRF",
+          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "YALA DEDI YALAMA",
+      "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
+    },
+    {
+      "album": {
         "name": "C5MODE",
         "url": "https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu"
       },

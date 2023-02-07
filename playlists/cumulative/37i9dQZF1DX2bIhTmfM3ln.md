@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-184 songs - 9 hr 15 min
+185 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-01-20 |
 | [Wedding Ring](https://open.spotify.com/track/2GTSiA8p1PLsArt4PCJJ5a) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Wedding Ring](https://open.spotify.com/album/0zpZR5u7gzRiIEtLQ3rVui) | 3:01 | 2022-07-07 | 2022-08-14 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 |  |
-| [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-09 |  |
+| [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-09 | 2023-02-07 |
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
 | [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 | 2022-11-29 |
 | [WINNER](https://open.spotify.com/track/2OiYtmHf9LWj7xaxjg09rA) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [What A Time To Bee Alive](https://open.spotify.com/album/362skm7l6Vuafp2JwJdqIL) | 2:53 | 2022-11-04 | 2023-01-20 |
@@ -190,6 +190,7 @@
 | [Yaa Asantewaa \(feat\. Frenna\)](https://open.spotify.com/track/6NGXW92wizzbj2aHI2ZpPT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:12 | 2022-07-21 | 2022-08-30 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-27 |
+| [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-01-13 |  |
 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 | 2022-02-11 | 2022-08-07 |
 | [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-21 | 2023-01-20 |
 

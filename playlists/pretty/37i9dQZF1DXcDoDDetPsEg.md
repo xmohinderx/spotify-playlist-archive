@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,374 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,342 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 2 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
-| 3 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 |
-| 4 | [Dave Flow](https://open.spotify.com/track/5ajPDIvcDgbg0THed3G8To) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Dave Flow](https://open.spotify.com/album/4C5NX9Ihp0F1z5HQ7iHR2P) | 3:38 |
-| 5 | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 |
+| 1 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
+| 2 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 |
+| 3 | [Dave Flow](https://open.spotify.com/track/5ajPDIvcDgbg0THed3G8To) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Dave Flow](https://open.spotify.com/album/4C5NX9Ihp0F1z5HQ7iHR2P) | 3:38 |
+| 4 | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 |
+| 5 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 6 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 |
 | 7 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
-| 8 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
-| 9 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 |
+| 8 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 |
+| 9 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 | 10 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 |
 | 11 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 |
 | 12 | [Soldier \(feat\. Tion Wayne\)](https://open.spotify.com/track/54PIzfYXuwLwRklIMNhQ1t) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Soldier \(feat\. Tion Wayne\)](https://open.spotify.com/album/04ZtNp3g6UDAZttdhge7AC) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 49 | [Prague](https://open.spotify.com/track/5wv5S85hL6ZWSglUvBESMJ) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Prague](https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC) | 3:07 |
 | 50 | [No Sleep](https://open.spotify.com/track/3jIH50Mi1ch3XtHvXcAPtn) | [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [No Sleep](https://open.spotify.com/album/4HEGO2kaQCPHJ0iMNBaMOz) | 3:05 |
 
-Snapshot ID: `MTY3NTQxNzgwMSwwMDAwMDAwMGVlMDdiYzgyMGU0MGRiZGEzYzU4NjJlNTFjODRhNGEx`
+Snapshot ID: `MTY3NTY5NTMxMCwwMDAwMDAwMDZhODc5MDIyY2UzMThjYjlkYWU4MzQ2MjA1N2ZmNWJj`

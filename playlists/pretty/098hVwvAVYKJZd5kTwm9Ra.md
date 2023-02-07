@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 ### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
-> Listen to Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from Travis Tritt, Hall &amp; Oates, Luke Combs, Bruce Springsteen, and more!
+> Listen to Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from AC/DC, Kenny Loggins, Rick Springfield, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 61,071 likes - 183 songs - 12 hr 12 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 61,197 likes - 183 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 182 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 183 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 
-Snapshot ID: `ODIxLGU1ZGVjN2UwMzAzNGI0YjQ2ZGY1ODVlNjQ4ZmUwNDk5MzEzYzgwYzg=`
+Snapshot ID: `ODIyLDA3ODFmNzk0MmQwYjhlNTE0NjBkODVmMGU0NThlM2QxM2M2N2EwZjM=`

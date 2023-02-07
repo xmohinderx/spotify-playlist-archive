@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 32982,
+  "num_followers": 33078,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDAxOTk5M2E0MjU4YjdmN2MxNTJhZmM4M2VlMDRhNjFh",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDcyNGRhNDczZmJmMmRlM2IzZTg5ZWY5ZDMxOGVkNjk3",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -215,22 +231,6 @@
       "duration_ms": 194666,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232160,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 137400,
       "name": "Rock 'n' Roll High School - 2002 Remaster",
       "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-01-10 21:04:09",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "Don't Turn Away",
         "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 151106,
       "name": "We Got The Beat - 2011 Remaster",
       "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126453,
-      "name": "Rockaway Beach - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
     },
     {
       "added_at": "2021-04-20 17:48:20",

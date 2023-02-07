@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 222333,
+  "num_followers": 222745,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMDNjNDc2Mjg2MzhkYzk2NmJiOWNhNzRmZDdhMTYyMjA5",
+  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMGRhZjdlZWQyNzYyOGFmODYxMjljODUzNDY5NGJiOWY2",
   "tracks": [
     {
       "added_at": "2023-01-24 17:53:43",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Free Nationals",
+        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 193740,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -231,30 +251,6 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Slide (feat. Frank Ocean & Migos)",
-        "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Slide (feat. Frank Ocean & Migos)",
-      "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -279,42 +275,26 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "Slide (feat. Frank Ocean & Migos)",
+        "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Free Nationals",
-        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
-      },
-      "artists": [
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         },
         {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 193740,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
+      "duration_ms": 230813,
+      "name": "Slide (feat. Frank Ocean & Migos)",
+      "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -347,6 +327,26 @@
       "duration_ms": 176760,
       "name": "Baby Powder",
       "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -399,26 +399,6 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -487,6 +467,26 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Think About Things",
-        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
-      },
-      "artists": [
-        {
-          "name": "Da\u00f0i Freyr",
-          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "Think About Things",
-      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Keeping Me Under",
         "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Think About Things",
+        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "Think About Things",
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Drive and Disconnect",
-      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Electric U",
         "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Drive and Disconnect",
+      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190153,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 246266,
       "name": "Peaceful Life",
       "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Marbled",
         "url": "https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 217777,
       "name": "Sex n' Drugs",
       "url": "https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Electric Photograph",
         "url": "https://open.spotify.com/album/0yCpeH8KWCQYACEAc4qk2u"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Heybb!",
         "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
       },
@@ -1563,22 +1563,18 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "YoSoyMatt (feat. Hermanu)",
-        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Hermanu",
-          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 237600,
-      "name": "YoSoyMatt (feat. Hermanu)",
-      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1599,18 +1595,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "YoSoyMatt (feat. Hermanu)",
+        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Hermanu",
+          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
         }
       ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+      "duration_ms": 237600,
+      "name": "YoSoyMatt (feat. Hermanu)",
+      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2023-01-24 17:53:43",

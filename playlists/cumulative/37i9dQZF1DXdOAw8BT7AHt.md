@@ -2,17 +2,18 @@
 
 ### [The Punk List](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best in new punk rock music\. Cover: Sleaford Mods
+> The best in new punk rock music\. Cover: Grandma's House
 
-90 songs - 4 hr 33 min
+93 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 | 2023-02-06 |  |
 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 | 2022-12-02 |  |
 | [6L GTR](https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 2:05 | 2022-12-02 |  |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-12-02 |  |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-12-02 |  |
-| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 |  |
+| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 | 2023-02-07 |
 | [Always Lose](https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Always Lose](https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI) | 3:07 | 2022-12-02 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 |  |
@@ -31,12 +32,14 @@
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 |  |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 |  |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-12-02 | 2023-02-03 |
+| [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-12-02 |  |
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-12-02 |  |
 | [Empathy My Ass](https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy My Ass](https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ) | 3:02 | 2023-01-09 | 2023-01-29 |
+| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-06 |  |
 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 | 2023-01-20 |  |
 | [Found](https://open.spotify.com/track/5otlV876xC9h8VjfBHgb0g) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Found](https://open.spotify.com/album/7KKw0c6mIDXedHDn7HJtEB) | 3:49 | 2022-12-02 | 2023-01-19 |
-| [Friendzone](https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Friendzone](https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ) | 3:10 | 2022-12-02 |  |
+| [Friendzone](https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Friendzone](https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ) | 3:10 | 2022-12-02 | 2023-02-07 |
 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 | 2022-12-02 |  |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-12-02 |  |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-12-02 |  |
@@ -47,7 +50,7 @@
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-12-02 |  |
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-12-02 |  |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 |  |
-| [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 |  |
+| [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 | 2023-02-07 |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-12-02 |  |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 |  |
 | [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-12-02 |  |

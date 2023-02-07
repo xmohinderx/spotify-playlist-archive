@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-196 songs - 12 hr 1 min
+197 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 | 2023-01-13 | 2023-01-29 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-06-20 |  |
 | [I Don’t Lie \(Feat\. GIRIBOY\)](https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:36 | 2022-07-04 | 2022-12-27 |
+| [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-25 |  |
 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 | 2022-06-20 | 2022-07-29 |
 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 | 2022-06-20 | 2022-07-27 |
 | [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2022-06-20 | 2022-07-29 |
@@ -175,7 +176,7 @@
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2022-07-04 | 2022-08-14 |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-07-13 | 2022-07-21 |
 | [Umbrella](https://open.spotify.com/track/4DbVMZMVDaPgbm3ODxtOO6) | [H&D](https://open.spotify.com/artist/7lHJGLY9oGWjH6j05BLnt7) | [Umbrella](https://open.spotify.com/album/6nj3I1yqzTLd8HB4AgRzqq) | 0:29 | 2022-06-20 | 2022-07-02 |
-| [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 |  |
+| [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2023-02-07 |
 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love, Pt\. 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 | 2022-07-22 |  |
 | [WA\-R\-R](https://open.spotify.com/track/4eAaNoxM3JjlHent49dHxd) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/2g4L424iyiQschBO6pHL8i) | 4:32 | 2022-06-20 | 2022-07-29 |
 | [Wait](https://open.spotify.com/track/3vtbkIV0bc9BpnqqFja6Mm) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ayul](https://open.spotify.com/artist/3UbFygd1hcmMoBPWYLMqOW) | [Wait](https://open.spotify.com/album/06KWwnrT1BbH4IxKFmVwVn) | 2:50 | 2022-06-20 | 2022-07-29 |

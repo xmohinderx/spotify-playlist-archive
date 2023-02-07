@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38902,
+  "num_followers": 38909,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDVlNmNlODQ1Y2EyYzBlOGViOTExOTAxMjZiYjliZTJk",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGJmY2JkOGE2OTM2MzBjODM1MTQ5MDk0YWZlZTJlMTQx",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -655,38 +655,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Breathe (feat. RZA) [Ren\u00e9 LaVice Dark D&B Remix]",
         "url": "https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 203164,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -811,34 +811,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -867,18 +851,34 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Money Moves (The Remixes)",
         "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     }
   ],
   "unique_name": "Jump Up!",

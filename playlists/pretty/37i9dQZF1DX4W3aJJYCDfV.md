@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from RAYE \(pictured\), Anne\-Marie, Ellie Goulding and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,646 likes - 118 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,659 likes - 118 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

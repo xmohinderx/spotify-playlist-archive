@@ -5725,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "For v\u00e5r jord",
+        "url": "https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156189,
+      "name": "For v\u00e5r jord",
+      "url": "https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt"
+    },
+    {
+      "album": {
         "name": "Forget Me",
         "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
       },
@@ -6104,6 +6126,36 @@
       "duration_ms": 128284,
       "name": "Gatebil",
       "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
+    },
+    {
+      "album": {
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/6h8a7k9S4vxlYCASDSKFUk"
+      },
+      "artists": [
+        {
+          "name": "Umami Tsunami",
+          "url": "https://open.spotify.com/artist/03nD1tllTpmpDUtJ4QXV55"
+        },
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        },
+        {
+          "name": "Magnus Winjum",
+          "url": "https://open.spotify.com/artist/6xGnBay95K9YMEuzSyQScy"
+        },
+        {
+          "name": "Kristian Haux",
+          "url": "https://open.spotify.com/artist/6edwjxDW4B5ZO7Sh7m6W7t"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180987,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/0FL59eOAc25svWTGqcYj62"
     },
     {
       "album": {
@@ -8482,7 +8534,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
@@ -13780,7 +13832,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"

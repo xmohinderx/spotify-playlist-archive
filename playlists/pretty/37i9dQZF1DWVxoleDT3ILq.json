@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico & Goyo Degano",
-  "num_followers": 127381,
+  "num_followers": 127390,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDdkMjY4ZWU1NTE2OTRlNWM1OGJhZjhlYjdjYWQzNTYx",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGNmNWQ1ODg1NWNlNzgxZmExZmVmYjJjOWI3OTJkMWY4",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -363,22 +363,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Herida",
-        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
       },
       "artists": [
         {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Te lo pido por favor",
-      "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -399,22 +395,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "La Sombra del Olvido",
         "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 171390,
       "name": "La Sombra del Olvido",
       "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Herida",
+        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Te lo pido por favor",
+      "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "tu voz en mis aud\u00edfonos",
-        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 193786,
-      "name": "tu voz en mis aud\u00edfonos",
-      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -631,6 +631,54 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "tu voz en mis aud\u00edfonos",
+        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "tu voz en mis aud\u00edfonos",
+      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -691,38 +739,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -735,38 +751,6 @@
       "duration_ms": 201123,
       "name": "Esta vislumbra",
       "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "intento 2: pi\u00e9nsalo bien",
-        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 224604,
-      "name": "intento 2: pi\u00e9nsalo bien",
-      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx"
-      },
-      "artists": [
-        {
-          "name": "I.O.",
-          "url": "https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf"
-        }
-      ],
-      "duration_ms": 235277,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "I.O.",
+          "url": "https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf"
         }
       ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+      "duration_ms": 235277,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "intento 2: pi\u00e9nsalo bien",
+        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 224604,
+      "name": "intento 2: pi\u00e9nsalo bien",
+      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -843,50 +843,6 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "entre las sombras,",
-        "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        },
-        {
-          "name": "Martina Lluvias",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
-        },
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        },
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 270279,
-      "name": "entre las sombras,",
-      "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "formas de volver a casa",
-        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "formas de volver a casa",
-      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -943,34 +899,30 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
+        "name": "entre las sombras,",
+        "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 193689,
-      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
-      },
-      "artists": [
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 219031,
-      "name": "Tenemos que cocinar",
-      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+      "duration_ms": 270279,
+      "name": "entre las sombras,",
+      "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -991,6 +943,38 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 219031,
+      "name": "Tenemos que cocinar",
+      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 193689,
+      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "despacito",
         "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 193002,
       "name": "despacito",
       "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "formas de volver a casa",
+        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "formas de volver a casa",
+      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "El Encanto Del Fuego",
         "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 241500,
       "name": "Las Piedras",
       "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "As\u00ed Te Soy",
-        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 221537,
-      "name": "As\u00ed Te Soy",
-      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Los chicos est\u00e1n tristes",
-        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Los chicos est\u00e1n tristes",
-      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 180500,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Los chicos est\u00e1n tristes",
+        "url": "https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Los chicos est\u00e1n tristes",
+      "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ya Hablamos de Esto",
-        "url": "https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f"
-      },
-      "artists": [
-        {
-          "name": "Aerobot",
-          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
-        },
-        {
-          "name": "Amelia",
-          "url": "https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "Ya Hablamos de Esto",
-      "url": "https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Fuerzas Que Retroceden",
         "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
       },
@@ -1371,18 +1351,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Las Vueltas",
-        "url": "https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW"
+        "name": "Ya Hablamos de Esto",
+        "url": "https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Aerobot",
+          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
+        },
+        {
+          "name": "Amelia",
+          "url": "https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ"
         }
       ],
-      "duration_ms": 230541,
-      "name": "Las Vueltas",
-      "url": "https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk"
+      "duration_ms": 202414,
+      "name": "Ya Hablamos de Esto",
+      "url": "https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 183719,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Las Vueltas",
+        "url": "https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 230541,
+      "name": "Las Vueltas",
+      "url": "https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk"
     }
   ],
   "unique_name": "Indie Chile",

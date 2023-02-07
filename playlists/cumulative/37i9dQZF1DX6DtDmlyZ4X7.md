@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-567 songs - 1 day 0 hr 50 min
+568 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 |  |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 |  |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 |  |
-| [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2021-12-07 |  |
+| [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2021-12-07 | 2023-02-07 |
 | [Charming Spring](https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Charming Spring](https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx) | 2:08 | 2021-12-07 | 2022-09-24 |
 | [Childhood Memories](https://open.spotify.com/track/7J1YYJryHQh6ocCgIZpjk3) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Daydream](https://open.spotify.com/album/5I1UPuEInRdfp2rpP9lFam) | 2:25 | 2021-12-07 | 2022-02-16 |
 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 | 2022-03-01 | 2022-06-08 |
@@ -339,6 +339,7 @@
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 |  |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 |  |
+| [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-07 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-07 | 2022-12-24 |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 | 2022-06-08 |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-02-01 | 2022-06-08 |

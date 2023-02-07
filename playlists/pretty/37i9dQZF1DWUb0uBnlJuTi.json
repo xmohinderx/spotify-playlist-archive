@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 246792,
+  "num_followers": 247077,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGU2MzcwZjNhNjkwMGVjNTk4ZTdmYzE5Zjk3MzliNDNh",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDJjYjY3MjhjZmE4OTgyNWJmODlkNWI3ZmUxMTI1MzU3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
-      },
-      "artists": [
-        {
-          "name": "Billy Cobham",
-          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
-        }
-      ],
-      "duration_ms": 396666,
-      "name": "Red Baron",
-      "url": "https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "It Is Finished (Expanded Edition)",
         "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 320426,
       "name": "Funkier Than a Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+        }
+      ],
+      "duration_ms": 396666,
+      "name": "Red Baron",
+      "url": "https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Out Louder",
-        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
-      },
-      "artists": [
-        {
-          "name": "Medeski Scofield Martin & Wood",
-          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Little Walter Rides Again",
-      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Chardonnay Kisses",
@@ -483,6 +467,22 @@
       "duration_ms": 152195,
       "name": "Chardonnay Kisses",
       "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Out Louder",
+        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
+      },
+      "artists": [
+        {
+          "name": "Medeski Scofield Martin & Wood",
+          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Little Walter Rides Again",
+      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 299889,
-      "name": "Shuffle Bubble",
-      "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "Jimmy's Groove",
@@ -599,6 +583,22 @@
       "duration_ms": 369533,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "duration_ms": 299889,
+      "name": "Shuffle Bubble",
+      "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "A Go Go",
+        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 406960,
+      "name": "Chank",
+      "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Slow Change",
@@ -767,22 +783,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "A Go Go",
-        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 406960,
-      "name": "Chank",
-      "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "The Best of the Light of the World",
         "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 271373,
       "name": "London Town",
       "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Old World Monkeys",
-        "url": "https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM"
-      },
-      "artists": [
-        {
-          "name": "The Seven Ups",
-          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
-        }
-      ],
-      "duration_ms": 283220,
-      "name": "Old World Monkeys",
-      "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -851,22 +835,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Funky Snakefoot",
-        "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
-      },
-      "artists": [
-        {
-          "name": "Alphonse Mouzon",
-          "url": "https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Funky Snakefoot",
-      "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Harlem Bush Music - Uhuru",
         "url": "https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D"
       },
@@ -881,20 +849,36 @@
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+        "name": "Funky Snakefoot",
+        "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "Alphonse Mouzon",
+          "url": "https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk"
         }
       ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+      "duration_ms": 225906,
+      "name": "Funky Snakefoot",
+      "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Old World Monkeys",
+        "url": "https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM"
+      },
+      "artists": [
+        {
+          "name": "The Seven Ups",
+          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
+        }
+      ],
+      "duration_ms": 283220,
+      "name": "Old World Monkeys",
+      "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -911,6 +895,22 @@
       "duration_ms": 404773,
       "name": "The Message Continues",
       "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Placebo Years 1971 - 1974",
-        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
-      },
-      "artists": [
-        {
-          "name": "Marc Moulin",
-          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Humpty Dumpty - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1095,6 +1079,22 @@
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Placebo Years 1971 - 1974",
+        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
+      },
+      "artists": [
+        {
+          "name": "Marc Moulin",
+          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Humpty Dumpty - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/7tZwLOlEKJkeaptUGyy7IL"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 160450,
-      "name": "Cold As Weiss",
-      "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Thrust",
@@ -1213,6 +1197,22 @@
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/7tZwLOlEKJkeaptUGyy7IL"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 160450,
+      "name": "Cold As Weiss",
+      "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
+    },
+    {
       "added_at": "2021-11-26 05:01:00",
       "album": {
         "name": "Refractions",
@@ -1227,22 +1227,6 @@
       "duration_ms": 217118,
       "name": "Refractions",
       "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 250451,
       "name": "Touchy - Tiny Room Sessions",
       "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1401,6 +1401,34 @@
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
     },
     {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Funky Times",
+        "url": "https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX"
+      },
+      "artists": [
+        {
+          "name": "Funky Times",
+          "url": "https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV"
+        },
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        },
+        {
+          "name": "Adrian Bauer",
+          "url": "https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1"
+        },
+        {
+          "name": "Andr\u00e9 Haaf",
+          "url": "https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg"
+        }
+      ],
+      "duration_ms": 212263,
+      "name": "Souly",
+      "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Center Stage",
@@ -1445,50 +1473,6 @@
       "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Funky Times",
-        "url": "https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX"
-      },
-      "artists": [
-        {
-          "name": "Funky Times",
-          "url": "https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV"
-        },
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        },
-        {
-          "name": "Adrian Bauer",
-          "url": "https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1"
-        },
-        {
-          "name": "Andr\u00e9 Haaf",
-          "url": "https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg"
-        }
-      ],
-      "duration_ms": 212263,
-      "name": "Souly",
-      "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Pigna",
-        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        }
-      ],
-      "duration_ms": 277867,
-      "name": "Midnight Getaway",
-      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -1507,6 +1491,22 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Pigna",
+        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        }
+      ],
+      "duration_ms": 277867,
+      "name": "Midnight Getaway",
+      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1541,20 +1541,20 @@
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "New Ammo",
-        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co"
       },
       "artists": [
         {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Sure Shot",
-      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
+      "duration_ms": 192999,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     }
   ],
   "unique_name": "Jazz-Funk",

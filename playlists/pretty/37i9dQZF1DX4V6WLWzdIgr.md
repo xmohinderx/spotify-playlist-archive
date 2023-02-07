@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Wes kadung sayang lalu ditinggal rabi 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,722 likes - 34 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,986 likes - 34 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

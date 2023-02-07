@@ -504,7 +504,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 282680,
       "name": "Barcarolle",
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
@@ -880,6 +880,24 @@
       "duration_ms": 249652,
       "name": "Childhood Dream",
       "url": "https://open.spotify.com/track/0hjlsV7bnM7HLPuIoaMfkm"
+    },
+    {
+      "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305287,
+      "name": "Chrome Country",
+      "url": "https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ"
     },
     {
       "album": {

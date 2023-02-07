@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,072 songs - 2 day 22 hr 19 min
+1,073 songs - 2 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Usotsuki](https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Usotsuki](https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia) | 3:37 | 2023-01-10 |  |
 | [Uzu](https://open.spotify.com/track/08GT2hFx15OtWBQ1s0PJNN) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Uzu](https://open.spotify.com/album/2CUfYSaTdq99eLf6MQOEQS) | 3:46 | 2022-05-31 | 2022-06-09 |
 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 | 2022-05-29 |  |
+| [VITA](https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [VITA](https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE) | 5:06 | 2023-02-02 |  |
 | [VL](https://open.spotify.com/track/2JhIVaurcN0rafi4UR6TH3) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [VL](https://open.spotify.com/album/7AoX5wN5B336nAV9S8gOQM) | 3:03 | 2022-06-21 | 2022-06-29 |
 | [Voice](https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Voice](https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs) | 4:41 | 2022-05-29 | 2022-10-28 |
 | [VOWS](https://open.spotify.com/track/5PfcyDudU3anlUOx7dJ9zB) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [VOWS](https://open.spotify.com/album/53bq6nzzOgex7M18gDwKTO) | 4:04 | 2022-06-14 | 2022-07-13 |
@@ -740,7 +741,7 @@
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
-| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 |  |
+| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-02-07 |
 | [トワイライト](https://open.spotify.com/track/7LCGgXpw27AK8r7CiPhG0l) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [トワイライト](https://open.spotify.com/album/5r8Bx5ODvdb0URnGQybG8d) | 4:46 | 2022-06-21 | 2022-06-29 |
 | [ナイトドライブ](https://open.spotify.com/track/6ZBFeY13nAPGK3kHWqWQRw) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [was@bi shock](https://open.spotify.com/artist/5ztp9ZNHZtl7nWs8h5hQHK) | [ナイトドライブ](https://open.spotify.com/album/3f5hpxx3a324W1t3G8tnUY) | 3:16 | 2022-06-02 | 2022-06-24 |
 | [ニンゲンカンケイ](https://open.spotify.com/track/3gbIiBR3kpDBpKsuCA1uoC) | [Hinako Miura](https://open.spotify.com/artist/4OCKeb3ZY4bVq4tC9Jz2TM) | [ニンゲンカンケイ](https://open.spotify.com/album/3NAJfnQdl0qFW99U7EPo3m) | 3:27 | 2022-06-30 | 2022-07-06 |

@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 51728,
+  "num_followers": 51813,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDUxNCwwMDAwMDAwMGFiMTIxY2JmOTMxZWRjZWNkNzFlMDk5NzBiODY0Y2Iw",
+  "snapshot_id": "MTY3NTQ0MDUxNCwwMDAwMDAwMDEzMzgwNzkzYmU1OWM1NTkyZjA2ZGEyOWMwYzM3Yzlm",
   "tracks": [
     {
       "added_at": "2023-02-03 16:08:34",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 268346,
+      "name": "Diving Duck Blues",
+      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -375,42 +395,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 268346,
-      "name": "Diving Duck Blues",
-      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "Booker's Guitar",
         "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
+        "name": "Giant Steps/De Old Folks At Home",
+        "url": "https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Fishin' Blues",
+      "url": "https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "Giant Steps/De Old Folks At Home",
-        "url": "https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Fishin' Blues",
-      "url": "https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Blues Up The River",
+      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Blues Up The River",
-      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 294032,
+      "name": "Walking My Troubles Away",
+      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
         "name": "Been Worryin'",
         "url": "https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 182761,
       "name": "Been Worryin'",
       "url": "https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 294032,
-      "name": "Walking My Troubles Away",
-      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 253066,
       "name": "Cherry Ball Blues",
       "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1347,6 +1347,22 @@
       "duration_ms": 178276,
       "name": "Great God Almighty - Demo, Summer 2018",
       "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1467,22 +1483,6 @@
       "duration_ms": 261000,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        },
-        {
-          "name": "Roberto Luti",
-          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
-        }
-      ],
-      "duration_ms": 307358,
-      "name": "Lissa's Song",
-      "url": "https://open.spotify.com/track/4iNxo2nENNlHos9KkwPYg4"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1559,6 +1539,26 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        },
+        {
+          "name": "Roberto Luti",
+          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+        }
+      ],
+      "duration_ms": 307358,
+      "name": "Lissa's Song",
+      "url": "https://open.spotify.com/track/4iNxo2nENNlHos9KkwPYg4"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "I'm Satisfied",
-      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
+      "duration_ms": 175933,
+      "name": "I'm Satisfied",
+      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1639,6 +1623,22 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "The World Keep on Turning",
-      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "Make it Talk",
         "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 197386,
       "name": "Make it Talk",
       "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "The World Keep on Turning",
+      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "Mailman, Bring Me No More Blues",
-        "url": "https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz"
-      },
-      "artists": [
-        {
-          "name": "432 UK",
-          "url": "https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo"
-        }
-      ],
-      "duration_ms": 153957,
-      "name": "Mailman, Bring Me No More Blues",
-      "url": "https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "So Far so Good",
         "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 264573,
       "name": "I've Got the Blues This Morning",
       "url": "https://open.spotify.com/track/6M2kGctUec8qSlRX7WEHMm"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "Mailman, Bring Me No More Blues",
+        "url": "https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz"
+      },
+      "artists": [
+        {
+          "name": "432 UK",
+          "url": "https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo"
+        }
+      ],
+      "duration_ms": 153957,
+      "name": "Mailman, Bring Me No More Blues",
+      "url": "https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR"
     },
     {
       "added_at": "2023-02-03 16:08:34",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-02-03 16:08:34",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Everyday I Have the Blues",
-      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
-    },
-    {
-      "added_at": "2023-02-03 16:08:34",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 118466,
       "name": "Gambler's Blues",
       "url": "https://open.spotify.com/track/3d2B9Hdzj1kGVFDfPTz3Vp"
+    },
+    {
+      "added_at": "2023-02-03 16:08:34",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Everyday I Have the Blues",
+      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
     }
   ],
   "unique_name": "Morning Blues",

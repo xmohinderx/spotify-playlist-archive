@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest local and global tracks in Pakistan. Cover - Asim Azhar",
+  "description": "The hottest local and global tracks in Pakistan. Cover - Kaifi Khalil",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 212912,
       "name": "Aadat",
       "url": "https://open.spotify.com/track/5EsooZeqyyqi3P1KhSKmoo"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 173714,
       "name": "Bach Ke",
       "url": "https://open.spotify.com/track/5Yq28cxRO9m7mTxsUYY4lA"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 350011,
       "name": "Galliyan Returns (From \"Ek Villain Returns\")",
       "url": "https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 154080,
       "name": "Her",
       "url": "https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 254832,
       "name": "Ibadat ( Ishq-E-Laa)",
       "url": "https://open.spotify.com/track/0stRmPesziVpBfMobbISrE"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 195616,
       "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
       "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 246379,
       "name": "KYUN",
       "url": "https://open.spotify.com/track/6nw0sXQqDNCQx2IN6ZyJqX"
@@ -1656,10 +1656,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 122608,
       "name": "Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix",
       "url": "https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
+      },
+      "artists": [
+        {
+          "name": "Sharn",
+          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        },
+        {
+          "name": "The Paul",
+          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203048,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
     },
     {
       "album": {
@@ -1740,7 +1766,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 287573,
       "name": "Nasha (Equals Sessions)",
       "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
@@ -1762,7 +1788,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 227611,
       "name": "Neray Neray Vas",
       "url": "https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM"
@@ -1986,7 +2012,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 351480,
       "name": "Phir Milenge",
       "url": "https://open.spotify.com/track/3yBbbbZNbo4ymn99Y2zoCj"
@@ -2044,7 +2070,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 169253,
       "name": "Pyar Hua Tha",
       "url": "https://open.spotify.com/track/3HL1yB8OhTDrsMRJFGYeLy"
@@ -2176,7 +2202,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 197142,
       "name": "Safar",
       "url": "https://open.spotify.com/track/3cjA9xteIeOj82os8oSo4i"
@@ -2198,7 +2224,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 236674,
       "name": "Sajan Das Na",
       "url": "https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE"
@@ -2388,7 +2414,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/3bwf3lKuDOi0uVVo3MKdHS"
@@ -2505,6 +2531,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/7fwQ6zC1nnMKa1zZR8dv85"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277946,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/3nKzXFwP1bDIeH8uy7Daqv"
+    },
+    {
+      "album": {
         "name": "Tauseep X Urdu Mashup",
         "url": "https://open.spotify.com/album/783PFiugJDBdssvYfJVCez"
       },
@@ -2534,7 +2586,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 331895,
       "name": "Tere Bin (Original Score)",
       "url": "https://open.spotify.com/track/0NzKqxxriSFemELLGwNR1r"
@@ -2578,7 +2630,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 307976,
       "name": "Thagyan",
       "url": "https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0"
@@ -2636,7 +2688,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"
@@ -2706,7 +2758,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 252972,
       "name": "Tu Kahan",
       "url": "https://open.spotify.com/track/3t61rT4gCPht1hJRe4tcPv"
@@ -2728,7 +2780,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -2750,7 +2802,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
@@ -2860,7 +2912,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 175999,
       "name": "White Brown Black",
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
@@ -2938,7 +2990,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 168439,
       "name": "Why Not Meri Jaan",
       "url": "https://open.spotify.com/track/2sKGFDYcN7mJ4S7xQHjCBr"

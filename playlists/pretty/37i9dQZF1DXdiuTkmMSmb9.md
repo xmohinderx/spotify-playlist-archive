@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Craig Isto
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,703 likes - 73 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,732 likes - 73 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
-| 2 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 3 | [Cant Get Enough](https://open.spotify.com/track/0IehPwtATgB4Ibb2xDRIcE) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9) | [Cant Get Enough](https://open.spotify.com/album/4fzRpSBTZ7HDroMgV5whBj) | 2:02 |
+| 1 | [Cant Get Enough](https://open.spotify.com/track/0IehPwtATgB4Ibb2xDRIcE) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9) | [Cant Get Enough](https://open.spotify.com/album/4fzRpSBTZ7HDroMgV5whBj) | 2:02 |
+| 2 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
+| 3 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 | 4 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 5 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 6 | [OSHEY](https://open.spotify.com/track/1zRY2bVIDw73tMnkdKdQeL) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP) | [OSHEY](https://open.spotify.com/album/2uaFc5Zvs5T69cvf2C0GY1) | 2:35 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 72 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 |
 | 73 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
 
-Snapshot ID: `MTY3NTM0ODg3NywwMDAwMDAwMDExYWVkZWNhMDMwMjQyZGJkZGQ3MThhN2YzOTZlZjg2`
+Snapshot ID: `MTY3NTY1NzEwMiwwMDAwMDAwMDllM2Y0NWZiMjYzMzg1ZDQwODg0NmZmMjNiOTFhNDFj`

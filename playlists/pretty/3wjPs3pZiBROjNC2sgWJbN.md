@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 ### [Top Trending: R&B / Soul](https://open.spotify.com/playlist/3wjPs3pZiBROjNC2sgWJbN)
 
-> A collection of R&amp;B jams and viral trends featuring Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Ari Lennox
+> A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Coco Jones
 
-[Digster](https://open.spotify.com/user/digster.fm) - 8,090 likes - 50 songs - 2 hr 52 min
+[Digster](https://open.spotify.com/user/digster.fm) - 8,091 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 1 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 |
 | 2 | [Nobody's Business](https://open.spotify.com/track/0qJWmTaT1qvCq0brgx8k2P) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:36 |
-| 3 | [Mr\. Wrong](https://open.spotify.com/track/4rdPNHlIYUbSfa4iuQ7ccz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 4:01 |
-| 4 | [Plan B](https://open.spotify.com/track/2IaaHpZqoU7WTug6UXlR0f) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 3:15 |
-| 5 | [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 |
-| 6 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
-| 7 | [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 |
-| 8 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
-| 9 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 |
-| 10 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
+| 3 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
+| 4 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
+| 5 | [Plan B](https://open.spotify.com/track/2IaaHpZqoU7WTug6UXlR0f) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 3:15 |
+| 6 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 7 | [Mr\. Wrong](https://open.spotify.com/track/4rdPNHlIYUbSfa4iuQ7ccz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 4:01 |
+| 8 | [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 |
+| 9 | [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 |
+| 10 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
 | 11 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 12 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 |
 | 13 | [Human Nature](https://open.spotify.com/track/227BnZAC6IhqmGh53dOaVd) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 | 49 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
 | 50 | [Keeps On Fallin’ \(with Ella Mai\)](https://open.spotify.com/track/5bmtMLseYdVHRIMUSRT4YD) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 2:55 |
 
-Snapshot ID: `MTkzMCw0ODVlMzhkNTczYTA4ODZlZDlkODhiMDgzNzIxZjFjOTk0OGI4Yzdl`
+Snapshot ID: `MTkzNyxmOGUxMTk0ZDg0OGFlNmRkOThkMjU1NzRiZmI4NGIwZTJjZWFmODhk`

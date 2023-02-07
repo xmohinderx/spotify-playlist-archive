@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Jass Reyes en portada.",
-  "num_followers": 92955,
+  "num_followers": 93008,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1MjkzMywwMDAwMDAwMGFhMDJjMzFlMDY3MjMzZmEzNmRkMThlNzRlYzU0NjUw",
+  "snapshot_id": "MTY3NDc1MjkzMywwMDAwMDAwMDFjYTZmNWNkMzRkMzc2NzgyOWJlYmQwMGRhOGE3NWMz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:23:34",
@@ -133,22 +133,6 @@
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
-      "added_at": "2023-01-20 17:40:34",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
       "added_at": "2023-01-03 16:54:26",
       "album": {
         "name": "YESSIE",
@@ -163,6 +147,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2023-01-20 17:40:34",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -219,6 +219,26 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2022-11-25 00:12:45",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Emy Soul",
+          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
+        }
+      ],
+      "duration_ms": 191849,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -291,42 +311,6 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 183912,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu"
-    },
-    {
-      "added_at": "2022-11-25 00:12:45",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Emy Soul",
-          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
-        }
-      ],
-      "duration_ms": 191849,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 183912,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -395,38 +395,6 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -519,6 +487,22 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -661,30 +661,6 @@
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
     },
     {
-      "added_at": "2023-01-17 16:47:47",
-      "album": {
-        "name": "Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
-    },
-    {
       "added_at": "2022-11-24 19:53:55",
       "album": {
         "name": "Tus Ojos Me Hablaron",
@@ -707,6 +683,30 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2023-01-17 16:47:47",
+      "album": {
+        "name": "Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
     },
     {
       "added_at": "2023-01-13 18:53:21",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 204327,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        },
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 204327,
-      "name": "Girasol",
-      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
     },
     {
       "added_at": "2022-11-24 19:53:55",

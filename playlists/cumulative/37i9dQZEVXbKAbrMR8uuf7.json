@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/462987xkrjslsa5QHQzImo"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214176,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/5bmlSKI9yrsuce7jyjnUFY"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
@@ -5292,7 +5310,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 137586,
       "name": "Gass Pure",
       "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -8514,7 +8532,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 151423,
       "name": "Maliante",
       "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
@@ -10448,7 +10466,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 210437,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/0RMmtgnxLjpoNS9HMeYwHd"
@@ -14339,6 +14357,28 @@
     },
     {
       "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "Persy",
+          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
+    },
+    {
+      "album": {
         "name": "Touch Your Body",
         "url": "https://open.spotify.com/album/2CmdgXCdu7yI6Vs6YKVfmp"
       },
@@ -14972,7 +15012,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

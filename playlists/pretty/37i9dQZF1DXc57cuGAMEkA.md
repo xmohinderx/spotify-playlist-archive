@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > Anne\-Marie, RAYE, KERENMI, Jonas Blue and more! Cover: Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,085 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,097 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 37925,
+  "num_followers": 37981,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDU1NDJhNWNhMDEzOGJiNzk0MGM1NGM0MDVlNTlmZDVm",
+  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMGYzODQ0M2RiMjFjMjE0ODQ2MjM2MzQ0ZDdkOGUwODVi",
   "tracks": [
     {
       "added_at": "2023-02-03 00:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -339,22 +359,6 @@
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -395,26 +399,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 191679,
       "name": "Tou Bem (feat. Lhast)",
       "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 257146,
+      "name": "300",
+      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Desconfinamento",
-        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "Desconfinamento",
-      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+        "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         }
       ],
-      "duration_ms": 257146,
-      "name": "300",
-      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -679,6 +679,42 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
@@ -711,42 +747,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 263131,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
-        }
-      ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "HEI",
         "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+      "duration_ms": 263131,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Mi\u00fada",
-        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
-      },
-      "artists": [
-        {
-          "name": "Holly Hood",
-          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "Mi\u00fada",
-      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "AZTECA",
         "url": "https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 151972,
       "name": "AZTECA",
       "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Mi\u00fada",
+        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
+      },
+      "artists": [
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "Mi\u00fada",
+      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -887,38 +903,6 @@
       "duration_ms": 226622,
       "name": "NR5",
       "url": "https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 336528,
       "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
       "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Conto",
-        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Conto",
-      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 219992,
       "name": "P\u00e3o na Mesa (feat. Richie Campbell)",
       "url": "https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "FEELING",
+        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Conto",
+        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Conto",
+      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "FEELING",
-        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 174857,
       "name": "The Cold Room - S2-E10 - Pt.1",
       "url": "https://open.spotify.com/track/1cpiaL8iQnE3BssTcp6DvV"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "\u00c9 ASSIM",
+        "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 249078,
+      "name": "\u00c9 ASSIM",
+      "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
     },
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 147820,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "\u00c9 ASSIM",
-        "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 249078,
-      "name": "\u00c9 ASSIM",
-      "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
     },
     {
       "added_at": "2023-02-03 00:00:00",

@@ -4,7 +4,7 @@
 
 > 
 
-185 songs - 11 hr 2 min
+187 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Butterfly](https://open.spotify.com/track/1GxGLSKW0HxYkvUJH8OVRd) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 4:00 | 2022-08-26 |  |
 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 | 2022-08-26 |  |
 | [Car Crash](https://open.spotify.com/track/2tlJ22iQwiO1CWBQSma23n) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Car Crash](https://open.spotify.com/album/0Ue5YoruxCJPmb8M14BeEP) | 3:07 | 2022-08-26 |  |
+| [castle in the sky](https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:56 | 2023-02-06 |  |
 | [Changes](https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/1kXtiGkGi9myC9D35lwdG5) | 2:40 | 2022-08-26 |  |
 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 | 2022-08-26 | 2023-02-04 |
 | [Comfortable](https://open.spotify.com/track/05fmLn8tNYb3ijIH2jCLPb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 2:45 | 2022-08-26 |  |
@@ -170,6 +171,7 @@
 | [Verbatim](https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 2:48 | 2022-08-26 |  |
 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 | 2022-08-26 | 2023-02-04 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-08-26 |  |
+| [wallflower](https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:50 | 2023-02-06 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-08-26 |  |
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-08-26 |  |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2022-08-26 |  |

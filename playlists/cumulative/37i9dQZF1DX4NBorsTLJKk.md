@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-143 songs - 10 hr 14 min
+144 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [今夜有雨](https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c) | [H3R3](https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML) | [今夜有雨](https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk) | 4:48 | 2022-09-05 |  |
 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 | 2021-11-22 |  |
 | [你走之后的雨季](https://open.spotify.com/track/0mx67LmeZKA8VIOnp72OrU) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [你走之后的雨季](https://open.spotify.com/album/1NOlCZsF1aXTp4UwVCYPZk) | 3:11 | 2021-11-22 | 2022-07-28 |
+| [你走之后的雨季](https://open.spotify.com/track/4J8vr8PSp5NcGjs1K8sTT1) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [你走之后的雨季](https://open.spotify.com/album/0PxczszuVunBNY7ZM08xpf) | 3:11 | 2023-01-10 |  |
 | [你走之后的雨季](https://open.spotify.com/track/5I8cBjDYjAbRgbUMxCghWs) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [你走之后的雨季](https://open.spotify.com/album/798EbbqlF0r7qH8UVifiFK) | 3:11 | 2021-11-22 | 2023-02-01 |
 | [偶陣雨](https://open.spotify.com/track/1zp5WI4qK2p4ljz1TqMlzW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/5uUQYFRUGB7T6BIK8RWVEP) | 4:23 | 2021-11-22 | 2022-07-29 |
 | [偶陣雨](https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F) | 4:26 | 2021-11-22 |  |
@@ -146,7 +147,7 @@
 | [雨的秘密](https://open.spotify.com/track/6Zx5WXpOjveqYg8EfohSiV) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫嵐同名概念專輯](https://open.spotify.com/album/7GTsezRr3lM2jSoOlj92sf) | 4:28 | 2021-11-22 | 2022-07-12 |
 | [雨眠](https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:42 | 2021-11-22 |  |
 | [雨聲街](https://open.spotify.com/track/0FTTTtUQtjG1aaBrUE2jSl) | [蔡詩蕓](https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq) | [紫外線](https://open.spotify.com/album/0gpueLrZ6YFyXbIumO3fyc) | 4:01 | 2021-11-22 | 2022-07-12 |
-| [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 | 2021-11-22 |  |
+| [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 | 2021-11-22 | 2023-02-07 |
 | [雨还是不停地落下](https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [克卜勒](https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn) | 4:49 | 2021-11-22 |  |
 | [風和日麗 下雨了](https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O) | [自然捲](https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr) | [風和日麗影音概念書](https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk) | 4:29 | 2021-11-22 | 2022-07-29 |
 | [風雨](https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [盧廣仲 Good Morning & Good Evening 小巨蛋演唱會](https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi) | 4:16 | 2021-11-22 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24757,
+  "num_followers": 24751,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGYyNDdiNGEzNDEyNDNjNjRhOTBiNmVhMDI3MTUwMTUy",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGRjZTliZGVhNTJjY2Q5MGJmNTM1NWJmNTg2NmM0YzE2",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Happy Dance",
-      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
@@ -363,6 +347,42 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "I\u2019ll Give Thanks",
         "url": "https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 199573,
       "name": "Pray It Up",
       "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 200330,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Glorify",
-      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 182043,
-      "name": "Never Gonna Let Me Go",
-      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 182043,
+      "name": "Never Gonna Let Me Go",
+      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "You Still Do",
-        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 231641,
-      "name": "You Still Do",
-      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "So Alive",
         "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 178619,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "You Still Do",
+        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 231641,
+      "name": "You Still Do",
+      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love (Remix)",
-        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 210084,
-      "name": "Love (Remix)",
-      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "20XX",
         "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
       },
@@ -1023,22 +1003,6 @@
       "duration_ms": 244032,
       "name": "Heart Stops Beating",
       "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "BRKNHRT.",
-        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 213674,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1063,6 +1027,42 @@
       "duration_ms": 245008,
       "name": "Not To Us / Good Love",
       "url": "https://open.spotify.com/track/3pR9Qyt791pr6Hf0Cv63Rh"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Love (Remix)",
+        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 210084,
+      "name": "Love (Remix)",
+      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "BRKNHRT.",
+        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 213674,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Never Have I Ever",
         "url": "https://open.spotify.com/album/4DAI16o6397wZrDloQqLYT"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 194686,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "Most High",
-      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/3ZB5Pd99GsNFKGuGjsl3kq"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 110218,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/0ul6k0oWpARwwd5WU1M7J5"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1743,22 +1743,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Shattered",
-        "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/1EcTXccHNT4N652cXI3p9r"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
         },
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"
+      "duration_ms": 182500,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0yvCs4vcwnDyqV38SKTQgz"
     }
   ],
   "unique_name": "Rejoice for Summer",

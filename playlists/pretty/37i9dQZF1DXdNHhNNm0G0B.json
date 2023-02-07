@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 68755,
+  "num_followers": 68794,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDYyNywwMDAwMDAwMGQwYjIxYjRjODZkOThiZGI0ZDQ2MmE3OTIxZjNkNmUw",
+  "snapshot_id": "MTY3NTQ0MDYyNywwMDAwMDAwMGRjNzE0NTMxYTAzYzY1MTU1N2Y2NDcxYTkzNTExNzRi",
   "tracks": [
     {
       "added_at": "2023-02-03 16:10:26",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Guitar Music",
         "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 164200,
       "name": "Tumbling Tumbleweeds",
       "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 96840,
-      "name": "Mesquite Shade",
-      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Days of Being Wild",
         "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
       },
@@ -199,22 +183,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Alberta",
-      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -227,6 +195,38 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 96840,
+      "name": "Mesquite Shade",
+      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Alberta",
+      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
         }
       ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "The Slide Guitar: Bottles, Knives & Steel",
         "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 178333,
       "name": "Guitar Rag",
       "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Presenting Blind Willie McTell",
         "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 152853,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+      "duration_ms": 188373,
+      "name": "Let Your Light Shine on Me",
+      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -547,6 +547,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -583,38 +599,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Let Your Light Shine on Me",
-      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 150941,
       "name": "Willow Witchin' (Hot Take)",
       "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 213961,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 412581,
       "name": "Sarah Anne",
       "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG"
-      },
-      "artists": [
-        {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
-        }
-      ],
-      "duration_ms": 213961,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Orange County Serenade",
         "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "Black Dog Blues",
         "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -1131,6 +1147,38 @@
       "duration_ms": 261333,
       "name": "Right Kind of Trouble",
       "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1203,34 +1251,18 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Mama Don't Tear Your Clothes",
-      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1260,25 +1292,9 @@
           "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Bottom's Up",
-        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
-      },
-      "artists": [
-        {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
-        }
-      ],
-      "duration_ms": 172383,
-      "name": "Good Timin'",
-      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1295,22 +1311,6 @@
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "St. James Infirmary Blues / Wayfaring Stranger (Radio Edit)",
-        "url": "https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL"
-      },
-      "artists": [
-        {
-          "name": "Shake the Disease",
-          "url": "https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW"
     }
   ],
   "unique_name": "Backporch Blues",

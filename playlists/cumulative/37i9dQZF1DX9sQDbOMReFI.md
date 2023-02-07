@@ -4,7 +4,7 @@
 
 > The best side! Cover: Mount Westmore
 
-113 songs - 8 hr 22 min
+114 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 | 2021-08-27 | 2022-02-12 |
 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 | 2022-10-25 |  |
 | [Bitches Ain't Shit](https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 4:48 | 2022-02-11 | 2022-07-28 |
+| [Bitches Ain't Shit](https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:48 | 2022-12-09 |  |
 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 | 2021-08-27 | 2023-01-17 |
 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 | 2020-05-04 | 2022-02-12 |
 | [Born and Raised In Compton](https://open.spotify.com/track/23trPalTVGb4H4CzyHrQ9W) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 3:25 | 2022-01-29 | 2022-10-26 |
@@ -32,7 +33,7 @@
 | [Doggy Dogg World \(feat\. Tha Dogg Pound & The Dramatics\)](https://open.spotify.com/track/4JGed8NOXDTHmcwvGuqDiw) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 5:38 | 2022-02-11 | 2022-07-29 |
 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 | 2020-05-04 |  |
 | [Drop](https://open.spotify.com/track/1OtuQOXXwUlVtANl1FeYZg) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia](https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0) | 5:36 | 2022-02-11 | 2022-07-21 |
-| [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 | 2022-02-11 |  |
+| [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 | 2022-02-11 | 2023-02-07 |
 | [Fantastic Voyage](https://open.spotify.com/track/3QlTzofanSqDWywxEzGGE2) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/3AZYNdRI9wD3xaRYuqMmZB) | 5:34 | 2020-05-04 | 2022-07-29 |
 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 | 2020-05-04 |  |
 | [Fellin' Myself](https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [Ronald Dregan For President 2004: Dreganomics](https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b) | 3:44 | 2020-05-04 | 2022-02-11 |

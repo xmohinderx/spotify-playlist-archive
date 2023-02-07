@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 25805,
+  "num_followers": 25864,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMGY5ZjgyNGY3NGFjM2M1MWVhODViMDIyMDlhOTk5Y2Ji",
+  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMDU4Nzc2ZGM5MjYwMWQxYjBiMTMxNjA2ZjM0NTk4YWU0",
   "tracks": [
     {
       "added_at": "2023-01-10 16:44:09",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 278866,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "When You Were Mine",
-        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 203483,
-      "name": "When You Were Mine",
-      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Stop This Flame",
         "url": "https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 209407,
       "name": "Stop This Flame",
       "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Superfly (O.S.T.)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "The Sweetest Peaches [Part One (1940-1966)]",
         "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Katata",
-        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
       "artists": [
         {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 216150,
-      "name": "Katata",
-      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1183,6 +1167,22 @@
       "duration_ms": 207333,
       "name": "Light My Fire - 1994 Remaster",
       "url": "https://open.spotify.com/track/2RxYGOHMSm6nc9q9xyLtYq"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Katata",
+        "url": "https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "duration_ms": 216150,
+      "name": "Katata",
+      "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Kitchen Sunset",
         "url": "https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Watch Me Dance",
-        "url": "https://open.spotify.com/album/5Hbogrukylm91E91osFIoE"
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 303586,
-      "name": "Watch Me Dance",
-      "url": "https://open.spotify.com/track/6nD7oFYIKMjGBFRhVX7vYz"
+      "duration_ms": 210226,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1411,6 +1395,22 @@
       "duration_ms": 199796,
       "name": "Angels & Queens",
       "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Watch Me Dance",
+        "url": "https://open.spotify.com/album/5Hbogrukylm91E91osFIoE"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 303586,
+      "name": "Watch Me Dance",
+      "url": "https://open.spotify.com/track/6nD7oFYIKMjGBFRhVX7vYz"
     },
     {
       "added_at": "2023-01-10 16:44:09",

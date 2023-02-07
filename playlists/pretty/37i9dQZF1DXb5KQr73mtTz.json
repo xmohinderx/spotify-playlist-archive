@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 8509,
+  "num_followers": 8528,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjg5MywwMDAwMDAwMDkyZDcyNzY1ODlhNDA1MjgzNTRlY2RhN2M0MzM5M2E2",
+  "snapshot_id": "MTY3NTQwNjg5MywwMDAwMDAwMGQ3Y2JhYzMwYzA0YTZkOGI2NDM1NWU5ZTBkMzNjZGU4",
   "tracks": [
     {
       "added_at": "2023-01-13 04:01:06",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 192430,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -339,6 +323,22 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -355,38 +355,6 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -399,6 +367,22 @@
       "duration_ms": 228548,
       "name": "lie",
       "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -431,6 +415,22 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
-        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -563,6 +563,22 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -645,20 +661,20 @@
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
-      "added_at": "2023-01-13 04:01:06",
+      "added_at": "2023-02-07 01:38:35",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -675,22 +691,6 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2023-02-06 01:08:42",
-      "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -711,6 +711,22 @@
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
+      "added_at": "2023-02-07 01:38:35",
+      "album": {
+        "name": "How many nights should far away more",
+        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
+      },
+      "artists": [
+        {
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "How many nights should far away more",
+      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
+    },
+    {
       "added_at": "2023-01-13 04:01:06",
       "album": {
         "name": "girl in red",
@@ -807,22 +823,6 @@
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
-    },
-    {
-      "added_at": "2023-02-06 01:08:42",
-      "album": {
-        "name": "How many nights should far away more",
-        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
-      },
-      "artists": [
-        {
-          "name": "Shin Sae Byeok",
-          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "How many nights should far away more",
-      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

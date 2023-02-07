@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-144 songs - 12 hr 2 min
+145 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 | 2022-09-05 |  |
 | [Lebanese Blonde](https://open.spotify.com/track/66KcXPDs1hr8T06KvlJCeA) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2) | 4:48 | 2022-09-05 | 2023-01-16 |
 | [Lebanese Blonde](https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 4:48 | 2022-09-05 |  |
+| [Les Nuits](https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO) | 6:19 | 2023-02-02 |  |
 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 | 2022-09-05 | 2023-02-02 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2022-09-05 |  |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-02 |  |
@@ -113,7 +114,7 @@
 | [Paradise \- Remastered Version](https://open.spotify.com/track/0vhyCB8RvI8Ruvy324USy5) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:36 | 2022-09-05 | 2022-11-13 |
 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 | 2022-09-05 |  |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2022-09-05 |  |
-| [Pina Colada \(Jazz Mix\)](https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 6:06 | 2022-09-05 |  |
+| [Pina Colada \(Jazz Mix\)](https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 6:06 | 2022-09-05 | 2023-02-07 |
 | [Quiet Night](https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [Quiet Night](https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep) | 3:32 | 2022-09-05 |  |
 | [Quiet Night](https://open.spotify.com/track/5s5c9ZMpC8WyuiM8Sg4R2Z) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [Quiet Night](https://open.spotify.com/album/0Krte8XWMkSHu5tne7epQF) | 3:32 | 2022-09-05 | 2022-11-20 |
 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 | 2022-09-05 | 2022-11-13 |

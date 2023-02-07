@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-215 songs - 17 hr 36 min
+216 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Caged At Last](https://open.spotify.com/track/6SruU1URjdHmZQmo4oMBjo) | [Mister Water Wet](https://open.spotify.com/artist/5aqEOu3QIHCuqyYCVm9rwB) | [Top Natural Drum](https://open.spotify.com/album/2ljEWiS1VCpgLw9amVDLri) | 3:43 | 2023-01-12 |  |
 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 | 2022-09-15 |  |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2022-09-30 |  |
-| [Chameleon](https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 4:59 | 2021-10-06 |  |
+| [Chameleon](https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 4:59 | 2021-10-06 | 2023-02-07 |
 | [Chameleon](https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 4:59 | 2021-10-06 | 2022-09-15 |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2021-10-06 |  |
 | [Charlier](https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Charlier](https://open.spotify.com/album/1GdfpqOYJGO0QONj1ccSyD) | 3:51 | 2021-10-06 | 2022-07-29 |
@@ -57,6 +57,7 @@
 | [Confessions Pt\. II](https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 6:24 | 2021-10-06 |  |
 | [Confessions, Pt\. 2](https://open.spotify.com/track/7bQDCibQjdTof2JZIhabIF) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 6:24 | 2021-10-06 | 2022-07-27 |
 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 | 2022-09-03 |  |
+| [Crusoe Takes a Trip](https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 6:39 | 2021-10-06 |  |
 | [Crusoe Takes a Trip](https://open.spotify.com/track/4G2ghZczj9HjGvUTEpn62d) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey](https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha) | 6:39 | 2021-10-06 | 2023-02-02 |
 | [Después de un Dia](https://open.spotify.com/track/01ps6dUKJ3r3VbZBuj6qmk) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Sebastian Mondragon](https://open.spotify.com/artist/4cr4e93QLD5J9pWXAoDKFe), [Erik Deutsch](https://open.spotify.com/artist/4K6X9Dc8oVPZ3hPEH4IRYG) | [Después de un Día](https://open.spotify.com/album/7dhGvxvETBIoWeLEOb61FT) | 4:04 | 2021-10-26 | 2022-10-25 |
 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 | 2022-03-16 |  |

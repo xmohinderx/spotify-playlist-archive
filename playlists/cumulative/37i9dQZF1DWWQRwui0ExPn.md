@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,224 songs - 8 day 6 hr 40 min
+5,226 songs - 8 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2236,7 +2236,8 @@
 | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/track/5cZa4r5cgR9krvDrMA2KRS) | [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Introversion \(Strong Maurice Remix\)](https://open.spotify.com/album/5CIvGXPKxjBSJRbQOWZgno) | 2:54 | 2022-08-05 | 2022-11-18 |
 | [Invierno Solitario](https://open.spotify.com/track/21sV7KSahkzxD9R9o3Cz5y) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Invierno Solitario](https://open.spotify.com/album/0vcH0VZmpLMMzKw8fsajaF) | 2:24 | 2021-12-17 | 2022-07-01 |
 | [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 | 2022-12-11 |
-| [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 | 2023-01-20 |  |
+| [invisible](https://open.spotify.com/track/10wh7RPmiDo9tLlEanBw8t) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/6By1S4R5WehZI40pM64oKJ) | 3:06 | 2023-01-20 |  |
+| [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 | 2023-01-20 | 2023-02-07 |
 | [invisible](https://open.spotify.com/track/2tVqVeui93tpUnyw1AuWsI) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3BLrcNKCSk0fE5zx5ethjb) | 3:06 | 2022-12-09 | 2023-02-06 |
 | [Invisible Palette](https://open.spotify.com/track/57JCZANsYmlLC0BVUsrbEr) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Invisible Palette](https://open.spotify.com/album/3B6VKba9I1XXl3G2bJdDOA) | 2:59 | 2022-02-25 | 2022-07-29 |
 | [Iris](https://open.spotify.com/track/4Y3EegnlSZe3AtJGP7TWUz) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Iris](https://open.spotify.com/album/35E9f2qQSTr4Z7w7PnFDeP) | 1:56 | 2020-01-19 | 2021-08-22 |
@@ -2820,8 +2821,9 @@
 | [Meadow Rain](https://open.spotify.com/track/6uXSXK9JWHna7nTibTymAD) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [London Fireplaces](https://open.spotify.com/artist/4QfbgKG0oryVqlqig8qFYK), [Pauliverse](https://open.spotify.com/artist/3kBAqfgZgV0gUW1aoFQL8W) | [Meadow Rain](https://open.spotify.com/album/3EnmJBX0OomSjMmr3XCp4e) | 2:32 | 2021-11-20 | 2022-06-10 |
 | [meadowlark](https://open.spotify.com/track/0fUzhY3e7t1yxcDCeqJvHJ) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [meadowlark](https://open.spotify.com/album/60xB6VxzXhqFIGEYGJycTi) | 2:17 | 2022-10-14 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-02-14 | 2022-09-09 |
+| [Medication](https://open.spotify.com/track/0SECfQ39aAxnp1tMCIDrCg) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Antidote](https://open.spotify.com/album/2BzfGLYmLSbjHu9GIakgs1) | 2:58 | 2023-01-20 |  |
 | [Medication](https://open.spotify.com/track/1Kp3iJoLOB5V2PoTb17fwM) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Medication](https://open.spotify.com/album/7GTf3EW4H2UjrrELNARVeN) | 2:58 | 2022-12-09 | 2022-12-11 |
-| [Medication](https://open.spotify.com/track/5AzRp1meYTNt8E5JynXfEW) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Medication](https://open.spotify.com/album/3QrYkFsGN1LZiUypPvSFUK) | 2:58 | 2022-12-09 |  |
+| [Medication](https://open.spotify.com/track/5AzRp1meYTNt8E5JynXfEW) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Medication](https://open.spotify.com/album/3QrYkFsGN1LZiUypPvSFUK) | 2:58 | 2022-12-09 | 2023-02-07 |
 | [Medicinal Sushi](https://open.spotify.com/track/3mbwQJDnCQxyclWLlj47FG) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Medicinal Sushi](https://open.spotify.com/album/46UGUGL6oz0XVuSN6SkMcs) | 2:24 | 2020-04-03 | 2021-09-04 |
 | [Mediocre](https://open.spotify.com/track/1Wme1G8qaZ8tylNR7ny0T1) | [AFONE](https://open.spotify.com/artist/7lGJafb4Rw0qXKNmIqRpB4) | [Mediocre](https://open.spotify.com/album/0AdQ9lkpeV59cCGHG9lBkK) | 3:32 | 2021-10-02 | 2022-04-15 |
 | [meditate minds](https://open.spotify.com/track/5Y4nAJYenoA15vWtRJllMP) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Meditate minds](https://open.spotify.com/album/0VdZe0UBgagpg11nuneoHK) | 2:17 | 2019-12-22 | 2021-01-21 |

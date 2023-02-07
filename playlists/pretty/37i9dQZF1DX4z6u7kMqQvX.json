@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 95260,
+  "num_followers": 95347,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDdmNzgzYmU4YmI5MDkwYTQ1MjI5ZGIzM2I3MGI5OWYz",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGZiYzA3NGQ1N2ZkODE3ZjBkYjU5MDA5MjgzYTIwNjQ5",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Nos Queda Mucho Dolor Por Recorrer",
         "url": "https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR"
       },
@@ -367,6 +383,22 @@
       "duration_ms": 314573,
       "name": "Nos Queda Mucho Dolor Por Recorrer",
       "url": "https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -391,38 +423,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "Ya mi mama me dec\u00eda",
-      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 219386,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -471,6 +455,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Las Voces",
         "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 210911,
       "name": "Las Voces",
       "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "No Pierdas la Simpleza",
-        "url": "https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 165824,
-      "name": "Amor Ferrari",
-      "url": "https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 193206,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "No Pierdas la Simpleza",
+        "url": "https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 165824,
+      "name": "Amor Ferrari",
+      "url": "https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Para Vivir Mejor",
+        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 151729,
+      "name": "Para Vivir Mejor",
+      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Para Vivir Mejor",
-        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 151729,
-      "name": "Para Vivir Mejor",
-      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 202230,
       "name": "A D\u00f3nde Vamos?",
       "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -987,8 +1003,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
       },
       "artists": [
         {
@@ -996,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 225264,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 189885,
       "name": "QUN",
       "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "Desde Dentro",
+      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Ni una Gota de Amor",
         "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
       },
       "artists": [
         {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 266240,
-      "name": "Desde Dentro",
-      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Admirador",
-        "url": "https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Admirador",
-      "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Dulce Mal",
         "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+        "name": "Admirador",
+        "url": "https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 278964,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
+      "duration_ms": 212133,
+      "name": "Admirador",
+      "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 289842,
       "name": "Primavera 2020 (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
     },
     {
       "added_at": "2023-02-03 03:00:00",

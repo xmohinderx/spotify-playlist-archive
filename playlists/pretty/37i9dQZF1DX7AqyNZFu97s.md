@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Nia Chennai
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,286 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,290 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 47 | [Only For The Night](https://open.spotify.com/track/25QtoBNsZKwno1zZUg3QWi) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Maybe This Is Me Growing Up](https://open.spotify.com/album/5kKwMaWULDEdn07Fba7DlM) | 3:21 |
 | 48 | [Amore](https://open.spotify.com/track/79XalTrDNhOxCWnWvG8uDj) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Amore](https://open.spotify.com/album/2MXAi2kBaTl2rs0u7AvRCO) | 3:08 |
 | 49 | [ghost](https://open.spotify.com/track/19OdoWuVBsvKspFhF9tmAP) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [half the time](https://open.spotify.com/album/2e4z1IT4PcNPJU0jKQJEvV) | 1:44 |
-| 50 | [SHOOK \(leave me alone\)](https://open.spotify.com/track/3rmJ3wy9JHZzcASKxci80o) | [Arli](https://open.spotify.com/artist/6sqkpRWIWHi36kJ5TghTr7), [miamusa](https://open.spotify.com/artist/3aMVGyCtFOUWsxOQ35UsA7) | [SHOOK \(leave me alone\)](https://open.spotify.com/album/23SisJ8XN4HK1boICZj9kF) | 2:29 |
+| 50 | [SHOOK \(leave me alone\)](https://open.spotify.com/track/3rmJ3wy9JHZzcASKxci80o) | [arliworld](https://open.spotify.com/artist/2T8wFDpuki8A6sff56IhVl), [miamusa](https://open.spotify.com/artist/3aMVGyCtFOUWsxOQ35UsA7) | [SHOOK \(leave me alone\)](https://open.spotify.com/album/23SisJ8XN4HK1boICZj9kF) | 2:29 |
 | 51 | [fifteen again \- Bedroom Demo](https://open.spotify.com/track/5yYs4OH2PETYFrJjLGuJMa) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [fifteen again \(Bedroom Demo\)](https://open.spotify.com/album/0AyDKrMisJFtLAVHfXCynX) | 2:22 |
 | 52 | [Modern Love](https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI) | [Sophie Griffiths](https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe) | [Modern Love](https://open.spotify.com/album/0FP823lJ58rnrgmZeM4D0E) | 2:24 |
 | 53 | [coca cola](https://open.spotify.com/track/6yLteOjWoKnF4FZWsUVezU) | [Mitty](https://open.spotify.com/artist/6WK1QmibG6rD0tGleeT08r) | [coca cola](https://open.spotify.com/album/0BFVE7wFx26X0zM0ZRqPv6) | 2:17 |

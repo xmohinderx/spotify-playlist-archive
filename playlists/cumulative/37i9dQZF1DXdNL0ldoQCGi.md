@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-296 songs - 15 hr 33 min
+297 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-07-28 | 2022-08-18 |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-05-25 | 2022-10-22 |
 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 | 2022-11-17 |  |
+| [Tô Invisível](https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL) | [DJ Jeffdepl](https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k) | [Tô Invisível](https://open.spotify.com/album/6lef7pjgBWoQyM1srNbo3K) | 2:32 | 2023-02-06 |  |
 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 | 2022-05-25 | 2022-09-22 |
 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 | 2022-09-26 | 2023-01-10 |
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-05 |

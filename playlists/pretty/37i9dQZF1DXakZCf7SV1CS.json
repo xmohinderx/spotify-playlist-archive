@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 29210,
+  "num_followers": 29341,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDRhMTYwMzI0ZTg5YjdiMjIyYjNiNTQ2YWZjYTFkYzk4",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDAzZWZjODQzNmU4NTQ2MmRlNWI5MWI2ZmI1NjljZjZi",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -215,46 +215,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 126616,
-      "name": "hand crushed by a mallet",
-      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
       },
@@ -319,6 +279,46 @@
       "duration_ms": 157903,
       "name": "fuckboy",
       "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 126616,
+      "name": "hand crushed by a mallet",
+      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -395,30 +395,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "stupid horse",
-      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "think abt it",
         "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
       },
@@ -463,6 +439,46 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 121681,
+      "name": "stupid horse",
+      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "things with wings",
         "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 179541,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -543,18 +543,34 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
+      "duration_ms": 222493,
+      "name": "rosier/punk2",
+      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "greenhouse",
+        "url": "https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "glittr",
+      "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -579,22 +595,6 @@
       "duration_ms": 143663,
       "name": "ringtone",
       "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "greenhouse",
-        "url": "https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 158096,
-      "name": "glittr",
-      "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "IRIS",
         "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
       },
@@ -647,8 +663,8 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
       },
       "artists": [
         {
@@ -656,9 +672,33 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 222493,
-      "name": "rosier/punk2",
-      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Doritos & Fritos",
+        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -675,6 +715,22 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -715,62 +771,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Doritos & Fritos",
-        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Flamboyant",
         "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -863,22 +879,6 @@
       "duration_ms": 87242,
       "name": "team edward",
       "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 248976,
-      "name": "Hot Pink",
-      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 122153,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 248976,
+      "name": "Hot Pink",
+      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
     },
     {
       "added_at": "2022-11-29 16:59:10",

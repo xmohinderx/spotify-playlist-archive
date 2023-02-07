@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Best of Bollywood - Brahmastra - Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood favourites only on this playlist! ",
+  "description": "Best of Bollywood - All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood Top tracks only on this playlist! ",
   "name": "Bollywood Top 50",
   "tracks": [
     {
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2019-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
@@ -1911,6 +1911,32 @@
     },
     {
       "album": {
+        "name": "Heer Ranjha",
+        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Heer Ranjha",
+      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
+    },
+    {
+      "album": {
         "name": "Hermosa (feat. D Soldierz)",
         "url": "https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge"
       },
@@ -2026,7 +2052,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 173973,
       "name": "Iktara - Lofi Flip",
       "url": "https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo"
@@ -2222,7 +2248,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 184888,
       "name": "Jashne Bahara - Lofi Flip",
       "url": "https://open.spotify.com/track/21hHDH6amg7qm9QR9vfqb9"
@@ -2244,6 +2270,40 @@
       "duration_ms": 198709,
       "name": "Jee Karr Daa",
       "url": "https://open.spotify.com/track/5dKlbv9CJjO5tC1jFQgZeH"
+    },
+    {
+      "album": {
+        "name": "Jehda Nasha (From \"An Action Hero\")",
+        "url": "https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        },
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222054,
+      "name": "Jehda Nasha (From \"An Action Hero\")",
+      "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
     },
     {
       "album": {
@@ -2684,7 +2744,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 437693,
       "name": "Koi Mil Gaya",
       "url": "https://open.spotify.com/track/5L9fLNHSj5SuGvJRljdWJb"
@@ -3038,7 +3098,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 217026,
       "name": "Manja",
       "url": "https://open.spotify.com/track/6o1o5SVSqVPLKAnZxRQz4x"
@@ -3108,7 +3168,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 219853,
       "name": "Masti Ki Paathshala",
       "url": "https://open.spotify.com/track/2cZ2Q33G9mkS8fIVKM591T"
@@ -3674,7 +3734,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 174002,
       "name": "Paani Paani",
       "url": "https://open.spotify.com/track/47Rqh5ZSamtIOFi7G6VgFJ"
@@ -3995,6 +4055,32 @@
     },
     {
       "album": {
+        "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Jaswinder Singh",
+          "url": "https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g"
+        },
+        {
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254653,
+      "name": "Raanjhanaa",
+      "url": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b"
+    },
+    {
+      "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
       },
@@ -4147,6 +4233,32 @@
     },
     {
       "album": {
+        "name": "Shor in the City (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "Saibo",
+      "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
+    },
+    {
+      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa"
       },
@@ -4188,7 +4300,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 267834,
       "name": "Saiyyan - Lofi Flip",
       "url": "https://open.spotify.com/track/77IPBSEbMAiH7gOGfLllKz"
@@ -4444,7 +4556,7 @@
       ],
       "date_added": "2018-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 181764,
       "name": "She Move It Like",
       "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
@@ -4914,6 +5026,24 @@
       "duration_ms": 283000,
       "name": "Tum Se Hi (From \"Sadak 2\")",
       "url": "https://open.spotify.com/track/2fwd3t4N8QNy9w7VT1zC97"
+    },
+    {
+      "album": {
+        "name": "Tunak Tunak Tun",
+        "url": "https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "Tunak Tunak Tun",
+      "url": "https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8"
     },
     {
       "album": {

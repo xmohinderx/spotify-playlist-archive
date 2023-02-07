@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 191606,
       "name": "Al Farasha",
       "url": "https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL"
@@ -2165,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Low Tehbny",
+        "url": "https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        },
+        {
+          "name": "Yousif Basim",
+          "url": "https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187578,
+      "name": "Low Tehbny",
+      "url": "https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V"
+    },
+    {
+      "album": {
         "name": "Ma Aandi Maslaha",
         "url": "https://open.spotify.com/album/2xBNNc24EQgBgufRsBYXSr"
       },
@@ -3152,6 +3174,24 @@
       "duration_ms": 213714,
       "name": "Ya Chathab",
       "url": "https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6"
+    },
+    {
+      "album": {
+        "name": "Ya Ent",
+        "url": "https://open.spotify.com/album/6vZNmpt7CUyheZUN0UT8Jt"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260798,
+      "name": "Ya Ent",
+      "url": "https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP"
     },
     {
       "album": {

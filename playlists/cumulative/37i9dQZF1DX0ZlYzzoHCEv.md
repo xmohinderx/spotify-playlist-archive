@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-274 songs - 12 hr 51 min
+275 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [on the floor \- Hardstyle](https://open.spotify.com/track/2gbiv7U9VVwCYWEcf1D9Km) | [e11ander](https://open.spotify.com/artist/6m3QAeVPKtByeFb3QcRB5r) | [on the floor \(Hardstyle\)](https://open.spotify.com/album/0aDXIf3cThwd8vEK4BE7vj) | 2:44 | 2022-07-22 | 2022-07-25 |
 | [OSHILLANDO](https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX) | [Tonino3000](https://open.spotify.com/artist/3lmaY64jiPo0uqfLleWX1E), [La Siepe](https://open.spotify.com/artist/1RwER3uO3nJj1KEeeXTtme) | [OSHILLANDO](https://open.spotify.com/album/3Y10kwsCYiafagyaxiGdRI) | 3:13 | 2022-05-19 | 2022-05-28 |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-05-31 | 2022-07-29 |
-| [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-11-07 |  |
+| [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-11-07 | 2023-02-07 |
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-06-01 |  |
 | [Panino del McDonald's](https://open.spotify.com/track/2D2jmpApyIrHu6ogyLzbVP) | [GM](https://open.spotify.com/artist/5QmzgBwtBqgKuIvvPNi4OT) | [Panino del McDonald's](https://open.spotify.com/album/1g3Tmy5XMVCt7KyPpZ1YxF) | 3:20 | 2022-05-06 | 2022-07-28 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-01-13 |  |
@@ -231,6 +231,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-08-19 | 2022-10-07 |
 | [SNAP \- High and Fast](https://open.spotify.com/track/46cdw28EXOhDPnD1emDC6T) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:15 | 2022-10-05 | 2022-12-19 |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2022-05-06 | 2022-07-04 |
+| [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-02-06 |  |
 | [Sono una truzza \- Original](https://open.spotify.com/track/7vjYAmgBSVp5MrcFizVyQa) | [Truzza](https://open.spotify.com/artist/3Ds8h4rQwAtnmhgsN6Nky6) | [Sono una truzza \(Tunz tunz tunz parapara tunz\)](https://open.spotify.com/album/2vOiTwWFIUL36tGWyrJJWp) | 3:46 | 2022-06-03 | 2022-06-27 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-05-06 | 2022-10-13 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-20 |  |

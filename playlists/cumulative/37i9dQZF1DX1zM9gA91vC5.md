@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-858 songs - 1 day 13 hr 30 min
+859 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-03-16 |  |
 | [Ljóma](https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7) | [Shel Alyse](https://open.spotify.com/artist/01CktpdDnrnnfx3wKMbnPT) | [Ljóma](https://open.spotify.com/album/05yodSTO8kMnX0EZQ9Ak30) | 2:39 | 2021-09-30 | 2021-11-27 |
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2021-05-06 | 2022-09-15 |
-| [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2020-08-14\* |  |
+| [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2020-08-14\* | 2023-02-07 |
 | [Lonely Children](https://open.spotify.com/track/3qOEq8x1ayOUmvcEvzkPux) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Lonely Children](https://open.spotify.com/album/11ytfVbaf7XPoKghET8RIy) | 2:44 | 2020-09-02 | 2022-07-20 |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2021-05-21 |  |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2021-03-31 | 2021-04-15 |
@@ -497,6 +497,7 @@
 | [Nocturnal](https://open.spotify.com/track/2PUtuAXHytwU78K90xLpcJ) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Nocturnal](https://open.spotify.com/album/3olggkWTeKlgsGPYjFxzE9) | 2:21 | 2020-11-27 | 2021-06-02 |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2020-11-12 | 2021-08-18 |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-02-25 |  |
+| [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-06 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-08-06 | 2022-06-08 |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-07-05 |  |
 | [Not A Day Goes By](https://open.spotify.com/track/6l0jQeUI5Im2ioJvVRR4Cy) | [Melinda Krout](https://open.spotify.com/artist/29Wb8pm5VEP2tbnDozCs4l) | [Not A Day Goes By](https://open.spotify.com/album/0ny9xpbvsjbNzheeLsgKNN) | 1:53 | 2020-08-14\* | 2021-03-26 |

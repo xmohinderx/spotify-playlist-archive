@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: $OHO BANI
 
-646 songs - 1 day 7 hr 5 min
+647 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-29 | 2022-10-07 |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-06-13 | 2022-07-01 |
 | [Bisschen High](https://open.spotify.com/track/2KgJBT7k4vrjEqxUJrcNGR) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Bisschen High](https://open.spotify.com/album/6RsPP6o85gZQm6zRSulAY9) | 2:52 | 2022-06-09 | 2022-07-05 |
-| [Bist du noch hier?](https://open.spotify.com/track/4wmDcVX8875ieUtLN8469N) | [Joshua47](https://open.spotify.com/artist/4Qc6lgBWj6kK0hqa0csMTY) | [Bist du noch hier?](https://open.spotify.com/album/6hJfz2ZnFaWSMSsyVkmg0O) | 2:19 | 2022-12-22 |  |
+| [Bist du noch hier?](https://open.spotify.com/track/4wmDcVX8875ieUtLN8469N) | [Joshua47](https://open.spotify.com/artist/4Qc6lgBWj6kK0hqa0csMTY) | [Bist du noch hier?](https://open.spotify.com/album/6hJfz2ZnFaWSMSsyVkmg0O) | 2:19 | 2022-12-22 | 2023-02-07 |
 | [BITTE BLEIB!](https://open.spotify.com/track/5jM9lCoRsFDPGvzNxzjXmk) | [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [BITTE BLEIB!](https://open.spotify.com/album/2Nuh1W85nqXAhKPjj1zpe1) | 3:05 | 2022-09-22 | 2022-11-04 |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2022-12-08 | 2022-12-24 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-22 | 2023-01-13 |
@@ -253,6 +253,7 @@
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-02-02 |  |
 | [HERZURÜCK](https://open.spotify.com/track/1oCtKjTLNIyowDiKvkcydO) | [absent](https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna) | [PANIC MOTEL](https://open.spotify.com/album/2e8OKkHsD0az8l9toegEG4) | 1:53 | 2023-01-24 |  |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2023-01-16 | 2023-02-03 |
+| [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-02-06 |  |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-10-21 |
 | [Hide and Seek](https://open.spotify.com/track/121so7t3AeX6nLMvxy9ZP9) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak For Yourself](https://open.spotify.com/album/5bxeKufn9YmJ3WNBQpBXlx) | 4:28 | 2022-07-14 | 2022-07-22 |
 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/72H4lwbSuX8xjyJseUC5Ux) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM) | 2:48 | 2022-06-16 | 2022-07-30 |

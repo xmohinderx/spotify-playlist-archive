@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 537269,
+  "num_followers": 537448,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGRjMDhiMWJhNjViYTA3N2MxMzM3YmFhNDk1NmI2MTkw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQ5YTcxYTM1YmU3NTUxYjM1MjZlYmY3NjUwNjUxNmU1",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Another Man\u02bcs Grave",
-        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Another Man\u02bcs Grave",
-      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Bottom of the River",
         "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 201240,
       "name": "Bottom of the River",
       "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Another Man\u02bcs Grave",
+        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Another Man\u02bcs Grave",
+      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "War Brides",
         "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+      },
+      "artists": [
+        {
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+        }
+      ],
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Hell Among The Yearlings",
-        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "The Devil Had A Hold Of Me",
-      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "The Devil Had A Hold Of Me",
+      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
     },
     {
       "added_at": "2022-06-06 19:18:28",

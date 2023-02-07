@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-342 songs - 23 hr 39 min
+343 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-11 | 2022-07-29 |
 | [Espiral \- 冥丁 Remix](https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii), [冥丁](https://open.spotify.com/artist/1MFolUggfCDsdJVAcG9acN) | [Espiral \(冥丁 Remix\)](https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2) | 4:11 | 2022-07-15 | 2022-12-22 |
 | [Estela](https://open.spotify.com/track/484BYcMwHgvH0RQ4s1m95F) | [co de sus](https://open.spotify.com/artist/1v830WmXPBjRcQLudfXOy1) | [Estela](https://open.spotify.com/album/1q8G9fgUuJS70Z7Y8FuHsJ) | 4:40 | 2022-04-07 | 2022-12-30 |
-| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2022-02-23 |  |
+| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2022-02-23 | 2023-02-07 |
 | [Everlight](https://open.spotify.com/track/6E27OStcsRUvwjCszynEFg) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Everlight](https://open.spotify.com/album/48Qad0TNDOsyYusOMWeWCe) | 2:55 | 2021-10-20 | 2022-07-11 |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-07-11 |
 | [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-09-30 | 2022-12-14 |
@@ -283,6 +283,7 @@
 | [Soothing Sounds for Deep Stimulation](https://open.spotify.com/track/1DGgo9C8024hGNLkRXh1Ct) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:56 | 2021-10-20 | 2022-04-21 |
 | [SPAC3S](https://open.spotify.com/track/1JyJd2DT8RrbkoQayzvdlG) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [SPAC3S](https://open.spotify.com/album/4dQccaaNWX89Zz9oeRLEhx) | 4:37 | 2021-10-29 | 2022-07-29 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-20 | 2023-02-02 |
+| [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-10-20 |  |
 | [Space Water](https://open.spotify.com/track/511FzKk8bOa4UTkiwoqYbB) | [Walton](https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k) | [Unknown Territories](https://open.spotify.com/album/3gdbCEyrYrSLeg7Z7tUIES) | 2:43 | 2021-10-20 | 2022-04-18 |
 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-01-14 |  |
 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2021-10-20 | 2022-04-21 |

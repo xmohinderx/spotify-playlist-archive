@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Armand Van Helden, Karen Harding, Kriss Reeve, Biscits",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Armand Van Helden, Karen Harding, Biscits",
   "name": "EDM Top 100",
   "tracks": [
     {
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 146601,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg"
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 161683,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1tHV6RsOZkrYk8v40AWaGf"
@@ -4342,7 +4342,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 208739,
       "name": "Can't Let Go (feat. Harry Hudson)",
       "url": "https://open.spotify.com/track/2wlJujDcmEpJ4egO6Sx56w"
@@ -4746,7 +4746,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
@@ -4870,7 +4870,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-07",
+      "date_removed": null,
       "duration_ms": 142663,
       "name": "Child Of The Devil",
       "url": "https://open.spotify.com/track/6Sn6fAcrWFJ7Zq5sH6Nhbw"
@@ -7276,7 +7276,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 195480,
       "name": "Don\u2019t Need Love (with GRACEY)",
       "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
@@ -10044,7 +10044,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-10",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/7Jc8wZ4qUosyqI2wceATOR"
@@ -10926,7 +10926,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 158319,
       "name": "Head & Heart (feat. MNEK) - Ofenbach Remix",
       "url": "https://open.spotify.com/track/70NVdjM5ZoWB20m7y2IstB"
@@ -18466,7 +18466,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -20554,7 +20554,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
@@ -21450,7 +21450,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 165958,
       "name": "Push It Right",
       "url": "https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL"
@@ -24626,7 +24626,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3ACnarSkTKiOTj4rsnFkgf"
@@ -24958,6 +24958,28 @@
       "duration_ms": 179000,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4o4AFaGMvhWj52wMnO5u10"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
+      },
+      "artists": [
+        {
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
+        },
+        {
+          "name": "Jorik Burema",
+          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
     },
     {
       "album": {
@@ -25598,7 +25620,7 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 160008,
       "name": "Summer on You",
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
@@ -27822,7 +27844,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 130560,
       "name": "Trumpet Sound",
       "url": "https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B"

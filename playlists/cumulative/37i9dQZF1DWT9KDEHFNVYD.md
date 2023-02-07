@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-313 songs - 1 day 5 hr 18 min
+314 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 | 2023-01-25 |  |
 | [9](https://open.spotify.com/track/0c35I79bxG3qq2z12pL5Kc) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 6:31 | 2021-07-30 | 2022-07-29 |
 | [9](https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 6:31 | 2021-07-30 |  |
-| [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 |  |
+| [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 | 2023-02-07 |
 | [A Final Warning](https://open.spotify.com/track/47U8foovlO8ekCIopmqojT) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/6DrIyhtCOAFTEY4dB2mKl9) | 7:15 | 2021-07-30 | 2022-07-29 |
 | [A Haze Of Patriotic Fervor](https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/0NeWQGtJD0LfXdVvgYNZM4) | 5:30 | 2021-07-30 | 2022-11-30 |
 | [A Haze Of Patriotic Fervor](https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) | 5:30 | 2021-07-30 |  |
@@ -93,6 +93,7 @@
 | [Focus on the Magick](https://open.spotify.com/track/6hKBt7A9eOAEwDbLerLYEJ) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [Magick Songs](https://open.spotify.com/album/3Jwzv57SMQbXKIbCDs37YW) | 5:40 | 2021-07-30 | 2023-01-26 |
 | [Footsteps](https://open.spotify.com/track/3EtjS7DEL3A4Keq82vsC2r) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/4uUhmFHwJVcfGbRWjcfVUf) | 5:19 | 2021-07-30 | 2022-07-29 |
 | [Footsteps](https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg) | 5:19 | 2021-07-30 |  |
+| [French Disko](https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid) | 3:35 | 2021-07-30 |  |
 | [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 | 2021-07-30 | 2023-02-04 |
 | [French Disko](https://open.spotify.com/track/0C03B3oqKkoGVrNqgWjkqB) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6e9SIhpwUY4B3oyVT2W7bW) | 3:35 | 2021-07-30 | 2022-07-29 |
 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 | 2021-07-30 | 2023-01-26 |

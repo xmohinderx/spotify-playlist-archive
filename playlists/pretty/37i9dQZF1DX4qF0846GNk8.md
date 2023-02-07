@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر!  <br/> الغلاف: علي قدورة ونور التوت
+> أجمد المهرجانات في مصر!  <br/> كوفر: الصواريخ مع أبو الأنوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,533 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,668 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 |
-| 2 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 |
+| 1 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 |
+| 2 | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 |
 | 3 | [مبقاش فى خير فى الناس](https://open.spotify.com/track/4GT37oFB2kTll36C5c8Ohl) | [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour Eltot](https://open.spotify.com/artist/73XccIf98HDXk4ZeJNe6Hq) | [مبقاش فى خير فى الناس](https://open.spotify.com/album/1B8QQCVTYNFHmhIlu3SH8A) | 3:30 |
 | 4 | [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 |
 | 5 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 |
 | 50 | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/track/6cTjz8NSpckBwPwSmrILZd) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/album/4kiupm5N7gg9BD22G03eVC) | 3:29 |
 
-Snapshot ID: `MTY3NTMyNjYwNSwwMDAwMDAwMDY0NzAzM2NjOGRiYjk5ZjYyNGQ5ZmI1MDhlNDcxNjRh`
+Snapshot ID: `MTY3NTY3MjE0MCwwMDAwMDAwMDdhMDFmOWY0ZmFjMmJmMDYyZGRmMTYxMTlhMTc1MjZi`

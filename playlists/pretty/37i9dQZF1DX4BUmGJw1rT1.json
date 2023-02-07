@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 43896,
+  "num_followers": 43979,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDU3MCwwMDAwMDAwMGEyNzE0ZWQ0N2RmNTM4YTg1NjA1ZDU0ZjY3NDE5N2Qy",
+  "snapshot_id": "MTY3NTQ0MDU3MCwwMDAwMDAwMGQ2ZWY4OTY3ODBiMmJhZjVkZjZmNzdiMjk2MGEwMDJi",
   "tracks": [
     {
       "added_at": "2023-02-03 16:09:30",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -255,26 +275,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -287,6 +287,26 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Country Ghetto",
+        "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        },
+        {
+          "name": "Mofro",
+          "url": "https://open.spotify.com/artist/7sDt65UhJuh1P4pN9kAbmQ"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -323,26 +343,6 @@
       "duration_ms": 313093,
       "name": "I'll Take Care Of You",
       "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Country Ghetto",
-        "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
-      },
-      "artists": [
-        {
-          "name": "JJ Grey & Mofro",
-          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
-        },
-        {
-          "name": "Mofro",
-          "url": "https://open.spotify.com/artist/7sDt65UhJuh1P4pN9kAbmQ"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Fire on the Floor (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 311226,
-      "name": "Fire On The Floor",
-      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -607,6 +591,22 @@
       "duration_ms": 255426,
       "name": "Blues Music",
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Fire on the Floor (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "Fire On The Floor",
+      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
-      },
-      "artists": [
-        {
-          "name": "solace",
-          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Dry Run",
-      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 227666,
       "name": "I Know - 2008 Remaster",
       "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 349066,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 264811,
       "name": "Believe These Blues",
       "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Live At Blues Alley",
+        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 349066,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -891,6 +891,22 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -943,22 +959,6 @@
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Love, Death & In Between",
-        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Will o' the Wisp",
-      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "A Quitter Never Wins",
-      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "A Quitter Never Wins",
+      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "From the Cradle",
         "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Mystery Train / Love My Baby",
-        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+        "name": "Rise to the Grind",
+        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Garrett Lebeau",
+          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
         }
       ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+      "duration_ms": 290453,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1471,22 +1487,6 @@
       "duration_ms": 180680,
       "name": "And That's Saying a Lot",
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Rise to the Grind",
-        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
-      },
-      "artists": [
-        {
-          "name": "Garrett Lebeau",
-          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
     },
     {
       "added_at": "2023-02-03 16:09:30",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-02-03 16:09:30",
       "album": {
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+    },
+    {
+      "added_at": "2023-02-03 16:09:30",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/274mSeGv906bj4ylimeKiW"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 254929,
       "name": "I Love Your Rock 'n' Roll",
       "url": "https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt"
-    },
-    {
-      "added_at": "2023-02-03 16:09:30",
-      "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
-      },
-      "artists": [
-        {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6acPKN6yeFBa9vhME9RwIN"
     }
   ],
   "unique_name": "Home at Last",

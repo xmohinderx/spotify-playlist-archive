@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,177 songs - 2 day 15 hr 28 min
+1,178 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-10 |  |
 | [DIVE IN!](https://open.spotify.com/track/2I8EDARURigigunOxtg7oi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD) | 1:40 | 2022-02-18 | 2022-03-19 |
 | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN) | [Sam Concepcion](https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7) | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/45ZolRka5exOabNpGPfbTo) | 3:30 | 2022-02-26 | 2022-03-05 |
+| [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2023-02-06 |  |
 | [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-08-02 | 2022-09-10 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-27 | 2022-01-07 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-02-21 | 2022-03-09 |
@@ -856,7 +857,7 @@
 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 | 2022-11-08 | 2022-11-12 |
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2022-06-23 | 2022-07-06 |
 | [Que Ganas](https://open.spotify.com/track/5pXuclm5K7goAcENkqoanP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:43 | 2022-06-28 | 2022-06-30 |
-| [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-03 |  |
+| [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-03 | 2023-02-07 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-31 |  |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-02 | 2022-09-09 |
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-12-03 | 2022-12-28 |

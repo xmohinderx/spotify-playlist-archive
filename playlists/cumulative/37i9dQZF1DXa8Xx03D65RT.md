@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-535 songs - 22 hr 55 min
+536 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Elfreth’s Alley](https://open.spotify.com/track/56kV0SkieRGfY4HUAGIsCM) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Elfreth’s Alley](https://open.spotify.com/album/0eN8e5w0xTXymCqKf1bdlZ) | 2:16 | 2022-05-27 | 2022-09-24 |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-05-27 |  |
 | [En Croix](https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [En Croix](https://open.spotify.com/album/4B3HBQx4nsZnUWJ822TwR0) | 2:32 | 2022-05-27 |  |
-| [Enchanted](https://open.spotify.com/track/1dsYQlcWbdFTeS7Ncdyx3m) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Enchanted](https://open.spotify.com/album/4cStBsyEqO7omSXEXzGzqy) | 2:27 | 2022-05-27 | 2022-09-24 |
+| [Enchanted](https://open.spotify.com/track/1dsYQlcWbdFTeS7Ncdyx3m) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Enchanted](https://open.spotify.com/album/4cStBsyEqO7omSXEXzGzqy) | 2:27 | 2022-05-27 |  |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-05-27 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-05-27 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-05-27 |  |
@@ -358,7 +358,7 @@
 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 | 2022-05-27 | 2023-01-21 |
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-05-27 | 2023-01-21 |
 | [Pigeon Prelude](https://open.spotify.com/track/0wkawzqdZwcjGKQ3A7cGvH) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 3:02 | 2022-05-27 | 2022-08-10 |
-| [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 | 2022-05-27 |  |
+| [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 | 2022-05-27 | 2023-02-07 |
 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 | 2022-05-27 | 2023-01-21 |
 | [Plane Of Incidence](https://open.spotify.com/track/0CpTqfYYWimRxn6qLNyX4O) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Plane Of Incidence](https://open.spotify.com/album/6SjT6FwVn6rgt9I1bqlVEz) | 2:21 | 2022-05-27 | 2022-09-24 |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2022-07-20 |  |
@@ -370,6 +370,7 @@
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-27 | 2022-09-24 |
+| [Pulse of living light](https://open.spotify.com/track/1CYRKw69N0CUGig2uPDvmg) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Pulse of living light](https://open.spotify.com/album/6I7aNxSuPkproqmlGanyKy) | 2:23 | 2023-02-06 |  |
 | [Pure and Simple](https://open.spotify.com/track/0FhWep2SISPph4SvObzRt3) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Pure and Simple](https://open.spotify.com/album/0JukiK7Cxo9q9NaHqMZZuz) | 2:27 | 2022-05-27 | 2022-07-21 |
 | [Puritano](https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Puritano](https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC) | 3:06 | 2022-05-27 | 2022-09-24 |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-05-27 |  |
@@ -493,7 +494,7 @@
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-05-27 | 2023-01-21 |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2022-08-09 | 2023-01-21 |
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 |  |
+| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-02-07 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 |  |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |

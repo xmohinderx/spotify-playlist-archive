@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=GZYCF3NjTmWkpbhFM2RqRA" > Jeriq </a>
 
-145 songs - 7 hr 8 min
+146 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Booless Brothers](https://open.spotify.com/track/7gTgdhChd3dH93Ej8Qr8c5) | [Gasky](https://open.spotify.com/artist/5EyDiELo7F136IKRoicaB2), [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Booless Brothers](https://open.spotify.com/album/7lJsrNjkX9ObNZ7fQ4IEFD) | 2:11 | 2023-02-03 |  |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-03 |  |
 | [Breathe](https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [GOLDEN](https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA) | 3:14 | 2022-06-09 |  |
+| [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 | 2023-02-03 |  |
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-16 |
 | [City of Kings](https://open.spotify.com/track/0emQg5ptXXIWYufuXGAzgT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:36 | 2022-10-14 | 2022-10-29 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 |  |
@@ -132,7 +133,7 @@
 | [To the Max](https://open.spotify.com/track/36Sml2B1lkLGDbiU5tZ63o) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odunsi The Engine](https://open.spotify.com/artist/6JIIBiPRVuu8JUv0BWqCS1) | [To the Max](https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF) | 3:24 | 2022-10-14 | 2022-10-29 |
 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 | 2022-10-07 | 2022-11-29 |
 | [Trapping](https://open.spotify.com/track/7dTf5PWqNfWcRTlgw8d4fu) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 3:45 | 2022-10-14 | 2022-10-29 |
-| [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 |  |
+| [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 | 2023-02-07 |
 | [True Life Story](https://open.spotify.com/track/1m7ffYVHFhtOUF6pYHGqCC) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:58 | 2022-10-14 | 2022-10-29 |
 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 | 2022-06-09 |  |
 | [Vawulence](https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Vawulence](https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB) | 3:05 | 2022-08-25 | 2022-12-06 |

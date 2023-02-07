@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,990 likes - 203 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,130 likes - 203 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

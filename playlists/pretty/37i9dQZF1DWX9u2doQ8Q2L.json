@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 353305,
+  "num_followers": 353402,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ4MDU0MiwwMDAwMDAwMGRlODdmY2JjNDZmZTcyNTBkZGEzNTdiNmJmNGU2YWIw",
+  "snapshot_id": "MTY3NTQ4MDU0MiwwMDAwMDAwMGYwZTk4MTk4ODAxMGMwZjJiMzcwZWVkNzUzYzNiMDc3",
   "tracks": [
     {
       "added_at": "2023-02-04 03:15:42",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+        "name": "Haven (feat. Hana Hope)",
+        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
         }
       ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+      "duration_ms": 196000,
+      "name": "Haven - feat. Hana Hope",
+      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -911,18 +915,18 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
         }
       ],
-      "duration_ms": 220098,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -943,22 +947,18 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "Haven (feat. Hana Hope)",
-        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Haven - feat. Hana Hope",
-      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
+      "duration_ms": 220098,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
+    },
+    {
+      "added_at": "2023-02-04 03:15:42",
+      "album": {
         "name": "Roll",
         "url": "https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F"
       },
@@ -1107,18 +1123,22 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+        "name": "HOME THERAPY",
+        "url": "https://open.spotify.com/album/4RxLlyupHS1f1FPgSdh8kM"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Rei Yasuda",
+          "url": "https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi"
+        },
+        {
+          "name": "\u718a\u6728\u5e78\u4e38",
+          "url": "https://open.spotify.com/artist/3NyvaTt8r1fkYjwOz1K6wZ"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
+      "duration_ms": 234240,
+      "name": "HOME THERAPY",
+      "url": "https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1139,26 +1159,6 @@
       "duration_ms": 164800,
       "name": "BE THE GROOVE",
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
-    },
-    {
-      "added_at": "2023-02-04 03:15:42",
-      "album": {
-        "name": "HOME THERAPY",
-        "url": "https://open.spotify.com/album/4RxLlyupHS1f1FPgSdh8kM"
-      },
-      "artists": [
-        {
-          "name": "Rei Yasuda",
-          "url": "https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi"
-        },
-        {
-          "name": "\u718a\u6728\u5e78\u4e38",
-          "url": "https://open.spotify.com/artist/3NyvaTt8r1fkYjwOz1K6wZ"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "HOME THERAPY",
-      "url": "https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
-      },
-      "artists": [
-        {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2023-02-04 03:15:42",
-      "album": {
         "name": "Yonawo House",
         "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 211742,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
+    },
+    {
+      "added_at": "2023-02-04 03:15:42",
+      "album": {
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "TOMORROW",
-        "url": "https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "TOMORROW",
-      "url": "https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6"
-    },
-    {
-      "added_at": "2023-02-04 03:15:42",
-      "album": {
         "name": "Late summer waves",
         "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 155242,
       "name": "Late summer waves",
       "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
+    },
+    {
+      "added_at": "2023-02-04 03:15:42",
+      "album": {
+        "name": "TOMORROW",
+        "url": "https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "TOMORROW",
+      "url": "https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0"
-      },
-      "artists": [
-        {
-          "name": "Gotch",
-          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
-        },
-        {
-          "name": "GuruConnect",
-          "url": "https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j"
-    },
-    {
-      "added_at": "2023-02-04 03:15:42",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
+    },
+    {
+      "added_at": "2023-02-04 03:15:42",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0"
+      },
+      "artists": [
+        {
+          "name": "Gotch",
+          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+        },
+        {
+          "name": "GuruConnect",
+          "url": "https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j"
     },
     {
       "added_at": "2023-02-04 03:15:42",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-02-04 03:15:42",
       "album": {
-        "name": "dead2me.",
-        "url": "https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "dead2me.",
-      "url": "https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3"
-    },
-    {
-      "added_at": "2023-02-04 03:15:42",
-      "album": {
         "name": "Be With You feat. Ai Furihata",
         "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 207017,
       "name": "Be With You feat. Ai Furihata",
       "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
+    },
+    {
+      "added_at": "2023-02-04 03:15:42",
+      "album": {
+        "name": "dead2me.",
+        "url": "https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "dead2me.",
+      "url": "https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3"
     }
   ],
   "unique_name": "Tokyo Rising",

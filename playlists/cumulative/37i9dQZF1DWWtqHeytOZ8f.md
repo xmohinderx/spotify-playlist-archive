@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-557 songs - 2 day 0 hr 42 min
+558 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Expanding Electricity \- Single Edit](https://open.spotify.com/track/2u0bltYG3O7B8LFwkPBdq9) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Expanding Electricity](https://open.spotify.com/album/40Zy3xnuF73RLj6rEIIVRL) | 5:36 | 2021-10-20 | 2022-07-29 |
 | [Extract](https://open.spotify.com/track/4D9fw6C9JR6XaBKS7dwy2O) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 7:31 | 2021-10-20 | 2022-06-23 |
 | [Eyes of the Moon](https://open.spotify.com/track/0Ro4fM38RLPZGfCfJDlQBg) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6GKLtsT1RISbpYgFnT998Y) | 5:13 | 2021-10-20 | 2022-07-26 |
-| [Eyes of the Moon](https://open.spotify.com/track/6nAimkCH16w8PFtFxD1tj8) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 5:13 | 2021-10-20 |  |
+| [Eyes of the Moon](https://open.spotify.com/track/6nAimkCH16w8PFtFxD1tj8) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 5:13 | 2021-10-20 | 2023-02-07 |
 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 | 2021-10-20 | 2022-07-28 |
 | [f/5.6](https://open.spotify.com/track/79i0JetBid9SrJj00Y3bMd) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Apertura](https://open.spotify.com/album/3BsnA8jApxMB21LRSzAItR) | 7:21 | 2022-12-21 |  |
 | [Fading In](https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6) | [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Fading In And Out](https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh) | 3:01 | 2022-03-11 |  |
@@ -438,6 +438,7 @@
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-20 | 2023-02-02 |
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-10-20 |  |
 | [Space 8](https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 17:32 | 2021-10-20 | 2023-02-02 |
+| [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 | 2021-10-20 |  |
 | [Spain](https://open.spotify.com/track/1nfzTO082ijlY61zApT9nK) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/2WcJYdTlGUDRrg4nrT406D) | 4:46 | 2021-10-20 | 2022-07-29 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2021-10-20 |  |
 | [Spangle \- Autechre Remix](https://open.spotify.com/track/0rHnnaxK2XcY4HSkSnQmOF) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Spangle \(Autechre Remix\)](https://open.spotify.com/album/6F9UWEuOW0BYKNiYr2JFdX) | 12:17 | 2021-10-20 | 2022-07-24 |

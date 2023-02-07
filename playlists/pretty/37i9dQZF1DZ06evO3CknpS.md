@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 31 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 841 likes - 31 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 30 | [Interview with Clara Rockmore and Morey Ritt](https://open.spotify.com/track/1Lx6LMEaPUhuR4ReW8hyMp) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Morey Ritt](https://open.spotify.com/artist/1JAXudyatYMiUMGNTRtvK6), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 3:40 |
 | 31 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 
-Snapshot ID: `Mjc5MjY3NTcsMDAwMDAwMDA1YWRhMzc4NzM5N2I2ZjQyYzNkNTA2NTQ0OWZlNThiOA==`
+Snapshot ID: `Mjc5MjgxNjcsMDAwMDAwMDA1NGU3NGRlNTM5NjFjOGU2NzZmZWMzMmUwNWU4MmVlNA==`

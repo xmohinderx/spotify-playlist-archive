@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-28 songs - 1 hr 35 min
+30 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Java Jive](https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2023-01-27 |  |
 | [JULIETTE! \(Feat\. UMI\)](https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:06 | 2023-02-03 |  |
 | [Look Back](https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Look Back](https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN) | 3:04 | 2023-01-11 |  |
+| [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 | 2023-02-06 |  |
+| [Never Let Go \- Instrumental](https://open.spotify.com/track/3fPZ0jPf6Ts9XQ8w2VNhlN) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 | 2023-02-06 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2023-01-27 |  |
 | [Ships](https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8) | 4:00 | 2023-01-27 |  |
 | [Stay Awake](https://open.spotify.com/track/5k9kxCcae70vUElndjveXT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 3:33 | 2023-01-20 |  |

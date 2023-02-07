@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,323 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,379 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 |
-| 2 | [Ma3lebeli](https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lebeli](https://open.spotify.com/album/5qw02s0C0OQmlom0DEc31T) | 4:07 |
+| 2 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
 | 3 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 |
 | 4 | [Ma3lich](https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Ma3lich](https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07) | 3:16 |
-| 5 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
-| 6 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
+| 5 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
+| 6 | [Ma3lebeli](https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lebeli](https://open.spotify.com/album/5qw02s0C0OQmlom0DEc31T) | 4:07 |
 | 7 | [Hbibty Wini \- حبيبتي ويني](https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Hbibty Wini \(حبيبتي ويني\)](https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20) | 2:41 |
 | 8 | [Nsit](https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Nsit](https://open.spotify.com/album/5LVw0x40TTidYtwOiNy673) | 3:17 |
 | 9 | [Denya Bkhout \- دنيا بخوت](https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Khaled L'artiste](https://open.spotify.com/artist/6nUgQSUscZW4aFAg3C2ZPu) | [Denya Bkhout \(دنيا بخوت\)](https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MTY3NTQwNjk5MiwwMDAwMDAwMDFhOTg0NTIyNWYzYTI4MTE2ODAyZmIwNmQ4NzAzOWZl`
+Snapshot ID: `MTY3NTY3NjU4MCwwMDAwMDAwMGUzNTFlMzM5NTRiYzQwOGMyYzBlN2QwNzBiMTU0Zjc4`

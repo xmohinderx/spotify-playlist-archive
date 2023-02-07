@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 821664,
+  "num_followers": 822057,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMGZlOGY1ODdmMmVhZDQ1MmU4MTgzOWYxZjQ2OTVjOTRi",
+  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDliYmRlOWQ4YTEwOTI3MDk5ZjViYWIzODMxZjM4NDYx",
   "tracks": [
     {
       "added_at": "2022-08-25 19:21:22",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 143706,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 143706,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -403,22 +387,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -435,6 +403,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -483,6 +483,38 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Songs From Final Fantasy XV",
+        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -499,18 +531,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Songs From Final Fantasy XV",
-        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 245780,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -535,38 +567,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "What About Us (Acoustic)",
         "url": "https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "here comes the sun",
-        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "here comes the sun",
-      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Slow Hands (Acoustic)",
         "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 160592,
       "name": "Slow Hands - Acoustic",
       "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Attention (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 206702,
-      "name": "Attention - Acoustic",
-      "url": "https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
         "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 178355,
       "name": "Ain't Nobody (Loves Me Better) - Acoustic",
       "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Attention (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 206702,
+      "name": "Attention - Acoustic",
+      "url": "https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "#Acoustic #2",
         "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193333,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Firestone (Live Acoustic Version)",
         "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 173508,
       "name": "Home / Dirty Paws",
       "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Jimmy Gets High",
         "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 216586,
       "name": "Bad Day - Acoustic",
       "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
-      },
-      "artists": [
-        {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 141142,
       "name": "Havana - Acoustic",
       "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 298800,
       "name": "Hey Ya - solo version",
       "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 178202,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Slide (Acoustic Version)",
-        "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
-      },
-      "artists": [
-        {
-          "name": "Porcelain Heart",
-          "url": "https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg"
-        }
-      ],
-      "duration_ms": 171611,
-      "name": "Slide - Acoustic Version",
-      "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "City Of Stars",
         "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 154858,
       "name": "City Of Stars",
       "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Slide (Acoustic Version)",
+        "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
+      },
+      "artists": [
+        {
+          "name": "Porcelain Heart",
+          "url": "https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg"
+        }
+      ],
+      "duration_ms": 171611,
+      "name": "Slide - Acoustic Version",
+      "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Chained To The Rhythm",
-        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "On the Road Again",
         "url": "https://open.spotify.com/album/07QIJ8zAWHMOKVAutNHsww"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 139306,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/034SnPlw5DF1Eg0hOcMNXl"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Chained To The Rhythm",
+        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
     },
     {
       "added_at": "2022-08-25 19:21:22",

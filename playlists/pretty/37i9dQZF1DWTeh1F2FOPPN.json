@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 18721,
+  "num_followers": 18848,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMGQzMTkxNWYwMWRjZjRhNTI4YzIzYTRkYzk3ZWNmZWZk",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDczM2U4Y2M2YmE5ODRlMDg0ZDU0YTY3NjgzNTU2MTFj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -183,22 +167,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -211,6 +179,22 @@
       "duration_ms": 383502,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -243,6 +227,22 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -299,18 +299,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+        "name": "Blaque",
+        "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Blaque",
+          "url": "https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ"
+        },
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 284840,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
+      "duration_ms": 218186,
+      "name": "Bring It All to Me (feat. *NSYNC)",
+      "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -331,22 +335,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Blaque",
-        "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
       "artists": [
         {
-          "name": "Blaque",
-          "url": "https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ"
-        },
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Bring It All to Me (feat. *NSYNC)",
-      "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Way to the Show",
-      "url": "https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 217089,
       "name": "Move",
       "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Way to the Show",
+      "url": "https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas"
     },
     {
       "added_at": "2022-10-01 16:54:27",

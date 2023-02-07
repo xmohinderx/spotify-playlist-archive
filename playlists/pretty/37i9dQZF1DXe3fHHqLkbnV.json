@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 227214,
+  "num_followers": 227501,
   "original_name": "90s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMGQzNjIyMGUzNDU3MjBjYjIyMjhiMjEyZTQxYjczNmZk",
+  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDljMWU5M2RjOGZiNjcyMzhiZGIyNmE5YjNmM2YxYTIx",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "How's It Going to Be",
+      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "How's It Going to Be",
-      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Yes I Am",
-        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Come To My Window",
-      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "The Globe Sessions",
         "url": "https://open.spotify.com/album/08enrSAkHTYkQwhRlKXQgB"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 225573,
       "name": "Cloud Number Nine",
       "url": "https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Come To My Window",
+      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
     },
     {
       "added_at": "2023-01-18 22:23:18",

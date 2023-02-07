@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > 
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 176 songs - 10 hr 31 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 178 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 174 | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L) | 3:58 |
 | 175 | [Freefall](https://open.spotify.com/track/3uplouj624e3YhiPd3lETR) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ) | [Freefall](https://open.spotify.com/album/1RJeTvqGeHB41zJL1ouC8h) | 3:15 |
 | 176 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
+| 177 | [castle in the sky](https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:56 |
+| 178 | [wallflower](https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:50 |
 
-Snapshot ID: `Mjc1LDFlNGU4NzRkNjNkNjU5NzJlZjZjNmEyOGRjOWE5YmRjNGI2YWFkM2Y=`
+Snapshot ID: `Mjc3LGU0NTkxMDlmNTQwM2M2ZmQ1NDBlZDAyZTRmNGJjZThkMTA1M2ZjYjQ=`

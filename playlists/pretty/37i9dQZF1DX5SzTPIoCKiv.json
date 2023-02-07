@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 562010,
+  "num_followers": 562217,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMDhjYWRiODlkMTk1MWM0MjI0Nzc4ZjcwYjg3NDk5ODNm",
+  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMGIyOTk1MDg0MjIxOGY0YjIzMDE0Nzc3MjkzMjA3ZTRh",
   "tracks": [
     {
       "added_at": "2021-10-15 11:30:53",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 237338,
-      "name": "Rescue Story",
-      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Hymn Of Heaven",
-      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "The Blessing",
         "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 423193,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 237338,
+      "name": "Rescue Story",
+      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "The God Who Stays",
-      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 218665,
-      "name": "You've Always Been",
-      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -799,6 +783,22 @@
       "duration_ms": 284422,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "You've Always Been",
+      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Broken Things",
-      "url": "https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
@@ -919,22 +903,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 296343,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 199531,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
@@ -1235,34 +1219,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
+      "duration_ms": 199531,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1283,6 +1251,38 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 179120,
       "name": "Best News Ever",
       "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 214573,
       "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "I Am Loved",
-        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 432640,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Haven't Seen It Yet",
         "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
       },
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "In the Arms",
         "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 232800,
       "name": "In the Arms",
       "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Made to Fly",
         "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
     },
     {
       "added_at": "2021-10-15 11:30:53",

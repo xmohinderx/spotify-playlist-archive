@@ -2,7 +2,7 @@
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> 
+> Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
 126 songs - 6 hr 24 min
 

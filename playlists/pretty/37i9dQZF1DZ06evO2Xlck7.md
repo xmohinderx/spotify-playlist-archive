@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,147 likes - 26 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,149 likes - 26 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 4 | [Daylight](https://open.spotify.com/track/7pJx8OGZ8fBbchaVLxveE2) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 4:16 |
 | 5 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 6 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 |
-| 7 | [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 |
+| 7 | [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 |
 | 8 | [From Hell](https://open.spotify.com/track/23CtmrAxtou9iB43mfim6r) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:38 |
 | 9 | [Post Script](https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:49 |
 | 10 | [Insomniatic Meat](https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:24 |
-| 11 | [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 |
+| 11 | [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 |
 | 12 | [New Kid](https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Falling Into Place](https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay) | 5:34 |
 | 13 | [Perfection Through Silence](https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:09 |
 | 14 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 25 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 |
 | 26 | [Spanish Fly \- Bonus Track](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
 
-Snapshot ID: `Mjc5MjY3NTcsMDAwMDAwMDA5NjQwMGY3OWZkNzE0OTBjZmFkMGY4ODFlOTZjNGIwNg==`
+Snapshot ID: `Mjc5MjgxNjcsMDAwMDAwMDA3ZDEyNDgyNTc1YjIzNzBlNTJkNGY4NjAzNmRlOTA0Mg==`

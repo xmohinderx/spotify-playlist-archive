@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15348,
+  "num_followers": 15358,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDVmNmE4OGQ3MTc2YWE0YjU1NWZkZTk4NTRiNDEzY2M0",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGRiYjQ2NGE1MmU2OTQ3OWMwZmJhYjFlMDcxNjUyODdl",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Love Line (with Tinashe) [HUGEL Remix]",
         "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 145638,
       "name": "Love Line (with Tinashe) - HUGEL Remix",
       "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1707,86 +1707,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Show Me Love (Sander van Doorn Remix)",
-        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Show Me Love - Sander van Doorn Remix",
-      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Where The Lights Are Low (TCTS Remix)",
-        "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        },
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Where The Lights Are Low - TCTS Remix",
-      "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
-        "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
-      "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hearts on Fire (The Remixes)",
         "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
       },
@@ -1819,6 +1739,86 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Where The Lights Are Low (TCTS Remix)",
+        "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Where The Lights Are Low - TCTS Remix",
+      "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Show Me Love (Sander van Doorn Remix)",
+        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Show Me Love - Sander van Doorn Remix",
+      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
+        "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
+      "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 207785,
       "name": "Watch Your Step (Picard Brothers Remix)",
       "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2315,6 +2315,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "PURE (The Remixes)",
         "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
       },
@@ -2335,22 +2355,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2375,26 +2395,6 @@
       "duration_ms": 228000,
       "name": "Stay Forever (feat. STRFKR) - Midnight Kids Remix",
       "url": "https://open.spotify.com/track/2cX3pmM6V6CbfIT1vJvYcO"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     }
   ],
   "unique_name": "mint Remix",

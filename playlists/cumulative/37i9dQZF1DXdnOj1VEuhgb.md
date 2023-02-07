@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Güneş
 
-63 songs - 2 hr 45 min
+64 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Vicdanım Kayıp](https://open.spotify.com/track/0957zCB7svwHxXufWRs6so) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Vicdanım Kayıp](https://open.spotify.com/album/2z45zKQlrUE2tmlYEa1IaH) | 2:40 | 2023-01-10 |  |
 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 | 2023-01-10 |  |
 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 | 2023-01-10 |  |
+| [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 | 2023-02-06 |  |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2023-01-10 |  |
 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-02 |  |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 |  |

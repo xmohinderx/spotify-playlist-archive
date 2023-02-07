@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 13482,
+  "num_followers": 13528,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGYwZGE0YmFlNjdmYWYzNDhjNmIwYTNkZGVjMTEzNWU3",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDFlOGFhZTRmNWJmYjNlMmQyNzNmOGE0MjY1NDA2Yzc3",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Moon Cabin",
+        "url": "https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 395013,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Joyfunk Is Dead",
         "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Moon Cabin",
-        "url": "https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 395013,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Joyfell",
         "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 308798,
       "name": "Joyfell",
       "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -299,6 +283,22 @@
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        }
+      ],
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91"
       },
@@ -445,22 +461,6 @@
       "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        }
-      ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "The Arcade",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "You're a Catman",
-        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 342994,
-      "name": "You\u2019re a Catman",
-      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Spafford",
@@ -507,6 +491,22 @@
       "duration_ms": 263198,
       "name": "Electric Taco Stand",
       "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Out of Line",
         "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 339120,
       "name": "Opelika Yella",
       "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 401213,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "The Werks",
@@ -815,6 +799,22 @@
       "duration_ms": 462830,
       "name": "Off Leash",
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     }
   ],
   "unique_name": "Modern Jam Band",

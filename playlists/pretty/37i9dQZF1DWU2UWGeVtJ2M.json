@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 141848,
+  "num_followers": 141895,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA0OTQ2MSwwMDAwMDAwMDhhMWRlOWMwNzFiNzdhNmZmNDE4ZmEwYjU0ZDZmNTk5",
+  "snapshot_id": "MTY3NTA0OTQ2MSwwMDAwMDAwMGUwMjIzNmFmOTJmMWIyZTA5ZWY4MzJjNmMwZjM3NTky",
   "tracks": [
     {
       "added_at": "2023-01-30 03:31:01",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 162794,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "wish you were gay",
+      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "wish you were gay",
-      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -243,6 +243,22 @@
       "duration_ms": 197487,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -311,6 +327,22 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -675,22 +659,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "Play Me Something Nice",
         "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 201301,
       "name": "Play Me Something Nice",
       "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Sosamann",
-          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "What About Me (feat. Sosamann)",
-      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 174683,
       "name": "Autumn breeze (Feat. Milky Day)",
       "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Sosamann",
+          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "What About Me (feat. Sosamann)",
+      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
         "name": "Better Version",
         "url": "https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 215117,
       "name": "Better Version",
       "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2023-01-30 03:31:01",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2023-01-30 03:31:01",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
     },
     {
       "added_at": "2023-01-30 03:31:01",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-01-30 03:31:01",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
     },
     {
       "added_at": "2023-01-30 03:31:01",

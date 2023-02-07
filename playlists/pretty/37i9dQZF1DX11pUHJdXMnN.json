@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 55348,
+  "num_followers": 55381,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDAzYzE4MzQ0YmQzMTA2YTkyMGY1YmE2M2NkZGUwZGRj",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDE1MzY5NmEyZDdjM2JjMzU2NmY2OGI0ZWI3NDJjMjE4",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "First Wave",
+        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+      },
+      "artists": [
+        {
+          "name": "Roland Tings",
+          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+        }
+      ],
+      "duration_ms": 278755,
+      "name": "First Wave",
+      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 342032,
       "name": "Floppy - Marlon Hoffstadt's Energy Bells Mix",
       "url": "https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "First Wave",
-        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
-      },
-      "artists": [
-        {
-          "name": "Roland Tings",
-          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
-        }
-      ],
-      "duration_ms": 278755,
-      "name": "First Wave",
-      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Faccia a faccia (Remixes)",
         "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 227019,
       "name": "Faccia a faccia - Italoconnection Remix Radio",
       "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

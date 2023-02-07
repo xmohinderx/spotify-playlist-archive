@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDc4NjE4ZjVjYzhhYjRjNDk4NDFmYWI5MGVjN2U0ZWFk",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGI1NGY5YjQ2YmQ3ZjU4NTY0OWJhMTMxNDc4ZTE0YzBi",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Nunca Voy A Olvidarte (Radio Mix)",
-        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
-      },
-      "artists": [
-        {
-          "name": "Los Lost Boyz",
-          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
-        }
-      ],
-      "duration_ms": 198216,
-      "name": "Nunca Voy A Olvidarte - Radio Mix",
-      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Mi Tesoro",
         "url": "https://open.spotify.com/album/4Y0NtgWtAJvRvgo20xYRHy"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 207725,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Nunca Voy A Olvidarte (Radio Mix)",
+        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
+      },
+      "artists": [
+        {
+          "name": "Los Lost Boyz",
+          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
+        }
+      ],
+      "duration_ms": 198216,
+      "name": "Nunca Voy A Olvidarte - Radio Mix",
+      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "So\u00f1ar Contigo",
+        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+      },
+      "artists": [
+        {
+          "name": "Cris Medina",
+          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 197965,
       "name": "Me Dec\u00edas",
       "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "So\u00f1ar Contigo",
-        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
-      },
-      "artists": [
-        {
-          "name": "Cris Medina",
-          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
-      },
-      "artists": [
-        {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+      },
+      "artists": [
+        {
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Final De Tu Amor",
-        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
       "artists": [
         {
-          "name": "Grupo Vidal",
-          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
         }
       ],
-      "duration_ms": 205438,
-      "name": "Final De Tu Amor",
-      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -783,6 +767,22 @@
       "duration_ms": 227186,
       "name": "Porque Sera",
       "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Final De Tu Amor",
+        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vidal",
+          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
+        }
+      ],
+      "duration_ms": 205438,
+      "name": "Final De Tu Amor",
+      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
     },
     {
       "added_at": "2023-01-27 17:40:01",

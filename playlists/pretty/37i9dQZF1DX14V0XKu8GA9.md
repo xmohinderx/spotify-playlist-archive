@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,496 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,515 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 31 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 32 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
 | 33 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
-| 34 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
-| 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
+| 34 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
+| 35 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDY0NjE1NDc4OWZjYmMwMTNmNDRjYTRhODVkYzJlZjlk`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDQ5MzliYjc3NGY4N2ZhNTc0YTUxYzMzOGY5NGM1ODY0`

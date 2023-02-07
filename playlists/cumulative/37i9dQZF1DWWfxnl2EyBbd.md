@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-404 songs - 1 day 8 hr 13 min
+405 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Based On Gustav](https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9) | [Sir Roland Hanna Trio](https://open.spotify.com/artist/0nZO7OnpC74SRJQDxTWf7O) | [Apres Un Reve](https://open.spotify.com/album/1hbf0va1E55xuy2vssn0D3) | 6:36 | 2022-02-10 | 2022-11-21 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-12 |  |
+| [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
 | [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-02-10 | 2023-01-11 |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-12 |  |
@@ -69,7 +70,7 @@
 | [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 | 2022-11-12 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-11-12 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-11-12 |  |
-| [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-11-12 |  |
+| [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-11-12 | 2023-02-07 |
 | [Come Sunday](https://open.spotify.com/track/3Nctgma8nqUtYcfOUbmSLn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Come Sunday](https://open.spotify.com/album/2ntGI3niS9mmoSvTdt4BtS) | 3:29 | 2022-02-10 | 2022-11-12 |
 | [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 | 2022-11-12 |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-12 |  |

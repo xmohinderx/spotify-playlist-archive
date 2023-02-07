@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Pauline Herr.
 
-311 songs - 17 hr 33 min
+312 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [bb u ok?](https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [bb u ok?](https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb) | 3:21 | 2021-08-06 |  |
 | [Be Fine \(feat\. Wafia\)](https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 2:39 | 2021-08-06 |  |
 | [Be With You \(ft\. Gloria Kim\)](https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Recursion](https://open.spotify.com/album/2fm1hGoHOQ9agA0yoUKcaQ) | 3:06 | 2021-08-06 |  |
-| [Beats Me Up \(feat\. Coucheron\)](https://open.spotify.com/track/4BhgXwXrHuPUy8TTugy1Aw) | [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Beats Me Up \(feat\. Coucheron\)](https://open.spotify.com/album/5DSbyvgNw8WBaWUwpwVNI9) | 2:41 | 2023-01-27 |  |
+| [Beats Me Up \(feat\. Coucheron\)](https://open.spotify.com/track/4BhgXwXrHuPUy8TTugy1Aw) | [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Beats Me Up \(feat\. Coucheron\)](https://open.spotify.com/album/5DSbyvgNw8WBaWUwpwVNI9) | 2:41 | 2023-01-27 | 2023-02-07 |
 | [Beneath Us](https://open.spotify.com/track/21LG8xoR5iNEkbIJrLvkze) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Warmth](https://open.spotify.com/album/2vkWw16SLqQKeE56HI7UNQ) | 4:06 | 2021-08-06 | 2022-07-28 |
 | [Best Part About You \- camoufly Remix](https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Best Part About You \(camoufly Remix\)](https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM) | 3:11 | 2022-12-21 |  |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2021-08-06 | 2022-07-30 |
@@ -270,6 +270,7 @@
 | [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/1N0x6QjETxN1cvvgp2KRyn) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/0UC2uTSWx1s7UsCu3AmaDn) | 2:30 | 2022-03-25 | 2022-10-13 |
 | [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/6Ybtd0fwLZnOqU4Kd8etj9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/3udh5dS7iw2eBYZOqEitQj) | 2:30 | 2022-03-25 |  |
 | [THE ONE](https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [VF VOL II](https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1) | 2:58 | 2022-09-23 |  |
+| [Thief](https://open.spotify.com/track/0t6ngtD51gpRodboSjl2d4) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/5Sr91fv0mXzWElNRdiXN89) | 3:34 | 2022-12-21 |  |
 | [Thief](https://open.spotify.com/track/3Tw9Z8J4DLL1Y2zVyBiDg0) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3UIrcJiTuOoBcuQA6xS26O) | 3:34 | 2021-08-06 | 2022-11-30 |
 | [Thief](https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3JFjDW9hgB5sGdCdsXBwR5) | 3:34 | 2021-08-06 | 2022-07-16 |
 | [Think About Us](https://open.spotify.com/track/2HeL8TqSKIWdZLtCL90ykM) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Lorne](https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR) | [Think About Us](https://open.spotify.com/album/5gNXhMLVOlonpTqa3tVlMg) | 3:22 | 2021-08-06 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-328 songs - 20 hr 20 min
+329 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Jennifer](https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv) | 4:00 | 2020-09-19 | 2022-07-28 |
 | [Jeune](https://open.spotify.com/track/3HV9YnoYACjlrJ5CiZ3hLj) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Jeune](https://open.spotify.com/album/0ra3Nkh7kqEUEtReZ6rbEY) | 4:18 | 2019-11-19\* | 2022-07-29 |
 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 | 2022-07-06 |  |
-| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 |  |
+| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 | 2023-02-07 |
 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 | 2020-12-22 |  |
 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 | 2020-08-09 |  |
 | [Kid](https://open.spotify.com/track/3JZHzeKukmftdMKUoI87Jj) | [lostboy](https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5) | [Kid](https://open.spotify.com/album/7EY8Lrp6ttJuhUDMpJTdkz) | 3:13 | 2020-12-11 | 2021-03-06 |
@@ -247,6 +247,7 @@
 | [Roll with the Punches](https://open.spotify.com/track/0On15a5CZ9FJdlMIWrrZgm) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Roll with the Punches](https://open.spotify.com/album/6khdFMTakDvOnAqqHCdRxA) | 3:51 | 2020-12-22 | 2022-07-29 |
 | [Run](https://open.spotify.com/track/0nxv9drRoW2CqfCGzpjfKi) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Besides](https://open.spotify.com/album/6PV6OH3PUa0BwkpquBZJnm) | 3:34 | 2021-03-06 | 2022-04-21 |
 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2021-03-06 | 2022-07-24 |
+| [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 | 2022-07-06 |  |
 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 | 2022-01-27 | 2022-11-15 |
 | [Self Aware](https://open.spotify.com/track/0zxaeEmN9uxdvx7mrnmZAJ) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Do It Again](https://open.spotify.com/album/7KIGWJhK1TUev0tHh7CnGH) | 4:46 | 2020-08-09 | 2022-07-29 |
 | [Semana Satán](https://open.spotify.com/track/0pTFGLZAHPhGUVqu7IExr7) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Semana Satán](https://open.spotify.com/album/5OqHJeHbnFDqjkTfTcGk2E) | 5:05 | 2020-09-19 | 2022-04-18 |

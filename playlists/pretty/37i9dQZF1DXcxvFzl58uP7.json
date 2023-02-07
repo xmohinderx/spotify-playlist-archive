@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1053449,
+  "num_followers": 1053817,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0Nzg3OSwwMDAwMDAwMGMyZDhhNTBiMTIwOTlkZWYwODM0MTQwZjU0OGExNzIw",
+  "snapshot_id": "MTY3NDc0Nzg3OSwwMDAwMDAwMGIyMTBhY2QxOTZmZmY2OGYxYWJmMjlmYzMwNTgyOTRm",
   "tracks": [
     {
       "added_at": "2022-12-21 18:39:33",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 173286,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 173953,
       "name": "Someone To Spend Time With",
       "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "added_at": "2023-01-04 18:25:31",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
+        "name": "Steve Lacy's Demo",
+        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
         "name": "The Loser",
         "url": "https://open.spotify.com/album/77bm4AHldCf4STieStlVJg"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 131586,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -555,6 +555,22 @@
       "duration_ms": 137528,
       "name": "SWEET N SOUR",
       "url": "https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Steve Lacy's Demo",
-        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Shawcross",
         "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Pop Food",
-        "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
-      },
-      "artists": [
-        {
-          "name": "Jack Stauber",
-          "url": "https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177479,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Pop Food",
+        "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber",
+          "url": "https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
-      "added_at": "2023-01-12 16:54:13",
-      "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
-    },
-    {
       "added_at": "2022-12-21 18:39:33",
       "album": {
         "name": "Permanent Damage",
@@ -1211,6 +1195,22 @@
       "duration_ms": 221873,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-01-12 16:54:13",
+      "album": {
+        "name": "endlessly",
+        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Picture",
         "url": "https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 156279,
       "name": "Picture",
       "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 160870,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+      "duration_ms": 160870,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1535,6 +1519,22 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
       "added_at": "2022-12-21 18:39:33",

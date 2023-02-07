@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Josephine On The Floor",
+        "url": "https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4"
+      },
+      "artists": [
+        {
+          "name": "Karshni",
+          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267154,
+      "name": "Josephine On The Floor",
+      "url": "https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM"
+    },
+    {
+      "album": {
         "name": "Jukebox Of History",
         "url": "https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv"
       },
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 160743,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0UH9PHiyuPQoxSPweocyRc"

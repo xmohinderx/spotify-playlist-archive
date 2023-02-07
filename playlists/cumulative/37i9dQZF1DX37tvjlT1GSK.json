@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185354,
+      "name": "Gente De Sombrero - En Vivo",
+      "url": "https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO"
+    },
+    {
+      "album": {
         "name": "Gente Del Flaco (En Vivo)",
         "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 218250,
       "name": "Mi Dolor",
       "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"

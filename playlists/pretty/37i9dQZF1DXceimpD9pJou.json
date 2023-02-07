@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lizzy Parra",
-  "num_followers": 116999,
+  "num_followers": 117076,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDllMGRjNGVlMjI1YjE0MDg2NmYwZDZjMTVlNGUzNjVl",
+  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDI0OWVjZmZkZjJhYWFlYjFjODc2NTBlYTg5ZjU2MTYy",
   "tracks": [
     {
       "added_at": "2023-02-03 09:29:24",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Veintidos",
-        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 183663,
-      "name": "Veintidos",
-      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "No Existe",
-        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+        "name": "Veintidos",
+        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 204381,
-      "name": "No Existe",
-      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
+      "duration_ms": 183663,
+      "name": "Veintidos",
+      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Por Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 165681,
-      "name": "Por Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "ESPERO",
         "url": "https://open.spotify.com/album/5KSJakuV8RAhCGo1z9fnFE"
       },
@@ -755,6 +739,38 @@
       "duration_ms": 178666,
       "name": "ESPERO",
       "url": "https://open.spotify.com/track/7HVB3Yg6JHSqkcYDg7w26O"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Mundo Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Mundo Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Por Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Por Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Mundo Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Mundo Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
         "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Bendecio",
-        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+        "name": "Dios Es Bueno",
+        "url": "https://open.spotify.com/album/2rOluTl61G1MwqMpyWHakZ"
       },
       "artists": [
         {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bendecio",
-      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
+      "duration_ms": 327705,
+      "name": "Dios Es Bueno",
+      "url": "https://open.spotify.com/track/4wfvNQKM203PFuZujbOzZ3"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Dios Es Bueno",
-        "url": "https://open.spotify.com/album/2rOluTl61G1MwqMpyWHakZ"
+        "name": "Bendecio",
+        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
       },
       "artists": [
         {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
         }
       ],
-      "duration_ms": 327705,
-      "name": "Dios Es Bueno",
-      "url": "https://open.spotify.com/track/4wfvNQKM203PFuZujbOzZ3"
+      "duration_ms": 216470,
+      "name": "Bendecio",
+      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Presumirte",
-        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
-        }
-      ],
-      "duration_ms": 185494,
-      "name": "Presumirte",
-      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Confieso ft. El Leo Pa'",
         "url": "https://open.spotify.com/album/2MGAkl3o8HycOthPj15z2y"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 222000,
       "name": "Confieso ft. El Leo Pa'",
       "url": "https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Presumirte",
+        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
+        }
+      ],
+      "duration_ms": 185494,
+      "name": "Presumirte",
+      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
+        "name": "And\u00e1 Pa\u00b4 Sha",
+        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 178882,
+      "name": "And\u00e1 Pa\u00b4 Sha",
+      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
         "name": "El Robo",
         "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
       },
@@ -1063,42 +1079,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
-      },
-      "artists": [
-        {
-          "name": "KDuran",
-          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
-        },
-        {
-          "name": "Jonatan Narv\u00e1ez",
-          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
-        "name": "And\u00e1 Pa\u00b4 Sha",
-        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 178882,
-      "name": "And\u00e1 Pa\u00b4 Sha",
-      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Intervencion",
         "url": "https://open.spotify.com/album/4RXlMlYICi7URX1nk4whLP"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 178909,
       "name": "Intervencion",
       "url": "https://open.spotify.com/track/4E9aVBaKUtIcc3o8E6LVAL"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
+      },
+      "artists": [
+        {
+          "name": "KDuran",
+          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
+        },
+        {
+          "name": "Jonatan Narv\u00e1ez",
+          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
+        }
+      ],
+      "duration_ms": 234811,
+      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
     },
     {
       "added_at": "2023-02-03 09:29:24",

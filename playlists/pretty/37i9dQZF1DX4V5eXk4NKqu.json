@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kali Uchis",
-  "num_followers": 147008,
+  "num_followers": 147048,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODAyOSwwMDAwMDAwMDMzMjcyNjU0MmE3MGU0YjViNTM3M2ZkOWY0ZjBmY2U2",
+  "snapshot_id": "MTY3NTM3ODAyOSwwMDAwMDAwMDY0MGMyMDhiMzZlMDIwZjYwMzQ2YjM0YjhmNzVhMjE3",
   "tracks": [
     {
       "added_at": "2023-02-02 22:47:09",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 241000,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
-        "name": "Daikiri",
-        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 237652,
-      "name": "Daikiri",
-      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
-        "name": "Ag\u00fcita",
-        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+        "name": "Daikiri",
+        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
       },
       "artists": [
         {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 221877,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
+      "duration_ms": 237652,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
-        "name": "DAMALEONA, VOL. 2",
-        "url": "https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -995,6 +979,22 @@
       "duration_ms": 187561,
       "name": "Perreo Bonito",
       "url": "https://open.spotify.com/track/1JiXHnf0TqWFuKiFeGChHz"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
+        "name": "DAMALEONA, VOL. 2",
+        "url": "https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
+        "name": "Ag\u00fcita: Remixes",
+        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
-        "name": "\u00faltimo y primero",
-        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "\u00faltimo y primero",
-      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
         "name": "WILL THIS MAKE ME GOOD",
         "url": "https://open.spotify.com/album/5vxofv9WcrZHyA4Ce0PpDI"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 249211,
       "name": "ALL THESE INSTRUMENTS",
       "url": "https://open.spotify.com/track/1x6mcBCE9umx4zSzeQM5mo"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "IN MY ROOM!",
-      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
         "name": "Mariposa De Coalcom\u00e1n",
         "url": "https://open.spotify.com/album/37qgqu8z3XbatGZ8X6h40C"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 293453,
       "name": "Mariposa De Coalcom\u00e1n",
       "url": "https://open.spotify.com/track/746EOusLLWulE6bWw41iAH"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "IN MY ROOM!",
+      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
         "name": "Tantas Cosas Buenas",
         "url": "https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-02-02 22:47:09",
       "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
         "name": "Realismo",
         "url": "https://open.spotify.com/album/0tmXIVv22DgY6bcShlu9VD"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 156482,
       "name": "ANSIED\u00c1",
       "url": "https://open.spotify.com/track/6VpQgyiBjB8R1hAiiuFAxB"
+    },
+    {
+      "added_at": "2023-02-02 22:47:09",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "a lifetime with you",
+      "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
     },
     {
       "added_at": "2023-02-02 22:47:09",
@@ -1607,22 +1623,6 @@
       "duration_ms": 236503,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
-    },
-    {
-      "added_at": "2023-02-02 22:47:09",
-      "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "a lifetime with you",
-      "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
     },
     {
       "added_at": "2023-02-02 22:47:09",

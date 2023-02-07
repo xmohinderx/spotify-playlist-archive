@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,307 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,373 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 66 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 | 67 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
 | 68 | [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 |
-| 69 | [ME!](https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [ME!](https://open.spotify.com/album/0mGi37LiQDvXXMFT1nrM86) | 3:11 |
-| 70 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 |
+| 69 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 |
+| 70 | [ME!](https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [ME!](https://open.spotify.com/album/0mGi37LiQDvXXMFT1nrM86) | 3:11 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDc5NGU3ZGI5YmM0MDRlOTRhNGEyYTMzMmMyYzA0MjYy`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDAxNDY1NTNlM2ExOWFmYTAyNjk4ZjI0OTZlNzE0ZjZm`

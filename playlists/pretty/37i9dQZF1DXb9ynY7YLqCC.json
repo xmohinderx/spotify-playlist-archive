@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 136935,
+  "num_followers": 137015,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGUyZWE2MDc3Yzk2MzhjMzY5NjQ4ZGNhNGJkYTY5NjMy",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDIxZTBhNDNlYWZhOWM3N2ZiYjc1OWZiZjMzODNkY2M0",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "De Bichos Y Flores",
         "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "3er Arco",
-        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 253933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -315,38 +331,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Momo Sampler",
         "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 220466,
       "name": "Una Piba Con la Remera de Greenpeace",
       "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -411,6 +379,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 264838,
       "name": "La Raz\u00f3n Que Te Demora",
       "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 209133,
       "name": "Beatle",
       "url": "https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 303866,
-      "name": "Tantas Escaleras",
-      "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 205946,
       "name": "Se Viene",
       "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -779,34 +747,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Clarobscuro",
-      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
-      },
-      "artists": [
-        {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "Misterios",
-      "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
+      "duration_ms": 303866,
+      "name": "Tantas Escaleras",
+      "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -827,6 +779,70 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Clarobscuro",
+      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "Misterios",
+      "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "\u00a1Esta!",
         "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
       },
@@ -843,8 +859,8 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+        "name": "La Esquina Del Infinito",
+        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+      "duration_ms": 182360,
+      "name": "Panic Show",
+      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 431626,
       "name": "Amar y Envejecer",
       "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
-      },
-      "artists": [
-        {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -955,34 +955,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "La Esquina Del Infinito",
-        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Panic Show",
-      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 357093,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/1ELykgy7CVsJtEuwUcvCfq"
+      "duration_ms": 339480,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 214651,
       "name": "Volver a Nacer",
       "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 357093,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/1ELykgy7CVsJtEuwUcvCfq"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "A Cielo Abierto - El a\u00f1o del tigre",
-        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 194597,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Asuntos de Familia",
         "url": "https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 255315,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "A Cielo Abierto - El a\u00f1o del tigre",
+        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 194597,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Alma en Pe\u00f1a",
         "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Mundo Perfecto",
         "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 228786,
       "name": "Hasta La Victoria",
       "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Fiesta Sudaka (Parte 1)",
+        "url": "https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "duration_ms": 335560,
+      "name": "Amando A Mi Guitarra",
+      "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 201960,
       "name": "El Templo de Momo",
       "url": "https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Fiesta Sudaka (Parte 1)",
-        "url": "https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu"
-      },
-      "artists": [
-        {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
-        }
-      ],
-      "duration_ms": 335560,
-      "name": "Amando A Mi Guitarra",
-      "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
     },
     {
       "added_at": "2022-12-30 03:00:00",

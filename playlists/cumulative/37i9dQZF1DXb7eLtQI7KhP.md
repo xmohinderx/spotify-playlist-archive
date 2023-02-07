@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-117 songs - 5 hr 25 min
+120 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aqua Tacet](https://open.spotify.com/track/1dGj3FCziIKrm7IAG9KNYL) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Aqua Tacet](https://open.spotify.com/album/3k9jcwQk6tlH3QJc7Otd4i) | 2:40 | 2022-04-28 |  |
 | [As I Was](https://open.spotify.com/track/4yOpcry4CWaSCjUQgdwN6z) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [As I Was](https://open.spotify.com/album/5su4E0BtsA1PmsiFjp7Rg1) | 5:11 | 2022-07-27 |  |
 | [Asana](https://open.spotify.com/track/1tgbowhuwXlzBy0hPEGkEq) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [Asana](https://open.spotify.com/album/5qTx1yvL5ARNo7GmhSd6E6) | 3:41 | 2022-11-14 |  |
-| [At dawn](https://open.spotify.com/track/3s8OzufTF0QYthWCQErO32) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Meadow](https://open.spotify.com/album/3PCWuBlBNCd8XTqF1wVpNl) | 2:26 | 2023-01-26 |  |
+| [At dawn](https://open.spotify.com/track/3s8OzufTF0QYthWCQErO32) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Meadow](https://open.spotify.com/album/3PCWuBlBNCd8XTqF1wVpNl) | 2:26 | 2023-01-26 | 2023-02-07 |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2022-04-28 |  |
@@ -48,7 +48,7 @@
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-04-28 |  |
 | [For Elsa](https://open.spotify.com/track/1F5SC8Yey1YhVg6A9kuuBd) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [For Elsa](https://open.spotify.com/album/5aXpF8X2rDaH1YGKn3jfZT) | 2:02 | 2022-04-28 |  |
 | [Golden Hours](https://open.spotify.com/track/7aKvtqbShkyEmLmsyktsMr) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Golden Hours](https://open.spotify.com/album/4hCUiaxKloTNC5RkqSFvlz) | 2:41 | 2022-04-28 |  |
-| [Hazy Dreaming](https://open.spotify.com/track/1gdcOxO6prRb6CfxMljnrD) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Hazy Dreaming](https://open.spotify.com/album/0FdEecCMCRobr1UcPuChbR) | 2:50 | 2022-04-28 |  |
+| [Hazy Dreaming](https://open.spotify.com/track/1gdcOxO6prRb6CfxMljnrD) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Hazy Dreaming](https://open.spotify.com/album/0FdEecCMCRobr1UcPuChbR) | 2:50 | 2022-04-28 | 2023-02-07 |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2022-04-28 |  |
 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 | 2022-04-28 |  |
 | [Hypnopea](https://open.spotify.com/track/3Jj8rCN9ozYSoJtpCvmN00) | [Zitosphere](https://open.spotify.com/artist/0o6BZaMS4FnCOUlZuU3wpx) | [Hypnopea](https://open.spotify.com/album/04KzYrdF1xEHy4egkSPrAB) | 2:42 | 2022-04-28 |  |
@@ -96,6 +96,7 @@
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-04-28 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-04-28 |  |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-04-28 |  |
+| [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 | 2023-02-06 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-04-28 |  |
 | [Sopravvivendo](https://open.spotify.com/track/1RwI9IawkVnalfnHSVJyCy) | [Chiara Ambrosino](https://open.spotify.com/artist/0imVbuMRxysJRiLNiNCsva) | [Sopravvivendo](https://open.spotify.com/album/6UdQ4UWorZwPEcgRKAQ0Ot) | 2:03 | 2022-04-28 |  |
 | [Spirit In Nature](https://open.spotify.com/track/0yESmRQrIBwPooYVwz3vq7) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:04 | 2022-04-28 |  |
@@ -104,12 +105,12 @@
 | [Stay By My Side](https://open.spotify.com/track/5kMhF1IhkSty2NFj6LCYJ1) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Stay By My Side](https://open.spotify.com/album/7o9fu8n1lNe3ML4ktRE65U) | 2:13 | 2022-07-27 |  |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2022-04-28 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2022-04-28 |  |
-| [Summer of 79](https://open.spotify.com/track/2vnpkOmyi64QT173bWssLK) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Summer of 79](https://open.spotify.com/album/0NQxGPra2lPYQJoCu4tAVE) | 3:11 | 2022-07-27 |  |
+| [Summer of 79](https://open.spotify.com/track/2vnpkOmyi64QT173bWssLK) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Summer of 79](https://open.spotify.com/album/0NQxGPra2lPYQJoCu4tAVE) | 3:11 | 2022-07-27 | 2023-02-07 |
 | [Sömn](https://open.spotify.com/track/0RVsJTnSwdLQ6F8ruukszk) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Sömn](https://open.spotify.com/album/6f6D9XxUpFpCbBmeTpzKRL) | 2:48 | 2022-04-28 |  |
 | [Taivas](https://open.spotify.com/track/7lKhxWhv5sPG9MBaDfdJL7) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Taivas](https://open.spotify.com/album/4eZo8y8cM7ZGqaUJoaooZ9) | 2:24 | 2022-04-28 |  |
 | [The Memory Stays](https://open.spotify.com/track/4p7e7bBvMo9zIgtNYYLTju) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [The Memory Stays](https://open.spotify.com/album/7z505ksBMudhpYzfXAKzI5) | 2:40 | 2022-04-28 |  |
 | [The People Stare](https://open.spotify.com/track/4VhCO377YzeImgrIWCZm21) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [The People Stare](https://open.spotify.com/album/1qnNjkSsXqCfVR0KknEakW) | 3:35 | 2022-04-28 |  |
-| [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-04-28 |  |
+| [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-04-28 | 2023-02-07 |
 | [This Heart Of Mine](https://open.spotify.com/track/1zPdxtJ6dnmQaqtr9NbPkh) | [Ashlyn Wells](https://open.spotify.com/artist/3zYmhcuzxbyb5fHYDliCFn) | [This Heart Of Mine \(Ambient Version\)](https://open.spotify.com/album/4wlwX82sNvN5hz7uwDWPNp) | 2:02 | 2022-04-28 |  |
 | [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-04-28 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-04-28 |  |
@@ -123,7 +124,9 @@
 | [Wengen](https://open.spotify.com/track/4EmOsFxW6Nx84qPs9ACrA5) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Wengen](https://open.spotify.com/album/2BopNtLHRQ1mx5YlamsiEg) | 3:10 | 2022-04-28 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2022-04-28 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2022-04-28 |  |
+| [Winter solstice](https://open.spotify.com/track/5ahM6oAPik0WB6sEN8Oep6) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Winter solstice](https://open.spotify.com/album/0aUUS04W5TOsnBGxsE8A18) | 3:01 | 2023-02-06 |  |
 | [Wishful](https://open.spotify.com/track/5GfFG1yYeCVAnaRY8wmMZ3) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:04 | 2022-04-28 |  |
 | [Wistful](https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Wistful](https://open.spotify.com/album/3DelzkmukAbuP0STlZeGds) | 2:15 | 2022-04-28 |  |
+| [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 | 2023-02-06 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

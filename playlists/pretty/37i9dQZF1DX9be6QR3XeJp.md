@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: yunè pinku
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,543 likes - 135 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,532 likes - 135 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 134 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 135 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDhlZWE1M2VmYTY0YmQ4ZDY2OTRmOWI5ZWRhOWIxMzNl`
+Snapshot ID: `MTY3NTY4Mjc2MSwwMDAwMDAwMGRiZDQ1YTNlZWFkZDk2ZGFlYzQ2MTE5ODZkNmYyYjk4`

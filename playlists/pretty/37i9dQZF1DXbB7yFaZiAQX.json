@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 901363,
+  "num_followers": 901654,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMDQ0ZTUyODE1MjhjMDY0YTk2MzIzYjM4NmJkZGExNTBm",
+  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMGI2MTA4ZGEzZGM1YzljZDM5ZjVlMTRiYjQ5NzRjM2Y3",
   "tracks": [
     {
       "added_at": "2018-12-12 10:56:53",
@@ -163,22 +163,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 252200,
       "name": "White Wedding - Pt. 1",
       "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
       "added_at": "2022-09-27 13:03:58",
       "album": {
         "name": "Hatful of Hollow",
@@ -321,20 +305,20 @@
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -367,6 +351,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2019-08-01 09:13:54",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
+      "added_at": "2020-03-19 10:57:08",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
       "added_at": "2021-01-06 11:26:11",
       "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
@@ -545,38 +561,6 @@
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
-    },
-    {
-      "added_at": "2020-03-19 10:57:08",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
-    },
-    {
       "added_at": "2020-01-07 15:19:52",
       "album": {
         "name": "Music for the Masses (2006 Remaster)",
@@ -591,6 +575,22 @@
       "duration_ms": 290493,
       "name": "Never Let Me Down Again - 2006 Remaster",
       "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
       "added_at": "2022-07-05 07:37:08",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
       "added_at": "2019-08-02 12:07:51",
       "album": {
         "name": "The Collection",
@@ -707,18 +723,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+        "name": "The Head on the Door",
+        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
       "artists": [
         {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+      "duration_ms": 203266,
+      "name": "Close to Me - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -735,22 +751,6 @@
       "duration_ms": 171746,
       "name": "Debaser",
       "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Head on the Door",
-        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Close to Me - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
-      "added_at": "2023-02-06 01:37:56",
+      "added_at": "2023-02-07 01:30:05",
       "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
-      "added_at": "2019-08-02 12:25:08",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
       "added_at": "2023-01-11 10:44:43",
       "album": {
         "name": "Lion and the Cobra",
@@ -943,6 +927,22 @@
       "duration_ms": 294146,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3"
+    },
+    {
+      "added_at": "2019-08-02 12:25:08",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
+      "added_at": "2023-02-07 01:30:05",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Talk Talk Talk",
@@ -1039,22 +1055,6 @@
       "duration_ms": 238106,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
-    },
-    {
-      "added_at": "2023-02-06 01:37:56",
-      "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2021-10-17 09:47:36",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
     },
     {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
-        "name": "Fine Young Cannibals",
-        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Johnny Come Home",
-      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "In Your Room",
@@ -1247,6 +1231,22 @@
       "duration_ms": 144133,
       "name": "Situation - 2008 Remastered Version",
       "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+    },
+    {
+      "added_at": "2019-08-02 12:19:29",
+      "album": {
+        "name": "Fine Young Cannibals",
+        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Johnny Come Home",
+      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
     },
     {
+      "added_at": "2021-11-08 14:30:13",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
+    },
+    {
       "added_at": "2021-03-29 06:58:38",
       "album": {
         "name": "I Won't Let You Down",
@@ -1393,22 +1409,6 @@
       "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
     },
     {
-      "added_at": "2021-11-08 14:30:13",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
-    },
-    {
       "added_at": "2020-05-06 11:30:43",
       "album": {
         "name": "Chris Isaak",
@@ -1423,22 +1423,6 @@
       "duration_ms": 253906,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 151693,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
+    },
+    {
+      "added_at": "2019-08-02 12:01:33",
+      "album": {
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "True Faith - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1503,22 +1519,6 @@
       "duration_ms": 235933,
       "name": "I Melt With You - Rerecorded",
       "url": "https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD"
-    },
-    {
-      "added_at": "2019-08-02 12:01:33",
-      "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "True Faith - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 301826,
       "name": "Love Action (I Believe In Love)",
       "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
+      "added_at": "2022-05-16 14:07:54",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Dirty Blvd.",
+      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
+    },
+    {
       "added_at": "2019-08-02 12:01:33",
       "album": {
         "name": "Hounds of Love (2018 Remaster)",
@@ -1679,22 +1695,6 @@
       "duration_ms": 503109,
       "name": "More",
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
-    },
-    {
-      "added_at": "2022-05-16 14:07:54",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Dirty Blvd.",
-      "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
     },
     {
       "added_at": "2021-04-13 07:11:45",
@@ -1809,20 +1809,20 @@
       "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2022-12-04 12:41:45",
       "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
       "artists": [
         {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 418173,
-      "name": "Living in Another World - 1997 Remaster",
-      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2020-05-06 11:30:43",
@@ -1841,20 +1841,20 @@
       "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
     },
     {
-      "added_at": "2022-12-04 12:41:45",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
       ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+      "duration_ms": 418173,
+      "name": "Living in Another World - 1997 Remaster",
+      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
       "added_at": "2019-08-01 09:59:32",
@@ -1905,6 +1905,22 @@
       "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "The Stars We Are",
+        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+      },
+      "artists": [
+        {
+          "name": "Marc Almond",
+          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+        }
+      ],
+      "duration_ms": 261687,
+      "name": "Tears Run Rings",
+      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+    },
+    {
       "added_at": "2019-08-01 09:23:21",
       "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
@@ -1951,22 +1967,6 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
-    },
-    {
-      "added_at": "2019-08-01 09:50:38",
-      "album": {
-        "name": "The Stars We Are",
-        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
-      },
-      "artists": [
-        {
-          "name": "Marc Almond",
-          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
-        }
-      ],
-      "duration_ms": 261687,
-      "name": "Tears Run Rings",
-      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Steve McQueen",
         "url": "https://open.spotify.com/album/07CZepJZT17AllXPFRvogL"
       },
@@ -2105,6 +2089,22 @@
       "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "English Settlement",
@@ -2137,22 +2137,6 @@
       "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Isolation - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
-    },
-    {
       "added_at": "2019-08-01 09:13:54",
       "album": {
         "name": "Automatic (Expanded Version)",
@@ -2167,6 +2151,22 @@
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Isolation - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2357,22 +2357,6 @@
       "url": "https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2"
     },
     {
-      "added_at": "2019-08-02 12:01:33",
-      "album": {
-        "name": "The Waterboys",
-        "url": "https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D"
-      },
-      "artists": [
-        {
-          "name": "The Waterboys",
-          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "A Girl Called Johnny - 2002 Remaster",
-      "url": "https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "The Best Of...",
@@ -2387,6 +2371,22 @@
       "duration_ms": 243800,
       "name": "Cities In Dust - Single Version",
       "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
+    },
+    {
+      "added_at": "2019-08-02 12:01:33",
+      "album": {
+        "name": "The Waterboys",
+        "url": "https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "A Girl Called Johnny - 2002 Remaster",
+      "url": "https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Golden Age Of Wireless",
-        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dolby",
-          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "She Blinded Me With Science",
-      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 226693,
       "name": "Surrender - 2022 - Remaster",
       "url": "https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Golden Age Of Wireless",
+        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
     }
   ],
   "unique_name": "The '80s All Lined Up",

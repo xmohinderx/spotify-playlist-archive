@@ -19473,6 +19473,24 @@
     },
     {
       "album": {
+        "name": "Snow Vol. 7",
+        "url": "https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "folks on the hill",
+      "url": "https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9"
+    },
+    {
+      "album": {
         "name": "Singer EP",
         "url": "https://open.spotify.com/album/5el6xbHl0FGHUOLdolCzm4"
       },
@@ -35006,7 +35024,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-07",
       "duration_ms": 178733,
       "name": "Medication",
       "url": "https://open.spotify.com/track/5AzRp1meYTNt8E5JynXfEW"

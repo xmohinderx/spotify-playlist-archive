@@ -11728,7 +11728,7 @@
     {
       "album": {
         "name": "Undone",
-        "url": "https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg"
+        "url": "https://open.spotify.com/album/6By1S4R5WehZI40pM64oKJ"
       },
       "artists": [
         {
@@ -11743,6 +11743,28 @@
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186500,
+      "name": "invisible",
+      "url": "https://open.spotify.com/track/10wh7RPmiDo9tLlEanBw8t"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        },
+        {
+          "name": "Lucid Green",
+          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
       "duration_ms": 186500,
       "name": "invisible",
       "url": "https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt"

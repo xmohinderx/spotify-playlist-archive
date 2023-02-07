@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 975448,
+  "num_followers": 975548,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDhhMmM1MTdjNzk5NWU1NDM3YjE0ZGFhZGRlNzEwMjZm",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDljNjI5MTY1NDUyZjY3MmNhNmM3YjIwMWQ3NjljYmVi",
   "tracks": [
     {
       "added_at": "2023-01-31 15:46:41",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "You Are Not Alone",
@@ -747,22 +763,6 @@
       "duration_ms": 165835,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "The Hardest Part (Deluxe)",
-        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 248284,
-      "name": "Set For Life",
-      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Last Night In The Bittersweet",
@@ -859,22 +843,6 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -893,20 +861,36 @@
       "url": "https://open.spotify.com/track/0OAw1Ls0JbFvmTIxEBZSYl"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "get over you",
-        "url": "https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU"
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
       },
       "artists": [
         {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 173933,
-      "name": "get over you",
-      "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
+      "duration_ms": 150180,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "The Hardest Part (Deluxe)",
+        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 248284,
+      "name": "Set For Life",
+      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -925,20 +909,20 @@
       "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/0pro3pYtDog6bp669jZywP"
+        "name": "get over you",
+        "url": "https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
         }
       ],
-      "duration_ms": 181247,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4"
+      "duration_ms": 173933,
+      "name": "get over you",
+      "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -957,20 +941,20 @@
       "url": "https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/0pro3pYtDog6bp669jZywP"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 210186,
-      "name": "georgia",
-      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
+      "duration_ms": 181247,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "The Good Parts",
-      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Leap",
@@ -1079,6 +1063,22 @@
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "The Good Parts",
+      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Permanent Damage",
@@ -1175,6 +1159,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
     },
     {
       "added_at": "2022-07-01 04:02:00",

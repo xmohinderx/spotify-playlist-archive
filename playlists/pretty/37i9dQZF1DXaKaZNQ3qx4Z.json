@@ -1,47 +1,15 @@
 {
   "description": "Los grandes \u00e9xitos de Shakira y Alejandro Sanz en un mismo lugar.",
-  "num_followers": 62558,
+  "num_followers": 62731,
   "original_name": "Dos \u00cdconos: Shakira x Alejandro Sanz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTgyNiwwMDAwMDAwMDU0NjhiZGQ1MDBmMTMyNzZjOTNiOTlkNDhmZDY2NGQ5",
+  "snapshot_id": "MTY3NTcwMzg0MCwwMDAwMDAwMGMwZmU2MDQwNDgyMDQ2NmUzM2MxYTU4MDBkMDg0ZTkx",
   "tracks": [
     {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
@@ -61,10 +29,10 @@
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Coleccion definitiva (Deluxe)",
-        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
@@ -72,12 +40,48 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/5PczsbMK39oiVxkh8akIdC"
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
@@ -97,46 +101,10 @@
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Coleccion definitiva (Deluxe)",
-        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "Mi soledad y yo",
-      "url": "https://open.spotify.com/track/7nY8fkDi2zmlQQHGSN9U9m"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "El Cata",
-          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Loca (feat. El Cata)",
-      "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
-        "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
+        "name": "Deja Que Te Bese",
+        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
       },
       "artists": [
         {
@@ -144,52 +112,16 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 437733,
-      "name": "He Sido Tan Feliz Contigo / El Alma Al Aire / Reg\u00e1lame La Silla Donde Te Espere / Hoy Llueve, Hoy Duele - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
-      "url": "https://open.spotify.com/track/6Mp3FltzPNyh9HKcP7fPqH"
+      "duration_ms": 244353,
+      "name": "Deja Que Te Bese",
+      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Coleccion definitiva (Deluxe)",
-        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Te lo agradezco, pero no (feat. Shakira)",
-      "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
@@ -200,151 +132,35 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+        "name": "El tren de los momentos",
+        "url": "https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437"
       },
       "artists": [
         {
           "name": "Alejandro Sanz",
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Si tu me miras",
-        "url": "https://open.spotify.com/album/5upSLXDAeJYeJIL8sqkD80"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Si t\u00fa me miras",
-      "url": "https://open.spotify.com/track/6NF2cF3kRFGqhAuqj17yzD"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Pies Descalzos, Sue\u00f1os Blancos",
-      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Paraiso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Desde cuando",
-      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "VIVES",
-        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         },
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 229509,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
+      "duration_ms": 273373,
+      "name": "Te lo agradezco, pero no (feat. Shakira)",
+      "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "La M\u00fasica No Se Toca (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 293280,
-      "name": "Mi Marciana",
-      "url": "https://open.spotify.com/track/64jEPUJdZzI4sdivFkR4A7"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
       "artists": [
         {
@@ -352,240 +168,12 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+      "duration_ms": 173133,
+      "name": "Dia de Enero",
+      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Aquello que me diste",
-      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Tutu (Remix)",
-        "url": "https://open.spotify.com/album/1SgMcZHkKbhSIp820lMy8F"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 164191,
-      "name": "Tutu - Remix",
-      "url": "https://open.spotify.com/track/302I7g0l3jmAbzFu9WBCmu"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
-        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Coleccion definitiva",
-        "url": "https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "A la primera persona",
-      "url": "https://open.spotify.com/track/6mXHxE2BEafOgdWoFvc6mF"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Coleccion definitiva",
-        "url": "https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "\u00bfLo ves?",
-      "url": "https://open.spotify.com/track/67bchtUEFENDaWbmYnKg6Z"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Beautiful Liar",
-        "url": "https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "Beautiful Liar",
-      "url": "https://open.spotify.com/track/2P5cIXejqLpHDQeCHAbbBG"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Coleccion definitiva (Deluxe)",
-        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 328533,
-      "name": "Quisiera ser",
-      "url": "https://open.spotify.com/track/2sC8ZDPXm0jZTPG84hQ80S"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "La M\u00fasica No Se Toca (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Camino De Rosas",
-      "url": "https://open.spotify.com/track/2b7w3IfuuP0y64tPlr4cb2"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Antes de las Seis",
-      "url": "https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "#ELDISCO",
         "url": "https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd"
@@ -605,7 +193,79 @@
       "url": "https://open.spotify.com/track/1O4dGIPUXUanseRdv4fNzw"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Sanz",
+        "url": "https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 281764,
+      "name": "Mares De Miel",
+      "url": "https://open.spotify.com/track/5fmSJxoFHLQqwk07eAomxF"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
@@ -616,15 +276,15 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Te Dejo Madrid",
-      "url": "https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO"
+      "duration_ms": 194106,
+      "name": "Suerte (Whenever, Wherever)",
+      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Sirope",
-        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
+        "name": "Paraiso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
       },
       "artists": [
         {
@@ -632,12 +292,196 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 311177,
-      "name": "A Que No Me Dejas",
-      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
+      "duration_ms": 235906,
+      "name": "Desde cuando",
+      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "Mi soledad y yo",
+      "url": "https://open.spotify.com/track/3GFLbBgMuY2RELNo6tMqOS"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Y s\u00f3lo se me ocurre amarte",
+      "url": "https://open.spotify.com/track/05Zcw1sWmSu3wfbaLTeosp"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Paraiso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Looking for Paradise (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 323026,
+      "name": "Y, \u00bfSi fuera ella?",
+      "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Coleccion definitiva (Deluxe)",
+        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 359173,
+      "name": "No es lo mismo",
+      "url": "https://open.spotify.com/track/6yV2W1h4PZla1PE5s1zjVM"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "La M\u00fasica No Se Toca (Deluxe)",
         "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
@@ -653,43 +497,7 @@
       "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "No (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Siempre es de noche",
-      "url": "https://open.spotify.com/track/6ZL2hqLpDdMzDkxIp7I7aZ"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
@@ -700,15 +508,215 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
+      "duration_ms": 210266,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Coleccion definitiva (Deluxe)",
-        "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Aprendiz - Unplugged",
+      "url": "https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Las de la Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Sanz",
+        "url": "https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 264098,
+      "name": "Yo No Quiero Suerte",
+      "url": "https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Aquello que me diste",
+      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "El Cata",
+          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Loca (feat. El Cata)",
+      "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "La M\u00fasica No Se Toca (Deluxe)",
+        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 293280,
+      "name": "Mi Marciana",
+      "url": "https://open.spotify.com/track/64jEPUJdZzI4sdivFkR4A7"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "#ELDISCO",
+        "url": "https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 225599,
+      "name": "No Tengo Nada",
+      "url": "https://open.spotify.com/track/0HwK6fvgBNrEpwUR32ZvTK"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos",
+      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Ojos As\u00ed",
+      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Viviendo deprisa",
+        "url": "https://open.spotify.com/album/2yfm8Icbo9F9BDrsGamjBd"
       },
       "artists": [
         {
@@ -718,10 +726,10 @@
       ],
       "duration_ms": 269813,
       "name": "Pisando fuerte",
-      "url": "https://open.spotify.com/track/4RXaCB8ClD3BCGYdLxO19B"
+      "url": "https://open.spotify.com/track/0VqXrOSgbq1ukARLV4uGU0"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
@@ -737,10 +745,10 @@
       "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Paraiso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+        "name": "Sirope",
+        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
       },
       "artists": [
         {
@@ -748,12 +756,12 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 278160,
-      "name": "Nuestro amor ser\u00e1 leyenda",
-      "url": "https://open.spotify.com/track/52VvQpXBwxykWh8Xr42MMz"
+      "duration_ms": 311177,
+      "name": "A Que No Me Dejas",
+      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
@@ -769,10 +777,10 @@
       "url": "https://open.spotify.com/track/3FESsHW8mAuiIsYpK6aJ6u"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "Coleccion definitiva",
-        "url": "https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef"
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
       },
       "artists": [
         {
@@ -780,12 +788,44 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 239720,
-      "name": "C\u00f3mo te echo de menos",
-      "url": "https://open.spotify.com/track/0NyKC0PAeUgx2aCRnTWtQX"
+      "duration_ms": 356760,
+      "name": "El alma al aire",
+      "url": "https://open.spotify.com/track/0Bs7Y5vCIzuvFTS9SLBPn8"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Te Dejo Madrid",
+      "url": "https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "\u00bfLo ves?",
+      "url": "https://open.spotify.com/track/5je5RWasQQmFgxJiSVjIw4"
+    },
+    {
+      "added_at": "2023-02-06 17:17:20",
       "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
@@ -801,10 +841,10 @@
       "url": "https://open.spotify.com/track/6dwhYg12fOFw8aUrnCOOqC"
     },
     {
-      "added_at": "2022-08-31 07:10:26",
+      "added_at": "2023-02-06 17:17:20",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+        "name": "La M\u00fasica No Se Toca (Deluxe)",
+        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
       },
       "artists": [
         {
@@ -812,65 +852,9 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 306213,
-      "name": "Ese \u00faltimo momento",
-      "url": "https://open.spotify.com/track/28BEKhx2Whkoygyzzk4rS2"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Mi Verdad (feat. Shakira)",
-        "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 272576,
-      "name": "Mi Verdad (feat. Shakira)",
-      "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Sirope",
-        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 282243,
-      "name": "Pero T\u00fa",
-      "url": "https://open.spotify.com/track/37V0AO2Eoo9idsk99tL2Qy"
-    },
-    {
-      "added_at": "2022-08-31 07:10:26",
-      "album": {
-        "name": "Deja Que Te Bese",
-        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 244353,
-      "name": "Deja Que Te Bese",
-      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
+      "duration_ms": 260573,
+      "name": "Camino De Rosas",
+      "url": "https://open.spotify.com/track/2b7w3IfuuP0y64tPlr4cb2"
     }
   ],
   "unique_name": "Dos \u00cdconos: Shakira x Alejandro Sanz",

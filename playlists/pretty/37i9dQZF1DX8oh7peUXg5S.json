@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 274780,
+  "num_followers": 274948,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMGViNDEwZjBhY2UwYzcxOTU3YjhhODI1ZjI1ODVmZDUz",
+  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMGMzNzY0YzM1MzBhZGQxZGQxYzhkMzc2MjE1NjYzOTI1",
   "tracks": [
     {
       "added_at": "2023-02-02 23:00:00",
@@ -591,38 +591,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Esta Boca Es Mia",
-        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
-      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -655,6 +623,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Oceano De Sol",
         "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
       },
@@ -683,6 +667,38 @@
       "duration_ms": 284680,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Esta Boca Es Mia",
+        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
+      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -755,6 +771,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -771,22 +803,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 264197,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "City Zen",
         "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1411,22 +1395,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Sesiones Moraima",
-        "url": "https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH"
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 159653,
-      "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
-      "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Sesiones Moraima",
+        "url": "https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
+      "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Ajuste de cuentas",
         "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 242586,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "lo que siento",
-        "url": "https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "lo que siento",
-      "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Mi Peque\u00f1a Historia",
-        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
+        "name": "lo que siento",
+        "url": "https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 237680,
-      "name": "No Saben de Ti",
-      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
+      "duration_ms": 191647,
+      "name": "lo que siento",
+      "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Mi Peque\u00f1a Historia",
+        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "No Saben de Ti",
+      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
     },
     {
       "added_at": "2023-02-02 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YONAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,703 likes - 54 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,691 likes - 54 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

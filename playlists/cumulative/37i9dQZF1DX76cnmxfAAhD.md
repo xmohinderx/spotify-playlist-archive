@@ -4,7 +4,7 @@
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-344 songs - 1 day 0 hr 33 min
+345 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Save Tonight](https://open.spotify.com/track/76MDiuqETk8UZ5faVRDm1Q) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hits Of The 90s \(50 Songs\)](https://open.spotify.com/album/06bVR4jhrTCglfexLab0Ma) | 3:59 | 2022-01-20 | 2022-11-13 |
 | [Say My Name](https://open.spotify.com/track/6WAhLCL1XchQzYjl15rnFp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Say My Name](https://open.spotify.com/album/5YAznTfpQJx8RB9NQPjz7U) | 4:28 | 2022-01-20 | 2022-11-13 |
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2022-01-20 |  |
-| [Se a Vida E \(That's the Way Life Is\) \- 2018 Remaster](https://open.spotify.com/track/18fr7t1FKDUiOg8DXxiZwL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Bilingual: Further Listening 1995 \- 1997 \(2018 Remaster\)](https://open.spotify.com/album/6773Yw4SaTVQF7YRCKWycr) | 4:01 | 2022-11-17 |  |
+| [Se a Vida E \(That's the Way Life Is\) \- 2018 Remaster](https://open.spotify.com/track/18fr7t1FKDUiOg8DXxiZwL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Bilingual: Further Listening 1995 \- 1997 \(2018 Remaster\)](https://open.spotify.com/album/6773Yw4SaTVQF7YRCKWycr) | 4:01 | 2022-11-17 | 2023-02-07 |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2021-04-29 |  |
 | [Set Adrift on Memory Bliss \(Re\-Recorded\)](https://open.spotify.com/track/0qiF6U6WT4nGQTQnhU1chs) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [80's & 90's Jams! Hits of the Decade](https://open.spotify.com/album/3cyC3DUwdsVFqj1ltKuYUC) | 3:55 | 2022-01-20 |  |
 | [Set Adrift on Memory Bliss \(Re\-Recorded\)](https://open.spotify.com/track/3rcNGUOJ0mPOUcAFUlEyT3) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [Latest & Greatest](https://open.spotify.com/album/3IeqyRPjr9OLdZgTop4Rxn) | 3:55 | 2021-04-29 | 2022-07-29 |
@@ -287,6 +287,7 @@
 | [Suicide Blonde](https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [X](https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR) | 3:52 | 2022-01-20 |  |
 | [Suicide Blonde](https://open.spotify.com/track/3dISHe66tFlOKqmom5Qr2n) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [X \(Remastered\)](https://open.spotify.com/album/6Ct05XZNu2QpqDpjaxY7Xu) | 3:52 | 2021-04-29 | 2022-07-29 |
 | [Summer Son](https://open.spotify.com/track/2ARTskci0SwksWtNvOgirP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Hush](https://open.spotify.com/album/3XyD8hei1bPAMN6Y2DsPCe) | 4:04 | 2022-11-17 | 2023-01-28 |
+| [Summer Son](https://open.spotify.com/track/4CfmAinsGt7f9IUvQ3XBGW) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Hush](https://open.spotify.com/album/6u3xj9xbPwuw7qY9zgyfqM) | 4:04 | 2023-01-03 |  |
 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 | 2021-04-29 | 2022-07-29 |
 | [Sunshine On a Rainy Day \- Single Version](https://open.spotify.com/track/4j7OVQ5OaIwSekl8q9mJhb) | [Zoë](https://open.spotify.com/artist/1G3VHcGtkOjVAMK3f3fPZP) | [Renaissance the Classics](https://open.spotify.com/album/5VfGdkkLQ3W46hDleZeu0v) | 4:46 | 2021-04-29 | 2022-07-29 |
 | [Sunshine On a Rainy Day \- Single Version](https://open.spotify.com/track/2ddYOKFhn6asDoC5VXkPhS) | [Zoë](https://open.spotify.com/artist/1G3VHcGtkOjVAMK3f3fPZP) | [Sunshine On A Rainy Day](https://open.spotify.com/album/3GeuGelpxXYCEXvo612PS1) | 4:46 | 2022-01-20 | 2022-11-12 |

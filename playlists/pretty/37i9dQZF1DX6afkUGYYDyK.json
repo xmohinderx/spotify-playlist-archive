@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 15612,
+  "num_followers": 15619,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDE1Zjk4OGY2MTkyMzUzN2I2ODcyY2IyOGRlMmIwY2Zi",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDc2YzZiNzM0NzFkYTdiMmE2ZDQ5YWE2NjBlZWMxNTY5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -95,34 +95,6 @@
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -219,6 +191,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 194026,
       "name": "Give Thanks & Praises",
       "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "Still Say Thank You",
-      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -299,6 +283,22 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Still Say Thank You",
+      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "You Find a Way",
-        "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
-      },
-      "artists": [
-        {
-          "name": "Jenn Bostic",
-          "url": "https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap"
-        }
-      ],
-      "duration_ms": 295111,
-      "name": "Too Grateful",
-      "url": "https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Strength (feat. John P. Kee)",
         "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 314600,
       "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "You Find a Way",
+        "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
+      },
+      "artists": [
+        {
+          "name": "Jenn Bostic",
+          "url": "https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap"
+        }
+      ],
+      "duration_ms": 295111,
+      "name": "Too Grateful",
+      "url": "https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK"
     },
     {
       "added_at": "2022-11-23 15:01:23",

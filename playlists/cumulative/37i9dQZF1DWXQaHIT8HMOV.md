@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-102 songs - 5 hr 15 min
+103 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afiya](https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu) | [King Holiday](https://open.spotify.com/artist/2Qgp7qYMWApB3qwH3agQYs), [Koojo The Artist](https://open.spotify.com/artist/3eDzOzmge19my36Wia07yK), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Afiya](https://open.spotify.com/album/2rx4CkziHMdzRkvUukP33O) | 2:32 | 2022-08-05 | 2022-10-07 |
 | [Akahama](https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Awo](https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X) | 4:20 | 2022-07-08 |  |
 | [All Of You](https://open.spotify.com/track/0QQm7eqOsPVVepd1rHtJRE) | [Aethan Music](https://open.spotify.com/artist/609EazKArL58XXHcXgvPoU), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [The Opening Act](https://open.spotify.com/album/4J6STymks5es1DRudc1qT5) | 3:04 | 2022-12-02 | 2022-12-13 |
-| [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 | 2022-08-05 |  |
+| [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 | 2022-08-05 | 2023-02-07 |
 | [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 | 2022-09-30 | 2022-11-30 |
 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 | 2022-11-17 |  |
 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 | 2022-08-19 |  |
@@ -96,6 +96,7 @@
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 | 2022-11-25 |  |
 | [Simple Guy](https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Simple Guy](https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy) | 3:42 | 2022-07-22 | 2022-10-28 |
+| [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 | 2023-02-03 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |

@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-298 songs - 17 hr 34 min
+299 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Kojosese](https://open.spotify.com/track/6h5Bu5TWQZwBvCyCjbsYxW) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Kojosese](https://open.spotify.com/album/6pKvn2WA31RrL9wkaabUOC) | 4:41 | 2021-12-16 | 2022-06-01 |
 | [Koleyewon](https://open.spotify.com/track/1lBQnp2hUBZuyvMaNTslRQ) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Koleyewon](https://open.spotify.com/album/48oiAPKqzL6EbO79zIuZ2W) | 3:39 | 2021-03-25 | 2022-06-01 |
 | [Koroba](https://open.spotify.com/track/18t2ofQiViidZHxOBVjpD1) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:33 | 2021-03-25 | 2022-10-08 |
-| [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 |  |
+| [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 | 2023-02-07 |
 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:56 | 2023-02-03 |  |
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/4r0aW0nezMcvAH5Z9dxxJ9) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [KPK \(Ko Por Ke\)](https://open.spotify.com/album/4fOGnh8LW6Qg2e3ZAaLVgM) | 3:11 | 2021-03-25 | 2022-05-16 |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-11-04 |
@@ -189,6 +189,7 @@
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-06-09 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2021-09-10 |  |
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-09-10 |  |
+| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
 | [Move](https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Move](https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U) | 2:30 | 2021-10-15 | 2022-07-17 |
 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 | 2022-06-16 | 2022-06-25 |
 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-02-24 | 2022-06-17 |

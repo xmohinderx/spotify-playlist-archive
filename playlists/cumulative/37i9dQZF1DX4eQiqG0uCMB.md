@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-163 songs - 8 hr 26 min
+164 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dance Body Breaker](https://open.spotify.com/track/3zzY2bdhZ7bld7kLK8ujk3) | [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Dance Body Breaker](https://open.spotify.com/album/1PI6Zu5jeS6XfktW8gXubq) | 2:06 | 2022-06-16 | 2022-07-28 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-06-09 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-06-09 |  |
-| [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 |  |
+| [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-02-07 |
 | [Dreams](https://open.spotify.com/track/4rbmoqtKWALCrCUYPFZCyz) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Boy Spyce](https://open.spotify.com/album/5lsk9UPtpMStsuVJCZgtin) | 3:13 | 2022-06-09 | 2022-07-27 |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4ouuOsxjfLQmULJ1yWjYbn), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-04 |  |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
@@ -83,6 +83,7 @@
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2022-06-09 | 2022-08-26 |
 | [Jewel](https://open.spotify.com/track/5DIjE7u1jDyQSP07XBxQt3) | [Jay Cliff](https://open.spotify.com/artist/3NQNF50myZ7EUqNvvYX1RH) | [Jewel](https://open.spotify.com/album/3Z9d9ufQ9UqWICiasFdeel) | 2:13 | 2022-07-14 | 2022-07-21 |
 | [John Dumelo](https://open.spotify.com/track/7Bp8cqxHDVRLwJXFbXxt9B) | [Gho5t](https://open.spotify.com/artist/5fX5WCIuZTlEidRRmj5gug) | [John Dumelo](https://open.spotify.com/album/5QezEPPOMEx2hZjOqco9AP) | 2:16 | 2022-07-07 | 2022-07-22 |
+| [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 |  |
 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 | 2022-06-09 |  |
 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-06-09 | 2022-09-10 |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2023-01-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 25458,
+  "num_followers": 25529,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGYzNzFmYmJhODhmYTQ0N2JkMmE1MTA2OWNlM2QzYWZi",
+  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGQ5OTI3ZjljMTNhNjNhOWE2MTdiMjhiYjBhMjkxYjM3",
   "tracks": [
     {
       "added_at": "2023-01-12 03:03:40",
@@ -207,6 +207,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
-        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
-          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
-        }
-      ],
-      "duration_ms": 187326,
-      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
     },
     {
       "added_at": "2022-12-12 18:21:31",
@@ -253,20 +253,20 @@
       "url": "https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
+        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
+          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+      "duration_ms": 187326,
+      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
     },
     {
       "added_at": "2023-01-12 01:30:11",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/4UqlQWqFdxCrGFo2axMVW8"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "To See the Next Part of the Dream",
-        "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
-      },
-      "artists": [
-        {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
-        }
-      ],
-      "duration_ms": 320625,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Big Roar",
@@ -523,6 +507,22 @@
       "duration_ms": 407160,
       "name": "Whirring",
       "url": "https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "To See the Next Part of the Dream",
+        "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "duration_ms": 320625,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
       },
       "artists": [
         {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
         }
       ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+      "duration_ms": 131674,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
+        "name": "Urban Twilight (Remaster)",
+        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
       },
       "artists": [
         {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+          "name": "Oeil",
+          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
         }
       ],
-      "duration_ms": 131674,
-      "name": "Out of Line",
-      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+      "duration_ms": 230197,
+      "name": "Strawberry Cream",
+      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-09-21 00:37:05",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
         }
       ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+      "duration_ms": 281746,
+      "name": "Air Supply",
+      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -843,22 +843,6 @@
       "duration_ms": 241548,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
-    },
-    {
-      "added_at": "2022-09-21 00:37:05",
-      "album": {
-        "name": "You Will Never Know Why",
-        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
-      },
-      "artists": [
-        {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Air Supply",
-      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -879,6 +863,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Too Wild",
-        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
-      },
-      "artists": [
-        {
-          "name": "Seasurfer",
-          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Too Wild",
-      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -923,6 +907,22 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Too Wild",
+        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
+      },
+      "artists": [
+        {
+          "name": "Seasurfer",
+          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Too Wild",
+      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
       "added_at": "2022-12-12 18:23:41",
@@ -957,38 +957,6 @@
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -1005,6 +973,22 @@
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
       "added_at": "2022-09-21 00:43:29",
       "album": {
         "name": "The world within our bedrooms",
@@ -1019,6 +1003,22 @@
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "TRPP",
-        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
-      },
-      "artists": [
-        {
-          "name": "TRPP",
-          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
-        }
-      ],
-      "duration_ms": 150309,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pure Mood",
@@ -1151,6 +1135,22 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "TRPP",
+        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
+      },
+      "artists": [
+        {
+          "name": "TRPP",
+          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
+        }
+      ],
+      "duration_ms": 150309,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
     },
     {
       "added_at": "2022-12-15 18:01:43",
