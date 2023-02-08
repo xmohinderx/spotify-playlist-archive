@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,621 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,651 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 48 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 |
 | 49 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMDk3NWYwZjZkNjgwZmZjNjRiYjZjMTAzZWE3MzgyMTQ4`
+Snapshot ID: `MTY3NTgwMzQwNiwwMDAwMDAwMDUxNTM5YmFiYTY0OTY2YzFiNDc5YWIyOWI3Y2YwNTRi`

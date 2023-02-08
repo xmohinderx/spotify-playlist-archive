@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,628 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,713 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 83 | [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 |
 | 84 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 |
 | 85 | [Losses](https://open.spotify.com/track/0lWAqsgtEKicXjrDQwwYhH) | [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Losses](https://open.spotify.com/album/6p73Jhc4def6SQrBGia2Za) | 2:29 |
-| 86 | [My Favorite Song](https://open.spotify.com/track/51f23oVvFNYz3mljzdcTw2) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/3cyer9dxipyZLK4cTcRsdq) | 3:31 |
+| 86 | [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 |
 | 87 | [Deadline](https://open.spotify.com/track/3sZvj4hjfi9q1uZUNZF09h) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Deadline](https://open.spotify.com/album/5tr18jhOtsenFfXXq6YtTN) | 2:51 |
 | 88 | [overflow](https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [overflow](https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU) | 2:55 |
 | 89 | [Everyone And No One](https://open.spotify.com/track/5sP3kGcEg7Cj6bXhv1Ev7o) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Everyone And No One](https://open.spotify.com/album/39NKyfawlegx7lvZjuyTS2) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 |
 | 100 | [Chill the fck out](https://open.spotify.com/track/55hyP7AgyARhDivfCUpYjk) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Chill the fck out](https://open.spotify.com/album/3Xnb5kb0Ko1mazhtq4jsRU) | 2:48 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDRmMzJlMmQxZGI2ZjE2Y2IyNzMwZGEyYmVhY2ZhNjQz`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGU1ODEzODFkNjEzNGIzNzMzZmYxNzRiYTg1YjVhYWFl`

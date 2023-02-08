@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,823 likes - 93 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,824 likes - 93 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 15 | [Dinosaurs](https://open.spotify.com/track/41RBdPyRsBlEFvFVyJBSAM) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Dinosaurs](https://open.spotify.com/album/6tXNn4MnqUi7XeQdPGZKCy) | 2:07 |
 | 16 | [Ankylosaurus](https://open.spotify.com/track/39T2r3i93ZYfAQbbaFAn7b) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 1:03 |
 | 17 | [What If Dinosaurs Weren't Extinct?](https://open.spotify.com/track/3zVY16C5qignSsHk9JBwHq) | [The New Fangles](https://open.spotify.com/artist/6oZcoOXMpv9ubyQIxAwoWB) | [What If Dinosaurs Weren't Extinct?](https://open.spotify.com/album/6K2fxfeYDqGzKdaeBiEJpi) | 2:32 |
-| 18 | [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 |
+| 18 | [Tyrannosaurus Rex](https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW) | 1:22 |
 | 19 | [Dinosaurs On The Earth](https://open.spotify.com/track/4sk1P4o0fwfAxjTyrofHk2) | [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1), [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS) | [Dinosaurs On The Earth](https://open.spotify.com/album/2aTYtXpXHJlmusCycUz25p) | 2:31 |
 | 20 | [Dinosaur Bones](https://open.spotify.com/track/2OVW2YkuliLysSriq6dARo) | [Cody](https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE), [Heart](https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7), [Mr\. Primm](https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb), [Scatter](https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm), [Paleontologist Paloma](https://open.spotify.com/artist/5G0YQqdQPR8gnBfap8cUFv) | [Helpsters: Apple TV+ Original Series Soundtrack, Vol\. 1](https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO) | 1:35 |
 | 21 | [Bop Bop Dinosaur](https://open.spotify.com/track/5LVZNyQokQj5KsuQciJWDZ) | [Jim Cosgrove](https://open.spotify.com/artist/0PXZmqJE07mJxt5QUQQc5u) | [Bop Bop Dinosaur](https://open.spotify.com/album/7FxeCEgB4sdFDEuGhjq6Ba) | 2:28 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 92 | [Brachiosaurus Song](https://open.spotify.com/track/3uJmMKTwR7dK9tfBPgik2N) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 1:30 |
 | 93 | [Stack up the Dinosaurs](https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 3:23 |
 
-Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMGRiMmU0NGVjYTMzOGM2NWEzODkzYjRkY2QwOTU5OTMx`
+Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMDRmOGM3YzI0YWNkMDIxMDBjYjZjOWJjYTdlYzFkODA0`

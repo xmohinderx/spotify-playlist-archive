@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Jonas Blue x Felix Jaehn
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,282 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,309 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 5 | [Don't Let Me Down](https://open.spotify.com/track/0gb0YeFA2eJLiIzkQkkbLe) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Don't Let Me Down](https://open.spotify.com/album/1R2en2zgFxPh76TB0yrTSL) | 3:05 |
 | 6 | [Far Away](https://open.spotify.com/track/6pMoD5BTJzzgENnTMq2BTk) | [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Retro Cactus](https://open.spotify.com/artist/6aEHYwalIVWmgVOBMYwMx3) | [Far Away](https://open.spotify.com/album/2D62fDJGIAyvYRkf6ph81h) | 3:37 |
 | 7 | [Into Your Eyes](https://open.spotify.com/track/3rq7DxN72cFcuWvaab7jV4) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sam Marsey](https://open.spotify.com/artist/4npf5OEJutnimr7hz4JGzn) | [Into Your Eyes](https://open.spotify.com/album/2g3ZcGs0pAHMTxOTiyOgZw) | 2:37 |
-| 8 | [High Heels \- Party Down Under](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \(Party Down Under\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 |
+| 8 | [High Heels \- Party Down Under \- Sam Feldt vs\. Flo Rida](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \- Party Down Under \(Sam Feldt vs\. Flo Rida\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 |
 | 9 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 |
 | 10 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
 | 11 | [Lucky Sevens](https://open.spotify.com/track/7IyCPQfI2AMrJHORDearJ7) | [Daviouxx](https://open.spotify.com/artist/5eBm6xxkstcecWsTyT2A14), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Lucky Sevens](https://open.spotify.com/album/0aReW8y8k8oqmR6ifiYJsB) | 3:03 |

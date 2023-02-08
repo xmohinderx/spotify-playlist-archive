@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-285 songs - 10 hr 36 min
+291 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Clouds](https://open.spotify.com/track/5LrRZIOip9uqlJuISIcPZN) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Clouds](https://open.spotify.com/album/0MFuP63RB3wKviRRBHJXUq) | 1:59 | 2022-05-20 | 2023-01-20 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2022-05-20 |  |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-05-20 | 2022-08-19 |
+| [connection](https://open.spotify.com/track/0Q7N1ywHtdNJ3kztxBkmNF) | [$imba](https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP) | [connection](https://open.spotify.com/album/7lmUGn6E1U2Q883vee2MuI) | 2:04 | 2023-02-07 |  |
 | [Context](https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0) | [Lush Lines](https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA) | 1:58 | 2022-05-20 |  |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-05-20 | 2022-09-17 |
 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 | 2022-05-20 |  |
@@ -103,6 +104,7 @@
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2022-05-20 | 2022-09-17 |
 | [holy...moly](https://open.spotify.com/track/2m5DFBYpnTMmKXv6mgvDYh) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [holy...moly](https://open.spotify.com/album/2jCFMyPutf2JBXUWMa6NMi) | 2:19 | 2023-01-13 |  |
 | [Home Sweet Home](https://open.spotify.com/track/08d2tsBYDh0Qy936jmFAhS) | [Jhillazz](https://open.spotify.com/artist/6K5cabsg32lZlLnr6x09CA) | [Home Sweet Home](https://open.spotify.com/album/7wriuDh2VUOJLu5denfx0G) | 2:06 | 2022-07-22 | 2022-09-09 |
+| [Homesick](https://open.spotify.com/track/1tunIrMoyuW5xRYQbViTPQ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Homesick](https://open.spotify.com/album/0ZOiLib3wIbXTce9luU49t) | 1:44 | 2023-02-07 |  |
 | [Homeward Bound](https://open.spotify.com/track/3FHjxtWKejXgZywQxhPj6t) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [Sandy Beats](https://open.spotify.com/artist/6qLCrre2jNXyIY7BhMx9sj) | [The Journey Home Pt\. 2](https://open.spotify.com/album/3bGxqqDx4E5buiBhZDGq91) | 2:44 | 2022-10-28 |  |
 | [Hot Shot](https://open.spotify.com/track/2E8ilANKW5yhhtA7KMcTKX) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG) | 2:25 | 2022-06-24 | 2022-11-20 |
 | [Hot Shot](https://open.spotify.com/track/2waXTtx4AcoTAPCfB7bumZ) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/3uEnQsIFwLjlDMCouct7hP) | 2:25 | 2022-11-11 | 2022-11-26 |
@@ -122,6 +124,7 @@
 | [Jazzberry Jam](https://open.spotify.com/track/0MOEPUaLuKGcPawPcvNuBR) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Jazzberry Jam](https://open.spotify.com/album/0laKgmFFSMDDn2plXZHh4U) | 2:26 | 2022-05-20 |  |
 | [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 | 2022-06-17 |
 | [Keen](https://open.spotify.com/track/3HKKgefffjG5gdPE5Jtcrr) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0) | 2:56 | 2022-05-20 | 2022-05-27 |
+| [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2023-02-07 |  |
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2022-05-20 | 2022-05-27 |
 | [Kinda Hungry](https://open.spotify.com/track/3e1r4Nqk5eyRnSWdv6XS0E) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [jinhee](https://open.spotify.com/artist/26LmpFgGrsh86EFXEwQNfz) | [Kinda Hungry](https://open.spotify.com/album/7fJJVGHS98okrAyef2fhuq) | 1:46 | 2022-05-20 | 2022-08-19 |
 | [Klok](https://open.spotify.com/track/1FUxKfCKHPLpvB8h1wWZ8Y) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:12 | 2022-05-20 | 2022-07-08 |
@@ -183,6 +186,7 @@
 | [Ocean Drive](https://open.spotify.com/track/35ocNO8HJOYg9DUTxHY3CI) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Ocean Drive](https://open.spotify.com/album/7rSGnjAtzEK0aeI3oCi5az) | 2:58 | 2022-10-14 |  |
 | [Ophelia](https://open.spotify.com/track/09vBEVadtYbIHxdKsOlsLL) | [caens](https://open.spotify.com/artist/39sVKctQJ28PsdlyzbVWgP) | [Ophelia](https://open.spotify.com/album/4KMAq59P0oTXayghUXuvGL) | 2:24 | 2022-12-09 |  |
 | [Ophelia](https://open.spotify.com/track/3tZ9zFWeupwDORFgI0krgD) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Ophelia](https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc) | 2:40 | 2022-05-20 |  |
+| [Osaka](https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Osaka](https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6) | 2:00 | 2023-02-07 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2022-05-20 |  |
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2022-05-20 |  |
 | [Pass Out](https://open.spotify.com/track/5mePmsWKsgqAW2MY8PuAae) | [Tentoe](https://open.spotify.com/artist/6FpbduvSpaRBCVrmiiJfwk) | [Pass Out](https://open.spotify.com/album/1aRc3EAbwe7o57jYRTH0ny) | 2:17 | 2022-12-09 |  |
@@ -208,6 +212,7 @@
 | [Riverside](https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Riverside](https://open.spotify.com/album/3w8j6o0sPdCDgUrYpLWYeZ) | 1:18 | 2022-05-20 | 2022-10-29 |
 | [Roads](https://open.spotify.com/track/08WS0U9E3nnBrDJ8gIjyI0) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Roads](https://open.spotify.com/album/7F96yKUVXqAIw0CCcFdCSp) | 2:05 | 2022-07-29 | 2022-09-09 |
 | [Roadtrip](https://open.spotify.com/track/7ANBtiZ4Kn8ELXsYI5AU6L) | [pnkcité](https://open.spotify.com/artist/1WJf7IlyrogjzPpGrINHHX), [meno](https://open.spotify.com/artist/3z4b0AED14N0xhEhW1nW10) | [Roadtrip](https://open.spotify.com/album/6RR6GzmS9NvnoH3COdpoeK) | 2:38 | 2023-01-20 |  |
+| [Romance](https://open.spotify.com/track/34KTQOmh4sANyx6QCpYaJg) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Romance](https://open.spotify.com/album/1JAaWsmBJkPF7pDS7nsUkt) | 1:59 | 2023-02-07 |  |
 | [Room Plant](https://open.spotify.com/track/7jyPQLKbfRIo2VOlr0Aepf) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Room Plant](https://open.spotify.com/album/7ISq9AgKctHdHPufspniwV) | 2:38 | 2022-05-20 | 2022-08-19 |
 | [Round and Round](https://open.spotify.com/track/3gYn7Jul0vLyATg45b5gcx) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Round and Round](https://open.spotify.com/album/1eQ9TkLrBoY5q0iFZJjc2L) | 2:17 | 2022-05-20 |  |
 | [Rowing on](https://open.spotify.com/track/4RiiDpKYsa4cWSFgQlNvX8) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Rowing on](https://open.spotify.com/album/3gIUL8SRRQnENtFmvCGagf) | 2:29 | 2022-05-20 |  |
@@ -223,6 +228,7 @@
 | [sleep cycle](https://open.spotify.com/track/0ypJjoe598qkGubmR32QpS) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1) | [sleep cycle](https://open.spotify.com/album/0UFES0XqsK5gtpJF6sAns0) | 1:57 | 2023-01-20 |  |
 | [Slow Dance](https://open.spotify.com/track/55khu0OQgoX1E0aVsrYQMU) | [Spade Brooks](https://open.spotify.com/artist/2GCSNNNTph8mnMlU40Q9ne) | [Night Shift](https://open.spotify.com/album/49uzwqjrLr6gS8KrNiBM4Y) | 1:44 | 2022-11-11 |  |
 | [Slow Lane](https://open.spotify.com/track/709Nfikl8cmZJ5pSJnXAk2) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [Slow Lane](https://open.spotify.com/album/3ocwx1KETdbX9RYHGjUVa7) | 2:29 | 2022-11-25 |  |
+| [snake](https://open.spotify.com/track/350hcXmQ9Hogasz5nb5Nvn) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [snake](https://open.spotify.com/album/5AXVCXJ0JjiC5nYyuTsjJa) | 2:01 | 2023-02-07 |  |
 | [Snowy Park](https://open.spotify.com/track/76GMfML1v13Sg4shz4giDM) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Snowy Park](https://open.spotify.com/album/3oSNz9THKDf4meOrYwnEVq) | 2:14 | 2022-12-09 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-20 |  |
 | [Soft Breeze](https://open.spotify.com/track/3L2DXKtk8Jbn9OYbYHz76b) | [Seatt](https://open.spotify.com/artist/5C17IeacuW793ZEkzIJXQH), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Soft Breeze](https://open.spotify.com/album/1fwLCcFkghanqqcSSCnbQH) | 2:40 | 2023-01-20 |  |

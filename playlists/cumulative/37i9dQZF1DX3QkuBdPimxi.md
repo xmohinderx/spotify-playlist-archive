@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-116 songs - 5 hr 13 min
+118 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [He Mele No Lilo](https://open.spotify.com/track/45cku3eLTd5hObrNM8q8PA) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo And Stitch Original Soundtrack](https://open.spotify.com/album/3JmJTrTC4PuAmiIY1zvbkV) | 2:30 | 2021-12-06 | 2022-07-29 |
 | [He Mele No Lilo \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/43CPZZnuEm6huXdm1PCa5w) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:28 | 2021-12-06 |  |
 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 | 2021-12-06 |  |
-| [I'm A Star](https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:24 | 2021-12-06 |  |
+| [I'm A Star](https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:24 | 2021-12-06 | 2023-02-08 |
+| [I'm A Star](https://open.spotify.com/track/4oxtn7kEukC2SIr46aNTLa) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z) | 1:24 | 2021-12-06 |  |
 | [I'm a Star](https://open.spotify.com/track/5QG5PJxLlS3SltCRORa9Bs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space \- EP](https://open.spotify.com/album/0iHCqwt4NKC1Cem0U4WCDI) | 1:24 | 2021-12-06 | 2022-07-29 |
 | [Interplanet Janet](https://open.spotify.com/track/1XEnnBPMXN8T8F4e3hxirH) | [The Little Singers](https://open.spotify.com/artist/54lKNxLWNrcvMNeEbVig4f) | [Interplanet Janet: Classic Children's Songs](https://open.spotify.com/album/5u8sR0sWOyzpRlPxQahT6o) | 3:01 | 2021-12-06 |  |
 | [Lapis Lazuli](https://open.spotify.com/track/7CEBC34EnZtnfYMFTkNAkk) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Zach Callison](https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3fNVnjSRQ3oW4PUIKvrThu) | 0:35 | 2021-12-06 | 2022-07-29 |
@@ -115,7 +116,8 @@
 | [There's a Lot of Space in Space](https://open.spotify.com/track/7fwVd5OJeaXhQY9lOCZ5XX) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:46 | 2021-12-06 |  |
 | [Third Rock](https://open.spotify.com/track/3iciG8pyBoviYc3XjnLOuB) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Big Class](https://open.spotify.com/album/1Uf67DmiLf0W65gUElx8bZ) | 2:21 | 2021-12-06 |  |
 | [Time Adventure \(From "Adventure Time"\)](https://open.spotify.com/track/5c7eCyMPWKAkzwlawomVd1) | [Dolphin Smiling](https://open.spotify.com/artist/17T6Ttg0XIL8GRj0rRGioB) | [Time Adventure \(From "Adventure Time"\)](https://open.spotify.com/album/2CPjbv2y31JqlLeVwT56y4) | 1:57 | 2021-12-06 |  |
-| [Time To Shine \(Moon\)](https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:38 | 2021-12-06 |  |
+| [Time To Shine \(Moon\)](https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:38 | 2021-12-06 | 2023-02-08 |
+| [Time To Shine \(Moon\)](https://open.spotify.com/track/1GmeXKzGJaoar5gUi81heH) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z) | 1:38 | 2021-12-06 |  |
 | [Time to Shine \(Moon\)](https://open.spotify.com/track/4f8R99VogUTObR8WAC5yKU) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space \- EP](https://open.spotify.com/album/0iHCqwt4NKC1Cem0U4WCDI) | 1:38 | 2021-12-06 | 2022-07-29 |
 | [UFO Man](https://open.spotify.com/track/6aoKaRlcEGcV3OzjO5C2Vp) | [Jim Cosgrove](https://open.spotify.com/artist/0PXZmqJE07mJxt5QUQQc5u) | [Ooey Gooey](https://open.spotify.com/album/1iG5KJeGPKear67rok0qkN) | 3:26 | 2021-12-06 |  |
 | [Weightless](https://open.spotify.com/track/6CwOrDlnPYPjgjzUUnXzP7) | [Dave Kinnoin](https://open.spotify.com/artist/69BhB3hQDvkfIpiz9KvHD2), [Grin Brigade](https://open.spotify.com/artist/0KnJAi1HoOGnUdKFUfBfK5), [Oliver Kinnoin](https://open.spotify.com/artist/0Qt4CUKOYwqCqKsE4BVLwR) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:11 | 2021-12-06 |  |

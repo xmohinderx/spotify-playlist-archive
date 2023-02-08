@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Zoe Gotusso.",
-  "num_followers": 103615,
+  "num_followers": 103730,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDYzYjgzOGZjZWNhNjUzZDYxOGYyNWNkOTNmODZjNmEy",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMGIxMDUzNmRlMGRkMzc1MDRmOTM5ZjA1YjQ2MjZiOTc5",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
+      },
+      "artists": [
+        {
+          "name": "Iseo",
+          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 220867,
       "name": "La Danza de las Lib\u00e9lulas",
       "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
-      },
-      "artists": [
-        {
-          "name": "Iseo",
-          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "El Camino",
-      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
       },
       "artists": [
         {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 201878,
-      "name": "Bossanova",
-      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Sana Sana",
-        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 302976,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
+      "duration_ms": 201878,
+      "name": "Bossanova",
+      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
     },
     {
       "added_at": "2023-02-03 06:00:00",

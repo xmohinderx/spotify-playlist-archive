@@ -4,7 +4,7 @@
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-34 songs - 1 hr 18 min
+35 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2022-04-08 |  |
 | [The Water Cycle Song](https://open.spotify.com/track/3pFIICPJjx4icOFSycd5a0) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x) | [The Water Cycle Song](https://open.spotify.com/album/2pnN3jPJOXeynTDPniQ16F) | 2:20 | 2022-04-08 |  |
 | [Think Like A Scientist](https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [GoNoodle Presents Blazer Fresh \(Vol\. 1\)](https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk) | 2:32 | 2022-04-08 |  |
-| [What Is Electricity?](https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:14 | 2022-04-08 |  |
+| [What Is Electricity?](https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:14 | 2022-04-08 | 2023-02-08 |
+| [What Is Electricity?](https://open.spotify.com/track/7H02LUeobKAOOsEXQ7ZqnK) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE) | 1:14 | 2022-04-08 |  |
 | [Why Does the Sun Shine?](https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:36 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

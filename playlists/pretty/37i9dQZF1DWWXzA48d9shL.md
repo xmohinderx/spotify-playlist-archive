@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Savage Ga$p
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,991 likes - 98 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,934 likes - 98 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

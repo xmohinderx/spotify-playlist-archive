@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 39854,
+  "num_followers": 39894,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGM3YjBhM2NjNWU1YjFmNGRkMDg2YTE0NzEyMzc1NTY2",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGE3MDI2ZGJhNDdiZjg2YTcyZjI2N2ZmMTljMjkxMTQz",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
     },
     {
-      "added_at": "2020-11-06 04:01:00",
-      "album": {
-        "name": "Blind Fury",
-        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
-      },
-      "artists": [
-        {
-          "name": "AKU!",
-          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
-        }
-      ],
-      "duration_ms": 369172,
-      "name": "Dub Ting",
-      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "It's Time",
@@ -233,20 +217,20 @@
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2020-11-06 04:01:00",
       "album": {
-        "name": "Arms & Hands",
-        "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
+        "name": "Blind Fury",
+        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
       },
       "artists": [
         {
-          "name": "Kirk Knuffke",
-          "url": "https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor"
+          "name": "AKU!",
+          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Safety Shoes",
-      "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
+      "duration_ms": 369172,
+      "name": "Dub Ting",
+      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
     },
     {
       "added_at": "2020-11-14 05:01:00",
@@ -267,6 +251,22 @@
       "duration_ms": 295680,
       "name": "Third Planet",
       "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Arms & Hands",
+        "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
+      },
+      "artists": [
+        {
+          "name": "Kirk Knuffke",
+          "url": "https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Safety Shoes",
+      "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
     },
     {
       "added_at": "2020-09-18 04:02:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
-    },
-    {
       "added_at": "2022-10-21 04:01:00",
       "album": {
         "name": "Water & Tools",
@@ -471,6 +455,22 @@
       "duration_ms": 292440,
       "name": "Ra Comm 43",
       "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dolunay",
@@ -511,22 +527,6 @@
       "duration_ms": 207373,
       "name": "Tepe",
       "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -585,6 +585,30 @@
       "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
+      "added_at": "2020-10-02 04:02:00",
+      "album": {
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Prometheus",
@@ -615,30 +639,6 @@
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
-      "added_at": "2020-10-02 04:02:00",
-      "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
-      },
-      "artists": [
-        {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        }
-      ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -785,6 +785,78 @@
       "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "We Met - and Then",
+        "url": "https://open.spotify.com/album/1kQGh6hvL2zXndbyZB5uAw"
+      },
+      "artists": [
+        {
+          "name": "Barre Phillips",
+          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+        },
+        {
+          "name": "John Butcher",
+          "url": "https://open.spotify.com/artist/0ci7QTOgaA15OkgT5GvZ7F"
+        },
+        {
+          "name": "St\u00e5le Liavik Solberg",
+          "url": "https://open.spotify.com/artist/78WjVQTuTL8OxmMqp9yM8c"
+        }
+      ],
+      "duration_ms": 519041,
+      "name": "Zero Tolerance",
+      "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "In Cahoots",
+        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+      },
+      "artists": [
+        {
+          "name": "Ned Rothenberg",
+          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Shudder to Think",
+      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Morph",
+        "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
+      },
+      "artists": [
+        {
+          "name": "Whit Dickey",
+          "url": "https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo"
+        },
+        {
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+        },
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Blue Threads",
+      "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Captain Black",
@@ -829,54 +901,6 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Morph",
-        "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
-      },
-      "artists": [
-        {
-          "name": "Whit Dickey",
-          "url": "https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo"
-        },
-        {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
-        },
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Blue Threads",
-      "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "We Met - and Then",
-        "url": "https://open.spotify.com/album/1kQGh6hvL2zXndbyZB5uAw"
-      },
-      "artists": [
-        {
-          "name": "Barre Phillips",
-          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
-        },
-        {
-          "name": "John Butcher",
-          "url": "https://open.spotify.com/artist/0ci7QTOgaA15OkgT5GvZ7F"
-        },
-        {
-          "name": "St\u00e5le Liavik Solberg",
-          "url": "https://open.spotify.com/artist/78WjVQTuTL8OxmMqp9yM8c"
-        }
-      ],
-      "duration_ms": 519041,
-      "name": "Zero Tolerance",
-      "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "WW5",
@@ -895,26 +919,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "In Cahoots",
-        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+        "name": "Random Dances and (A)tonalities",
+        "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
       },
       "artists": [
         {
-          "name": "Ned Rothenberg",
-          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          "name": "Don Byron",
+          "url": "https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD"
         },
         {
-          "name": "Mark Feldman",
-          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
-        },
-        {
-          "name": "Sylvie Courvoisier",
-          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+          "name": "Aruan Ortiz",
+          "url": "https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Shudder to Think",
-      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
+      "duration_ms": 344640,
+      "name": "Joe Btfsplk",
+      "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -939,42 +959,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Sonic Fiction",
-        "url": "https://open.spotify.com/album/4bEca57AFNS7bUp9gWmyBB"
+        "name": "Circle Down",
+        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
       },
       "artists": [
         {
-          "name": "Matthew Shipp Quartet",
-          "url": "https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "First Step",
-      "url": "https://open.spotify.com/track/5l1UfmhKMQZCavGhxOuUY6"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Problem of Absolute Generality",
-        "url": "https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL"
-      },
-      "artists": [
-        {
-          "name": "Stian Larsen",
-          "url": "https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy"
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
         },
         {
-          "name": "Colin Webster",
-          "url": "https://open.spotify.com/artist/782Lu0pwcnmn5RsSeFZzdV"
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
         },
         {
-          "name": "Andrew Lisle",
-          "url": "https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q"
+          "name": "Chris Lightcap",
+          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
         }
       ],
-      "duration_ms": 763674,
-      "name": "Boltzmann Brain",
-      "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
+      "duration_ms": 359466,
+      "name": "Box Step",
+      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     }
   ],
   "unique_name": "Avant-Jazz",

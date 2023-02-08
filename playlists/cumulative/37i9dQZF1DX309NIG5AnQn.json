@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Suck This Tangerine",
+        "url": "https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa"
+      },
+      "artists": [
+        {
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197984,
+      "name": "Close Talker",
+      "url": "https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB"
+    },
+    {
+      "album": {
         "name": "Close Talker",
         "url": "https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy"
       },
@@ -278,7 +296,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 197984,
       "name": "Close Talker",
       "url": "https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w"

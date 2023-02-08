@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 151456,
       "name": "Badda Dan",
       "url": "https://open.spotify.com/track/07e8mzks3CsarNK0V4D83R"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 137451,
       "name": "Dagger",
       "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 351450,
       "name": "Fatela",
       "url": "https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 242697,
       "name": "January 28th",
       "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
@@ -2061,6 +2061,32 @@
     },
     {
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/43KKokp4Xhul9RXFULhX82"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208084,
+      "name": "Kung Fu",
+      "url": "https://open.spotify.com/track/6Rm5V1fRunN1rA5vJRLipL"
+    },
+    {
+      "album": {
         "name": "Kwikwi",
         "url": "https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ"
       },
@@ -2152,7 +2178,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -2246,7 +2272,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 528000,
       "name": "Look what you've done",
       "url": "https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN"
@@ -2382,7 +2408,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 202886,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1"
@@ -2664,7 +2690,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69"
@@ -2878,6 +2904,28 @@
       "duration_ms": 349500,
       "name": "Nkantin",
       "url": "https://open.spotify.com/track/1LsGuqHDEnix95E4ESd8gt"
+    },
+    {
+      "album": {
+        "name": "no longer bound",
+        "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "no longer bound",
+      "url": "https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh"
     },
     {
       "album": {
@@ -3947,6 +3995,46 @@
     },
     {
       "album": {
+        "name": "The Summoning",
+        "url": "https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395716,
+      "name": "The Summoning",
+      "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
+    },
+    {
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -3996,6 +4084,40 @@
       "duration_ms": 390840,
       "name": "Tobetsa",
       "url": "https://open.spotify.com/track/2KWbBP2ddjo6t5aMOJeItK"
+    },
+    {
+      "album": {
+        "name": "Nkwari 2.0",
+        "url": "https://open.spotify.com/album/49zpZBTFjHdCUTLRMyFwro"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407820,
+      "name": "Tobetsa Remake (feat. Focalistic, Daliwonga, ShaunMusiq & Ftears)",
+      "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
     },
     {
       "album": {
@@ -4152,10 +4274,76 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
+    },
+    {
+      "album": {
+        "name": "The Drop That Contained the Sea",
+        "url": "https://open.spotify.com/album/6p1bmI6atX9j44uz0LDEsc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Angel City Chorale",
+          "url": "https://open.spotify.com/artist/4bQ2CPtId37Gm2rZa9f300"
+        },
+        {
+          "name": "Schola Cantorum",
+          "url": "https://open.spotify.com/artist/7kHhGP2Cm5z0YZsxuuoPo1"
+        },
+        {
+          "name": "Anonymous 4",
+          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
+        },
+        {
+          "name": "Dulce Pontes",
+          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
+        },
+        {
+          "name": "Nominjin",
+          "url": "https://open.spotify.com/artist/3HgUqZJwxO3CLtwE2ohpKe"
+        },
+        {
+          "name": "Roopa Mahadevan",
+          "url": "https://open.spotify.com/artist/2dfpIaGPc2MwdsPNGvYyPE"
+        },
+        {
+          "name": "Bulgarian State Television Female Choir",
+          "url": "https://open.spotify.com/artist/5j3PVTaVrMlssk4IC0kumd"
+        },
+        {
+          "name": "Kardes Turkuler",
+          "url": "https://open.spotify.com/artist/2D5g3ShqvdFBHLHLpDYiK3"
+        },
+        {
+          "name": "Shoji Kameda",
+          "url": "https://open.spotify.com/artist/0w58EBinbMrLnuqVYRC01i"
+        },
+        {
+          "name": "Sue Fink",
+          "url": "https://open.spotify.com/artist/61MeKNJd0gPBIXDM7314t0"
+        },
+        {
+          "name": "Tone Bianca Sparre Dahl",
+          "url": "https://open.spotify.com/artist/059bRJ2h0NY1NDMaT21fSU"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 733306,
+      "name": "Waloyo Yamoni - \"We Overcome the Wind\"",
+      "url": "https://open.spotify.com/track/7hs0pXWvIkYEFeQYfUa42B"
     },
     {
       "album": {
@@ -4174,6 +4362,28 @@
       "duration_ms": 161697,
       "name": "Wana wankya",
       "url": "https://open.spotify.com/track/6JozWDLgusSU3gaLygXol6"
+    },
+    {
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "album": {
@@ -4366,6 +4576,40 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "album": {
+        "name": "Yah Yah Yah",
+        "url": "https://open.spotify.com/album/049CUiOwm0c2upULQptlDb"
+      },
+      "artists": [
+        {
+          "name": "Officixl Rsa",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        },
+        {
+          "name": "Mid9t",
+          "url": "https://open.spotify.com/artist/0QIXdhRqhubzc9fgjYlvLa"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/7oMxieZqbSWpmWeVv4QaVg"
+        },
+        {
+          "name": "De-papzo",
+          "url": "https://open.spotify.com/artist/5HHyxRfKVky4jPQxZvLsdz"
+        },
+        {
+          "name": "Papiino SA",
+          "url": "https://open.spotify.com/artist/7DlWn0sWkaYRmqusFRRorO"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429871,
+      "name": "Yah Yah Yah",
+      "url": "https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf"
     },
     {
       "album": {

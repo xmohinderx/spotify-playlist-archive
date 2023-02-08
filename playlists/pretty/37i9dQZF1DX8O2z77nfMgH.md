@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Maluma y Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,684 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,724 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

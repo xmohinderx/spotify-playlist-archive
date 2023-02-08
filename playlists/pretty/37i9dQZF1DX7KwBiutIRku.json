@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 53435,
+  "num_followers": 53522,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGY4OTRiYjk3ZjBjZWM0ZmQzMGE3ZTcxZGMxZjY0NzZh",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGIwMDk5NzRhZjY4MTE2NzMwMzcwZjA4MDIwY2U0ZmYx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "I Don't Need You No More",
-      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 197437,
       "name": "Maggie's Farm - Remastered",
       "url": "https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "I Don't Need You No More",
+      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Paula Cendejas",
-  "num_followers": 270853,
+  "num_followers": 270965,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGE4MjdjNGQyNWI2N2QyNGQ3YThlMTlhZWFmNzcyOGVm",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDVlYWUxMGYzMWI5Y2ZhZTc3MGUxNmRmM2VlN2M4MmRk",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "DIME QUI\u00c9N????",
-        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+        "name": "Moderaci\u00f3n (Con Camilo)",
+        "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
+      "duration_ms": 199626,
+      "name": "Moderaci\u00f3n (Con Camilo)",
+      "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -491,6 +495,22 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "DIME QUI\u00c9N????",
+        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -547,22 +567,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Moderaci\u00f3n (Con Camilo)",
-        "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
+        "name": "Diferente ft CNCO",
+        "url": "https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Moderaci\u00f3n (Con Camilo)",
-      "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
+      "duration_ms": 199008,
+      "name": "Diferente ft CNCO",
+      "url": "https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -643,22 +663,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "La \u00daltima (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 176484,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "A Poca Luz",
         "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
       },
@@ -675,22 +679,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Diferente ft CNCO",
-        "url": "https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79"
+        "name": "La \u00daltima (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 199008,
-      "name": "Diferente ft CNCO",
-      "url": "https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH"
+      "duration_ms": 176484,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "x ti (Remix)",
-        "url": "https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "x ti - Remix",
-      "url": "https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 160589,
       "name": "De Charco En Charco",
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "x ti (Remix)",
+        "url": "https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "x ti - Remix",
+      "url": "https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx"
     },
     {
       "added_at": "2023-02-03 05:00:00",

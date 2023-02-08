@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual con Feid en portada.
+> Lo mejor del reggaetón y flow actual con KAROL G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,480 likes - 97 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,696 likes - 97 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 96 | [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 |
 | 97 | [Climaxxx](https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Todo Es Mental](https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm) | 3:21 |
 
-Snapshot ID: `MTY3NTQwNDAwMCwwMDAwMDAwMGI1YTg0MzlhZDQ3YzgzMzMxNTg5NTRhOTllZjJhZTVi`
+Snapshot ID: `MTY3NTgwOTAyMSwwMDAwMDAwMGFhOTAxNDM0ODcwYjkyYTc4ODUxNDAzZDlhN2VmYzkz`

@@ -2475,6 +2475,44 @@
     },
     {
       "album": {
+        "name": "Bundasliga 2023 - Hjemmesnekk",
+        "url": "https://open.spotify.com/album/3JFl73kVkqlW1SJ0wDE7Qd"
+      },
+      "artists": [
+        {
+          "name": "bibbebaby",
+          "url": "https://open.spotify.com/artist/2av9bbnH4kpl8GsDCSIdvD"
+        },
+        {
+          "name": "Matty.B",
+          "url": "https://open.spotify.com/artist/3GyWVUOjtwnSh7Izlo3v0u"
+        },
+        {
+          "name": "Keiser Augustus",
+          "url": "https://open.spotify.com/artist/2SOkJ0Z04Fc9FKZK35e2G4"
+        },
+        {
+          "name": "PRELLA",
+          "url": "https://open.spotify.com/artist/3czVrl2AZ8szfFqpe3oPnM"
+        },
+        {
+          "name": "minki minaj",
+          "url": "https://open.spotify.com/artist/3KI4UKVyLvZYenmnjnbDNE"
+        },
+        {
+          "name": "Fjernstad",
+          "url": "https://open.spotify.com/artist/6suuL5VSXIlNW5zAT862KG"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Bundasliga 2023 - Hjemmesnekk",
+      "url": "https://open.spotify.com/track/1J96wGoxfB5Wi4cIABwYwF"
+    },
+    {
+      "album": {
         "name": "Burning Bridges",
         "url": "https://open.spotify.com/album/3UY0icdy06Ex4JQIAXzF6H"
       },
@@ -6152,7 +6190,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 180987,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/0FL59eOAc25svWTGqcYj62"

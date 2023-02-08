@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,913 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,010 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 63 | [Fool's Overture](https://open.spotify.com/track/5pSSEkT0963muzzIjsVkrs) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 10:52 |
 | 64 | [Starless And Bible Black](https://open.spotify.com/track/7JfOID12YxfU9YImwbJqHL) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Starless And Bible Black](https://open.spotify.com/album/2Eaep5bQ8I6ygLtzVJ2CWz) | 9:10 |
 | 65 | [Diary Of An Empty Day \- 2009 Digital Remaster](https://open.spotify.com/track/38er4l8Kt39Nvu3oE11dsR) | [The Nice](https://open.spotify.com/artist/5oHYrXNyCSEdacKCCrteMX) | [Autumn 1967 And Spring 1968](https://open.spotify.com/album/3K1odp989BdGYu2hZvd2ZQ) | 3:58 |
-| 66 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:24 |
+| 66 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/43Ay55tMhTdSvdwnGYQR7C) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo) | 5:24 |
 | 67 | [Remember the Future, Pt\. 1](https://open.spotify.com/track/1cMGXTWQ8AgfT0hZ5148YL) | [Nektar](https://open.spotify.com/artist/0n2Uel3CvQrmMsYLEfpO3s) | [Remember the Future \- 40th Anniversary Deluxe Edition](https://open.spotify.com/album/1hTsQKcpJeRZUPifJnyDOh) | 16:41 |
 | 68 | [Ice](https://open.spotify.com/track/59lEBBsEZsWurqAABsGTfk) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [I Can See Your House from Here](https://open.spotify.com/album/16jsgpwPgaCGKDmzFNXW4H) | 10:18 |
 | 69 | [Phasors On Stun](https://open.spotify.com/track/5BY8dGGf3BaJ3isf87Gi8e) | [FM](https://open.spotify.com/artist/0WOZYC6Auxvg8pb6m15Wow) | [Black Noise](https://open.spotify.com/album/0rlAUicBfsAHnq0oUuWYTX) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTY3MzQ1MzU3NCwwMDAwMDAwMGI5M2YwYzg1ZDhlZjQ2OTM5YjI1ZmM1ZTNkZTVmZWJi`
+Snapshot ID: `MTY3MzQ1MzU3NCwwMDAwMDAwMDEyYzQxMTJmMGU0NjQ0NTE4NDc1NDBkZWNiYmQ0M2U3`

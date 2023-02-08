@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,828 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,868 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 49 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 |
 | 50 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 |
-| 51 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 |
-| 52 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 |
+| 51 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 |
+| 52 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 |
 | 53 | [Sabe a Pouco](https://open.spotify.com/track/5AN71cVGPu9ZrRow7QIjnU) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Sabe a Pouco](https://open.spotify.com/album/2nWtjdgJlnz5lvrlaH0pRv) | 3:55 |
-| 54 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 |
-| 55 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 |
-| 56 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 |
+| 54 | [Cadáver](https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver](https://open.spotify.com/album/3kklO925aQsir4f7YPpWpG) | 4:00 |
+| 55 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 |
+| 56 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 |
 | 57 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
 | 58 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 |
 | 59 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 |
 | 60 | [I Need a Lot](https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [I Need a Lot](https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw) | 3:52 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGQ4ZTNmMTNkN2FlZjRiY2I2YzZiNTFhYTExZTRjMDM4`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDc1MTllYzNhMmNjZjM1ZGMyZGJmNzM4ODdjZDRlNDEx`

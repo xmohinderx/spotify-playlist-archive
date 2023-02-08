@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3541785,
+  "num_followers": 3542553,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzOTA5MywwMDAwMDAwMGY1ZDJjY2U2N2RkZmVkYzYwYTljMTJmYTJjOGFlOTBm",
+  "snapshot_id": "MTY3NDIzOTA5MywwMDAwMDAwMDU0ZWExODQ1NjA0YmE5NmVhNDg0YjZjMzQyNWE4MzU4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
-      },
-      "artists": [
-        {
-          "name": "Bobby Love",
-          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
-        },
-        {
-          "name": "Olive B",
-          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Sweet Nothings (feat. Minke)",
         "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 228845,
       "name": "Sweet Nothings (feat. Minke)",
       "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Love",
+          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+        },
+        {
+          "name": "Olive B",
+          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/7eJ0TQWlnSy4z744vHgDm6"
-      },
-      "artists": [
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Charlz",
-          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -1215,22 +1195,46 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/7eJ0TQWlnSy4z744vHgDm6"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Charlz",
+          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 196451,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz"
+    },
+    {
+      "added_at": "2023-01-20 18:24:53",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 287812,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1273,28 +1277,24 @@
       "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
-      "added_at": "2023-01-20 18:24:53",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
+        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 287812,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
+      "duration_ms": 400130,
+      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Losing Ground",
+        "url": "https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Tishmal",
+          "url": "https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu"
+        }
+      ],
+      "duration_ms": 273048,
+      "name": "Losing Ground",
+      "url": "https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 283946,
       "name": "Choir To The Wild",
       "url": "https://open.spotify.com/track/1Roz7FfvXU50hWjdjEPvDo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Losing Ground",
-        "url": "https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Tishmal",
-          "url": "https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu"
-        }
-      ],
-      "duration_ms": 273048,
-      "name": "Losing Ground",
-      "url": "https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1465,26 +1465,6 @@
       "url": "https://open.spotify.com/track/5keheTPTVskQPPhrIkKd3i"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Leave You",
@@ -1509,20 +1489,24 @@
       "url": "https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "A Range of Light",
-        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 224637,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 177857,
       "name": "Fruit&Sun",
       "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "A Range of Light",
+        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 224637,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1685,24 +1685,24 @@
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
         },
         {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 253240,
-      "name": "Erase",
-      "url": "https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20"
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Night Air Was Cool",
-        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
       },
       "artists": [
         {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 286940,
-      "name": "The Night Air Was Cool",
-      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
+      "duration_ms": 273679,
+      "name": "Manila Palm",
+      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+        "name": "The Night Air Was Cool",
+        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
         }
       ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+      "duration_ms": 286940,
+      "name": "The Night Air Was Cool",
+      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
     },
     {
       "added_at": "2023-01-06 05:00:00",

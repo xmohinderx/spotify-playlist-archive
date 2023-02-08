@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-106 songs - 8 hr 2 min
+107 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Gold](https://open.spotify.com/track/7vxGhdQ6vrKrzYkeFmi8ot) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/6T1FI8HwWMHtya66Agz91u) | 4:30 | 2022-03-08 |  |
 | [Hollow](https://open.spotify.com/track/1AL3QYWKnoUWHD8IvXx72j) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/6DIDW3h9nsJgVkWiCM3H4x) | 3:36 | 2021-03-01 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/2J8YYqExy06PjSapXmm39f) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/2k0F2NkDj19iqUZ8c1SIwA) | 3:36 | 2022-03-08 |  |
-| [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 | 2021-03-01 |  |
+| [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 | 2021-03-01 | 2023-02-08 |
+| [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 | 2022-03-08 |  |
 | [Hot Shot](https://open.spotify.com/track/35tqKg7rzhiqS6dL3LfOki) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 3:32 | 2021-03-01 |  |
 | [Hundred Flowers Groove](https://open.spotify.com/track/4t28S5qmj4RwzEJFEz0HOL) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/01dd4DN5bf0yvw1BXYZAIR) | 6:55 | 2021-03-01 | 2022-10-19 |
 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/55ik6uFrWcJCJWieLVkksl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 | 2022-03-08 |  |

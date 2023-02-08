@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,248 likes - 70 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,278 likes - 70 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 27 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 |
 | 28 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 |
 | 29 | [Other Side](https://open.spotify.com/track/7cF2hKTFZ1JgoyEObsx2K4) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2PqqKi9JNeXzT9zqFHwFEP) | 6:09 |
-| 30 | [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 |
+| 30 | [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 |
 | 31 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 |
 | 32 | [1997](https://open.spotify.com/track/2f0lRSu8jgmghBGJHw60fO) | [Jossy Mitsu](https://open.spotify.com/artist/7BwNdOufmdK919y4NHtF2a) | [Planet J](https://open.spotify.com/album/2aGL2535GZrXsLdjygoYsq) | 5:56 |
 | 33 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 69 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 | 70 | [Inner Peace](https://open.spotify.com/track/0KbAf8GrFpAGdDatmTC4MJ) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Inner Peace](https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co) | 5:19 |
 
-Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMGUxMWFiNGNjNjQ0YmYzNmJkZWNkZWZkNWE4M2Q3MWU4`
+Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMGQyNGNjZmRlZDJiZmFhZTg5YTY5ZDdmMDVlMDViZjUy`

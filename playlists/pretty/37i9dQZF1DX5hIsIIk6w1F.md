@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,566 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,984 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 4 | [Con Puras de 25](https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Con Puras de 25](https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5) | 2:18 |
 | 5 | [Ese Corte](https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ese Corte](https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU) | 3:39 |
 | 6 | [Lealtad](https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Lealtad](https://open.spotify.com/album/0BoBWylVM8TP3tttPIixke) | 2:47 |
-| 7 | [Te Extraño a Lo Vio](https://open.spotify.com/track/0yq2vtAiZfTYZlP2EFCJDt) | [Gringuitos Records](https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx) | [Te Extraño a Lo Vio](https://open.spotify.com/album/1sH5doMd0JobOpHAsfit6I) | 5:49 |
+| 7 | [Te Extraño a Lo Vio](https://open.spotify.com/track/0yq2vtAiZfTYZlP2EFCJDt) | [Gringuitos Records](https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Te Extraño a Lo Vio](https://open.spotify.com/album/1sH5doMd0JobOpHAsfit6I) | 5:49 |
 | 8 | [NOPALATELE](https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NOPALATELE](https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC) | 4:17 |
 | 9 | [Muñeca](https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Muñeca](https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH) | 3:02 |
 | 10 | [Mujeriego](https://open.spotify.com/track/5r7eJOBw5Yqik0efMbC3Eq) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mujeriego](https://open.spotify.com/album/0pZhWMSDItIQUt2kRHdpwR) | 4:19 |

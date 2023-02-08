@@ -406,10 +406,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 69550,
       "name": "Cleanup Time",
       "url": "https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg"
+    },
+    {
+      "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69550,
+      "name": "Cleanup Time",
+      "url": "https://open.spotify.com/track/3VrfXKrVMQZ77LDWMtF0qH"
     },
     {
       "album": {

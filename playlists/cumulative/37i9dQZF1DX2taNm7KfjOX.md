@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-458 songs - 1 day 4 hr 42 min
+459 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Cracked Windshield](https://open.spotify.com/track/5p3JVhXUX3KQxaBp4D9pHy) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee](https://open.spotify.com/album/4rEEkztpEU1GBmy5uBYHUS) | 5:07 | 2022-04-13 | 2022-04-21 |
 | [Crazy](https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Crazy](https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T) | 3:52 | 2022-01-14 | 2022-07-25 |
 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2022-06-24 |  |
+| [CSI: Petralona](https://open.spotify.com/track/0HM1aGWYMpg6fa9745tIBX) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [CSI: Petralona](https://open.spotify.com/album/3vlnDPH2zbJl9fQ1S4MeIl) | 4:25 | 2023-02-03 |  |
 | [Damn Sure](https://open.spotify.com/track/6P40BVwOj2Nhb46sDFnjE8) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Empire Builder](https://open.spotify.com/album/0Dy2FCRPNdR3fo3h609PPJ) | 4:08 | 2022-04-13 | 2022-04-21 |
 | [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 | 2022-06-24 |  |
 | [Day by Day](https://open.spotify.com/track/5kQyTlP8HGfjsEYpxpk59v) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day](https://open.spotify.com/album/3ra5M72nDbIICWPtjanTRG) | 3:12 | 2021-10-22 | 2022-07-29 |
@@ -123,7 +124,7 @@
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Easy Way Out](https://open.spotify.com/track/3oOv0oaIqTwJhTNqA1HiGP) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Easy Way Out](https://open.spotify.com/album/3Dt0kC5ZGdlzxWke1esOwu) | 4:37 | 2021-10-22 | 2022-07-18 |
-| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 |  |
+| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 | 2023-02-08 |
 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 | 2021-10-22 | 2022-07-29 |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-10-22 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 |  |

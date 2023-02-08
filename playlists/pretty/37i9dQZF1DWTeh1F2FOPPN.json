@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 18848,
+  "num_followers": 18979,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDczM2U4Y2M2YmE5ODRlMDg0ZDU0YTY3NjgzNTU2MTFj",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDFiZmVlMDRhMzY1YTAxNjBhZDRiMWE0YWYxODA0ZDJh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 369173,
+      "name": "Just Like Water - Live",
+      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 369173,
-      "name": "Just Like Water - Live",
-      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
     },
     {
       "added_at": "2022-10-01 16:54:27",

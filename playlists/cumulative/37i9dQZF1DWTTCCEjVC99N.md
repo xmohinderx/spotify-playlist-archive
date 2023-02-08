@@ -2,9 +2,9 @@
 
 ### [00s Arabic Hits](https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N)
 
-> Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
+> Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-108 songs - 8 hr 21 min
+109 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-01-30 |  |
 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [يوسف العماني](https://open.spotify.com/artist/5hMy9WpurfuusrrNfGXTjB) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 | 2021-12-06 |  |
 | [كل القصايد](https://open.spotify.com/track/2SbOhkuficQ2KVvVofnsWP) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [كل القصايد](https://open.spotify.com/album/2ENnt1IKcJNla5goMsY1Zn) | 4:01 | 2023-01-30 |  |
+| [لو بص في عيني](https://open.spotify.com/track/5aJK0AXVQSjkJKUD1UcYyU) | [سيرين عبد النور](https://open.spotify.com/artist/208HsmC7Y3dzue2M4eCaOr) | [عليك عيوني](https://open.spotify.com/album/3O81XSocvzWl3EYsFE67TH) | 4:06 | 2023-02-07 |  |
 | [ليلى نهارى](https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:06 | 2023-01-30 |  |
 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 | 2021-12-06 |  |
 | [مشكلني](https://open.spotify.com/track/0Sa90lwNm34LvVNy9h7yoI) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [مشكلني](https://open.spotify.com/album/6icC7FZy5GrRoxwMKrQsVT) | 6:00 | 2023-01-30 |  |

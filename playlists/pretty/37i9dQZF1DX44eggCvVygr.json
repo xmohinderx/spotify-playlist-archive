@@ -1,12 +1,12 @@
 {
   "description": "All the music from Netflix's La Casa de Papel/Money Heist.",
-  "num_followers": 356272,
+  "num_followers": 356298,
   "original_name": "La Casa de Papel Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjc5OTE2OCwwMDAwMDAwMDBkZjg2MzY2ZTYzZWNlMDU1ZmJjNDIwYTYxYTI3MTkx",
+  "snapshot_id": "MTY1Mjc5OTE2OCwwMDAwMDAwMGI3NmJkNTE0NjJhNzIwNWMwZWU2ZmU4NmUyMzczZjg0",
   "tracks": [
     {
       "added_at": "2021-12-03 20:01:02",
@@ -948,17 +948,21 @@
       "added_at": "2021-08-26 21:03:21",
       "album": {
         "name": "Further Standards",
-        "url": "https://open.spotify.com/album/29T30GTricZoyuunKfKM5y"
+        "url": "https://open.spotify.com/album/0kYvtUDxRxcZe7JehdMiV8"
       },
       "artists": [
         {
           "name": "Howe Gelb",
           "url": "https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB"
+        },
+        {
+          "name": "Lonna Kelly",
+          "url": "https://open.spotify.com/artist/3lNd01OLBdD9jodTpJG4RG"
         }
       ],
       "duration_ms": 223623,
-      "name": "All you Need to Know",
-      "url": "https://open.spotify.com/track/4xihysEKBYwugkpWeJgS6W"
+      "name": "All You Need to Know",
+      "url": "https://open.spotify.com/track/6a8AIQEeuWKRoQakg3Aujf"
     },
     {
       "added_at": "2021-08-26 21:03:21",

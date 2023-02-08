@@ -4,13 +4,14 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-190 songs - 11 hr 58 min
+191 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24K Light](https://open.spotify.com/track/2bikDeo4RddR28fZ9GuN2u) | [Low Heat](https://open.spotify.com/artist/4hAT5em3xWFwCuxSNDCKHr) | [Greenery](https://open.spotify.com/album/0Bw5KL8C8Jf28moFmYkJbt) | 3:34 | 2022-08-05 | 2022-08-23 |
 | [333](https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:08 | 2022-04-25 | 2022-08-23 |
 | [422](https://open.spotify.com/track/4jPhy12lzftn5RFhocn0eb) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [140 ALLSTARS Vol\. 3](https://open.spotify.com/album/6bsB2ByjsiEuGhm482lttz) | 4:12 | 2022-09-17 | 2022-10-17 |
+| [A+ Mentality](https://open.spotify.com/track/6SUpiUkn6Cithp0ofyoh5g) | [Willdabeast](https://open.spotify.com/artist/4naFHw38cWUbiBKizrxaQx), [Glyph](https://open.spotify.com/artist/792wkZSO6XwAHSmeCgXZhO) | [A+ Mentality](https://open.spotify.com/album/2eVBTqjm5X9Hh0VFKEewge) | 4:34 | 2023-02-07 |  |
 | [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 | 2022-08-04 | 2022-10-17 |
 | [AIBT002](https://open.spotify.com/track/5XJbXTityTLG6SM9Hu6z6M) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [AI Beat Tape](https://open.spotify.com/album/2PgvIOKViA6u74we5C9kEp) | 2:30 | 2022-04-25 | 2022-08-23 |
 | [All Night \- Ivy Lab Remix](https://open.spotify.com/track/0HUEIdafaoXyaVWDehISEh) | [Trampa](https://open.spotify.com/artist/31DUXycJt0YIBoMXLI5UdV), [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [All Night \(Ivy Lab Remix\)](https://open.spotify.com/album/0Yn6y2yWBPoJrdi0b1YMWf) | 3:56 | 2021-09-17 | 2022-02-28 |

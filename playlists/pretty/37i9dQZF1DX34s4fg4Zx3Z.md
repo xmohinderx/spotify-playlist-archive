@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: GPG msmy; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,250 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,258 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 12 | [Giữa Những Đám Mây](https://open.spotify.com/track/6ywEIMyLGgxrZL901czH4R) | [Phin](https://open.spotify.com/artist/2EMO4OuJ3gUhNh6FBvthJi), [G of NFK](https://open.spotify.com/artist/0x2izdJoHWxRi9OLTkKjsC) | [Giữa Những Đám Mây](https://open.spotify.com/album/6VWGH0wslx1tZS9SZhF3AB) | 2:53 |
 | 13 | [Trao Em Tình Yêu](https://open.spotify.com/track/0vgMjbZgwpcrkQXjRqSQwA) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [Trao Em Tình Yêu](https://open.spotify.com/album/1E8YpWgwRWDXZDrkgTvm0M) | 3:07 |
 | 14 | [Cứ Để Anh Vậy Sao](https://open.spotify.com/track/4Kvs0P3HndQ8zsLr2VpUMR) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd), [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i) | [Cứ Để Anh Vậy Sao](https://open.spotify.com/album/6hGfK5VtRxZdOQNnOtijEi) | 3:09 |
-| 15 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
+| 15 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [TheAnh28 Media](https://open.spotify.com/artist/5MZLLM6L8mr7emUrwcf45i), [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
 | 16 | [Bầu Trời Năm Ấy \(feat\. Hast & Anfang\)](https://open.spotify.com/track/00ycwfeLGXsbvrRNl9mYOy) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [Anfang](https://open.spotify.com/artist/2dS7UBhWnNulqF6vSUzKpA) | [Bầu Trời Năm Ấy \(feat\. Hast & Anfang\)](https://open.spotify.com/album/2f6J28a7bK3Cx7XUJd0TYl) | 4:11 |
 | 17 | [Của em mà không phải của em](https://open.spotify.com/track/0mcllzLn6unF1NcU8Da5XF) | [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu) | [Của em mà không phải của em](https://open.spotify.com/album/5eGK5ugbBBsIc6DRd9vn7Q) | 3:21 |
 | 18 | [Chưa từng lớn](https://open.spotify.com/track/3BhplNaW7h0iQmxYnZYq5W) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Chưa từng lớn](https://open.spotify.com/album/098phzLpy6PyGhoaR2Af19) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Chơi](https://open.spotify.com/track/4x21TQ5qMPbyHLktv5daN5) | [Khác Họ Records](https://open.spotify.com/artist/2tC1eJc79vvyIH0sw4mLIZ), [X2C](https://open.spotify.com/artist/4ruBa4DSUymegLyh5MsV6H), [LNGY](https://open.spotify.com/artist/4P85cBAXFfHR7OTBe1wSVk), [TraceD](https://open.spotify.com/artist/5oZsnZpmT2hvUHJDEgy5TH), [DJ Tzo](https://open.spotify.com/artist/7k6G3hJXloo3wmP7wlbmgs) | [Chơi](https://open.spotify.com/album/73n9DFigMSpl0OVOIUlM1n) | 3:02 |
 | 100 | [ForU](https://open.spotify.com/track/0faMgHNinUpMHArMOd3rfM) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [ForU](https://open.spotify.com/album/4yVo3xm9wTlzQnS80BzvWU) | 3:08 |
 
-Snapshot ID: `MTY3NTY2MDc5NywwMDAwMDAwMDI1ZjZkNDNlMWE2ZmZmN2U5YThiMTI2NzdlOWYzYTgw`
+Snapshot ID: `MTY3NTc4OTIwMCwwMDAwMDAwMGVlYjdkZTA1ZDBiY2FiODM1OTAwYzdlYTUxNDA3Y2Yx`

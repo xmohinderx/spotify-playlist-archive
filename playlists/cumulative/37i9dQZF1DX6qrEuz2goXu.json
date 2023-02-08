@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "StoryBots Outer Space",
+        "url": "https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98045,
+      "name": "A Beautiful, Beautiful World (Earth)",
+      "url": "https://open.spotify.com/track/21QAdQYvQRZrpAJ2hpHNLJ"
+    },
+    {
+      "album": {
+        "name": "StoryBots Outer Space",
         "url": "https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 98045,
       "name": "A Beautiful, Beautiful World (Earth)",
       "url": "https://open.spotify.com/track/3Af3myBJMUHpqvejIoyHRH"
@@ -52,10 +70,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 98945,
       "name": "ABC Jamboree - The Song!",
       "url": "https://open.spotify.com/track/2cT8nPdYiQYywM4yjqpXsI"
+    },
+    {
+      "album": {
+        "name": "ABC Jamboree - The Song!",
+        "url": "https://open.spotify.com/album/07iAkoSHA5P0eiNoVzeKtY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98945,
+      "name": "ABC Jamboree - The Song!",
+      "url": "https://open.spotify.com/track/6JkKOxf0tGJse0I0GJxvCc"
+    },
+    {
+      "album": {
+        "name": "StoryBots Color Songs",
+        "url": "https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64559,
+      "name": "Alright, It's White",
+      "url": "https://open.spotify.com/track/0Jfntq93VCwrl4v3lpBBhl"
     },
     {
       "album": {
@@ -70,7 +124,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 64560,
       "name": "Alright, It's White",
       "url": "https://open.spotify.com/track/0t2df3irD7HAnIMpPxLeCo"
@@ -96,6 +150,24 @@
     {
       "album": {
         "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79416,
+      "name": "Apatosaurus",
+      "url": "https://open.spotify.com/track/2yPZiUNpLbwynSYwngEkO2"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
       },
       "artists": [
@@ -106,10 +178,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 79416,
       "name": "Apatosaurus",
       "url": "https://open.spotify.com/track/6hr4CT61aYlY942OnhB2cL"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/1pszqZcDjYt65oZyl9LORF"
     },
     {
       "album": {
@@ -124,7 +214,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63000,
       "name": "Architect",
       "url": "https://open.spotify.com/track/5p87ldmwNAP4l4NjqMwwbH"
@@ -142,10 +232,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 60098,
       "name": "Ask The StoryBots Theme",
       "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60500,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/2kgD1iv8vZHeFA9ix1fKqS"
+    },
+    {
+      "album": {
+        "name": "StoryBots ABC Jamboree",
+        "url": "https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67363,
+      "name": "B Is For Boogie",
+      "url": "https://open.spotify.com/track/6dNxq851cO5czktTsaDHoG"
     },
     {
       "album": {
@@ -160,10 +286,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 67363,
       "name": "B Is For Boogie",
       "url": "https://open.spotify.com/track/7wiUQy1H0HHHG2GZU1FWGw"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60735,
+      "name": "Ba Ba Baboon",
+      "url": "https://open.spotify.com/track/02oMHNnlc9Mge4BO5v2E0C"
     },
     {
       "album": {
@@ -178,7 +322,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 60735,
       "name": "Ba Ba Baboon",
       "url": "https://open.spotify.com/track/3AZaIjZUaNZC8Og3Kc9zbf"
@@ -232,10 +376,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 64003,
       "name": "Big Brown Boogieing Bear",
       "url": "https://open.spotify.com/track/5K7Xi3WjGERoutGi9Bn4lw"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64003,
+      "name": "Big Brown Boogieing Bear",
+      "url": "https://open.spotify.com/track/6c9vocNWAFVrLmosp43JJL"
+    },
+    {
+      "album": {
+        "name": "StoryBots Body Songs",
+        "url": "https://open.spotify.com/album/3Jt4cQygbo1EeTm3kD2tnz"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58333,
+      "name": "Brain, Brain, Brain",
+      "url": "https://open.spotify.com/track/0g5KJMZtMzH4n1dR2lwtRv"
     },
     {
       "album": {
@@ -250,7 +430,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 58333,
       "name": "Brain, Brain, Brain",
       "url": "https://open.spotify.com/track/72jHUzKGcL5rTpZN8UysSU"
@@ -304,10 +484,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63942,
+      "name": "Chicken Bop",
+      "url": "https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs"
+    },
+    {
+      "album": {
+        "name": "StoryBots Shapes",
+        "url": "https://open.spotify.com/album/1YuvOYlAuva2BGqOdx0itd"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62380,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5DrrCynGbaMex1trwAuKTS"
     },
     {
       "album": {
@@ -322,7 +538,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 62380,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5Rm9qG0jcoGa2HEuQlf7hK"
@@ -340,10 +556,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 69550,
       "name": "Cleanup Time",
       "url": "https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg"
+    },
+    {
+      "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69550,
+      "name": "Cleanup Time",
+      "url": "https://open.spotify.com/track/3VrfXKrVMQZ77LDWMtF0qH"
     },
     {
       "album": {
@@ -366,6 +600,24 @@
     {
       "album": {
         "name": "StoryBots Barnyard Animals",
+        "url": "https://open.spotify.com/album/5qxXmpj7TfUX1D9mkP3ygi"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72875,
+      "name": "Cow",
+      "url": "https://open.spotify.com/track/2iCCve95J9Z9EGXZgDTU7N"
+    },
+    {
+      "album": {
+        "name": "StoryBots Barnyard Animals",
         "url": "https://open.spotify.com/album/403tzoAnsEj45HS4eyNUIZ"
       },
       "artists": [
@@ -376,10 +628,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 72875,
       "name": "Cow",
       "url": "https://open.spotify.com/track/3CxS8PnW6GtamJwQ6igupR"
+    },
+    {
+      "album": {
+        "name": "StoryBots ABC Jamboree",
+        "url": "https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71929,
+      "name": "Crazy For C",
+      "url": "https://open.spotify.com/track/78gYFPqcm9LDX1ClACCt41"
     },
     {
       "album": {
@@ -394,7 +664,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 71929,
       "name": "Crazy For C",
       "url": "https://open.spotify.com/track/7CI9n4Su8YzvF6S7SVuEhe"
@@ -412,10 +682,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63801,
       "name": "Dance With The Elephant",
       "url": "https://open.spotify.com/track/5beNJ1G7fFrGdFVuzGbY1i"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64000,
+      "name": "Dance With The Elephant",
+      "url": "https://open.spotify.com/track/0ld6GUbAwQjNlAC0okIjU4"
+    },
+    {
+      "album": {
+        "name": "StoryBots ABC Jamboree",
+        "url": "https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55351,
+      "name": "Dee Doodily Doo",
+      "url": "https://open.spotify.com/track/2EMTaAjG1WGtEZUxk8ZfRH"
     },
     {
       "album": {
@@ -430,7 +736,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 55351,
       "name": "Dee Doodily Doo",
       "url": "https://open.spotify.com/track/3sifBzdYSMr6ZTNyudRokI"
@@ -502,10 +808,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63471,
       "name": "Everybody Has An E",
       "url": "https://open.spotify.com/track/0GZPhYq8yMy1o9PCO063rx"
+    },
+    {
+      "album": {
+        "name": "StoryBots ABC Jamboree",
+        "url": "https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63471,
+      "name": "Everybody Has an E",
+      "url": "https://open.spotify.com/track/7Ag7ExX8ia5TPEHhF1E9rq"
+    },
+    {
+      "album": {
+        "name": "StoryBots Color Songs",
+        "url": "https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63456,
+      "name": "Everybody Loves Oranges",
+      "url": "https://open.spotify.com/track/0gUJUF4KqVbACOv006u1wn"
     },
     {
       "album": {
@@ -520,7 +862,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63456,
       "name": "Everybody Loves Oranges",
       "url": "https://open.spotify.com/track/5M1hBSNWSitIcEhcgqSVg1"
@@ -528,6 +870,24 @@
     {
       "album": {
         "name": "StoryBots Color Songs",
+        "url": "https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60786,
+      "name": "Everything's Pink",
+      "url": "https://open.spotify.com/track/4hrj1Q6T5YEzAqzSHKb50M"
+    },
+    {
+      "album": {
+        "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
       },
       "artists": [
@@ -538,7 +898,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 60786,
       "name": "Everything's Pink",
       "url": "https://open.spotify.com/track/5RYxaVG5IZBTF3Zd1AK6Fd"
@@ -546,7 +906,7 @@
     {
       "album": {
         "name": "StoryBots Professions",
-        "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
       },
       "artists": [
         {
@@ -554,12 +914,12 @@
           "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
         }
       ],
-      "date_added": "2022-08-02",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 68571,
       "name": "Farmer",
-      "url": "https://open.spotify.com/track/6bKwFJeAmA4qjarjx4dSB0"
+      "url": "https://open.spotify.com/track/2gKwJ8pyCVmn3YgafdTnk4"
     },
     {
       "album": {
@@ -574,7 +934,43 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 68571,
+      "name": "Farmer",
+      "url": "https://open.spotify.com/track/6bKwFJeAmA4qjarjx4dSB0"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 55221,
+      "name": "Firefighter",
+      "url": "https://open.spotify.com/track/5jBVd9zFipaeICgLjR3VJb"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
       "duration_ms": 55221,
       "name": "Firefighter",
       "url": "https://open.spotify.com/track/6SSUZcwwIDlJ0SGHnngSkj"
@@ -668,10 +1064,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 60590,
       "name": "He's A Zebra",
       "url": "https://open.spotify.com/track/2oh3CZe4mGLUiogSUD4dTk"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60590,
+      "name": "He's a Zebra",
+      "url": "https://open.spotify.com/track/5uabUvfbjViH2ytn6obLTA"
     },
     {
       "album": {
@@ -758,10 +1172,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 90653,
       "name": "How Many Types Of Animals Are There?",
       "url": "https://open.spotify.com/track/49YIcFFaph06MhL5w5Z5iB"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90653,
+      "name": "How Many Types Of Animals Are There?",
+      "url": "https://open.spotify.com/track/51HyrMgfI8MjmdijkWJLTY"
     },
     {
       "album": {
@@ -776,10 +1208,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 84520,
       "name": "I'm A Star",
       "url": "https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy"
+    },
+    {
+      "album": {
+        "name": "StoryBots Outer Space",
+        "url": "https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84520,
+      "name": "I'm A Star",
+      "url": "https://open.spotify.com/track/4oxtn7kEukC2SIr46aNTLa"
     },
     {
       "album": {
@@ -1064,10 +1514,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 62349,
       "name": "Look For Purple",
       "url": "https://open.spotify.com/track/0B87MO9qlSwJhQxbp6fOgj"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62500,
+      "name": "Look For Purple",
+      "url": "https://open.spotify.com/track/3XKze0nfGgpACLZzFcnzd4"
     },
     {
       "album": {
@@ -1162,6 +1630,24 @@
     {
       "album": {
         "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56228,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/3owQYdTTYnd6K9zVJ5dRyV"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
       },
       "artists": [
@@ -1172,7 +1658,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 56228,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/4s08577ugVHO7Aik0d0T1f"
@@ -1234,6 +1720,24 @@
     {
       "album": {
         "name": "StoryBots Vehicles",
+        "url": "https://open.spotify.com/album/0X9qtKbjrUJ7XYgjLRzitn"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67714,
+      "name": "Riding On A Train",
+      "url": "https://open.spotify.com/track/1ySsapHN7vtuVvmime90ZQ"
+    },
+    {
+      "album": {
+        "name": "StoryBots Vehicles",
         "url": "https://open.spotify.com/album/55RgkhMyjodXLW6eEAx59A"
       },
       "artists": [
@@ -1244,7 +1748,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 67714,
       "name": "Riding On A Train",
       "url": "https://open.spotify.com/track/72SQo2VeGIHfsGWYbb2JmV"
@@ -1342,6 +1846,24 @@
     {
       "album": {
         "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Software Engineer",
+      "url": "https://open.spotify.com/track/0JRiu0QVTtxbWroRHpuYJB"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
       },
       "artists": [
@@ -1352,7 +1874,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 60000,
       "name": "Software Engineer",
       "url": "https://open.spotify.com/track/1TCulIcrnTbqVXmtRF9umA"
@@ -1370,10 +1892,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 83708,
       "name": "Stegosaurus",
       "url": "https://open.spotify.com/track/17Q5Po9UgjUyGawbPaXy2M"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83708,
+      "name": "Stegosaurus",
+      "url": "https://open.spotify.com/track/2wzA7A5LsUpnQf2kCeRbTC"
     },
     {
       "album": {
@@ -1460,10 +2000,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63636,
       "name": "The Number 1",
       "url": "https://open.spotify.com/track/3od7ScpSzUrHJUZhFrsItx"
+    },
+    {
+      "album": {
+        "name": "StoryBots Number Songs",
+        "url": "https://open.spotify.com/album/1wNZQEwIVWzjouUxU45In5"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63636,
+      "name": "The Number 1",
+      "url": "https://open.spotify.com/track/6hjRgovOyZQoOWiMrGApoM"
     },
     {
       "album": {
@@ -1514,10 +2072,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 64322,
       "name": "Think Green",
       "url": "https://open.spotify.com/track/3PqRPJgK6RKYRzavTgVeS9"
+    },
+    {
+      "album": {
+        "name": "StoryBots Color Songs",
+        "url": "https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64322,
+      "name": "Think Green",
+      "url": "https://open.spotify.com/track/5mYGgOhPiQ7jbQ9EXvtsvU"
     },
     {
       "album": {
@@ -1532,10 +2108,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 63556,
       "name": "Tiger In The Jungle",
       "url": "https://open.spotify.com/track/2PW6N8ca9Wh1BiBNrEna7A"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63556,
+      "name": "Tiger In The Jungle",
+      "url": "https://open.spotify.com/track/4TMV38Td4NVLWXvGmBc5vk"
     },
     {
       "album": {
@@ -1550,10 +2144,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 98824,
       "name": "Time To Shine (Moon)",
       "url": "https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0"
+    },
+    {
+      "album": {
+        "name": "StoryBots Outer Space",
+        "url": "https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98824,
+      "name": "Time To Shine (Moon)",
+      "url": "https://open.spotify.com/track/1GmeXKzGJaoar5gUi81heH"
     },
     {
       "album": {
@@ -1586,10 +2198,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 76916,
       "name": "Triceratops",
       "url": "https://open.spotify.com/track/3YByapIh6SR6jZakRrseOP"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77000,
+      "name": "Triceratops",
+      "url": "https://open.spotify.com/track/7vqsNHrPTzpMsQfsoXgfRs"
     },
     {
       "album": {
@@ -1604,10 +2234,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 62815,
       "name": "Try Y",
       "url": "https://open.spotify.com/track/1l4HPf06DnqLKp0OhaUCj2"
+    },
+    {
+      "album": {
+        "name": "StoryBots ABC Jamboree",
+        "url": "https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62815,
+      "name": "Try Y",
+      "url": "https://open.spotify.com/track/28LvxDBGw0GC2JbzuJjfd1"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J"
     },
     {
       "album": {
@@ -1622,7 +2288,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 82957,
       "name": "Tyrannosaurus Rex",
       "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
@@ -1676,10 +2342,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 68869,
       "name": "Veterinarian",
       "url": "https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68869,
+      "name": "Veterinarian",
+      "url": "https://open.spotify.com/track/49HOxpPETN7ISdBfQPk06y"
+    },
+    {
+      "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67844,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5rVQO5yMQGGNf6kelzaXKB"
     },
     {
       "album": {
@@ -1694,10 +2396,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 67844,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6lu4tbfeZdT2e7mME0GtHV"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74889,
+      "name": "Walk Like A Camel",
+      "url": "https://open.spotify.com/track/0ruHhPIylYuV8qguzMUpiX"
     },
     {
       "album": {
@@ -1712,7 +2432,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 74889,
       "name": "Walk Like A Camel",
       "url": "https://open.spotify.com/track/7wkL9MuSWXtfONvbqALCcw"
@@ -1755,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76861,
+      "name": "Why Do I Have to Brush My Teeth?",
+      "url": "https://open.spotify.com/track/0kkbCs2aUJ7OIABlBQX0A4"
+    },
+    {
+      "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
       },
@@ -1766,7 +2504,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 76861,
       "name": "Why Do I Have To Brush My Teeth?",
       "url": "https://open.spotify.com/track/4ji7lmdG4Fubyn5APo5kHc"

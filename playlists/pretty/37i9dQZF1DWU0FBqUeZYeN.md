@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,836 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,016 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 82 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 83 | [Up Against the Wall](https://open.spotify.com/track/6t5Kk1gcaFoq7uHJpruvD0) | [David Peel and The Lower East Side](https://open.spotify.com/artist/2krGuMNUbsvItpJBjvgMFp) | [And The Rest Is History: The Elektra Recordings](https://open.spotify.com/album/18HJZA1FVpVUgK0V6XVIaz) | 1:44 |
 | 84 | [Slow Death](https://open.spotify.com/track/44JvhqeLaMatXiA2VAtw25) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:23 |
-| 85 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/7DwZDNVo6dlnpEh9UxyFGw) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/3f6Y5i6HOeg5SpT5PUEm0e) | 5:43 |
+| 85 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/6fyC4XAanXTAuCEzIZKKFE) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/33t6WZtNdhUcJBCh2xdAst) | 5:43 |
 | 86 | [Do The Strand](https://open.spotify.com/track/7aT34NLHqsLlAuOTRKy9EO) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music Collection](https://open.spotify.com/album/6VQZ6NNyt8E6Nj93mkoi0y) | 4:02 |
 | 87 | [\(The Original\) Neutron Bomb](https://open.spotify.com/track/3bnNk9uwg0DcgNBarEgqTj) | [The Controllers](https://open.spotify.com/artist/4vdsZfLw82uxPQRhmlGDNf) | [The Controllers](https://open.spotify.com/album/1E5KS6RWT9SLKrNeYF66DQ) | 2:05 |
 | 88 | [N\-ER\-GEE \(Crisis Blues\)](https://open.spotify.com/track/4p7nN4R9w5hxDwJGz2xkjX) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Meet The Residents](https://open.spotify.com/album/4qM5MEMdIXr7p7734QEeB0) | 9:47 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMDY1NWY5YTZhOGZhNDQ3MDkxZGFhOWZkZjVlNDUwNGFk`
+Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMGM1MjY1N2FkZTQwNjAxNzVhNGQwMGVmMjQ5MWZjNDcx`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 327771,
+  "num_followers": 327952,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGM4NjI0YjE4YTExNDk0Y2RmYzQ5YzA1MmMxM2UyMmM0",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGY0Y2EzNDZhNzQwMmNmZTRkZGZkMTNiMDc3NWJlNDll",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Why Don't You",
+        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
+      },
+      "artists": [
+        {
+          "name": "Gramophonedzie",
+          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
+        }
+      ],
+      "duration_ms": 170273,
+      "name": "Why Don't You - Radio Edit",
+      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Laisse-Toi Tomber",
@@ -503,22 +519,6 @@
       "duration_ms": 178282,
       "name": "Laisse-Toi Tomber",
       "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Why Don't You",
-        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
-      },
-      "artists": [
-        {
-          "name": "Gramophonedzie",
-          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
-        }
-      ],
-      "duration_ms": 170273,
-      "name": "Why Don't You - Radio Edit",
-      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -637,24 +637,20 @@
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
-        "name": "Posture (Wolfgang Lohr Remix)",
-        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
+        "name": "Black Swing",
+        "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
       },
       "artists": [
-        {
-          "name": "Lamuzgueule",
-          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
-        },
         {
           "name": "Wolfgang Lohr",
           "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Posture - Wolfgang Lohr Remix",
-      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
+      "duration_ms": 198584,
+      "name": "Black Swing",
+      "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -697,20 +693,20 @@
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Black Swing",
-        "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
         }
       ],
-      "duration_ms": 198584,
-      "name": "Black Swing",
-      "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
+      "duration_ms": 192741,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -729,20 +725,24 @@
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
+        "name": "Posture (Wolfgang Lohr Remix)",
+        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
       },
       "artists": [
         {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         }
       ],
-      "duration_ms": 192741,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
+      "duration_ms": 236129,
+      "name": "Posture - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
     },
     {
       "added_at": "2022-05-13 04:03:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Shocking Miss Emerald The Remixes",
         "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
       },
@@ -837,22 +853,6 @@
       "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "Get This (Bang Bang)",
@@ -867,22 +867,6 @@
       "duration_ms": 225728,
       "name": "Get This (Bang Bang)",
       "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "What Lana Says",
-        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
-      },
-      "artists": [
-        {
-          "name": "Proleter",
-          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "What Lana Says",
-      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -903,6 +887,22 @@
       "duration_ms": 173296,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "What Lana Says",
+        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
+      },
+      "artists": [
+        {
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "What Lana Says",
+      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+      },
+      "artists": [
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
+    },
+    {
       "added_at": "2022-07-05 12:46:20",
       "album": {
         "name": "Both Sides of the Moon",
@@ -1243,38 +1259,6 @@
       "duration_ms": 165226,
       "name": "You Rascal You",
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1297,24 +1281,36 @@
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "Cinnamon Girl",
-        "url": "https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl"
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
       },
       "artists": [
         {
-          "name": "[dunkelbunt]",
-          "url": "https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3"
-        },
-        {
-          "name": "Boban i Marko Marcovic Orkestar",
-          "url": "https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1"
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
+      "duration_ms": 164257,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1333,24 +1329,20 @@
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+        "name": "Big Blue Swing",
+        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
       },
       "artists": [
         {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
         }
       ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+      "duration_ms": 227127,
+      "name": "Big Blue Swing",
+      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
     }
   ],
   "unique_name": "Electro Swing",

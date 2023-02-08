@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,413 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,423 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 2 | [Nik Com](https://open.spotify.com/track/1Oxf4JleXC7UfIzu0OfQto) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:24 |
 | 3 | [Everything Evaporate](https://open.spotify.com/track/4Ne6Wt5fYHbx3SvTUfr3kR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Everything Evaporate](https://open.spotify.com/album/1wKKrYxulFvFe0JUtK5rzC) | 6:40 |
 | 4 | [Max](https://open.spotify.com/track/7aWWOiX3LsB80ozbNTSTZb) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/6L0IdiiAC6ELOGyksKclzn) | 4:17 |
-| 5 | [The North Wind](https://open.spotify.com/track/7mc9nqCeNB2gBYoR891KVv) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 4:11 |
+| 5 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
 | 6 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 |
 | 7 | [Nu](https://open.spotify.com/track/5V3vtXAyk1ndtKqToQawOH) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida \(outtakes\)](https://open.spotify.com/album/46nJmD2p7a9YbYsjMhorN1) | 2:17 |
 | 8 | [La procesión](https://open.spotify.com/track/1n0op7KqijQJosc9lhuR0U) | [Ale Hop](https://open.spotify.com/artist/1Ef3JUYNrOM5JfOo9oThPV) | [The Life of Insects](https://open.spotify.com/album/0cmW9PUBl08bvqGHJtp2NT) | 5:29 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 48 | [L’Enfant Et Le Poulpe](https://open.spotify.com/track/54H7J3fGubgBzSoSCcn4CL) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 5:58 |
 | 49 | [Uniform](https://open.spotify.com/track/6wm7NdzAaNA4KxgM0Em3w7) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Ancestor Boy](https://open.spotify.com/album/3TJytf0pGdE091GmE0z4Rc) | 3:14 |
 | 50 | [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 |
-| 51 | [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 |
+| 51 | [The Archer](https://open.spotify.com/track/6JOg52cyqYLFc8CCO2MjH3) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 6:01 |
 | 52 | [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/5HHUcRqLOs9OkTf4qNX6lF) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/3t9hFz7sq6MnhtTVceRB8R) | 4:31 |
 | 53 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
 | 54 | [TILT \- Single Edit](https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E) | 3:08 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDgzYjgxMWVkNzlhMzY1ZDA3MzBiNTg5ZTI3MTAyZjJh`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDNjOTgwOTM4MzJhNzVjOWQ4MjE5ZGI0YjJkMzhlN2Y0`

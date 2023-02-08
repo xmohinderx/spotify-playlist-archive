@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Thierry Larose
+> La scène musicale montréalaise au premier plan\. Photo: Les Louanges
 
-262 songs - 15 hr 14 min
+263 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 | 2022-09-03 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-03-25 | 2022-04-23 |
 | [Boca Chica \- Bon Voyage Version](https://open.spotify.com/track/3VMYiD1rXYi6UScWqCBWND) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Bon Voyage](https://open.spotify.com/album/24pk86x4quyve0rILcnBPt) | 3:18 | 2022-05-06 |  |
-| [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-06-10 |  |
+| [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-06-10 | 2023-02-08 |
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-12-09 |  |
 | [Boulevard Alexandre](https://open.spotify.com/track/3nDmcZ3bJQoc3kITSjocoE) | [Heïka](https://open.spotify.com/artist/4qxlfgk1WmgpadIa5sVC61) | [Boulevard Alexandre](https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx) | 2:55 | 2022-03-25 | 2022-10-01 |
 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 | 2022-03-25 | 2022-08-27 |
@@ -238,6 +238,7 @@
 | [STP](https://open.spotify.com/track/64XbzMVPTMR2cvtOwgzRlw) | [BAAB](https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR) | [STP](https://open.spotify.com/album/36pVjg0nR9spir2KlZqxaU) | 3:44 | 2022-03-25 | 2022-09-17 |
 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 | 2022-07-22 | 2022-11-12 |
 | [Supermonkeyball](https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Supermonkeyball](https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3) | 3:48 | 2022-05-20 |  |
+| [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab) | 2:15 | 2023-02-07 |  |
 | [Sur la pointe des pieds](https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Sur la pointe des pieds](https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye) | 6:36 | 2022-04-29 | 2022-07-29 |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2022-07-22 |  |
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |

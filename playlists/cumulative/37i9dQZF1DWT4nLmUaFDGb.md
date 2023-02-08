@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-205 songs - 13 hr 6 min
+206 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-08-19 | 2022-10-08 |
 | [Smile](https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:57 | 2022-09-08 | 2023-02-01 |
 | [Some Kind Of Wonderful](https://open.spotify.com/track/0H6oFJd0ZGJUYqs7zA3I42) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/5aQ4x8ZmB8m4N5UxJGMOgH) | 3:30 | 2022-08-19 | 2022-10-08 |
+| [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 | 2022-07-14 | 2022-09-07 |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW) | 3:10 | 2022-05-31 | 2022-07-29 |
 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 | 2021-12-21 | 2022-03-16 |
@@ -175,7 +176,7 @@
 | [The Good Life \(with Billy Joel\)](https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:20 | 2021-12-21 | 2022-10-08 |
 | [The Lemonade Song](https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP) | 2:34 | 2022-07-14 | 2022-11-14 |
 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 | 2021-12-21 | 2022-07-29 |
-| [The Look Of Love](https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [The Look Of Love \- Burt Bacharach Songbook](https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2) | 4:33 | 2021-12-21 |  |
+| [The Look Of Love](https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [The Look Of Love \- Burt Bacharach Songbook](https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2) | 4:33 | 2021-12-21 | 2023-02-08 |
 | [The Moon Is Made of Gold](https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Balm in Gilead](https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e) | 3:00 | 2021-12-21 |  |
 | [The Moon's a Harsh Mistress](https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [The Moon, the Stars and You](https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq) | 4:45 | 2021-12-21 | 2022-10-08 |
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2022-02-24 | 2022-07-29 |

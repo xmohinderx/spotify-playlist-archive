@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-462 songs - 1 day 2 hr 40 min
+463 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [ヘンシン](https://open.spotify.com/track/1IopSg04uZM0DpggfEIMjf) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [ヘンシン](https://open.spotify.com/album/4LpQSK3LYK2ttsDuLzNAyJ) | 3:40 | 2022-08-23 | 2022-10-05 |
 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 | 2022-07-26 |  |
 | [ベノム\(feat\. flower\)](https://open.spotify.com/track/1HZDkmuOxiUB4RgACPd6eB) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [ベノム\(feat\. flower\)](https://open.spotify.com/album/7AEioOJaaYF8Y1GmBGYBi8) | 3:23 | 2022-06-09 | 2022-07-29 |
+| [ベルコメン](https://open.spotify.com/track/0FkaGYIzvLbAVNCWWjDpO3) | [香椎モイミ](https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ) | [偏愛](https://open.spotify.com/album/3Vw6LxPWbtDLKoSzoetvNK) | 3:51 | 2023-02-08 |  |
 | [ペタペタ](https://open.spotify.com/track/0QfPdBYuquukh7i0cp7soC) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ペタペタ](https://open.spotify.com/album/5wHBtD5cW9FKGi2Z0Olrhm) | 3:19 | 2022-06-14 | 2022-07-24 |
 | [ボッカデラベリタ](https://open.spotify.com/track/3sbj4p74huvGfIu3zKw7GJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:21 | 2022-06-14 | 2022-07-25 |
 | [ポジティブ☆ダンスタイム](https://open.spotify.com/track/7v5xPGDLbGMLqSnPfIrRgK) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [ポジティブ☆ダンスタイム](https://open.spotify.com/album/5SizyZsAfotoDLoNYbph5M) | 4:02 | 2022-06-09 | 2022-07-22 |
@@ -446,7 +447,7 @@
 | [終焉逃避行](https://open.spotify.com/track/3L1l6mxmglni1S8HdvH2Fl) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [終焉逃避行](https://open.spotify.com/album/55PljDonBsFZ60MUDCatIy) | 2:59 | 2022-06-30 | 2022-07-27 |
 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 | 2022-07-14 | 2022-07-19 |
 | [群青讃歌](https://open.spotify.com/track/6BWMagsCayJHrMApCnYG8d) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eve Vocaloid 01](https://open.spotify.com/album/6EjxEzqpGebeH0X4PhuRqG) | 4:35 | 2022-06-09 | 2022-07-27 |
-| [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 | 2022-06-23 |  |
+| [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 | 2022-06-23 | 2023-02-08 |
 | [脳漿炸裂ガール](https://open.spotify.com/track/5gX1JKayYNmXFvM0WH3SGT) | [+α/あるふぁきゅん。](https://open.spotify.com/artist/6h5CRuhHGbYgXjqsw76K3i) | [+α/](https://open.spotify.com/album/7Fs8QM404ayeo1bJVTJiXU) | 3:13 | 2022-06-14 | 2022-07-02 |
 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 | 2022-06-28 |  |
 | [腐れ外道とチョコレゐト](https://open.spotify.com/track/07ja6ijB8a5DAsfwKJFoMb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Comic and Cosmic](https://open.spotify.com/album/0rclMLKSwOEJ9I7xauRFbF) | 3:15 | 2022-06-23 | 2022-07-19 |

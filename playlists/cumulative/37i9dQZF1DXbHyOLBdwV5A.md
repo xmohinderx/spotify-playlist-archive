@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-89 songs - 4 hr 50 min
+90 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Te Seguirei](https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Luiz Halleluia](https://open.spotify.com/artist/2FPYPMdnIsbKqEqui6NHHl), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Te Seguirei](https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd) | 2:58 | 2022-09-02 |  |
 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 | 2022-09-02 |  |
 | [Tu És Deus \- Remix](https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l) | [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Tu És Deus \(Remix\)](https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm) | 2:34 | 2022-09-02 | 2022-11-26 |
-| [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 | 2022-09-02 |  |
+| [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 | 2022-09-02 | 2023-02-08 |
+| [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 4:24 | 2023-02-03 |  |
 | [Tudo Que Há em Mim Te Adora \- Remix](https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Banda Rafah](https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm) | [Tudo Que Há em Mim Te Adora \(Remix\)](https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY) | 3:15 | 2022-09-02 | 2023-02-04 |
 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 | 2022-09-02 |  |
 | [Tú és Bom \(feat\. Julia Vitória\)](https://open.spotify.com/track/7nz1eeQL0lCCTkne6QNuUV) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tú és Bom \(feat\. Julia Vitória\)](https://open.spotify.com/album/5F61gVaGDjUHfxpxPVHXMj) | 3:22 | 2022-09-02 | 2022-10-01 |

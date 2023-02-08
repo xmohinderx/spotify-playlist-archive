@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
+  "description": "Le tracce italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
   "name": "Amore Davvero",
   "tracks": [
     {
@@ -330,6 +330,28 @@
       "duration_ms": 274973,
       "name": "Bella senz'anima",
       "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
+    },
+    {
+      "album": {
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "album": {
@@ -1051,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+    },
+    {
+      "album": {
         "name": "Sopravvissuti e sopravviventi [Remastered Version]",
         "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
       },
@@ -1120,7 +1164,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 177000,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
@@ -1503,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
+    },
+    {
+      "album": {
         "name": "MAX 20",
         "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
@@ -1514,7 +1576,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 253100,
       "name": "L'universo tranne noi",
       "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
@@ -1968,7 +2030,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 271320,
       "name": "Mi Fido Di Te",
       "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"

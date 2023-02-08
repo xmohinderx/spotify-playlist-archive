@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-135 songs - 7 hr 52 min
+136 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2021-04-09 |  |
 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 | 2021-04-09 |  |
 | [Medication](https://open.spotify.com/track/5vwJ82xdkXpoty59jbAoW9) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 1:54 | 2021-04-09 | 2022-07-29 |
-| [Modern Art](https://open.spotify.com/track/3p6DhlMp6bql668XFfszkK) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/1HODhqNf9fFCKPffdnKJaR) | 2:04 | 2021-04-09 |  |
+| [Modern Art](https://open.spotify.com/track/3p6DhlMp6bql668XFfszkK) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/1HODhqNf9fFCKPffdnKJaR) | 2:04 | 2021-04-09 | 2023-02-08 |
 | [Modern Art](https://open.spotify.com/track/5CD1zO8FBpSjulmoQlFdse) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/7GiUKzR2ImfLJK8Qxrn630) | 2:04 | 2021-04-09 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 | 2021-04-09 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-04-09 |  |
@@ -124,13 +124,14 @@
 | [Sticky Honey](https://open.spotify.com/track/0HrI6dlfatuofmBjIY9Mxw) | [Juliette & The Licks](https://open.spotify.com/artist/5leGNiJMZus51YMNgB18iG) | [Four on the Floor](https://open.spotify.com/album/6lXA02cn0uH1gCxEItqXvz) | 2:21 | 2021-04-09 | 2022-07-29 |
 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 | 2021-04-09 | 2023-01-29 |
 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 | 2021-04-09 |  |
-| [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 | 2021-04-09 | 2023-01-24 |
+| [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 | 2021-04-09 |  |
 | [Tall Man Skinny Lady](https://open.spotify.com/track/49PuPc7vsgnkzMpF0Hzfeq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/0aXcmVjzU9v63FhFcjgLxp) | 4:02 | 2021-04-09 | 2022-07-29 |
 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 | 2021-04-09 |  |
 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 | 2021-04-09 |  |
 | [The Heinrich Maneuver](https://open.spotify.com/track/4CKuOiUPeGbDsHkT3fmALJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 3:28 | 2021-04-09 |  |
 | [The Heinrich Maneuver](https://open.spotify.com/track/4fvm91N3APgHw0V2Vm0k4Y) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/3YSlq716lXQhnFTxp6z4Tb) | 3:28 | 2021-04-09 | 2022-10-15 |
 | [The Heinrich Maneuver](https://open.spotify.com/track/4VmqrMPBppKFkOw2zuEIt8) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 3:28 | 2021-04-09 | 2022-07-29 |
+| [Think Of You](https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660) | 2:41 | 2021-04-09 |  |
 | [Think Of You](https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX) | 2:41 | 2021-04-09 | 2023-02-03 |
 | [Toad Jam](https://open.spotify.com/track/7hYJzj15DrecxdMA9jSXnC) | [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Toad Jam](https://open.spotify.com/album/0qTGqqkhpY5nezI7St0jFW) | 2:58 | 2021-04-09 | 2022-07-29 |
 | [Toda Pessoa](https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK) | [Fumaça Preta](https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi) | [Fumaça Preta](https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5) | 2:39 | 2021-04-09 | 2022-07-29 |
@@ -138,7 +139,7 @@
 | [Tony T](https://open.spotify.com/track/3gg9esrJhx4js746KTYNu9) | [The High Curbs](https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy) | [Tommy](https://open.spotify.com/album/77HiQwWsuY8lE5BhDQpdHQ) | 3:07 | 2021-04-09 | 2022-07-29 |
 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 | 2021-04-09 |  |
 | [Unusual World](https://open.spotify.com/track/5eSLt9mxaJFaGlk3VAQomv) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [King Tuff](https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd) | 3:27 | 2021-04-09 | 2022-07-29 |
-| [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-04-09 |  |
+| [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-04-09 | 2023-02-08 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-04-09 | 2022-07-29 |
 | [Weirdoz Everywhere](https://open.spotify.com/track/1y1x50RPlbMxQEfdEea4jq) | [The Prefab Messiahs](https://open.spotify.com/artist/5GYnYoovZYKHZwodZQ9leb) | [Keep Your Stupid Dreams Alive](https://open.spotify.com/album/4NaHNMDgSixvdoV58jJLSF) | 2:46 | 2021-04-09 | 2022-07-29 |
 | [Who Loves the Scum?](https://open.spotify.com/track/2ma77DaU6vgMkRkHEABeO9) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Who Loves the Scum?](https://open.spotify.com/album/55BOvhU61aJyPVmhL0ExwC) | 3:28 | 2021-04-09 | 2022-11-13 |

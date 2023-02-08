@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > jonatan leandoer96 makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,757 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,959 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 40 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 41 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
 | 42 | [Baby Blues](https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 1:48 |
-| 43 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 |
-| 44 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 |
+| 43 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 |
+| 44 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 |
 | 45 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 |
 | 46 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 |
-| 47 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
-| 48 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 |
-| 49 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
+| 47 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 |
+| 48 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
+| 49 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 |
 | 50 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGFlMmIzMjg3YjcyYTE5OWJmNWI2ZmJlMzlkMzEwYTcz`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDhhYjVlYzJkYjBlNTFkYjk5ODMwY2ZmNWY3ZGNkYzY4`

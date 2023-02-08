@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-839 songs - 2 day 10 hr 38 min
+840 songs - 2 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 | 2022-01-05 |  |
 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 | 2022-01-05 |  |
 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 | 2022-01-05 |  |
-| [Come To Poppa](https://open.spotify.com/track/0IHpdWuBRfCMgQxEF2EnDF) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 3:09 | 2022-01-05 | 2022-12-22 |
+| [Come To Poppa](https://open.spotify.com/track/0IHpdWuBRfCMgQxEF2EnDF) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 3:09 | 2022-01-05 |  |
 | [Coming Down Again \- Remastered](https://open.spotify.com/track/7wvv3OLPrX0pENjcDDLLbS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 5:54 | 2022-01-05 | 2022-07-29 |
 | [Cool For Cats](https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx) | 3:10 | 2022-01-05 | 2022-09-02 |
 | [Cool For Cats](https://open.spotify.com/track/7zWE4XT8ATao3xxdHtKly4) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/3oWgf409Wl8ToSNB1ilzUg) | 3:10 | 2022-01-05 |  |
@@ -254,7 +254,8 @@
 | [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 | 2022-01-05 |  |
 | [Gimme Back My Bullets](https://open.spotify.com/track/02UFwtmJ0ogLQWMx43Okuh) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 3:29 | 2022-01-05 |  |
 | [Gimme Danger \- Bowie Mix](https://open.spotify.com/track/74CcP6fDBFdH8Xjo2F6Nb4) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Legacy Edition\)](https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls) | 3:29 | 2022-01-05 | 2023-02-04 |
-| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/3MHYDIspsysJxn1xkMJpjY) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(50th Anniversary Legacy Edition\)](https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew) | 3:33 | 2022-11-17 |  |
+| [Gimme Danger \[2023 Remaster\] \- Bowie Mix](https://open.spotify.com/track/4jgtwIapMV2IFv9hFKrRCa) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(50th Anniversary Legacy Edition\)](https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew) | 3:31 | 2022-11-17 |  |
+| [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/3MHYDIspsysJxn1xkMJpjY) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(50th Anniversary Legacy Edition\)](https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew) | 3:33 | 2022-11-17 | 2023-02-08 |
 | [Gimme Danger \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 | 2022-11-17 | 2023-02-07 |
 | [Gimme Some Truth \- Remastered 2010](https://open.spotify.com/track/3d2oiHuHm3rftzRDPeL5LU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:17 | 2022-01-05 |  |
 | [Gimme Some Water](https://open.spotify.com/track/0LKH8nMS8WFISQRo5RXGcq) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Life For The Taking](https://open.spotify.com/album/6rZ5ZREEbF43M67P2yV6Sx) | 3:37 | 2022-01-05 |  |
@@ -723,7 +724,7 @@
 | [The Ghost Song](https://open.spotify.com/track/12yE1Q5TAg4nh8IqWckVGS) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 5:15 | 2022-01-05 |  |
 | [The Grand Illusion](https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 4:37 | 2022-01-05 |  |
 | [The Green Manalishi](https://open.spotify.com/track/6B3PcYwfvnomzQa9nbkwGX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 4:34 | 2022-01-05 | 2022-07-29 |
-| [The Green Manalishi \(With the Two Prong Crown\) \- 2013 Remaster](https://open.spotify.com/track/3ewHrol22L7bKiI0zAIbdX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:37 | 2022-01-05 |  |
+| [The Green Manalishi \(With the Two Prong Crown\) \- 2013 Remaster](https://open.spotify.com/track/3ewHrol22L7bKiI0zAIbdX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:37 | 2022-01-05 | 2023-02-08 |
 | [The Groover \(Master Version with False Start\)](https://open.spotify.com/track/5j3KwnmOJkNVptGxp4KUPD) | [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN), [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Bump'n'grind](https://open.spotify.com/album/1lHduxtvIus7ILKKX1DlqP) | 5:13 | 2022-01-05 |  |
 | [The Happiest Days Of Our Lives \- 2011 Remastered Version](https://open.spotify.com/track/6ASehhdN08JbXzDJmMrogn) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall \(Remastered\)](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g) | 1:38 | 2022-01-05 |  |
 | [The Hardest Part \- Remastered](https://open.spotify.com/track/45Y5qvAp22ab1dgyFEJNIC) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:42 | 2022-01-05 | 2022-07-29 |

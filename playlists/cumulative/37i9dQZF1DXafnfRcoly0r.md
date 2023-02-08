@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-87 songs - 3 hr 9 min
+88 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [The Puppy Song](https://open.spotify.com/track/4B2y6pYyR9CLZYnNUqzaY9) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 2:43 | 2022-01-14 |  |
 | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/track/2xBwNMd66kDSptmoi6BhCz) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/album/2jyDSVGHnH3K1QYN5QXHxS) | 2:06 | 2022-01-14 |  |
 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 | 2022-01-14 |  |
-| [Veterinarian](https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:08 | 2022-01-14 |  |
+| [Veterinarian](https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:08 | 2022-01-14 | 2023-02-08 |
+| [Veterinarian](https://open.spotify.com/track/49HOxpPETN7ISdBfQPk06y) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2) | 1:08 | 2022-07-25 |  |
 | [Warm Kitty, Soft Kitty](https://open.spotify.com/track/5MkNN0SEArY5olPUDQrn1h) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Hip Hip Hooray!](https://open.spotify.com/album/1sXrc8YqbbOCtRRjd07kgH) | 0:27 | 2022-01-14 |  |
 | [We All Love Our Pets](https://open.spotify.com/track/3f1ezzBWeIAm9jrEDLuo7a) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:41 | 2022-07-25 |  |
 | [We All Love Our Pets](https://open.spotify.com/track/4pITScbrqHq4VKiKZ2dVVJ) | [Taking Back Sunday](https://open.spotify.com/artist/5f4yWv7PwL1Tm5PWsIoUPq) | [Yo Gabba Gabba Hey](https://open.spotify.com/album/3Ca8UokyDHfe4WfSLbWUl4) | 1:41 | 2022-01-14 | 2022-07-29 |

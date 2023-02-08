@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: midwxst & Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,418 likes - 90 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,777 likes - 90 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

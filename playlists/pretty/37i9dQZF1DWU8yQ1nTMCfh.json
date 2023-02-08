@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 278441,
+  "num_followers": 278482,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDIzNDg5ODQzM2Q0NGUwMzIwZjZhOTM4NTMxN2QxNWM5",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGM1OGEzNzUzZTUyNjcxZjFmYTc3MmNmMzc1YzI3MmY4",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 180428,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Plaza en el cielo",
         "url": "https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 206615,
       "name": "Plaza en el cielo",
       "url": "https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 180428,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Recuerdos Desechables",
-        "url": "https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d"
+        "name": "Teletecho y El Acecho",
+        "url": "https://open.spotify.com/album/6SJqRfgnfUTB6Uny9iLPzk"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+          "name": "Cala Vento",
+          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
+        },
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Recuerdos Desechables",
-      "url": "https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml"
+      "duration_ms": 202755,
+      "name": "Teletecho",
+      "url": "https://open.spotify.com/track/7tk6NW5Mk9KJOE0v31yNb5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Teletecho y El Acecho",
-        "url": "https://open.spotify.com/album/6SJqRfgnfUTB6Uny9iLPzk"
+        "name": "Recuerdos Desechables",
+        "url": "https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d"
       },
       "artists": [
         {
-          "name": "Cala Vento",
-          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
-        },
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 202755,
-      "name": "Teletecho",
-      "url": "https://open.spotify.com/track/7tk6NW5Mk9KJOE0v31yNb5"
+      "duration_ms": 210280,
+      "name": "Recuerdos Desechables",
+      "url": "https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml"
     }
   ],
   "unique_name": "Rock Total",

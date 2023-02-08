@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > god damn i'm feeling myself
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,173 likes - 80 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,264 likes - 80 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=8gF\_bzusSGu6Cc4NeXNWHQ">Kabza De Small</a> and <a href="https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw?si=tpXXC2w\-SZqzSJmr\_tXG9Q">Stakev</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,247 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,714 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 45 | [Gibela](https://open.spotify.com/track/0jfPzWF6OEnIse7WL5niyG) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Gibela](https://open.spotify.com/album/6DvSWEU2tiK4y4fZkykrQ2) | 4:57 |
 | 46 | [Melomed](https://open.spotify.com/track/0FW4vp72jcuKUktO5OxHpI) | [Chipmunkz CPT](https://open.spotify.com/artist/6lkZ2Vr3aDNlSDXc4U05L5) | [Main Keyz](https://open.spotify.com/album/6rSVVC6JJcAb2uohstWnj2) | 7:40 |
 | 47 | [Ngiyafuna](https://open.spotify.com/track/5Xi2OW3tzadYloJYfYdqRw) | [KissBeatz](https://open.spotify.com/artist/1JsMUlVAuMujNThwU7KnRb), [Soul Jam](https://open.spotify.com/artist/3V9ibfGY77VOMUTdy5KwSj), [Reelow Mash](https://open.spotify.com/artist/3Xcl1XzrvqjVRe2apzWeHU), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Ngiyafuna](https://open.spotify.com/album/0et1OhDLDobwMXXQo1HI1j) | 4:48 |
-| 48 | [Chalé](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chalé](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 |
+| 48 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 |
 | 49 | [Sqhebe](https://open.spotify.com/track/0loNtdzHZnkNOqZ86PJPsl) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Dlala Regal](https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Lebo Lenyora](https://open.spotify.com/artist/1Y7P9wLnebhgdD4km5yuni), [Almighty SA](https://open.spotify.com/artist/3hw3R4WjT7w3S4Vjnbwx7K) | [Sqhebe](https://open.spotify.com/album/4DdseqIRkHXlSgrrr1e6pQ) | 6:00 |
 | 50 | [Kancane Kancane](https://open.spotify.com/track/1XacggiAi9HqeXYl1ybVh9) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [2woshort](https://open.spotify.com/artist/2DmC0MVQgL6C9vUmBkkAie), [Boontle RSA](https://open.spotify.com/artist/0FwiwkcXDMhVK93RtUpVSQ), [King Monopoly](https://open.spotify.com/artist/4eSVzgB4BdEodAlWx6gqaD), [Xduppy](https://open.spotify.com/artist/6F6Z39DtGD6PnmL1b79U6X), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [Kancane Kancane](https://open.spotify.com/album/3NFejv9LlxOuyrtEZCazXp) | 7:01 |
 

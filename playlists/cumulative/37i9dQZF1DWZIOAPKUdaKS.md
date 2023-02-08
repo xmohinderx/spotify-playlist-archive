@@ -2,9 +2,9 @@
 
 ### [Focus Piano](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS)
 
-> Piano music to get some work done! <br/>Reading, writing, studying, learning to the sound of soft work music.
+> Soft piano to help you focus, work or study.
 
-613 songs - 1 day 2 hr 41 min
+615 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Perseverance](https://open.spotify.com/track/7w2SNm2phmRjSwl8ftLR8z) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Perseverance](https://open.spotify.com/album/2cEfltCZou7ueF9UR6iNH5) | 2:14 | 2021-12-07 |  |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-07 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-07-20 |
+| [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [Vivien Chandra](https://open.spotify.com/artist/7bKshYPNnC71Zsu93Xi6hq), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-02-07 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-07 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2021-12-07 | 2022-09-13 |
 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 | 2021-12-07 | 2022-08-13 |
@@ -441,6 +442,7 @@
 | [reflect](https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [reflect](https://open.spotify.com/album/2HPnSOnsjv5OMhhKZD83eD) | 2:26 | 2021-12-07 | 2022-07-20 |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2021-12-07 | 2022-09-13 |
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2021-12-07 | 2022-02-02 |
+| [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-02-07 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2021-12-07 |  |
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2021-12-07 | 2022-04-21 |
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2021-12-07 | 2022-07-20 |
@@ -606,7 +608,7 @@
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-02-02 |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2021-12-07 | 2022-10-25 |
 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 | 2022-09-12 | 2022-10-25 |
-| [Wonder](https://open.spotify.com/track/6F5ZyJQDBTBL7JPT6JjC3R) | [Angelo Nicola Giuliano](https://open.spotify.com/artist/7ITIcFJcB4VqctB8SI5YkK), [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [Wonder](https://open.spotify.com/album/5XxjwO6ff5SgnBAuLrOpX7) | 2:05 | 2023-01-27 |  |
+| [Wonder](https://open.spotify.com/track/6F5ZyJQDBTBL7JPT6JjC3R) | [Angelo Nicola Giuliano](https://open.spotify.com/artist/7ITIcFJcB4VqctB8SI5YkK), [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [Wonder](https://open.spotify.com/album/5XxjwO6ff5SgnBAuLrOpX7) | 2:05 | 2023-01-27 | 2023-02-08 |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 | 2022-04-08 |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2021-12-07 | 2022-12-06 |
 | [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 | 2021-12-07 | 2022-10-25 |

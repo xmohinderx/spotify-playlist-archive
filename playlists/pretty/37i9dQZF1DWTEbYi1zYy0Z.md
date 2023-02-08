@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Lin Rountree
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,871 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,932 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 14 | [After Party](https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After Party](https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4) | 3:50 |
 | 15 | [Stick It Out](https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV), [Eric Dubose](https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK) | [Stick It Out](https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5) | 3:40 |
 | 16 | [Step into Love](https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [The Trilogy, Pt\. 3: White](https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh) | 5:08 |
-| 17 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
-| 18 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
+| 17 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
+| 18 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
 | 19 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
-| 20 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
-| 21 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
+| 20 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 |
+| 21 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 | 22 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
 | 23 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 |
 | 24 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 42 | [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 |
 | 43 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 |
 | 44 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
-| 45 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
-| 46 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
+| 45 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
+| 46 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
 | 47 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
 | 48 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 |
 | 49 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
 | 50 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGViYWIwOGJiZjgwZDAxNTE1NjMzNmI0ZGJjM2I5YmRj`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGU5MTZhMjYwOGU0Y2YxMjI2YzNjNjRkYzkyY2IwZGJk`

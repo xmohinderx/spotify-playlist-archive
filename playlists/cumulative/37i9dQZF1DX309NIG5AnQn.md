@@ -4,7 +4,7 @@
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-88 songs - 4 hr 53 min
+89 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Casa](https://open.spotify.com/track/1xsVmjvuPgRGBR3beitH1q) | [Bosque Distopico](https://open.spotify.com/artist/5b7YW8oH41qs5ZMuSJeXQk), [Fede Distopico](https://open.spotify.com/artist/2cr1OQebP3TK8QWW3uVmNT), [Alilen](https://open.spotify.com/artist/5u7zkp9mba6XRa1YcPLDkH) | [Casa](https://open.spotify.com/album/5OUlO3NgOSS4xSPdyr1eza) | 3:44 | 2022-03-25 |  |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-03-25 |  |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-03-25 |  |
-| [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 |  |
+| [Close Talker](https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa) | 3:17 | 2022-03-25 |  |
+| [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 | 2023-02-08 |
 | [Colonias Espaciales \(Demo\)](https://open.spotify.com/track/3LSlNG8DgmrzAngl6BbxRp) | [Iguana Lovers](https://open.spotify.com/artist/4CLxHHRKTIttYtj0V9c4Aj) | [Colonias Espaciales \(Demo\)](https://open.spotify.com/album/1iyVOMmAHDRlNv9BvjZuNz) | 3:36 | 2022-03-25 |  |
 | [Color](https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 3:49 | 2022-03-25 | 2023-01-10 |
 | [Color](https://open.spotify.com/track/76MMaNzI01OojAm2MJExHv) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:49 | 2022-03-25 |  |

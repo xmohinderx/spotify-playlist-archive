@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6290,
+  "num_followers": 6292,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGU3NTliYjE3NzI4ZTA4MTg1MDRmZDNhMTIyNGRlNTBl",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGJkOGYyNDA3NjVjNjQzYzFhYjc0NjAzZWQ4YWU1YzU3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "IDGAF (with blackbear)",
+      "url": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "IDGAF (with blackbear)",
-      "url": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "All Eyes On Me",
         "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": "2022-11-30 13:46:00",

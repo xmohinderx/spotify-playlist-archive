@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Dalex",
-  "num_followers": 511863,
+  "num_followers": 511923,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGI5N2Y4YmQyMmQ5YTU5MjQ3MTlmM2M3YThjZGMxYjEx",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGNlYzkxODMwZjA0ZjJjNGY1MjViMmYzNjJlZDAxMWMy",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "Kaleidosc\u00f3pica",
-      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "No Pinto Pajaritos",
         "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 145349,
       "name": "No Pinto Pajaritos",
       "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Quien Va a Frontiar",
+        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Quien Va a Frontiar",
+      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 241908,
       "name": "S\u00edntomas de Soltera",
       "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Quien Va a Frontiar",
-        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Quien Va a Frontiar",
-      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Magicenelbeat",
-          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
-        }
-      ],
-      "duration_ms": 193850,
-      "name": "Perreo",
-      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "duration_ms": 193850,
+      "name": "Perreo",
+      "url": "https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 207932,
+      "name": "GATAS",
+      "url": "https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Kachin",
         "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
       },
@@ -1435,6 +1455,26 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Tratemos",
+        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
+      },
+      "artists": [
+        {
+          "name": "Bernier",
+          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Tratemos",
+      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Nadie Nos Vio - Spotify Singles",
         "url": "https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c"
       },
@@ -1455,26 +1495,6 @@
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Tratemos",
-        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
-      },
-      "artists": [
-        {
-          "name": "Bernier",
-          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Tratemos",
-      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 207932,
-      "name": "GATAS",
-      "url": "https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "diamante$ + espina$",
         "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
       },
@@ -1575,6 +1575,26 @@
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "Persy",
+          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1679,26 +1699,6 @@
       "duration_ms": 141600,
       "name": "JOLLY",
       "url": "https://open.spotify.com/track/4zLDlBGWfXrjj9o9eWXQ8G"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Toronto",
-        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "Persy",
-          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Toronto",
-      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "ODISEA",
+      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Delirio Y Tortura",
         "url": "https://open.spotify.com/album/6PD9EoGEzIkzqusA8Z59oq"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 205720,
       "name": "Delirio Y Tortura",
       "url": "https://open.spotify.com/track/1pyTTfElvt1z76JqKPMxzh"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "ODISEA",
-      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
     },
     {
       "added_at": "2023-02-03 05:00:00",

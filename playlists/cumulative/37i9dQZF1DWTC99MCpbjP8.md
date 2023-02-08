@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-427 songs - 18 hr 41 min
+429 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2022-04-22 | 2022-07-29 |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-22 | 2022-07-28 |
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2022-11-14 |  |
-| [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-27 |  |
+| [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-27 | 2023-02-08 |
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2022-04-22 | 2022-07-29 |
 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 | 2022-04-22 | 2023-01-27 |
 | [Aether](https://open.spotify.com/track/4e25SPifKDmXdg6brXqyRH) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Aether](https://open.spotify.com/album/45e9OQ4Dzt7VUMnZXia6at) | 2:10 | 2022-04-22 |  |
@@ -57,6 +57,7 @@
 | [Borrowed Time](https://open.spotify.com/track/2swEngJC2fSnOIaCDEllJX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/2jcvs7NliDYO7R4TLJtQYr) | 2:31 | 2022-07-27 | 2023-01-27 |
 | [Borrowed Time](https://open.spotify.com/track/6sdG0HUpvMNfsOiwtj6E6j) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/0HkQ5lRS5R77z79ixPpWRL) | 2:31 | 2022-04-22 | 2022-07-29 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-22 |  |
+| [branches of hope](https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b) | [mandarin + cedar](https://open.spotify.com/artist/5lKC596KgYRuupiQKGr7HF) | [branches of hope](https://open.spotify.com/album/26TKyvjmtbN1vBFX7wlJSQ) | 3:16 | 2023-02-07 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 |  |
 | [Broken Dreams](https://open.spotify.com/track/5rLF5WFvEFXONKAALc6ABb) | [Ben Berkenbosch](https://open.spotify.com/artist/052Q9RnerwsOF5MDRHiSwk) | [Broken Dreams](https://open.spotify.com/album/4l0zMN3fgA2JmxMWTXoN6o) | 4:39 | 2023-01-26 | 2023-02-01 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-04-22 | 2023-01-27 |
@@ -164,6 +165,7 @@
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2022-04-22 |  |
 | [Juniper](https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 3:40 | 2022-04-22 | 2022-09-16 |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-22 | 2022-07-28 |
+| [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-02-07 |  |
 | [Kiruna](https://open.spotify.com/track/7FIIDU8NgQSsVPPZOQa3Hu) | [Sverker Johansson](https://open.spotify.com/artist/01Enhg7P7vObcpQjxL2Lrj) | [Kiruna](https://open.spotify.com/album/1YVlg8DLYswEs5oCdm57IU) | 2:39 | 2022-05-27 |  |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-22 |  |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-22 |  |

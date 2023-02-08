@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-468 songs - 1 day 2 hr 56 min
+469 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Guerra](https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Juano Loyola](https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 2:52 | 2022-07-15 | 2022-07-24 |
 | [Haikus](https://open.spotify.com/track/5F0wz82HpYta58t2sAMwR0) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Haikus](https://open.spotify.com/album/1FOq8dtUXCt2bZlLPgw4WC) | 3:31 | 2022-03-04 | 2022-04-30 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/6tIOMUJ75caEiH47DhqDYe) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Reconstrucción](https://open.spotify.com/album/20NTZgsDfie7eJEHfhKnmh) | 3:36 | 2022-01-21 | 2022-07-06 |
-| [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 |  |
+| [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 | 2023-02-08 |
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2022-01-14 | 2022-07-28 |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2022-07-15 |  |
 | [Hemofilia](https://open.spotify.com/track/7naNjlQMQ6Jdh5Rm4VOztG) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Hemofilia](https://open.spotify.com/album/0fmzl1XzDM1S5onWYZZeS8) | 4:20 | 2022-04-20 | 2022-07-28 |
@@ -318,6 +318,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2022-01-21 | 2022-07-29 |
 | [PAKI](https://open.spotify.com/track/1LxIPz5aak2AJfJmEA0fxT) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [PAKI](https://open.spotify.com/album/4LxhRDDtVWdzAgsTQcDlm9) | 4:22 | 2022-02-11 | 2022-05-10 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-14 | 2022-07-29 |
+| [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-02-03 |  |
 | [Paracas Cavernas](https://open.spotify.com/track/4kZ06aNcvjtr8QkL4cpyLQ) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Paracas Cavernas](https://open.spotify.com/album/0MDxJgKoqoR1p1O4YvuenO) | 4:27 | 2022-01-21 | 2022-07-29 |
 | [Paraguaya \- Live in Mexico](https://open.spotify.com/track/6h4RXhBleHq18B5ES4uBxd) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL](https://open.spotify.com/album/4Au0C9btBKDQI43lx1GGed) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Paredes Invisibles](https://open.spotify.com/track/7lP9BEQu4fSU6oeT7GR96Y) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Quién Soy \(Lado a\)](https://open.spotify.com/album/1HmLSAp3QXjzytmO0H7NQi) | 3:51 | 2022-01-21 | 2022-07-23 |

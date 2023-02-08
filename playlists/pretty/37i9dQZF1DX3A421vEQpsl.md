@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover \- Selfiee
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,919 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,349 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Main Khiladi \- From "Selfiee"](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Main Khiladi \(From "Selfiee"\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 |
+| 1 | [Main Khiladi \- From "Selfiee"](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Maya Govind](https://open.spotify.com/artist/1VPlwlXg09ywVA6p1QmACl) | [Main Khiladi \(From "Selfiee"\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 |
 | 2 | [Kyaa Baat Haii 2.0](https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO) | 2:56 |
 | 3 | [Aap Jaisa Koi](https://open.spotify.com/track/5z8P3KHt2ZJUW8XXcaS0vN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [An Action Hero](https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er) | 2:58 |
 | 4 | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Deane Sequeira](https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC) | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c) | 2:48 |

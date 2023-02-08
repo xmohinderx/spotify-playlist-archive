@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: AJ \(賴煜哲\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,104 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,112 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 6 | [Summer Time](https://open.spotify.com/track/11FoRzYaFF7PzdYOoeVDf5) | [FRΔNKIΞ](https://open.spotify.com/artist/1FOLZ9XbMSOUW5J8iZMNKv), [宇洋鐘](https://open.spotify.com/artist/230fc6ivfV9DflZhxUc3Qd) | [Summer Time](https://open.spotify.com/album/0ss8it0WOUQv1c6yMe3sf1) | 2:57 |
 | 7 | [搭上車](https://open.spotify.com/track/6xi0RNzXYowy11286hUunI) | [賴奕泓](https://open.spotify.com/artist/4n0pWvKeByJ8apOVaU2K39) | [口音與天氣](https://open.spotify.com/album/3sdSnkuE57wiaHNaKXhllh) | 3:46 |
 | 8 | [fairytale](https://open.spotify.com/track/4v8XJrPB1rgVa9bk1Ravab) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [blue romance](https://open.spotify.com/album/0Z6QJdE9wj1iYl3RF73W5b) | 3:16 |
-| 9 | [禿油肥 feat\. DJ GROUND](https://open.spotify.com/track/2brIXb73ldAWgjVClYk6i7) | [美麗本人](https://open.spotify.com/artist/4WKKVDQD4OHYdxY3IuuGt7), [DJ Ground](https://open.spotify.com/artist/6cvYne2H5V1po0Inu9NQzh) | [禿油肥 feat\. DJ GROUND](https://open.spotify.com/album/3t5ebe0fuEadPgCnu95M2x) | 2:53 |
+| 9 | [禿油肥 feat\. DJ GROUND](https://open.spotify.com/track/2brIXb73ldAWgjVClYk6i7) | [Dr\. Beauty](https://open.spotify.com/artist/2EqCLoWLxNjPIBQLRtNRE9), [DJ Ground](https://open.spotify.com/artist/6cvYne2H5V1po0Inu9NQzh) | [禿油肥 feat\. DJ GROUND](https://open.spotify.com/album/3t5ebe0fuEadPgCnu95M2x) | 2:53 |
 | 10 | [Through The Night](https://open.spotify.com/track/3vnPw6ErvNgjYpwaEACaex) | [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [Through The Night](https://open.spotify.com/album/1C9RdQieUsv3B1L5NUjYjv) | 2:46 |
 | 11 | [struggle](https://open.spotify.com/track/29vnldei8o9lM1wEiUFP1g) | [2ony](https://open.spotify.com/artist/6Njv9SAeO4mpPYGxzCMSbg) | [struggle](https://open.spotify.com/album/5h0jfvv4ABbLIEQdeLnjRN) | 1:50 |
 | 12 | [Take you home](https://open.spotify.com/track/7b2XfiPF4aVpeidKAhZWAK) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [Take you home](https://open.spotify.com/album/59Ajn4X0vvYMSJodkbom1u) | 3:02 |

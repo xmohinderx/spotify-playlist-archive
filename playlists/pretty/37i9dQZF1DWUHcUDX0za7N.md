@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=GZYCF3NjTmWkpbhFM2RqRA" > Jeriq </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,468 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,500 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 60 | [Your Waist](https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Waist](https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo) | 3:25 |
 | 61 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 |
 | 62 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 |
-| 63 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
+| 63 | [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 |
 | 64 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
-| 65 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
+| 65 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
 | 66 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 |
-| 67 | [Cram](https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Cram](https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi) | 2:54 |
-| 68 | [Breathe](https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [GOLDEN](https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA) | 3:14 |
-| 69 | [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 |
-| 70 | [Superstar](https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Superstar](https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3) | 2:26 |
+| 67 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
+| 68 | [Cram](https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Cram](https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi) | 2:54 |
+| 69 | [Breathe](https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [GOLDEN](https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA) | 3:14 |
+| 70 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 |
 
-Snapshot ID: `MTY3NTQxNTI3NiwwMDAwMDAwMGU0OTRlYmMzNzBiMzU0MzRhZTUxYTE4ZjE3Y2RmZWI4`
+Snapshot ID: `MTY3NTQxNTI3NiwwMDAwMDAwMDNjYjk4Yzg1ODhhY2VkYjJlZjNmZGUwNzBkZDFlYzA5`

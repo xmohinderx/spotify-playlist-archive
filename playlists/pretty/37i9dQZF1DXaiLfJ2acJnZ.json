@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36665,
+  "num_followers": 36692,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMDVhOWMzMzRhM2FjNDYwYzU5MzBlN2U5ZGQ1OThkMmYy",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGUzODIxMDkwZGIyMDJmZWRlZTQ4OWMxODIyYmNlZTM2",
   "tracks": [
     {
       "added_at": "2023-01-06 17:22:57",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "Never Get It Right",
         "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
     },
     {
       "added_at": "2023-01-06 17:22:57",

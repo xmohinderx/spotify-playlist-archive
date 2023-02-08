@@ -4,10 +4,11 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-289 songs - 19 hr 42 min
+290 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Round Midnight](https://open.spotify.com/track/5Wui6ed7mrft89DjGnffJ9) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 5:42 | 2023-02-07 |  |
 | [\(It Will Have To Do\) Until The Real Thing Comes Along](https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:37 | 2022-01-20 |  |
 | [\(There Is\) No Greater Love](https://open.spotify.com/track/3U9WzMwu5kpby0r4200j7J) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank & Back To Black](https://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6) | 2:08 | 2022-01-20 | 2022-07-29 |
 | [\(There Is\) No Greater Love](https://open.spotify.com/track/4VbqUDBWyK15pTal9THtFu) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(US Clean e\-Version\)](https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ) | 2:08 | 2022-07-14 |  |
@@ -75,7 +76,7 @@
 | [Disclosure](https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Disclosure](https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ) | 4:47 | 2022-01-20 | 2022-08-30 |
 | [Do I Love You](https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:48 | 2022-01-20 | 2022-02-18 |
 | [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:23 | 2022-01-20 | 2022-07-29 |
-| [Does The Sun Really Shine On The Moon](https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:31 | 2022-12-22 |  |
+| [Does The Sun Really Shine On The Moon](https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:31 | 2022-12-22 | 2023-02-08 |
 | [Don't Cry Baby](https://open.spotify.com/track/6rmfVDXJjjBhDRlPvzR9Gb) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Don't Cry Baby](https://open.spotify.com/track/5hLiMgK0oIx8t9AwO3Pm3P) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:18 | 2022-07-14 | 2022-10-08 |
 | [Don't Explain](https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:18 | 2022-01-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 2990,
+  "num_followers": 3011,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMGFiODU3NTRhNTgyNTcwYzIyNTdjYjhjZTY4MjRlODhi",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMGY3MjE4YmU5MDc0ODk4ZDE4MzJjNTE1OGZmMDYzMjcw",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "In The Name Of Gee (Still Most Hated)",
         "url": "https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
-      },
-      "artists": [
-        {
-          "name": "Fatboy SSE",
-          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
+      },
+      "artists": [
+        {
+          "name": "Fatboy SSE",
+          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
     },
     {
       "added_at": "2022-10-01 20:31:11",

@@ -3772,6 +3772,28 @@
     {
       "album": {
         "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137910,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/17gGHgOJMGl1R6vdPTkgxT"
+    },
+    {
+      "album": {
+        "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
       },
       "artists": [
@@ -3786,7 +3808,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 137910,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U"

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today! cover: THE BOYZ //最先端のK\-Popをピックアップ！ Cover: THE BOYZ
 
-482 songs - 1 day 2 hr 38 min
+484 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Feelin' Like](https://open.spotify.com/track/1GdahB0MwZ6MnwU51zkVhF) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [IN:VITE U](https://open.spotify.com/album/2nym29RGoObwngdpzCCQ8Y) | 2:47 | 2022-01-24 | 2022-04-27 |
 | [Feelin' Like \- Japanese Version](https://open.spotify.com/track/5a4AFIpyhzLCom8IgDH6mU) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like \(Japanese Version\)](https://open.spotify.com/album/0JDdWjlJ1wgJPHsRfNw1e9) | 2:46 | 2022-08-19 | 2022-11-09 |
 | [Fiction](https://open.spotify.com/track/3JsTNnFiSBubzYQcAY5MIP) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Fiction](https://open.spotify.com/album/1mKLTIVvtUpS1WMjuEGc56) | 3:40 | 2022-03-08 | 2022-03-23 |
+| [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-07 |  |
 | [Fiore](https://open.spotify.com/track/3Dl6xGBceSzflHz2m7DUiQ) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/1KUma2mwmzo55NVVjV1HLG) | 3:08 | 2022-06-28 | 2022-07-29 |
 | [Fiore](https://open.spotify.com/track/4oIaItu2ULn7YZvHV80NuF) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/3byddB2VZ8Bmrih7qSwT3k) | 3:08 | 2022-07-28 | 2022-08-23 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-29 | 2022-12-16 |
@@ -271,6 +272,7 @@
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-16 | 2022-10-05 |
 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 | 2023-01-10 |  |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
+| [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6tL4bxYqICn7oFkM84F1Ik) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/5ya9sryT3d0UH4Uh37lg9z) | 3:38 | 2023-02-07 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-08-30 |
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-04-06 |

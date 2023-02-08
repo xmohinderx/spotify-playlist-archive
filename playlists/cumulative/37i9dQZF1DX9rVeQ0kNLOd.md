@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-117 songs - 7 hr 2 min
+118 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [my own life](https://open.spotify.com/track/0T5YzUfgtUKXeDHE7dz4LB) | [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds), [mots](https://open.spotify.com/artist/1R6xSi1kBIpztNy5NIxW96), [サクライエナ](https://open.spotify.com/artist/3pxcoTctphgpoj26kL5Gds) | [my own life](https://open.spotify.com/album/7lb93fcshTHAMArHyJlSZH) | 4:38 | 2022-10-20 | 2023-01-25 |
 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 | 2023-01-31 |  |
 | [Ollie\(巡礼する季語\)](https://open.spotify.com/track/1hSlcXbPexuJh7ibsOiMA8) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [巡礼する季語](https://open.spotify.com/album/1uxl2dnJ0nJdJV2q0Oeov0) | 3:54 | 2023-01-31 |  |
-| [One](https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [喧騒幻想](https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN) | 3:01 | 2023-01-31 |  |
+| [One](https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [喧騒幻想](https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN) | 3:01 | 2023-01-31 | 2023-02-08 |
 | [Phase \- Extended Version](https://open.spotify.com/track/08rXHo15Jw4zsKjj9p2pbM) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Phase \(Extended Version\)](https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL) | 4:43 | 2023-01-26 |  |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2022-10-20 | 2022-12-14 |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-10-20 |  |
@@ -100,6 +100,7 @@
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
 | [ため息とコーヒー](https://open.spotify.com/track/48SAdZAFQGySWizWud8JxA) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [A SCHOOOOL](https://open.spotify.com/artist/5OjUQ6Z5H0rWIuOEQNBQb4) | [ため息とコーヒー](https://open.spotify.com/album/4CzTs9BMIvhJTKvqAJGyZD) | 3:44 | 2023-01-31 |  |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 | 2023-02-01 |
+| [まだ寝れないでしょ](https://open.spotify.com/track/4O9bVZoyjxzoDqMDJ3qoDV) | [404](https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi) | [まだ寝れないでしょ](https://open.spotify.com/album/1P1MiACMzpEMlzJ6GKivAW) | 3:40 | 2023-02-07 |  |
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
 | [ゆめのなか](https://open.spotify.com/track/53znW6LyTXs7bWTPU7NJ4X) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3), [usushio](https://open.spotify.com/artist/1baUoO8mV7lVVzsEooqzgd), [summersoft](https://open.spotify.com/artist/1up3a5Bs3axT3JPBLLMGQV) | [ゆめのなか](https://open.spotify.com/album/7iKdg4i81g0pD0kWJJYH34) | 4:15 | 2023-01-17 | 2023-02-01 |
 | [アーモンド \- feat\. りりあ。](https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [アーモンド \(feat\. りりあ。\)](https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ) | 4:33 | 2022-12-13 | 2022-12-18 |

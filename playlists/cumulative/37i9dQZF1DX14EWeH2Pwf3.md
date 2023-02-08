@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Rose Villain
 
-219 songs - 10 hr 53 min
+220 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-09 | 2022-12-09 |
 | [Più Forte \(feat\. Salmo\)](https://open.spotify.com/track/0xJrRtWFSGuo3oGOzsB2xa) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 2:05 | 2022-11-07 | 2022-11-18 |
 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 | 2022-09-05 |  |
-| [PLAYA](https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:17 | 2023-01-03 |  |
+| [PLAYA](https://open.spotify.com/track/17gGHgOJMGl1R6vdPTkgxT) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:17 | 2023-02-06 |  |
+| [PLAYA](https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:17 | 2023-01-03 | 2023-02-08 |
 | [Pochi Pochi](https://open.spotify.com/track/34wBFYmnw1sBcHyrhoYAS0) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Pochi Pochi](https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc) | 3:45 | 2023-01-26 |  |
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-05-09 | 2022-05-28 |
 | [POLKA 3](https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [POLKA 3](https://open.spotify.com/album/01FptTpR6L414vPn4r6FKn) | 2:40 | 2022-06-02 | 2022-06-29 |

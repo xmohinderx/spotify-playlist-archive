@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 537448,
+  "num_followers": 537644,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQ5YTcxYTM1YmU3NTUxYjM1MjZlYmY3NjUwNjUxNmU1",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDhkZDY3YjYyMzg3MjBjOGU5YmMxNGQwYjMzOTk0NDQz",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 150293,
       "name": "Things That Scare Me",
       "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+      },
+      "artists": [
+        {
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+        }
+      ],
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Longest Day",
-        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Bright",
-          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
-        }
-      ],
-      "duration_ms": 270228,
-      "name": "Highway 9",
-      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "A Mountain Is a Mouth",
         "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156706,
       "name": "Crabapples",
       "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Longest Day",
+        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+        }
+      ],
+      "duration_ms": 270228,
+      "name": "Highway 9",
+      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
       "added_at": "2022-06-06 19:18:28",

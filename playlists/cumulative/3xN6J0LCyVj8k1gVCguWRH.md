@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,986 songs - 4 day 18 hr 20 min
+1,987 songs - 4 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [Love Again](https://open.spotify.com/track/127MjyeDtYD30SlIAueSqR) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV) | [Love Again](https://open.spotify.com/album/20jgrsYb5T5pXiNF8mggXw) | 2:47 | 2022-05-20 | 2022-06-26 |
 | [Love Fool](https://open.spotify.com/track/6hDeKiMWiLTkggEXKLT5DD) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | [Magic & the Reel](https://open.spotify.com/album/6Q7ooV4QlxRP6Oq6d3UYik) | 3:24 | 2021-03-25 | 2021-05-03 |
 | [Love Games](https://open.spotify.com/track/3rTmBaVFbTLMJwNsNVkhmk) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:22 | 2021-03-19 | 2021-04-04 |
+| [Love In Abundance](https://open.spotify.com/track/7lZJLUHPkPeNPk5ln3P3kj) | [9rlfrnd](https://open.spotify.com/artist/1WcLi9B6QCMhqTdBQ3fgUL) | [Love In Abundance](https://open.spotify.com/album/6lSggRujaOVpBxbc58XKBh) | 3:02 | 2023-02-08 |  |
 | [Love in Stereo](https://open.spotify.com/track/0hr7mUKjmIh9yDSxxh3g3M) | [Moose & the Elephant](https://open.spotify.com/artist/5l3X1SeI5T3U2bLCY1JSjP) | [Love in Stereo](https://open.spotify.com/album/6jGjeG2IhlNnQ22CSyNxQr) | 3:27 | 2021-03-25 | 2021-04-10 |
 | [Love Is](https://open.spotify.com/track/2gbFJKjFKs5cr6FYBmBTqD) | [Dani Vasser](https://open.spotify.com/artist/1EVDlfj99Jj6xBidrxVVPw) | [Love Is](https://open.spotify.com/album/0zRAbhGyxjR6W4lMkoNEVJ) | 4:36 | 2021-12-17 | 2022-01-01 |
 | [Love is Real](https://open.spotify.com/track/6WC83V4dHNClxIUiFCqvDU) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR) | [Love is Real](https://open.spotify.com/album/1Ra6VCYeWDrZ8F8TjfrDFd) | 3:51 | 2020-06-22 | 2020-07-13 |

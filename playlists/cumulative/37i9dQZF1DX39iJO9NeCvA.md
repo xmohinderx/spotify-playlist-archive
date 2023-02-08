@@ -4,7 +4,7 @@
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。©︎内藤泰弘/少年画報社・トライガン製作委員会
 
-32 songs - 1 hr 48 min
+38 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,11 @@
 | [H.T \- Destoyingangel mix](https://open.spotify.com/track/4Om3Nzs9wDT995sCNmROvT) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 4:36 | 2021-05-26 |  |
 | [H.T\. in“Badlands Rumble”](https://open.spotify.com/track/2Z8sw3CMhpJGwrt0KOc1XZ) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 3:06 | 2021-05-26 |  |
 | [Hash Hash](https://open.spotify.com/track/5FdJDtnVpWVBfzJIXfUTt8) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 4:06 | 2021-05-26 |  |
+| [Immigrant Space Explorer](https://open.spotify.com/track/4Fv2STRNkIHXqIzMYsdNfS) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 4:10 | 2023-02-07 |  |
 | [Lost Planet](https://open.spotify.com/track/4gAwcKcdB8phmZGU3qoL7R) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:57 | 2021-05-26 |  |
 | [lovely calamities](https://open.spotify.com/track/5xEopVMEpBfz1ny2C6MBRS) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 4:28 | 2021-05-26 |  |
+| [Memory of Piano](https://open.spotify.com/track/5BbCVy9kL1dfoS58k7idcr) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 1:20 | 2023-02-07 |  |
+| [MILLIONS KNIVES](https://open.spotify.com/track/7kJE7Qt6DA1l9UCAPNmy7b) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 3:59 | 2023-02-07 |  |
 | [Nerve Rack](https://open.spotify.com/track/0EPBewiNaDGS2Fp59x149v) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 4:39 | 2021-05-26 |  |
 | [NO\-BEAT](https://open.spotify.com/track/4sAC0qvCUH15Md7hz7QFb7) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン TRIGUN THE FIRST DONUTS](https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h) | 3:09 | 2021-05-26 |  |
 | [PHILOSOPHY in a Tea Cup](https://open.spotify.com/track/5rCjxDHLkq7o13PgSdbet0) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン TRIGUN THE FIRST DONUTS](https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h) | 4:37 | 2021-05-26 |  |
@@ -30,9 +33,12 @@
 | [Scattered Rain](https://open.spotify.com/track/1EzSxVwrgSP3RUZT36moER) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 5:30 | 2021-05-26 |  |
 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 | 2021-05-26 |  |
 | [Sound Life \~ LEM](https://open.spotify.com/track/7slEiXsz2Km5PhNgoPbKye) | [AJA](https://open.spotify.com/artist/5u5RIHJRSfFYkhlWzNWxJU) | [トライガン TRIGUN THE FIRST DONUTS](https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h) | 5:23 | 2021-05-26 |  |
+| [The JENEORA ROCK Resistance](https://open.spotify.com/track/4YhaEGoCtpNbYO81x3aFs9) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 2:48 | 2023-02-07 |  |
 | [the Stampede](https://open.spotify.com/track/7aHWxlBj7OyMN3INPWyQnQ) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:20 | 2021-05-26 |  |
 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-06 |  |
+| [TRIGUN STAMPEDE](https://open.spotify.com/track/5YqWBoVMeuFO3nZCpfOAhc) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 4:33 | 2023-02-07 |  |
 | [Unhappy Song](https://open.spotify.com/track/4qgw4QfoK7FWpwqzVMZj5Q) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 2:47 | 2021-05-26 |  |
+| [Visitation of A Calamity](https://open.spotify.com/track/52LBMHcpLg6XOXnUkAxz1R) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 1](https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti) | 1:35 | 2023-02-07 |  |
 | [you've blown it over the sands](https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:52 | 2021-05-26 |  |
 | [トマクン](https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 3:09 | 2021-05-26 |  |
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 |  |

@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Ellie Goulding
 
-2,398 songs - 4 day 23 hr 34 min
+2,399 songs - 4 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1474,7 +1474,8 @@
 | [My Dream Life](https://open.spotify.com/track/48qZ7Unl1eqYCQ8Htu2oTZ) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf) | [My Dream Life](https://open.spotify.com/album/6owCc4lT8MzL1E9BckQC6A) | 3:05 | 2022-04-29 | 2022-05-07 |
 | [My Dying Spirit](https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:01 | 2022-09-23 | 2022-10-08 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-17 | 2022-06-25 |
-| [My Favorite Song](https://open.spotify.com/track/51f23oVvFNYz3mljzdcTw2) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/3cyer9dxipyZLK4cTcRsdq) | 3:31 | 2023-01-27 |  |
+| [My Favorite Song](https://open.spotify.com/track/51f23oVvFNYz3mljzdcTw2) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/3cyer9dxipyZLK4cTcRsdq) | 3:31 | 2023-01-27 | 2023-02-08 |
+| [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 | 2023-02-03 |  |
 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 | 2022-05-06 | 2022-05-20 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-11 | 2022-04-02 |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-04 | 2022-11-26 |

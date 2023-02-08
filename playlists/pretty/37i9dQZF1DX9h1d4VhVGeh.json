@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 141489,
+  "num_followers": 141556,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY3NjgwMywwMDAwMDAwMGFiNGFlMjJmMTBiMzk2M2QwN2JkM2U0NjA4OTcyZjVk",
+  "snapshot_id": "MTY3NTY3NjgwMywwMDAwMDAwMDc2ZWEzYzNiNDA4YjAyMzBkMDk1NzE1M2VlYmVlZjhl",
   "tracks": [
     {
       "added_at": "2023-01-16 17:13:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Bala Wala Chi",
+      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
+    },
+    {
+      "added_at": "2023-01-16 17:13:47",
+      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2023-01-16 17:13:47",
-      "album": {
-        "name": "Houdou Nisbi",
-        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Bala Wala Chi",
-      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
     },
     {
       "added_at": "2023-01-16 17:13:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
-        "name": "Second Verse",
-        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
-      },
-      "artists": [
-        {
-          "name": "Faraj Suleiman",
-          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
-    },
-    {
-      "added_at": "2023-01-16 17:13:47",
-      "album": {
         "name": "\u0639\u0633\u0627\u0641",
         "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 290773,
       "name": "\u0644\u0648\u064a\u0646 \u0628\u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D"
+    },
+    {
+      "added_at": "2023-01-16 17:13:47",
+      "album": {
+        "name": "Second Verse",
+        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
     },
     {
       "added_at": "2023-01-16 17:13:47",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2023-01-16 17:13:47",
-      "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2023-01-16 17:13:47",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -1419,18 +1387,34 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
-        "name": "\u062f\u0628\u0631\u0647\u0627",
-        "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 289320,
-      "name": "\u062f\u0628\u0631\u0647\u0627",
-      "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2023-01-16 17:13:47",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2023-01-16 17:13:47",
@@ -1447,6 +1431,22 @@
       "duration_ms": 254769,
       "name": "Life - Acoustic",
       "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
+    },
+    {
+      "added_at": "2023-01-16 17:13:47",
+      "album": {
+        "name": "\u062f\u0628\u0631\u0647\u0627",
+        "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "\u062f\u0628\u0631\u0647\u0627",
+      "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
     },
     {
       "added_at": "2023-01-16 17:13:47",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
-        "name": "Bshi Yom",
-        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
+        "name": "Daba",
+        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
       },
       "artists": [
         {
-          "name": "Yousef Kekhia",
-          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 294402,
-      "name": "Bshi Yom",
-      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
+      "duration_ms": 272333,
+      "name": "Fasl",
+      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-01-16 17:13:47",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-01-16 17:13:47",
       "album": {
-        "name": "Daba",
-        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
+        "name": "Bshi Yom",
+        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
       },
       "artists": [
         {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+          "name": "Yousef Kekhia",
+          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Fasl",
-      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
+      "duration_ms": 294402,
+      "name": "Bshi Yom",
+      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2023-01-16 17:13:47",

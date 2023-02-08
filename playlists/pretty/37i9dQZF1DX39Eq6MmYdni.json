@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Bo Bundy",
-  "num_followers": 743,
+  "num_followers": 804,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMDFlNmY5MDNlZTdkYmQyYTUwMzIxYzMxZGU0MzkwMjQ1",
+  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMGQ2ZDNjY2RlN2ZiOTU1NzUyYmM4ODUwNGQzMjE0YTc4",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
     },
     {
-      "added_at": "2023-02-07 01:21:59",
+      "added_at": "2023-02-08 01:09:09",
       "album": {
         "name": "Make it Norte\u00f1o Vol. 1",
         "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2023-01-27 05:00:00",

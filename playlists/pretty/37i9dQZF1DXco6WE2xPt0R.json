@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 87167,
+  "num_followers": 87179,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDgxNzA3ZTJiNDJjNzAxNDhhNTI3ZDRiOWJjZjhmNWUw",
+  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMGIyNzg1YTY3N2VjYTU2OTcwNDIxMzQ2ZWE3MDExYjA4",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -779,26 +779,22 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
+        "name": "Good Morning Gorgeous (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 256310,
-      "name": "Anytime (feat. Kehlani & ROMderful)",
-      "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
+      "duration_ms": 174636,
+      "name": "Good Morning Gorgeous (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -819,22 +815,26 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Good Morning Gorgeous (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
         }
       ],
-      "duration_ms": 174636,
-      "name": "Good Morning Gorgeous (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+      "duration_ms": 256310,
+      "name": "Anytime (feat. Kehlani & ROMderful)",
+      "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Challenge",
         "url": "https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 130121,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1491,42 +1491,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Mr. Midnight (Winter Time Remix)",
-        "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "Bee Boy$oul",
-          "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Mr. Midnight - Winter Time Remix",
-      "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1555,6 +1519,42 @@
       "duration_ms": 208615,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Mr. Midnight (Winter Time Remix)",
+        "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "Bee Boy$oul",
+          "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mr. Midnight - Winter Time Remix",
+      "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Wait On Me (Pt. 2 / Remix)",
-        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Wait On Me - Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/4OtJ4StIlfpWJz3BsXAKSV"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 110640,
       "name": "Arz Interlude",
       "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Wait On Me (Pt. 2 / Remix)",
+        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Wait On Me - Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
     },
     {
       "added_at": "2023-01-27 03:01:00",

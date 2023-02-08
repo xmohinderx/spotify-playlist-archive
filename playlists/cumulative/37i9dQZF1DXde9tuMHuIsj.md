@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Ozuna & YOVNGCHIMI
 
-214 songs - 12 hr 29 min
+215 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [TATA \- Remix](https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Tata \(Remix\)](https://open.spotify.com/album/51rCNG1thqxYgMkhGnhqWA) | 4:24 | 2022-05-03 |  |
 | [Tay](https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:47 | 2022-04-15 | 2022-05-04 |
 | [Te Aseguro](https://open.spotify.com/track/661D7qCBSws0RjkcM2saI1) | [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Maicke Casiano](https://open.spotify.com/artist/6Kl62g2hqIw07n1GsxjYKs) | [Te Aseguro](https://open.spotify.com/album/6AcWjladXqYCsQoHSlz4ri) | 5:40 | 2022-04-01 | 2022-05-04 |
-| [Trambo](https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/5TQJ5sVaQeRYpDdOrwxRBD) | 3:37 | 2022-03-18 |  |
+| [Trambo](https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/5TQJ5sVaQeRYpDdOrwxRBD) | 3:37 | 2022-03-18 | 2023-02-08 |
+| [Trambo](https://open.spotify.com/track/30Wg7bAOL67rcaWoIHB87w) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/2ZrNhp1spAmvtXjb2jOrsa) | 3:37 | 2023-01-27 |  |
 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 | 2023-01-27 |  |
 | [Trending](https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Trending](https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ) | 2:38 | 2023-01-20 |  |
 | [Trending](https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:02 | 2022-08-05 |  |

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Fi Lamane",
+        "url": "https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180306,
+      "name": "Fi Lamane",
+      "url": "https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A"
+    },
+    {
+      "album": {
         "name": "Fik Ou Fik",
         "url": "https://open.spotify.com/album/5DGXbz9GaYFFZYeLWk1j2x"
       },

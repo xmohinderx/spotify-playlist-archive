@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Ozuna & YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,584 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,692 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 88 | [Whattsup](https://open.spotify.com/track/3oubh64l6xElX8En3SomTM) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Whattsup](https://open.spotify.com/album/0dJwLgqTP4rx62KehuPAF0) | 4:10 |
 | 89 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
 | 90 | [Tu Favorito](https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Tu Favorito](https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp) | 3:06 |
-| 91 | [Trambo](https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/5TQJ5sVaQeRYpDdOrwxRBD) | 3:37 |
+| 91 | [Trambo](https://open.spotify.com/track/30Wg7bAOL67rcaWoIHB87w) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/2ZrNhp1spAmvtXjb2jOrsa) | 3:37 |
 | 92 | [En Fuego](https://open.spotify.com/track/3HqZrmnkW92TAea8E1Buj0) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [En Fuego](https://open.spotify.com/album/4eqW4KMIjbpkYstjJxaRYk) | 2:49 |
 | 93 | [ChuliGang](https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:43 |
 | 94 | [Harlem Pr](https://open.spotify.com/track/740mUk7sXKRH3k39Mv7q5n) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem Pr](https://open.spotify.com/album/1p6rtnEH4ic1L9fzlLqeis) | 3:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 149 | [Estrella](https://open.spotify.com/track/6TDFhRDBWSUk5dKMENnzUq) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Estrella](https://open.spotify.com/album/7ixVzVqkvyV5bShelCzqfB) | 2:50 |
 | 150 | [Bentley](https://open.spotify.com/track/0Pk6ZwGewYIwPvaYubqybf) | [Knav](https://open.spotify.com/artist/0a8uZThduDjiT70rygrrQ1) | [Bentley](https://open.spotify.com/album/0ei2RpOPbnwVMR6DGnUkCi) | 2:45 |
 
-Snapshot ID: `MTY3NDc5NjcxMCwwMDAwMDAwMGJhMDcwZTM0NWIyMzE2MzhkMTUwZWYxN2FhYWMzZmMw`
+Snapshot ID: `MTY3NDc5NjcxMCwwMDAwMDAwMGZjYzNlODc2Njk4YTVkZjIyZjIxZmI3N2UxY2FjY2Iw`

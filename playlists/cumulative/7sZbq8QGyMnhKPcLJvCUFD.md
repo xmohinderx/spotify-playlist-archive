@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-189 songs - 9 hr 44 min
+190 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 |  |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 |  |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 |  |
+| [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 |  |
 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 |  |
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 |  |

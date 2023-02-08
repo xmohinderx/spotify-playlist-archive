@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,819 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,965 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 63 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 64 | [Venus](https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:49 |
 | 65 | [Fiery Jack \- Bonus Track](https://open.spotify.com/track/4EOKJntCkNc4vbuSQg4doy) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Dragnet \(Deluxe Edition\)](https://open.spotify.com/album/5rXllIzz9X9qILNN1gxMb0) | 4:43 |
-| 66 | [Gary Gilmore's Eyes](https://open.spotify.com/track/4Mj2GtsgUDaf43zxdw48hd) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing The Red Sea](https://open.spotify.com/album/3gadv5yR3mtSmLJ9mywFLQ) | 2:16 |
+| 66 | [Gary Gilmore's Eyes](https://open.spotify.com/track/40N9Zf8HGajGhzthuI3BaM) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing the Red Sea](https://open.spotify.com/album/2npR50t6uIXjLKgeMJ4Vp3) | 2:16 |
 | 67 | [Dream Baby Dream](https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 6:24 |
 | 68 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 69 | [My Way \- 1993 Remastered Version](https://open.spotify.com/track/0TaWdoJiAJoln9OQ1RbdNs) | [Sid Vicious](https://open.spotify.com/artist/1YnxVTLZQkk6KJI2c5sBqU) | [Playlist: New Wave](https://open.spotify.com/album/3EZ09EIoMr6Y5Q9aidbnhy) | 4:04 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MTY2ODcxODAzMSwwMDAwMDAwMGIwMGRiZWQxMDViYmYwZGNlNjcyMzAwYTI5NDZhNGEx`
+Snapshot ID: `MTY2ODcxODAzMSwwMDAwMDAwMGQzYTUzYmIwOWU3NGRlZjc5Mzc3YmQyZmExODIyYTYx`

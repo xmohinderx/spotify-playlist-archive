@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-122 songs - 11 hr 34 min
+123 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 | 2021-06-25 |  |
 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 | 2021-06-25 |  |
 | [Listen To The Beat](https://open.spotify.com/track/7wULNOKU99VregJA264okG) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 4:45 | 2021-06-25 |  |
-| [Livin' Free \(Soundtrack Mix\)](https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL) | [Small World](https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59) | [The Livin' Free EP](https://open.spotify.com/album/2UNjYtZots0OThWimId057) | 7:31 | 2021-06-25 |  |
+| [Livin' Free \(Soundtrack Mix\)](https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL) | [Small World](https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59) | [The Livin' Free EP](https://open.spotify.com/album/2UNjYtZots0OThWimId057) | 7:31 | 2021-06-25 | 2023-02-08 |
 | [London Mind State](https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi) | 4:45 | 2021-06-25 |  |
 | [London Mind State](https://open.spotify.com/track/3fTKgBq4hmYqulTK2cCTqz) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/2GEDttZb6GjcgZfpc7c2bw) | 4:45 | 2021-06-25 | 2022-07-29 |
 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 | 2021-06-25 |  |
@@ -130,5 +130,6 @@
 | [What Does Your Soul Look Like \- Pt\. 2](https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 13:51 | 2021-06-25 | 2023-01-30 |
 | [What Does Your Soul Look Like \- Pt.1](https://open.spotify.com/track/33gDgh1eLhTsrEeCSfuWWX) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Man From Mo’ Wax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq) | 6:21 | 2021-06-25 | 2022-08-12 |
 | [What Does Your Soul Look Like \- Pt.1](https://open.spotify.com/track/7bObrzqPrAN9fAKCoH8s40) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 6:21 | 2021-06-25 | 2022-07-29 |
+| [What Does Your Soul Look Like, Pt\. 2](https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 13:51 | 2021-06-25 |  |
 
 \*This playlist was first scraped on 2022-04-14. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,665 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,667 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 33 | [Still Crazy After All These Years](https://open.spotify.com/track/3exmCSNt8yduKRSJG2J7Ha) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 5:00 |
 | 34 | [The Boy in the Bubble](https://open.spotify.com/track/2jaGBhiiQ0xKzdtdNmPnVW) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:29 |
 | 35 | [St\. Judy's Comet](https://open.spotify.com/track/1VsJhe9vOUXJihOrWrnRkR) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Return To Pooh Corner](https://open.spotify.com/album/0EGtVddwzSykYTiIFKrOVf) | 5:08 |
-| 36 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
+| 36 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
 | 37 | [The Sound of Silence](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Sound of Silence](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) | 3:32 |
 | 38 | [Slip Sliding Away](https://open.spotify.com/track/1gfifpIZ3sD6mxrdS3reUC) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Slip Sliding Away](https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU) | 3:07 |
 | 39 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/4xdH4ocB5ER3KsB6ds1OKb) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [50 Ways to Leave Your Lover](https://open.spotify.com/album/5DHiuCQQsBMqejJgvEuO2o) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 49 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMGI1YzI0NWRiNDg5NThjZjQ5ZTdjZWRjNTc2Y2VkNTNm`
+Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMDM1ZTJkM2Y5ZGU3OGEyZTY1OWMwMmIxYzQ5YzYwNmVi`

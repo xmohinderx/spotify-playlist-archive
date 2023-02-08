@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Jass Reyes en portada.",
-  "num_followers": 93008,
+  "num_followers": 93055,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1MjkzMywwMDAwMDAwMDFjYTZmNWNkMzRkMzc2NzgyOWJlYmQwMGRhOGE3NWMz",
+  "snapshot_id": "MTY3NDc1MjkzMywwMDAwMDAwMGZhODY5ZTY5MTJkMjg4MGU4MTZjZTZhNGFlNDkzYTlm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:23:34",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -617,20 +633,20 @@
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
     },
     {
-      "added_at": "2022-11-24 19:53:55",
+      "added_at": "2023-01-13 18:53:21",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -707,22 +723,6 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
-    },
-    {
-      "added_at": "2023-01-13 18:53:21",
-      "album": {
-        "name": "QCVH",
-        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "QCVH",
-      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        },
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 204327,
-      "name": "Girasol",
-      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
-    },
-    {
-      "added_at": "2022-11-24 19:53:55",
-      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
+    },
+    {
+      "added_at": "2022-11-24 19:53:55",
+      "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 204327,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
     },
     {
       "added_at": "2022-11-24 19:53:55",

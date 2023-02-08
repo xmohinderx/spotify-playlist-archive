@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-202 songs - 12 hr 51 min
+203 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Elefanten i rommet](https://open.spotify.com/track/4051cW2QEyKfTfLeLgyzOb) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Elefanten i rommet](https://open.spotify.com/album/1Vn36wOWVOcjy4MHsZhc1N) | 3:46 | 2021-12-16 | 2022-07-24 |
 | [Elsket for alltid](https://open.spotify.com/track/3OvIpt8G9YDoNerYlRN80M) | [CC Cowboys](https://open.spotify.com/artist/1FKCRRhfazT8IjGqy9QT1X) | [Elsket for alltid](https://open.spotify.com/album/4VHPCzaTSHYiPPgbhXCmv9) | 3:44 | 2022-01-20 | 2022-07-05 |
 | [En Natt Forbi](https://open.spotify.com/track/7FBCKAfx2enIPOziuQJBbX) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [En Natt Forbi](https://open.spotify.com/album/1mUhRc2K1cwRNuZXUcjUPy) | 3:01 | 2021-12-16 | 2022-07-29 |
-| [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 | 2022-03-03 |  |
+| [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 | 2022-03-03 | 2023-02-08 |
 | [En Større Dag](https://open.spotify.com/track/6eTgnzT2IGzcHLqb3XDDHA) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/5AkevgUX9GarMJnqW8xV3F) | 6:06 | 2021-12-16 | 2022-07-16 |
 | [En tv\-serie](https://open.spotify.com/track/2ZqechT3vdSHZxrQXqy8rJ) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [En tv\-serie](https://open.spotify.com/album/2R6gXyNeBeMhdke7RRRXNG) | 4:27 | 2022-06-23 | 2022-10-14 |
 | [Enda en gang](https://open.spotify.com/track/4y85qUN7IYHyhJ3gau2TsV) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Evige dager](https://open.spotify.com/album/3GGClv8emjMYnuxTBsQX7V) | 3:21 | 2022-03-23 | 2022-04-21 |
@@ -121,8 +121,8 @@
 | [Julinetter](https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Julinetter](https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ) | 5:39 | 2021-12-16 | 2022-07-29 |
 | [Jupiter](https://open.spotify.com/track/4o76TSM5Oks01fAwgBBSG4) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [Jupiter](https://open.spotify.com/album/3InLXFrUYYE9mAQEdUPXRe) | 4:39 | 2022-03-23 | 2022-04-21 |
 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 | 2022-01-06 | 2022-06-18 |
+| [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 | 2023-02-02 |  |
 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 | 2021-12-16 |  |
-| [Ka e du redd for \(feat\. Sigvart Dagsland\)](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 | 2023-02-02 |  |
 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 | 2021-12-16 |  |
 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 | 2021-12-16 |  |
 | [Kom Sommarvijnn](https://open.spotify.com/track/4Fd3PLV1eWKmWt3MvQp6kq) | [Tove Karoline Knutsen](https://open.spotify.com/artist/0H20aoTibm2Q403c4RD4Dk) | [Blå Kveill](https://open.spotify.com/album/6lAQCB6EzlD0mBAwWj84Zs) | 2:31 | 2022-01-06 | 2022-07-29 |
@@ -173,6 +173,7 @@
 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 | 2022-09-19 | 2022-11-21 |
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2023-01-20 |
+| [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 | 2023-02-02 |  |
 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 | 2023-01-02 |
 | [Så godt at det gjør vondt](https://open.spotify.com/track/04bIOgwqaOlu6Vwqn35RX0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Så godt at det gjør vondt](https://open.spotify.com/album/3Lh1JnSMYRjPqMHcWpkdlF) | 4:37 | 2022-03-23 | 2022-04-20 |
 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-11-06 |

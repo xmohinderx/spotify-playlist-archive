@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 254847,
+  "num_followers": 255092,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMDc5MDQ3NGVjZjRjZTg5NzBhMDcxM2E0OGFiZjUyZWU0",
+  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMGUzZDMwMmRlY2UxMWFhOGFmYmUxMjU1ZmZmY2QxZDI4",
   "tracks": [
     {
       "added_at": "2023-01-31 18:51:13",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Omen X",
         "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 206147,
       "name": "Totuus",
       "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Darkest Days",
         "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 226733,
       "name": "Wish",
       "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 330706,
+      "name": "N.W.O.",
+      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 330706,
-      "name": "N.W.O.",
-      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Into the Void (Remix Contest Compilation)",
         "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 294893,
       "name": "Every Day Is Exactly The Same",
       "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "The Mind Is a Terrible Thing to Taste",
+        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 301426,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "The Mind Is a Terrible Thing to Taste",
-        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
       },
       "artists": [
         {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 301426,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Modern Demon",
-        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
+        "name": "Global Warning",
+        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
       "artists": [
         {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
         }
       ],
-      "duration_ms": 285019,
-      "name": "Modern Demon",
-      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
+      "duration_ms": 251200,
+      "name": "Naitu",
+      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -847,22 +863,6 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Global Warning",
-        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Naitu",
-      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Bits and Razors",
-        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 243446,
-      "name": "Bits and Razors",
-      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Bits and Razors",
+        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
       },
       "artists": [
         {
-          "name": "Machines Of Loving Grace",
-          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
         }
       ],
-      "duration_ms": 240159,
-      "name": "Golgotha Tenement Blues",
-      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
+      "duration_ms": 243446,
+      "name": "Bits and Razors",
+      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1127,6 +1111,22 @@
       "duration_ms": 255194,
       "name": "Hate Like Me",
       "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Machines Of Loving Grace",
+          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
+        }
+      ],
+      "duration_ms": 240159,
+      "name": "Golgotha Tenement Blues",
+      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Termination Bliss",
-        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
-      },
-      "artists": [
-        {
-          "name": "Deathstars",
-          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Blitzkrieg",
-      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "PUMPED UP KICKS",
         "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Helheim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
+        "name": "Termination Bliss",
+        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
       },
       "artists": [
         {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+          "name": "Deathstars",
+          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Rabenherz",
-      "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
+      "duration_ms": 246160,
+      "name": "Blitzkrieg",
+      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1223,6 +1207,22 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Helheim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Rabenherz",
+      "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/0uOsrwq8Grq4e99fz94JJA"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/5WsSBRn7yb7mlYKT3Ejvoe"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "TILL THE END",
         "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 314000,
       "name": "TILL THE END",
       "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/0uOsrwq8Grq4e99fz94JJA"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5WsSBRn7yb7mlYKT3Ejvoe"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Industrial Machine Musick",
-        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
-      },
-      "artists": [
-        {
-          "name": "Die Krupps",
-          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "To The Hilt",
-      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Sins Of The Flesh",
         "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 306426,
       "name": "Sins of the Flesh",
       "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Industrial Machine Musick",
+        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "To The Hilt",
+      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
-      },
-      "artists": [
-        {
-          "name": "Prick",
-          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Prey & Obey",
         "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 286974,
       "name": "Prey & Obey",
       "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
+      },
+      "artists": [
+        {
+          "name": "Prick",
+          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     },
     {
       "added_at": "2023-01-31 18:51:13",

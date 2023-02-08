@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 369123,
+  "num_followers": 369296,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMGZmZWQ3ZWQ5ZWZmOTM2ZTYxOGFkYTMwZTZjMGMzMzE3",
+  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMGM5MzVkMjUxYTdiZjZhNmEyMTVkZjBmMDA2NWMwNzhh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:28:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 354715,
-      "name": "Latin Note",
-      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 165056,
       "name": "Taganga",
       "url": "https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 354715,
+      "name": "Latin Note",
+      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Disco Popular",
+        "url": "https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 133915,
+      "name": "Dame un Besito",
+      "url": "https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 235200,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Disco Popular",
-        "url": "https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 133915,
-      "name": "Dame un Besito",
-      "url": "https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Jogando Capoiera / Cookin'",
-        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
-      },
-      "artists": [
-        {
-          "name": "Beatfanatic",
-          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
-        }
-      ],
-      "duration_ms": 410004,
-      "name": "Jogando Capoiera",
-      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Atacama!",
         "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Jogando Capoiera / Cookin'",
+        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
+      },
+      "artists": [
+        {
+          "name": "Beatfanatic",
+          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
+        }
+      ],
+      "duration_ms": 410004,
+      "name": "Jogando Capoiera",
+      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
     },
     {
       "added_at": "2022-08-31 07:28:39",

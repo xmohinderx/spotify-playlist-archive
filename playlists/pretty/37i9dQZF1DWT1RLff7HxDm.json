@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 148970,
+  "num_followers": 149033,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGMwODZkM2JjZTc1MGVmOTcyNjhjYjZmZDFjOGVkMDE0",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGIzZTlhMjhjNjE5MzI2MThjZmM5M2VhZmZkODRhZTI2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live Trout Vol. 1",
-        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout and The Free Radicals",
-          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
@@ -379,6 +363,22 @@
       "duration_ms": 338226,
       "name": "The Healing - Live",
       "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live Trout Vol. 1",
+        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout and The Free Radicals",
+          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Gary Clark Jr. Live",
-        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 369800,
-      "name": "Things Are Changin' - Live",
-      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Naturally Live",
         "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 308093,
       "name": "One of These Days - Live",
       "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At The Sydney Opera House",
+        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 447360,
+      "name": "Drive - Live",
+      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live At The Sydney Opera House",
-        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+        "name": "Gary Clark Jr. Live",
+        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 447360,
-      "name": "Drive - Live",
-      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
+      "duration_ms": 369800,
+      "name": "Things Are Changin' - Live",
+      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -593,20 +593,20 @@
       "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Morning Glory (Live)",
-        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
+        "name": "Backstage Pass (Live)",
+        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
       },
       "artists": [
         {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+          "name": "Ghost Town Blues Band",
+          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
         }
       ],
-      "duration_ms": 259584,
-      "name": "Morning Glory - Live",
-      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
+      "duration_ms": 268650,
+      "name": "Tip of My Hat (Live)",
+      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Backstage Pass (Live)",
-        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+        "name": "Morning Glory (Live)",
+        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
       },
       "artists": [
         {
-          "name": "Ghost Town Blues Band",
-          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
         }
       ],
-      "duration_ms": 268650,
-      "name": "Tip of My Hat (Live)",
-      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+      "duration_ms": 259584,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I\u2019m A Woman [Live (Remastered)]",
-        "url": "https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0"
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
         }
       ],
-      "duration_ms": 352013,
-      "name": "Can't Let Go - Live (Remastered)",
-      "url": "https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO"
+      "duration_ms": 275033,
+      "name": "Keep Coming Back - Live",
+      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -919,18 +919,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "name": "Live-Spontaneous Combustion",
+        "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 275033,
-      "name": "Keep Coming Back - Live",
-      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+      "duration_ms": 281666,
+      "name": "Crying For My Baby",
+      "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Live-Spontaneous Combustion",
-        "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
+        "name": "I\u2019m A Woman [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 281666,
-      "name": "Crying For My Baby",
-      "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
+      "duration_ms": 352013,
+      "name": "Can't Let Go - Live (Remastered)",
+      "url": "https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO"
     },
     {
       "added_at": "2022-04-22 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: Rose Villain
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,722 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,941 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 14 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 |
 | 15 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
 | 16 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
-| 17 | [PLAYA](https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 2:17 |
+| 17 | [PLAYA](https://open.spotify.com/track/17gGHgOJMGl1R6vdPTkgxT) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:17 |
 | 18 | [Lovés \(feat\. VillaBanks\)](https://open.spotify.com/track/3qY9QaUVAfBXNhen1oNCbf) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:46 |
 | 19 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
 | 20 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Pochi Pochi](https://open.spotify.com/track/34wBFYmnw1sBcHyrhoYAS0) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Pochi Pochi](https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc) | 3:45 |
 | 50 | [Rappresento \(feat\. Jake La Furia\)](https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [The Illest, Vol\. 3](https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P) | 3:07 |
 
-Snapshot ID: `MTY3NTY3MjMyNCwwMDAwMDAwMDhlNjFlYThiMjEwNzhhMjgzMDNhNTM1NDE1ZTBjNjIw`
+Snapshot ID: `MTY3NTY3MjMyNCwwMDAwMDAwMDFjODQ3MGYwMTE1Mzk1MTU3NjBlYmU1YjhiNzFmY2E5`

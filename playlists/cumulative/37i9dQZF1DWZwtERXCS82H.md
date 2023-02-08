@@ -2,9 +2,9 @@
 
 ### [Reading Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWZwtERXCS82H)
 
-> Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
+> Calm and quiet piano music for reading.
 
-570 songs - 1 day 0 hr 50 min
+573 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2022-04-15 | 2022-04-23 |
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2022-04-15 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 |  |
+| [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-02-07 |  |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-18 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2022-04-15 | 2022-04-23 |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2022-04-15 |  |
@@ -197,6 +198,7 @@
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2022-04-15 |  |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2022-04-15 |  |
 | [Hoffnungen](https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Hoffnungen](https://open.spotify.com/album/4QlOD9tJ3PX7gRRQcPzv2a) | 2:13 | 2022-04-15 |  |
+| [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-02-07 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2022-04-15 | 2023-01-21 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-04-15 | 2022-05-27 |
 | [Homecoming](https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Homecoming](https://open.spotify.com/album/6pjjILmogmek6JQtcFyMIP) | 2:32 | 2022-11-18 |  |
@@ -297,6 +299,7 @@
 | [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-04-15 | 2022-11-19 |
 | [Missing You](https://open.spotify.com/track/2KOmnyZGnaQIzmuPhOdAHk) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Missing You](https://open.spotify.com/album/1XsepKGcBPgDts44vfP3MQ) | 2:06 | 2022-04-15 | 2022-11-19 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-04-15 | 2022-05-27 |
+| [Mitt lilla barn](https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [Mitt lilla barn](https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY) | 1:19 | 2023-02-07 |  |
 | [Miért](https://open.spotify.com/track/2QO9kGSgMvPMrcARk5c6ft) | [Katona Ernesztina](https://open.spotify.com/artist/5q88YG8qotyr34n4Exhpn3) | [Miért](https://open.spotify.com/album/2AgqcKkzW68PlX3cpfuaNM) | 2:12 | 2022-06-07 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-04-15 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-15 |  |

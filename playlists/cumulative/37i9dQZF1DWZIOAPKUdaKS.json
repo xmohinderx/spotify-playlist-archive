@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Piano music to get some work done! \nReading, writing, studying, learning to the sound of soft work music.",
+  "description": "Soft piano to help you focus, work or study. ",
   "name": "Focus Piano",
   "tracks": [
     {
@@ -7269,6 +7269,28 @@
     },
     {
       "album": {
+        "name": "Pink Leaves",
+        "url": "https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4"
+      },
+      "artists": [
+        {
+          "name": "Vivien Chandra",
+          "url": "https://open.spotify.com/artist/7bKshYPNnC71Zsu93Xi6hq"
+        },
+        {
+          "name": "v i v",
+          "url": "https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270184,
+      "name": "Pink Leaves",
+      "url": "https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf"
+    },
+    {
+      "album": {
         "name": "Placid",
         "url": "https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63"
       },
@@ -7824,6 +7846,24 @@
       "duration_ms": 121423,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ"
+    },
+    {
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125577,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW"
     },
     {
       "album": {
@@ -10820,7 +10860,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 125522,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6F5ZyJQDBTBL7JPT6JjC3R"

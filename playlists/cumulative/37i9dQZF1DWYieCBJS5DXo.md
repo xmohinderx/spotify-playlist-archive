@@ -4,7 +4,7 @@
 
 > Serving up your favorite songs about snacks!
 
-41 songs - 1 hr 31 min
+43 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,10 @@
 | [Cookie Boogie](https://open.spotify.com/track/4Wge8h9SAbSl9h1ru2dDPR) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:02 | 2021-01-08 |  |
 | [Drip Drip Ice Cream](https://open.spotify.com/track/28Bm2tH8yHFKXwyh5GhKbs) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 1:38 | 2021-01-08 |  |
 | [Eatin' Animal Crackers](https://open.spotify.com/track/0m0R0kTsHn88Ya6iEgNZ4t) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I Found It!](https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1) | 4:14 | 2021-01-08 |  |
-| [Everybody Loves Oranges](https://open.spotify.com/track/5M1hBSNWSitIcEhcgqSVg1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG) | 1:03 | 2021-01-08 |  |
-| [Food Into Energy \(Stomach\)](https://open.spotify.com/track/5VPa8kfMSW35I5RFsqF12C) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Body Songs](https://open.spotify.com/album/5EwcTpfp4MmtrBdmYEP95p) | 0:43 | 2021-01-08 |  |
+| [Everybody Loves Oranges](https://open.spotify.com/track/0gUJUF4KqVbACOv006u1wn) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD) | 1:03 | 2021-01-08 |  |
+| [Everybody Loves Oranges](https://open.spotify.com/track/5M1hBSNWSitIcEhcgqSVg1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG) | 1:03 | 2021-01-08 | 2023-02-08 |
+| [Food Into Energy \(Stomach\)](https://open.spotify.com/track/5VPa8kfMSW35I5RFsqF12C) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Body Songs](https://open.spotify.com/album/5EwcTpfp4MmtrBdmYEP95p) | 0:43 | 2021-01-08 | 2023-02-08 |
+| [Food Into Energy \(Stomach\)](https://open.spotify.com/track/6HWn05kRmaZHyt48110QgY) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Body Songs](https://open.spotify.com/album/3Jt4cQygbo1EeTm3kD2tnz) | 0:43 | 2021-01-08 |  |
 | [Fruit Salad](https://open.spotify.com/track/7cRLSuOaw8RzS5avx30uOQ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Best of The Wiggles](https://open.spotify.com/album/1uh7RZLKvq5muRFJ5U0Fzf) | 2:09 | 2021-10-18 |  |
 | [Fruits & Vegetables](https://open.spotify.com/track/0Y9uYg6maHwjRp1IyW1xzp) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:59 | 2021-01-08 |  |
 | [Halo\-Halo](https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 2:30 | 2021-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,368 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,391 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 31 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 32 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 |
 | 33 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 |
-| 34 | [High Heels \- Party Down Under](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \(Party Down Under\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 |
+| 34 | [High Heels \- Party Down Under \- Sam Feldt vs\. Flo Rida](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \- Party Down Under \(Sam Feldt vs\. Flo Rida\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 |
 | 35 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 |
 | 36 | [Tell A Son](https://open.spotify.com/track/6HMNwewWNuztnlZtJoVqbN) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Tell A Son](https://open.spotify.com/album/64P1FDyJTclgT2VPLnOZSr) | 2:18 |
 | 37 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |

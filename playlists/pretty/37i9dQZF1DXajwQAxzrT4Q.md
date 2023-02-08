@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Smallz 732
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,823 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,983 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 38 | [POZZ](https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp), [COSMO ENVOIE DES TRACKS](https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI) | [POZZ](https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F) | 2:08 |
 | 39 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 40 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
-| 41 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 |
-| 42 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
+| 41 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
+| 42 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 |
 | 43 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 44 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 45 | [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
 | 50 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 
-Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMGVlMDgxOWRmYjUwMGQ2NzE1NTkzMjIwYmRkYzk5MTI0`
+Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMGY1OTQyZjI4ZDZiOWFjZjdjYjVmNzQ4NTg0OTRhOTQz`

@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-175 songs - 14 hr 5 min
+176 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Controller](https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht) | 3:28 | 2022-06-14 |  |
 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 | 2022-06-14 |  |
 | [Dance Tonight Revolution Tomorrow](https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 7:32 | 2022-05-06 | 2022-12-13 |
+| [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-12-05 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-05-06 | 2023-02-02 |
 | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K) | [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr) | 3:18 | 2022-05-06 |  |
 | [District 8](https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS02](https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y) | 5:01 | 2022-05-06 |  |
@@ -159,7 +160,7 @@
 | [The Ghost](https://open.spotify.com/track/6U68eIjQeHBdMEvPXFvnKS) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [The Ghost](https://open.spotify.com/album/3loMWI3Uy1H9ZCosRV0QXm) | 4:04 | 2022-05-06 | 2022-07-29 |
 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 | 2022-05-06 |  |
 | [The Volume](https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/3JLDi2TBdao3xxxFXoYGNc) | 6:37 | 2022-05-06 | 2022-07-28 |
-| [The Volume](https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN) | 6:37 | 2022-06-14 |  |
+| [The Volume](https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN) | 6:37 | 2022-06-14 | 2023-02-08 |
 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 | 2022-05-06 |  |
 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 | 2022-05-06 | 2022-07-29 |
 | [Time to Go](https://open.spotify.com/track/7wC7oqIoDcN313wdziWyE0) | [Emiranda](https://open.spotify.com/artist/2hq6lovoVveIPBDeJNvIfe) | [My Face](https://open.spotify.com/album/4W8EwahiBJkZZO7IGObu6T) | 3:27 | 2022-05-06 | 2022-07-29 |

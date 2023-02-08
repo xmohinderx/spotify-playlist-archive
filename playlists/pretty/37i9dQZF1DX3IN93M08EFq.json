@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58238,
+  "num_followers": 58243,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGNjMDhmOTFkMDgyYTFjYjg1MjhmNTE5Mzk4Y2FhMzUz",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGM3MGFhNzQwNTZlMDY4YTA5ODRiZTA2MDRhNjhjMmZi",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Yours Truly, Angry Mob (Deluxe)",
+        "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Yours Truly, Angry Mob (Deluxe)",
-        "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
+      "duration_ms": 211880,
+      "name": "D.A.N.C.E - Radio Edit",
+      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -587,22 +603,6 @@
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "D.A.N.C.E - Radio Edit",
-      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "added_at": "2021-06-15 09:25:05",

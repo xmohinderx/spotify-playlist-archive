@@ -4,11 +4,12 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-91 songs - 5 hr 24 min
+92 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All you Need to Know](https://open.spotify.com/track/4xihysEKBYwugkpWeJgS6W) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB) | [Further Standards](https://open.spotify.com/album/29T30GTricZoyuunKfKM5y) | 3:43 | 2021-08-26 |  |
+| [All you Need to Know](https://open.spotify.com/track/4xihysEKBYwugkpWeJgS6W) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB) | [Further Standards](https://open.spotify.com/album/29T30GTricZoyuunKfKM5y) | 3:43 | 2021-08-26 | 2023-02-08 |
+| [All You Need to Know](https://open.spotify.com/track/6a8AIQEeuWKRoQakg3Aujf) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB), [Lonna Kelly](https://open.spotify.com/artist/3lNd01OLBdD9jodTpJG4RG) | [Further Standards](https://open.spotify.com/album/0kYvtUDxRxcZe7JehdMiV8) | 3:43 | 2021-08-26 |  |
 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 | 2021-08-26 |  |
 | [Another Sunny Day](https://open.spotify.com/track/07ZSQZzH92n1uwEG0m8M4f) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Life Pursuit](https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU) | 4:04 | 2021-08-26 |  |
 | [Another Sunny Day](https://open.spotify.com/track/1SxC3v3Mcm5VPxeXaF59NY) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Life Pursuit](https://open.spotify.com/album/0pqlfn0pAYDb2zassbbD6G) | 4:04 | 2021-08-26 | 2022-07-29 |

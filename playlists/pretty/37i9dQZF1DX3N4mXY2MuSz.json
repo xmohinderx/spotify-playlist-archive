@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 46378,
+  "num_followers": 46363,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDE2YzBiYWNjMzY3ODA4MjlmNDBiZDAyNWVmODVmZTQ1",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMGY3ZWViM2Y1NzExNDAwZmMxMGMwMzNiNzgyODU3Nzcy",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Deadbeat Holiday",
+      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
         "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 43526,
       "name": "Happy Holidays, You Bastard",
       "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Deadbeat Holiday",
-      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Played In Space: The Best of Something Corporate",
+        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Forget December",
+      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Merry Flippin' Christmas Vol. 1",
         "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Played In Space: The Best of Something Corporate",
-        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Forget December",
-      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Weird Tales of The Ramones (1976 - 1996)",
         "url": "https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "December's Here",
-        "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "December's Here",
-      "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 200573,
       "name": "Punk Rawk Christmas",
       "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "December's Here",
+        "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "December's Here",
+      "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+        "name": "Jack Skellington",
+        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
       },
       "artists": [
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
         }
       ],
-      "duration_ms": 189260,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
+      "duration_ms": 173695,
+      "name": "Jack Skellington",
+      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
     }
   ],
   "unique_name": "Punk Christmas",

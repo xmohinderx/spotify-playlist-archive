@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,306 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,320 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 34 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 |
 | 35 | [Uptown](https://open.spotify.com/track/1AwELajjX7wPD87c5TfYc6) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Uptown](https://open.spotify.com/album/7EAieD2FqluiHc3eeTDkCC) | 3:09 |
 | 36 | [Bisou Létal](https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Bisou Létal](https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm) | 4:03 |
-| 37 | [30 Shots](https://open.spotify.com/track/6VEoDyngWaZrkKV7Jw2ShY) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/3sAKND1PUz7rDHB4xuvMuD) | 2:53 |
+| 37 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
 | 38 | [Voleur d'esprit](https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Voleur d'esprit](https://open.spotify.com/album/6bQOhjFmY4mPuX7S9X0hvy) | 2:57 |
 | 39 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
 | 40 | [Hold it down](https://open.spotify.com/track/31CvdrRgCvWY3QpgJW7h9F) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Hold it down](https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 |
 | 75 | [Pétale](https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Pétale](https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA) | 3:09 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDJlYjZhZGYzNzMzNzhjNmFiMTRiZDNiODNiNTYwMjYw`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGU1YzViY2RkYmI5OTEzMzljNWU5ZTkzZDdiNjA5NTA1`

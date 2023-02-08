@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.",
-  "name": "Legacy of Laurel Canyon",
+  "description": "A few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.",
+  "name": "Laurel Canyon Legends",
   "tracks": [
     {
       "album": {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
@@ -294,10 +294,46 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 558186,
       "name": "Down by the River - 2009 Remaster",
       "url": "https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp"
+    },
+    {
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    },
+    {
+      "album": {
+        "name": "Reel To Real",
+        "url": "https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Everybody\u2019s Gotta Live",
+      "url": "https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb"
     },
     {
       "album": {
@@ -366,7 +402,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 372000,
       "name": "For Everyman",
       "url": "https://open.spotify.com/track/2jMicsmWOmQtkLQGtV1R0I"
@@ -438,7 +474,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
@@ -456,7 +492,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 204320,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd"
@@ -564,7 +600,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 195533,
       "name": "I Just Wasn't Made For These Times - Mono / Remastered",
       "url": "https://open.spotify.com/track/4CuO8TINNqM3D7aUdNQ3zG"
@@ -586,6 +622,24 @@
       "duration_ms": 134133,
       "name": "In My Room - Remastered",
       "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "album": {
@@ -672,7 +726,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 212933,
       "name": "Ladies of the Canyon",
       "url": "https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf"
@@ -726,7 +780,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 130680,
       "name": "Mama Told Me Not to Come",
       "url": "https://open.spotify.com/track/6uYrDQX0lNmeM9di1B5rAI"
@@ -816,7 +870,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 165133,
       "name": "No Matter What You Do - Stereo Version",
       "url": "https://open.spotify.com/track/6FUcQ9eELm82iMfFfKRZXi"
@@ -906,7 +960,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 271933,
       "name": "Out on the Weekend - 2009 Remaster",
       "url": "https://open.spotify.com/track/7DqktFsRwJa0XDFPMjV1xJ"
@@ -996,7 +1050,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 157413,
       "name": "She",
       "url": "https://open.spotify.com/track/33gpH6M10smcgSDUYescVD"
@@ -1234,7 +1288,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 155373,
       "name": "What's Happening?",
       "url": "https://open.spotify.com/track/1GTBucE0tthedwiRipSG4g"

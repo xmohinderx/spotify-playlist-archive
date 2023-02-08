@@ -4,7 +4,7 @@
 
 > jonatan leandoer96 makes anti pop.
 
-1,253 songs - 2 day 12 hr 34 min
+1,254 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 |  |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-15 | 2022-02-05 |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13\* | 2021-03-26 |
+| [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 | 2023-02-03 |  |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2022-02-07 | 2022-05-10 |
 | [Escalator](https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:26 | 2022-06-17 | 2022-11-17 |
 | [Espada Primo](https://open.spotify.com/track/1SnrSiotEZcuZvGWRLSBIp) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Espada Primo](https://open.spotify.com/album/0Dw542vo3ipfUGWT5vS9Ou) | 2:40 | 2022-02-18 | 2022-05-10 |
@@ -1034,7 +1035,7 @@
 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 | 2022-08-05 | 2023-01-28 |
 | [SUCKAPUNCH](https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [SUCKAPUNCH](https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB) | 2:27 | 2022-03-22 | 2022-06-18 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2022-04-09 | 2022-05-19 |
-| [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 |  |
+| [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 | 2023-02-08 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-08-07 | 2021-10-13 |
 | [Suicide Down \(feat\. Lil Gotit\)](https://open.spotify.com/track/5yqxeoIvngFdi0hdjHov2O) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Suicide Down \(feat\. Lil Gotit\)](https://open.spotify.com/album/2g0399TExZp0phIRMAADQj) | 2:36 | 2020-10-13\* | 2020-11-03 |
 | [Summer](https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Summer](https://open.spotify.com/album/0lLBjcVpeLXF4ZKpCxe1zt) | 2:15 | 2021-08-24 | 2021-10-12 |

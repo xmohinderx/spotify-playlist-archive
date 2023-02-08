@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 132235,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 237079,
       "name": "Candles",
       "url": "https://open.spotify.com/track/2bOalGfLHderIlSLeoc1TY"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Lemon Cake",
+        "url": "https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323328,
+      "name": "Lemon Cake",
+      "url": "https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS"
+    },
+    {
+      "album": {
         "name": "Lily",
         "url": "https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 423346,
       "name": "Love On The Run",
       "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
@@ -2267,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Mother's Eyes",
+        "url": "https://open.spotify.com/album/0KhR7WLsUuaEn8QNb4fjJL"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Mother's Eyes",
+      "url": "https://open.spotify.com/track/7lbiv5n30fGuKtTVsITlE4"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6"
       },
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 484436,
       "name": "offshore",
       "url": "https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u"
@@ -3238,7 +3274,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 249266,
       "name": "Soul Smile",
       "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
@@ -3372,7 +3408,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 212158,
       "name": "Sundays - Just Piano Version",
       "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
@@ -3896,7 +3932,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
@@ -3914,7 +3950,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 212026,
       "name": "When You Can't Sleep At Night",
       "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
@@ -3954,6 +3990,28 @@
       "duration_ms": 284373,
       "name": "You Want It Darker",
       "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u306e\u591c",
+        "url": "https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "\u96a0\u5c90\u5f69\u590f",
+          "url": "https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "\u300a\u5973\u306e\u611b\u3068\u751f\u6daf\u300b No. 1. \u5f7c\u306b\u51fa\u4f1a\u3063\u3066\u304b\u3089",
+      "url": "https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN"
     },
     {
       "album": {
@@ -4628,7 +4686,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 130483,
       "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
       "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
@@ -4686,7 +4744,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 94128,
       "name": "\u5915\u65b9\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/2vBMLVOIwj0PcY3hDL1zxX"
@@ -4778,6 +4836,24 @@
       "duration_ms": 76453,
       "name": "\u6625\u3088\u3001\u6765\u3044",
       "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c",
+        "url": "https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl"
+      },
+      "artists": [
+        {
+          "name": "SADFRANK",
+          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304662,
+      "name": "\u6700\u5f8c",
+      "url": "https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niall Horan",
-  "num_followers": 88981,
+  "num_followers": 89051,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg4NSwwMDAwMDAwMDJlZGE0NzhlOGUxYzkxYzNkMTQyZDdkMDAwMDdiZWZh",
+  "snapshot_id": "MTY3MzU2MDg4NSwwMDAwMDAwMGVhYjg2Mzg4NzEzZjJmYzlkN2Y2NjIxZjM5YTE4NTIx",
   "tracks": [
     {
       "added_at": "2023-01-12 22:01:25",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 160942,
       "name": "You Broke Me First",
       "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/34RAxbFdvO9mbNWnj3r10E"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -747,6 +731,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 168798,
       "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1304,22 +1304,6 @@
       "added_at": "2023-01-12 22:01:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -1331,6 +1315,22 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "the quarantine covers",
         "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 122074,
       "name": "just the two of us",
       "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Nothing Breaks Like A Heart",
         "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 221400,
       "name": "Nothing Breaks Like A Heart",
       "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
+        "name": "Cruel Summer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 176789,
+      "name": "Cruel Summer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -2047,18 +2063,18 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Cruel Summer (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
       "artists": [
         {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 176789,
-      "name": "Cruel Summer (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2075,22 +2091,6 @@
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jackson Band",
-          "url": "https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 225986,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jackson Band",
+          "url": "https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
     },
     {
       "added_at": "2023-01-12 22:01:25",

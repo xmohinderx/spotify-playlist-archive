@@ -4,7 +4,7 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-110 songs - 8 hr 28 min
+112 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,10 @@
 | [Symvol](https://open.spotify.com/track/5g8c2v1ijcBcQfCKA3z1gX) | [Zavoloka](https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp) | [XII](https://open.spotify.com/album/17OyQoVXU760lLxIkUtGoK) | 5:34 | 2021-06-30 |  |
 | [Teta 7hz \(Tool\)](https://open.spotify.com/track/1RJqmHAEDJ78qnxeI4m2vE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4), [DeForrest Brown, Jr.](https://open.spotify.com/artist/6QxG7s5M7Kxe2IAvhfa75t) | [S.L.F.](https://open.spotify.com/album/7lFAHbDgEMj5EKINFsIdp6) | 3:33 | 2021-06-30 | 2022-07-29 |
 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 | 2021-06-30 |  |
-| [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 | 2021-06-30 |  |
-| [The North Wind](https://open.spotify.com/track/7mc9nqCeNB2gBYoR891KVv) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 4:11 | 2021-06-30 |  |
+| [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 | 2021-06-30 | 2023-02-08 |
+| [The Archer](https://open.spotify.com/track/6JOg52cyqYLFc8CCO2MjH3) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 6:01 | 2021-06-30 |  |
+| [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 | 2021-06-30 |  |
+| [The North Wind](https://open.spotify.com/track/7mc9nqCeNB2gBYoR891KVv) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 4:11 | 2021-06-30 | 2023-02-08 |
 | [The Steady Heart](https://open.spotify.com/track/07b7wamvmtxZdHPRVjdQjW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Steady Heart](https://open.spotify.com/album/7CGeLL2ynKNd5QRJAbrcgQ) | 5:39 | 2021-06-30 | 2022-11-13 |
 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 | 2021-06-30 |  |
 | [The Steady Heart](https://open.spotify.com/track/3wByr14kH9QHQ6n7MSudK1) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Mosaic of Transformation](https://open.spotify.com/album/4yzxK85q3777m0q4ljE8aF) | 5:39 | 2021-06-30 | 2022-07-29 |

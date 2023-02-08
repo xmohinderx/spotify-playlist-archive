@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 286927,
+  "num_followers": 287065,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzMzQwMCwwMDAwMDAwMGNhZmIyYTA0MDFkZDFkNTk1MTE0NzY3YjU3M2ZlYjQ0",
+  "snapshot_id": "MTY3NDgzMzQwMCwwMDAwMDAwMDgyZjM5NWM1NWVhNDYzNTEzM2ZhY2YzNTllYjE2OTBm",
   "tracks": [
     {
       "added_at": "2023-01-27 15:30:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 168300,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2023-01-27 15:30:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-01-27 15:30:00",
       "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
-        }
-      ],
-      "duration_ms": 152459,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
-    },
-    {
-      "added_at": "2023-01-27 15:30:00",
-      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 166887,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
+    },
+    {
+      "added_at": "2023-01-27 15:30:00",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
     },
     {
       "added_at": "2023-01-27 15:30:00",

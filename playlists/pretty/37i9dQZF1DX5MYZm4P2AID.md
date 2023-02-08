@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from Outer Banks and get ready for Poguelanida, tickets available now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,830 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,227 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 16 | [Left with a Gun](https://open.spotify.com/track/5B3qTqJSte8caqfr4qDbe0) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Oracolo](https://open.spotify.com/album/1YF0c4fRfsbfaTedJKAbho) | 4:28 |
 | 17 | [Down the River](https://open.spotify.com/track/5yZKbsxGXIkcHsu18qoiVX) | [Lord Cobra](https://open.spotify.com/artist/594DYT1aiPPrHBCOAs8c3t) | [Lord Cobra and the Caribbean Boys](https://open.spotify.com/album/6SOICPZu3czgwWCGvIKNC9) | 3:17 |
 | 18 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys Electric Trio](https://open.spotify.com/artist/0RDTYsBKxXbpvqowB0IATm) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 |
-| 19 | [Bad Kids](https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:08 |
+| 19 | [Bad Kids](https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:08 |
 | 20 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 |
 | 21 | [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 |
 | 22 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 32 | [Move over, I'll Drive](https://open.spotify.com/track/4KwrA7IeaqTu4FKC7JBUx9) | [Black River Assembly](https://open.spotify.com/artist/3tHuD8jeAX2vlwluLKWxlg) | [Marsh Land EP](https://open.spotify.com/album/3sHRFNWrczJOdTiwVk26Qx) | 2:51 |
 | 33 | [Don't You Forget It](https://open.spotify.com/track/3niZUlDdEFvir3HKdgdhsC) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:04 |
 | 34 | [Rest In Blue](https://open.spotify.com/track/3dHHhmghmAy4iQQ4hEnu6U) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 4:20 |
-| 35 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 |
+| 35 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
 | 36 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 |
 | 37 | [King of a One Horse Town](https://open.spotify.com/track/4QF8w44G6fU4VNxQJK1OJn) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:46 |
 | 38 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 94 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 95 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY3NTQzNjQwMCwwMDAwMDAwMDUyYTUzODc4YjExZjIzNDE0MzI0MjczMDc4ZWNjZTY0`
+Snapshot ID: `MTY3NTQzNjQwMCwwMDAwMDAwMGM3OTI3NjAxYWFmNmY5YmY5YmUwNGUxNzIzMTMzNmM0`

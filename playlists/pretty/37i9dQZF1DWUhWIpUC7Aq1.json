@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 80716,
+  "num_followers": 80977,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDU2MTczYWNiZWNhZTA0ZTZkOTBmNjFlYzBmYjY4OTc5",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDU3ODYwYjhkNmM2ZjZiYjg4MmFhMzliNjFlMzg0NmJh",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "The Boy With The Arab Strap",
-      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 199573,
       "name": "Atop a Cake",
       "url": "https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Boy With The Arab Strap",
+        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "The Boy With The Arab Strap",
+      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Begin to Hope",
-        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Hotel Song",
-      "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids",
         "url": "https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 310920,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Begin to Hope",
+        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Hotel Song",
+      "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Truckload Of Trouble",
-        "url": "https://open.spotify.com/album/2ghVoguFTuCBLKSuDeojQ1"
-      },
-      "artists": [
-        {
-          "name": "The Pastels",
-          "url": "https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Nothing To Be Done",
-      "url": "https://open.spotify.com/track/4vReegUzNPc2t06jJKgieU"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Just Another Diamond Day",
         "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 183173,
       "name": "Let's Talk About Spaceships",
       "url": "https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "London Weekend",
+        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
+      },
+      "artists": [
+        {
+          "name": "Another Sunny Day",
+          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
+        }
+      ],
+      "duration_ms": 98706,
+      "name": "I'm In Love With A Girl Who Doesn't Know I Exist",
+      "url": "https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW"
     }
   ],
   "unique_name": "Twee",

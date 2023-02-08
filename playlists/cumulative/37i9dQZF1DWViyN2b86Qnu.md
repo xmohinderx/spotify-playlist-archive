@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-198 songs - 11 hr 6 min
+199 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2022-07-14 |  |
 | [People, I've been sad](https://open.spotify.com/track/5stdNNY7SUv12p5sLkaBlL) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 4:20 | 2021-10-05 | 2022-07-29 |
 | [Perfect Day](https://open.spotify.com/track/07i5NWDPwpQN7UQu33Eq2B) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Perfect Day](https://open.spotify.com/album/372ih46hVEhyul0HJvEJcQ) | 3:09 | 2022-07-14 | 2022-11-14 |
-| [Perfect Day](https://open.spotify.com/track/2xGZuq8FD3mSw5tkqN25Z8) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/0DnbC84879BiVOxxvb3LpU) | 3:09 | 2022-07-14 |  |
+| [Perfect Day](https://open.spotify.com/track/2EXdesGRR8FYGIwlcFyJZN) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/6i8kpS3QkfUDXjqvDg2pQf) | 3:09 | 2023-01-23 |  |
+| [Perfect Day](https://open.spotify.com/track/2xGZuq8FD3mSw5tkqN25Z8) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/0DnbC84879BiVOxxvb3LpU) | 3:09 | 2022-07-14 | 2023-02-08 |
 | [Perfect Day](https://open.spotify.com/track/3as34NSXSAq8GII0L2mpq2) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/3CG7xLmHCRCpwpkM8Z57DV) | 3:09 | 2021-10-05 | 2022-07-29 |
 | [Pills & Good Advice](https://open.spotify.com/track/7mVua1NkDiqHpy5YDkUCfu) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [t.i.a.p.f.y.h.](https://open.spotify.com/album/3AmtZIC01fVMxFCGIIlMzO) | 10:13 | 2022-03-04 | 2023-01-24 |
 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 | 2021-10-05 |  |

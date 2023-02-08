@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,724 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,917 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 30 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 31 | [Pupilas Lejanas](https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love](https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa) | 3:55 |
 | 32 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
-| 33 | [Divina Ciencia](https://open.spotify.com/track/5SV2Eqg43uPMX9x9g1XoAL) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Dahani](https://open.spotify.com/artist/69CmKC6wHFltmcQHp7pPY9) | [Cosas Que Contarte](https://open.spotify.com/album/4HfCnFSRmhDZKUUY12wTHQ) | 3:33 |
+| 33 | [Divina Ciencia](https://open.spotify.com/track/3hDJm892PD8L4CC5diOAe9) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Dahani](https://open.spotify.com/artist/69CmKC6wHFltmcQHp7pPY9) | [Cosas Que Contarte](https://open.spotify.com/album/0FbrtoU78KgwG5vD1GlZGV) | 3:33 |
 | 34 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
 | 35 | [La Ficción](https://open.spotify.com/track/3b2BDfSRZkcxl4J1TkDft5) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Eterno](https://open.spotify.com/album/0SRVZjqbjlg0oyiBmdrSEa) | 4:32 |
 | 36 | [De la Tierra Crece](https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 60 | [Llena Mi Vida](https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu) | [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Llena Mi Vida](https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G) | 4:25 |
 
-Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDUwNzgyNmM5OTE4MzJkYTMzMGMyZDYzYzBjZmMzZjMz`
+Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDczMWJmMWMzNjExODVlYTAxZGFkMmE4NmY0ZDUxMjdk`

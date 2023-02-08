@@ -97,6 +97,32 @@
     },
     {
       "album": {
+        "name": "I Have a Dream.",
+        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "All Through the Night",
+      "url": "https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M"
+    },
+    {
+      "album": {
         "name": "Amai Yume ~Sweet Dreams~",
         "url": "https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp"
       },
@@ -1754,7 +1780,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 226586,
       "name": "Lovers In Tokyo",
       "url": "https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH"
@@ -2088,7 +2114,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 167096,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
@@ -2762,7 +2788,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 215928,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"

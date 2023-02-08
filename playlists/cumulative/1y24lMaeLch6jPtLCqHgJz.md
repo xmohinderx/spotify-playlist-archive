@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-119 songs - 6 hr 14 min
+120 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Dancing](https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Vicman Romero & Mike Sildavia](https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Dancing](https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx) | 2:54 | 2022-08-23 |  |
 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr) | 3:08 | 2022-07-29 |  |
+| [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2023-02-07 |  |
 | [Deja Vu](https://open.spotify.com/track/36tPYCqVrns8yBEv1IMbPs) | [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Deja Vu](https://open.spotify.com/album/2xmcOsh0Zv699SfTkri9Xj) | 2:47 | 2022-09-22 |  |
 | [Diamonds & Gold](https://open.spotify.com/track/2CdwtTUeDPj2yXFB2hkM60) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Diamonds & Gold](https://open.spotify.com/album/4DTto2HAiqGx5XP6BXMzzb) | 3:05 | 2022-09-16 |  |
 | [Dive In](https://open.spotify.com/track/1WPTlwzEsggW9XoAih2oa5) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Dive In](https://open.spotify.com/album/4nptbGAc6p5WCISLHOyqse) | 3:20 | 2022-07-29 |  |

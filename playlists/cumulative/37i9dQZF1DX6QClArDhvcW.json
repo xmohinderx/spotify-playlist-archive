@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "connection",
+        "url": "https://open.spotify.com/album/7lmUGn6E1U2Q883vee2MuI"
+      },
+      "artists": [
+        {
+          "name": "$imba",
+          "url": "https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124560,
+      "name": "connection",
+      "url": "https://open.spotify.com/track/0Q7N1ywHtdNJ3kztxBkmNF"
+    },
+    {
+      "album": {
         "name": "Lush Lines",
         "url": "https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA"
       },
@@ -1783,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/0ZOiLib3wIbXTce9luU49t"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1tunIrMoyuW5xRYQbViTPQ"
+    },
+    {
+      "album": {
         "name": "The Journey Home Pt. 2",
         "url": "https://open.spotify.com/album/3bGxqqDx4E5buiBhZDGq91"
       },
@@ -2154,6 +2194,24 @@
       "duration_ms": 176202,
       "name": "Keen",
       "url": "https://open.spotify.com/track/3HKKgefffjG5gdPE5Jtcrr"
+    },
+    {
+      "album": {
+        "name": "Keeps Me Wondering Why",
+        "url": "https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117750,
+      "name": "Keeps Me Wondering Why",
+      "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"
     },
     {
       "album": {
@@ -3295,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Osaka",
+        "url": "https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120875,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do"
+    },
+    {
+      "album": {
         "name": "overcast",
         "url": "https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF"
       },
@@ -3761,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/1JAaWsmBJkPF7pDS7nsUkt"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119529,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/34KTQOmh4sANyx6QCpYaJg"
+    },
+    {
+      "album": {
         "name": "Room Plant",
         "url": "https://open.spotify.com/album/7ISq9AgKctHdHPufspniwV"
       },
@@ -4040,6 +4134,24 @@
       "duration_ms": 149430,
       "name": "Slow Lane",
       "url": "https://open.spotify.com/track/709Nfikl8cmZJ5pSJnXAk2"
+    },
+    {
+      "album": {
+        "name": "snake",
+        "url": "https://open.spotify.com/album/5AXVCXJ0JjiC5nYyuTsjJa"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121015,
+      "name": "snake",
+      "url": "https://open.spotify.com/track/350hcXmQ9Hogasz5nb5Nvn"
     },
     {
       "album": {

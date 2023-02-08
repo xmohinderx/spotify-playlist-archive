@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > find someone who supports you like lizzo supports harry ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,271 likes - 613 songs - 1 day 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,438 likes - 613 songs - 1 day 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

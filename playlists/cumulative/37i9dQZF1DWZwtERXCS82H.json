@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Quiet music for reading, curl up with a good book and a calm piano playlist in the background.",
+  "description": "Calm and quiet piano music for reading.",
   "name": "Reading Soundtrack",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 142071,
       "name": "A Path to Light",
       "url": "https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX"
+    },
+    {
+      "album": {
+        "name": "A Song in D Minor",
+        "url": "https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203938,
+      "name": "A Song in D Minor",
+      "url": "https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM"
     },
     {
       "album": {
@@ -3423,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc"
+      },
+      "artists": [
+        {
+          "name": "Junie Graziano",
+          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99384,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP"
+    },
+    {
+      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb"
       },
@@ -5220,6 +5256,24 @@
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
+    },
+    {
+      "album": {
+        "name": "Mitt lilla barn",
+        "url": "https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY"
+      },
+      "artists": [
+        {
+          "name": "Jody Riley",
+          "url": "https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79613,
+      "name": "Mitt lilla barn",
+      "url": "https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring Wet Leg.",
-  "num_followers": 842227,
+  "num_followers": 842415,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDhkNDM2ZDBkZTQ2ODQ0OWQzMWY2YTFiNWE1MWIzMTY3",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGVhMDdiOGQ4YjhjNWFkYWU0OTJiOTMzNDMyNzJkZjlh",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Here to Forever",
-      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Here to Forever",
+      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Five Easy Hot Dogs",
-        "url": "https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 126440,
-      "name": "Rockaway",
-      "url": "https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab"
+      "duration_ms": 189805,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+        "name": "Five Easy Hot Dogs",
+        "url": "https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 189805,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
+      "duration_ms": 126440,
+      "name": "Rockaway",
+      "url": "https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab"
     },
     {
       "added_at": "2023-01-06 17:05:46",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Homebody",
-        "url": "https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "Australia (Peter Bjorn and John Remix)",
@@ -799,6 +783,22 @@
       "duration_ms": 249160,
       "name": "Australia (Peter Bjorn and John Remix)",
       "url": "https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Homebody",
+        "url": "https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
     },
     {
       "added_at": "2022-12-14 15:18:49",

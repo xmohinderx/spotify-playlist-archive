@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-511 songs - 1 day 8 hr 34 min
+513 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Evolution](https://open.spotify.com/track/37Lrq9EI7AYyCp8z8i7wSo) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Evolution](https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa) | 3:51 | 2023-01-17 |  |
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-03 |  |
-| [Fantastic Future \- From CrosSing](https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic Future \- From CrosSing](https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5) | 4:15 | 2023-01-17 |  |
+| [Fantastic Future \- From CrosSing](https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic Future \- From CrosSing](https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5) | 4:15 | 2023-01-17 | 2023-02-08 |
 | [Fantastic future \- from CrosSing](https://open.spotify.com/track/2L4IMezZdogiY0ndeYNitp) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic future \- from CrosSing](https://open.spotify.com/album/0kMgI0rrMO9cnNMyPvrOAq) | 4:15 | 2023-01-17 | 2023-01-19 |
 | [Far Middle](https://open.spotify.com/track/0xLdA7l1vOtMJTynqt7qkJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Far Middle](https://open.spotify.com/album/1SgmpdT9zS4CFjjbmAxov1) | 2:59 | 2023-01-17 | 2023-01-27 |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 | 2023-01-18 |
@@ -151,7 +151,7 @@
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 | 2022-10-28 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
 | [KAMIGAMI\-神噛\- \- TV edit](https://open.spotify.com/track/4SNhHffgdvKYyyGcbxqPZ1) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [KAMIGAMI\-神噛\- \(TV edit\)](https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf) | 1:33 | 2022-10-25 | 2022-11-23 |
-| [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-01-12 |  |
+| [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-01-12 | 2023-02-08 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-13 | 2023-01-18 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-09-27 | 2023-01-06 |
@@ -293,6 +293,7 @@
 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-03 | 2022-12-02 |
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 | 2022-09-02 |
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
+| [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-07 |  |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |
 | [yurukuru\*love\(TV Size\)](https://open.spotify.com/track/4LdGwBH4qfF6vidBc7l5Ha) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [yurukuru\*love\(TV Size\)](https://open.spotify.com/album/7cguqibLdZHDG6lPW1vs94) | 1:33 | 2023-01-12 | 2023-01-18 |
@@ -360,6 +361,7 @@
 | [ジャーニーズ・トランク](https://open.spotify.com/track/1sk0w6ug8F6RXKA7iCZJcY) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6QC9ZNC4o9hzMsGBVs2NAQ) | 4:21 | 2022-12-20 | 2022-12-22 |
 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-01-24 |  |
 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-10-18 | 2023-01-11 |
+| [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-07 |  |
 | [スノーライト](https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:23 | 2022-12-06 | 2023-01-06 |
 | [スノーライト](https://open.spotify.com/track/6Ng2bz2i6m8LWypHg8xRhM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [スノーライト](https://open.spotify.com/album/2BalUGw6BefYls6CCAQzIa) | 4:23 | 2022-12-06 | 2022-12-08 |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |

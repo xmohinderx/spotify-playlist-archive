@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,194 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,209 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 22 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 |
 | 23 | [Dounya](https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [Dounya](https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm) | 3:35 |
 | 24 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 |
-| 25 | [Sebak \- سيبك](https://open.spotify.com/track/1cNljxhP45g5o2RLN92MTZ) | [Young Kabalo](https://open.spotify.com/artist/0YKv8wjIIoMdWt3Ea8WLRx) | [Sebak \- سيبك](https://open.spotify.com/album/16WxAua0GVxd1VQvdm701k) | 2:53 |
+| 25 | [Sebak \- سيبك](https://open.spotify.com/track/1cNljxhP45g5o2RLN92MTZ) | [Kabalo](https://open.spotify.com/artist/5cEoeRMApsZrnKkonrfXdX) | [Sebak \- سيبك](https://open.spotify.com/album/16WxAua0GVxd1VQvdm701k) | 2:53 |
 | 26 | [Ya Aghla Min Omri](https://open.spotify.com/track/1GyOCcAQbN4ZymgkU5rVib) | [Rayan](https://open.spotify.com/artist/6h6bN6w1alS5cqNp5EKkqG) | [يا أغلى من عمري](https://open.spotify.com/album/07OqZ5WPe08P9r21flFGqG) | 3:23 |
 | 27 | [قلبي الجامد](https://open.spotify.com/track/2b6UTABkSjxidB4zavLW4Z) | [Yahia Alaa](https://open.spotify.com/artist/2gX2GqX7m8cUJILhJp0NVa) | [قلبي الجامد](https://open.spotify.com/album/3565Rc8S4fHuL16tJ7RyUM) | 2:44 |
 | 28 | [Hayda Hali](https://open.spotify.com/track/4SVhjqDecCRW1bbt5ZwP8z) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [هيدا حالي](https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX) | 3:10 |

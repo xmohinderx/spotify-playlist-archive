@@ -3698,7 +3698,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 374679,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 294000,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
@@ -4835,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "U Believe",
+      "url": "https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
       },
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 363380,
       "name": "Vaporware 05",
       "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"

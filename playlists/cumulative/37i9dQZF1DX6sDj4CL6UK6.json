@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Best of Indian English tracks. Cover- Kamakshi Khanna",
+  "description": "Best of Indian English tracks. Cover- Prateek Kuhad",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -358,6 +358,24 @@
       "duration_ms": 219573,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/39lOHITmszIVH9WF4Jpbum"
+    },
+    {
+      "album": {
+        "name": "Blue Sweatshirt",
+        "url": "https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU"
+      },
+      "artists": [
+        {
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Blue Sweatshirt",
+      "url": "https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B"
     },
     {
       "album": {
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 204210,
       "name": "Fooling Myself",
       "url": "https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 179433,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf"
@@ -1464,7 +1482,7 @@
           "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
         }
       ],
-      "date_added": "2023-02-07",
+      "date_added": "2023-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267154,
@@ -2766,6 +2784,32 @@
       "duration_ms": 400640,
       "name": "Void",
       "url": "https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc"
+    },
+    {
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/00nclop2url6nQAx3OgJ6J"
+      },
+      "artists": [
+        {
+          "name": "Perp",
+          "url": "https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu"
+        },
+        {
+          "name": "Tiana Tara",
+          "url": "https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan"
+        },
+        {
+          "name": "Varun Agnihotri",
+          "url": "https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204634,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh"
     },
     {
       "album": {

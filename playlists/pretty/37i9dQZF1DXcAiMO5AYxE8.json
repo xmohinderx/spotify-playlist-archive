@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 469012,
+  "num_followers": 469154,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGRjZjRkYWZiMGNkN2M1YmZiOTM5YTNiNzkwNmUxOTFi",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDBiMTQ0ZGI5ZTVhMDI0OGRkMGE3Mjg2MWIxYmZlZDJh",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "70s 100 Hits",
+        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 180280,
+      "name": "More, More, More - Single Version",
+      "url": "https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Best Of MFSB: Love Is The Message",
         "url": "https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 348333,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees) - \"A Tom Moulton Mix\"",
       "url": "https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "70s 100 Hits",
-        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
-      },
-      "artists": [
-        {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
-        }
-      ],
-      "duration_ms": 180280,
-      "name": "More, More, More - Single Version",
-      "url": "https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz"
     },
     {
       "added_at": "2021-07-04 17:34:32",

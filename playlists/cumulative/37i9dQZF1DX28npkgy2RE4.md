@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-378 songs - 23 hr 18 min
+379 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2021-11-12 | 2022-07-03 |
 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 | 2022-05-25 | 2022-07-27 |
 | [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 | 2022-09-19 |
+| [Coast is Waiting](https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Coast is Waiting](https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3) | 3:39 | 2023-02-03 |  |
 | [Cocaine Cowboys](https://open.spotify.com/track/5ww1cz0HayCtsi9l6j4n84) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Cocaine Cowboys](https://open.spotify.com/album/4MQUsmimNUUuMDtREtyIFw) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [Collar of Fur](https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cala](https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW) | 2:28 | 2021-11-12 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-07-11 |  |
@@ -379,7 +380,7 @@
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-11-12 |  |
 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 | 2022-10-22 |
 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 | 2022-10-14 |  |
-| [Woman](https://open.spotify.com/track/43JOg7EAhMKqlkPr2mZUIP) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman](https://open.spotify.com/album/31FXylZSxeyXau0uevwdeu) | 3:45 | 2022-12-12 |  |
+| [Woman](https://open.spotify.com/track/43JOg7EAhMKqlkPr2mZUIP) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman](https://open.spotify.com/album/31FXylZSxeyXau0uevwdeu) | 3:45 | 2022-12-12 | 2023-02-08 |
 | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/track/0f8VjKe3TShzHjas4qd6MA) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/album/7BIJQX1YaJOxJwTCxiTvVM) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Worldender](https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Worldender](https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D) | 4:13 | 2022-04-01 | 2022-07-27 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 |  |

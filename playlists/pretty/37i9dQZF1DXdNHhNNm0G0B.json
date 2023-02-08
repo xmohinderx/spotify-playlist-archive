@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 68794,
+  "num_followers": 68825,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDYyNywwMDAwMDAwMGRjNzE0NTMxYTAzYzY1MTU1N2Y2NDcxYTkzNTExNzRi",
+  "snapshot_id": "MTY3NTQ0MDYyNywwMDAwMDAwMDI4YjNmZjY0NzA0NGM1OTA0NGQ1ZmE3NDNmY2EzZjYz",
   "tracks": [
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Doyle Bramhall II",
+          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "When You Got a Good Friend",
+      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "Turn Me Loose: Outsiders of Old-Time Music",
         "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
       },
@@ -1019,22 +1039,6 @@
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
-      },
-      "artists": [
-        {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
-        }
-      ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1087,6 +1091,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+      },
+      "artists": [
+        {
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1099,22 +1119,6 @@
       "duration_ms": 174093,
       "name": "Friar's Point Blues",
       "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
-      },
-      "artists": [
-        {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Doyle Bramhall II",
-          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "When You Got a Good Friend",
-      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
     },
     {
       "added_at": "2023-02-03 16:10:26",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-03 16:10:26",
       "album": {
-        "name": "The Country Blues Of John Lee Hooker",
-        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 134960,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
-    },
-    {
-      "added_at": "2023-02-03 16:10:26",
-      "album": {
         "name": "Bottom's Up",
         "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 172383,
       "name": "Good Timin'",
       "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+    },
+    {
+      "added_at": "2023-02-03 16:10:26",
+      "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 134960,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
     },
     {
       "added_at": "2023-02-03 16:10:26",

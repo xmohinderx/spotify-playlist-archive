@@ -4,7 +4,7 @@
 
 > A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-166 songs - 1 day 0 hr 50 min
+167 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Future Days](https://open.spotify.com/track/1w3jYHuIvBIE1bOjaIJ1gO) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered\)](https://open.spotify.com/album/4a1QKRL1X9PlAX9wiiqmAm) | 9:30 | 2018-09-28 | 2022-07-29 |
 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/04qmk935CEZ1fUmPV0rgwU) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/4eqjBQnVHdo98Xg2CnYRn5) | 5:24 | 2018-09-28 | 2022-11-13 |
 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/35jUF9R354GKzxGBVfSqPy) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5AnSUP7g2xmTzamSux1F7K) | 5:24 | 2018-09-28 | 2022-07-29 |
-| [Garden \- 2003 Remastered Version](https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:24 | 2018-09-28 |  |
+| [Garden \- 2003 Remastered Version](https://open.spotify.com/track/43Ay55tMhTdSvdwnGYQR7C) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo) | 5:24 | 2018-09-28 |  |
+| [Garden \- 2003 Remastered Version](https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:24 | 2018-09-28 | 2023-02-08 |
 | [Gong](https://open.spotify.com/track/3QZARi1iovOCEbxzNepiKS) | [Cathedral](https://open.spotify.com/artist/0DxowSHDqTRJhwnD6952tX) | [Stained Glass Stories](https://open.spotify.com/album/72sxnJUkYrrexXcKVBHLEP) | 7:02 | 2018-09-28 |  |
 | [Heart of the Sunrise \- 2003 Remaster](https://open.spotify.com/track/7gC6Rbllqf1yXNC02e5jz2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 10:34 | 2018-09-28 |  |
 | [Heavy Horses \- 2003 Remaster](https://open.spotify.com/track/3Ki1XRwvSJ9UREfeFldVdB) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Heavy Horses \(2003 Remaster\)](https://open.spotify.com/album/27EEeQwWctNFwKzbYYB7v4) | 8:54 | 2018-09-28 |  |

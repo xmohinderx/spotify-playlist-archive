@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-90 songs - 7 hr 45 min
+91 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Never Come Back \- Koreless Remix](https://open.spotify.com/track/32tZacH8pN5SuUwV2jpICp) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Suddenly Remixes](https://open.spotify.com/album/4UrHb1pIbKLFev4nuxMFUY) | 4:04 | 2022-04-12 |  |
 | [Original Sound](https://open.spotify.com/track/1VICk4Ht7EHdUmXtmXYcfu) | [Conroy Smith](https://open.spotify.com/artist/7gVYNOgZqIi5aAmSzd7xmw) | [King Tubbys Presents Soundclash Dubplate Style](https://open.spotify.com/album/6XUJrRRcyGWRta7yAwC2bp) | 3:58 | 2022-04-12 |  |
 | [Our Prayer](https://open.spotify.com/track/1IysBwoeG9FSWCY8qLNqzL) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA) | 1:04 | 2022-11-21 |  |
-| [Papa's Got a Brand New Pigbag \- 12" Verison](https://open.spotify.com/track/3y5QiODYY0CDODY1EFwHyD) | [Pigbag](https://open.spotify.com/artist/2Ay1hHYVBSJU6Dhhs6mGnR) | [Papa's Got a Brand New Pigbag](https://open.spotify.com/album/3unOGrQz7gwTI8xGInw0OH) | 6:01 | 2022-04-12 |  |
+| [Papa's Got a Brand New Pigbag \- 12" Verison](https://open.spotify.com/track/3y5QiODYY0CDODY1EFwHyD) | [Pigbag](https://open.spotify.com/artist/2Ay1hHYVBSJU6Dhhs6mGnR) | [Papa's Got a Brand New Pigbag](https://open.spotify.com/album/3unOGrQz7gwTI8xGInw0OH) | 6:01 | 2022-04-12 | 2023-02-08 |
+| [Papa's Got a Brand New Pigbag \- 12" Version](https://open.spotify.com/track/1JrjxQc66OOv7twArCeGrC) | [Pigbag](https://open.spotify.com/artist/2Ay1hHYVBSJU6Dhhs6mGnR) | [Papa's Got a Brand New Pigbag](https://open.spotify.com/album/1kjRslEud2YFCPDuZRKcqT) | 6:01 | 2022-11-21 |  |
 | [Paténipat](https://open.spotify.com/track/0STU4tz5QWwA46G8QkvtK1) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Paténipat](https://open.spotify.com/album/0hOK8dciK0MuFPOA9MvgMv) | 6:11 | 2022-04-12 |  |
 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 | 2022-11-21 |  |
 | [People Like Us \(feat\. John Goodman\)](https://open.spotify.com/track/6DuKCFG6r87GLHw96FNsDW) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [True Stories, A Film By David Byrne: The Complete Soundtrack](https://open.spotify.com/album/3VJCJNd4lWBFCM1pdmHlBA) | 4:28 | 2022-04-12 |  |

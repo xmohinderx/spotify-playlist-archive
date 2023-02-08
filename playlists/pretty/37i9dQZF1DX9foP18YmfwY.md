@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,104 likes - 70 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,163 likes - 70 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 51 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
 | 52 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 53 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
-| 54 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 |
-| 55 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
+| 54 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
+| 55 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 |
 | 56 | [Sagrada Beleza](https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Sagrada Beleza](https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy) | 3:47 |
 | 57 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 |
 | 58 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Vale a Pena Viver \- Ao Vivo](https://open.spotify.com/track/0h268ATtcBdaQsJYN0WBJk) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Vale a Pena Viver](https://open.spotify.com/album/3MkWIEBXP5Xd0yt99tBruB) | 4:00 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY3MzU4MjAxMSwwMDAwMDAwMDY3ZjM0ZTBiMzI5MmQ4NmYyMWIzMzNjYTNhYTJkNzY3`
+Snapshot ID: `MTY3MzU4MjAxMSwwMDAwMDAwMDk0YzE3NjM3OTBmNmI0ZjY5MmVmNWQ2Y2FiYWJiNDM1`

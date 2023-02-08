@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 59745,
       "name": "\"Haza akarok menni\" Outro",
       "url": "https://open.spotify.com/track/2rgU0c2qrFME5cryFfAQ7v"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2459,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Csiri\u00f3",
+        "url": "https://open.spotify.com/album/0CF7rMETFQHiS26Vp4se5v"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Csiri\u00f3",
+      "url": "https://open.spotify.com/track/6OP0vGVuzlr50nFFAEDhlN"
+    },
+    {
+      "album": {
         "name": "Cs\u00fassz le",
         "url": "https://open.spotify.com/album/01HMWLFq2qZgWTPWlI2KTt"
       },
@@ -3480,6 +3502,28 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "album": {
@@ -6514,7 +6558,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -8940,7 +8984,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 188484,
       "name": "Palvin",
       "url": "https://open.spotify.com/track/5hAuDDOTUaspvHJSm2AltF"
@@ -13410,7 +13454,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 193251,
       "name": "Zombi - Pt.2",
       "url": "https://open.spotify.com/track/6s96kqADsufv7bcoWOCxts"

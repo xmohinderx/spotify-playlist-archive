@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Jaurim 'True' Live (Live)",
+        "url": "https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Hey, Hey, Hey",
+      "url": "https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY"
+    },
+    {
+      "album": {
         "name": "Resurrection - The 3rd Album",
         "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 251213,
       "name": "Vision",
       "url": "https://open.spotify.com/track/0ijms7rWvEqB7TIIE3kCbG"

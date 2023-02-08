@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 62207,
+  "num_followers": 62247,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDM4YjI2NjZmMWNjYWQ5NGQyN2Y2NGQ4NjBiMjFkZmVi",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGNhZGUwNDU4ZTU1NDcyY2VhNGNhMGYyYjVlZjFkNzdh",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Cu\u00e1ndo Ser\u00e1",
-        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cu\u00e1ndo Ser\u00e1",
-      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Cu\u00e1ndo Ser\u00e1",
+        "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cu\u00e1ndo Ser\u00e1",
+      "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
     },
     {
       "added_at": "2023-01-27 03:00:00",

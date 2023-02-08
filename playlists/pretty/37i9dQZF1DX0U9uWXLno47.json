@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 59941,
+  "num_followers": 59959,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDU4NzcxMzlkOWJmYWYzNDJmYTNiMDA0MGI4ZDkyY2Q5",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDYzYWRkNTNlZWEzNjVjZTNjNGFjNTkzOGYxMDVhYzRj",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -259,22 +259,6 @@
       "duration_ms": 386373,
       "name": "Dazed and Confused - 1990 Remaster",
       "url": "https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "It's A Shame About Ray (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji"
-      },
-      "artists": [
-        {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Mrs. Robinson - Remastered",
-      "url": "https://open.spotify.com/track/5EugXICXL06waHgP4iTI58"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -663,6 +647,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Love Goes: Live at Abbey Road Studios",
+        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 232128,
+      "name": "Time After Time - Live At Abbey Road Studios",
+      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 247240,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/6HbTF52swZiGSJ2cvAJ7PU"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Love Goes: Live at Abbey Road Studios",
-        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 232128,
-      "name": "Time After Time - Live At Abbey Road Studios",
-      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -895,22 +879,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Lap Of Luxury",
-        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -923,6 +891,22 @@
       "duration_ms": 160093,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Lap Of Luxury",
+        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1231,6 +1215,26 @@
       "duration_ms": 190751,
       "name": "Let's Spend the Night Together - 2013 Remaster",
       "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Nu Funk",
+        "url": "https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv"
     }
   ],
   "unique_name": "Covers Padres",

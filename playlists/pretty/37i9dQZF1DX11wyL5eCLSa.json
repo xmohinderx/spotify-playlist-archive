@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 140011,
+  "num_followers": 140045,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNjA3OCwwMDAwMDAwMDg1YjI2MzUwNjc1OTY3OWJiNWM4OGZiZGYyMzkxMDJh",
+  "snapshot_id": "MTY3NDgzNjA3OCwwMDAwMDAwMDBiZjRkMjU4YzZjNDdjNDU4ZGQ5YzcwYjA0NThmZmY4",
   "tracks": [
     {
       "added_at": "2022-12-16 06:00:00",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
     },
     {
+      "added_at": "2022-09-27 21:37:51",
+      "album": {
+        "name": "De la Orqu\u00eddea y la Avispa",
+        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 407449,
+      "name": "De la Orqu\u00eddea y la Avispa",
+      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
+    },
+    {
       "added_at": "2022-11-25 06:00:00",
       "album": {
         "name": "T\u00f3xico",
@@ -711,22 +727,6 @@
       "duration_ms": 229927,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV"
-    },
-    {
-      "added_at": "2022-09-27 21:37:51",
-      "album": {
-        "name": "De la Orqu\u00eddea y la Avispa",
-        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 407449,
-      "name": "De la Orqu\u00eddea y la Avispa",
-      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "HASTA SIEMPRE",
-        "url": "https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "HASTA SIEMPRE",
-      "url": "https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "C\u00e1llame",
         "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 187693,
       "name": "C\u00e1llame",
       "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "HASTA SIEMPRE",
+        "url": "https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "HASTA SIEMPRE",
+      "url": "https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha"
     },
     {
-      "added_at": "2023-02-07 00:58:11",
+      "added_at": "2023-02-08 00:47:37",
       "album": {
         "name": "Recovered Files",
         "url": "https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
     },
     {
-      "added_at": "2023-02-07 00:58:11",
+      "added_at": "2023-02-08 00:47:37",
       "album": {
         "name": "Cuchillos",
         "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
     },
     {
-      "added_at": "2023-02-07 00:58:11",
+      "added_at": "2023-02-08 00:47:37",
       "album": {
         "name": "Pronto",
         "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
     },
     {
-      "added_at": "2023-02-07 00:58:11",
+      "added_at": "2023-02-08 00:47:37",
       "album": {
         "name": "Noche Estelar",
         "url": "https://open.spotify.com/album/0CDcUKQydmwaQ0zHdXwMo5"

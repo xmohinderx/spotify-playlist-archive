@@ -4,13 +4,13 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: Anatomy Rabbit
 
-62 songs - 3 hr 58 min
+63 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [BTS](https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [BTS](https://open.spotify.com/album/7bmozsYfL8Yh0UNun8onhO) | 2:43 | 2023-01-10 | 2023-01-19 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2022-09-15 |  |
-| [How Are You](https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [How Are You](https://open.spotify.com/album/4TcQkMW5XgnYQ4E6awBd9T) | 2:42 | 2022-09-15 |  |
+| [How Are You](https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [How Are You](https://open.spotify.com/album/4TcQkMW5XgnYQ4E6awBd9T) | 2:42 | 2022-09-15 | 2023-02-08 |
 | [I miss you](https://open.spotify.com/track/0pKBFvPNQ6aSlKk0dA4Jzm) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:08 | 2022-09-15 |  |
 | [KIMINOTO](https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [KIMINOTO](https://open.spotify.com/album/7KRy7dJ1H6oIUdvkF9LXj2) | 3:42 | 2022-09-15 |  |
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-09-15 | 2022-09-24 |
@@ -65,6 +65,7 @@
 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2022-09-15 |  |
 | [แอบหวัง](https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/1ldWFFPGu73WRha8M9P5Eg) | 3:55 | 2022-09-15 | 2022-10-14 |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2022-10-12 |  |
+| [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 | 2023-02-07 |  |
 | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/album/5UnGIM1LOtSJA7Q9OlVUhQ) | 4:24 | 2022-09-15 |  |
 | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/track/6JPKI5LUFagfVszyzPrhsS) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/album/74RNJrNPXeCs1571m5u8tw) | 4:10 | 2022-09-15 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-09-15 |  |

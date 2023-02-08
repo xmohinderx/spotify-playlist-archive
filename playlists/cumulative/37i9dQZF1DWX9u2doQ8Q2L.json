@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "I Have a Dream.",
+        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "All Through the Night",
+      "url": "https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M"
+    },
+    {
+      "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
@@ -650,7 +676,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 207017,
       "name": "Be With You feat. Ai Furihata",
       "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
@@ -1492,7 +1518,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 210079,
       "name": "dead2me.",
       "url": "https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3"
@@ -2310,7 +2336,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
@@ -2968,7 +2994,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 243531,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
@@ -7551,6 +7577,32 @@
     },
     {
       "album": {
+        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193039,
+      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
+      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+    },
+    {
+      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -9087,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "\u30dd\u30e9\u30ed\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "\u30dd\u30e9\u30ed\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30cb\u30e5\u30a6",
         "url": "https://open.spotify.com/album/1vpa6YULMwOolLTOvrfbQC"
       },
@@ -10008,6 +10078,24 @@
       "duration_ms": 206017,
       "name": "\u66b4\u304f\u6625",
       "url": "https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c",
+        "url": "https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl"
+      },
+      "artists": [
+        {
+          "name": "SADFRANK",
+          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304662,
+      "name": "\u6700\u5f8c",
+      "url": "https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL"
     },
     {
       "album": {

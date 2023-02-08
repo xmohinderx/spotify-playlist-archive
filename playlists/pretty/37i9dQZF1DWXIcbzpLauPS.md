@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,495 likes - 61 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,765 likes - 61 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 25 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
 | 26 | [Let Down](https://open.spotify.com/track/2JrPhJ74FfygxtRYMXU0Fk) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Let Down](https://open.spotify.com/album/52ssN73hMqj9cv16Zc0JLp) | 4:29 |
 | 27 | [Kingdom Come](https://open.spotify.com/track/5fETISA0KLKcKb8pRHMgqW) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Dissociation Vacation](https://open.spotify.com/album/40dWOUbTdbTDHgaRIKc58J) | 4:11 |
-| 28 | [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 |
+| 28 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 |
 | 29 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 |
 | 30 | [In The Light Of Innocence](https://open.spotify.com/track/3lOqKMANmDGUTtTBvCPyKf) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [MANIFESTATIONS \(DELUXE EDITION\)](https://open.spotify.com/album/6nBEVXXXly3MKAgqLz8N8W) | 3:00 |
 | 31 | [Majesty](https://open.spotify.com/track/5o9LbFRtoxDRXiJdlPOXSy) | [Morgan Thomaso](https://open.spotify.com/artist/79VoWRyWV2e3rTHm1fb6N0), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF), [Hugo Bringart](https://open.spotify.com/artist/6BZE9AyYDPkfejgH7c4DJs), [Cartoon Theory](https://open.spotify.com/artist/4UPSjbEaWn0LrLoF4f8ipX) | [Majesty](https://open.spotify.com/album/4gosCMpbomQ5OGjbnqeiUn) | 4:41 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 60 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 | 61 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGZjZTJmZmM5YTlmZTNiYjllZDlmYjFhMzZhYTBhM2Qx`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDg0OWM0NDYyMzg1YjA0MDUxODNmNGM3N2FjMjQxZGNk`

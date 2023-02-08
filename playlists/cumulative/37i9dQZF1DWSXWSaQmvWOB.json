@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
+  "description": "Your daily dose of soul-infused music! Cover: WILSN",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 193640,
       "name": "A Little Something to Give",
       "url": "https://open.spotify.com/track/3GC7kMSsdBw45p1YWaDmjh"
+    },
+    {
+      "album": {
+        "name": "Electrophonic Chronic",
+        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257173,
+      "name": "A Man Will Do Wrong",
+      "url": "https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB"
     },
     {
       "album": {
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Those Days Are Over",
+        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174393,
+      "name": "Every Day and Every Night",
+      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
+    },
+    {
+      "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
         "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
       },
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 384265,
       "name": "Footsteps In The Dark",
       "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
@@ -7160,6 +7196,24 @@
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq"
+    },
+    {
+      "album": {
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/0eG3xAfpbnkfytXoElMF8b"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183357,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/60DFlM3IXtn4y1yvbbGbfO"
     },
     {
       "album": {
@@ -11658,7 +11712,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 202832,
       "name": "Woman Like Me",
       "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
@@ -12020,7 +12074,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"

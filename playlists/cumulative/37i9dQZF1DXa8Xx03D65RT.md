@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-536 songs - 22 hr 58 min
+537 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Instant](https://open.spotify.com/track/7hta6fLLGXkCqGbAougUv0) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Instant](https://open.spotify.com/album/5328DpCqwZh9RuWa5RrEwN) | 2:52 | 2022-05-27 | 2022-09-24 |
 | [Intentions](https://open.spotify.com/track/28PUpmaOmhiX2Ib5xGIlak) | [Jan Groenteman](https://open.spotify.com/artist/4tlKMjzOqKfbNZX7NsNlE9) | [Intentions](https://open.spotify.com/album/5R6Hel3EWN4Gis2E2mYCg0) | 2:17 | 2023-01-20 |  |
 | [Io e te](https://open.spotify.com/track/08g5AECj6F4Tq6x50Zba2J) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Io e te](https://open.spotify.com/album/0Svky6kOkcaDUJb0woHTmz) | 2:37 | 2022-05-27 | 2022-09-24 |
-| [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-05-27 |  |
+| [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-05-27 | 2023-02-08 |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-05-27 |  |
 | [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2022-05-27 | 2022-09-24 |
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2022-05-27 | 2023-02-04 |
@@ -532,6 +532,7 @@
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-27 | 2022-09-24 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-05-27 |  |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-05-27 |  |
+| [White](https://open.spotify.com/track/3ywq1JwwitXZ7XXVB0l5f0) | [Salvatore Altavilla](https://open.spotify.com/artist/1fdryWe2TzsSVCIBB46nCv) | [White](https://open.spotify.com/album/3m5fZgrlIJHlhTKHvjyjHi) | 2:12 | 2023-02-06 |  |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-05-27 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-05-27 |  |
 | [Windschatten](https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Windschatten](https://open.spotify.com/album/2gzltlb70rOTWRrj38ROWn) | 2:18 | 2022-05-27 |  |

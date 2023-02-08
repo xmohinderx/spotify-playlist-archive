@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-363 songs - 1 day 13 hr 35 min
+364 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 | 2021-04-21 |  |
+| [Amanecer](https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Amanecer](https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP) | 7:36 | 2023-01-13 |  |
 | [Amida \- Satori & El Mundo Remix](https://open.spotify.com/track/0V2S8wtRZi4OAeCVq4phT8) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN), [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Amida \(Satori & El Mundo Remix\)](https://open.spotify.com/album/196fE693PdI2q6DbNbpMHG) | 6:55 | 2022-12-09 | 2023-01-14 |
 | [Amor Cego](https://open.spotify.com/track/3Vz6j2iEsgmGyjC89bn8tz) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Margarida Encarnação](https://open.spotify.com/artist/05L0Xnr39hVRK3MW0o5rFS) | [Amor Cego](https://open.spotify.com/album/6lJ9Mi6EZmisSqHW08jjOU) | 5:32 | 2022-02-11 | 2022-07-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2021-04-21 | 2022-10-06 |
@@ -55,7 +56,7 @@
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
-| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
+| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-02-08 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |

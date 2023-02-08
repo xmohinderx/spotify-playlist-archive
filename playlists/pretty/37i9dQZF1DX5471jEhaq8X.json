@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Jaziel Avilez",
-  "num_followers": 581033,
+  "num_followers": 581112,
   "original_name": "Corridos 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGFlZTVkZmVkODllMGE4ZGRiMDYzOGYwYmFiYzcxNTE2",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDYwOTc5MmJmNmQ3Y2JkOTMyM2ZjZTIwNjBjYTU1NmVk",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "H\u00e1gase Hombre",
-        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "H\u00e1gase Hombre",
-      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Lavadichi",
         "url": "https://open.spotify.com/album/64Ixc7mGaDYX4fBJhirvnX"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 170277,
       "name": "Lavadichi",
       "url": "https://open.spotify.com/track/1toi8pP6yhA5q4DsEtWCUm"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "H\u00e1gase Hombre",
+        "url": "https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "H\u00e1gase Hombre",
+      "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -911,22 +911,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "El De La Pandilla (En Vivo)",
-        "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
+        "name": "La Morra",
+        "url": "https://open.spotify.com/album/4Cn5hu9eIqZnCAQgMfGOrZ"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Banda Santa y Sagrada",
+          "url": "https://open.spotify.com/artist/3olFGA3n7vT5jACcY4Wsy0"
         }
       ],
-      "duration_ms": 217877,
-      "name": "El De La Pandilla (En Vivo)",
-      "url": "https://open.spotify.com/track/0QgyuDY28jCXnA02KwnHlP"
+      "duration_ms": 141146,
+      "name": "La Morra",
+      "url": "https://open.spotify.com/track/46E4FM38OkpbNqBnNLvWqB"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -951,22 +951,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "La Morra",
-        "url": "https://open.spotify.com/album/4Cn5hu9eIqZnCAQgMfGOrZ"
+        "name": "El De La Pandilla (En Vivo)",
+        "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
       },
       "artists": [
         {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         },
         {
-          "name": "Banda Santa y Sagrada",
-          "url": "https://open.spotify.com/artist/3olFGA3n7vT5jACcY4Wsy0"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 141146,
-      "name": "La Morra",
-      "url": "https://open.spotify.com/track/46E4FM38OkpbNqBnNLvWqB"
+      "duration_ms": 217877,
+      "name": "El De La Pandilla (En Vivo)",
+      "url": "https://open.spotify.com/track/0QgyuDY28jCXnA02KwnHlP"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Hay Les Encargo",
+        "url": "https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Hay Les Encargo",
+      "url": "https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Gente Fina",
         "url": "https://open.spotify.com/album/3xxV96QsW7EzKED8GlGrW7"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 152432,
       "name": "El Cholo Iv\u00e1n",
       "url": "https://open.spotify.com/track/6oHt0BPaAep4m7AJtzxFHa"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Hay Les Encargo",
-        "url": "https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Hay Les Encargo",
-      "url": "https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "INERCIA",
-        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/09GRb357vC0YYOHXb8h0Fx"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216405,
       "name": "El Ni\u00f1o",
       "url": "https://open.spotify.com/track/3Qe8Y6kUmjDiirIEXjxN0X"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "INERCIA",
+        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
     },
     {
       "added_at": "2023-02-03 05:00:00",

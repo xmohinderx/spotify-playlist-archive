@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-29",
-  "description": "Best Bollywood dance songs from last 10 years. Cover - Bhediya",
+  "description": "Best of Bollywood dance from last 10 years. Cover - Bhediya",
   "name": "Bollywood Dance Music",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 253204,
       "name": "Baby Ko Bass Pasand Hai",
       "url": "https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7"
@@ -2579,6 +2579,40 @@
     },
     {
       "album": {
+        "name": "Main Khiladi (From \"Selfiee\")",
+        "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Maya Govind",
+          "url": "https://open.spotify.com/artist/1VPlwlXg09ywVA6p1QmACl"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187099,
+      "name": "Main Khiladi - From \"Selfiee\"",
+      "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
+    },
+    {
+      "album": {
         "name": "Raabta",
         "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
       },
@@ -4076,12 +4110,12 @@
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
       "date_added": "2023-02-03",

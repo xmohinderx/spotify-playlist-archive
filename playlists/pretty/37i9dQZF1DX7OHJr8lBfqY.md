@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 
 > Add some sabor to your summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,019 likes - 111 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,042 likes - 111 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 84 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
 | 85 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
 | 86 | [Adicto \- Salsa Version](https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:51 |
-| 87 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
-| 88 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 |
+| 87 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 |
+| 88 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 89 | [Carne \- Merengue Electrónico Remix](https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne \(Merengue Electrónico Remix\)](https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO) | 3:25 |
 | 90 | [La Serpiente](https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Serpiente](https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv) | 4:15 |
 | 91 | [La Plata \(Los Ángeles Azules Remix\) \(Feat\. Los Ángeles Azules, Lalo Ebratt\)](https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata \(Los Ángeles Azules Remix\)](https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8) | 3:39 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 98 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 |
 | 99 | [Y Qué Pasó?](https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Y Qué Pasó?](https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM) | 3:41 |
 | 100 | [Pues \(with Luis Fonsi & Sean Paul\)](https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Pues \(with Luis Fonsi & Sean Paul\)](https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf) | 2:07 |
-| 101 | [Mara Del Carmen](https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Cornettazos \(Vol.2\)](https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd) | 2:44 |
-| 102 | [Calmarme](https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Calmarme](https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw) | 2:37 |
+| 101 | [Calmarme](https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Calmarme](https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw) | 2:37 |
+| 102 | [Mara Del Carmen](https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Cornettazos \(Vol.2\)](https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd) | 2:44 |
 | 103 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 |
 | 104 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/78VChAFN0gSXTJQz3QOQpw) | 5:37 |
 | 105 | [Traiganme Alcohol](https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:54 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 110 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 |
 | 111 | [Cosas](https://open.spotify.com/track/5dFI94deOPExXpWJftrQ4B) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Cu\-Cu\-Cu Cumbia!](https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH) | 3:04 |
 
-Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMGY0ZTJkYWY3NGYxZjk3NjRmODQ4Yjc0MWVkMDI0ODg1`
+Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDI0ZDNhYWM2NWVhYmQ0MmMyNjZmNGE0MDAwOGUwODJh`

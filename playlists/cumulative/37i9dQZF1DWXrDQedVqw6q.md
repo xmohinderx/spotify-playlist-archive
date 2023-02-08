@@ -4,12 +4,12 @@
 
 > Calm music to help you focus on your reading.
 
-157 songs - 7 hr 22 min
+158 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-03-21 |  |
-| [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 |  |
+| [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
 | [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
 | [Artemis](https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Artemis](https://open.spotify.com/album/4lmVb8zknEw7BpRaLkc6mQ) | 2:25 | 2022-03-21 |  |
 | [At Ease](https://open.spotify.com/track/0EkXqaHCTYzqJm3rsbYe58) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 3:18 | 2022-03-21 |  |
@@ -38,6 +38,7 @@
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
 | [Decades](https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc) | [The Crystal Cathedral](https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm) | [Centripetal](https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S) | 2:10 | 2022-05-25 |  |
+| [Deep Within](https://open.spotify.com/track/0FaSKlbK9bwEMOOJHNyMLA) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Rivers](https://open.spotify.com/album/4DzK9W49A6txvjZYS77MOc) | 2:05 | 2023-02-07 |  |
 | [Desert Silhouette](https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:43 | 2022-03-21 |  |
 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 | 2022-03-21 | 2022-08-13 |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2022-03-21 |  |
@@ -159,7 +160,7 @@
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2022-03-21 |  |
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2022-03-21 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-03-21 |  |
-| [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2022-03-21 |  |
+| [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2022-03-21 | 2023-02-08 |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-09-30 |  |
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-03-21 |  |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2022-03-21 | 2022-08-13 |

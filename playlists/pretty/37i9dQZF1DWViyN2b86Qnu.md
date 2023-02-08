@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,439 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,484 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 75 | [Yandere](https://open.spotify.com/track/6a9gDPGHaLfiM2XYrKXOVy) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Yandere](https://open.spotify.com/album/3Np4ztZJFfK4IGT72lzqUo) | 3:31 |
 | 76 | [Dysphøria](https://open.spotify.com/track/7EERmr3BgKN2AytN7wSiVp) | [Ezzy](https://open.spotify.com/artist/4Q5X4WCusKh5HIPcdN779z) | [Mother](https://open.spotify.com/album/6GVLNfMWPtOf4NYT1tRAbM) | 3:01 |
 | 77 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
-| 78 | [Perfect Day](https://open.spotify.com/track/2xGZuq8FD3mSw5tkqN25Z8) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/0DnbC84879BiVOxxvb3LpU) | 3:09 |
+| 78 | [Perfect Day](https://open.spotify.com/track/2EXdesGRR8FYGIwlcFyJZN) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/6i8kpS3QkfUDXjqvDg2pQf) | 3:09 |
 | 79 | [Cruise Control](https://open.spotify.com/track/7844B2wDjPgnn5KoMQp7py) | [CJ Run](https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl) | [Cruise Control](https://open.spotify.com/album/4YVLikNjjKfh078gDDwA4l) | 2:20 |
 | 80 | [Brooklyn](https://open.spotify.com/track/5oAbKZU67TxgxrcyMASbdg) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [Brooklyn](https://open.spotify.com/album/1Liq7qmM7SRYKdwtZBqoBa) | 3:28 |
 | 81 | [Cherry Pits](https://open.spotify.com/track/27xdKxIYRlXErxVK3k2bsR) | [Grayson](https://open.spotify.com/artist/2ElEn7LIxvcN1icdhbw2WM) | [Cherry Pits](https://open.spotify.com/album/6UCKuzFtM3pEmIbmurBLzG) | 3:26 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [PAPERBAG](https://open.spotify.com/track/0t2vdbbw2HHbPhhZfXk5oc) | [closegood](https://open.spotify.com/artist/5ccNPpXpCTFMhvcytsGahy) | [GRAVEN](https://open.spotify.com/album/3xnGWmpQDODDH8Rx1cEDxQ) | 4:04 |
 | 86 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 
-Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMGI2NzBkMDJmMzk5ZDdmZTRjZmRhYjA4Y2JlNGY1M2Nh`
+Snapshot ID: `MTY3NDQ3ODgwMCwwMDAwMDAwMDMyMmNkNmY5Zjc2OTMxNDNhYmIxODQyYTVlNDVmMjcx`

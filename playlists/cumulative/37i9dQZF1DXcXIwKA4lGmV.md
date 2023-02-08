@@ -4,7 +4,7 @@
 
 > Songs all about cleaning up.
 
-37 songs - 1 hr 14 min
+38 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 1:33 | 2022-04-08 |  |
 | [Cleaning Up Is Fun](https://open.spotify.com/track/3FvjTQN8pgwcXRHlywrSET) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 2:17 | 2022-04-08 |  |
 | [Cleanup Song](https://open.spotify.com/track/6MDIYpxszXLSjzXSttR83O) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [We Did It! Dora's Greatest Hits](https://open.spotify.com/album/2PsQyBDm80E6A8fypVFRpE) | 1:08 | 2022-04-08 |  |
-| [Cleanup Time](https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:09 | 2022-04-08 |  |
+| [Cleanup Time](https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:09 | 2022-04-08 | 2023-02-08 |
+| [Cleanup Time](https://open.spotify.com/track/3VrfXKrVMQZ77LDWMtF0qH) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask the StoryBots: Season 1 \(Music from the Original Series\)](https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv) | 1:09 | 2022-04-08 |  |
 | [It's Time to Clean up](https://open.spotify.com/track/4uP8Seg6N41O0RTh6qbdTe) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [The Cast of Baby Shark's Big Show!](https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty) | [Sing, Dance and Sway the Nick Jr\. Way](https://open.spotify.com/album/4FC0qzA9OIDEA8ugligowD) | 1:13 | 2022-04-08 |  |
 | [It's Time to Clean up](https://open.spotify.com/track/72HZ1fDce0xUx5D1Fdviw9) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [The Cast of Baby Shark's Big Show!](https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty) | [Sing, Dance and Sway the Nick Jr\. Way](https://open.spotify.com/album/3uv14cpSLyXwy5xS7YKR6a) | 1:13 | 2022-04-08 | 2022-11-24 |
 | [It's Time to Clean up](https://open.spotify.com/track/7yM9sEM9e6uVLkBFfVxNIJ) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [The Cast of Baby Shark's Big Show!](https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty) | [Sing, Dance and Sway the Nick Jr\. Way](https://open.spotify.com/album/4kWDN6lNfJEgev5ePUltp5) | 1:13 | 2022-04-08 | 2022-10-13 |

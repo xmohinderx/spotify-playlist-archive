@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Pauline Herr.
 
-312 songs - 17 hr 37 min
+313 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Cosmopolitan](https://open.spotify.com/track/2e9cFzK33DGQC7mFGttobb) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/2MKcMdWlOzYDIkfqrRMakg) | 4:42 | 2021-08-06 | 2022-08-26 |
 | [Cosmopolitan](https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT) | 4:42 | 2021-08-06 |  |
 | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/album/0tuQ95JwJSUnvY7W9mhBxW) | 3:29 | 2021-12-10 | 2022-07-29 |
+| [Cross Me](https://open.spotify.com/track/6OXTbzpfIyd3e8wDB1QQnD) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Cross Me](https://open.spotify.com/album/6zVp3A8lkZjrDOAxExLdMi) | 4:16 | 2022-12-21 |  |
 | [Crossed Our Hearts](https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Crossed Our Hearts](https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o) | 2:50 | 2022-05-13 | 2022-07-26 |
 | [Cycling](https://open.spotify.com/track/4ScdQLPm7fMIQml0DE08ma) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Cycling](https://open.spotify.com/album/3h2Xqowif9LUc2K9ILEl3J) | 2:21 | 2021-11-05 | 2022-07-29 |
 | [Data Loss](https://open.spotify.com/track/01dDqYaIA4XfEYGZE0z5fc) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/0yQhlu3llmo7FbSRTnwofc) | [Data Loss](https://open.spotify.com/album/14HAMBubGgZ3Z8a5reC8XI) | 2:45 | 2021-08-06 | 2022-04-20 |
@@ -118,7 +119,7 @@
 | [Gone](https://open.spotify.com/track/3HyRkTF1i9caeQJnF6tTrq) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx) | [Gone](https://open.spotify.com/album/2x1W7WwTY1lTWaHREYUETQ) | 2:39 | 2021-09-03 | 2022-07-29 |
 | [Gone](https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [RESET](https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr) | 3:10 | 2021-08-06 | 2023-02-04 |
 | [Gone \- Sam Day Remix](https://open.spotify.com/track/3DXtDgmb9A3Gp5Dd5EF6tI) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Gone \(Sam Day Remix\)](https://open.spotify.com/album/2WlydDZM5ADjOfN3W2liUx) | 2:38 | 2022-04-22 | 2022-07-29 |
-| [Gone \- Sam Day Remix](https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Mazde: The Remixes](https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR) | 2:38 | 2022-12-21 |  |
+| [Gone \- Sam Day Remix](https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Mazde: The Remixes](https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR) | 2:38 | 2022-12-21 | 2023-02-08 |
 | [Grateful](https://open.spotify.com/track/0b4FAp9BjRoh9MmCs3TI0D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Disconnect](https://open.spotify.com/album/46oF8bPSYc6DHs2PpqViTG) | 3:58 | 2021-08-06 | 2022-06-18 |
 | [Half Way Home](https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Half Way Home](https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh) | 2:57 | 2021-08-06 |  |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2021-08-06 |  |

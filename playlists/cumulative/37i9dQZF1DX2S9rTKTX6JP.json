@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "All Animal",
+        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
+      },
+      "artists": [
+        {
+          "name": "Through Fire",
+          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP"
+    },
+    {
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2jx7CKfpInHEB5DT6wT8kf"
       },
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 194259,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"

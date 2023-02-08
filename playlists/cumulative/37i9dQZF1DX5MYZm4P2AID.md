@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from Outer Banks and get ready for Poguelanida, tickets available now.
 
-121 songs - 7 hr 9 min
+123 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Airwalkin'](https://open.spotify.com/track/3nay2OjMdoZwdf9Tc1dDFc) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5xSRTWBpIFJZZGGRjxNP4F) | 3:35 | 2021-10-26 |  |
 | [Astral Man](https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 5:34 | 2023-02-03 |  |
 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 | 2021-10-26 |  |
-| [Bad Kids](https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:08 | 2021-10-26 |  |
+| [Bad Kids](https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:08 | 2021-10-26 |  |
+| [Bad Kids](https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:08 | 2021-10-26 | 2023-02-08 |
 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 | 2023-02-03 |  |
 | [Blind Owl Speaks](https://open.spotify.com/track/0xOovVTYpofAvNbopgnaAP) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Hard In Heaven](https://open.spotify.com/album/2kWFEQB3tNG5KDxUciuX2f) | 3:21 | 2021-10-26 |  |
 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys Electric Trio](https://open.spotify.com/artist/0RDTYsBKxXbpvqowB0IATm) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 | 2021-10-26 |  |
@@ -122,7 +123,8 @@
 | [Under My Tongue](https://open.spotify.com/track/2OikEBxAnm5UfC0Ag6VCsa) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Strange Nights](https://open.spotify.com/album/0XYNxkfhrnGvbmyOrfcx83) | 2:54 | 2021-10-26 |  |
 | [Unholy Water](https://open.spotify.com/track/6mHVjUXnlKkL6QuzWrMJB6) | [John Pearson](https://open.spotify.com/artist/6IEFxETlf7tJrUh7bxTJsG), [Chase Perryman](https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ) | [Unholy Water](https://open.spotify.com/album/5CPC5xSw0J7qwPVRZqOpOV) | 3:09 | 2021-10-26 |  |
 | [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 4:56 | 2021-10-26 |  |
-| [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-10-26 |  |
+| [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-10-26 | 2023-02-08 |
+| [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 | 2021-10-26 |  |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-10-26 |  |
 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 | 2021-10-26 |  |
 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 | 2023-02-03 |  |

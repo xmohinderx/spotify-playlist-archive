@@ -2,7 +2,7 @@
 
 ### [Disney Junior Hits](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Sing\-along with your favorite songs from Disney Junior shows including new music from Spidey and His Amazing Friends! Watch now on Disney Junior, Disney Channel, and Disney+.
+> Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
 174 songs - 4 hr 25 min
 

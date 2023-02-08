@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lizzy Parra",
-  "num_followers": 117076,
+  "num_followers": 117193,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDI0OWVjZmZkZjJhYWFlYjFjODc2NTBlYTg5ZjU2MTYy",
+  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDFmZDY5NmVlYjg1Y2I2NmM1Y2FkYjNjNDAwNTU3OGI3",
   "tracks": [
     {
       "added_at": "2023-02-03 09:29:24",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "La Oraci\u00f3n",
-        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "La Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "No Hay Presos",
         "url": "https://open.spotify.com/album/4ClQGCjvhCkYX1ppjuqs0p"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 172492,
       "name": "No Hay Presos",
       "url": "https://open.spotify.com/track/20ml2Zkdaj5ccRuWvh2l6c"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "La Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "La Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
+        "name": "And\u00e1 Pa\u00b4 Sha",
+        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
       },
       "artists": [
         {
-          "name": "Addy Juarez",
-          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 331040,
-      "name": "Libertad Me Das",
-      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
+      "duration_ms": 178882,
+      "name": "And\u00e1 Pa\u00b4 Sha",
+      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
+      },
+      "artists": [
+        {
+          "name": "Addy Juarez",
+          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
+        }
+      ],
+      "duration_ms": 331040,
+      "name": "Libertad Me Das",
+      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
         "name": "Sal y Vive",
         "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 298012,
       "name": "Sal y Vive",
       "url": "https://open.spotify.com/track/05ROv3uLNok7qSb2xE08lB"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
-        "name": "And\u00e1 Pa\u00b4 Sha",
-        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 178882,
-      "name": "And\u00e1 Pa\u00b4 Sha",
-      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "El Protagonista",
-        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Cielo",
-          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
-        }
-      ],
-      "duration_ms": 299535,
-      "name": "El Protagonista",
-      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Puedo Enfrentar el Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0QJ4NvCOr3fRowWRxs42Ki"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 321849,
       "name": "Puedo Enfrentar el Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3upZcCPBgSqNXSpg2mkYcL"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "El Protagonista",
+        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Cielo",
+          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
+        }
+      ],
+      "duration_ms": 299535,
+      "name": "El Protagonista",
+      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1215,7 +1215,7 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "M\u00f3ntate al Bus",
+        "name": "M\u00f3ntate al Bus (Elegidos)",
         "url": "https://open.spotify.com/album/4kaomZ0tJuS2ZnGoe5tgTm"
       },
       "artists": [
@@ -1233,7 +1233,7 @@
         }
       ],
       "duration_ms": 172677,
-      "name": "M\u00f3ntate al Bus",
+      "name": "M\u00f3ntate al Bus - Elegidos",
       "url": "https://open.spotify.com/track/6GI9MH1QvGxTW6dWK8BjV7"
     },
     {
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Feliz Junto a Ti",
-        "url": "https://open.spotify.com/album/1KdpVaGRotQJkPIWtWVD0z"
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/3tLscGoKbHifml2hGycW6G"
       },
       "artists": [
         {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+          "name": "Michael R. Hicks",
+          "url": "https://open.spotify.com/artist/37jKFfAIHyQolYpr9fu0Eu"
         },
         {
-          "name": "Gonzal3s",
-          "url": "https://open.spotify.com/artist/78bje7s3ommLjgD6zHByvk"
+          "name": "Rebecca Lopez",
+          "url": "https://open.spotify.com/artist/2DBGQTPe2WwUndDPmHl7Ny"
         }
       ],
-      "duration_ms": 219482,
-      "name": "Feliz Junto a Ti",
-      "url": "https://open.spotify.com/track/6TAFp2cs0qpPCd4T4HiKWB"
+      "duration_ms": 274000,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/1TDbAAawFaGflMhaV3uXVM"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Se\u00f1or, Te Necesito",
-        "url": "https://open.spotify.com/album/3tLscGoKbHifml2hGycW6G"
+        "name": "Feliz Junto a Ti",
+        "url": "https://open.spotify.com/album/1KdpVaGRotQJkPIWtWVD0z"
       },
       "artists": [
         {
-          "name": "Michael R. Hicks",
-          "url": "https://open.spotify.com/artist/37jKFfAIHyQolYpr9fu0Eu"
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
         },
         {
-          "name": "Rebecca Lopez",
-          "url": "https://open.spotify.com/artist/2DBGQTPe2WwUndDPmHl7Ny"
+          "name": "Gonzal3s",
+          "url": "https://open.spotify.com/artist/78bje7s3ommLjgD6zHByvk"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Se\u00f1or, Te Necesito",
-      "url": "https://open.spotify.com/track/1TDbAAawFaGflMhaV3uXVM"
+      "duration_ms": 219482,
+      "name": "Feliz Junto a Ti",
+      "url": "https://open.spotify.com/track/6TAFp2cs0qpPCd4T4HiKWB"
     },
     {
       "added_at": "2023-02-03 09:29:24",

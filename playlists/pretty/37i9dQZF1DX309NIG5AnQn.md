@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,975 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,978 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 51 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 |
 | 52 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 |
 | 53 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 |
-| 54 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 |
+| 54 | [Close Talker](https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa) | 3:17 |
 | 55 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 |
 | 56 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 |
 | 57 | [Cancion de Julio Verne](https://open.spotify.com/track/2o8fDSQ7LV6X8rAKUcS5aE) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [PAOLETTI..\. En la ruta del árbol, en busca de la canción perfecta..\. VERSIONES](https://open.spotify.com/album/3fw0qnrZlKJeg6Mco0LPCC) | 3:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 78 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 |
 | 79 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 
-Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMDY1NjQ3NTM0NmYwYmUwYjNhMGVlMThmNjM5YWJhZmFk`
+Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMGVlMjU1NjI0ZjBmNDgyY2VlNmVlYjExN2ZhNjU1ZWMz`

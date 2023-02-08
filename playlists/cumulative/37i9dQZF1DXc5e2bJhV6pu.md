@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,422 songs - 3 day 8 hr 48 min
+1,423 songs - 3 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa) | 3:11 | 2019-12-18 | 2022-07-29 |
 | [Better Days](https://open.spotify.com/track/2i7ApT6DmshyvUA6MtOG7T) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Better Days](https://open.spotify.com/album/7GsTFeqwnbRCGVDb9SuAeV) | 3:21 | 2020-09-25 | 2022-04-05 |
 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 | 2020-04-09 | 2022-07-18 |
-| [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2022-04-14 |  |
+| [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2022-04-14 | 2023-02-08 |
 | [Better Not \(feat\. Wafia\)](https://open.spotify.com/track/447yWcDPg1ddgcHBLGpJC0) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Better Not \(feat\. Wafia\)](https://open.spotify.com/album/1hgHJzbzZskVlYIZ57FCVQ) | 3:42 | 2019-07-31 | 2022-04-19 |
 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2019-07-29\* | 2019-07-30 |
 | [Better Than](https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Grand National](https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw) | 3:29 | 2019-08-09 | 2022-04-05 |
@@ -1290,6 +1290,7 @@
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2021-03-08 | 2021-05-21 |
 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 | 2021-05-22 | 2022-04-16 |
 | [Trust My Lonely](https://open.spotify.com/track/0qbfdprRS71e9up5pOmbQo) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Trust My Lonely](https://open.spotify.com/album/4iR14uwNYqUWinAGX6fM0P) | 3:19 | 2019-08-28 | 2022-04-16 |
+| [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-30 |  |
 | [Truth Hurts](https://open.spotify.com/track/4HFpIAtiojlAuYNmITpYGn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Truth Hurts](https://open.spotify.com/album/6VShAGgB6UigYcp2hNcyHh) | 2:53 | 2019-08-02 | 2019-08-04 |
 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 | 2019-08-26 | 2022-04-01 |
 | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/track/08cwfDPFsafkT8KVaXnuTO) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/album/0gtMxwn3qORUhOmxbqg1zI) | 3:32 | 2021-05-21 | 2021-05-22 |

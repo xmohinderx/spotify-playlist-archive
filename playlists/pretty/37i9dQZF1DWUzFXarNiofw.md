@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,261 likes - 104 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,767 likes - 104 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

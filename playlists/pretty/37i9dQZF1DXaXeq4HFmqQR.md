@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Loyaltty y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,112 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 17 | [PERREO PA LAS NENAS](https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:56 |
 | 18 | [Lehia](https://open.spotify.com/track/06DRbxvGPWBfUc5mf8ka0Y) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Lehia](https://open.spotify.com/album/1DlDbvxnUDtT2RnWXYzP8F) | 2:46 |
-| 19 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
-| 20 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
+| 19 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
+| 20 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
 | 21 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
 | 22 | [Ley Seca](https://open.spotify.com/track/3HU1hZwW0Ga7QUng9Qsc0e) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Ley Seca](https://open.spotify.com/album/591obbcRDbeiyNObOOsIAG) | 2:15 |
 | 23 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Desconfia](https://open.spotify.com/track/6S2GReB5OOrDXZdr2l6vcm) | [Anamias Ixaya](https://open.spotify.com/artist/0oMQkNMyylPQB8NKVVjEWK), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Proyecto Fresia](https://open.spotify.com/album/3tjRB8i1dJ8Moin1F0RKjp) | 2:50 |
 | 50 | [Fuega](https://open.spotify.com/track/2nh8GLnWGZwGUUryJfSlNf) | [La Lola](https://open.spotify.com/artist/76fJm7snE4sS86N9gd7tnT) | [Fuega](https://open.spotify.com/album/5xOlrYq3hPU7PFhyCf0jAg) | 2:51 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDc0YjY1YTYwMGY1M2IwYTFmOGNhZDE1MWQ0OWI4Mzhm`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDkzZDEwZWNjMzc3YTE2Y2MzOWE0ZDVmMzkwNjcwMTU0`

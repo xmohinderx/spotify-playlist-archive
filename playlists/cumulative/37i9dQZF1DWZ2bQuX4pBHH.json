@@ -737,9 +737,9 @@
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 343066,
+      "duration_ms": 265926,
       "name": "Do Pal",
-      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
+      "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
     },
     {
       "album": {
@@ -1350,40 +1350,6 @@
       "duration_ms": 297866,
       "name": "Kuch Kuch Hota Hai",
       "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
-    },
-    {
-      "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
-      },
-      "artists": [
-        {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
-        },
-        {
-          "name": "Yash Chopra",
-          "url": "https://open.spotify.com/artist/4uQodNxbtN3iAuSGSEg8QJ"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
-        }
-      ],
-      "date_added": "2022-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265926,
-      "name": "Kyon Hawa",
-      "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
     },
     {
       "album": {
@@ -2670,6 +2636,36 @@
       "duration_ms": 468293,
       "name": "Ye Kaali Kaali Aankhen",
       "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343066,
+      "name": "Yeh Hum Aa Gaye Hain Kahaan",
+      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
     },
     {
       "album": {

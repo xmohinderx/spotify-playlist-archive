@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 192715,
       "name": "Lost in Thought",
       "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 184850,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7"
@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
@@ -5992,6 +5992,24 @@
       "duration_ms": 192859,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "album": {

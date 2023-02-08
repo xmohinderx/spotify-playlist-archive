@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMGViMzIzODY5MWYwNGZjN2Q5Y2QyMWEzNjY3NTcxMGU5",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDA0ZTFkNTM4MDBkMWU4MGYxNTUyM2VhYzhjNWYzOGMz",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5IiELU5sxBPtW71GF2QlK7"
-      },
-      "artists": [
-        {
-          "name": "Charisma",
-          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/088AALvEe9JhLFSNZe9axa"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Fr\u00fchst\u00fcck am Bett",
         "url": "https://open.spotify.com/album/4rBnwHH6maKF0WbAi3OTHA"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5IiELU5sxBPtW71GF2QlK7"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/088AALvEe9JhLFSNZe9axa"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
         "name": "Schei\u00df drauf",
         "url": "https://open.spotify.com/album/3vD1dWifnWS1IRyJgywEJc"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 151066,
       "name": "Schei\u00df drauf",
       "url": "https://open.spotify.com/track/0mqYUVw9Y4SFR5HwLtixVc"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd"
+      },
+      "artists": [
+        {
+          "name": "EAZI",
+          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -219,34 +235,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd"
+        "name": "Rhymorator",
+        "url": "https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW"
       },
       "artists": [
         {
-          "name": "EAZI",
-          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 137933,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw"
+      "duration_ms": 152380,
+      "name": "Rhymorator",
+      "url": "https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Rhymorator",
-        "url": "https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW"
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB"
       },
       "artists": [
         {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Rhymorator",
-      "url": "https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy"
+      "duration_ms": 148900,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
+        "name": "Blaues Kleid",
+        "url": "https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Blaues Kleid",
+      "url": "https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
         "name": "The More I Bite",
         "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Blaues Kleid",
-        "url": "https://open.spotify.com/album/1XsIzAV1ikJKewJl9Jrr3c"
+        "name": "Nie wieder lieben",
+        "url": "https://open.spotify.com/album/7CgxVFIWA5xaE7EpkZspKx"
       },
       "artists": [
         {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+          "name": "Zemine",
+          "url": "https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ"
         }
       ],
-      "duration_ms": 167750,
-      "name": "Blaues Kleid",
-      "url": "https://open.spotify.com/track/6z0POlmbcfoQrDFEnGuOiz"
+      "duration_ms": 192000,
+      "name": "Nie wieder lieben",
+      "url": "https://open.spotify.com/track/76L2zQcFKry2jymKVskX1H"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -423,22 +439,6 @@
       "duration_ms": 237357,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/12cUrqvuiDOPWiHaEl6Ao0"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
-        "name": "Nie wieder lieben",
-        "url": "https://open.spotify.com/album/7CgxVFIWA5xaE7EpkZspKx"
-      },
-      "artists": [
-        {
-          "name": "Zemine",
-          "url": "https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nie wieder lieben",
-      "url": "https://open.spotify.com/track/76L2zQcFKry2jymKVskX1H"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
-      },
-      "artists": [
-        {
-          "name": "Liyah",
-          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
-        }
-      ],
-      "duration_ms": 152419,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "unser outro",
         "url": "https://open.spotify.com/album/4b57lz0ovywOxXdwO1Yzsd"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "genug",
-        "url": "https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ"
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi"
       },
       "artists": [
         {
-          "name": "IUMA",
-          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
+          "name": "Liyah",
+          "url": "https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR"
         }
       ],
-      "duration_ms": 222874,
-      "name": "genug",
-      "url": "https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0"
+      "duration_ms": 152419,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 379965,
       "name": "Power of Today",
       "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "genug",
+        "url": "https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ"
+      },
+      "artists": [
+        {
+          "name": "IUMA",
+          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
+        }
+      ],
+      "duration_ms": 222874,
+      "name": "genug",
+      "url": "https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0"
     },
     {
       "added_at": "2023-01-31 23:00:00",

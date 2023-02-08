@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Thierry Larose",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Les Louanges",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 169702,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb"
@@ -4430,6 +4430,28 @@
       "duration_ms": 228668,
       "name": "Supermonkeyball",
       "url": "https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn"
+    },
+    {
+      "album": {
+        "name": "Sur la m\u00e9lodie (feat. Ichon)",
+        "url": "https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        },
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Sur la m\u00e9lodie (feat. Ichon)",
+      "url": "https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w"
     },
     {
       "album": {

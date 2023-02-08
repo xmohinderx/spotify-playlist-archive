@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 37981,
+  "num_followers": 38047,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMGYzODQ0M2RiMjFjMjE0ODQ2MjM2MzQ0ZDdkOGUwODVi",
+  "snapshot_id": "MTY3NTM4MjQwMCwwMDAwMDAwMDQ1MTc0MzJhN2VjZTJiMjEzMWI4NWU0NTc2Y2JhMmEx",
   "tracks": [
     {
       "added_at": "2023-02-03 00:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-03 00:00:00",
       "album": {
-        "name": "Fendi",
-        "url": "https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb"
-      },
-      "artists": [
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Fendi",
-      "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 240594,
       "name": "La Bella Mafia",
       "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Fendi",
+        "url": "https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Fendi",
+      "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
     },
     {
       "added_at": "2023-02-03 00:00:00",

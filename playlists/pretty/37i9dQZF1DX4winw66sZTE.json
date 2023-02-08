@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8749,
+  "num_followers": 8779,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDNiMjY4YjVjNjUxY2U1YWQ1OTU0YjhiMjA2MWNkMzUw",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDk2MGViOTU0ODMyZDgxMDgzNGQ4M2MxMDIwOTc0NjEy",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 288915,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -591,8 +591,8 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231748,
-      "name": "FXXK IT",
-      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -759,8 +759,8 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 256359,
-      "name": "Haru Haru",
-      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Why So Lonely",
-      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Odd - The 4th Album",
         "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 190821,
       "name": "View",
       "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
-      },
-      "artists": [
-        {
-          "name": "miss A",
-          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
       },
@@ -1263,34 +1247,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
       },
       "artists": [
         {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
         }
       ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+      "duration_ms": 186799,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1311,18 +1279,34 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1339,6 +1323,22 @@
       "duration_ms": 214427,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "added_at": "2021-03-01 03:07:22",

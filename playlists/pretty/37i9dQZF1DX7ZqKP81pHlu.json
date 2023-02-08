@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits alg\u00e9riens du moment.",
-  "num_followers": 95906,
+  "num_followers": 95951,
   "original_name": "DZ Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY3OTc1MSwwMDAwMDAwMDE1YjRkOGNhOWY1YzhlMGEyMjkwMTRiZmNiN2M0Zjc2",
+  "snapshot_id": "MTY3NTgwMjE4OSwwMDAwMDAwMDNjMjNkZGIzZDZiYWRmM2UyZjRmNjI5ZmU0MDdmNDQ2",
   "tracks": [
     {
       "added_at": "2023-02-03 06:53:09",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
     },
     {
+      "added_at": "2023-02-07 20:36:29",
+      "album": {
+        "name": "Fi Lamane",
+        "url": "https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Fi Lamane",
+      "url": "https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A"
+    },
+    {
       "added_at": "2023-02-03 06:53:09",
       "album": {
         "name": "Halef",
@@ -103,22 +119,6 @@
       "duration_ms": 210665,
       "name": "Halef",
       "url": "https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa"
-    },
-    {
-      "added_at": "2023-02-06 09:55:07",
-      "album": {
-        "name": "Effet De L'amour",
-        "url": "https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX"
-      },
-      "artists": [
-        {
-          "name": "Faycel Sghir",
-          "url": "https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1"
-        }
-      ],
-      "duration_ms": 314083,
-      "name": "Effet De L'Amour",
-      "url": "https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V"
     },
     {
       "added_at": "2023-02-03 06:53:09",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS"
     },
     {
-      "added_at": "2023-02-03 06:53:09",
+      "added_at": "2023-02-06 09:55:07",
       "album": {
-        "name": "Fik Ou Fik",
-        "url": "https://open.spotify.com/album/5DGXbz9GaYFFZYeLWk1j2x"
+        "name": "Effet De L'amour",
+        "url": "https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX"
       },
       "artists": [
         {
-          "name": "Fouzi Torino",
-          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+          "name": "Faycel Sghir",
+          "url": "https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1"
         }
       ],
-      "duration_ms": 284324,
-      "name": "Fik Ou Fik",
-      "url": "https://open.spotify.com/track/3e5o3HId07wIlcT2rM2vWh"
+      "duration_ms": 314083,
+      "name": "Effet De L'Amour",
+      "url": "https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V"
     },
     {
       "added_at": "2023-02-06 10:35:25",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-02-03 06:53:09",
       "album": {
+        "name": "Fik Ou Fik",
+        "url": "https://open.spotify.com/album/5DGXbz9GaYFFZYeLWk1j2x"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        }
+      ],
+      "duration_ms": 284324,
+      "name": "Fik Ou Fik",
+      "url": "https://open.spotify.com/track/3e5o3HId07wIlcT2rM2vWh"
+    },
+    {
+      "added_at": "2023-02-03 06:53:09",
+      "album": {
         "name": "3ayech Lili (\u0639\u0627\u064a\u0634 \u0644\u064a\u0644\u064a)",
         "url": "https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz"
       },
@@ -275,30 +291,6 @@
       "duration_ms": 180000,
       "name": "SAH",
       "url": "https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp"
-    },
-    {
-      "added_at": "2023-02-03 06:53:09",
-      "album": {
-        "name": "Ghorba",
-        "url": "https://open.spotify.com/album/2fzJHkMuLWU9nHXstA5cw8"
-      },
-      "artists": [
-        {
-          "name": "Medi Meyz",
-          "url": "https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj"
-        },
-        {
-          "name": "Souf",
-          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
-        },
-        {
-          "name": "Mok Saib",
-          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Ghorba",
-      "url": "https://open.spotify.com/track/3toSazVCqpqb4gbDv5oFu1"
     },
     {
       "added_at": "2023-02-03 06:53:09",
@@ -371,26 +363,26 @@
     {
       "added_at": "2023-02-03 06:53:09",
       "album": {
-        "name": "El Walida",
-        "url": "https://open.spotify.com/album/10jXA8hvcNntyPi4DRJWbW"
+        "name": "Ghorba",
+        "url": "https://open.spotify.com/album/2fzJHkMuLWU9nHXstA5cw8"
       },
       "artists": [
         {
-          "name": "Foufa Torino",
-          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+          "name": "Medi Meyz",
+          "url": "https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj"
         },
         {
-          "name": "Kader Japonais",
-          "url": "https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe"
+          "name": "Souf",
+          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
         },
         {
-          "name": "Didine Canon 16",
-          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
         }
       ],
-      "duration_ms": 250146,
-      "name": "El Walida",
-      "url": "https://open.spotify.com/track/0OMWSq7rLnzzZk8xto8BR8"
+      "duration_ms": 225365,
+      "name": "Ghorba",
+      "url": "https://open.spotify.com/track/3toSazVCqpqb4gbDv5oFu1"
     },
     {
       "added_at": "2023-02-03 06:53:09",
@@ -451,6 +443,30 @@
       "duration_ms": 264071,
       "name": "KHABTA",
       "url": "https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK"
+    },
+    {
+      "added_at": "2023-02-03 06:53:09",
+      "album": {
+        "name": "El Walida",
+        "url": "https://open.spotify.com/album/10jXA8hvcNntyPi4DRJWbW"
+      },
+      "artists": [
+        {
+          "name": "Foufa Torino",
+          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+        },
+        {
+          "name": "Kader Japonais",
+          "url": "https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "El Walida",
+      "url": "https://open.spotify.com/track/0OMWSq7rLnzzZk8xto8BR8"
     },
     {
       "added_at": "2023-02-03 06:53:09",

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127147,
+  "num_followers": 127148,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk2MyxkYTY5OTFhNmUzMzRkMzNjYmYyODc3MDZmYTI1NzNiNWM1OGU1MTli",
+  "snapshot_id": "Mzk2OSwyMzE5N2E3NGRjZWU2MjRhZjYyNWUyZDMxMzY1ZjFiZGRmMjZkN2Vl",
   "tracks": [
+    {
+      "added_at": "2023-02-07 17:13:16",
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Danyka Nadeau",
+          "url": "https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9"
+        }
+      ],
+      "duration_ms": 221292,
+      "name": "Same Thing",
+      "url": "https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR"
+    },
+    {
+      "added_at": "2023-02-07 17:12:38",
+      "album": {
+        "name": "Powerplay",
+        "url": "https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Powerplay",
+      "url": "https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia"
+    },
     {
       "added_at": "2023-02-03 18:51:37",
       "album": {
@@ -1115,42 +1155,6 @@
       "duration_ms": 228355,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Nimbus",
-        "url": "https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx"
-      },
-      "artists": [
-        {
-          "name": "Cloudcage",
-          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
-        },
-        {
-          "name": "Feathervane",
-          "url": "https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Nimbus",
-      "url": "https://open.spotify.com/track/00uWPR2Xr54sF4MS2hnZ1m"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

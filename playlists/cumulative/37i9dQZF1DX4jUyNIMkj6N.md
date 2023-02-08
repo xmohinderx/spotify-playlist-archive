@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-189 songs - 11 hr 45 min
+190 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Freedom](https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 2:16 | 2022-07-14 |  |
 | [Freedom](https://open.spotify.com/track/4zzvNcm9aUbVy1zugFYS7u) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Freedom](https://open.spotify.com/album/0EWv02vhy1bg3c00RtiDG7) | 2:16 | 2022-03-24 | 2022-07-29 |
 | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 | 2022-07-14 | 2022-09-26 |
+| [Gardening](https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening](https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW) | 4:43 | 2023-02-02 |  |
 | [Ghost Mess](https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8) | [Kristofer Åström](https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA) | [The Story Of A Heart's Decay](https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija) | 4:26 | 2021-12-02 | 2022-07-29 |
 | [Ghosts in Our Hearts](https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD), [Franziskamaze](https://open.spotify.com/artist/78jrTPJmSEGjZrsMdCkkBs) | [Ghosts in Our Hearts](https://open.spotify.com/album/56mxck2QGvQf6MXcwQDgaE) | 3:39 | 2022-01-20 | 2022-07-28 |
 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 | 2023-01-10 |
@@ -98,7 +99,7 @@
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-14 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-02 | 2022-07-29 |
-| [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 |  |
+| [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 | 2023-02-08 |
 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 | 2021-12-02 |  |
 | [Lost](https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Lost](https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH) | 3:45 | 2022-11-10 | 2022-11-26 |
 | [Lou Lou](https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lou Lou](https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH) | 2:04 | 2021-12-02 | 2022-07-28 |

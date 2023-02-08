@@ -1,12 +1,12 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 103397,
+  "num_followers": 103437,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcyNzUyNSwwMDAwMDAwMGJlYzMxNzMxNzA4Njc1NzE0OTRlNmJkZWQ0YjA2M2I0",
+  "snapshot_id": "MTY3NDcyNzUyNSwwMDAwMDAwMDM1YTRkNzMzYWFlNzU4YjA1MjQ2MmVhMmQ2YWZhMTJi",
   "tracks": [
     {
       "added_at": "2023-01-25 08:02:18",
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
     },
     {
-      "added_at": "2023-02-07 00:30:28",
+      "added_at": "2023-02-08 01:08:17",
       "album": {
         "name": "PANDORA'S BOX",
         "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
-    },
-    {
-      "added_at": "2023-01-25 08:02:18",
-      "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "added_at": "2023-01-25 08:02:18",
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
-    },
-    {
-      "added_at": "2023-01-25 08:02:18",
-      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2023-01-25 08:02:18",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2023-01-25 08:02:18",
-      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+    },
+    {
+      "added_at": "2023-01-25 08:02:18",
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "Return of The Girl",
-        "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
+        "name": "I Need The Light",
+        "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
       },
       "artists": [
         {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Pirate",
-      "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
+      "duration_ms": 185293,
+      "name": "I Need The Light",
+      "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "I Need The Light",
-        "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
+        "name": "Return of The Girl",
+        "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
         }
       ],
-      "duration_ms": 185293,
-      "name": "I Need The Light",
-      "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
+      "duration_ms": 210013,
+      "name": "Pirate",
+      "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
-        "name": "GOOD BOY",
-        "url": "https://open.spotify.com/album/2rhq834A24z7ucY39moYdb"
-      },
-      "artists": [
-        {
-          "name": "GD X TAEYANG",
-          "url": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
-        }
-      ],
-      "duration_ms": 245192,
-      "name": "GOOD BOY",
-      "url": "https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP"
-    },
-    {
-      "added_at": "2023-01-25 08:02:18",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 174026,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
+    },
+    {
+      "added_at": "2023-01-25 08:02:18",
+      "album": {
+        "name": "GOOD BOY",
+        "url": "https://open.spotify.com/album/2rhq834A24z7ucY39moYdb"
+      },
+      "artists": [
+        {
+          "name": "GD X TAEYANG",
+          "url": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
+        }
+      ],
+      "duration_ms": 245192,
+      "name": "GOOD BOY",
+      "url": "https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP"
     },
     {
       "added_at": "2023-01-25 08:02:18",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2023-01-25 08:02:18",
       "album": {
+        "name": "GLASSY",
+        "url": "https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "GLASSY",
+      "url": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D"
+    },
+    {
+      "added_at": "2023-01-25 08:02:18",
+      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
-    },
-    {
-      "added_at": "2023-01-25 08:02:18",
-      "album": {
-        "name": "GLASSY",
-        "url": "https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "GLASSY",
-      "url": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D"
     },
     {
       "added_at": "2023-01-25 08:02:18",

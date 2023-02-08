@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1289,
+  "num_followers": 1292,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQzNDA2OCwwMDAwMDAwMDYxMWEzOTFiM2YyZWQzZDE3ODlmYzZmM2RmMGZjODkz",
+  "snapshot_id": "MTY3NTQzNDA2OCwwMDAwMDAwMDYyOGViYzQ2NWNkMDU0ZGUzZmVhZGZhNWY4YTI1YTNi",
   "tracks": [
     {
       "added_at": "2023-01-26 20:59:00",
@@ -197,26 +197,6 @@
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Second of All",
-        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
-      },
-      "artists": [
-        {
-          "name": "Deejay Xp",
-          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
-        },
-        {
-          "name": "Recho Ray",
-          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Obinkola",
-      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Part2 (Dinner in Maui)",
@@ -251,6 +231,26 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+      },
+      "artists": [
+        {
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+        },
+        {
+          "name": "Recho Ray",
+          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
+        }
+      ],
+      "duration_ms": 146399,
+      "name": "Obinkola",
+      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Enjoyment",
@@ -363,38 +379,6 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
-    },
-    {
-      "added_at": "2022-12-09 12:00:13",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -431,6 +415,22 @@
       "duration_ms": 187200,
       "name": "Nkwata Bulungi (Bailamos)",
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+    },
+    {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
-    },
-    {
       "added_at": "2022-12-09 12:00:13",
       "album": {
         "name": "Memories",
@@ -607,6 +591,22 @@
       "duration_ms": 170250,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
+      "added_at": "2023-02-03 14:21:08",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Doctor",
@@ -691,26 +707,6 @@
       "duration_ms": 259071,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/0rIsYwm15sIqkiTitNDK8R"
-      },
-      "artists": [
-        {
-          "name": "HerbertSkillz",
-          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
-        },
-        {
-          "name": "Papa cyangwe",
-          "url": "https://open.spotify.com/artist/5gw4Q3SlH6GBv3e3yaEwjn"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/649lRLV5y06Z04kiudT1Eb"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -751,22 +747,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
       },
@@ -779,6 +759,22 @@
       "duration_ms": 210000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -797,10 +793,10 @@
       "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
     },
     {
-      "added_at": "2022-11-25 11:45:40",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "RainFall",
-        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/0rIsYwm15sIqkiTitNDK8R"
       },
       "artists": [
         {
@@ -808,29 +804,13 @@
           "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
         },
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Papa cyangwe",
+          "url": "https://open.spotify.com/artist/5gw4Q3SlH6GBv3e3yaEwjn"
         }
       ],
-      "duration_ms": 209411,
-      "name": "RainFall",
-      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
-    },
-    {
-      "added_at": "2023-02-03 14:21:08",
-      "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+      "duration_ms": 172427,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/649lRLV5y06Z04kiudT1Eb"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -865,22 +845,6 @@
       "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
     },
     {
-      "added_at": "2023-01-12 20:59:00",
-      "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Star Gal",
@@ -899,6 +863,42 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2023-01-12 20:59:00",
+      "album": {
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
+      "added_at": "2022-11-25 11:45:40",
+      "album": {
+        "name": "RainFall",
+        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
+      },
+      "artists": [
+        {
+          "name": "HerbertSkillz",
+          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
+        },
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "RainFall",
+      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
     }
   ],
   "unique_name": "Made In Uganda",

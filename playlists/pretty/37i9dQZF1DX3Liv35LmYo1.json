@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 101817,
+  "num_followers": 101840,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMGQ2YTY0NDNhYWYxNjE1ZjU5ZWQyNDVlYjQyZWU1YWVm",
+  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDViNDI5MDhmZDNiN2ViNWUyMGRlYjg4NDY4ZDY4MGJh",
   "tracks": [
     {
       "added_at": "2023-01-26 13:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
         }
       ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "fall back",
         "url": "https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 252584,
       "name": "fall back",
       "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 211845,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 142852,
       "name": "Flauta Magica",
       "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 228198,
+      "name": "Bleu - Radio Edit",
+      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "All Together, Here Together",
         "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
         }
       ],
-      "duration_ms": 228198,
-      "name": "Bleu - Radio Edit",
-      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+      "duration_ms": 191406,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -891,6 +907,26 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "Deep In The Glowing Heart (Night Version)",
         "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
       },
@@ -911,22 +947,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
-      },
-      "artists": [
-        {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
-        }
-      ],
-      "duration_ms": 191406,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Speed King",
-        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 592972,
-      "name": "Speed King",
-      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "Speed King",
+        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 592972,
+      "name": "Speed King",
+      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "R\u00caVES",
         "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 337266,
-      "name": "Plastic Future",
-      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1207,6 +1191,26 @@
       "duration_ms": 273300,
       "name": "Poly 61",
       "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL"
     }
   ],
   "unique_name": "Night Shift",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  The Walls Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,331 likes - 99 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,568 likes - 99 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

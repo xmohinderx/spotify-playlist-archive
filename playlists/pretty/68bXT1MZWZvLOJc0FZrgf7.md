@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Frank Walker &amp; Ella Henderson
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,135 likes - 79 songs - 4 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,128 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 3 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 |
 | 4 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
 | 5 | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Urfavxboyfriend](https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5), [Goldsoul](https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk) | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J) | 2:13 |
-| 6 | [Chalé](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chalé](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 |
+| 6 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 |
 | 7 | [Kids on the Run](https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Kids on the Run](https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo) | 2:53 |
 | 8 | [You Are Not Alone \(feat\. Dear Sara\)](https://open.spotify.com/track/310TW3iypnMo8laEWughHb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Reflect](https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx) | 3:09 |
 | 9 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |

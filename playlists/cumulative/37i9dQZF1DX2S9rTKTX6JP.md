@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-279 songs - 18 hr 7 min
+280 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Like a Virgin](https://open.spotify.com/track/55tH1vUqhMrLlcJ09k2QGq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:08 | 2022-06-17 | 2022-11-26 |
 | [Like a Virgin](https://open.spotify.com/track/5y1QAwcpZ6cDSAQDYgw9dX) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Like a Virgin](https://open.spotify.com/album/77eoArzqUsV6nffTcaND6B) | 3:08 | 2020-12-16 | 2022-07-29 |
 | [Listen To Your Heart](https://open.spotify.com/track/29b2h29UnjjL8jGrDIfEsU) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:35 | 2020-12-16 | 2022-11-05 |
+| [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 | 2023-01-13 |  |
 | [Lithium](https://open.spotify.com/track/6GfqX5QB43nsHGeyYTeFDS) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Wait](https://open.spotify.com/album/2jx7CKfpInHEB5DT6wT8kf) | 5:23 | 2022-03-25 | 2022-04-19 |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2020-12-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/5pNRCnwwQZmluol3V1pR6e) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 4:29 | 2020-12-16 | 2022-07-28 |
@@ -169,7 +170,7 @@
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2020-12-16 | 2022-07-21 |
 | [Mad World](https://open.spotify.com/track/4WGJleSjFmH6k7MuzcDCkw) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/0k1NpI7iPhT3xuqA0rLxov) | 3:30 | 2020-12-16 | 2022-11-05 |
 | [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 | 2022-10-26 |  |
-| [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 | 2022-11-25 |  |
+| [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 | 2022-11-25 | 2023-02-08 |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 | 2022-11-26 |
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 | 2022-11-26 |

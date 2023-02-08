@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-169 songs - 6 hr 39 min
+174 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Another Love](https://open.spotify.com/track/1nlsIpjNAGKyVGHxQEJLj3) | [sad app](https://open.spotify.com/artist/5U3AxI4wGaYfxG7aCd9mdR) | [Another Love](https://open.spotify.com/album/7IbzE0MMtMUQl9jSaRV8ds) | 2:29 | 2022-09-02 | 2022-11-12 |
 | [Another Love \- Lofi](https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Another Love \(Lofi\)](https://open.spotify.com/album/7iLXkQQgmd2DEOHxkQqmhO) | 1:50 | 2022-09-02 | 2022-11-12 |
 | [Anti\-Hero](https://open.spotify.com/track/5EBcTHjNbzyTU8ESzD7bd8) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Anti\-Hero](https://open.spotify.com/album/2NgYRdlV18RPqXnGSAh2L7) | 1:56 | 2022-12-09 |  |
+| [apologize](https://open.spotify.com/track/3uY0353AUilxbXFM0XW1KQ) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [apologize](https://open.spotify.com/album/00vaTeWGH1I7WaDUy049Po) | 1:55 | 2023-02-07 |  |
 | [As It Was](https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [As It Was](https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3) | 2:30 | 2022-10-14 |  |
 | [Bad Habits](https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [INDUSTRY BABY](https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp) | 2:38 | 2023-01-13 |  |
 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 | 2022-09-02 |  |
@@ -65,6 +66,7 @@
 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 | 2022-09-02 |  |
 | [girl on fire](https://open.spotify.com/track/0dTicjkL3qgaMjNXMq5nfD) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [girl on fire](https://open.spotify.com/album/1D6gKpXDsiJpjSFkbDNZF4) | 2:20 | 2022-10-28 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/1JpDYuMELHWVIIb8RcY1TJ) | [Leo Stikks](https://open.spotify.com/artist/7LUeaR9RcIreAylx2jise5) | [Go Tell It On The Mountain](https://open.spotify.com/album/07Ho6FAFJVNAUquAEKeuUJ) | 1:50 | 2022-10-28 |  |
+| [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 | 2023-02-07 |  |
 | [good 4 u](https://open.spotify.com/track/3AZgoA4NPnW7WVsYilE7Bo) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [good 4 u](https://open.spotify.com/album/778p2Kr3Tz1f5ZExmuQBDW) | 2:19 | 2022-11-11 |  |
 | [Happier Than Ever](https://open.spotify.com/track/5i8lZgGvIBe3iL8WMCPHsi) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Happier Than Ever](https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB) | 2:19 | 2022-11-11 |  |
 | [Havana \- Lofi Version](https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 1:49 | 2022-09-02 | 2022-09-30 |
@@ -147,6 +149,7 @@
 | [stay with me](https://open.spotify.com/track/5DTBkfXH6YJV42PD3NxQVx) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [stay with me](https://open.spotify.com/album/1wIME3lWJVOGJWHvLdjYUF) | 2:14 | 2022-12-16 |  |
 | [Stayin' Alive](https://open.spotify.com/track/5bgVt8KSOMsB3f0SUUd92n) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Stayin' Alive](https://open.spotify.com/album/5GmwBcAg9KA6ChJkBb9Geq) | 1:35 | 2022-09-02 |  |
 | [Still D.R.E.](https://open.spotify.com/track/7sQwpVMPCZsqKGXxbfzSaQ) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Old School Songs But It's Lofi Fruits Remix](https://open.spotify.com/album/07nDgaXP2iBDew71yLsLKZ) | 1:46 | 2022-09-02 |  |
+| [summertime sadness](https://open.spotify.com/track/3Pxc3QBFnlb1kd3llYaRwD) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [summertime sadness](https://open.spotify.com/album/2J59cwB6EpSXaXHM10hdvz) | 2:50 | 2023-02-07 |  |
 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 | 2022-09-02 |  |
 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 | 2022-09-02 |  |
 | [teardrop](https://open.spotify.com/track/5RoOmKUeBRmwe2eWsGnDZH) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [teardrop](https://open.spotify.com/album/4r5blpoDuMRQt0BvW6UdqM) | 1:39 | 2022-12-02 |  |
@@ -173,7 +176,9 @@
 | [Where Are You Now](https://open.spotify.com/track/0ejamsXbJlWpR0r5w9KlXM) | [Paraceta](https://open.spotify.com/artist/4WOcTt3WS2TuaWc5yMcBFw) | [Where Are You Now](https://open.spotify.com/album/7AFEvC9ROODIHwNxEOpbaR) | 2:42 | 2022-11-11 |  |
 | [Where Is My Mind? \- Instrumental Version](https://open.spotify.com/track/766XB704U3TCxAyU9xMthL) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Where Is My Mind? \(Instrumental Version\)](https://open.spotify.com/album/7AG3bIphLFGTtCeJbSdN0m) | 1:27 | 2022-09-16 |  |
 | [Wish You Were Here](https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Wish You Were Here](https://open.spotify.com/album/18SIXuoraTIBZdMy4jPVPD) | 2:57 | 2022-09-02 |  |
+| [wrecking ball](https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [wrecking ball](https://open.spotify.com/album/2bByu5g7BkxtCO69Qpnsib) | 1:58 | 2023-02-07 |  |
 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
+| [you're makin' me high](https://open.spotify.com/track/49O7D9q23Z6o067OM9vHaE) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [you're makin' me high](https://open.spotify.com/album/1qZR3NpT5gCEFiE0qWytWt) | 2:19 | 2023-02-07 |  |
 | [young folks](https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [young folks](https://open.spotify.com/album/3UwBdJs9Mxm3y699ElCCKR) | 2:02 | 2023-01-06 |  |
 | [Youngblood \- Lofi Version](https://open.spotify.com/track/0r05GCsSeNbfHKeONCGhCJ) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Youngblood \(Lofi Version\)](https://open.spotify.com/album/0DmR3wOKBs9LJGdB9LoObG) | 1:40 | 2022-10-28 |  |
 | [Zombie \- Lofi Version](https://open.spotify.com/track/6SWHBTsYe0WO7fFPfZAPKv) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Zombie \(Lofi Version\)](https://open.spotify.com/album/7hsBeH5HSpCC3nOwsqQdkB) | 3:00 | 2022-09-02 |  |

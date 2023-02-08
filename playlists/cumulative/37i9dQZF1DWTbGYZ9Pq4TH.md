@@ -2,9 +2,9 @@
 
 ### [Amore Davvero](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
 
-> Le tracce italiane più romantiche di sempre.
+> Le tracce italiane più romantiche di sempre ❤️
 
-186 songs - 12 hr 5 min
+189 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Basta cosi' \- With Elisa](https://open.spotify.com/track/2493A7OGenXVtLT1hfels3) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Casa 69](https://open.spotify.com/album/6G2h1c16cEErA8mu7JkROt) | 5:59 | 2021-09-26 | 2022-07-22 |
 | [Bella e rovinata](https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani](https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB) | 3:20 | 2021-09-26 | 2022-07-16 |
 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2021-09-26 |  |
+| [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2023-02-07 |  |
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 |  |
 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 | 2022-07-29 |
@@ -65,10 +66,11 @@
 | [Gli ostacoli del cuore \- feat\. Ligabue](https://open.spotify.com/track/2BpBgGDyko7wzwIXSxjiUB) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/00NzMobGESLy9zbrJD8FUw) | 4:26 | 2021-09-26 | 2022-07-29 |
 | [Gli uomini non cambiano \- Original Version](https://open.spotify.com/track/7gAeZi9rKJO40bOWaNAY3b) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Lacrime](https://open.spotify.com/album/72bFFJcHfGO1ptRnfQ0guS) | 4:07 | 2021-09-26 | 2022-07-17 |
 | [Guardami amore](https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:45 | 2021-09-26 | 2022-07-25 |
+| [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 | 2023-02-07 |  |
 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \[Remastered Version\]](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 | 2021-09-26 | 2022-07-29 |
 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2021-09-26 | 2022-12-13 |
 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 | 2021-09-26 | 2022-06-04 |
-| [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2021-09-26 |  |
+| [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2021-09-26 | 2023-02-08 |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2021-09-26 |  |
 | [Il coraggio di andare \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Fatti sentire ancora](https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR) | 3:44 | 2021-09-26 | 2022-07-28 |
 | [Il Mestiere Della Vita](https://open.spotify.com/track/5zrpHRrDQXHd9aZIcEvQHQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:18 | 2021-09-26 | 2022-07-07 |
@@ -89,7 +91,8 @@
 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 | 2022-10-09 |
 | [L'immenso](https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [L'odore del caffè](https://open.spotify.com/track/5HF1iln0igvRCNulsEYvTL) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [L'altra metà](https://open.spotify.com/album/7lsDANKgIEPsTjsFy4XliR) | 3:52 | 2021-09-26 | 2022-07-13 |
-| [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 | 2021-09-26 |  |
+| [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 | 2023-02-07 |  |
+| [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 | 2021-09-26 | 2023-02-08 |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-09-26 |  |
 | [La Descrizione Di Un Attimo](https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:29 | 2021-09-26 | 2022-07-07 |
 | [La differenza](https://open.spotify.com/track/4NYQscGbPD7Xn9Z5W1wNio) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:41 | 2021-09-26 | 2022-07-28 |
@@ -114,7 +117,7 @@
 | [Meraviglioso](https://open.spotify.com/track/1G0KxTR1thsm3VOtMdOlF5) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 4:01 | 2021-09-26 | 2022-07-29 |
 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 | 2021-09-26 |  |
 | [Meraviglioso amore mio](https://open.spotify.com/track/5jbljhnrUPo1kzJXkyoOm0) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Amami tour](https://open.spotify.com/album/0IGkpbOg62FzEJvtIOLQjD) | 3:57 | 2021-09-26 | 2022-07-29 |
-| [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 | 2021-09-26 |  |
+| [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 | 2021-09-26 | 2023-02-08 |
 | [Mi Parli Piano](https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Essere Qui](https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9) | 3:24 | 2021-09-26 | 2022-07-04 |
 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 | 2021-09-26 |  |
 | [Migliore](https://open.spotify.com/track/1V5Fgni6jJx2V4cuHXb5Cz) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:50 | 2021-09-26 | 2022-07-22 |

@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-113 songs - 3 hr 44 min
+114 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Trixie Triceratops](https://open.spotify.com/track/3l5fE0FzmZI8iHaXnInFZ4) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F) | 1:53 | 2022-07-08 |  |
 | [Tyrannosaurus Rex](https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F) | 1:18 | 2022-07-08 |  |
 | [Tyrannosaurus Rex](https://open.spotify.com/track/669aoYopY8BdyiTOSTuMtk) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr) | 1:19 | 2022-01-14 | 2022-07-29 |
-| [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 | 2022-01-14 |  |
+| [Tyrannosaurus Rex](https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW) | 1:22 | 2022-08-16 |  |
+| [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 | 2022-01-14 | 2023-02-08 |
 | [Tyrannosaurus Rock](https://open.spotify.com/track/6l9TZzAXzDzdSy47XjPx0N) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 1:37 | 2022-01-14 |  |
 | [We Are The Dinosaurs](https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 2:17 | 2022-01-14 |  |
 | [What Do Dinosaurs Eat?](https://open.spotify.com/track/2sOst7SwrSQW9Uwuf3PpdK) | [The Beach Road Band](https://open.spotify.com/artist/0iLv7uczQ9v49LRixReBZ9) | [Mostly for Kids](https://open.spotify.com/album/2J9M4hXifZTCo4cKs0DHjd) | 2:20 | 2022-01-14 |  |

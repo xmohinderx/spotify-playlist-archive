@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: REO Speedwagon",
-  "num_followers": 209711,
+  "num_followers": 209984,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDYwMjc5MWQzOWI5ZDc2MzM4YzY2YWI4OTIwYjZiYjQ2",
+  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDMxZGUxNDdiMmY3NWE4NzFmYzhkOGZiMTY4NjYxNDk4",
   "tracks": [
     {
       "added_at": "2023-01-18 22:18:44",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Street Talk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
-      },
-      "artists": [
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Oh Sherrie",
-      "url": "https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Daylight Again (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 281000,
       "name": "Southern Cross - 2005 Remaster",
       "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Street Talk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
+      },
+      "artists": [
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Oh Sherrie",
+      "url": "https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Principle of Moments",
-        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Big Log - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 293306,
       "name": "I Won't Hold You Back",
       "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "The Principle of Moments",
+        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Big Log - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Mike + The Mechanics",
         "url": "https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 252426,
       "name": "All I Need Is a Miracle",
       "url": "https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2023-01-18 22:18:44",

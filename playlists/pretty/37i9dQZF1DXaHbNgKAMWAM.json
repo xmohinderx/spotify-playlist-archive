@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 9891,
+  "num_followers": 9919,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjgxOCwwMDAwMDAwMDUxODdjZWJlOTFlOTQ5ZDEzNDFhNmY5NDI3MWEzYmRj",
+  "snapshot_id": "MTY3NTQwNjgxOCwwMDAwMDAwMGFiNzhhMTdlZmNlN2E4ZDY0NDg3YjdkN2Q2OTNiNDQx",
   "tracks": [
     {
       "added_at": "2023-02-03 06:46:58",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
         "name": "Film (Feat. Woshi)",
         "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "Fling",
-        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+        "name": "I LOVE YOU",
+        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
       "artists": [
         {
-          "name": "DIVE",
-          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 174841,
-      "name": "Fling",
-      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
+      "duration_ms": 177831,
+      "name": "ONLY YOU",
+      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -831,6 +815,22 @@
       "duration_ms": 257956,
       "name": "THE MIRACLE",
       "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "Fling",
+        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+      },
+      "artists": [
+        {
+          "name": "DIVE",
+          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+        }
+      ],
+      "duration_ms": 174841,
+      "name": "Fling",
+      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 195206,
       "name": "Endless",
       "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
-        "url": "https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o"
-      },
-      "artists": [
-        {
-          "name": "ASEL",
-          "url": "https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy"
-        },
-        {
-          "name": "\uc5d0\uc774\ubbfc",
-          "url": "https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD"
-        }
-      ],
-      "duration_ms": 195749,
-      "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o"
+      },
+      "artists": [
+        {
+          "name": "ASEL",
+          "url": "https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy"
+        },
+        {
+          "name": "\uc5d0\uc774\ubbfc",
+          "url": "https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD"
+        }
+      ],
+      "duration_ms": 195749,
+      "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O"
       },
       "artists": [
         {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
         }
       ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+      "duration_ms": 166480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 44808,
+  "num_followers": 44811,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGZmODU4YjEzNmRmMjUwMTAyZGIwZGI2M2ZmNGUwYTE1",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDY5ZmFkMDFkNTY5OGQ5ZWMxMWFkYWE2OWE1OTI3OTRm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         }
       ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -455,22 +459,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
       "artists": [
         {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
         }
       ],
-      "duration_ms": 108053,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
-      },
-      "artists": [
-        {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
-        }
-      ],
-      "duration_ms": 180860,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Cinque Terre",
         "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 232786,
       "name": "Cinque Terre",
       "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
+      },
+      "artists": [
+        {
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
+        }
+      ],
+      "duration_ms": 180860,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
-      },
-      "artists": [
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+      },
+      "artists": [
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",

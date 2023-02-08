@@ -1914,6 +1914,24 @@
     {
       "album": {
         "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
       },
       "artists": [
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 82957,
       "name": "Tyrannosaurus Rex",
       "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"

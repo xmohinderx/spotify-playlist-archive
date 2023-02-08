@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 190171,
+  "num_followers": 190305,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDgzODJjMTA3NjVmMjA4OTNlYjJhMjYzNDY3MDIxODZh",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDBiNzZhYjgwMmM0YjQ1ZTI4ODNhZWJkZDhjNDc0MzNh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 269666,
       "name": "White Lines (Don't Do It)",
       "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
       "artists": [
         {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,6 +1511,22 @@
       "duration_ms": 350164,
       "name": "Do It Do It Disco (Tom Noble Remix)",
       "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",

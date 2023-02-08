@@ -176,6 +176,32 @@
     {
       "album": {
         "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3nL8DoihXmK6aNvrg8Czyf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "AWESOME (Feat. Jay Park, GRAY)",
+      "url": "https://open.spotify.com/track/08B5WhZyB8ZdO7x7KfpI7Y"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
         "url": "https://open.spotify.com/album/3UowJdgmCVwSc2o8vagWTq"
       },
       "artists": [
@@ -194,7 +220,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 198857,
       "name": "AWESOME (feat.Jay Park & GRAY)",
       "url": "https://open.spotify.com/track/7pbJi2eyN0cI0mbBkmLK90"
@@ -2474,6 +2500,32 @@
     {
       "album": {
         "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3nL8DoihXmK6aNvrg8Czyf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268773,
+      "name": "We Up There (Feat. C Jamm, Jay Park)",
+      "url": "https://open.spotify.com/track/7pr6wxa6aL1QckZ9hVwEv2"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
         "url": "https://open.spotify.com/album/3UowJdgmCVwSc2o8vagWTq"
       },
       "artists": [
@@ -2492,7 +2544,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 268773,
       "name": "We up there (feat.C Jamm & Jay Park)",
       "url": "https://open.spotify.com/track/51rFMLEJ4h3uhuP9ZZEttH"

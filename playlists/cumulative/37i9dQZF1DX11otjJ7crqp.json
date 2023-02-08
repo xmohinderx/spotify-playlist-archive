@@ -27452,10 +27452,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 211200,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/51f23oVvFNYz3mljzdcTw2"
+    },
+    {
+      "album": {
+        "name": "My Favorite Song",
+        "url": "https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "My Favorite Song",
+      "url": "https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn"
     },
     {
       "album": {

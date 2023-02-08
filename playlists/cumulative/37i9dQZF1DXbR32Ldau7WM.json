@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: Base Ball Bear",
+  "description": "The biggest rock artists in Japan right now! Cover: \u7a32\u8449\u6d69\u5fd7",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 246612,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 238498,
       "name": "Bloody Power Fame",
       "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 268053,
       "name": "Only One,Only You",
       "url": "https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp"
@@ -4617,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "tokoshie no karuma",
+        "url": "https://open.spotify.com/album/6NQFOmy3wMh3lE7uZlUN7U"
+      },
+      "artists": [
+        {
+          "name": "Yosuke Momono",
+          "url": "https://open.spotify.com/artist/1PXv2H1NFL0ewckEEpDApg"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221574,
+      "name": "tokoshie no karuma",
+      "url": "https://open.spotify.com/track/47tjvNVA09DT1ohm6TV0Rg"
+    },
+    {
+      "album": {
         "name": "TOKYO SUNSET",
         "url": "https://open.spotify.com/album/5gqwQgJgK44GAYLuiIez8T"
       },
@@ -4700,7 +4718,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 250000,
       "name": "Tsuki no Wan",
       "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
@@ -5018,6 +5036,24 @@
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+    },
+    {
+      "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
     },
     {
       "album": {
@@ -5735,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "\u5bbf\u7e01",
+        "url": "https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "\u30a6\u30a7\u30b6\u30fc\u30ea\u30dd\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30c3\u30b5\u30d5\u30a9\u30c3\u30b5",
         "url": "https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N"
       },
@@ -5894,6 +5948,24 @@
       "duration_ms": 223520,
       "name": "\u30ae\u30e0\u30ec\u30c3\u30c8\u306b\u306f\u65e9\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/7CiyZc2GaNrPdZ4HjaPWCF"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30b8\u30e9\u306e\u30b9\u30c6\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324336,
+      "name": "\u30af\u30b8\u30e9\u306e\u30b9\u30c6\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh"
     },
     {
       "album": {
@@ -6216,6 +6288,24 @@
       "duration_ms": 260333,
       "name": "\u30bf\u30bf\u30ab\u30a8\u30d6\u30ea\u30d0\u30c7\u30a3",
       "url": "https://open.spotify.com/track/6HuaMfd51muvgrwhJs4F9X"
+    },
+    {
+      "album": {
+        "name": "COMPACT DISC",
+        "url": "https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe"
+      },
+      "artists": [
+        {
+          "name": "GOLDEN BOMBER",
+          "url": "https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269782,
+      "name": "\u30c0\u30cb",
+      "url": "https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V"
     },
     {
       "album": {
@@ -6940,7 +7030,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 188653,
       "name": "\u5149",
       "url": "https://open.spotify.com/track/7yuYVEQlfmZwI025JosmJx"
@@ -7719,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
+        "url": "https://open.spotify.com/album/23mo1RCmn9x6MuNSNibnxR"
+      },
+      "artists": [
+        {
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
+      "url": "https://open.spotify.com/track/7CzvL2K8cT0Assin7SNXIK"
+    },
+    {
+      "album": {
         "name": "\u671d\u713c\u3051",
         "url": "https://open.spotify.com/album/7zfZ3p822fHKy43zCNqnaP"
       },
@@ -8350,6 +8458,24 @@
       "duration_ms": 332806,
       "name": "\u8a3c - A Spring Breath ver.",
       "url": "https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN"
+    },
+    {
+      "album": {
+        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
     },
     {
       "album": {

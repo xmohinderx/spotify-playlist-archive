@@ -4,7 +4,7 @@
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-150 songs - 8 hr 57 min
+151 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Fiery Jack \- Bonus Track](https://open.spotify.com/track/3RZqcBz5WTWN2E5svMH162) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Dragnet](https://open.spotify.com/album/7y4lCnCKcXODt9Qh2bsQU2) | 4:43 | 2021-11-17 | 2022-07-29 |
 | [Fiery Jack \- Bonus Track](https://open.spotify.com/track/4EOKJntCkNc4vbuSQg4doy) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Dragnet \(Deluxe Edition\)](https://open.spotify.com/album/5rXllIzz9X9qILNN1gxMb0) | 4:43 | 2021-11-17 |  |
 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 | 2021-11-17 |  |
-| [Gary Gilmore's Eyes](https://open.spotify.com/track/4Mj2GtsgUDaf43zxdw48hd) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing The Red Sea](https://open.spotify.com/album/3gadv5yR3mtSmLJ9mywFLQ) | 2:16 | 2021-11-17 |  |
+| [Gary Gilmore's Eyes](https://open.spotify.com/track/40N9Zf8HGajGhzthuI3BaM) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing the Red Sea](https://open.spotify.com/album/2npR50t6uIXjLKgeMJ4Vp3) | 2:16 | 2022-09-29 |  |
+| [Gary Gilmore's Eyes](https://open.spotify.com/track/4Mj2GtsgUDaf43zxdw48hd) | [The Adverts](https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha) | [Crossing The Red Sea](https://open.spotify.com/album/3gadv5yR3mtSmLJ9mywFLQ) | 2:16 | 2021-11-17 | 2023-02-08 |
 | [Germ Free Adolescents](https://open.spotify.com/track/1aMxqU4b59JT5Y9Wtyusis) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 3:14 | 2021-11-17 | 2022-07-29 |
 | [Germfree Adolescence](https://open.spotify.com/track/6gI41jiMeH9k4E6FaQkwnx) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 3:15 | 2021-11-17 |  |
 | [Hanging Around \- 1996 Remaster](https://open.spotify.com/track/4OvQsAObGMF3dpkCV6DZzb) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:25 | 2021-11-17 |  |

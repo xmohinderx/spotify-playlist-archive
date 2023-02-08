@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: \u00bfT\u00e9o?",
-  "num_followers": 748941,
+  "num_followers": 748923,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1ODAyNywwMDAwMDAwMDVjMDNhZjE4NDBjMTgzYjg2ZDFiNWQ5OGFkMmEwZmJm",
+  "snapshot_id": "MTY3NTM1ODAyNywwMDAwMDAwMGI3NTcwOTRjMWM1ZTAwMTc1ZTc0YzRjNDRjNzY0MDk5",
   "tracks": [
     {
       "added_at": "2023-02-02 17:13:47",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -231,46 +231,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "Dandelions (slowed + reverb)",
-        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        },
-        {
-          "name": "slater",
-          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
-        }
-      ],
-      "duration_ms": 268717,
-      "name": "Dandelions - slowed + reverb",
-      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -291,6 +251,46 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "Dandelions (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "duration_ms": 268717,
+      "name": "Dandelions - slowed + reverb",
+      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Podemos Intentar",
-      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Podemos Intentar",
+      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "Odio",
-        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 153732,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Fui Yo",
         "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 184827,
       "name": "Fui Yo",
       "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "Odio",
+        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 153732,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 179491,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/2OmdXyjwfOQGsVdTUCRDwv"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2023-02-02 17:13:47",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-02 17:13:47",
       "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
-    },
-    {
-      "added_at": "2023-02-02 17:13:47",
-      "album": {
         "name": "Kat & Alex Side A",
         "url": "https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 201293,
       "name": "I Want It All - Spanglish Version",
       "url": "https://open.spotify.com/track/53XHn6nINYUtSeZgRvx4uT"
+    },
+    {
+      "added_at": "2023-02-02 17:13:47",
+      "album": {
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
     },
     {
       "added_at": "2023-02-02 17:13:47",

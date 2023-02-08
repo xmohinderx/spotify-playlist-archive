@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: O.lew; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: GPG msmy; thiết kế: Isu Kim
 
 741 songs - 1 day 19 hr 13 min
 
@@ -227,8 +227,8 @@
 | [EMCOHAY](https://open.spotify.com/track/6BVomcgT4btVhkZrt5FyMI) | [Solsilva](https://open.spotify.com/artist/42dopFsZz6H8X2VZl9Pd0I), [Kansy](https://open.spotify.com/artist/28JBwb0hnc65XxAymjJ1Z2) | [EMCOHAY](https://open.spotify.com/album/3Tgo3CJ4sHRC4ORhmy1Hpf) | 2:41 | 2022-08-13 | 2022-09-24 |
 | [Empty](https://open.spotify.com/track/0JwpMqG3JMcAG1EuflHct4) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Empty](https://open.spotify.com/album/3dozttVWW5Fp6rMZ7gCdq5) | 3:15 | 2023-01-26 |  |
 | [Eyes Closed](https://open.spotify.com/track/1CUcTgpZKuqTmnQmzkigdd) | [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o) | [Eyes Closed](https://open.spotify.com/album/0hsjMgglUDgK42VEzAoB6T) | 2:53 | 2022-01-06 | 2022-02-11 |
-| [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 | 2023-02-06 |  |
 | [Falling In Love](https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9) | [Quốc Anh](https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD) | [Falling In Love](https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO) | 2:59 | 2022-06-09 | 2022-08-14 |
+| [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [TheAnh28 Media](https://open.spotify.com/artist/5MZLLM6L8mr7emUrwcf45i), [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 | 2023-02-06 |  |
 | [FAM](https://open.spotify.com/track/5Tsd2blCKV8rw3QiAzXqSD) | [LOPE PHAM](https://open.spotify.com/artist/3n56g8JEOhO9CwLHpfWgie) | [FAM](https://open.spotify.com/album/3LOzSBVZ966wWiOoqa5XFY) | 2:04 | 2022-06-02 | 2022-06-10 |
 | [Feel](https://open.spotify.com/track/73HpeaQ1CEJn2Bkw3setue) | [The HooneymooN](https://open.spotify.com/artist/6Hx2QEGhFa7xov0zES20Mu) | [Feel](https://open.spotify.com/album/7lUImhoTrNyv3DuiL5hvFC) | 3:13 | 2022-01-24 | 2022-02-22 |
 | [fine](https://open.spotify.com/track/7uLIDtZ2yhAMRVyln7at1O) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [fine](https://open.spotify.com/album/5p17n3Oer9Yd3h4lPjW6QK) | 2:46 | 2023-01-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 82818,
+  "num_followers": 82956,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMGQxNmRmNjBlNWI1YjhmNGNkZTEzOTgxZjI2N2FkZDkw",
+  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMDI5ZmJkN2NlNmRlMzUzYTBkNWVkMTg0OTg0MjMyNGQ0",
   "tracks": [
     {
       "added_at": "2023-02-03 04:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 423047,
       "name": "Nuvole Bianche - Reimagined by Mercan Dede",
       "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+        "name": "Round",
+        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
         }
       ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Round",
-        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },
       "artists": [
         {
-          "name": "Steven Gutheinz",
-          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 163945,
-      "name": "Pattern of Water",
-      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -631,26 +631,6 @@
       "duration_ms": 258221,
       "name": "Zima",
       "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        },
-        {
-          "name": "\u00c5te",
-          "url": "https://open.spotify.com/artist/2qn75zEidar5AhX7eBY6IZ"
-        }
-      ],
-      "duration_ms": 153120,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -679,6 +659,26 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        },
+        {
+          "name": "\u00c5te",
+          "url": "https://open.spotify.com/artist/2qn75zEidar5AhX7eBY6IZ"
+        }
+      ],
+      "duration_ms": 153120,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
+      },
+      "artists": [
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        },
+        {
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
+        }
+      ],
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7ooOWujwGib7z5Lf0tU3FW"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
-      },
-      "artists": [
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        },
-        {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
-        }
-      ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -883,6 +883,54 @@
       "duration_ms": 278613,
       "name": "February",
       "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "By This River",
+        "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/5nRTsSxPNnsySXsuJ6UHGq"
+        },
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        }
+      ],
+      "duration_ms": 247301,
+      "name": "By This River",
+      "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -923,26 +971,6 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1011,34 +1039,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "By This River",
-        "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
-      },
-      "artists": [
-        {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
-        },
-        {
-          "name": "Moebius",
-          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/5nRTsSxPNnsySXsuJ6UHGq"
-        },
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        }
-      ],
-      "duration_ms": 247301,
-      "name": "By This River",
-      "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Blackfriars",
         "url": "https://open.spotify.com/album/6a5Gl4FDc2uoCDe5mIevGE"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Klass (MISSUXO Film Edit)",
-        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Klass - MISSUXO Film Edit",
-      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Close To Her",
         "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Recaptures",
         "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 210600,
       "name": "Minquiers",
       "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Klass (MISSUXO Film Edit)",
+        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Klass - MISSUXO Film Edit",
+      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1179,6 +1195,38 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Rameau, etc",
+        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
+      },
+      "artists": [
+        {
+          "name": "PAVANE",
+          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
+        }
+      ],
+      "duration_ms": 245365,
+      "name": "Rameau, etc",
+      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Owls",
+        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Powell",
+          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
       },
@@ -1199,18 +1247,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
       "artists": [
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Thomas Slinger",
+          "url": "https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
         }
       ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+      "duration_ms": 181460,
+      "name": "Feel What You Need",
+      "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1231,22 +1287,6 @@
       "duration_ms": 217194,
       "name": "We Could Stay",
       "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Owls",
-        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
-      },
-      "artists": [
-        {
-          "name": "Samuel Powell",
-          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1291,42 +1331,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Higher Ground",
-        "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
       },
       "artists": [
         {
-          "name": "Thomas Slinger",
-          "url": "https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         },
         {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 181460,
-      "name": "Feel What You Need",
-      "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Rameau, etc",
-        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
-      },
-      "artists": [
-        {
-          "name": "PAVANE",
-          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
-        }
-      ],
-      "duration_ms": 245365,
-      "name": "Rameau, etc",
-      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
+      "duration_ms": 214080,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1355,46 +1375,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Circle 31",
         "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        },
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+          "name": "MAGUIRE",
+          "url": "https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8"
         }
       ],
-      "duration_ms": 267871,
-      "name": "Enerhodar",
-      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+      "duration_ms": 225462,
+      "name": "La descente",
+      "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
     },
     {
       "added_at": "2023-02-03 04:00:00",

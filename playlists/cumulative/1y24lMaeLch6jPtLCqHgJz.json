@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ"
+      },
+      "artists": [
+        {
+          "name": "HAVOQ",
+          "url": "https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2xmcOsh0Zv699SfTkri9Xj"
       },

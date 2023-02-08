@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 119026,
+  "num_followers": 119028,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMDkyYTQ0MWNkZDg5N2ViODBmYTBjZmIyYTcwZjhiMWI1",
+  "snapshot_id": "MTY3NTM3ODgwMCwwMDAwMDAwMDg5MjM2NDBiYTU1ZjcyNDViNmQzOGI5NmViODJiMzAy",
   "tracks": [
     {
       "added_at": "2023-02-02 23:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Vet Hon Om?",
+        "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Vet Hon Om?",
+      "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Sommaren",
         "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 213473,
       "name": "N\u00e5t i vattnet",
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Vet Hon Om?",
-        "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Vet Hon Om?",
-      "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -343,22 +343,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Vi \u00c4r P\u00e5 Riktigt",
-        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
+        "name": "V\u00e4lkommen \u00c5ter",
+        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         },
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
         }
       ],
-      "duration_ms": 187664,
-      "name": "Vi \u00c4r P\u00e5 Riktigt",
-      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
+      "duration_ms": 175714,
+      "name": "V\u00e4lkommen \u00c5ter",
+      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Vi \u00c4r P\u00e5 Riktigt",
+        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        },
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 187664,
+      "name": "Vi \u00c4r P\u00e5 Riktigt",
+      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "V\u00e4lkommen \u00c5ter",
-        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        },
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "V\u00e4lkommen \u00c5ter",
-      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "DOM SKA VETA",
-        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 195518,
-      "name": "Vi ska aldrig g\u00e5 hem",
-      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Chasing (feat. NEIMY)",
         "url": "https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 148460,
       "name": "Chasing (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "DOM SKA VETA",
+        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 195518,
+      "name": "Vi ska aldrig g\u00e5 hem",
+      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+        "name": "Sover du sj\u00e4lv?",
+        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+      "duration_ms": 183391,
+      "name": "Sover du sj\u00e4lv?",
+      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Sover du sj\u00e4lv?",
-        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
         }
       ],
-      "duration_ms": 183391,
-      "name": "Sover du sj\u00e4lv?",
-      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 191445,
       "name": "Som ett minne blott",
       "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 198217,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+        "name": "Every Little Heart",
+        "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
+      "duration_ms": 189920,
+      "name": "Every Little Heart",
+      "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -843,6 +843,22 @@
       "duration_ms": 223850,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Every Little Heart",
-        "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Every Little Heart",
-      "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Water Pistol",
         "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 219582,
       "name": "Water Pistol",
       "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "A Lover Like Me",
+        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "A Lover Like Me",
+      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -959,18 +975,34 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
+      "duration_ms": 193268,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "Can We Talk About Me?",
+        "url": "https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "duration_ms": 164742,
+      "name": "Can We Talk About Me?",
+      "url": "https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -995,34 +1027,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Can We Talk About Me?",
-        "url": "https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f"
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
       },
       "artists": [
         {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 164742,
-      "name": "Can We Talk About Me?",
-      "url": "https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 193268,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj"
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 155520,
       "name": "Belly Shots",
       "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
-        "name": "A Lover Like Me",
-        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "A Lover Like Me",
-      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
+        "name": "Borde veta b\u00e4ttre",
+        "url": "https://open.spotify.com/album/1GxOfH3LSqV3ySAEbCSnHE"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        },
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Borde veta b\u00e4ttre",
+      "url": "https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -1279,22 +1299,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 81002,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
         "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
       },
@@ -1311,18 +1315,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Mamma",
-        "url": "https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu"
       },
       "artists": [
         {
-          "name": "Rasmus Hultgren",
-          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ"
+      "duration_ms": 81002,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1343,18 +1347,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1"
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv"
       },
       "artists": [
         {
-          "name": "MOR",
-          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
+          "name": "Rasmus Hultgren",
+          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
         }
       ],
-      "duration_ms": 161355,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN"
+      "duration_ms": 140000,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Borde veta b\u00e4ttre",
-        "url": "https://open.spotify.com/album/1GxOfH3LSqV3ySAEbCSnHE"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1"
       },
       "artists": [
         {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        },
-        {
-          "name": "Denz",
-          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+          "name": "MOR",
+          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
         }
       ],
-      "duration_ms": 165200,
-      "name": "Borde veta b\u00e4ttre",
-      "url": "https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo"
+      "duration_ms": 161355,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "BACKYARD",
-        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 155085,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
         "url": "https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 188037,
       "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "BACKYARD",
+        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 155085,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "\u00c4ndstation",
-        "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
+        "name": "Barnsben",
+        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
       },
       "artists": [
         {
           "name": "Julia Lov",
           "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        },
-        {
-          "name": "Kid Eriksson",
-          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
         }
       ],
-      "duration_ms": 200986,
-      "name": "\u00c4ndstation",
-      "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
+      "duration_ms": 214190,
+      "name": "Barnsben",
+      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1651,22 +1647,6 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "P\u00e5 En L\u00f6rdag",
-        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 152701,
-      "name": "P\u00e5 En L\u00f6rdag",
-      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
-    },
-    {
-      "added_at": "2023-02-02 23:00:00",
-      "album": {
         "name": "Musik Non Stop - Spotify Singles",
         "url": "https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5"
       },
@@ -1679,6 +1659,22 @@
       "duration_ms": 228346,
       "name": "Musik Non Stop - Spotify Singles",
       "url": "https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA"
+    },
+    {
+      "added_at": "2023-02-02 23:00:00",
+      "album": {
+        "name": "P\u00e5 En L\u00f6rdag",
+        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 152701,
+      "name": "P\u00e5 En L\u00f6rdag",
+      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
     },
     {
       "added_at": "2023-02-02 23:00:00",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2023-02-02 23:00:00",
       "album": {
-        "name": "Barnsben",
-        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
+        "name": "\u00c4ndstation",
+        "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
       },
       "artists": [
         {
           "name": "Julia Lov",
           "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        },
+        {
+          "name": "Kid Eriksson",
+          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
         }
       ],
-      "duration_ms": 214190,
-      "name": "Barnsben",
-      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
+      "duration_ms": 200986,
+      "name": "\u00c4ndstation",
+      "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
     }
   ],
   "unique_name": "Made in Sweden",

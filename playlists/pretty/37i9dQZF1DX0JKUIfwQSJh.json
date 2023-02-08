@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 822960,
+  "num_followers": 823204,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGNmMGY1ZDM0YTA5NTgwNDYwMTEzYjhmM2RiN2RhMWFi",
+  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMDliNDUxYTYyMDM1Zjk0NWE5ODEzMmNjMmEyYTEzOWJj",
   "tracks": [
     {
       "added_at": "2023-01-03 15:50:01",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "I Walk the Line (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "I Walk the Line",
-      "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Simple Dreams",
         "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 239399,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "I Walk the Line (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Led Zeppelin IV (Remaster)",
         "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212160,
       "name": "Going to California - Remaster",
       "url": "https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
     },
     {
       "added_at": "2023-01-03 15:50:01",

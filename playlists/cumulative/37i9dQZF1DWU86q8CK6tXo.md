@@ -4,7 +4,7 @@
 
 > New music from female\-identifying artists\. Cover: <a href=“https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU?si=I6R9735GR3ip6As26zjzRg”>Zolita</a>
 
-763 songs - 1 day 17 hr 12 min
+764 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [you don't deserve a country song](https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [you don't deserve a country song](https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M) | 3:10 | 2023-02-01 |  |
 | [You Know Better](https://open.spotify.com/track/5ZHpM6DV0snXWvlCdyTLT7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [You Know Better](https://open.spotify.com/album/178itJAYZnT6YdJpbKrKyL) | 3:21 | 2023-02-01 |  |
 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 | 2022-10-05 | 2023-01-05 |
+| [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2023-02-07 |  |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-03 | 2022-09-09 |
 | [Younger Version of Myself \(feat\. Abby Anderson\)](https://open.spotify.com/track/2VBG34HxBxjpgX3Wuv6d4f) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Younger Version of Myself](https://open.spotify.com/album/3B7MRfpN5x6IdsAjGH5TkQ) | 3:21 | 2022-10-05 | 2022-11-03 |
 | [Your Tongue](https://open.spotify.com/track/00WQxluVREF12JZkKWvio4) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue](https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz) | 2:37 | 2022-04-06 | 2022-05-05 |

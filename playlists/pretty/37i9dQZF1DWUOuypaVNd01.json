@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 25622,
+  "num_followers": 25637,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzI2MCwwMDAwMDAwMGJiYmMwZDI5YjNhYzE3ZmNiYTAzMmVmZThlMGFkODQz",
+  "snapshot_id": "MTY3NTM5MzI2MCwwMDAwMDAwMGFlYjE1OTJlMzAwMWUyMGU1NDU4ZjliNzE3MmZiYWUw",
   "tracks": [
     {
       "added_at": "2023-02-03 03:01:00",
@@ -395,34 +395,6 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "RUNNING",
-        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 238247,
-      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
-      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
-    },
-    {
-      "added_at": "2023-02-03 03:01:00",
-      "album": {
         "name": "Rock Danger Worldwide/Chile",
         "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
@@ -455,6 +427,34 @@
       "duration_ms": 192223,
       "name": "Diz Quem Ta na Pista",
       "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+    },
+    {
+      "added_at": "2023-02-03 03:01:00",
+      "album": {
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 238247,
+      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
+      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
     },
     {
       "added_at": "2023-02-03 03:01:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
-    },
-    {
-      "added_at": "2023-02-03 03:01:00",
-      "album": {
         "name": "Rock Danger Worldwide/Chile",
         "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 194816,
       "name": "99 N\u00e3o \u00c9 100",
       "url": "https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP"
+    },
+    {
+      "added_at": "2023-02-03 03:01:00",
+      "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
     },
     {
       "added_at": "2023-02-03 03:01:00",
@@ -819,14 +819,10 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "Sobe O Morro",
-        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
       },
       "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
         {
           "name": "Febem",
           "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
@@ -834,11 +830,15 @@
         {
           "name": "Fleezus",
           "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Sobe O Morro",
-      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2023-02-03 03:01:00",
@@ -863,10 +863,14 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+        "name": "Sobe O Morro",
+        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
       },
       "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
         {
           "name": "Febem",
           "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
@@ -874,15 +878,11 @@
         {
           "name": "Fleezus",
           "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+      "duration_ms": 162352,
+      "name": "Sobe O Morro",
+      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
     },
     {
       "added_at": "2023-02-03 03:01:00",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-02-03 03:01:00",
+      "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/5Dd5o5rkha3XZiodjiUgwB"
       },
@@ -1031,8 +1055,8 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "Versos Fortes",
-        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
+        "name": "Tudo Normal",
+        "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
       },
       "artists": [
         {
@@ -1040,37 +1064,13 @@
           "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "$aint GR",
+          "url": "https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX"
         }
       ],
-      "duration_ms": 134893,
-      "name": "Versos Fortes",
-      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2023-02-03 03:01:00",
-      "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+      "duration_ms": 165857,
+      "name": "Tudo Normal",
+      "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
     },
     {
       "added_at": "2023-02-03 03:01:00",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-02-03 03:01:00",
       "album": {
-        "name": "Tudo Normal",
-        "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
+        "name": "Versos Fortes",
+        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
       "artists": [
         {
@@ -1100,13 +1100,13 @@
           "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
         },
         {
-          "name": "$aint GR",
-          "url": "https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 165857,
-      "name": "Tudo Normal",
-      "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
+      "duration_ms": 134893,
+      "name": "Versos Fortes",
+      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
     },
     {
       "added_at": "2023-02-03 03:01:00",

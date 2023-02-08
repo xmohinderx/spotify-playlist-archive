@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: August Burns Red
 
-630 songs - 1 day 15 hr 49 min
+631 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,8 @@
 | [Voices](https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Voices](https://open.spotify.com/album/65HY54OfEyWDdtm2zFi8uF) | 2:53 | 2021-12-17 | 2022-04-02 |
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-07-13 | 2022-07-22 |
 | [Void](https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo) | 2:43 | 2021-12-17 | 2022-02-18 |
-| [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-03 |  |
+| [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-03 | 2023-02-08 |
+| [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |

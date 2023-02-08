@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kenia OS en portada.",
-  "num_followers": 59980,
+  "num_followers": 60080,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDdhZWU1N2MwMjY0NDc5Njc4M2YwZmY4ZDFmYzZiZGM5",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDAyOThiMjhhN2E0YjI5ZDVmNDA2Yjg3NWQzNTlkZWE4",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Psycho B**ch",
-        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Psycho B**ch",
-      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 182857,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
+        "name": "Psycho B**ch",
+        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Psycho B**ch",
+      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
-        "name": "Bailo Sola",
-        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 155061,
-      "name": "Bailo Sola",
-      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 184000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
+        "name": "Bailo Sola",
+        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 155061,
+      "name": "Bailo Sola",
+      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-02-03 06:00:00",
       "album": {
+        "name": "Fotonovela",
+        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 282020,
+      "name": "Fotonovela",
+      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
         "name": "Mi Pel\u00edcula",
         "url": "https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 184888,
       "name": "VELOZzzz",
       "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
-    },
-    {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
-        "name": "Fotonovela",
-        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 282020,
-      "name": "Fotonovela",
-      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
     }
   ],
   "unique_name": "Oye Pop",

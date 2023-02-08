@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
+      },
+      "artists": [
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "date_added": "2018-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324493,
+      "name": "Garden - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/43Ay55tMhTdSvdwnGYQR7C"
+    },
+    {
+      "album": {
         "name": "Thank Christ For The Bomb",
         "url": "https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 324493,
       "name": "Garden - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd"

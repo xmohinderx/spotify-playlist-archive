@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 59740,
+  "num_followers": 59800,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGNjMWUzOGQ5NmFiYjdhM2Q0ZWE4ODVlMzE4NzQyZTVm",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDRhMzliYjI4OWZhMjA0ODFhMzI1YTAyOGZlOGJmNTBm",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Happy To You",
-        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Paddling Out",
-      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1343,6 +1327,22 @@
       "duration_ms": 236440,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Happy To You",
+        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Paddling Out",
+      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Flume: Deluxe Edition",
         "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 209376,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
-      },
-      "artists": [
-        {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "American Daydream",
-      "url": "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 209573,
       "name": "obedear",
       "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "American Daydream",
+      "url": "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
-      },
-      "artists": [
-        {
-          "name": "The Walkmen",
-          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
+      },
+      "artists": [
+        {
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
     },
     {
       "added_at": "2022-05-19 08:11:23",

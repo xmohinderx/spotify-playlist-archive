@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 20 songs - 40 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,343 likes - 20 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 | 12 | [Scientist](https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:02 |
 | 13 | [Put It to the Test](https://open.spotify.com/track/0ms5bzYdvWBnrayTs9RFcf) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:41 |
 | 14 | [The New Periodic Table Song](https://open.spotify.com/track/2Cmth2GiA4UsABtEvYsCM1) | [AsapSCIENCE](https://open.spotify.com/artist/7E8gU2qkctwGqHBizPRH9A) | [The New Periodic Table Song](https://open.spotify.com/album/7hV9SjMjh5lSEDx34xz967) | 2:49 |
-| 15 | [What Is Electricity?](https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:14 |
+| 15 | [What Is Electricity?](https://open.spotify.com/track/7H02LUeobKAOOsEXQ7ZqnK) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE) | 1:14 |
 | 16 | [Roy G\. Biv](https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:07 |
 | 17 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 |
 | 18 | [\(I Wanna Be Like\) Madam Curie](https://open.spotify.com/track/4zGJOsyK5JCMdifXek8fTJ) | [Renee'](https://open.spotify.com/artist/010Yy8BMF8WVfGA2do8sDm), [Jeremy](https://open.spotify.com/artist/0YzWhtJkKuzLGaXOJT0ZEx) | [Science Fair](https://open.spotify.com/album/3CdiI8bJnXG5wmneRwPRDo) | 3:14 |
 | 19 | [Science](https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:40 |
 | 20 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 |
 
-Snapshot ID: `MTY0NjMwNzAwMCwwMDAwMDAwMDhiZjIxNTZjZGQ2NDgzZGFjYjA4YzUyNWRhYTcxMWEy`
+Snapshot ID: `MTY0NjMwNzAwMCwwMDAwMDAwMGFhNzY2YmExMTg5YmNkODhjNmMxNzE3MjI0ZjVkNmJm`

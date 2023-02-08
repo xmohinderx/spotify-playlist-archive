@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-405 songs - 1 day 8 hr 18 min
+407 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Mankind to Earth](https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [Mankind to Earth](https://open.spotify.com/album/3gVD9Plwh4a4ajwRFKB73J) | 8:53 | 2022-02-25 | 2022-12-06 |
 | [Maraba Blue](https://open.spotify.com/track/4TQ7mPGU4CNGi0u6Vab6p9) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Cape Town Flowers](https://open.spotify.com/album/3HAIZeXeNgbSvkXF7zTzej) | 4:35 | 2022-04-29 | 2022-06-01 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-11-12 |  |
+| [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Mia's Lullaby](https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2) | [Dean Stockdale Trio](https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0) | [Promise the Moon](https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m) | 5:33 | 2022-03-17 | 2022-11-24 |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-12 |  |
@@ -318,7 +319,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-02-10 | 2022-11-27 |
 | [Stairway to the Stars](https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:17 | 2022-10-06 | 2022-11-24 |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-11-12 |  |
-| [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-12 |  |
+| [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-12 | 2023-02-08 |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/08m95knJWmtWZ4xWwAFVoX) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 5:19 | 2022-04-14 | 2022-10-26 |
 | [Story II: Early Snow](https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy) | [Heiri Känzig](https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF) | [Five Stories](https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp) | 7:18 | 2022-03-10 | 2022-11-12 |
@@ -356,6 +357,7 @@
 | [There Is No Music](https://open.spotify.com/track/3zJ8fYyoaAMOkQbhb86Yxb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 6:08 | 2022-02-10 | 2022-11-12 |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-11-12 | 2023-01-21 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-11-12 |  |
+| [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-02 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
 | [Time for a Change](https://open.spotify.com/track/5ZZbviSvNxJNcdCb5W5d7m) | [Dean Stockdale Trio](https://open.spotify.com/artist/5osQPHnFc9DPK1uEf2yRk0) | [Promise the Moon](https://open.spotify.com/album/0bCrIRrZJTc1GK4ar61t3m) | 5:21 | 2022-03-17 | 2022-11-12 |
 | [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-02-10 | 2022-11-12 |
@@ -408,7 +410,7 @@
 | [You Must Believe In Spring/ Spring Is Here \- Michel Legrand/Rogers and Hart](https://open.spotify.com/track/4Dx0AKBoRszLOK33LlTAXu) | [Nikki Iles](https://open.spotify.com/artist/5LGovBijogk6ID8SKqle96) | [Hush](https://open.spotify.com/album/0WWDEwk0muhlcF21F2R8A2) | 8:14 | 2022-02-10 | 2022-11-09 |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-11-12 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 |  |
-| [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-11-12 |  |
+| [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-11-12 | 2023-02-08 |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-11-12 |  |
 | [Your Nocturne](https://open.spotify.com/track/4z7bckrpC1Sw5AmqvF6I7f) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 3:42 | 2022-02-25 | 2022-11-09 |
 | [Zapruder](https://open.spotify.com/track/6xpeoINELbdMBAAD0dxA49) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 4:42 | 2022-09-29 | 2022-11-09 |

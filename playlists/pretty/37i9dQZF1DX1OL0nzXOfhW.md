@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,848 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,851 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 38 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 |
 | 39 | [寶貝 \(feat\. Lily\)](https://open.spotify.com/track/0sHhCmkw2kPiptphcn2c3t) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Lily](https://open.spotify.com/artist/4SyOeqnA6bO9xwHJf8pFoR) | [寶貝 \(feat\. Lily\)](https://open.spotify.com/album/3HMRa0x9dlizDUAPyhlvUR) | 2:51 |
 | 40 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
-| 41 | [Heliophilia](https://open.spotify.com/track/5sdHAHheWG3yawGgHaiJK8) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Andy Schaub 安哲逸](https://open.spotify.com/artist/1uNlE0V52oulrpVcRtOsuz) | [Heliophilia](https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5) | 3:09 |
+| 41 | [Heliophilia](https://open.spotify.com/track/5sdHAHheWG3yawGgHaiJK8) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Andy Schaub](https://open.spotify.com/artist/5KZ7KYFN2V4fl7RHr7oH0S) | [Heliophilia](https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5) | 3:09 |
 | 42 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 |
 | 43 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 |
 | 44 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 |

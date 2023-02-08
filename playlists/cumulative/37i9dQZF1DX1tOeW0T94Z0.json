@@ -2152,10 +2152,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 212614,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/121Q3ApTES4wi5uMo9dewE"
+    },
+    {
+      "album": {
+        "name": "Live, Love, Learn",
+        "url": "https://open.spotify.com/album/0Qr3iLw5lqYOFrhSdjlOjU"
+      },
+      "artists": [
+        {
+          "name": "Kim Davis",
+          "url": "https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220003,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7dRqF9yproa1Ef6SQEbadb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill indie music\. Cover: Reneé Rapp
 
-301 songs - 16 hr 54 min
+302 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-10-03 | 2022-10-25 |
 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 | 2022-10-03 | 2022-10-11 |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 | 2022-09-19 |
+| [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-07 |  |
 | [Blisters](https://open.spotify.com/track/1ytnxZRMYJ8QsTMBqD9GXb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Greatest Thing I’ll Never Learn](https://open.spotify.com/album/4wdBZxpMVkbKFpHZPcsV5S) | 3:21 | 2022-11-24 | 2023-02-03 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-06-06 | 2022-10-11 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-10-03 | 2023-02-03 |
@@ -107,7 +108,7 @@
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-19 | 2023-01-01 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-12-01 | 2023-02-03 |
 | [Grey](https://open.spotify.com/track/2qBDpPacsXzx4bExchi03Y) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Grey](https://open.spotify.com/album/7cAFalDSpGjLQet24trPCG) | 3:14 | 2022-09-18 | 2022-09-28 |
-| [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-30 |  |
+| [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-30 | 2023-02-08 |
 | [Guess I'm Going To Hell](https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Guess I'm Going To Hell](https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD) | 4:15 | 2022-06-06 | 2022-06-14 |
 | [Hamptons City Cowboy](https://open.spotify.com/track/6JXO6V9nNKwBeJMIyeeL1s) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Hamptons City Cowboy](https://open.spotify.com/album/2ykNdEeV01TEjq7inVoNCS) | 2:57 | 2022-06-26 | 2022-07-05 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-10 |  |

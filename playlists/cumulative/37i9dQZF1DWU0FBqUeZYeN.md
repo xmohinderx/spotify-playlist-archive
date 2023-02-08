@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-247 songs - 13 hr 24 min
+248 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Born Bad](https://open.spotify.com/track/2UezcqV7qEgc03UOfI81oH) | [Jack Starr](https://open.spotify.com/artist/3EGblpPEuyQzWOaShcMVPI) | [Born Petrified](https://open.spotify.com/album/42ZzobzpMQDGyZal5F235s) | 1:20 | 2015-07-23 |  |
 | [Brand New Cadillac](https://open.spotify.com/track/0CJ3EmwyofCmDljpoKecQR) | [Vince Taylor & His Playboys](https://open.spotify.com/artist/1NnCrPjtSLFHulsEZdLSEg) | [British Beat Before The Beatles 1955\-1962](https://open.spotify.com/album/0eDIvG3ep58ZKfox9KojyE) | 2:37 | 2015-07-23 |  |
 | [Cherry Red \- 1996 Remastered Version](https://open.spotify.com/track/2efJem1z78jWQnuV63ZijF) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [4 Groundhogs Originals](https://open.spotify.com/album/3g1NviD5bsxgf9RyOuA5SN) | 5:43 | 2015-07-23 | 2022-07-29 |
+| [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/6fyC4XAanXTAuCEzIZKKFE) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/33t6WZtNdhUcJBCh2xdAst) | 5:43 | 2015-07-23 |  |
 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/74soqwldLWWA5hGXhXcMq7) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/7cpe5iNefJ5Orj6hqnX3py) | 5:43 | 2015-07-23 | 2022-11-13 |
-| [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/7DwZDNVo6dlnpEh9UxyFGw) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/3f6Y5i6HOeg5SpT5PUEm0e) | 5:43 | 2015-07-23 |  |
+| [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/7DwZDNVo6dlnpEh9UxyFGw) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/3f6Y5i6HOeg5SpT5PUEm0e) | 5:43 | 2015-07-23 | 2023-02-08 |
 | [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:48 | 2019-06-19 |  |
 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 | 2015-07-23 |  |
 | [Crash Street Kids](https://open.spotify.com/track/65lVNwkJ1cbfGbeLFhj7Os) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Original Album Classics](https://open.spotify.com/album/2W6CYtke7aesUBR8D8gWt6) | 4:29 | 2015-07-23 | 2022-07-29 |

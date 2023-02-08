@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6672521,
+  "num_followers": 6674457,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3ODg2MCwwMDAwMDAwMDc4NTVhZjc3MzFiNjBhNmQ4MTAxYmNlZDQwOTc4NDFh",
+  "snapshot_id": "MTY3NTM3ODg2MCwwMDAwMDAwMGRmM2Y2NGVmMWM2YTJhOTBlNzZjNWE2OThhZDdhZTEx",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Hopeless Heart",
-        "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 151903,
-      "name": "Hopeless Heart",
-      "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Belly Dancer (LUM!X Remix)",
         "url": "https://open.spotify.com/album/3VJjBWJCl7mqqWkh9U76vR"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 134285,
       "name": "Belly Dancer - LUM!X Remix",
       "url": "https://open.spotify.com/track/61eO1GpmNJ7iUVoQZ5JfNO"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Hopeless Heart",
+        "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 151903,
+      "name": "Hopeless Heart",
+      "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Believe (feat. Goodboys) [Galantis Remix]",
         "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 174283,
       "name": "Believe (feat. Goodboys) [Galantis Remix]",
       "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Aloha!",
-        "url": "https://open.spotify.com/album/6nqZGmU6GEHSLr5aJaGEUH"
-      },
-      "artists": [
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Aloha!",
-      "url": "https://open.spotify.com/track/1nVAXNncJum2YgmVRINs6v"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 138095,
       "name": "One By One - Radio Edit",
       "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Aloha!",
+        "url": "https://open.spotify.com/album/6nqZGmU6GEHSLr5aJaGEUH"
+      },
+      "artists": [
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Aloha!",
+      "url": "https://open.spotify.com/track/1nVAXNncJum2YgmVRINs6v"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1887,22 +1887,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/4OVBXprvurBoljc1yDx9HN"
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
       },
       "artists": [
         {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         },
         {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
         }
       ],
-      "duration_ms": 168893,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3P5uUrEfuvGy5i05I9It7M"
+      "duration_ms": 163200,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1919,6 +1923,26 @@
       "duration_ms": 159968,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/0ACTjicmzIcZZrG2DVXemO"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4OVBXprvurBoljc1yDx9HN"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3P5uUrEfuvGy5i05I9It7M"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1943,30 +1967,6 @@
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "MELON",
-          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
-        },
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "To The Floor (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
-      },
-      "artists": [
-        {
-          "name": "Loud 'N Bright",
-          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "To The Floor (Nicky Romero Edit)",
-      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
       },
@@ -2127,6 +2107,30 @@
       "duration_ms": 147096,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
       "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
     }
   ],
   "unique_name": "Motivation Mix",

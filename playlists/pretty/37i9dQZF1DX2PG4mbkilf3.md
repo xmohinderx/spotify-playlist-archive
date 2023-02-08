@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,810 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,906 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

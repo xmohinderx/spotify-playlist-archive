@@ -390,6 +390,28 @@
     {
       "album": {
         "name": "Cosas Que Contarte",
+        "url": "https://open.spotify.com/album/0FbrtoU78KgwG5vD1GlZGV"
+      },
+      "artists": [
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Dahani",
+          "url": "https://open.spotify.com/artist/69CmKC6wHFltmcQHp7pPY9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Divina Ciencia",
+      "url": "https://open.spotify.com/track/3hDJm892PD8L4CC5diOAe9"
+    },
+    {
+      "album": {
+        "name": "Cosas Que Contarte",
         "url": "https://open.spotify.com/album/4HfCnFSRmhDZKUUY12wTHQ"
       },
       "artists": [
@@ -404,7 +426,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-08",
       "duration_ms": 213626,
       "name": "Divina Ciencia",
       "url": "https://open.spotify.com/track/5SV2Eqg43uPMX9x9g1XoAL"

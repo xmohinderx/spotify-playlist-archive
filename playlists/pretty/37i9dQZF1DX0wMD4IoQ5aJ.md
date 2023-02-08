@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,012 likes - 164 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,261 likes - 164 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Signs](https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/46l0p9rQdScWD3CZjMqWtn) | 2:14 |
-| 2 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 |
-| 3 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 |
-| 4 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 |
-| 5 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 |
-| 6 | [Boudins](https://open.spotify.com/track/54yOwjZUJzNWVISgpvQfCz) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Boudins](https://open.spotify.com/album/29bFiImSwSuF4ib3WpcThS) | 2:06 |
-| 7 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 |
-| 8 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 |
-| 9 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 |
-| 10 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 |
-| 11 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
-| 12 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 |
-| 13 | [Squares](https://open.spotify.com/track/3Lw2Qj1Adw20rvAApyXIsQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Squares](https://open.spotify.com/album/2EkIguAG5AjGPUnQGdyPJA) | 2:52 |
-| 14 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 |
-| 15 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 |
-| 16 | [Gravity Run](https://open.spotify.com/track/1v4fcTze4n1Yqj1NrFSKTm) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Lunar Module](https://open.spotify.com/album/5JE2PXgd8OpMkUZWuvb9T0) | 3:02 |
+| 2 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 |
+| 3 | [Boudins](https://open.spotify.com/track/54yOwjZUJzNWVISgpvQfCz) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Boudins](https://open.spotify.com/album/29bFiImSwSuF4ib3WpcThS) | 2:06 |
+| 4 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 |
+| 5 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 |
+| 6 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 |
+| 7 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 |
+| 8 | [Gravity Run](https://open.spotify.com/track/1v4fcTze4n1Yqj1NrFSKTm) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Lunar Module](https://open.spotify.com/album/5JE2PXgd8OpMkUZWuvb9T0) | 3:02 |
+| 9 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 |
+| 10 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 |
+| 11 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 |
+| 12 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 |
+| 13 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
+| 14 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 |
+| 15 | [Squares](https://open.spotify.com/track/3Lw2Qj1Adw20rvAApyXIsQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Squares](https://open.spotify.com/album/2EkIguAG5AjGPUnQGdyPJA) | 2:52 |
+| 16 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 |
 | 17 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 |
 | 18 | [mirage](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [mirage](https://open.spotify.com/album/5iglYs8AJ0MVpnfCQTVfPd) | 2:44 |
 | 19 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 163 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 |
 | 164 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDBhYmI5YmRiMjQwYzc4YjFhNjJlNmRmZjAwZTRiNDIy`
+Snapshot ID: `MTY3NTc4NzQ3OCwwMDAwMDAwMGZiM2RlMWEyNDRkNWMwNTA5YjA1M2M3MTQ0MDhhNjQ4`

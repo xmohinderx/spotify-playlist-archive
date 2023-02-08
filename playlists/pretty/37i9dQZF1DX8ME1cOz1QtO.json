@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 55021,
+  "num_followers": 55133,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDI0MjM2OTNiYzEwMmYxN2UyMzhlZDMxZTJmMWEzZDZm",
+  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMGRiODllNjIwYjU3Njg0MGIyOTFmMWZlOWEzOGU4N2Rl",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "In A Wild Sanctuary/Gardharva",
+        "url": "https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ"
+      },
+      "artists": [
+        {
+          "name": "Beaver & Krause",
+          "url": "https://open.spotify.com/artist/6ssIHNGjiohpzxmB3tDIgv"
+        }
+      ],
+      "duration_ms": 314093,
+      "name": "By Your Grace",
+      "url": "https://open.spotify.com/track/579p22QFJ8bkdQLXp0VBy7"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "In A Wild Sanctuary/Gardharva",
-        "url": "https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ"
-      },
-      "artists": [
-        {
-          "name": "Beaver & Krause",
-          "url": "https://open.spotify.com/artist/6ssIHNGjiohpzxmB3tDIgv"
-        }
-      ],
-      "duration_ms": 314093,
-      "name": "By Your Grace",
-      "url": "https://open.spotify.com/track/579p22QFJ8bkdQLXp0VBy7"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+        "name": "Lydglimt",
+        "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Klaus Sch\u00f8nning",
+          "url": "https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM"
         }
       ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+      "duration_ms": 189146,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -935,34 +935,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Lydglimt",
-        "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
       "artists": [
         {
-          "name": "Klaus Sch\u00f8nning",
-          "url": "https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 189146,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 382026,
-      "name": "Zen Garden of the Soul Part III - IV",
-      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -979,6 +963,22 @@
       "duration_ms": 399560,
       "name": "Li Sun",
       "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 382026,
+      "name": "Zen Garden of the Soul Part III - IV",
+      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1011,22 +1011,6 @@
       "duration_ms": 347626,
       "name": "The Fifth Wave - Water Lullaby",
       "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Keys To Imagination",
-      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Keys To Imagination",
+      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Pinnacles",
         "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Alpha Centauri",
-        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "Sunrise in the Third System",
-      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Images of Flutes in Nature",
         "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 201186,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Alpha Centauri",
+        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "Sunrise in the Third System",
+      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Glide/Star Gazer",
         "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
       "artists": [
         {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Celestial Soul Portrait",
+        "url": "https://open.spotify.com/album/019HAaxSfRFvJK3MO5Prjs"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 659426,
+      "name": "The Angels Of Comfort",
+      "url": "https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Celestial Soul Portrait",
-        "url": "https://open.spotify.com/album/019HAaxSfRFvJK3MO5Prjs"
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
       "artists": [
         {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
         }
       ],
-      "duration_ms": 659426,
-      "name": "The Angels Of Comfort",
-      "url": "https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ"
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
     }
   ],
   "unique_name": "Early New Age",

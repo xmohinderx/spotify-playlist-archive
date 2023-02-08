@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-473 songs - 1 day 2 hr 52 min
+474 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,8 @@
 | [Cash Wednesday](https://open.spotify.com/track/7C9shyOi32tv4BtDsFWXFR) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 2:30 | 2022-07-15 |  |
 | [Casino](https://open.spotify.com/track/4n9QMtAlgryYNocF4H9uKQ) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Casino](https://open.spotify.com/album/7iShoikCy18mI9fjiyTQRy) | 2:58 | 2021-12-08 | 2022-07-27 |
 | [Catch a Star](https://open.spotify.com/track/7sbcpdn8uY6eQAB12MpuDw) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB), [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [Wilting Flowers](https://open.spotify.com/album/5flQrELjpz0cGeLZbm0qfR) | 4:01 | 2022-11-04 |  |
-| [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 | 2021-12-08 |  |
-| [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 | 2022-09-16 | 2023-02-03 |
+| [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 | 2021-12-08 | 2023-02-08 |
+| [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 | 2022-09-16 |  |
 | [Celsius](https://open.spotify.com/track/5tJybzwKfxKu9PMbuq4Q5f) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Celsius](https://open.spotify.com/album/5cfxCv3xl1lJApfO5CPmK7) | 3:24 | 2022-07-15 | 2022-09-10 |
 | [Central City 中の都](https://open.spotify.com/track/2nRPWDnuUxpZY90B9MHUV5) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave II](https://open.spotify.com/album/1GFoofcnejLjZfvQeQjPLH) | 2:56 | 2022-04-12 | 2022-04-14 |
 | [Change](https://open.spotify.com/track/64IOxsrXZIm0IY4ABbT22Y) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Change](https://open.spotify.com/album/5wgFBDW3fRjle5ltgDVuPM) | 2:55 | 2021-12-08 | 2022-05-20 |
@@ -73,7 +73,7 @@
 | [clippyboi118](https://open.spotify.com/track/37phFJsPaUb7wSaiecBc3Y) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [clippyboi118](https://open.spotify.com/album/3RzG5MM3dLZpG6WGxjG2GO) | 3:43 | 2022-07-15 | 2022-08-13 |
 | [Close My Eyes](https://open.spotify.com/track/6X1vgFm0XKXoR2ZR98sJMF) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM), [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Close My Eyes](https://open.spotify.com/album/023tqBN5qEq4prm4pBhw4H) | 4:23 | 2022-08-12 | 2022-09-28 |
 | [Close To You](https://open.spotify.com/track/0xJvdx8hPabX8s1hnRK6kX) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [Close To You](https://open.spotify.com/album/4fSBdzaQYGW7aiK3OhnLZ4) | 3:24 | 2022-01-25 | 2022-05-20 |
-| [Colorful](https://open.spotify.com/track/53xrAv7XytICW94kWDjQoH) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Colorful](https://open.spotify.com/album/77B2ZiXhYYSqbSbt14h0Bb) | 2:35 | 2022-01-25 |  |
+| [Colorful](https://open.spotify.com/track/53xrAv7XytICW94kWDjQoH) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Colorful](https://open.spotify.com/album/77B2ZiXhYYSqbSbt14h0Bb) | 2:35 | 2022-01-25 | 2023-02-08 |
 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 | 2022-04-12 |  |
 | [Creative Theft](https://open.spotify.com/track/0ht7s0CM0xQD5pHEhPvhsA) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [No New Music](https://open.spotify.com/album/6plA34dSdPj040f7yGqdai) | 4:09 | 2022-08-12 | 2022-09-22 |
 | [Cupcake Break](https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh) | [マドロスMERCURY](https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN) | [Infinite Skies](https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2) | 2:37 | 2022-07-15 |  |
@@ -155,6 +155,7 @@
 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 | 2022-01-25 |  |
 | [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 | 2021-12-08 | 2023-02-05 |
 | [Galáctica Airlines](https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Galáctica Airlines](https://open.spotify.com/album/5Nxk1k8coYj3WyOdpcfH99) | 3:58 | 2021-12-08 | 2022-07-29 |
+| [Galáctica Airlines](https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Magallánica Thunderlove](https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k) | 3:58 | 2022-11-04 |  |
 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 | 2021-12-08 |  |
 | [Garment](https://open.spotify.com/track/60unYXLKV1y7nFqHQaOQeG) | [Nukumachi](https://open.spotify.com/artist/2c9sol8NSNRs68cB999yWc) | [Retrospect](https://open.spotify.com/album/3hh298aIT8SznnN7w8W7VA) | 2:20 | 2022-04-12 | 2022-04-20 |
 | [Get Down](https://open.spotify.com/track/7MCJ9kHMs9PrV2P3PC0rcy) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Bounce](https://open.spotify.com/album/6LLsv8PdNByTCPNy5tv352) | 3:32 | 2022-07-15 | 2022-08-13 |

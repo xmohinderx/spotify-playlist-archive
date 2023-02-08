@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-114 songs - 3 hr 59 min
+116 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 | 2022-02-01 |  |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-02-01 |  |
 | [Cheetah](https://open.spotify.com/track/5YV1zmwIMC6cP7GGMhP1OO) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:03 | 2022-02-01 |  |
-| [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-02-01 |  |
+| [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-02-01 | 2023-02-08 |
+| [Chicken Bop](https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:03 | 2022-07-25 |  |
 | [Chipmunk At The Gas Pump](https://open.spotify.com/track/3irmQLWVlNRN8aAayjhx9M) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 3:19 | 2022-02-01 |  |
 | [Come Down Here Monkey](https://open.spotify.com/track/31BRmSfrbw92QFlu6mxVYL) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Happy Heart!](https://open.spotify.com/album/38BYpjGvtDXjUi5hgDyTz1) | 2:28 | 2022-02-01 |  |
 | [Counting Ducks Song](https://open.spotify.com/track/2Ec32B6l4fpntU6ZpcPb6A) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:31 | 2022-02-01 | 2022-07-29 |
@@ -102,7 +103,8 @@
 | [Snakes](https://open.spotify.com/track/3v5Brc1Dhx1Kq7bpLIOhJy) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 6](https://open.spotify.com/album/7tZGyOMUj6xQX8J78zuU2t) | 2:49 | 2022-02-01 |  |
 | [Something 'Bout This Duck](https://open.spotify.com/track/3NxDQZ1rkiNX0zqg8kvQPo) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:47 | 2022-02-01 |  |
 | [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2022-02-01 |  |
-| [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 |  |
+| [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 | 2023-02-08 |
+| [Spider Monkey](https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:02 | 2022-07-25 |  |
 | [The Busy Beaver Bop](https://open.spotify.com/track/47FgC7YjxcKOiAkDd01lU1) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:29 | 2022-02-01 |  |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-02-01 |  |
 | [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2022-02-01 |  |

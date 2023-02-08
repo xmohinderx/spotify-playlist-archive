@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-842 songs - 1 day 22 hr 32 min
+843 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |
 | [Glass](https://open.spotify.com/track/3YWp8LJGYmSqJSLGCYEI7D) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Glass EP](https://open.spotify.com/album/7aPsFJFWNvRSD4IMCohtUy) | 6:03 | 2022-04-29 | 2022-05-14 |
 | [Go Bang \- Flash 89 Remix](https://open.spotify.com/track/7eh8IA9FUenXc9LZczIxIs) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Flash '89](https://open.spotify.com/artist/6IQkgMtOxGbdpsDxvw8qTO) | [Go Bang \(Remixes\)](https://open.spotify.com/album/5ylV23K7fpFTtdoiemVDPQ) | 5:15 | 2020-05-22\* | 2021-12-21 |
-| [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2021-12-17 |  |
+| [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2021-12-17 | 2023-02-08 |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 |  |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-27 | 2022-12-15 |
 | [Good Dope](https://open.spotify.com/track/342IN7R7WLFvxwxkJ5vkaj) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Makloud](https://open.spotify.com/artist/5pmx4PcrEWphi2Z8lW9rUN) | [Good Dope](https://open.spotify.com/album/4fcH341UhnzIcZPEHlZKys) | 2:57 | 2020-11-03 | 2021-12-11 |
@@ -709,6 +709,7 @@
 | [Street Dancer \- Radio Edit](https://open.spotify.com/track/4nqP3vc5bUpYoJnRCatTzH) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Street Dancer](https://open.spotify.com/album/4D2o1V9BLPaXzodUC7QwBB) | 3:29 | 2020-06-01 | 2021-12-21 |
 | [Streets \- DJ Sliink Remix](https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Streets \(Remixes\)](https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD) | 2:13 | 2021-03-21 | 2022-06-22 |
 | [Stress It \- Tee's Freeze Mix](https://open.spotify.com/track/2cBq6jVcPxNIvCFUG9Ui1L) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Dred Stock](https://open.spotify.com/artist/7wYvoiTYD0Lq7VyfTs58uY), [Douglah](https://open.spotify.com/artist/7iedTbm0uJ4lvjHyfL0N8g) | [Move to the Retro](https://open.spotify.com/album/5UF2CQFWsgOshGZ5PdtooQ) | 5:47 | 2020-07-01 | 2021-12-19 |
+| [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-02-07 |  |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-04-29 |  |
 | [Summer Of Love](https://open.spotify.com/track/56YpW3nISMuVvM6pHkR9oU) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Summer Of Love](https://open.spotify.com/album/6RXP288ktFUg8VsitQDnqc) | 3:15 | 2021-08-28 | 2022-04-02 |
 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2021-10-16 | 2022-12-22 |

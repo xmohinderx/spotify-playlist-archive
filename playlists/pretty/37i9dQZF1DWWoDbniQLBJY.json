@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2015239,
+  "num_followers": 2015264,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjI1NywwMDAwMDAwMDU1ZjczNzc4ZGE2MWNhZjQzYmQ1YWVjMWE2NGNiMzNl",
+  "snapshot_id": "MTY3MjQyNjI1NywwMDAwMDAwMDA1ODBjOTQ0ZDEwMjczNzA3ZjJkMmQxNjQxMTYwMzhh",
   "tracks": [
     {
       "added_at": "2022-12-30 18:50:57",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-12-30 18:50:57",
       "album": {
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "added_at": "2022-12-30 18:50:57",
+      "album": {
         "name": "Fantasias (Unplugged)",
         "url": "https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 200593,
       "name": "Fantasias - Unplugged",
       "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
-    },
-    {
-      "added_at": "2022-12-30 18:50:57",
-      "album": {
-        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
-        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179393,
-      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
-      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
     },
     {
       "added_at": "2022-12-30 18:50:57",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-12-30 18:50:57",
       "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
+    },
+    {
+      "added_at": "2022-12-30 18:50:57",
+      "album": {
         "name": "De Rodillas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
-    },
-    {
-      "added_at": "2022-12-30 18:50:57",
-      "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2022-12-30 18:50:57",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-12-30 18:50:57",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2022-12-30 18:50:57",
+      "album": {
         "name": "Como Antes (Remix Acustico)",
         "url": "https://open.spotify.com/album/4kmeebwvosASgsi4bDHIIi"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 207788,
       "name": "Como Antes - Remix Acustico",
       "url": "https://open.spotify.com/track/76MyowWwAS93Lj4R9apUeh"
-    },
-    {
-      "added_at": "2022-12-30 18:50:57",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2022-12-30 18:50:57",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-12-30 18:50:57",
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": "2022-12-30 18:50:57",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2022-12-30 18:50:57",
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     },
     {
       "added_at": "2022-12-30 18:50:57",

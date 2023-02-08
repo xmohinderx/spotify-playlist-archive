@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,106 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,134 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 74 | [Mantra](https://open.spotify.com/track/7MUZe1adOUBdU9sgJ3TY2x) | [CW/A](https://open.spotify.com/artist/3AK94svpMZ4UFJ7W1z7iap) | [Words Unspoken, Acts Undone](https://open.spotify.com/album/0PQcSjuKlJuZPNVclPaWWs) | 5:20 |
 | 75 | [I'm Every Sparkly Woman](https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 2:23 |
 | 76 | [Like This \- Full Mix](https://open.spotify.com/track/3OW0DWxx56Wsc5wHfnNmM2) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Like This](https://open.spotify.com/album/04mH9qNvpsSO4orXu367x5) | 6:06 |
-| 77 | [Papa's Got a Brand New Pigbag \- 12" Verison](https://open.spotify.com/track/3y5QiODYY0CDODY1EFwHyD) | [Pigbag](https://open.spotify.com/artist/2Ay1hHYVBSJU6Dhhs6mGnR) | [Papa's Got a Brand New Pigbag](https://open.spotify.com/album/3unOGrQz7gwTI8xGInw0OH) | 6:01 |
+| 77 | [Papa's Got a Brand New Pigbag \- 12" Version](https://open.spotify.com/track/1JrjxQc66OOv7twArCeGrC) | [Pigbag](https://open.spotify.com/artist/2Ay1hHYVBSJU6Dhhs6mGnR) | [Papa's Got a Brand New Pigbag](https://open.spotify.com/album/1kjRslEud2YFCPDuZRKcqT) | 6:01 |
 | 78 | [SeeSaw \- Club Version](https://open.spotify.com/track/0cC7TEZ5ZB0IZ9iRMYW13X) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [SeeSaw \(Club Version\)](https://open.spotify.com/album/0mmyxVCcnMQbaLgkQmK6zD) | 5:41 |
 | 79 | [Never Come Back \- Koreless Remix](https://open.spotify.com/track/32tZacH8pN5SuUwV2jpICp) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Suddenly Remixes](https://open.spotify.com/album/4UrHb1pIbKLFev4nuxMFUY) | 4:04 |
 | 80 | [Wherever You Go \(feat\. Jamie xx, Neneh Cherry & CLYPSO\)](https://open.spotify.com/track/0IgbHKFkJxu7dEWJPK02CL) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Wherever You Go / Reflecting Light](https://open.spotify.com/album/3QojbvRow4YV3FZcHpSY5W) | 5:50 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MTY2OTAyMjQ4NiwwMDAwMDAwMGYzMGExMWRkZWIyZWE0OGE1YWUwMTg0YzIzODA3MGZk`
+Snapshot ID: `MTY2OTAyMjQ4NiwwMDAwMDAwMGUwNTYyM2Y3OTY1NzE2NGQ2NWU2NTljN2RjM2ZiZTIz`

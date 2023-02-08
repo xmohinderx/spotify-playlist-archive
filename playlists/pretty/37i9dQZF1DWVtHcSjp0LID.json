@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 49849,
+  "num_followers": 49881,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDM4MzM4YzBlZjFhNDY4MmM1OTNhYmY2YWI1ZTUyMDYx",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGU1ZTM3ZTcyMWNlNzdmZGE0M2Y2NzAxZThkYWI1MzU2",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Find Myself EP",
         "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 364579,
       "name": "Raw Charmer",
       "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Ibb & Obb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
+      },
+      "artists": [
+        {
+          "name": "Kettel",
+          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
+        }
+      ],
+      "duration_ms": 154781,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Hold Me To The Light",
         "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ibb & Obb (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
-      },
-      "artists": [
-        {
-          "name": "Kettel",
-          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
-        }
-      ],
-      "duration_ms": 154781,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
-      },
-      "artists": [
-        {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
-        }
-      ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Miracle Of The Rose EP",
         "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 331486,
       "name": "Miracle Of The Rose",
       "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+      },
+      "artists": [
+        {
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+        }
+      ],
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -927,6 +927,38 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Warped",
         "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
       },
@@ -963,22 +995,6 @@
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
-      },
-      "artists": [
-        {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
-        }
-      ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1027,22 +1043,6 @@
       "duration_ms": 355540,
       "name": "Lefty's Bar",
       "url": "https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 95973,
-      "name": "Bocuma",
-      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Thunderstorm EP",
-        "url": "https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS"
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
       "artists": [
         {
-          "name": "Dok & Martin",
-          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
-        },
-        {
-          "name": "Carlos P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr"
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
         }
       ],
-      "duration_ms": 417246,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1303,22 +1299,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Endless Sacrifice",
-        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
+        "name": "Thunderstorm EP",
+        "url": "https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+          "name": "Dok & Martin",
+          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
         },
         {
-          "name": "Flu",
-          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
+          "name": "Carlos P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr"
         }
       ],
-      "duration_ms": 437653,
-      "name": "Heading North",
-      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
+      "duration_ms": 417246,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1343,6 +1339,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Endless Sacrifice",
+        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Flu",
+          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
+        }
+      ],
+      "duration_ms": 437653,
+      "name": "Heading North",
+      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
         "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 308576,
       "name": "VIEW FROM MY BALCONY AT NIGHT",
       "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
-      },
-      "artists": [
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     }
   ],
   "unique_name": "Deep Study",

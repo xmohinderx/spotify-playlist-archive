@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-235 songs - 17 hr 29 min
+236 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* | 2023-01-03 |
 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 | 2022-12-05 |  |
 | [Arabic Soul](https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1), [Anas Otman](https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9) | [Arabic Soul](https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH) | 4:33 | 2022-10-14 |  |
+| [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 | 2023-02-04 |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 |  |
@@ -116,7 +117,7 @@
 | [Lala](https://open.spotify.com/track/4e8eGYuknZV22JYoOCV2MY) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/6k4FU5NkKbVg64krIS9fjC) | 6:34 | 2020-10-18\* | 2022-07-29 |
 | [Lala](https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6) | 6:34 | 2022-06-27 |  |
 | [Lalai](https://open.spotify.com/track/05DbXdyYmbC4FMsALulcSa) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Ariana Vafadari](https://open.spotify.com/artist/40VqpakNhSvLxqMqfhARDY) | [Lalai](https://open.spotify.com/album/3wOQ7OS70pSBJ5GHHf9JG3) | 6:30 | 2022-03-13 |  |
-| [Lalla Aicha \- Main Mix](https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Lalla Aicha Incl\. Remixes](https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp) | 5:38 | 2020-10-18\* |  |
+| [Lalla Aicha \- Main Mix](https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Lalla Aicha Incl\. Remixes](https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp) | 5:38 | 2020-10-18\* | 2023-02-08 |
 | [lamma bada yatathana](https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Mia\-Maria](https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n) | [lamma bada yatathana](https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU) | 7:01 | 2022-02-28 |  |
 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 | 2021-09-19 |  |
 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 | 2022-10-27 |  |
