@@ -1,0 +1,45 @@
+pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain](/playlists/plain/2umhFr6VmhHDDT1Tdlc8s4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2umhFr6VmhHDDT1Tdlc8s4)
+
+### [hope is good](https://open.spotify.com/playlist/2umhFr6VmhHDDT1Tdlc8s4)
+
+> 
+
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 33 songs - 1 hr 55 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
+| 2 | [Pink in the Night](https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:16 |
+| 3 | [f a r a w a y](https://open.spotify.com/track/50gzNT25PnHPq9r7OAWKv5) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:50 |
+| 4 | [Time I Love To Waste](https://open.spotify.com/track/0yQj6jvxjDYWkjZor9UezX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love To Waste](https://open.spotify.com/album/6xS2tk8vwMQeCGZ8s8VJdV) | 3:17 |
+| 5 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
+| 6 | [Finally // beautiful stranger](https://open.spotify.com/track/1LCGfWwdgI1o7En7ZrdIOm) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:41 |
+| 7 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
+| 8 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 |
+| 9 | [Kindergarten](https://open.spotify.com/track/2R05HGHjfDXtz24bVoYHOu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:25 |
+| 10 | [God in Jeans](https://open.spotify.com/track/1pu4luiWwVAcJRoCuqJfWg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 2:52 |
+| 11 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
+| 12 | [Manta Rays](https://open.spotify.com/track/3sWgoaftdzDcdwfHT6404A) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:31 |
+| 13 | [Strawberry Blonde](https://open.spotify.com/track/1MWiZrb1UkZ49GXOtWuku5) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:47 |
+| 14 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 |
+| 15 | [Apple Pie](https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 4:19 |
+| 16 | [Elise](https://open.spotify.com/track/6gjUxk2gNqaMtTYV0t3PPB) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Elise](https://open.spotify.com/album/4l6ZT3vOoiE0dGLvB9VgJ2) | 4:14 |
+| 17 | [In Agreement](https://open.spotify.com/track/0dyYA68FsaBGDKfmu9pQm6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:47 |
+| 18 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
+| 19 | [Plot Twist](https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/2JYYakgDf5R0Ych28NvYkS) | 3:27 |
+| 20 | [Call It What You Want](https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:23 |
+| 21 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 22 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 |
+| 23 | [Here Comes a Thought \(feat\. Estelle & AJ Michalka\)](https://open.spotify.com/track/1SJhYNxOZSItqrB6upWyE6) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [AJ Michalka](https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 3:22 |
+| 24 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
+| 25 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
+| 26 | [Book Club](https://open.spotify.com/track/7K9Xfq9bN1yeSVotMWGZSp) | [Lili Trifilio](https://open.spotify.com/artist/2vVwxy0e99VQzinIJhaifB) | [Book Club](https://open.spotify.com/album/6VqQx1ZdHbxcsw1z9GPejp) | 3:49 |
+| 27 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 |
+| 28 | [not a lot, just forever](https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:10 |
+| 29 | [Glitch](https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:28 |
+| 30 | [Soft](https://open.spotify.com/track/6sLuDSmMBqADZOt1NPTm1x) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:52 |
+| 31 | [Like Slow Disappearing](https://open.spotify.com/track/2N1ySGeZxPjm0PqTiIkmjJ) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/1v7hBIWUmfhggbxYd9HIW7) | 3:55 |
+| 32 | [Life We've Built](https://open.spotify.com/track/0vyc9xaz0TaDicl4F2AuQQ) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Life We've Built](https://open.spotify.com/album/5kxKNgs6U71Oj9asgDLzvH) | 3:49 |
+| 33 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
+
+Snapshot ID: `NDAsNzQ1MWFhYWM5ZGQyMjVlYzIyMjA1NWE1OWUzNTIyMjEzNTYzMTQ5Yw==`
