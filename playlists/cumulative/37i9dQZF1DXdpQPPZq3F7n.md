@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Best Bollywood love songs from last 10 years\. Cover \- Bhediya
+> Bollywood's biggest love songs from last 10 years\. Cover \- Shershaah
 
 142 songs - 10 hr 3 min
 

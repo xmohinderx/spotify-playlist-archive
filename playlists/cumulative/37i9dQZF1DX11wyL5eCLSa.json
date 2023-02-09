@@ -568,7 +568,7 @@
           "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162719,
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 216344,
       "name": "Noche Estelar",
       "url": "https://open.spotify.com/track/5jj4mN9MQcGnpgCj1bootx"
@@ -2640,7 +2640,7 @@
           "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
         }
       ],
-      "date_added": "2023-02-01",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199266,
@@ -2702,7 +2702,7 @@
           "url": "https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 432914,
@@ -3294,6 +3294,24 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+    },
+    {
+      "album": {
+        "name": "Un d\u00eda como hoy",
+        "url": "https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202721,
+      "name": "Un d\u00eda como hoy",
+      "url": "https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re"
     },
     {
       "album": {

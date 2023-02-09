@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Cocco
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,309 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,383 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
-| 2 | [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 |
+| 2 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 |
 | 3 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 |
 | 4 | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/track/5C8lhC7xMmNsNNBnP37aPB) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/album/0CQhF63ygOw27OlcvmIfUc) | 3:09 |
 | 5 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 36 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 37 | [一番会いたい人](https://open.spotify.com/track/5Uk74xpE1KXeGKsKLPpEZ9) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [バレンタインが今年もやってくる](https://open.spotify.com/album/0IDNLAeCw38HIxSrzmZ7jk) | 2:50 |
 | 38 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
-| 39 | [プラチナ](https://open.spotify.com/track/2yNpUnDvlffYNdQMOvDMs3) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界2](https://open.spotify.com/album/2XzVEDVqPPB0raP9VL9dUU) | 4:32 |
+| 39 | [Platinum](https://open.spotify.com/track/6e8wPXQkg6uvx6bahAEzc0) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 2](https://open.spotify.com/album/7wa8VtCkuH1de2C3mGYcfI) | 4:32 |
 | 40 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 41 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 |
 | 42 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [^^](https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8) | [Mirei Toyama](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [^^](https://open.spotify.com/album/1BI02iaqO3qhY9TEvPrTAs) | 4:06 |
 | 100 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 |
 
-Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDg5ZjNjNDcxOTdkY2Y2YTVlYzZiZjUzMzZiNTQ5YWVl`
+Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDdlZTVmMzhiNzk3NDI0NjUxNDJkNjI1OGY4NTExNWQ4`

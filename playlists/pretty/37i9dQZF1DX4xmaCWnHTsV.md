@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,932 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,930 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 4 | [Shake, Rattle And Roll](https://open.spotify.com/track/5z2Gef9D3UgRquZXe7UUW4) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:29 |
 | 5 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 6 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 |
-| 7 | [Twenty Flight Rock](https://open.spotify.com/track/0Lx4qHJ7ZBoSZvc704wsDd) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [Never To Be Forgotten](https://open.spotify.com/album/7n5TBiq6TqYMSK8i3t5ETL) | 1:45 |
-| 8 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 7 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 8 | [Twenty Flight Rock](https://open.spotify.com/track/0Lx4qHJ7ZBoSZvc704wsDd) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [Never To Be Forgotten](https://open.spotify.com/album/7n5TBiq6TqYMSK8i3t5ETL) | 1:45 |
 | 9 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 10 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
 | 11 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 49 | [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 |
 | 50 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMGVmMTIxMzQ3MWNhN2ViMWNhNDdiN2IzOGY5YWNkNjI1`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDhlYTYxNzZiZDBmMmUwMDdhZmU0YzM1MWZkNmU0ZmE2`

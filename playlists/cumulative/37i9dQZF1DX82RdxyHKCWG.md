@@ -4,7 +4,7 @@
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: Anne\-Marie
 
-439 songs - 22 hr 33 min
+440 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2022-09-23 | 2022-10-29 |
 | [Bailar](https://open.spotify.com/track/5eUoWJogWW9OcqslJMT2I8) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Bailar](https://open.spotify.com/album/4uO6VJwIlkiMUZ8HZi6faW) | 2:46 | 2023-01-20 | 2023-02-04 |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-05-23 | 2022-05-28 |
+| [Balinha de Coração](https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:16 | 2023-02-09 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-05-23 | 2022-12-10 |
 | [Be Someone \(feat\. Ray X Ben\)](https://open.spotify.com/track/0XMl0fVTh3PyPlwyJTn33n) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [Be Someone \(feat\. Ray X Ben\)](https://open.spotify.com/album/0Vwyb2eozh9pmtD8KwtVYm) | 2:46 | 2022-12-30 |  |
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-08-05 | 2022-08-13 |
@@ -163,7 +164,7 @@
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-13 |  |
 | [golden hour \- Shirley Setia Remix](https://open.spotify.com/track/1cWiqwPAOLRrXQ8SqfqsZU) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI) | [golden hour \(Shirley Setia Remix\)](https://open.spotify.com/album/5Ski0Ppta6ZwgVIWa8NA5q) | 3:30 | 2022-12-02 | 2023-01-14 |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-24 | 2023-01-06 |
-| [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-10-28 |  |
+| [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-10-28 | 2023-02-09 |
 | [Good Ones](https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Ones](https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt) | 2:16 | 2022-05-23 | 2022-11-05 |
 | [Got Me Good](https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Got Me Good](https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz) | 2:45 | 2022-07-14 | 2022-08-13 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-14 | 2023-01-14 |

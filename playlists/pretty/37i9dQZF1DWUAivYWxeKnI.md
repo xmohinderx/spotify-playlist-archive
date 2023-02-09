@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Meet the lineup of HIPHOPPLAYA FESTIVAL 2022, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2022의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,252 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 2 | [MOMMAE \(Feat\. Ugly Duck\)](https://open.spotify.com/track/3MuGoW19i72vekvJoeAIxl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:24 |
 | 3 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
 | 4 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 |
-| 5 | [It Takes Time \(Feat\. Colde\)](https://open.spotify.com/track/3mNbGPCLCxia3yvwWp2P51) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It Takes Time](https://open.spotify.com/album/0xXGOAjE8NhRvFhMrQaRDS) | 3:51 |
-| 6 | [Too Much \(Feat\. DEAN\)](https://open.spotify.com/track/1iArAuiiDPjtZcwO33YeLF) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:10 |
+| 5 | [It Takes Time \(Feat\. Colde\)](https://open.spotify.com/track/1hhhgA9X2UJCxV4Vk8exVp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It Takes Time](https://open.spotify.com/album/47sIbI9FkULa7w0FHRB8Gl) | 3:51 |
+| 6 | [Too Much \(Feat\. DEAN\)](https://open.spotify.com/track/1uhxMfjhglHoWlNyN3JaGs) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:10 |
 | 7 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 |
 | 8 | [Oasis](https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 3:11 |
 | 9 | [FIANCÉ](https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:27 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 73 | [J2B](https://open.spotify.com/track/60Gr8uHBBIQyRSVBVDFYOv) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Dingo X DAMOIM Pt\. 3](https://open.spotify.com/album/3DWCLOaIxaO5n3gIwPporl) | 4:35 |
 | 74 | [RUN DAMOIM](https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Dingo X DAMOIM Pt\. 4](https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE) | 3:51 |
 
-Snapshot ID: `MTY2Mzc0NDEwMCwwMDAwMDAwMGMwZGE5ZjlkNmUyNDljYmQ3MTc3NmQwYzA2NGRjZDIz`
+Snapshot ID: `MTY2Mzc0NDEwMCwwMDAwMDAwMDNmMTAwZDgyODkwNmE5MzgzMjk0ZGQ3ODc5NTBiODEx`

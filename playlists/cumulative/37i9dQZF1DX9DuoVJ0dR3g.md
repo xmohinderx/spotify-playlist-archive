@@ -2,7 +2,7 @@
 
 ### [This Is Silverchair](https://open.spotify.com/playlist/37i9dQZF1DX9DuoVJ0dR3g)
 
-> Generation defining music, one playlist.
+> The best of Silverchair, all in one playlist.
 
 62 songs - 4 hr 16 min
 

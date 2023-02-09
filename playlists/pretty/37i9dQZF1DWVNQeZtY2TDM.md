@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: AJ \(賴煜哲\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,112 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,134 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 61 | [MS1021](https://open.spotify.com/track/4fN51gSuL0T1QsIBQoG6FB) | [大袋 XAMAX](https://open.spotify.com/artist/6WDt8bC3yWK6yWA7ri0ngf) | [MS1021](https://open.spotify.com/album/2NSPaxy7V2ijn4f7HpGOpX) | 3:16 |
 | 62 | [行憲紀念日](https://open.spotify.com/track/4ZOvfG6ZNXr05QGgOe4N55) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z) | [行憲紀念日](https://open.spotify.com/album/0JQVAB9iWGufwRjiZY5Yc0) | 3:58 |
 | 63 | [If Only](https://open.spotify.com/track/0FFoseRrR7f5CBPpUEs3Ua) | [Zadon](https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X), [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [If Only](https://open.spotify.com/album/36QXY33eNXodxtuLORTqeA) | 3:03 |
-| 64 | [出來玩](https://open.spotify.com/track/37klS3XSjdMSEYvWTZulOY) | [小人](https://open.spotify.com/artist/4OyHaNDJ7PskXAIjZ8tBzK) | [出來玩](https://open.spotify.com/album/3lQT3alsMs5aNLCT0Vw0iU) | 3:54 |
+| 64 | [出來玩](https://open.spotify.com/track/37klS3XSjdMSEYvWTZulOY) | [小人](https://open.spotify.com/artist/3DS2qM98Snm2gSQVfoFsx6) | [出來玩](https://open.spotify.com/album/3lQT3alsMs5aNLCT0Vw0iU) | 3:54 |
 | 65 | [Dejavu](https://open.spotify.com/track/0c4SYDG2fS04yf2A1Wteu6) | [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc) | [Dejavu](https://open.spotify.com/album/1fNhUx4JEb40ZozFIeS4f2) | 2:47 |
 
 Snapshot ID: `MTY3NTY0ODQxMSwwMDAwMDAwMGYyMjY3ZDZkYTgzODIyNjliNTdjMDE4ZWQ0NGY0OTI2`

@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 29697,
+  "num_followers": 29698,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGJlYTVmMWFjZWI3NWI5YmNmOWFjMmU2NzZlMmU0ZGU4",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDJmZTY1ZTZhOTVlMjc2N2NkZGQxYzgxNjg3ZTgzNmNi",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
+        "name": "Bajo Piel",
+        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
       },
       "artists": [
         {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+          "name": "Guillermo Vadala",
+          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
         }
       ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+      "duration_ms": 301000,
+      "name": "Willie",
+      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Bajo Piel",
-        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
       "artists": [
         {
-          "name": "Guillermo Vadala",
-          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Willie",
-      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "ROM\u00c1N",
-        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
-      },
-      "artists": [
-        {
-          "name": "ROM\u00c1N",
-          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
-        },
-        {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
-        }
-      ],
-      "duration_ms": 291561,
-      "name": "Bill's Groove",
-      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "ROM\u00c1N",
+        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
+      },
+      "artists": [
+        {
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+        },
+        {
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+        }
+      ],
+      "duration_ms": 291561,
+      "name": "Bill's Groove",
+      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
         }
       ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
       "artists": [
         {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
       },
       "artists": [
         {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
         }
       ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -775,6 +775,22 @@
       "duration_ms": 382989,
       "name": "Lunfardo",
       "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
-      },
-      "artists": [
-        {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 347200,
       "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 324506,
       "name": "Pretos",
       "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
+        }
+      ],
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1255,42 +1255,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
-      },
-      "artists": [
-        {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1327,22 +1291,38 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
       "artists": [
         {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
         }
       ],
-      "duration_ms": 341695,
-      "name": "Way You Look Tonight The",
-      "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1359,6 +1339,26 @@
       "duration_ms": 146757,
       "name": "A Bajo y Pa'fuera",
       "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "Way You Look Tonight The",
+      "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
     },
     {
       "added_at": "2022-11-18 03:00:00",

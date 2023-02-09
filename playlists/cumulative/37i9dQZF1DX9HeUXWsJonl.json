@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "INFRARED",
+        "url": "https://open.spotify.com/album/2XZ9eueSfxDmmcqLql3FHB"
+      },
+      "artists": [
+        {
+          "name": "Ktyb",
+          "url": "https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160290,
+      "name": "INFRARED",
+      "url": "https://open.spotify.com/track/4qsOcufxPFQpnpf1MVemDV"
+    },
+    {
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF"
       },
@@ -1055,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Khir",
+        "url": "https://open.spotify.com/album/1XyZvi7vMiQ2bCWNIhOi2z"
+      },
+      "artists": [
+        {
+          "name": "JenJoon",
+          "url": "https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Khir",
+      "url": "https://open.spotify.com/track/26Xvxzbj11H9b04kc7RTZ4"
+    },
+    {
+      "album": {
         "name": "Khoufi (\u062e\u0648\u0641\u064a)",
         "url": "https://open.spotify.com/album/0onvc61yJBF3JrcvfmmjRI"
       },
@@ -1124,7 +1160,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 233335,
       "name": "La Loum",
       "url": "https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX"
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 215397,
       "name": "M'en b3id l b3id",
       "url": "https://open.spotify.com/track/2Uwc35Xx5gtWBFZGZtoeRb"
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 212571,
       "name": "Ma Tebki Ya Ain",
       "url": "https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6"
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 235186,
       "name": "Sous tension",
       "url": "https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN"
@@ -2399,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Youm Wara Youm",
+        "url": "https://open.spotify.com/album/12rqCKonJMpJeawjO5zHT9"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245633,
+      "name": "Youm Wara Youm",
+      "url": "https://open.spotify.com/track/5qicaloS3NlXFjw9HupZa6"
+    },
+    {
+      "album": {
         "name": "Zidni Bal3a (\u0632\u064a\u062f\u0646\u064a \u0628\u0644\u0639\u0629)",
         "url": "https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh"
       },
@@ -2600,10 +2654,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 224000,
       "name": "\u064a\u0627\u0645\u0627\u0644\u064a \u0639\u0644\u064a\u0627",
       "url": "https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0646\u0633\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/5HTrBgHnnnTVMN2ZSRdw7a"
+      },
+      "artists": [
+        {
+          "name": "Artmasta",
+          "url": "https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui"
+        },
+        {
+          "name": "Wiem Yahia",
+          "url": "https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234934,
+      "name": "\u064a\u0627\u0646\u0633\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/4olmN1eeTy2fTnAX6ZCwqJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl"

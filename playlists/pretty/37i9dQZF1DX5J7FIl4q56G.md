@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Falling In Reverse
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,953 likes - 54 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,222 likes - 54 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 34 | [Broken Arrow](https://open.spotify.com/track/7m7ZSRwR7YcAtPk1MPppYQ) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Broken Arrow](https://open.spotify.com/album/033NqA4U3vbH7Hm4GX2oqx) | 4:20 |
 | 35 | [Black Heart](https://open.spotify.com/track/4HtsdVBN8T9ro2DmdPKBt1) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Black Heart](https://open.spotify.com/album/7pBojLKV8hnzsVFdsmPnOs) | 4:21 |
 | 36 | [Vast and Infinite \(Jesu Remix\)](https://open.spotify.com/track/1MclcsvvxxLUVeVM14oFt7) | [Wake](https://open.spotify.com/artist/3eI8VStKilt8Wb2R4AD4vh), [Jesu](https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP) | [Vast and Infinite / Vast and Infinite \(Jesu Remix\)](https://open.spotify.com/album/1m4t7NpT9ukkIFl8mr8kwV) | 7:00 |
-| 37 | [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/track/5sItFPSVaFtRSu8KMhl7GH) | [Sortilège](https://open.spotify.com/artist/2mUthKsZa1UWKvbAcJWQ2U), [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/album/2xXS05tTeckiP1Vjwlawmc) | 6:32 |
+| 37 | [Derrière les portes de Babylone](https://open.spotify.com/track/40b0EgUE4XlHnzbv906vO6) | [Sortilège](https://open.spotify.com/artist/2mUthKsZa1UWKvbAcJWQ2U), [Myrath](https://open.spotify.com/artist/0jouQZDyvbmO4A2cx7iwtO) | [Derrière les portes de Babylone](https://open.spotify.com/album/7m2giU46bn3fcGh8ga2pt3) | 6:32 |
 | 38 | [Chrome](https://open.spotify.com/track/1FhYbcCLSOrmXdHBzOm1nQ) | [Bleach](https://open.spotify.com/artist/18Bd4tKfIWvuvbn5PxeeML) | [Chrome](https://open.spotify.com/album/7stO2y3bxLuuuEqpbogmVp) | 1:42 |
 | 39 | [Left Behind](https://open.spotify.com/track/50AQqRUpfes97koMaDba8V) | [Dear Agony](https://open.spotify.com/artist/4MzOxSmQFfxotAIxEz1eyk) | [Left Behind](https://open.spotify.com/album/3ewrrjwlnf1m8v9xmp4DOf) | 2:59 |
 | 40 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Sick and Wrong](https://open.spotify.com/track/3GEffdgRPX8LkfRJRrHjPc) | [Electron](https://open.spotify.com/artist/0QlVbfZTx8ex7cutyyUl3H) | [Sick and Wrong](https://open.spotify.com/album/3591dyk8WjpQKBqN8qY9Jj) | 4:41 |
 | 54 | [Prisoner Again](https://open.spotify.com/track/1F77lGM7TO9pCYi1bhE6kq) | [The Ongoing Concept](https://open.spotify.com/artist/7rzpJkLttUwGsrsZmOwZU5) | [Prisoner Again](https://open.spotify.com/album/55LtBWm25nBpbgqoOHyQmu) | 3:58 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGM3YTM0YTRlYWRkNWJmNmQ5MzMwNzVhMjVhNzYyNjIy`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDQ2NmE0MDAzOGZlMTdhNTc2ZmRkZGNkYjVhY2RjNzBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,233 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,679 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 | 100 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 |
 
-Snapshot ID: `MTY2OTkxMjA1NywwMDAwMDAwMDVlMDcxYTBkY2UwMjEwOWZjYWJmMTE0MjRjNzlmNDNi`
+Snapshot ID: `MTY3NTg3NTcxMCwwMDAwMDAwMDFjMGY5ZDY1YWMwNTQ2YzE4NWNiZmEzNDc2ODc4Mjgz`

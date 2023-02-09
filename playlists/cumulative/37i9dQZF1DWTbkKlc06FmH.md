@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-207 songs - 12 hr 28 min
+208 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-26 |  |
 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 | 2022-11-10 | 2022-12-21 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 |  |
-| [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 |  |
+| [All Through the Night](https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 3:01 | 2023-02-07 |  |
+| [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 | 2023-02-09 |
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-10-26 |
 | [Another One](https://open.spotify.com/track/0hI90Rfg7XR90i773C7EPo) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Another One](https://open.spotify.com/album/0pKHkskgK1hYJFkrpEGyZq) | 2:50 | 2022-12-15 |  |

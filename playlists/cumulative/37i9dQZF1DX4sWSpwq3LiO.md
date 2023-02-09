@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,543 songs - 2 day 20 hr 49 min
+1,544 songs - 2 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,8 @@
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-15 |  |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2020-12-08 | 2021-09-09 |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-03-31 | 2021-09-09 |
-| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-03 |  |
+| [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-02-03 |  |
+| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-03 | 2023-02-09 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2020-11-03 | 2022-05-27 |
 | [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2019-10-16 | 2020-11-10 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-08-08 |  |

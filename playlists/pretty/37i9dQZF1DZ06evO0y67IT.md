@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,153 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Spark](https://open.spotify.com/track/0B1DLVAVc2yM9IXJS2vy7G) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Zero](https://open.spotify.com/album/4P4KShJRERTru62QQ8WnO6) | 3:39 |
 | 50 | [Come Back Home \(Reprised\)](https://open.spotify.com/track/0oPYSVGiTrBQP2Dmv6N6IA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 4:11 |
 
-Snapshot ID: `Mjc5Mjk1OTQsMDAwMDAwMDA0NmQzNzQzYzJiZDVlMzQ5MmQ5YzQxNzY1YjgyNzYyOQ==`
+Snapshot ID: `Mjc5MzEzOTQsMDAwMDAwMDBlZDdmOTZmZmM5NGYwOGIyNGJkOGUxOWM4YjNhMDQyZA==`

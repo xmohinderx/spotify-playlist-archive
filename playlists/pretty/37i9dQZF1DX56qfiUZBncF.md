@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,703 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,749 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 49 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 50 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 51 | [Caffeine](https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ) | 3:05 |
-| 52 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
-| 53 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
+| 52 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
+| 53 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 54 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
 | 55 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
 | 56 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 60 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
 | 61 | [Feel Real](https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Life After Defo](https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW) | 4:12 |
 | 62 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
-| 63 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
-| 64 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
+| 63 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
+| 64 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
 | 65 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 66 | [I Can't Believe I Had You](https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Meet Again](https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU) | 4:28 |
 | 67 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 87 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
 | 88 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
 | 89 | [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 |
-| 90 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
-| 91 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
+| 90 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
+| 91 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
 | 92 | [Who Knows](https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 2:31 |
 | 93 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
 | 94 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 | 100 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 
-Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMGFhNDU5NjBjOTU0ZDRjMGRhNWZjM2YwMDUzY2YxNzA0`
+Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDU2MjVlZWRmYzJjOTFkOTljZDE2ZDk3NDRjMjFmZTZk`

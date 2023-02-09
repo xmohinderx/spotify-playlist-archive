@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5174,
+  "num_followers": 5178,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgyMzg3OSwwMDAwMDAwMDRlYmY1NWI1ZTQwMmUxNmJlNjAyMjdlYjMyMWU3ZWM3",
+  "snapshot_id": "MTY3NDgyMzg3OSwwMDAwMDAwMDQ4NDNmM2MwZTU5YTNhMjEzYzE1MjA3Mzk0ZTI4Nzk3",
   "tracks": [
     {
       "added_at": "2023-01-25 09:50:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-25 09:50:31",
       "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
-    },
-    {
-      "added_at": "2023-01-25 09:50:31",
-      "album": {
         "name": "Sumikko Gurashi 2.0",
         "url": "https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 91966,
       "name": "Sumikko Gurashi 2.0",
       "url": "https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak"
+    },
+    {
+      "added_at": "2023-01-25 09:50:31",
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2023-01-25 09:50:31",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2023-01-25 09:50:31",
       "album": {
-        "name": "Club Domani",
-        "url": "https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL"
+        "name": "Lingua in Fiamme",
+        "url": "https://open.spotify.com/album/2Ma0QxRuiFjfQd35owYuXy"
       },
       "artists": [
         {
-          "name": "Club Domani",
-          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
-        },
-        {
-          "name": "Airys",
-          "url": "https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc"
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
         }
       ],
-      "duration_ms": 257975,
-      "name": "A Che Ora l'Amore",
-      "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
+      "duration_ms": 183196,
+      "name": "Lingua in Fiamme",
+      "url": "https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy"
     },
     {
       "added_at": "2023-01-25 09:50:31",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-01-25 09:50:31",
       "album": {
-        "name": "Lingua in Fiamme",
-        "url": "https://open.spotify.com/album/2Ma0QxRuiFjfQd35owYuXy"
+        "name": "Club Domani",
+        "url": "https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL"
       },
       "artists": [
         {
-          "name": "Queen of Saba",
-          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        },
+        {
+          "name": "Airys",
+          "url": "https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc"
         }
       ],
-      "duration_ms": 183196,
-      "name": "Lingua in Fiamme",
-      "url": "https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy"
+      "duration_ms": 257975,
+      "name": "A Che Ora l'Amore",
+      "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
     },
     {
       "added_at": "2023-01-25 09:50:31",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-01-25 09:50:31",
       "album": {
+        "name": "Fammi sapere",
+        "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
+      },
+      "artists": [
+        {
+          "name": "Santissima Vicky",
+          "url": "https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Fammi sapere",
+      "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
+    },
+    {
+      "added_at": "2023-01-25 09:50:31",
+      "album": {
         "name": "We're So Lovely (Hard Ton Remix)",
         "url": "https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj"
       },
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2023-01-25 09:50:31",
       "album": {
-        "name": "Fammi sapere",
-        "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
-      },
-      "artists": [
-        {
-          "name": "Santissima Vicky",
-          "url": "https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Fammi sapere",
-      "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
-    },
-    {
-      "added_at": "2023-01-25 09:50:31",
-      "album": {
-        "name": "QUARANTENA",
-        "url": "https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS"
-      },
-      "artists": [
-        {
-          "name": "Les Flames",
-          "url": "https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP"
-        }
-      ],
-      "duration_ms": 124168,
-      "name": "QUARANTENA",
-      "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
-    },
-    {
-      "added_at": "2023-01-25 09:50:31",
-      "album": {
         "name": "Morsi",
         "url": "https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
+    },
+    {
+      "added_at": "2023-01-25 09:50:31",
+      "album": {
+        "name": "QUARANTENA",
+        "url": "https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS"
+      },
+      "artists": [
+        {
+          "name": "Les Flames",
+          "url": "https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP"
+        }
+      ],
+      "duration_ms": 124168,
+      "name": "QUARANTENA",
+      "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
     },
     {
       "added_at": "2023-01-25 09:50:31",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-402 songs - 23 hr 32 min
+403 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |
 | [Lights Out](https://open.spotify.com/track/75QDpUx2auLj2WBmq4D4DO) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Lights Out](https://open.spotify.com/album/1O3Pne76S6foaWI0eLw3BJ) | 2:55 | 2022-04-04 | 2022-06-15 |
-| [Limitless](https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:48 | 2022-11-16 |  |
+| [Limitless](https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:48 | 2022-11-16 | 2023-02-09 |
 | [Lions](https://open.spotify.com/track/3Q3VJJYQEvFDl3wiBfthKZ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions](https://open.spotify.com/album/53UBWp60OEikDwlHeoy0x3) | 3:52 | 2022-06-24 | 2022-09-09 |
 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 | 2022-12-05 |  |
 | [Locked Away](https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Locked Away](https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF) | 3:32 | 2021-11-19 | 2022-01-25 |
@@ -227,6 +227,7 @@
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
+| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-08 |  |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 | 2022-12-09 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |

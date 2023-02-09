@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 901966,
+  "num_followers": 902326,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMDNmYjg5Mzg2YTRlNTc0NmMyMmY0MmNjY2Q1MzkxNDU0",
+  "snapshot_id": "MTY3NTM1ODYxMSwwMDAwMDAwMDYyYThkNzg5MzRhNDZiNjM2MGNmNDY2NjcyNDdjYTg1",
   "tracks": [
     {
       "added_at": "2018-12-12 10:56:53",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
-      "added_at": "2023-02-08 00:51:17",
+      "added_at": "2023-02-09 00:34:43",
       "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
-      "added_at": "2023-02-08 00:51:17",
+      "added_at": "2023-02-09 00:34:43",
       "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Joined Up Writing/The Sitting Room",
-        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
-      },
-      "artists": [
-        {
-          "name": "Anne Clark",
-          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Our Darkness",
-      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
-    },
-    {
       "added_at": "2019-08-02 12:45:54",
       "album": {
         "name": "A Secret Wish (Analogue Sequence)",
@@ -2239,6 +2223,22 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Joined Up Writing/The Sitting Room",
+        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Clark",
+          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Our Darkness",
+      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
     },
     {
       "added_at": "2019-08-01 09:50:38",

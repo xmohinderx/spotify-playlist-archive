@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: YANG YOSEOP(\uc591\uc694\uc12d))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Im Changjung(\uc784\ucc3d\uc815))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 256640,
       "name": "After the uphill road",
       "url": "https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 232493,
       "name": "ALL ABOUT FAREWELL (with JAMIE)",
       "url": "https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 251320,
       "name": "Come back",
       "url": "https://open.spotify.com/track/3zerSNZzG5MqbyQK6mYH1d"
@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Hello It's Me (Re:WIND 4MEN Vol.05)",
+        "url": "https://open.spotify.com/album/5nff7NmnWT5MRZNSzsKJLP"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258972,
+      "name": "Hello It\u2032s Me",
+      "url": "https://open.spotify.com/track/4lZPSra8rhlTkwJHwsIrBw"
+    },
+    {
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB"
       },
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 275503,
       "name": "How Can I Forget You",
       "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
@@ -5436,6 +5454,24 @@
       "duration_ms": 250045,
       "name": "I'll Try",
       "url": "https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz"
+    },
+    {
+      "album": {
+        "name": "I'm a fool",
+        "url": "https://open.spotify.com/album/7dBmfaZvykDeq4HFGsuaTG"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "I'm a fool",
+      "url": "https://open.spotify.com/track/0qItZ9vDSIFleEQmsO6tsE"
     },
     {
       "album": {
@@ -6838,7 +6874,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 234404,
       "name": "Lonely way back home",
       "url": "https://open.spotify.com/track/3edsDNPzvnS7Pr3DyJRLSo"
@@ -7548,7 +7584,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 186047,
       "name": "Moon of Seoul",
       "url": "https://open.spotify.com/track/6jmn2IEoU3Yfw3j4hKgSlm"
@@ -8358,7 +8394,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 206340,
       "name": "Once, More Than Anyone",
       "url": "https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L"
@@ -8604,7 +8640,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 267013,
       "name": "Our story (Feat. Lee Ru Da)",
       "url": "https://open.spotify.com/track/5IwtQvh6siooeSKVvlmyLl"
@@ -9542,10 +9578,28 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 241080,
       "name": "Snow on Christmas",
       "url": "https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf"
+    },
+    {
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "album": {
@@ -9604,6 +9658,24 @@
       "duration_ms": 249120,
       "name": "Some days",
       "url": "https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/35bPymZ8g5lxGljWDL888d"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278186,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2NDq5NUvCItdPkczFLguj3"
     },
     {
       "album": {
@@ -9878,7 +9950,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 270693,
       "name": "Stand By Your Side",
       "url": "https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz"
@@ -10444,7 +10516,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 278533,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam"
@@ -10972,7 +11044,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 243071,
       "name": "The star",
       "url": "https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC"
@@ -11074,6 +11146,24 @@
       "duration_ms": 242024,
       "name": "The Wall",
       "url": "https://open.spotify.com/track/6laaGxiNcLZTYM7MNUKfV1"
+    },
+    {
+      "album": {
+        "name": "The way we were",
+        "url": "https://open.spotify.com/album/5ja9Rqpzs5Y0Q0P6VBKADE"
+      },
+      "artists": [
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258303,
+      "name": "The way we were",
+      "url": "https://open.spotify.com/track/1s2qz1ehVyS5EdCgt427hL"
     },
     {
       "album": {
@@ -12030,7 +12120,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 262146,
       "name": "When we were together",
       "url": "https://open.spotify.com/track/2IyOkE4P1dF0fUjDn40oAJ"
@@ -12650,7 +12740,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 262813,
       "name": "You are the inspiration (I will give you all reply)",
       "url": "https://open.spotify.com/track/1bwbh1C3ZZt6BkHkoYgUTV"
@@ -12968,7 +13058,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 253240,
       "name": "\uadf8\ub0a0\uc758 \uadf8\ub300\uc5ec",
       "url": "https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht"

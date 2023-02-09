@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Parker McCollum",
-  "num_followers": 398760,
+  "num_followers": 398826,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDY2ZjlkYjUxNjZlOWY3ZTY5NDI1ODFlNGM3ZGNjNGNk",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDI0MWQ1ZjU2NDNkZmQyNGY5OGFiMDU1NTlhZWUzYTM1",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "I'm Not Him",
-        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "I'm Not Him",
-      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Josh Abbott Band and Friends, Vol. 1",
         "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 279115,
       "name": "Don't It Make You Wanna Dance?",
       "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "I'm Not Him",
+        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "I'm Not Him",
+      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1555,22 +1555,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Once in a Blue Moon",
-        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 187216,
-      "name": "Once in a Blue Moon",
-      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Keep Up With A Cowgirl",
-        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+        "name": "Once in a Blue Moon",
+        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
       },
       "artists": [
         {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
         }
       ],
-      "duration_ms": 213759,
-      "name": "Keep up with a Cowgirl",
-      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
+      "duration_ms": 187216,
+      "name": "Once in a Blue Moon",
+      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1655,34 +1655,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Where Cotton Is King",
-        "url": "https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7"
+        "name": "Longcut",
+        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Where Cotton Is King",
-      "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"
+      "duration_ms": 200556,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
     }
   ],
   "unique_name": "Texas Country Now",

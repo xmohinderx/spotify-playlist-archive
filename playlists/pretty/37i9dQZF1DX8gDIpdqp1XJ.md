@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,948 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,225 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 68 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 |
 | 69 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 | 70 | [Top Steppa](https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 3:29 |
-| 71 | [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 |
-| 72 | [Ultimate Painting](https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo) | [Ultimate Painting](https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj) | [Ultimate Painting](https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha) | 3:39 |
-| 73 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
+| 71 | [Ultimate Painting](https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo) | [Ultimate Painting](https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj) | [Ultimate Painting](https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha) | 3:39 |
+| 72 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
+| 73 | [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 |
 | 74 | [Liberty Bell](https://open.spotify.com/track/62CfP87tk9IHEMfAI087tu) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 4:02 |
 | 75 | [Maps](https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z) | 4:36 |
 | 76 | [Tiger](https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM) | 3:00 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 83 | [Miracles3](https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles \(alt\)](https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA) | 3:30 |
 | 84 | [America's Cup](https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:49 |
 | 85 | [Shelter Song](https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Sun Structures \(Deluxe Version\)](https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl) | 3:10 |
-| 86 | [Red Petal](https://open.spotify.com/track/02aik4tdY4oRoWVKxvMUjP) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Superego](https://open.spotify.com/album/4EKaxR1v7cfcxYOchroVNz) | 2:54 |
-| 87 | [Optical Wealth](https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU) | [Cap'n Marble](https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod) | [Optical Wealth + Fox in a Hole](https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M) | 3:01 |
+| 86 | [Optical Wealth](https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU) | [Cap'n Marble](https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod) | [Optical Wealth + Fox in a Hole](https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M) | 3:01 |
+| 87 | [Red Petal](https://open.spotify.com/track/02aik4tdY4oRoWVKxvMUjP) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Superego](https://open.spotify.com/album/4EKaxR1v7cfcxYOchroVNz) | 2:54 |
 | 88 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
 | 89 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 |
 | 90 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 96 | [Dionysian State](https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:04 |
 | 97 | [If I Had My Way](https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7) | [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS), [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Protean Threat](https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI) | 2:47 |
 | 98 | [Clear](https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 3:27 |
-| 99 | [The Garden](https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [The Garden](https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD) | 4:08 |
-| 100 | [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 |
+| 99 | [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 |
+| 100 | [The Garden](https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [The Garden](https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD) | 4:08 |
 
-Snapshot ID: `MTY3NDg1ODU5MiwwMDAwMDAwMGIxMmJmOTY3ZjA3MGY3YTU3Mzg0NjM2OWM2OWU1NWM3`
+Snapshot ID: `MTY3NDg1ODU5MiwwMDAwMDAwMGYzYmEzODhhYWNiOTc2ZGVkYWFmZDZlZWM5NmNmNGY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,850 likes - 391 songs - 23 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,882 likes - 391 songs - 23 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 80 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 |
 | 81 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 |
 | 82 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 |
-| 83 | [Charlie´s Delight](https://open.spotify.com/track/4MxqQhmnUxdeXAnRRDB63w) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/4LPVXzjYqx8cVxiPUl4rSf) | 3:42 |
+| 83 | [Charlie´s Delight](https://open.spotify.com/track/41B3yDB64MzesxuKM5F3Mw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/0mDsu5vfFDA1FFRQ0uMCNZ) | 3:42 |
 | 84 | [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 |
 | 85 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 |
 | 86 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 390 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 | 391 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 
-Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMDJjNmM4ZDJkOTMxMThjZjA1Njg5ZjY5N2I5OTkwMGQ0`
+Snapshot ID: `MTY3NTM3ODg2MCwwMDAwMDAwMDY3NWU5MDQ1MzlkN2I2MDkwODc5NzNhOTkxNTI3MDNk`

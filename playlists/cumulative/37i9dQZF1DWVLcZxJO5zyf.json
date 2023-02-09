@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136706,
+      "name": "Balinha de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V"
       },
@@ -510,7 +532,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 143106,
       "name": "BRASIL T\u00c1 EM FESTA!",
       "url": "https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4"

@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-151 songs - 6 hr 14 min
+152 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [night walk](https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:09 | 2020-11-12 |  |
 | [night.owls](https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [night.owls](https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR) | 2:43 | 2022-04-01 | 2022-07-25 |
 | [Night.Owls](https://open.spotify.com/track/6cNfp0BOhhlETMpN7pBsXY) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [Night.Owls](https://open.spotify.com/album/4wHuyp7aHvQvmRDKBhTveN) | 2:43 | 2021-10-22 | 2022-07-29 |
+| [Nightcrawler](https://open.spotify.com/track/2qjPTOzkXdR32LF9udVEdl) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/2RTAQzO3WCaMn5lcpiC7hP) | 3:45 | 2020-11-12 |  |
 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 | 2023-02-02 |
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 |  |
 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 | 2022-11-21 |
@@ -142,7 +143,7 @@
 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 | 2022-04-08 |  |
 | [Sunny in Saint Lucia](https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Sunny in Saint Lucia](https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT) | 3:06 | 2022-09-23 |  |
 | [Sunset Cruise](https://open.spotify.com/track/4PDx95A1EalEnhMRHS7mdL) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [Sunset Cruise](https://open.spotify.com/album/0oIN2IV9x9mwfwt7Jqvfy6) | 2:24 | 2022-07-08 |  |
-| [Swoon](https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/4Ucs8ewijxhXKGhfPSqSLJ) | 3:35 | 2020-11-12 |  |
+| [Swoon](https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/4Ucs8ewijxhXKGhfPSqSLJ) | 3:35 | 2020-11-12 | 2023-02-09 |
 | [Swoon](https://open.spotify.com/track/6Yh6PrTPR2v8HROOGI6rOQ) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/0PEzkrtTs1umvdGSEPFcHd) | 3:35 | 2020-11-12 | 2022-07-29 |
 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 | 2020-11-12 |  |
 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 | 2020-11-12 |  |

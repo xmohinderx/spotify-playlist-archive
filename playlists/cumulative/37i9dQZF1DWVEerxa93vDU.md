@@ -4,7 +4,7 @@
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-291 songs - 12 hr 15 min
+292 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-03-03 |  |
 | [Charleston](https://open.spotify.com/track/0r1ToU0xBVU0WeEyay3VtN) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:44 | 2023-01-20 |  |
 | [Charming Spring](https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Charming Spring](https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx) | 2:08 | 2021-12-14 | 2022-01-06 |
-| [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-05-20 |  |
+| [Childhood](https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP) | 3:16 | 2023-01-20 |  |
+| [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-05-20 | 2023-02-09 |
 | [City Crows](https://open.spotify.com/track/2T7AgkxYbeoGb8u8cH3bA4) | [Steven Jacobson](https://open.spotify.com/artist/3wYvEFMQlP8PuCHvbtGO2K) | [Shade of Spring](https://open.spotify.com/album/1Rk6GlUSBebT9gp0QXc4oD) | 1:56 | 2022-03-30 |  |
 | [Clairière](https://open.spotify.com/track/352zT4Ijd9PUae6c3Wo2n8) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Clairière](https://open.spotify.com/album/6jSlxBgoHARjQXiRKBz1L6) | 2:04 | 2022-07-06 |  |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2021-12-14 |  |

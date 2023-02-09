@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Mr Eazi
 
-367 songs - 19 hr 25 min
+368 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [bAd IntentIons](https://open.spotify.com/track/0UnOyqOuDW8vk4P2mrjPEs) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [SON OF THE MOON](https://open.spotify.com/album/4TADoTcFGOBVTTMDGmTwfo) | 2:52 | 2022-08-18 | 2022-09-17 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-16 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-20 | 2022-07-09 |
-| [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 | 2022-11-21 |  |
+| [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 | 2022-11-21 | 2023-02-09 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-17 |  |
 | [Bando](https://open.spotify.com/track/5VJ5Ap0ZnPOv0fRq6FhKrl) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Bando](https://open.spotify.com/album/1DRMfkqsmrHdjBdBp43Zov) | 2:34 | 2021-12-20 | 2022-07-14 |
 | [Be My Luv](https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Be My Luv](https://open.spotify.com/album/4RDXWNXefxndbzqREBH6IA) | 3:43 | 2022-07-08 | 2022-10-13 |
@@ -291,6 +291,7 @@
 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 | 2021-12-20 | 2022-07-29 |
 | [Same Me](https://open.spotify.com/track/6Mag8vkOSsIXkXIOhgth2b) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Same Me](https://open.spotify.com/album/1op6NXxyj358pzO1VSX0WL) | 3:15 | 2022-02-11 | 2022-03-13 |
 | [Sankofa](https://open.spotify.com/track/6ycmsiVAABX5V4yQTHV3hT) | [Arathejay & Wise Shady](https://open.spotify.com/artist/79QKQppwySTa6vLoXCvTfB) | [Sankofa](https://open.spotify.com/album/18PGHWfKSxX84DUFihP483) | 3:16 | 2022-08-18 | 2022-09-17 |
+| [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 | 2022-11-21 |  |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-05-06 | 2022-12-17 |
 | [Saweet P](https://open.spotify.com/track/0XxixWOY8e2Bnh3gDe87h0) | [DTOPIK](https://open.spotify.com/artist/7aSPID7bSj8lMbVTo1mNJr) | [Saweet P](https://open.spotify.com/album/2u1JigmZIrSBlzdfHvNhzm) | 2:13 | 2021-12-20 | 2022-01-07 |
 | [Say Nothing](https://open.spotify.com/track/552E70n6qFwVvvtLr3O56X) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Say Nothing](https://open.spotify.com/album/58kocozKwxb5wnvfUJhMzL) | 2:27 | 2021-12-20 | 2022-05-25 |

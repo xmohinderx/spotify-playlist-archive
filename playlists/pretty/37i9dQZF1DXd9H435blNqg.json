@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 32722,
+  "num_followers": 32790,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGYzZjZmYjk3OWRlMjk3ZWQ4NGJkMjk1ZjE5MWVhMWM1",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGEzZGIwYzU4ODhhNjYyNDVhOThiMjM4NmQzZjY0Njdi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Moonshine Blue",
         "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 168752,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin\u2019",
+      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY"
-      },
-      "artists": [
-        {
-          "name": "Wild the Coyote",
-          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
-        }
-      ],
-      "duration_ms": 248478,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Up and Rolling",
         "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 191933,
       "name": "Bump that Mother",
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY"
+      },
+      "artists": [
+        {
+          "name": "Wild the Coyote",
+          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
+        }
+      ],
+      "duration_ms": 248478,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 220960,
       "name": "Go Crazy (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
+      },
+      "artists": [
+        {
+          "name": "Bhi Bhiman",
+          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Can't Nobody Stop Us",
+      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 212147,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Howlin' Sun",
+        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Sun",
+          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "The Day Took My Sunshine Away",
+      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -659,38 +691,6 @@
       "duration_ms": 187026,
       "name": "The Juice (feat. Marcus King)",
       "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
-      },
-      "artists": [
-        {
-          "name": "Bhi Bhiman",
-          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Can't Nobody Stop Us",
-      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Howlin' Sun",
-        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Sun",
-          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
-        }
-      ],
-      "duration_ms": 181285,
-      "name": "The Day Took My Sunshine Away",
-      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Bottom Shelf Gin",
-        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Bottom Shelf Gin",
-      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 167680,
       "name": "Love Your Lies",
       "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Bottom Shelf Gin",
+        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Bottom Shelf Gin",
+      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     }
   ],
   "unique_name": "Alt-Blue",

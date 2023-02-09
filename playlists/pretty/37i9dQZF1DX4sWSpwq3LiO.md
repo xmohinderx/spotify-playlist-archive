@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,872,143 likes - 316 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,873,944 likes - 316 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 145 | [Cuaderna Vía](https://open.spotify.com/track/29wXeahxSJmYAQcQHQS71o) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 3:17 |
 | 146 | [Gentle Stir](https://open.spotify.com/track/43gzo5RNf3HP1OLoJQsmQG) | [McCadden](https://open.spotify.com/artist/5EdcxBjQTVWZ1WN3S9L02i) | [Gentle Stir](https://open.spotify.com/album/0MUXkBjytOAusBIhPgX4ch) | 2:39 |
 | 147 | [Dualities](https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Dualities](https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm) | 2:09 |
-| 148 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 |
+| 148 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 |
 | 149 | [Rhetila](https://open.spotify.com/track/63gb8AihdONhOalTRVfo3o) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Rhetila](https://open.spotify.com/album/53390gyS26GUQVLL1nVIec) | 2:14 |
 | 150 | [solitude](https://open.spotify.com/track/6OlFD2bYRtoQexcfexfdvr) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [solitude](https://open.spotify.com/album/33W8LG9eguq9y7r7w44nJB) | 2:12 |
 | 151 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 315 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
 | 316 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 
-Snapshot ID: `MTY3NTQxMjM0MSwwMDAwMDAwMDllMTUzNDQ3YWU1NGFiNTVhOWRhZWZmYWM3OTBjNjI4`
+Snapshot ID: `MTY3NTQxMjM0MSwwMDAwMDAwMGNjZTVhMzQwYmJiMDA4NjEwODYxMjUyZTdiZTZjMTM3`

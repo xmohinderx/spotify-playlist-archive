@@ -1,12 +1,12 @@
 {
   "description": "the best of the best tracks. Cover: The Yeah Yeah Yeahs",
-  "num_followers": 782309,
+  "num_followers": 782970,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0OTcxOSwwMDAwMDAwMGRjNTM1ZjE4MmY5MGVjZDJkYWZjOGIxMWU0YWZmNzcz",
+  "snapshot_id": "MTY3NTQ0OTcxOSwwMDAwMDAwMGZjZTBjOTI3ODg5NjIwNmIwOTQ3ODM3OTFiNTk4M2Yz",
   "tracks": [
     {
       "added_at": "2023-01-18 01:27:10",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
-      "added_at": "2023-02-08 00:39:56",
+      "added_at": "2023-02-09 00:40:15",
       "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-18 01:27:10",
       "album": {
+        "name": "Steve Lacy's Demo",
+        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
+    },
+    {
+      "added_at": "2023-01-18 01:27:10",
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-01-18 01:27:10",
       "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2023-01-18 01:27:10",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 137141,
       "name": "Me and My Husband",
       "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": "2023-01-18 01:27:10",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2023-01-18 01:27:10",
@@ -1015,22 +1031,6 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "added_at": "2023-01-18 01:27:10",
-      "album": {
-        "name": "Steve Lacy's Demo",
-        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
     },
     {
       "added_at": "2023-01-18 01:27:10",

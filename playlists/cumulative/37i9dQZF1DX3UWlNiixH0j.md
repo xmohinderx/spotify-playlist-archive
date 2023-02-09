@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. Cover: GEZAN & Million Wish Collective
 
-157 songs - 10 hr 15 min
+159 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [GPS](https://open.spotify.com/track/07p84hBZV8ViWuSLXtCvfF) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [GPS](https://open.spotify.com/album/4HNInw0g44IblsgpOAXZVm) | 4:01 | 2023-01-24 |  |
 | [Graduate?](https://open.spotify.com/track/3WpSjOiEzXGH6uhXGiPf5P) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [IN NEUTRAL](https://open.spotify.com/album/3DuyCMdGyXiNFVveVfgten) | 4:00 | 2023-01-12 | 2023-01-25 |
 | [HALL\-ROLL](https://open.spotify.com/track/7hynAayzA6HbcRMQmjcv5n) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [HALL\-ROLL](https://open.spotify.com/album/4ZhZ61OsyegB5P42LjcvPu) | 3:11 | 2023-01-12 |  |
+| [HARU NO UTA](https://open.spotify.com/track/70IHg9snNwcH3UxT9F7FLM) | [Amesaki Annainin](https://open.spotify.com/artist/0XEsEWLXd1xYxp3oRbcSNE) | [Haru No Uta](https://open.spotify.com/album/0SYk6lfo4ixxsZeynroip5) | 4:29 | 2023-02-07 |  |
 | [Heart Out](https://open.spotify.com/track/5v4rT0n41XtkhHSaP5wSzl) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Heart Out](https://open.spotify.com/album/4Hy9cLV06yCCttpjFtClv8) | 2:44 | 2023-01-12 | 2023-01-25 |
 | [Heaven](https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Heaven](https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0) | 3:27 | 2023-01-12 |  |
 | [HENSHIИ](https://open.spotify.com/track/1wCAizrOQ9SaVgQpPEpQvN) | [Mlle.](https://open.spotify.com/artist/5vZykXr0Y9ms4Rz4hFE7ZW) | [HENSHIИ](https://open.spotify.com/album/7CoWMZ2wbjxtHhm87yDjV4) | 3:32 | 2023-01-17 | 2023-01-25 |
@@ -67,6 +68,7 @@
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-24 |  |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 |  |
 | [Pluto](https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Pluto](https://open.spotify.com/album/0jedCYvpwYIdVKq180Elh5) | 3:49 | 2023-01-12 | 2023-01-27 |
+| [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 |  |
 | [Postpone](https://open.spotify.com/track/4Y5UKByLZinDQkAKUyg4PF) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Postpone](https://open.spotify.com/album/176bzSvfKBfWVcM5MfrbyO) | 2:35 | 2023-02-02 |  |
 | [RAINBOW](https://open.spotify.com/track/0RH0ixWWULcPcG48aXX5Y6) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [RAINBOW](https://open.spotify.com/album/31JC7DKLZhDpMvYVHEfpSB) | 2:12 | 2023-01-31 |  |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |
@@ -125,7 +127,7 @@
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
 | [たりないぼくら](https://open.spotify.com/track/4RwQK5CQQWMy77xbOukdYN) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [たりないぼくら](https://open.spotify.com/album/6hY8MJzTmUkw5MekeDre54) | 4:08 | 2023-01-17 |  |
 | [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 | 2023-02-03 |
-| [はるのうた](https://open.spotify.com/track/4riu1LebCr8xXjzQ5xBrPw) | [雨先案内人](https://open.spotify.com/artist/1LZhc9gTEbgA3X6e08EerJ) | [はるのうた](https://open.spotify.com/album/18jrsiF8GoY7MRhjpquue7) | 4:29 | 2023-02-07 |  |
+| [はるのうた](https://open.spotify.com/track/4riu1LebCr8xXjzQ5xBrPw) | [雨先案内人](https://open.spotify.com/artist/1LZhc9gTEbgA3X6e08EerJ) | [はるのうた](https://open.spotify.com/album/18jrsiF8GoY7MRhjpquue7) | 4:29 | 2023-02-07 | 2023-02-09 |
 | [ふたりの傷跡](https://open.spotify.com/track/1hu5dJ6w20i7N8z4o6himl) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ふたりの傷跡](https://open.spotify.com/album/2Op0O3DZ1OAyjenq6eNF3M) | 5:04 | 2023-01-12 | 2023-01-18 |
 | [ぼくらのまま](https://open.spotify.com/track/2MfBsbqFVELdvC6iBtk6SR) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ぼくらのまま](https://open.spotify.com/album/2F653wecMxIDfNxihYzsGs) | 4:12 | 2023-01-12 | 2023-01-26 |
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 |  |
@@ -137,7 +139,7 @@
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2023-01-12 |  |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2023-01-12 | 2023-01-18 |
 | [ボーイ・フッド](https://open.spotify.com/track/2d8lehd5MYTs1XaSj1dV5x) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [ボーイ・フッド](https://open.spotify.com/album/5sgr7UJL76fw12JsD3qC61) | 3:13 | 2023-01-24 | 2023-02-08 |
-| [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 | 2023-02-07 |  |
+| [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 | 2023-02-07 | 2023-02-09 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 |  |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-01-31 |  |
 | [ランサー](https://open.spotify.com/track/2dmG6t8pq9YqboZZv27gyL) | [塩入冬湖](https://open.spotify.com/artist/6BUwB5NQWck0uKpaFsOYhq) | [ランサー](https://open.spotify.com/album/3GzCFLfuhblsLkkGqUK7o8) | 5:31 | 2023-01-12 | 2023-01-18 |

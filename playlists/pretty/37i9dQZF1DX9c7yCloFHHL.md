@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Moby on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,801 likes - 300 songs - 23 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,936 likes - 300 songs - 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,9 +267,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 257 | [Dawn of Awakening](https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Dawn of Awakening](https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd) | 4:00 |
 | 258 | [Burnt](https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/6MaULV6Q82B2QA0A9SUSQs) | 3:26 |
 | 259 | [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 |
-| 260 | [Possibilities](https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Limits](https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu) | 4:38 |
-| 261 | [Shadye](https://open.spotify.com/track/5yTK1Ur5ONsjxaOq6ZfT27) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Vahiné](https://open.spotify.com/album/6FVf1hxUXKyJW8NHBaT2pd) | 7:51 |
-| 262 | [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 |
+| 260 | [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 |
+| 261 | [Possibilities](https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Limits](https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu) | 4:38 |
+| 262 | [Shadye](https://open.spotify.com/track/5yTK1Ur5ONsjxaOq6ZfT27) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Vahiné](https://open.spotify.com/album/6FVf1hxUXKyJW8NHBaT2pd) | 7:51 |
 | 263 | [Spheres](https://open.spotify.com/track/4SJ7geFw6zM9SOheQXrpnz) | [Svaha.](https://open.spotify.com/artist/35wl6gVa66JYBP8FejyJ82) | [Spheres](https://open.spotify.com/album/0CEQTc4JCPoP3ApxzEWAUl) | 3:00 |
 | 264 | [Wet The Day](https://open.spotify.com/track/1QYp72zf8szkIynwO7LfZR) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [One Day I'll Be on Time](https://open.spotify.com/album/14bmNzbjfysfg0SErQA4Pj) | 5:25 |
 | 265 | [Hanging D \- Alva Noto Remodel](https://open.spotify.com/track/2j2gpsFoJYC9ZGBx0baw5K) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Hanging D \(Alva Noto Remodel\)](https://open.spotify.com/album/2hcdZS9vyQn7kyRXFLeNfj) | 6:18 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 299 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 |
 | 300 | [Sea Of Clouds](https://open.spotify.com/track/5ZbpoQOZjglY8KF68WHx6O) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Sea Of Clouds](https://open.spotify.com/album/1IADEBArisEAT8heKCiICb) | 3:30 |
 
-Snapshot ID: `MTY3NDgzNzA4NCwwMDAwMDAwMDNlOGZmNmY3NjEyZjViYjc5YjI1MDUyNzE1YzFhMzc0`
+Snapshot ID: `MTY3NDgzNzA4NCwwMDAwMDAwMGNiODkyNzZmODRiOGIxM2I5YmJjMDIxMmY3Nzc2NWVl`

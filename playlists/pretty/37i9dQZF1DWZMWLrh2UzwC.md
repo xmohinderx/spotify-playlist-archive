@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,427 likes - 69 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,432 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [Get Loose](https://open.spotify.com/track/26Dp3W64T6yegoBFTZKfkS) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Get Loose](https://open.spotify.com/album/49qGe5FAl2uGdW10VVWK4P) | 3:20 |
 | 65 | [i wrote this song for you](https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more feelings](https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI) | 2:40 |
 | 66 | [20something](https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [20something](https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck) | 2:41 |
-| 67 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [歸綽嶢](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
+| 67 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
 | 68 | [STRAYDOGS](https://open.spotify.com/track/03aFaNBeCXmFl194HuyWKe) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [COM•PLEX](https://open.spotify.com/album/1maw4zEpmgAEHjoDxhmU6k) | 3:18 |
 | 69 | [MY TYPE \(feat\. ว่าน วันวาน, Youth Brush & bankbaboon\)](https://open.spotify.com/track/235Pt2UOQabqdCrvS1k5IG) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo), [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR), [bankbaboon](https://open.spotify.com/artist/0gHjQc8J02tkqJ36qcNt9R) | [MY TYPE \(feat\. ว่าน วันวาน, Youth Brush & bankbaboon\)](https://open.spotify.com/album/1C59cJJXSa4Jz5DBwcDQyv) | 4:35 |
 

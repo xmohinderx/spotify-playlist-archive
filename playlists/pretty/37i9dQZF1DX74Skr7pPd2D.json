@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 37778,
+  "num_followers": 37795,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGIzNDk2MGI3ODBkNzRmYTZhMWUxYWViN2UxOWQxN2U3",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMDJjZDNhYThhMWVlODk5ZThlN2FhOWFjYTBjNmY2N2Zm",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
@@ -527,6 +511,22 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Samba Para Dos",
-        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 120813,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 120813,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Lester Swings",
-      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The New Standard",
         "url": "https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 487026,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Ad Lib Blues",
-      "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
+      "duration_ms": 353026,
+      "name": "Ad Lib Blues",
+      "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "People Get Ready",
-      "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 312133,
       "name": "Maya",
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
     },
     {
       "added_at": "2019-10-04 16:01:14",

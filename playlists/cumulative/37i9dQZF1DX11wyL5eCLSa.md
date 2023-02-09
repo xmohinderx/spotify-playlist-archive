@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Astronomía Interior en portada.
 
-191 songs - 11 hr 58 min
+192 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Corre Amor](https://open.spotify.com/track/3qDXOJ1JaK50yFq5GU0B6L) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 | 2022-07-22 |  |
 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 | 2022-08-13 | 2022-10-27 |
-| [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 | 2023-01-28 |  |
+| [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 | 2023-01-27 |  |
 | [Cuenta Conmigo](https://open.spotify.com/track/1Gid2J2k7NAP2SE5N7a2Zs) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Estar Bien](https://open.spotify.com/album/2wiOiXYM1X9FxDIm2SG0bz) | 4:04 | 2022-04-22 | 2022-07-29 |
 | [Cuentas Claras \- With Pehuenche](https://open.spotify.com/track/4L82gzHNZlEGdlYgRJOJ7E) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Cuentas Claras \(With Pehuenche\)](https://open.spotify.com/album/0wg2lIFfR9kbL3huSVHLjU) | 3:34 | 2022-07-22 | 2022-07-30 |
 | [Cuento de Brujas](https://open.spotify.com/track/5MBmJKobRgVwJLScMUmo84) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa 97](https://open.spotify.com/album/36s3QXnJ8J4XNA0W1ALHiR) | 2:28 | 2022-09-02 | 2022-10-22 |
@@ -130,7 +130,7 @@
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2021-12-17 | 2022-07-12 |
 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 | 2022-04-09 | 2022-08-10 |
 | [No Te Reconozco](https://open.spotify.com/track/3lTjnw3XxJqKomdvoKU9Yi) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Te Reconozco](https://open.spotify.com/album/2dqyFFqLMcSC8pLnYrJFl2) | 3:48 | 2021-12-17 | 2022-07-02 |
-| [Noche Estelar](https://open.spotify.com/track/5jj4mN9MQcGnpgCj1bootx) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Noche Estelar](https://open.spotify.com/album/0CDcUKQydmwaQ0zHdXwMo5) | 3:36 | 2023-02-05 |  |
+| [Noche Estelar](https://open.spotify.com/track/5jj4mN9MQcGnpgCj1bootx) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Noche Estelar](https://open.spotify.com/album/0CDcUKQydmwaQ0zHdXwMo5) | 3:36 | 2023-02-05 | 2023-02-09 |
 | [Notas al pie](https://open.spotify.com/track/6diltNOyvymBMl2Y6EtT8q) | [Los De Antes](https://open.spotify.com/artist/4saIMy27b0DMbiFr1yRm5G), [Alfonso André](https://open.spotify.com/artist/0wkPNedbUJATaDya9lweyp) | [Notas al pie](https://open.spotify.com/album/1Md44Hvk1bIWgAsZE3z7ha) | 3:38 | 2022-08-09 | 2022-08-19 |
 | [Nube Fantasma](https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:44 | 2022-04-20 |  |
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2021-12-17 |  |
@@ -149,10 +149,10 @@
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2021-12-17 |  |
 | [Por Siempre](https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Por Encima](https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0) | 3:37 | 2021-12-17 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-28 |  |
-| [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-02-01 |  |
+| [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-01-27 |  |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 |  |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 |  |
-| [Recovered Files](https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn) | [Neuman](https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM) | [Recovered Files](https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv) | 7:12 | 2023-01-28 |  |
+| [Recovered Files](https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn) | [Neuman](https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM) | [Recovered Files](https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv) | 7:12 | 2023-01-27 |  |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-12-17 |  |
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 | 2022-11-17 |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
@@ -184,6 +184,7 @@
 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 |  |
 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 | 2022-11-25 |  |
 | [Ultramar](https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Álamo Paraíso](https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4) | [Ultramar](https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE) | 4:24 | 2022-08-09 | 2022-08-19 |
+| [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 | 2023-02-08 |  |
 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 | 2022-12-16 | 2023-02-03 |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 | 2022-07-30 |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-22 | 2022-07-30 |

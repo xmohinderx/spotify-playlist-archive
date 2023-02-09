@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 106625,
+  "num_followers": 106737,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDhjY2UzZjUwZDNmNTUzNWVkYjJlMTU4NDQxYzZhZTU3",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGFmMGU4YTNlMzA3OTU5MmNiNzlmNzNlMzU3NjkzM2Jl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Shallow and Profound",
-        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
-      },
-      "artists": [
-        {
-          "name": "Yonderboi",
-          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
-        }
-      ],
-      "duration_ms": 259105,
-      "name": "Riders On the Storm",
-      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Shallow and Profound",
+        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
+      },
+      "artists": [
+        {
+          "name": "Yonderboi",
+          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
+        }
+      ],
+      "duration_ms": 259105,
+      "name": "Riders On the Storm",
+      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Cold Water Music",
-        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
-      },
-      "artists": [
-        {
-          "name": "Aim",
-          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Cold Water Music",
-      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Cold Water Music",
+        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
+      },
+      "artists": [
+        {
+          "name": "Aim",
+          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Cold Water Music",
+      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Superluminal",
         "url": "https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 286386,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Nothing Changes Under The Sun",
+        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 325583,
       "name": "Emkay",
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The Cosmic Game",
-        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "The Cosmic Game",
-      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "The Cosmic Game",
+      "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Audience's Listening (U.S. Version)",
         "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 375546,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1547,6 +1531,22 @@
       "duration_ms": 440040,
       "name": "His Majesty King Raam",
       "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: grace ives
 
-2,052 songs - 4 day 13 hr 49 min
+2,054 songs - 4 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [HOT PINK](https://open.spotify.com/track/7C50hRx4Ao2DYHLBZZ6xh6) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 2:44 | 2021-04-03 | 2021-05-19 |
 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 | 2020-01-10 | 2020-05-29 |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2021-11-13 |
+| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-08 |  |
 | [How Are You Feeling?](https://open.spotify.com/track/4J3iVfVZXoop7UrhyhTN85) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 2:04 | 2021-12-03 | 2022-01-08 |
 | [How Does It Feel](https://open.spotify.com/track/7F2aEO8pNlweq3JWJyeyig) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [How Does It Feel](https://open.spotify.com/album/3Gcf5R2r95JU5ZLc369Dgs) | 3:12 | 2020-01-31 | 2020-05-14 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-12-01 | 2022-02-12 |
@@ -1824,6 +1825,7 @@
 | [The Leanover](https://open.spotify.com/track/1FVlIVvRMAzwygwd9M0Ccz) | [Life Without Buildings](https://open.spotify.com/artist/16tbi6bWXBzJ9pOMZ5gIC7) | [Any Other City](https://open.spotify.com/album/2yOa9ICNMAi78AWopdSOe1) | 5:23 | 2020-12-31 | 2021-01-07 |
 | [The Other Side](https://open.spotify.com/track/2mAy8zQhZJICLFUEVGQzbE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Other Side](https://open.spotify.com/album/2Ap31wFYdL2jMIMmy6YXes) | 2:52 | 2019-08-08 | 2019-10-03 |
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-03-11 | 2022-05-07 |
+| [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-08 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-15 |  |
 | [The Player](https://open.spotify.com/track/3Gxy35DHdgnCg0hrDDTgSF) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 4:04 | 2022-09-27 | 2022-10-29 |
 | [The Promise](https://open.spotify.com/track/4VWtDv7ASGkNGfPjTI8fPw) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 3:45 | 2022-02-11 | 2022-03-18 |

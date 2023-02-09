@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Skrillex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,457 likes - 150 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,592 likes - 150 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 71 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 |
 | 72 | [Honey](https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Honey](https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70) | 2:23 |
 | 73 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 |
-| 74 | [Skydive](https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Skydive](https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC) | 2:32 |
-| 75 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
+| 74 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
+| 75 | [Skydive](https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Skydive](https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC) | 2:32 |
 | 76 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
 | 77 | [Skyline](https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Skyline](https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg) | 4:10 |
 | 78 | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN) | 3:49 |
-| 79 | [DIMENSIONAL](https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Shyloom](https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG) | [MV//MNT](https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1) | 3:34 |
-| 80 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 |
-| 81 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 |
+| 79 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 |
+| 80 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 |
+| 81 | [DIMENSIONAL](https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Shyloom](https://open.spotify.com/artist/25MZxyt3nsEKGyDJQvb6HG) | [MV//MNT](https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1) | 3:34 |
 | 82 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 |
 | 83 | [Symptoms](https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Symptoms](https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7) | 2:28 |
 | 84 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Unbreakable](https://open.spotify.com/track/0lh3n2HWKOKluhmYgCEURe) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Unbreakable](https://open.spotify.com/album/28sXVX0LaJ29sM8nk5vneB) | 2:46 |
 | 150 | [Apart](https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Willone](https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf) | [Apart](https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8) | 2:56 |
 
-Snapshot ID: `MTY3NTQ1MTkzMSwwMDAwMDAwMGNkYWRiYzU4M2NiMDQ3NjJiNmEwMWU1OWU2OTJmNGQ5`
+Snapshot ID: `MTY3NTQ1MTkzMSwwMDAwMDAwMDE3MzIwNzU0ZTk1MTdmZmUxYWQ1ZDQ5ZWIyMGFkYTAx`

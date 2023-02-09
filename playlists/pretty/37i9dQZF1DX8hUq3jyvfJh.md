@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Carol Biazin e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,194 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,177 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 |
 | 25 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
 | 26 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
-| 27 | [burburinho](https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [BURBURINHO](https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP) | 3:34 |
-| 28 | [Eles nos Chamam de Amigos](https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Eles nos Chamam de Amigos](https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG) | 3:08 |
+| 27 | [Eles nos Chamam de Amigos](https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Eles nos Chamam de Amigos](https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG) | 3:08 |
+| 28 | [burburinho](https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [BURBURINHO](https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP) | 3:34 |
 | 29 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
 | 30 | [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 |
 | 31 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 32 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
-| 33 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 |
+| 32 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 |
+| 33 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
 | 34 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 | 35 | [ODEIO GENTE CHATA](https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [ODEIO GENTE CHATA](https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr) | 2:10 |
 | 36 | [Pra Te Envolver](https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
 | 50 | [Amor Indefinido](https://open.spotify.com/track/1rSdYMsc9Ct1AMtvRgNBvv) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Amor Indefinido](https://open.spotify.com/album/4S3iDE7Uwtm8uR9acKqHiz) | 2:27 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDllMDc1Njg0YzcyZThlOWM4ZDUzMGE0Njg5Nzk0NDhl`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDRkZWE0MDk5NTI3NWZlN2IyMmJiZWE4YzVmNzkyNTY0`

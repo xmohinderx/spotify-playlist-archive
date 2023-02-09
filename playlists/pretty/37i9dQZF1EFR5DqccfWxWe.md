@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 151 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 102 | [Vida](https://open.spotify.com/track/1bMa9LFg3QbJSD86mDXeS7) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:27 |
 | 103 | [10.13.13](https://open.spotify.com/track/6Z6iy2MwcMzWlxlsq4MM1E) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
 | 104 | [Stay](https://open.spotify.com/track/1jgBn5AgZuUx1RjUaUSmr4) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Passion Like Fire](https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y) | 3:33 |
-| 105 | [Goodbyes](https://open.spotify.com/track/7G0ID99OrcsW7zG4sOGHiE) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:55 |
-| 106 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 105 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 106 | [Goodbyes](https://open.spotify.com/track/7G0ID99OrcsW7zG4sOGHiE) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:55 |
 | 107 | [10.7.14](https://open.spotify.com/track/6YRIRe3COfYsMW0JH7GMVi) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:47 |
 | 108 | [Soy Lo Que Soy](https://open.spotify.com/track/24w6O9gs7felE9pcmOjf3g) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Soy Lo Que Soy](https://open.spotify.com/album/7orMhgDujvSpM5DPbI2RVT) | 3:06 |
 | 109 | [Wav.](https://open.spotify.com/track/1L7mmz2j14aDbGBSfvRABE) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Wav.](https://open.spotify.com/album/4mDFF1P7O3cFWY57CPycRE) | 3:15 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 146 | [Eternal Love](https://open.spotify.com/track/4GUQAABjI1c4XbRXo8wFL5) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 5:03 |
 | 147 | [Make a Choice](https://open.spotify.com/track/5Be0V4OFPWDE4ea8FFx8tB) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:45 |
 | 148 | [Beings of Light](https://open.spotify.com/track/7sKwEMiicg8E2GFjWdAFxh) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 4:49 |
-| 149 | [Wake Up](https://open.spotify.com/track/4rUBoWqYiQXoJZ5FE5Li2r) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:55 |
+| 149 | [Wake up Meditation \(Awakening\)](https://open.spotify.com/track/2Bvq5au2I9Lw8HcbCmvq9g) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade: Meditations](https://open.spotify.com/album/1Z21LzVXXvus0tqEfE80bm) | 7:39 |
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc5MzAyNDMsMDAwMDAwMDBkZWRhYzE3ZTBjMWYxOGNjNTFlNmQ2OWYyYzk1MGM2ZA==`
+Snapshot ID: `Mjc5MzE2ODQsMDAwMDAwMDA2ZGU2Njg3NzEwNmI5OGZmYjNkY2Y2NTNhNDA2MTVkZA==`

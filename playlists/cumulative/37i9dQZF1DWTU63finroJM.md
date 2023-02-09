@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-923 songs - 2 day 3 hr 41 min
+927 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-03-24 | 2022-04-17 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
+| [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 |  |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-02-03 | 2023-01-21 |
 | [DELITO](https://open.spotify.com/track/0K3dGPXHVALEqW8EEQGc3T) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:23 | 2022-03-24 | 2022-09-16 |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2022-03-24 | 2022-04-15 |
@@ -231,6 +232,7 @@
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-03-24 | 2022-08-25 |
 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 | 2022-09-15 |  |
 | [Enseñame](https://open.spotify.com/track/5cz12QiSo0AEtFlNobITug) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:49 | 2022-04-07 | 2022-04-12 |
+| [Espiral](https://open.spotify.com/track/4YO4YRZ3xDzWdAHn0XJLFG) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 3:07 | 2023-02-08 |  |
 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 | 2022-03-24 | 2022-09-16 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2022-03-24 | 2022-09-16 |
 | [Etiqueta Azul](https://open.spotify.com/track/7M4WCgr6kQlRbAx6yikw5y) | [Sami Duque](https://open.spotify.com/artist/2aYJnf8uGK6sH46VTa4xjX) | [Etiqueta Azul](https://open.spotify.com/album/5bJQC2aePaAborXiKfhLEt) | 2:34 | 2022-03-24 | 2022-04-21 |
@@ -399,6 +401,7 @@
 | [kraksa](https://open.spotify.com/track/6umyUWnKTDcv6rdSdJ4uSo) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [kraksa](https://open.spotify.com/album/6jU4WJczefdv9viLHQxE6B) | 2:52 | 2022-11-11 |  |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2022-02-03 | 2022-08-02 |
 | [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2023-01-20 |  |
+| [La Bachata](https://open.spotify.com/track/3tTzInzRZC7kRMK1sRfT14) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [La Bachata](https://open.spotify.com/album/2ZuHbnjlyHvDOTqMy1feF0) | 2:14 | 2023-02-08 |  |
 | [La Cura](https://open.spotify.com/track/731piI3gNHrXUnodLs8Npz) | [Sami Duque](https://open.spotify.com/artist/2aYJnf8uGK6sH46VTa4xjX) | [La Cura](https://open.spotify.com/album/1LsbLslaVvEe2FX6MzKHsU) | 3:03 | 2022-03-24 | 2022-04-20 |
 | [La Gata](https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [La Gata](https://open.spotify.com/album/0sO7Fx9saDoLs27OquHVb2) | 2:45 | 2022-03-31 | 2022-04-17 |
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-09-08 | 2022-12-15 |
@@ -439,6 +442,7 @@
 | [Love You Bae!](https://open.spotify.com/track/4YFEQfiGTDoyRNuJs2wrED) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [Love You Bae!](https://open.spotify.com/album/2nzxTLGnQttMP4O4IVgTHn) | 3:23 | 2022-02-03 | 2022-08-02 |
 | [Lové](https://open.spotify.com/track/53g4gARwjJHVGIqMLAKcYl) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:17 | 2022-03-24 | 2022-04-18 |
 | [Luka Yang Kurindu](https://open.spotify.com/track/0v7phHdROHvzpqTYeUQqtw) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Sebuah Cerita](https://open.spotify.com/album/2s1MfOgZZetupfPMptd49j) | 3:34 | 2022-02-10 | 2022-03-11 |
+| [Línea 7](https://open.spotify.com/track/7dKqJB09t92xID0Hw4ycMt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Línea 7](https://open.spotify.com/album/27lhcWFcNtAPhlxgkzsSmG) | 2:55 | 2023-02-08 |  |
 | [Ma Petite](https://open.spotify.com/track/5bSeIISxf9qsORBjc4BATA) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ma Petite](https://open.spotify.com/album/13TI9sopF88fXBHc8JeF6f) | 3:57 | 2022-03-24 | 2022-04-16 |
 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 | 2022-02-03 | 2022-03-15 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-06-29 | 2022-08-02 |

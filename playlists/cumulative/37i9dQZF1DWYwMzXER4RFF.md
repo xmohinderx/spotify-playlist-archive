@@ -2,9 +2,9 @@
 
 ### [Post Punk](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: Mhaol
+> New no wave, post\-punk, and anything else\. Cover: Squid
 
-308 songs - 19 hr 13 min
+309 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-13 |  |
 | [Delusion Spree](https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X) | 3:49 | 2022-03-11 | 2022-05-06 |
 | [Delusions Of Grandeur](https://open.spotify.com/track/52jHGLECyJck03wSgSktQv) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Delusions Of Grandeur](https://open.spotify.com/album/677N0k17KVgKOVLfjIlM9o) | 3:24 | 2022-02-11 | 2022-06-29 |
-| [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-02-04 |  |
+| [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-02-03 |  |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2021-12-06 | 2022-07-28 |
 | [Detainer Man](https://open.spotify.com/track/7fMaXnJ5ENukSySob1d07z) | [Pozi](https://open.spotify.com/artist/0i1dJNVY6kGU5lUzmwXNhS) | [Detainer Man](https://open.spotify.com/album/4BZUe5AfUkBoF0TVOrKrfk) | 2:53 | 2021-12-06 | 2022-07-24 |
 | [diamond horsetail](https://open.spotify.com/track/5sdp772V32Wl1wnDUNku0M) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [diamond horsetail](https://open.spotify.com/album/2iF2sjUKvFKFhf4qgDEmAg) | 3:25 | 2022-06-16 | 2022-07-25 |
@@ -88,7 +88,7 @@
 | [Don't Cling To Life](https://open.spotify.com/track/0KWnYZSO5GAzCJrgr4oGNr) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Don't Cling To Life](https://open.spotify.com/album/5yM1tyAoWPEuY4j6OTZo8b) | 2:26 | 2021-12-06 | 2022-07-28 |
 | [Down in the Basement](https://open.spotify.com/track/3EQGADvujDRkbRVBXV0fr8) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:36 | 2021-12-06 | 2022-07-28 |
 | [Down in the Basement](https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:36 | 2022-06-16 |  |
-| [Dust](https://open.spotify.com/track/5teSPAbVW6X7FXGfPh85HI) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Dust](https://open.spotify.com/album/7a06K94g2eIEF0iXFZolsZ) | 4:10 | 2023-02-04 |  |
+| [Dust](https://open.spotify.com/track/5teSPAbVW6X7FXGfPh85HI) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Dust](https://open.spotify.com/album/7a06K94g2eIEF0iXFZolsZ) | 4:10 | 2023-02-03 |  |
 | [Ecstasy](https://open.spotify.com/track/4CVOzpLvzCkpptq4PURXvi) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [You're Nothing](https://open.spotify.com/album/1kgjAIsKl7L2wE7Iaa9NGF) | 2:28 | 2021-12-06 | 2022-07-29 |
 | [Elegy Written in a Tesco Carpark](https://open.spotify.com/track/4tLTKwt3ror1q553KxH6yg) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Elegy Written in a Tesco Carpark](https://open.spotify.com/album/3mXhyiXG4aH9T3AEa6YTAU) | 2:59 | 2022-03-11 | 2022-07-15 |
 | [Energie](https://open.spotify.com/track/7zrzlGk7w1SfmonIYC953p) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Energie / Energia](https://open.spotify.com/album/0Zs6lOksFrXAhI2bLkkveD) | 2:55 | 2022-03-11 | 2022-07-24 |
@@ -160,7 +160,7 @@
 | [Kid Stuff \- Edit](https://open.spotify.com/track/7wOwbJ3x7nMzj7JthrVGuN) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Kid Stuff](https://open.spotify.com/album/3BLXawJu9gNVyMZrUskHt7) | 3:12 | 2021-12-06 | 2022-06-27 |
 | [Knife on the Platter](https://open.spotify.com/track/3ue21ZrK1pzDJXi0cicq7T) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Knife on the Platter](https://open.spotify.com/album/6ZS8LemGUtzs98174V98Ui) | 2:24 | 2021-12-06 | 2022-07-21 |
 | [Konichiwa Internet](https://open.spotify.com/track/1ECfCMGO2AO8kfWvm9OfrY) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Collector](https://open.spotify.com/album/1sIOFZNoxnybef3xu0n00M) | 3:11 | 2021-12-06 | 2022-07-25 |
-| [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 | 2023-02-04 |  |
+| [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 | 2023-02-03 |  |
 | [Last Breath](https://open.spotify.com/track/1ZMsAnynOVdPV4JXIDhfYu) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Last Breath](https://open.spotify.com/album/2O5SlD3mS0wiUtMkHdWd5B) | 2:59 | 2021-12-06 | 2022-07-29 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
 | [Lentil Soup](https://open.spotify.com/track/5GEfgaRwaecTBa8UF8UTgz) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Quale Futuro?](https://open.spotify.com/album/0mXRNzNk4uopEWssIXOEAZ) | 3:37 | 2021-12-06 | 2022-07-27 |
@@ -214,7 +214,7 @@
 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 | 2022-06-16 | 2023-02-04 |
 | [Paul](https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands With Jamie](https://open.spotify.com/album/3rVfXtGiIeKX1nkHXhiN1D) | 6:53 | 2021-12-06 | 2022-07-27 |
 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 | 2021-12-06 | 2022-07-28 |
-| [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-03-11 |  |
+| [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-03-11 | 2023-02-09 |
 | [Petty Thieving](https://open.spotify.com/track/3dxAvrqRv4KENeZTpACrnJ) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Petty Thieving](https://open.spotify.com/album/0KrIYFiZf4hEzi2BXUFfKp) | 4:01 | 2021-12-06 | 2022-07-29 |
 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 | 2022-03-11 | 2022-07-26 |
 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 | 2022-02-11 | 2022-07-28 |
@@ -244,7 +244,7 @@
 | [Silhouettes](https://open.spotify.com/track/07cUDeewEa1wMfKHUakxtK) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Viet Cong](https://open.spotify.com/album/63GwqLuSzZnAQpd1JBQKLT) | 4:12 | 2021-12-06 | 2022-07-29 |
 | [Sincerely Yours](https://open.spotify.com/track/681yJhwlkfzPd4ZRc9SUAF) | [Omni](https://open.spotify.com/artist/4MY2CPEoIHvbM8DGcbMi2m) | [Sincerely Yours](https://open.spotify.com/album/0r4IxuVq1zWj9VFdF79LcW) | 2:45 | 2021-12-06 | 2022-07-25 |
 | [Sit Down Meal](https://open.spotify.com/track/2TXt5g2SyO4ZPNcJnVVeCh) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sit Down Meal](https://open.spotify.com/album/0cxgI9cQswkiLXUqIGmilA) | 3:43 | 2021-12-06 | 2022-07-22 |
-| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-02-04 |  |
+| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-02-03 |  |
 | [Skeleton Key](https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Skeleton Key](https://open.spotify.com/album/3Ttd4RpgA0mZq7rxGIvc3A) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 | 2022-11-13 |
 | [Sludge](https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Sludge](https://open.spotify.com/album/4fVcSFvdj9XflGQ4HVhLYI) | 5:00 | 2021-12-06 | 2022-07-28 |
@@ -267,6 +267,7 @@
 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 |  |
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-12-06 | 2022-07-29 |
 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 | 2022-06-16 |  |
+| [Swing \(In A Dream\)](https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Swing \(In A Dream\)](https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT) | 4:29 | 2023-02-08 |  |
 | [Switching On \- IDLES Remix](https://open.spotify.com/track/5o351ccYqmwl4Nc5E7YE2z) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Switching On \(IDLES Remix\)](https://open.spotify.com/album/4pOEyrIgpZbPOboNsm7463) | 4:28 | 2021-12-06 | 2022-07-25 |
 | [Take Flight](https://open.spotify.com/track/3Y1ITNg38Lq4OzgzdKkbaX) | [Muck Spreader](https://open.spotify.com/artist/3MRaVMO8ZuzbkegIXYrFFY) | [Take Flight](https://open.spotify.com/album/1MBVNZ1VvPISEcdn30IZgu) | 2:01 | 2021-12-06 | 2022-07-15 |
 | [Taking On Time](https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Taking On Time](https://open.spotify.com/album/3KfdysWJU39uXlmN5ivR4S) | 3:08 | 2021-12-06 | 2022-07-29 |
@@ -313,7 +314,7 @@
 | [Who's My Eugene? \- Edit](https://open.spotify.com/track/5JqeO2yMJNmdgk2B7HPy9i) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/13p78S0Epiab4voDdM4F2w) | 4:08 | 2021-12-06 | 2022-07-19 |
 | [Who’s Got Time?](https://open.spotify.com/track/6rNIOIuVgJeftM3T0f0AVg) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Constant Image](https://open.spotify.com/album/6fvUDhvz6hDVck9epHLnf6) | 2:23 | 2021-12-06 | 2022-07-20 |
 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 | 2021-12-06 | 2022-07-27 |
-| [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 | 2023-02-04 |  |
+| [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 | 2023-02-03 |  |
 | [Word of Mouth](https://open.spotify.com/track/0eqF5phmisSN4XP2EhTkWl) | [Gardenback](https://open.spotify.com/artist/24jcYBi50Xm4GAxczYYDDm) | [Word of Mouth](https://open.spotify.com/album/0qHtxPnKrx4auLD9sKfLma) | 3:20 | 2021-12-06 | 2022-04-12 |
 | [yobantoite mojo](https://open.spotify.com/track/45AKIBFZn1KfSJiSp4evHd) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [yobantoite mojo](https://open.spotify.com/album/3s2dqZQYVgBfZ28HNGksBP) | 1:40 | 2021-12-06 | 2022-07-04 |
 

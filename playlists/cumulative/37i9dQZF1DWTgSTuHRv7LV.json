@@ -2559,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "El Anillo el Reloj",
+        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172524,
+      "name": "El Anillo el Reloj",
+      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
+    },
+    {
+      "album": {
         "name": "El Brinco",
         "url": "https://open.spotify.com/album/6Dunxl0sVEHEW12FiwiWb8"
       },
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 217285,
       "name": "En una Nota",
       "url": "https://open.spotify.com/track/7gStpbmmzKpj6Q3UQIFStv"
@@ -5415,6 +5433,28 @@
     },
     {
       "album": {
+        "name": "Lo Prieto",
+        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
+      },
+      "artists": [
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184625,
+      "name": "Lo Prieto",
+      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
+    },
+    {
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
@@ -5860,7 +5900,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 222857,
       "name": "Mi Plebada",
       "url": "https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF"

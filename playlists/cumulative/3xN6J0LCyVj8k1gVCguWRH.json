@@ -4879,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/2jgrbTzVrERUyb7ZsYMF0M"
+      },
+      "artists": [
+        {
+          "name": "Max Ryan",
+          "url": "https://open.spotify.com/artist/3bcq5wjn3efcN3e1UMOaY6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/76PKF2Ihe21IVbkBL5htzw"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/6byjFp4omznu164ZUSYHjb"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: André e Felipe, Leandro Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,136 likes - 90 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,366 likes - 90 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 73 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 74 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 |
 | 75 | [Tu És Fiel](https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Tu És Fiel](https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N) | 5:01 |
-| 76 | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/track/1ky0fvaC42xSV0cbu5hxOD) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/album/024maSzvAm5eyKH1do0HR7) | 7:34 |
-| 77 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
+| 76 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
+| 77 | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/track/1ky0fvaC42xSV0cbu5hxOD) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Teu Poder \(Eu Creio em Ti\) + Outra Vez](https://open.spotify.com/album/024maSzvAm5eyKH1do0HR7) | 7:34 |
 | 78 | [Oferta Agradável a Ti \- Ao Vivo](https://open.spotify.com/track/7LTeDQa9T63zjNdOUw7xw9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Oferta Agradável a Ti \(Ao Vivo\)](https://open.spotify.com/album/7vEFU7qP9JvE468fXZyKqi) | 3:52 |
 | 79 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 |
 | 80 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 89 | [Curado Serei](https://open.spotify.com/track/3uIsHQMOoGW5U9BW0BzqtE) | [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Curado Serei](https://open.spotify.com/album/2mBnXKCxXfNEl6CQd0u1Bc) | 5:29 |
 | 90 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 
-Snapshot ID: `MTY3NTQzNDE2NywwMDAwMDAwMGVjNDcyMDAzOWRkODNkY2MxZmIzYTA3ZTI0ZjE2OThl`
+Snapshot ID: `MTY3NTQzNDE2NywwMDAwMDAwMGMwMmFiM2Y4MWIzN2Q4ZDY4YTgyYTZmY2E3MTc3YzZm`

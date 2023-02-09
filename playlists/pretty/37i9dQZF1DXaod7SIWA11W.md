@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Kierra Sheard
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,847 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,036 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 40 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
 | 41 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 |
 | 42 | [All the Time \(Thinking Bout Me\)](https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Marcus Hodge](https://open.spotify.com/artist/4zp9HZh3LJ2K6qN5y4tkqi), [B SLADE](https://open.spotify.com/artist/1vXFOrqCxtBKdLaJqjLqOy), [1kphew](https://open.spotify.com/artist/3MQ4t2qrxZwxZbcp76jXAt) | [The Fallen Movie Soundtrack](https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO) | 2:58 |
-| 43 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
-| 44 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 |
+| 43 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 |
+| 44 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
 | 45 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 |
 | 46 | [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 |
 | 47 | [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 52 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 |
 | 53 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 54 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
-| 55 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
-| 56 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 |
+| 55 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 |
+| 56 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
 | 57 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 | 58 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 |
 | 59 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
 | 80 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 
-Snapshot ID: `MTY3NTMwNDcwOSwwMDAwMDAwMDQ4NjUwZTI1NDIxZmZkYzY0YWVhNjQ5YzJhZmQzMTk1`
+Snapshot ID: `MTY3NTMwNDcwOSwwMDAwMDAwMGRmYjc5OTExYjYyMmY5MDU2MDBiYzk1MzNjYzg2OTQ5`

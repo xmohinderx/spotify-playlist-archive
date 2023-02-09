@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 417159,
+  "num_followers": 417319,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGZkOWZkYWM1YzNlNmZmZGU1YjI3ZGE5ZmVmOWIyNmE4",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDllOTQxMzZhYmQ0ZDA1ZjYxMmE5OTNjM2ZjMzZiMjY5",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Acts Of God",
-        "url": "https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp"
-      },
-      "artists": [
-        {
-          "name": "Immolation",
-          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
-        }
-      ],
-      "duration_ms": 256553,
-      "name": "Apostle",
-      "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Under the Sign of Hell",
         "url": "https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 320333,
       "name": "Profetens \u00c5penbaring",
       "url": "https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Acts Of God",
+        "url": "https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp"
+      },
+      "artists": [
+        {
+          "name": "Immolation",
+          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
+        }
+      ],
+      "duration_ms": 256553,
+      "name": "Apostle",
+      "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
     },
     {
       "added_at": "2023-01-20 05:00:00",

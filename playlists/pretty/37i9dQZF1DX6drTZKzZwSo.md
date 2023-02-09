@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,041 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,138 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 2 | [I Wish \- Single Edit](https://open.spotify.com/track/6Fk2d1IMWZ5yOqUOvLfKdg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/05IKjKz3leUEaULPbENUsy) | 4:31 |
 | 3 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
 | 4 | [Sea Groove](https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/604icvBHTAfT7q9RvJak3A) | 4:28 |
-| 5 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
-| 6 | [Shakey Ground](https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 4:01 |
-| 7 | [Soul With A Capital 'S'](https://open.spotify.com/track/2fEdBCtMRLHJ53fB7hQVpR) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [T.O.P.](https://open.spotify.com/album/5b0EGLtlYwZt5j6Y8tbNBn) | 4:58 |
-| 8 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 5 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 6 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
+| 7 | [Shakey Ground](https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 4:01 |
+| 8 | [Soul With A Capital 'S'](https://open.spotify.com/track/2fEdBCtMRLHJ53fB7hQVpR) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [T.O.P.](https://open.spotify.com/album/5b0EGLtlYwZt5j6Y8tbNBn) | 4:58 |
 | 9 | [Girl Watching](https://open.spotify.com/track/0W2KbxJQrbg9nVS8oEZ4Bb) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Classic Masters](https://open.spotify.com/album/5sEfCUF1xi7Xkl0LkLFq5z) | 4:53 |
 | 10 | [Coleen](https://open.spotify.com/track/5dzTfHXcdHjxoJbpdy4DUu) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [How You Like Me Now EP](https://open.spotify.com/album/2GSmsujcCDqnTAIkFUdLOv) | 2:59 |
 | 11 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 59 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 60 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MTY3MDg1MzI3NSwwMDAwMDAwMDU2MjMxNDFlMjdiYzFkZjBjNTJlODdhMTQ4OWQzNmE2`
+Snapshot ID: `MTY3NTg3MzU1OSwwMDAwMDAwMDE3NTE1YzdkZjlhYjM4YmNiOTExNDFkN2IzN2JjYzU0`

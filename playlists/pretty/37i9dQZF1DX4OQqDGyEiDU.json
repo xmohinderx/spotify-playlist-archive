@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 57381,
+  "num_followers": 57453,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc4Nzc3MywwMDAwMDAwMDI4Yzc2M2YwNzk1ZTYxZWE4OTM4NzQ2OTM0ZTBhZTY5",
+  "snapshot_id": "MTY3NTc4Nzc3MywwMDAwMDAwMGJiYjRhMzUwNmY2ZmEzNTFjOWFkOTdlOWZiOWI5ZjVi",
   "tracks": [
     {
       "added_at": "2023-01-31 16:00:18",
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
     },
     {
-      "added_at": "2023-02-08 00:46:08",
+      "added_at": "2023-02-09 01:21:10",
       "album": {
         "name": "\u504f\u611b",
         "url": "https://open.spotify.com/album/3Vw6LxPWbtDLKoSzoetvNK"
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-31 16:00:18",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu"
-    },
-    {
-      "added_at": "2023-01-31 16:00:18",
-      "album": {
         "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
         "url": "https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222954,
       "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
       "url": "https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU"
+    },
+    {
+      "added_at": "2023-01-31 16:00:18",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu"
     },
     {
       "added_at": "2023-01-31 16:00:18",

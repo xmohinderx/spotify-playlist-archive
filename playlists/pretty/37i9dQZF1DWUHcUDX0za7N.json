@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=GZYCF3NjTmWkpbhFM2RqRA\" > Jeriq </a> ",
-  "num_followers": 15500,
+  "num_followers": 15527,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNTI3NiwwMDAwMDAwMDNjYjk4Yzg1ODhhY2VkYjJlZjNmZGUwNzBkZDFlYzA5",
+  "snapshot_id": "MTY3NTQxNTI3NiwwMDAwMDAwMGE5NTEyZjlmMTM2Mjc1MTI0MDYxMjJiNjliMTE0NDQw",
   "tracks": [
     {
       "added_at": "2023-01-27 09:16:17",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "E No Fit Be Me",
         "url": "https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 175013,
       "name": "E No Fit Be Me",
       "url": "https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
     },
     {
       "added_at": "2023-01-27 09:16:17",

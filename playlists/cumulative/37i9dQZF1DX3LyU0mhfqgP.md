@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> The hottest songs from LGBTQIA+ artists\. Cover: Sam Smith
+> The hottest songs from LGBTQIA+ artists\. Cover: Liniker
 
 532 songs - 1 day 4 hr 58 min
 

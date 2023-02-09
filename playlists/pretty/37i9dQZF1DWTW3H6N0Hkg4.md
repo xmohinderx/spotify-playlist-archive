@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,816 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,124 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,12 +126,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 116 | [El Aguajal](https://open.spotify.com/track/69wiGluawqV442FfP20UXz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:45 |
 | 117 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
 | 118 | [El Viajecito](https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ) | [Renacimiento 74](https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU) | [12 Super Exitos](https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG) | 2:59 |
-| 119 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 |
-| 120 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
+| 119 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
+| 120 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 |
 | 121 | [Juana la Cubana](https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Y Es por Ti](https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m) | 3:13 |
 | 122 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
 | 123 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 4:47 |
 | 124 | [Enamorada de un Amigo Mio](https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw) | [La Suerte Sonidera](https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v) | [30 Exitos de Oro 30, Vol\. 1](https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf) | 4:03 |
 | 125 | [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 |
 
-Snapshot ID: `MTY3MjQyMDg5NSwwMDAwMDAwMDJmYzgxODhmY2I4MjVjOThkN2RhYmVhN2RkOWJkY2Ni`
+Snapshot ID: `MTY3MjQyMDg5NSwwMDAwMDAwMDEwM2U1NzVhNjkwY2M5NzFhNTEzODdhMmNlZTY2YWRm`

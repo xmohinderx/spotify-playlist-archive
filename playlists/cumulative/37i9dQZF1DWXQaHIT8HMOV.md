@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-103 songs - 5 hr 18 min
+104 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 | 2022-08-12 |  |
 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 | 2022-12-16 |  |
 | [Dorah](https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Care Fahim](https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5) | [Dorah](https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5) | 3:29 | 2022-09-09 | 2022-12-02 |
-| [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 |  |
+| [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 | 2023-02-09 |
 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 | 2022-11-17 | 2023-01-13 |
 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 | 2022-05-12 |  |
 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 | 2022-05-12 | 2022-12-31 |
@@ -67,6 +67,7 @@
 | [Magic \(fik\)](https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:14 | 2022-10-07 | 2022-12-08 |
 | [MAJJE](https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:30 | 2022-05-12 |  |
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-10 |  |
+| [MariaRoza \(Amapiano Version\)](https://open.spotify.com/track/2TBklxiA4ZK8KWuJvhodQJ) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [MariaRoza \(Amapiano Version\)](https://open.spotify.com/album/61YzhxcyHNmFmcpN7KQn3d) | 4:01 | 2023-02-03 |  |
 | [Mbipambana](https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy) | [Heather Nanteza](https://open.spotify.com/artist/0sA6V5qSFuTnAFaNdo4pHJ), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Mbipambana](https://open.spotify.com/album/6agyrH6gmk3uz1JAAj7MIR) | 3:05 | 2022-05-12 | 2022-10-26 |
 | [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 | 2022-07-22 | 2022-11-26 |
 | [Melody](https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH) | [Josh Buxton](https://open.spotify.com/artist/4Guu0ZYrcI2naNVmQVje5n) | [Mperekera](https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb) | 2:59 | 2022-05-12 | 2022-10-07 |

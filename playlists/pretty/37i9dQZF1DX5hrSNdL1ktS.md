@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Elvis de Yongol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,383 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,391 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 44 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
 | 45 | [LO SIENTO](https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [LO SIENTO](https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj) | 2:33 |
 | 46 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 |
-| 47 | [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 |
-| 48 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 |
-| 49 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 |
-| 50 | [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 |
-| 51 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 47 | [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN), [SamueVi](https://open.spotify.com/artist/1QoAZ3MwxzMXXxkU6NVGST) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 |
+| 48 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 49 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 |
+| 50 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 |
+| 51 | [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 |
 | 52 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 |
 | 53 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 | 54 | [Calle](https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Calle](https://open.spotify.com/album/2cDBVi3YVK3XIURShVLFDb) | 3:28 |
 | 55 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
 
-Snapshot ID: `MTY3NTQ2MDYyNywwMDAwMDAwMDVjZDhkM2E4OGNkZWNjNzcxYWQyZmM4ZGMyYjUwNjk5`
+Snapshot ID: `MTY3NTQ2MDYyNywwMDAwMDAwMGI3YTQwNzI2N2U0MmJhODRjOThjZjkyZTA5YTExMGFh`

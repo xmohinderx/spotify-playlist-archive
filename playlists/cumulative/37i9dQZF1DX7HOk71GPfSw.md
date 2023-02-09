@@ -4,7 +4,7 @@
 
 > ft\. Frost Children
 
-1,615 songs - 3 day 1 hr 18 min
+1,617 songs - 3 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,8 @@
 | [gl4mour](https://open.spotify.com/track/3UKy5x73Q5RmQaQqsYXgzT) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [gl4mour](https://open.spotify.com/album/1ECk2QIeJKrdbaALxx9XzV) | 2:59 | 2021-11-26 | 2022-03-17 |
 | [glass](https://open.spotify.com/track/3uSzUWPz1uSvPAI9c3RVIA) | [kennedyxoxo](https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [glass](https://open.spotify.com/album/02oysKwy9RIYMZHEPG6a6K) | 2:24 | 2022-07-01 | 2022-08-13 |
 | [GLITT3R](https://open.spotify.com/track/1bibFoibh1Z2stis2avWIO) | [Rizha](https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [GLITT3R](https://open.spotify.com/album/0CPYFu4fD8deZ1ZRCMLIMQ) | 3:18 | 2021-03-16 | 2021-12-20 |
-| [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 | 2022-11-11 |  |
+| [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/track/3e8LxLovg137nUwG3yYimP) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/4EeSZjHeSld6hcUAQDx5Qc) | 3:24 | 2022-11-11 |  |
+| [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 | 2022-11-11 | 2023-02-09 |
 | [glittr](https://open.spotify.com/track/6rsuyY8DWNwngUuchlWTx2) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [glittr](https://open.spotify.com/album/3wJ9bGtFOOQQ0kzP4Bhh2h) | 2:39 | 2020-10-13\* | 2021-11-13 |
 | [gloves](https://open.spotify.com/track/3u4H5wRhJ40ERhPC5Ka19c) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [gloves](https://open.spotify.com/album/4QBOgvMhwsq7lUIBMlhBtl) | 3:30 | 2021-05-03 | 2022-01-13 |
 | [gluttony](https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [gluttony](https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7) | 1:57 | 2022-03-18 | 2022-07-09 |
@@ -1154,7 +1155,8 @@
 | [reasons](https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [reasons](https://open.spotify.com/album/3Zy4PSc2ucpzhO8YzQLYJC) | 5:00 | 2022-09-23 |  |
 | [Rebirth](https://open.spotify.com/track/78LFxqf4lz6pqRRnIssdMs) | [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Rebirth](https://open.spotify.com/album/72I61bGNflwVGTgF0Gyil6) | 2:29 | 2021-11-06 | 2021-11-13 |
 | [RECLUSE](https://open.spotify.com/track/3EbXgR0FKdx8ibKXsnyn6B) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [RECLUSE](https://open.spotify.com/album/61oqQrXlEan7VqYiZaMc7A) | 1:29 | 2021-06-12 | 2021-06-26 |
-| [red](https://open.spotify.com/track/2tbctL38V8BM83TH9urnzk) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/3jSStTGrRtsCkIHJ30vbm1) | 2:11 | 2023-02-03 |  |
+| [red](https://open.spotify.com/track/2tbctL38V8BM83TH9urnzk) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/3jSStTGrRtsCkIHJ30vbm1) | 2:11 | 2023-02-03 | 2023-02-09 |
+| [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 | 2023-02-03 |  |
 | [Red Bottom Sky](https://open.spotify.com/track/2WloLsoUqp1A0xxNAwoiwh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/6pbfofGywFkDyt1HoKYnRd) | 5:03 | 2021-10-16 | 2021-11-13 |
 | [redemption arc](https://open.spotify.com/track/3ZqStclSxlGItjISkfVo2d) | [Lil Wet Wet](https://open.spotify.com/artist/3E4Auo7RcMp3BgGnwKNSXZ), [keyblayde808](https://open.spotify.com/artist/06SF4BIHG5xinTaS2x59qG), [Haloes](https://open.spotify.com/artist/1TEfU1pT7BStxlbU8a7Hmw) | [redemption arc](https://open.spotify.com/album/1ZoGPj3iFtZuKM0faSjpqu) | 2:09 | 2021-06-05 | 2021-06-21 |
 | [redeyes](https://open.spotify.com/track/0K6uoThGKsRQVvnK6bJ8rL) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [redeyes](https://open.spotify.com/album/3kjCy4GrzeS4CaTELvfVc9) | 2:41 | 2020-10-16 | 2021-02-10 |

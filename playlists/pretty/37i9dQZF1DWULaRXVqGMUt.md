@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,374 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 34 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
 | 35 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
 | 36 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 |
-| 37 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/3395gWd2t1PwBfPvqZxqK4) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
-| 38 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 37 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 38 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/3395gWd2t1PwBfPvqZxqK4) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
 | 39 | [Swanee River Hop](https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:52 |
 | 40 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
 | 41 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Twelfth St\. Boogie](https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj) | [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [Boogie Woogie Piano Stylings](https://open.spotify.com/album/0sXbXrEgNsJWIRm86tkcyP) | 2:45 |
 | 75 | [Yancey Stomp](https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:52 |
 
-Snapshot ID: `MTY3MzU1NzI2OSwwMDAwMDAwMDdlNmFhNzgyMWM2ZTZkOTAxOTc4MzFiYzNhMjE4MGZk`
+Snapshot ID: `MTY3MzU1NzI2OSwwMDAwMDAwMDEwODI4YmY4NGY5YTdiMjdmNjIwMzM1MjMyNzdhMzFk`

@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-38 songs - 2 hr 10 min
+40 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,8 @@
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2023-01-05 |  |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2023-01-12 |  |
 | [sandcastle](https://open.spotify.com/track/6orA1IgG7nqVJ5lOeRMNHQ) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [each other](https://open.spotify.com/album/1g88nv6bDJwHyOF6JNU130) | 3:23 | 2023-01-12 |  |
+| [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-08 |  |
+| [Shadow Love \- Instrumental](https://open.spotify.com/track/7yZ3qztqSW7tmTj10THIns) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-08 |  |
 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 | 2023-01-12 |  |
 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 | 2023-01-26 |  |
 | [Symphony](https://open.spotify.com/track/2mXgLxPooDZuAVT7SHAxAV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [The Interest of Love \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1X2QS86OFJhd77rBC1bwCo) | 3:11 | 2023-01-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": " To the world, this is NCT! We are NCT DREAM! Our Winter Special Mini Album \u2018Candy\u2019 is out!",
+  "description": " To the world, this is NCT! We are NCT DREAM! ",
   "name": "This Is NCT DREAM",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 204253,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6YMy6nuK53ZSKOLlt2ytiY"
+    },
+    {
+      "album": {
+        "name": "Best Friend Ever",
+        "url": "https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "Best Friend Ever",
+      "url": "https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu"
     },
     {
       "album": {

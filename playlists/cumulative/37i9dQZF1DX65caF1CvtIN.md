@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-167 songs - 7 hr 30 min
+170 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Candlelight](https://open.spotify.com/track/6aoi5DA6gXsCBMGKa9ZkLQ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/5jRPY0qmViLdSaLKjjZlX2) | 2:21 | 2022-10-24 | 2022-11-13 |
 | [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-10-14 |  |
 | [Carrer Figuera](https://open.spotify.com/track/54Twh2P3phC9d0XpU5Lsao) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Carrer Figuera](https://open.spotify.com/album/2eQDpvN1mPywvbfGFIzGOi) | 3:01 | 2022-08-03 |  |
-| [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-08-03 |  |
+| [Childhood](https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP) | 3:16 | 2023-01-26 |  |
+| [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-08-03 | 2023-02-09 |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-06 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-08-03 |  |
 | [Cure Me](https://open.spotify.com/track/29bBm6109p8lSuPxk5DhIj) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Cure Me](https://open.spotify.com/album/4yErhA9EXftYt51OBRUk88) | 2:46 | 2022-12-06 |  |
@@ -56,7 +57,8 @@
 | [Eyes Wide Open](https://open.spotify.com/track/3o0nYjICwbD7jKROK5JEge) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Eyes Wide Open](https://open.spotify.com/album/1etlxLTVSydAOiaLSAPX0m) | 2:37 | 2022-12-06 |  |
 | [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 | 2022-08-26 | 2022-09-17 |
 | [F Sharp For You](https://open.spotify.com/track/5W0szJ8oYW28sGOtfUvYij) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Pieces For Claudia](https://open.spotify.com/album/50FfwgvW88CLcZUsRluNYD) | 2:14 | 2022-09-12 |  |
-| [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 | 2022-08-03 |  |
+| [Fidèle](https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 3:23 | 2023-01-26 |  |
+| [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 | 2022-08-03 | 2023-02-09 |
 | [Final Hour](https://open.spotify.com/track/6FrEmXntHD6IZeM8f0FIJM) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Final Hour](https://open.spotify.com/album/2nVKTxx2WuV0ZDlHFm2lDU) | 1:52 | 2022-12-06 |  |
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-12 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-08-03 |  |
@@ -107,7 +109,8 @@
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 |  |
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-03 |  |
 | [Nocturne I](https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:53 | 2022-08-03 |  |
-| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-04 |  |
+| [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-01-26 |  |
+| [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-04 | 2023-02-09 |
 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 | 2022-08-03 |  |
 | [Once](https://open.spotify.com/track/5Iop7ILqPZE5HpKb35QBYL) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [Once](https://open.spotify.com/album/1H6M617UDwCMPBBLWq0dpT) | 2:32 | 2022-08-03 |  |
 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 | 2022-08-03 |  |

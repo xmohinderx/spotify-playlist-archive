@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 127671,
+  "num_followers": 127749,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDg4ZWUyODExOTNmZDBhODc1OWJhZTIxN2NkNDQ4OWQ1",
+  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDliYWZhOThhYWY1MzdhYTE4ZGRiZGYyZTg1ZjU4NjYw",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
-      },
-      "artists": [
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
-        }
-      ],
-      "duration_ms": 166638,
-      "name": "El y Yo",
-      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
+      },
+      "artists": [
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 166638,
+      "name": "El y Yo",
+      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
     },
     {
       "added_at": "2020-11-13 06:01:00",

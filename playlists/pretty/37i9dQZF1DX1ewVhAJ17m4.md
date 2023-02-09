@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,430 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,554 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 48 | [Juice](https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG), [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [Juice](https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA) | 3:11 |
 | 49 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 |
 | 50 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 |
-| 51 | [Backfired](https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Backfired](https://open.spotify.com/album/5XZgEi755XiwELre12FuYW) | 2:33 |
-| 52 | [Addison Rae](https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Addison Rae](https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km) | 3:19 |
+| 51 | [Addison Rae](https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Addison Rae](https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km) | 3:19 |
+| 52 | [Backfired](https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Backfired](https://open.spotify.com/album/5XZgEi755XiwELre12FuYW) | 2:33 |
 | 53 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 |
 | 54 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
 | 55 | [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 |
 | 80 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGM5ODZmOTU5MWEwMDhiMWUxMDhhOTQwYTFjNjJiNGRm`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMDdkMGFiM2JiZDU2ZDg1NjRiOTg5MTk5OWNiOTI3YzM5`

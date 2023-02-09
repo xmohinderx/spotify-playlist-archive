@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,702 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,020 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 21 | [This One's Gonna Cost Me](https://open.spotify.com/track/3wnrKK7mvADKAyX23SI01F) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:13 |
 | 22 | [Longneck Way To Go](https://open.spotify.com/track/2L34x2yCo1PUqTxNL1Nl67) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:08 |
 | 23 | [Holler Rose](https://open.spotify.com/track/1r9Cm8AyWoH4PmkyG6sPXP) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 4:51 |
-| 24 | [Blood Moon](https://open.spotify.com/track/5MO0UtyOvEgRWSIZCuPIP9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Blood Moon](https://open.spotify.com/album/1KG0u5ZqDPcJJSP6BFY1au) | 2:48 |
+| 24 | [Blood Moon](https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:48 |
 | 25 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 |
 | 26 | [Rusty](https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [The Hometown Kid](https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H) | 4:26 |
 | 27 | [Middle of a Heart](https://open.spotify.com/track/2w7MGuFvgpc7UXSf0ZLLC0) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 149 | [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 |
 | 150 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDgzNTY1YTRiNDNhZGUxMTc1MDQxOTgzNzA4OGNkNGI3`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDkzNDA1YWRiNDc1ZDIzMmZmZTE2MzY5NGEzODk5OWE3`

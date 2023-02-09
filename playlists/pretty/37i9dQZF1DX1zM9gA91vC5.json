@@ -1,12 +1,12 @@
 {
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
-  "num_followers": 213536,
+  "num_followers": 213571,
   "original_name": "Concentra\u00e7\u00e3o Perfeita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY5MTE5NSwwMDAwMDAwMGU1YWZlZmRlMTI0YmY0MjY5OTMxOWZkYmM1NmEwZGJh",
+  "snapshot_id": "MTY3NTY5MTE5NSwwMDAwMDAwMDYxMzU0ODI0NDBjMTJjNzYyYmU2ZjEzZTkyMDY2ZWE2",
   "tracks": [
     {
       "added_at": "2023-02-06 13:46:35",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
-        "name": "Gravitat",
-        "url": "https://open.spotify.com/album/5d9ZEYv11fZMtrWx0pJuqd"
-      },
-      "artists": [
-        {
-          "name": "Rudhek Caren",
-          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Gravitat",
-      "url": "https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
         "name": "Tuscan Nights",
         "url": "https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
+        "name": "Gravitat",
+        "url": "https://open.spotify.com/album/5d9ZEYv11fZMtrWx0pJuqd"
+      },
+      "artists": [
+        {
+          "name": "Rudhek Caren",
+          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Gravitat",
+      "url": "https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 141500,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
+        "name": "Passage sombre",
+        "url": "https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Aubr\u00e9e",
+          "url": "https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "Passage sombre",
+      "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -955,22 +971,6 @@
       "duration_ms": 138000,
       "name": "Dancing Michelangelo",
       "url": "https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
-        "name": "Passage sombre",
-        "url": "https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Aubr\u00e9e",
-          "url": "https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "Passage sombre",
-      "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
+        "name": "Lambay",
+        "url": "https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "duration_ms": 133478,
+      "name": "Lambay",
+      "url": "https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
         "name": "The Emotion Of Light (Revisited)",
         "url": "https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 162307,
       "name": "Im Garten nebenan",
       "url": "https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
-        "name": "Lambay",
-        "url": "https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6"
-      },
-      "artists": [
-        {
-          "name": "Niall Byrne",
-          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
-        }
-      ],
-      "duration_ms": 133478,
-      "name": "Lambay",
-      "url": "https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
         "name": "Ambiguos",
         "url": "https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 114400,
       "name": "Sweet Redolence",
       "url": "https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -3539,6 +3539,22 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/3MCDGAFOlybe44afddEGqa"
+      },
+      "artists": [
+        {
+          "name": "Gustav Joseph",
+          "url": "https://open.spotify.com/artist/4OmBF3DAzkChj8syahpTE2"
+        }
+      ],
+      "duration_ms": 156645,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1ldGVJUNxjUDAJp0vZLMq5"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
         "name": "Darjeeling",
         "url": "https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0"
       },
@@ -3567,22 +3583,6 @@
       "duration_ms": 180500,
       "name": "Evergreen Tree",
       "url": "https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/3MCDGAFOlybe44afddEGqa"
-      },
-      "artists": [
-        {
-          "name": "Gustav Joseph",
-          "url": "https://open.spotify.com/artist/4OmBF3DAzkChj8syahpTE2"
-        }
-      ],
-      "duration_ms": 156645,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1ldGVJUNxjUDAJp0vZLMq5"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -3939,18 +3939,18 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR"
+        "name": "Solkysst",
+        "url": "https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n"
       },
       "artists": [
         {
-          "name": "Amadeo Rossi",
-          "url": "https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ"
+          "name": "Nordiska Piano",
+          "url": "https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq"
         }
       ],
-      "duration_ms": 130156,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3"
+      "duration_ms": 140500,
+      "name": "Solkysst",
+      "url": "https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L"
     },
     {
       "added_at": "2023-02-06 13:46:35",
@@ -3971,6 +3971,22 @@
     {
       "added_at": "2023-02-06 13:46:35",
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR"
+      },
+      "artists": [
+        {
+          "name": "Amadeo Rossi",
+          "url": "https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ"
+        }
+      ],
+      "duration_ms": 130156,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3"
+    },
+    {
+      "added_at": "2023-02-06 13:46:35",
+      "album": {
         "name": "Traces",
         "url": "https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE"
       },
@@ -3983,22 +3999,6 @@
       "duration_ms": 193916,
       "name": "Traces",
       "url": "https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07"
-    },
-    {
-      "added_at": "2023-02-06 13:46:35",
-      "album": {
-        "name": "Solkysst",
-        "url": "https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n"
-      },
-      "artists": [
-        {
-          "name": "Nordiska Piano",
-          "url": "https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Solkysst",
-      "url": "https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L"
     },
     {
       "added_at": "2023-02-06 13:46:35",

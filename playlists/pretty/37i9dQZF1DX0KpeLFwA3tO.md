@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Real Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,255 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,329 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 112 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 |
 | 113 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
 | 114 | [Listen! Do You Smell Something?](https://open.spotify.com/track/1GdfWouH8J7gz52QVwIsqT) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Enemy of the World \(Re\-Recorded\)](https://open.spotify.com/album/2r8iwO5KgjqehFv1ZmBzoF) | 3:37 |
-| 115 | [One Day](https://open.spotify.com/track/400jc0romvMvPCn7Mmnkyy) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/7lAzdksuYfjKfGf2B6CplG) | 5:02 |
+| 115 | [One Day](https://open.spotify.com/track/3v5iRKIeVSFK3k33epHMkI) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 5:02 |
 | 116 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
 | 117 | [Leave Her Johnny](https://open.spotify.com/track/3el3bWRAzJhRLDJhAJYqQG) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Songs of the Highlands, Songs of the Sea](https://open.spotify.com/album/4lQJQoonyV4XpWMRwOuK9G) | 3:13 |
 | 118 | [all my friends](https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [all my friends](https://open.spotify.com/album/25kTH4jXP7PcBlvQ4LLBFQ) | 2:22 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 134 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 | 135 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 
-Snapshot ID: `MTY3NTc2NTkzNiwwMDAwMDAwMDcyMWEyY2Q0ZGEyMGRmMmFhYzgyZTNjNzdiZTk3YjVh`
+Snapshot ID: `MTY3NTc2NTkzNiwwMDAwMDAwMGFkYmQyMTMzMGQwODBiZjNmYzVmODc0YzJhOTRjNmU0`

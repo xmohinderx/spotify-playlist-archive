@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,734 likes - 197 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,947 likes - 197 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 34 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 |
 | 35 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 |
 | 36 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 |
-| 37 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 |
+| 37 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 |
 | 38 | [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 |
 | 39 | [Resonance](https://open.spotify.com/track/5KaaNCxeT5nkzZWDIrFc57) | [Julian Ellwood](https://open.spotify.com/artist/4MDVendmY7CecWKdkoPjNc) | [Resonance](https://open.spotify.com/album/0am8yGAM9H08RY1veBCOc0) | 2:15 |
 | 40 | [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 196 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 197 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 
-Snapshot ID: `MTY3NTc4MTE0OSwwMDAwMDAwMDFiMzkyZWE3OTk2NjA2OWFmYjRmODdhMTM1ZmE5NWRk`
+Snapshot ID: `MTY3NTc4MTE0OSwwMDAwMDAwMGUwN2ZlMDc4MWU5NDQyMTkzNWU3ZTAwMmY4ZDM3ZDM5`

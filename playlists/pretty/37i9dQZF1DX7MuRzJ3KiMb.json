@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 41204,
+  "num_followers": 41299,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDkzYTk5M2YyNzRlYzQ4N2FmYTQ4ZWUzNzhiZDBmNDQ3",
+  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDhkNDQ4NTE5MGRmZWQyYmIzNzIyMzZhOWU0Y2U1OTEz",
   "tracks": [
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
+        "name": "Ir por un Caf\u00e9",
+        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ir por un Caf\u00e9",
+      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
-        "name": "Ir por un Caf\u00e9",
-        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ir por un Caf\u00e9",
-      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
     },
     {
       "added_at": "2023-01-27 19:51:48",

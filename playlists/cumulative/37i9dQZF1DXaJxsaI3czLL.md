@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-164 songs - 11 hr 30 min
+167 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 | 2023-01-24 | 2023-02-01 |
 | [Love Birds](https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [Love Birds](https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP) | 2:33 | 2023-01-24 | 2023-01-26 |
 | [Lullaby](https://open.spotify.com/track/5by4rIWBDVMyTNzUcmBnMg) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Lullaby](https://open.spotify.com/album/0h51BaIs0hXuKreFaMXhkF) | 3:25 | 2022-11-08 | 2022-11-23 |
-| [Lullaby](https://open.spotify.com/track/0i5m8w14ZF8ACiecwfxTmi) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/4p2OIw7cKIpewotLwrfECs) | 3:06 | 2023-02-07 |  |
+| [Lullaby](https://open.spotify.com/track/0i5m8w14ZF8ACiecwfxTmi) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/4p2OIw7cKIpewotLwrfECs) | 3:06 | 2023-02-07 | 2023-02-09 |
+| [Lullaby](https://open.spotify.com/track/236sSsbp1IOaLc93iEruO0) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/5TY3WHsYYgXDa6RIrxOTWA) | 3:06 | 2023-02-07 |  |
 | [Metropolis](https://open.spotify.com/track/4am1waZVRIO48gAweG91DJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [ATOM](https://open.spotify.com/album/0DYVvqZiXhTNYPPPRkTxBX) | 4:54 | 2023-01-31 |  |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
@@ -72,7 +73,8 @@
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2022-10-20 | 2022-11-30 |
 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 | 2023-01-26 |  |
 | [Nightfall](https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Beat Installments](https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1) | 3:06 | 2023-01-26 | 2023-02-08 |
-| [only time will tell..\. \- naked](https://open.spotify.com/track/4uioPoQmPjHc7vcZjb04x5) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/1T1UNuk2F1aEN8CmGa8nq9) | 5:46 | 2023-02-07 |  |
+| [only time will tell..\. \- naked](https://open.spotify.com/track/360eGzbp66k5gAn1AKan1d) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/3FTYtUdPJSaKy5LrDWUlyI) | 5:46 | 2023-02-07 |  |
+| [only time will tell..\. \- naked](https://open.spotify.com/track/4uioPoQmPjHc7vcZjb04x5) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/1T1UNuk2F1aEN8CmGa8nq9) | 5:46 | 2023-02-07 | 2023-02-09 |
 | [Phase \- Extended Version](https://open.spotify.com/track/08rXHo15Jw4zsKjj9p2pbM) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Phase \(Extended Version\)](https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL) | 4:43 | 2023-01-26 | 2023-02-01 |
 | [Porcelain](https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:29 | 2022-10-20 |  |
 | [Puffin](https://open.spotify.com/track/7MEuAI4uWTs32XuNJGHOJ9) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Puffin](https://open.spotify.com/album/7rWh3fUUb9Ri5OwJqZijWA) | 3:36 | 2022-10-20 | 2022-10-26 |
@@ -86,6 +88,7 @@
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 | 2023-02-08 |
 | [Skiffle Song](https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [けものたちの名前](https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt) | 5:16 | 2022-10-20 | 2023-01-13 |
 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 | 2022-11-01 |  |
+| [Sprachgitter](https://open.spotify.com/track/2miwpbzbLxW330z6C6tTXu) | [夜夏](https://open.spotify.com/artist/3bt1m2awRItFgZrA5rdOnT), [momoka ando](https://open.spotify.com/artist/584fNYrbU5hr1F8KNJ891w), [Yuusari](https://open.spotify.com/artist/42XWN5jlGLHZuFYavm6S5e) | [Sprachgitter](https://open.spotify.com/album/34tJQa3lWhEzhzR0AgAX2g) | 5:23 | 2023-02-07 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 | 2022-12-07 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-10-20 |  |
@@ -167,7 +170,7 @@
 | [糸](https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:07 | 2022-11-27 |  |
 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 | 2023-01-25 |
 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 | 2022-10-20 |  |
-| [蔀越しにあなたに](https://open.spotify.com/track/7loQBJa97ymrHbC6tBsM50) | [夜夏](https://open.spotify.com/artist/3bt1m2awRItFgZrA5rdOnT), [安藤百花](https://open.spotify.com/artist/5dNFAyB2k689dRMDSxQhsk), [ゆうさり](https://open.spotify.com/artist/5maAP01A7kSizjklOLYNa8) | [蔀越しにあなたに](https://open.spotify.com/album/1YnLQdEfDJSGQxGX64q9Kc) | 5:23 | 2023-02-07 |  |
+| [蔀越しにあなたに](https://open.spotify.com/track/7loQBJa97ymrHbC6tBsM50) | [夜夏](https://open.spotify.com/artist/3bt1m2awRItFgZrA5rdOnT), [安藤百花](https://open.spotify.com/artist/5dNFAyB2k689dRMDSxQhsk), [ゆうさり](https://open.spotify.com/artist/5maAP01A7kSizjklOLYNa8) | [蔀越しにあなたに](https://open.spotify.com/album/1YnLQdEfDJSGQxGX64q9Kc) | 5:23 | 2023-02-07 | 2023-02-09 |
 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 | 2022-10-20 |  |
 | [街路樹](https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn) | [Tsuyoshi Nariyama](https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y) | [novelette](https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk) | 5:01 | 2022-10-20 | 2023-02-01 |
 | [銀ちゃん](https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [銀ちゃん/Sea song\-324P REMIX\-](https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n) | 4:21 | 2023-01-17 | 2023-02-01 |

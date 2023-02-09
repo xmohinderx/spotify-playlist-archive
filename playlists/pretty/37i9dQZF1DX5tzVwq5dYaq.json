@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55743,
+  "num_followers": 55745,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDI2YTU3MGYyNjRiNjZmZmEyYzgxMDNiODU4ZjRmMWZm",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGY0Y2ViMmNiZDAwYjE4M2YwMDc1NDk0YzY3NzI4MWYz",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
         }
       ],
-      "duration_ms": 216080,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1447,6 +1431,22 @@
       "duration_ms": 236533,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
       "artists": [
         {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+      "duration_ms": 188587,
+      "name": "Find Someone",
+      "url": "https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG"
     }
   ],
   "unique_name": "Primavera",

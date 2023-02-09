@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Valgur en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,977 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,995 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 9 | [Mi Mundo](https://open.spotify.com/track/1fDEjNfkXCFab3LwdaVhMw) | [Dikers](https://open.spotify.com/artist/2BKzoHM3OPLcwwMS7GKyg3), [Xuorum](https://open.spotify.com/artist/4o1HA50FTtkZsoXBsK0ejK) | [Mi Mundo](https://open.spotify.com/album/3fNYEkuuhE9fnn6Ekbelme) | 3:17 |
 | 10 | [Usted estuvo aquí](https://open.spotify.com/track/0V15LoyKtzOx7J9vZIHu5I) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Usted estuvo aquí](https://open.spotify.com/album/3gSO84nFI8QuwmG9QX4Y0L) | 3:23 |
 | 11 | [Corleone](https://open.spotify.com/track/0vLZh3ayBVAYSbIOyeBYHS) | [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [Corleone](https://open.spotify.com/album/7zDmXs2nvL0Uz8C9TaqVgR) | 3:14 |
-| 12 | [Actitud](https://open.spotify.com/track/1SZhYghti04RW9HBbF8tjW) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Actitud](https://open.spotify.com/album/0YLLqvYMkJUIKGTxBBaev1) | 4:30 |
+| 12 | [Actitud](https://open.spotify.com/track/1SZhYghti04RW9HBbF8tjW) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Actitud](https://open.spotify.com/album/0YLLqvYMkJUIKGTxBBaev1) | 4:17 |
 | 13 | [Mi Esfera](https://open.spotify.com/track/0bOMJxYLAgbGhp21ngtNfV) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Premier](https://open.spotify.com/album/59aZo2A0lg0KmHPa4X0TV0) | 3:36 |
 | 14 | [Recuerdos Rotos](https://open.spotify.com/track/2FAjUXVR7ds83UXDvdcaIk) | [La Desbandada](https://open.spotify.com/artist/0cPrtjRRu6kp9Kc8f1x1hY) | [Recuerdos Rotos](https://open.spotify.com/album/4HJKhbbpkmVy5IX4dU3di4) | 3:18 |
 | 15 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 |

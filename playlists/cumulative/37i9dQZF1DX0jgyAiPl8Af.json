@@ -3859,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140771,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M"
+    },
+    {
+      "album": {
         "name": "Intimation",
         "url": "https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6"
       },
@@ -8364,24 +8382,6 @@
       "duration_ms": 157500,
       "name": "The Joker And The Queen",
       "url": "https://open.spotify.com/track/3G2ZshUqIBTDsyc9MWXNRJ"
-    },
-    {
-      "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 107840,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M"
     },
     {
       "album": {

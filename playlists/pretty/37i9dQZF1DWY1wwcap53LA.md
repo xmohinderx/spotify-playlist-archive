@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Blanco Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,395 likes - 105 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,427 likes - 105 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Classic funk.",
-  "num_followers": 519041,
+  "num_followers": 519138,
   "original_name": "Funky Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg1MzI3NSwwMDAwMDAwMDU2MjMxNDFlMjdiYzFkZjBjNTJlODdhMTQ4OWQzNmE2",
+  "snapshot_id": "MTY3NTg3MzU1OSwwMDAwMDAwMDE3NTE1YzdkZjlhYjM4YmNiOTExNDFkN2IzN2JjYzU0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:58:44",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt"
     },
     {
+      "added_at": "2021-08-10 13:35:15",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
+    },
+    {
       "added_at": "2020-04-14 18:58:44",
       "album": {
         "name": "Funkin' For Jamaica",
@@ -119,22 +135,6 @@
       "duration_ms": 298866,
       "name": "Soul With A Capital 'S'",
       "url": "https://open.spotify.com/track/2fEdBCtMRLHJ53fB7hQVpR"
-    },
-    {
-      "added_at": "2021-08-10 13:35:15",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2020-04-14 18:58:44",

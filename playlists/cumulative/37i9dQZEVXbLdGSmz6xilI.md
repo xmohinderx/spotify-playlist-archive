@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-661 songs - 1 day 15 hr 4 min
+663 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [DNA \- Pedal 2 LA Mix](https://open.spotify.com/track/0RFxljd297sk7sKm5ZDD5J) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:07 | 2022-03-02 | 2022-03-04 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2021-11-16 | 2021-11-17 |
 | [Don't Break My Heart](https://open.spotify.com/track/04Mm3BineGdy0oNv8NivQT) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Don't Break My Heart](https://open.spotify.com/album/2hkI3qSjmZ8bbhuTs3sBmG) | 3:57 | 2022-03-16 | 2022-06-01 |
-| [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2022-12-30 |  |
+| [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2022-12-30 | 2023-02-09 |
+| [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 | 2023-02-08 |  |
 | [Dope](https://open.spotify.com/track/4IzofHMmUybZv3myzHlZE7) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment In Life, Pt.1](https://open.spotify.com/album/0RUpRgzRLBBAtYPubSTeHI) | 4:00 | 2021-10-19 | 2021-10-20 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 | 2023-01-16 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-05-21 | 2021-10-27 |
@@ -633,6 +634,7 @@
 | [Yeah Yeah Yeah](https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:58 | 2022-09-17 | 2022-10-06 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-12-29 |
 | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/album/4TMlkDHtOb8ZlrGiy57xvH) | 3:43 | 2022-09-24 | 2022-10-06 |
+| [YOU \(feat\. AK49\)](https://open.spotify.com/track/2fjqdDz6jJn6VPgrSDDMvp) | [GPG msmy](https://open.spotify.com/artist/1BYxA12Ptu7vku1GY4bniO), [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F) | [YOU \(feat\. AK49\)](https://open.spotify.com/album/749J0zTXx8mV5RHREKRgM9) | 2:27 | 2023-02-08 |  |
 | [You \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/4rF72sAKXnQ2t2Q5aZlreW) | [ØMI](https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK) | [ANSWER..\. SHINE](https://open.spotify.com/album/0Hww1Dlw36ML31z3QWUtaK) | 3:07 | 2021-10-19 | 2021-10-20 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-16 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-30 |
@@ -650,7 +652,7 @@
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2021-09-11 |
 | [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 | 2022-05-30 |
-| [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 | 2021-03-27\* |  |
+| [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 | 2021-03-27\* | 2023-02-09 |
 | [Đi Để Trở Về](https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Đi Để Trở Về](https://open.spotify.com/album/5cXoSfpsGOLvsnTSOuAeEi) | 3:22 | 2022-02-02 | 2023-01-25 |
 | [Đoạn Kết Mới](https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Đoạn Kết Mới](https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw) | 4:54 | 2022-07-30 | 2022-09-01 |
 | [Đoản Xuân Ca](https://open.spotify.com/track/5wfu0LbQ8fvPStnWmIOfos) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Bao Giờ Lấy Chồng](https://open.spotify.com/album/2Pa2EuROBTLvyyAUZTIJvZ) | 3:25 | 2022-02-02 | 2022-02-04 |

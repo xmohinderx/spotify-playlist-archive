@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=8gF\_bzusSGu6Cc4NeXNWHQ">Kabza De Small</a> and <a href="https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw?si=tpXXC2w\-SZqzSJmr\_tXG9Q">Stakev</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,714 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,166 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

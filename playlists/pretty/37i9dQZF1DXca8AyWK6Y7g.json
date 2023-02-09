@@ -1,12 +1,12 @@
 {
   "description": "in Paris we wear pink! \ud83d\uddfc\ud83e\udd50\ud83c\uddeb\ud83c\uddf7\ud83e\udd56 Cover: Dove Cameron & Sabrina Carpenter",
-  "num_followers": 1455046,
+  "num_followers": 1455388,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0NTk3OSwwMDAwMDAwMDQ1Y2FhMDlmOGRhYjJiNTRmNzI0MTRlZjIzZDllMGEw",
+  "snapshot_id": "MTY3NTQ0NTk3OSwwMDAwMDAwMDQ5NjMzYTkzN2Q0NzE4NmM4YjUyMjc4NjgyNWU2NTNm",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "10 Things I Hate About You",
-        "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 157138,
-      "name": "10 Things I Hate About You",
-      "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Where do we go now?",
         "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "10 Things I Hate About You",
+        "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 157138,
+      "name": "10 Things I Hate About You",
+      "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf"
     },
     {
-      "added_at": "2023-02-08 01:09:14",
+      "added_at": "2023-02-09 01:27:40",
       "album": {
         "name": "Not OK",
         "url": "https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg"
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Ugly Crier",
-        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
       "artists": [
         {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 152053,
-      "name": "Ugly Crier",
-      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
         }
       ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Cyclone",
-        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
+        "name": "Happening Again",
+        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 216463,
-      "name": "Cyclone",
-      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
+      "duration_ms": 173951,
+      "name": "Happening Again",
+      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Happening Again",
-        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 173951,
-      "name": "Happening Again",
-      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "ever fallen?",
-        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
       },
       "artists": [
         {
-          "name": "Kate Peytavin",
-          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 168725,
-      "name": "ever fallen?",
-      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
+      "duration_ms": 216463,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 146564,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "ever fallen?",
+        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "ever fallen?",
+      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "latenight",
+        "url": "https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "duration_ms": 181100,
+      "name": "latenight",
+      "url": "https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Did It Hurt?",
         "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 189858,
       "name": "Sweat You Out My System",
       "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "latenight",
-        "url": "https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        }
-      ],
-      "duration_ms": 181100,
-      "name": "latenight",
-      "url": "https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "FALLING 4 SOMEBODY",
+        "url": "https://open.spotify.com/album/1BEvWahMFtzYiRNgpHaqjc"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 151942,
+      "name": "FALLING 4 SOMEBODY",
+      "url": "https://open.spotify.com/track/0m3lHwto7lpsc9cPadwqkn"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Sex In Public",
         "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "FALLING 4 SOMEBODY",
-        "url": "https://open.spotify.com/album/1BEvWahMFtzYiRNgpHaqjc"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 151942,
-      "name": "FALLING 4 SOMEBODY",
-      "url": "https://open.spotify.com/track/0m3lHwto7lpsc9cPadwqkn"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok"
       },
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+        "name": "Can We Talk About Me?",
+        "url": "https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
         }
       ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
+      "duration_ms": 164742,
+      "name": "Can We Talk About Me?",
+      "url": "https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1991,34 +1991,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Can We Talk About Me?",
-        "url": "https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f"
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
       },
       "artists": [
         {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
         }
       ],
-      "duration_ms": 164742,
-      "name": "Can We Talk About Me?",
-      "url": "https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh"
-      },
-      "artists": [
-        {
-          "name": "AJA",
-          "url": "https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY"
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2035,6 +2019,22 @@
       "duration_ms": 195151,
       "name": "Can You Love Me Tonight?",
       "url": "https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh"
+      },
+      "artists": [
+        {
+          "name": "AJA",
+          "url": "https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Swing!",
         "url": "https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 170306,
       "name": "Swing!",
       "url": "https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "I Do You",
-        "url": "https://open.spotify.com/album/3J99ffNNhFsr6hHVmNkJlE"
-      },
-      "artists": [
-        {
-          "name": "Abigail Osborn",
-          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
-        }
-      ],
-      "duration_ms": 189379,
-      "name": "I Do You",
-      "url": "https://open.spotify.com/track/6sddeX1f4BHzmHB94p4lRI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2191,34 +2191,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1"
+        "name": "I Do You",
+        "url": "https://open.spotify.com/album/3J99ffNNhFsr6hHVmNkJlE"
       },
       "artists": [
         {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
         }
       ],
-      "duration_ms": 158880,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Recovering People Pleaser",
-        "url": "https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL"
-      },
-      "artists": [
-        {
-          "name": "CARYS",
-          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
-        }
-      ],
-      "duration_ms": 202523,
-      "name": "Recovering People Pleaser",
-      "url": "https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP"
+      "duration_ms": 189379,
+      "name": "I Do You",
+      "url": "https://open.spotify.com/track/6sddeX1f4BHzmHB94p4lRI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2235,6 +2219,22 @@
       "duration_ms": 180379,
       "name": "COOL GIRL",
       "url": "https://open.spotify.com/track/4nGwHW4GNyU3hNR76CkuN3"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Recovering People Pleaser",
+        "url": "https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL"
+      },
+      "artists": [
+        {
+          "name": "CARYS",
+          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
+        }
+      ],
+      "duration_ms": 202523,
+      "name": "Recovering People Pleaser",
+      "url": "https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Broke Boy",
-        "url": "https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2"
-      },
-      "artists": [
-        {
-          "name": "Teddi Gold",
-          "url": "https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Broke Boy",
-      "url": "https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Happy for Me",
         "url": "https://open.spotify.com/album/0aHdnYEIzdhQ7hPm28dT24"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 184466,
       "name": "Happy for Me",
       "url": "https://open.spotify.com/track/08fPVDgY1iJyS8yG94YCoz"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Broke Boy",
+        "url": "https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2"
+      },
+      "artists": [
+        {
+          "name": "Teddi Gold",
+          "url": "https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Broke Boy",
+      "url": "https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ"
     },
     {
       "added_at": "2023-02-03 05:00:00",

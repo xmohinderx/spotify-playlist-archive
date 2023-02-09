@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 469154,
+  "num_followers": 469279,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDBiMTQ0ZGI5ZTVhMDI0OGRkMGE3Mjg2MWIxYmZlZDJh",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDMxNGE0MjQzNjM4NzliMWUzNjU1Yzg3YTFiNTlhY2Nh",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -419,18 +419,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "4 Hits: Eruption",
-        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
       "artists": [
         {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 185733,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -451,22 +455,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+        "name": "4 Hits: Eruption",
+        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
         }
       ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+      "duration_ms": 185733,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
     },
     {
       "added_at": "2021-07-04 17:34:32",

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-778 songs - 2 day 1 hr 53 min
+780 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kiss me before I rise](https://open.spotify.com/track/3Hl6OfLcfnLmAV5hOZd9uA) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/6zxpjA1B7uP84reP3udGXm) | 3:47 | 2022-05-26 | 2022-07-25 |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-11-08 | 2022-12-14 |
+| [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 |  |
 | [L.I.B](https://open.spotify.com/track/3bkxrLI6XgEY1HwjM236qN) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 4:03 | 2022-07-14 | 2022-07-27 |
 | [L.L.M.S.D.](https://open.spotify.com/track/0b8KeAFrw5nkA7MHMnqTv7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [L.L.M.S.D.](https://open.spotify.com/album/1aFaexvwFRREZ3BD0WIxtD) | 3:57 | 2022-06-02 | 2022-06-08 |
 | [Laid back \(feat\. Kazma Kobayashi\)](https://open.spotify.com/track/5EwJvQdjjvBbKrZQzShYIR) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s), [Kazuma Kobayashi](https://open.spotify.com/artist/2Alp7bBEvBhzmxDaiHtSXZ) | [Bearwear/The tiva](https://open.spotify.com/album/5XAIEWhmdFMVt6Cagjd8BN) | 3:54 | 2022-05-26 | 2022-07-16 |
@@ -247,6 +248,7 @@
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-01-31 |  |
 | [Sailing Day](https://open.spotify.com/track/5FcMcYQdFskcg6SR88V1NN) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:08 | 2022-09-13 | 2022-11-04 |
 | [Saint Anger](https://open.spotify.com/track/5TQPOFSG75V4emyF8fjJ5i) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [C toshiikerumono](https://open.spotify.com/album/0YMnwungrphEtyh8jkH4TE) | 4:21 | 2022-05-26 | 2022-07-20 |
+| [Saitei](https://open.spotify.com/track/5XQeh4YcsPGgDw4nLQ2bHl) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Saitei](https://open.spotify.com/album/1pOiOfmUIUmSiORYbAYFFV) | 3:09 | 2023-02-07 |  |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-06-30 | 2022-07-04 |
 | [Sakura Iro](https://open.spotify.com/track/3gJXVq7BuBcZIdiTbPWwU2) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashi no Nocturne](https://open.spotify.com/album/7joB2NhzGfyUPa5M71epsi) | 3:52 | 2023-01-24 |  |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-06-02 | 2022-07-27 |
@@ -448,7 +450,7 @@
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-07-28 | 2022-08-17 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-05-26 | 2022-07-29 |
 | [グッバイ来世でまた会おう](https://open.spotify.com/track/3tMAlCQkzdZaLY13drupYE) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [グッバイ来世でまた会おう](https://open.spotify.com/album/7awpbwywwAClGnc8pMrCPf) | 4:01 | 2022-05-26 | 2022-07-29 |
-| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 |  |
+| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
 | [クリスマスのよる](https://open.spotify.com/track/7EZhW28rCBdk7PEc39LaTA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [クリスマスのよる](https://open.spotify.com/album/77XMycZ6Xdok8wMQT31hqp) | 4:30 | 2022-12-02 | 2022-12-28 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2022-05-31 | 2022-12-14 |
@@ -672,7 +674,7 @@
 | [晴るる](https://open.spotify.com/track/3AfLw9w3RWycN7XOdc4LzZ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [晴るる](https://open.spotify.com/album/1CnBYMm94KUaPy6WFfSzFj) | 4:50 | 2022-06-07 | 2022-06-09 |
 | [暗闇](https://open.spotify.com/track/1aT56py72Iv2nZl86wXGSu) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [暗闇](https://open.spotify.com/album/1K9X2PvPQCZ0yLu0zugLcJ) | 3:17 | 2022-07-14 | 2022-07-20 |
 | [暮らし](https://open.spotify.com/track/1Bo3mAZ6d0DFzvWDdDpUOM) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [暮らし](https://open.spotify.com/album/1S6zjUA3v7mj34xGCummLo) | 2:09 | 2022-06-07 | 2022-06-13 |
-| [最愛](https://open.spotify.com/track/3GhbDX9IIqfzpErHKAA929) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [最愛](https://open.spotify.com/album/5ugSfNW9X8ocqG25nfM3dB) | 3:09 | 2023-02-07 |  |
+| [最愛](https://open.spotify.com/track/3GhbDX9IIqfzpErHKAA929) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [最愛](https://open.spotify.com/album/5ugSfNW9X8ocqG25nfM3dB) | 3:09 | 2023-02-07 | 2023-02-09 |
 | [最終列車で君に会いにゆく](https://open.spotify.com/track/4A2JdTWhKTKOxRwLvg91PE) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [最終列車で君に会いにゆく](https://open.spotify.com/album/4S9DGlG019QxILVaNV32RF) | 4:28 | 2023-01-17 |  |
 | [月が涙を流す夜](https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [月が涙を流す夜](https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi) | 3:39 | 2022-10-04 | 2022-10-06 |
 | [朔日](https://open.spotify.com/track/5hHiiyWh4rgOgF3ONSnO7o) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [朔日](https://open.spotify.com/album/3eITKe4UScpy4XHuL3X2db) | 4:17 | 2022-07-19 | 2022-08-17 |

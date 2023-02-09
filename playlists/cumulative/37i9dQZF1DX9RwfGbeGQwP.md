@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,115 songs - 1 day 18 hr 4 min
+1,116 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,7 +744,8 @@
 | [Parlour](https://open.spotify.com/track/4u5w1JuCYy3taIwsQWlCqc) | [Jake Jurant](https://open.spotify.com/artist/1QzecXC3SU8A1CVqR4oJeD), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Parlour](https://open.spotify.com/album/3psjUfwmdNnCztTJ5qmrYV) | 2:05 | 2022-04-15 | 2022-11-12 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-01-27 | 2022-11-12 |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-01-27 | 2022-12-24 |
-| [Peace of pancake](https://open.spotify.com/track/7hbZwpwy185T2IqvRTuHZc) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/0Zk5N0xF8lvjLiFsOw3NuL) | 2:09 | 2022-12-09 |  |
+| [Peace of pancake](https://open.spotify.com/track/4Zh9sTklpob67NuVGWMWDS) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/1QUts39AIyMrV87zmq5FEd) | 2:09 | 2023-02-07 |  |
+| [Peace of pancake](https://open.spotify.com/track/7hbZwpwy185T2IqvRTuHZc) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/0Zk5N0xF8lvjLiFsOw3NuL) | 2:09 | 2022-12-09 | 2023-02-09 |
 | [Peach Ice Tea](https://open.spotify.com/track/1eSPjtVoRxnn1XekAE3qyA) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p), [Boom Mbappe](https://open.spotify.com/artist/7uLPNP0X5VwyZUesxZv9s7) | [Peach Ice Tea](https://open.spotify.com/album/5VKyNmyuwm2y8JReshgb1g) | 1:57 | 2022-07-08 | 2022-12-10 |
 | [Peanut Butter](https://open.spotify.com/track/3FGaTQ0PoGKi3GrrzNuk94) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Peanut Butter](https://open.spotify.com/album/4Ptym5GUg6PGORKUZSn7Jz) | 1:01 | 2022-01-27 | 2022-05-20 |
 | [Pear](https://open.spotify.com/track/5kaYTtwCO4n0YrP8PydD79) | [Kyomi](https://open.spotify.com/artist/40Ni6zxyeBMGPnEXaObaw1) | [Pear](https://open.spotify.com/album/0LDnXv9hWIg2O96qkbDY9Z) | 2:26 | 2022-08-12 | 2022-10-15 |

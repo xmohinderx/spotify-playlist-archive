@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,416 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 36 | [Efteraar](https://open.spotify.com/track/0E9fxTuKGsFLd9nirytamd) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Efteraar](https://open.spotify.com/album/5IJrl616LUYdsgjI6GT30K) | 2:24 |
 | 37 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 |
 | 38 | [Lament](https://open.spotify.com/track/20p6ToTwOlMsocEiFtQm1I) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Lament](https://open.spotify.com/album/5D9OH4oMw2vOC5rSCbJbvZ) | 2:10 |
-| 39 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 |
+| 39 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 |
 | 40 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 |
 | 41 | [Self Care](https://open.spotify.com/track/2dPIYXBIW0FVdnwBNjzAnv) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Self Care](https://open.spotify.com/album/6yIL1aO1bcjnFte8R5QA2p) | 1:52 |
 | 42 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 |
 | 43 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 |
 | 44 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 |
 | 45 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 |
-| 46 | [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 |
+| 46 | [Fidèle](https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 3:23 |
 | 47 | [Dream if I May](https://open.spotify.com/track/4BKyaEiMkhd82gOp47YvLv) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Dream if I May](https://open.spotify.com/album/7x0Jc1HcCjOcbWqpqWzM8X) | 2:29 |
 | 48 | [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 |
 | 49 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 84 | [Brian's Song](https://open.spotify.com/track/5NT2QCIgDzhHeYG1dI1gIA) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Brian's Song](https://open.spotify.com/album/4SgqN5nEzsvsJrpcQbPGGx) | 3:39 |
 | 85 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 |
 | 86 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 |
-| 87 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 |
+| 87 | [Childhood](https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP) | 3:16 |
 | 88 | [Divide Us](https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Divide Us](https://open.spotify.com/album/04HWxSrMObA0BehN4545yu) | 2:30 |
 | 89 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 |
 | 90 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 154 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 |
 | 155 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 |
 
-Snapshot ID: `MTY3NDc0ODQzOCwwMDAwMDAwMGQyM2EzNjFlNDMzYmVjMTc5Y2Q4MWNkYjcxMmY0NzMw`
+Snapshot ID: `MTY3NDc0ODQzOCwwMDAwMDAwMDQxY2JjMDFhYTAwZjQzOTQ0MTQ2ZjEwZmU4ODMwZWZi`

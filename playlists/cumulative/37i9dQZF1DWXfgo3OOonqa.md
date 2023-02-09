@@ -4,7 +4,7 @@
 
 > god damn i'm feeling myself
 
-802 songs - 1 day 11 hr 34 min
+803 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Hood Party](https://open.spotify.com/track/72hHT9csJqUN3ZvBxWd8W5) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Adis](https://open.spotify.com/artist/4mzjimF31WZY4ufszXpq3I), [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Hood Party](https://open.spotify.com/album/4mQCGN484VIaEffuYr2NxC) | 2:30 | 2022-02-03 | 2022-03-25 |
 | [Hood rich](https://open.spotify.com/track/5wugIx6QQxpMXYhbUSqNCP) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [Hood rich](https://open.spotify.com/album/7qcLvWpIpy8c2Ttz3gnLiw) | 2:34 | 2022-07-21 | 2022-08-12 |
 | [Hoodfellas](https://open.spotify.com/track/0VaWaEa0GDTTjlSQgB1v9j) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Hoodfellas](https://open.spotify.com/album/5jm8qrqgb5cK7YgHhDbr7E) | 3:02 | 2022-03-10 | 2022-04-08 |
+| [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-02-08 |  |
 | [HOTGIRLSUMMER](https://open.spotify.com/track/3kTrBNQRUCs5J4AZGkvVnk) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [HOTGIRLSUMMER](https://open.spotify.com/album/3iEymNVHjJbYhOPJYhvh3B) | 2:15 | 2022-06-23 | 2022-08-20 |
 | [How I feel](https://open.spotify.com/track/2dmQ9121BRJqzo6p4CLiMx) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [How I feel](https://open.spotify.com/album/7y5frPcYiD6RQcPYoN8WBi) | 3:13 | 2022-05-26 | 2022-06-17 |
 | [Hunger Games](https://open.spotify.com/track/0SIiyWC3DWdR31j4M7CTdF) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD) | [Hunger Games](https://open.spotify.com/album/2B0ltzTamLtlmV44v3r5Sl) | 2:07 | 2022-02-25 | 2022-03-25 |
@@ -507,7 +508,7 @@
 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 | 2022-02-17 | 2022-03-11 |
 | [Modeller](https://open.spotify.com/track/7svT4ypMkqp7IEltrK5eit) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [Modeller](https://open.spotify.com/album/0O4vSqdE9AMFQnbDgsIQ3V) | 1:58 | 2023-01-26 |  |
 | [MONACO](https://open.spotify.com/track/5JvQGmoHTGGuXTlbyZq0U0) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [MONACO](https://open.spotify.com/album/0EepVQhwDeJqt4EPR7VHZ1) | 2:25 | 2022-08-18 | 2022-10-21 |
-| [Monclizzy](https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Monclizzy](https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q) | 1:44 | 2022-11-17 |  |
+| [Monclizzy](https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Monclizzy](https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q) | 1:44 | 2022-11-17 | 2023-02-09 |
 | [Monster Under Sängen](https://open.spotify.com/track/5P5BS16fZQlzTAa9BV3DzF) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [Monster Under Sängen](https://open.spotify.com/album/1LWPXEEHx8ILVqnIPzNSIc) | 3:04 | 2022-10-06 | 2022-10-21 |
 | [More Life](https://open.spotify.com/track/5ApubzVtuXojrL0L0J6BVe) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [More Life](https://open.spotify.com/album/6KEpKIo4JGPJT16K6TnUVq) | 2:30 | 2022-05-11 | 2022-06-24 |
 | [More Life](https://open.spotify.com/track/4ooWpPQjvjX2fjNrs2WqmI) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [More Life](https://open.spotify.com/album/3FqhbCgN7Tc3vZePJRMbrj) | 2:39 | 2022-04-07 | 2022-05-06 |

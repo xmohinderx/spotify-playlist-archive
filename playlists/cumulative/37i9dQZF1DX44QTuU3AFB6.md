@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-437 songs - 23 hr 31 min
+438 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 | 2022-10-22 | 2022-12-24 |
 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 | 2022-05-20 | 2022-10-15 |
 | [El Cigarrito](https://open.spotify.com/track/2hiS6UYbXL4rP8T88DYWG1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Cigarrito](https://open.spotify.com/album/5i9NAhtjUAbesq02MWb7pu) | 2:57 | 2022-05-20 | 2022-08-06 |
-| [El Cigarrito](https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:58 | 2022-12-24 |  |
+| [El Cigarrito](https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:58 | 2022-12-24 | 2023-02-09 |
 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 | 2022-05-20 | 2022-08-06 |
 | [El Clavo](https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Top Norteño](https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ) | 2:43 | 2022-05-20 |  |
 | [El Columpio](https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:19 | 2022-05-20 |  |
@@ -413,6 +413,7 @@
 | [Un 18](https://open.spotify.com/track/3J76NrtaLaKdV0u1N7Awt5) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Un 18](https://open.spotify.com/album/56wlqXiDCv9l7eCmvpPEms) | 4:06 | 2022-05-20 | 2022-08-06 |
 | [Un Fin en Culiacán](https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Un Fin en Culiacán](https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl) | 2:34 | 2022-05-20 | 2022-08-06 |
 | [Un Placer, Fui El Chamaco \- En Vivo](https://open.spotify.com/track/5fJlztLjjC9akK1soyzCzu) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Un Placer, Fui El Chamaco \(En Vivo\)](https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX) | 2:43 | 2022-05-20 | 2022-08-06 |
+| [Un Puño De Tierra](https://open.spotify.com/track/1uDSMmfIdkybYrrDZhLxOk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Bandas & Rolas](https://open.spotify.com/album/29OiKPVQImSz4DzgA1tyyi) | 3:08 | 2023-01-20 |  |
 | [Un Puño De Tierra](https://open.spotify.com/track/5D8n9Aqnzk3WgVeiomIlTl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Vida Ranchera](https://open.spotify.com/album/4sWHZVgyWVgnDiCbHj4Agy) | 3:08 | 2022-05-20 | 2022-08-06 |
 | [Una Pagina Mas](https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Página Más](https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN) | 2:35 | 2022-12-24 |  |
 | [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2022-05-20 | 2022-08-06 |

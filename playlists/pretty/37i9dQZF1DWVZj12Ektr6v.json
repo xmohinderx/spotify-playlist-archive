@@ -1,13 +1,29 @@
 {
-  "description": " To the world, this is NCT! We are NCT DREAM! Our Winter Special Mini Album \u2018Candy\u2019 is out!",
-  "num_followers": 228940,
+  "description": " To the world, this is NCT! We are NCT DREAM! ",
+  "num_followers": 229319,
   "original_name": "This Is NCT DREAM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4MTIwMCwwMDAwMDAwMGMwNWNhYjE5NzU4MTU5NmE0MTJjOGEzMDM2YmY3YWY2",
+  "snapshot_id": "MTY3NTgzOTQzOCwwMDAwMDAwMGY2ZjU2MWM0ODg4Y2UxOTMxNDk4Nzk3NWJhODMwZWM0",
   "tracks": [
+    {
+      "added_at": "2023-02-08 06:57:18",
+      "album": {
+        "name": "Best Friend Ever",
+        "url": "https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Best Friend Ever",
+      "url": "https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu"
+    },
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {

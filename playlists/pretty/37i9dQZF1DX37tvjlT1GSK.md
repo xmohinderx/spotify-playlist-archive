@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Cuatro de Oro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,701 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,780 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 52 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
 | 53 | [Lavadichi](https://open.spotify.com/track/1toi8pP6yhA5q4DsEtWCUm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Lavadichi](https://open.spotify.com/album/64Ixc7mGaDYX4fBJhirvnX) | 2:50 |
 | 54 | [Cuando Te Ame](https://open.spotify.com/track/1wdWyRs5xnuoa6itHiWVUN) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5](https://open.spotify.com/album/1vBjoHzTclIISicKH9HOtf) | 3:55 |
-| 55 | [Efecto Al Corazon](https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 2:38 |
-| 56 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
+| 55 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
+| 56 | [Efecto Al Corazon](https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 2:38 |
 | 57 | [Una en Un Millon](https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Niña Fiel](https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV) | 2:09 |
 | 58 | [Que Vas a Hacer](https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Que Vas a Hacer](https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF) | 3:05 |
 | 59 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 |
 | 100 | [Gente De Sombrero \- En Vivo](https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 3:05 |
 
-Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMDMwNjYxZWNjZjAwNTdmNmIzMjBhZTg2ODBjYzc1NzQ3`
+Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMDE0OWRlODIxZDY5YzAwZjFhYjkzNTM2YWRkZTgzMDJj`

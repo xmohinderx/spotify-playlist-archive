@@ -1,12 +1,12 @@
 {
   "description": "The best and finest '70s Funk. Cover: Kool & The Gang.",
-  "num_followers": 94228,
+  "num_followers": 94284,
   "original_name": "I Love My '70s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwMjk0NCwwMDAwMDAwMDg3ODFhZTc2NjcxNTU0NzYwOTgxMzUxZTQ0ZjhiY2M1",
+  "snapshot_id": "MTY3NTg3Mjc5MCwwMDAwMDAwMDlhYWUwNjBmNTA1YTQ3NDQwY2M4MTdkZWM2NGUyMjAz",
   "tracks": [
     {
       "added_at": "2020-12-01 11:17:33",
@@ -23,6 +23,22 @@
       "duration_ms": 279933,
       "name": "Hollywood Swinging",
       "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
+    },
+    {
+      "added_at": "2020-12-01 11:17:33",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2020-12-01 11:17:33",
@@ -103,22 +119,6 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2020-12-01 11:17:33",
-      "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2020-12-01 11:17:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,563 likes - 95 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,666 likes - 95 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 48 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
 | 49 | [Savasana](https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50) | [Kai Franz](https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE) | [Surya Namaskar](https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj) | 15:18 |
 | 50 | [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 |
-| 51 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
-| 52 | [Flutes of Harmony](https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 3:37 |
+| 51 | [Flutes of Harmony](https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 3:37 |
+| 52 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
 | 53 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
 | 54 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
 | 55 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 92 | [Savasana Yoga](https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq) | [Kundalini Yoga Group](https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV) | [Surya Namaskar Yoga – Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises](https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu) | 3:35 |
 | 93 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 94 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
-| 95 | [Approaching the North](https://open.spotify.com/track/0YrE5p5ObxDRUhBJR3jyN2) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Reiki Mountains](https://open.spotify.com/album/4XIQVj9V9Q2lHW5Vos4r2Z) | 5:15 |
+| 95 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 
-Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDExNDc5YzczYTFiZTFhNjExMzZiZmQ5OWFmNTY4ZTkw`
+Snapshot ID: `MTY3NTg1NDI5NiwwMDAwMDAwMGFmN2JhNWFhZWFhY2Q5ODM1MjBkNmRkMmVlZmI1MjY3`

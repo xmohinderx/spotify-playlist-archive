@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,159 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,319 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 83 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 |
 | 84 | [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 |
 | 85 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 |
-| 86 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 |
-| 87 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 |
+| 86 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 |
+| 87 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 |
 | 88 | [666 Voices Inside](https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Attera Totus Sanctus](https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE) | 4:38 |
 | 89 | [The Third of the Storms \(Evoked Damnation\)](https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Apocalyptic Raids](https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU) | 2:57 |
 | 90 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 |
 | 100 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMGZkOWZkYWM1YzNlNmZmZGU1YjI3ZGE5ZmVmOWIyNmE4`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDllOTQxMzZhYmQ0ZDA1ZjYxMmE5OTNjM2ZjMzZiMjY5`

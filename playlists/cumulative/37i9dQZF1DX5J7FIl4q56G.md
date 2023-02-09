@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Falling In Reverse
 
-2,624 songs - 7 day 9 hr 26 min
+2,625 songs - 7 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,8 @@
 | [Departure](https://open.spotify.com/track/2zYxceYidQR1dH0Y5WA18Z) | [Souldrainer](https://open.spotify.com/artist/2h8TligWI8YeZluK5jVZUQ) | [Departure](https://open.spotify.com/album/5BzytZuDJpNOWE2H9qRTLR) | 3:58 | 2022-12-09 | 2022-12-17 |
 | [Depression Season](https://open.spotify.com/track/0d2yuOqkP2rtimQ7OHJBex) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Depression Season](https://open.spotify.com/album/7DuxU5W6e3w5wCBsD3pKZr) | 2:55 | 2022-12-12 | 2022-12-17 |
 | [Der Füsilier II](https://open.spotify.com/track/5qVtgLu94WO1ZBPcELOJ1k) | [Kanonenfieber](https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ) | [Der Füsilier](https://open.spotify.com/album/7fXQt09YTxA8wAcOFIuiVA) | 5:32 | 2022-11-25 | 2022-12-03 |
-| [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/track/5sItFPSVaFtRSu8KMhl7GH) | [Sortilège](https://open.spotify.com/artist/2mUthKsZa1UWKvbAcJWQ2U), [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/album/2xXS05tTeckiP1Vjwlawmc) | 6:32 | 2023-02-03 |  |
+| [Derrière les portes de Babylone](https://open.spotify.com/track/40b0EgUE4XlHnzbv906vO6) | [Sortilège](https://open.spotify.com/artist/2mUthKsZa1UWKvbAcJWQ2U), [Myrath](https://open.spotify.com/artist/0jouQZDyvbmO4A2cx7iwtO) | [Derrière les portes de Babylone](https://open.spotify.com/album/7m2giU46bn3fcGh8ga2pt3) | 6:32 | 2023-02-03 |  |
+| [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/track/5sItFPSVaFtRSu8KMhl7GH) | [Sortilège](https://open.spotify.com/artist/2mUthKsZa1UWKvbAcJWQ2U), [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Derrière les portes de Babylone \(feat\. Myrath\)](https://open.spotify.com/album/2xXS05tTeckiP1Vjwlawmc) | 6:32 | 2023-02-03 | 2023-02-09 |
 | [DESTINY](https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [DESTINY](https://open.spotify.com/album/6szs4Ng6wO7Hu48kHET1xL) | 3:00 | 2021-12-17 | 2022-01-21 |
 | [Destroy All](https://open.spotify.com/track/5fvHAiHgoz4feao8IcrPIz) | [Entropy Zero](https://open.spotify.com/artist/5G4C2cJu2dxvgwDSh1FI3b) | [Destroy All](https://open.spotify.com/album/6SYXaYh246QX5ClKRkQPr9) | 2:22 | 2022-08-19 | 2022-08-27 |
 | [Destroy Us All](https://open.spotify.com/track/1trTYFVcCIy1jrVISOEKrp) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Destroy Us All](https://open.spotify.com/album/6IfPAtBr7R4RG5ZduMMImC) | 4:26 | 2022-07-22 | 2022-07-30 |

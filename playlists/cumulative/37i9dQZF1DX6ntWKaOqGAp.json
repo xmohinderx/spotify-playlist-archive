@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Daidai no Hi",
+        "url": "https://open.spotify.com/album/0nXDYAe0MIS4CmVxIlA5t4"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272811,
+      "name": "Daidai no Hi",
+      "url": "https://open.spotify.com/track/6xLzDmyttM6uUJ1kt7k1tu"
+    },
+    {
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
       },
@@ -521,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Kamogawa, Yugure to Boku",
+        "url": "https://open.spotify.com/album/50nRTKQ6JiP7MxxnJr4aWB"
+      },
+      "artists": [
+        {
+          "name": "Hello Hello",
+          "url": "https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Kamogawa, Yugure to Boku",
+      "url": "https://open.spotify.com/track/5lsP5U4q5BkSuYDZg6ivcY"
+    },
+    {
+      "album": {
         "name": "Suzume (Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
@@ -568,10 +604,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 210000,
       "name": "Kid",
       "url": "https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro"
+    },
+    {
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW"
     },
     {
       "album": {
@@ -608,6 +662,24 @@
       "duration_ms": 261385,
       "name": "LOVE ROCKETS",
       "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
+    },
+    {
+      "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230587,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz"
     },
     {
       "album": {
@@ -882,6 +954,24 @@
       "duration_ms": 193000,
       "name": "Raided",
       "url": "https://open.spotify.com/track/6T8irfJT4GxqUL1qjB64A5"
+    },
+    {
+      "album": {
+        "name": "Rashiku",
+        "url": "https://open.spotify.com/album/3hOIKNqobignQz1MheQ0o9"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Rashiku",
+      "url": "https://open.spotify.com/track/1TBHbljkZmfH15BkKowBDK"
     },
     {
       "album": {
@@ -1424,7 +1514,7 @@
     {
       "album": {
         "name": "VOX",
-        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+        "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
       },
       "artists": [
         {
@@ -1435,6 +1525,24 @@
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK"
+    },
+    {
+      "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
@@ -1668,7 +1776,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 262960,
       "name": "\u3089\u3057\u304f",
       "url": "https://open.spotify.com/track/12ZJt0tZRUr1k4ROKm3MUT"
@@ -2136,7 +2244,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 230587,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1XPblQZCt1NdhEk2eEjMLI"
@@ -2428,10 +2536,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 213000,
       "name": "\u5bbf\u7e01",
       "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
+    },
+    {
+      "album": {
+        "name": "\u5bbf\u7e01",
+        "url": "https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "\u5bbf\u7e01",
+      "url": "https://open.spotify.com/track/4vEuwSyGXdSBlx3BpeHoUT"
     },
     {
       "album": {
@@ -2590,7 +2716,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 272811,
       "name": "\u6a59\u306e\u65e5",
       "url": "https://open.spotify.com/track/36ah9WzaexbCabO2fM1NwI"
@@ -2850,7 +2976,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 175333,
       "name": "\u9d28\u5ddd\u3001\u5915\u66ae\u308c\u3068\u50d5",
       "url": "https://open.spotify.com/track/2RqqcgHZB5hIcwjhyrSS1g"

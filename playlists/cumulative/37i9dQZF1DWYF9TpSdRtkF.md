@@ -4,7 +4,7 @@
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-118 songs - 8 hr 32 min
+119 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [初恋バタフライ](https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub) | [宮尾美也 \(CV.桐谷蝶々\)](https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC) | [THE IDOLM@STER LIVE THE@TER HARMONY 06](https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf) | 5:01 | 2022-12-20 |  |
 | [君だけの欠片](https://open.spotify.com/track/2PsRuVjZrJYkRCQwJhjG2Z) | [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K) | [THE IDOLM@STER LIVE THE@TER HARMONY 04](https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc) | 5:17 | 2022-12-16 | 2022-12-18 |
 | [君との明日を願うから](https://open.spotify.com/track/2jExKLdczc5nUmZhqyIH9L) | [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [君との明日を願うから](https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo) | 5:47 | 2022-12-16 |  |
+| [咲くは浮世の君花火](https://open.spotify.com/track/7bShOIQ5ls3hF26cOsE12J) | [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [Nao Yokoyama \(CV: Yui Watanabe\)](https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo) | [THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光 HANABI団](https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE) | 4:22 | 2023-01-13 |  |
 | [嘆きのFRACTION](https://open.spotify.com/track/0flUkjZ2aVnp7uyXTsZlXw) | [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 07](https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe) | 4:29 | 2022-12-16 | 2022-12-20 |
 | [囚われのTeaTime](https://open.spotify.com/track/3nZwjmVswCQ5cIeC05DGEM) | [七尾百合子 \(CV.伊藤美来\)](https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE), [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/44gxLW0GBoBdduoDSzUOBZ), [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh), [望月杏奈 \(CV.夏川椎菜\)](https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs), [Mizuki Makabe \(CV: Rika Abe\)](https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE) | [THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono\-Lexica](https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3) | 5:33 | 2022-12-16 | 2022-12-22 |
 | [待ちぼうけのLacrima](https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it) | [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi) | 4:22 | 2022-12-16 |  |
@@ -125,6 +126,6 @@
 | [裏表深層心理](https://open.spotify.com/track/0zP8fZMB0LgFYMJPZKGHla) | [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05](https://open.spotify.com/album/4LtWSOGZrbUE0qS0GVgVPw) | 3:35 | 2023-01-13 | 2023-01-24 |
 | [追憶のサンドグラス](https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 06](https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi) | 4:09 | 2022-12-16 | 2023-01-02 |
 | [週末だけのハーレクイン](https://open.spotify.com/track/5eiVhNY1hfrj5JZOa9xGJb) | [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/0TdlTDm9kd5UbOXSqNV3KP) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04](https://open.spotify.com/album/2l4xAEwb0RUwI9waodLEwM) | 4:09 | 2023-01-13 | 2023-01-27 |
-| [餞の鳥](https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb) | [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal](https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17) | 5:00 | 2022-12-20 |  |
+| [餞の鳥](https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb) | [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal](https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17) | 5:00 | 2022-12-20 | 2023-02-09 |
 
 \*This playlist was first scraped on 2022-12-17. Prior content cannot be recovered.

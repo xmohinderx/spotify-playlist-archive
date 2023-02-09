@@ -1,12 +1,12 @@
 {
   "description": "Carol Biazin e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 131194,
+  "num_followers": 131177,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDllMDc1Njg0YzcyZThlOWM4ZDUzMGE0Njg5Nzk0NDhl",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDRkZWE0MDk5NTI3NWZlN2IyMmJiZWE4YzVmNzkyNTY0",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "BURBURINHO",
-        "url": "https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 214698,
-      "name": "burburinho",
-      "url": "https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Eles nos Chamam de Amigos",
         "url": "https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 188789,
       "name": "Eles nos Chamam de Amigos",
       "url": "https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "BURBURINHO",
+        "url": "https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 214698,
+      "name": "burburinho",
+      "url": "https://open.spotify.com/track/1Mem9DQYCKtukH5DOrbmdV"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "tchau, baby!",
+        "url": "https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "tchau, baby!",
+      "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Rude",
         "url": "https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 174657,
       "name": "Rude",
       "url": "https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "tchau, baby!",
-        "url": "https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "tchau, baby!",
-      "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
     },
     {
       "added_at": "2023-02-01 03:00:00",

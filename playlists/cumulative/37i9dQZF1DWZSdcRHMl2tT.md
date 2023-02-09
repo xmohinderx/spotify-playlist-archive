@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-349 songs - 17 hr 55 min
+350 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [feeling good](https://open.spotify.com/track/1Np0V3QfuemgSA418CmIrV) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [feeling good](https://open.spotify.com/album/7oskxvHjMjh5i03o9reVz5) | 3:14 | 2022-09-02 |  |
 | [Feet in Sand](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Feet in Sand](https://open.spotify.com/album/4YCnbj7uIHHXFmljXzkLCP) | 2:54 | 2022-09-02 |  |
 | [Feet in the sand](https://open.spotify.com/track/6Q9loIPwc1mbXjdJ8mD1Gq) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Sunstrip](https://open.spotify.com/album/4Bd78qUqkrB4wISdBCFcNx) | 2:48 | 2022-04-15 |  |
-| [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 | 2022-12-09 |  |
+| [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 | 2022-12-09 | 2023-02-09 |
+| [Feign Life](https://open.spotify.com/track/7rb4YTkWp1r02r1RoLHuDx) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/1sBHzpr8XOICD07hNMSPSU) | 2:52 | 2023-01-20 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2022-04-05 |  |
 | [Fifteen](https://open.spotify.com/track/2dhziN5G456z3P2J4inmH1) | [Beau Vallon](https://open.spotify.com/artist/5K0wrtw39gjYV1Gf63auL4) | [Fifteen](https://open.spotify.com/album/0lRGe4tyvQ7mtaghEFx49i) | 2:21 | 2022-09-02 |  |
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2022-07-08 |  |

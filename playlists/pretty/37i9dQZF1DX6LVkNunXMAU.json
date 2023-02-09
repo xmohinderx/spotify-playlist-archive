@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53401,
+  "num_followers": 53415,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDRlZTU5NzE0MDA0OWM3YWVlMjdhYTBlZDk2OWM1MDRl",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDA2NTFlYTA3ZTVhNGFlNWIzZjI1OWMxMThkY2NjNjc5",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -127,18 +127,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -159,22 +163,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Locomotora",
         "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 185296,
       "name": "Que Placer",
       "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Como un Guiri en Barcelona",
-        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Como un Guiri en Barcelona",
-      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Postre",
         "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Como un Guiri en Barcelona",
+        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Como un Guiri en Barcelona",
+      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
-      },
-      "artists": [
-        {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
-        }
-      ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Mira Ni\u00f1ita",
-        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 268793,
-      "name": "Mira Ni\u00f1ita",
-      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Mira Ni\u00f1ita",
+        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 268793,
+      "name": "Mira Ni\u00f1ita",
+      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1627,34 +1627,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "La Guarida",
-        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
-      },
-      "artists": [
-        {
-          "name": "Julian Mourin",
-          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
-        },
-        {
-          "name": "Mei demayo",
-          "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
-        },
-        {
-          "name": "Juan ortiz",
-          "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "La Guarida",
-      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI"
       },
@@ -1679,6 +1651,34 @@
       "duration_ms": 207419,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "La Guarida",
+        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
+      },
+      "artists": [
+        {
+          "name": "Julian Mourin",
+          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
+        },
+        {
+          "name": "Mei demayo",
+          "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
+        },
+        {
+          "name": "Juan ortiz",
+          "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "La Guarida",
+      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
+        "name": "trece",
+        "url": "https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "tommy 3 balas",
+          "url": "https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL"
         }
       ],
-      "duration_ms": 165205,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
+      "duration_ms": 172500,
+      "name": "trece",
+      "url": "https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd"
     }
   ],
   "unique_name": "mandarina",

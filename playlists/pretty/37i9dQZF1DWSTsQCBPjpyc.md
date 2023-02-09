@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,496 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,524 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 16 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 |
 | 17 | [Playing On Me](https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 3:23 |
 | 18 | [You're Losin' Me](https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:52 |
-| 19 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 |
-| 20 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 |
-| 21 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
+| 19 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 |
+| 20 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
+| 21 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 |
 | 22 | [Grits Ain't Groceries \(All Around The World\)](https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Rockin' The Blues](https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk) | 2:41 |
 | 23 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
-| 24 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 |
-| 25 | [Bad Axe](https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Deluxe Edition](https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL) | 3:13 |
+| 24 | [Bad Axe](https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Deluxe Edition](https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL) | 3:13 |
+| 25 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 |
 | 26 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 |
 | 27 | [Cold Cuts](https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 6:00 |
 | 28 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 46 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
 | 47 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
 | 48 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
-| 49 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
-| 50 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 |
+| 49 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 |
+| 50 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 
-Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDdmMjc0NDNiMWZiMDU3MjdlY2VlMDNhNTdmOWMzNTI4`
+Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDY3M2Y3YzQ3M2NiNjcwNzFjZWI2NTMxNGQ0OTgxYTUz`

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 10726,
+  "num_followers": 10763,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDk4NDQ2NCwwMDAwMDAwMGU0NDhiZDU3MGViMWNmYjJhM2Y0NTgwOWZhOTUxYTIz",
+  "snapshot_id": "MTY3NDk4NDQ2NCwwMDAwMDAwMDU1NGZjZWNlYmFjYTFlOTRhZmE0MTQxMjA1ZDQ5MDMz",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "DKT",
-        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "DKT",
-      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "DKT",
+        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "DKT",
+      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Trobul",
+        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Trobul",
+      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Trobul",
-        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Trobul",
-      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
       "added_at": "2022-07-28 23:00:00",

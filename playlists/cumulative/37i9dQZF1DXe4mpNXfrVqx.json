@@ -322,10 +322,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 237818,
       "name": "BNTA",
       "url": "https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS"
+    },
+    {
+      "album": {
+        "name": "BNTA",
+        "url": "https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ"
+      },
+      "artists": [
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237818,
+      "name": "BNTA",
+      "url": "https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo"
     },
     {
       "album": {
@@ -1038,6 +1056,24 @@
     {
       "album": {
         "name": "Hino",
+        "url": "https://open.spotify.com/album/4a4BJwJhUWMkf4tdeeoxIi"
+      },
+      "artists": [
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173958,
+      "name": "Hino",
+      "url": "https://open.spotify.com/track/5XqfnIoBXU9qvFZRmVAowM"
+    },
+    {
+      "album": {
+        "name": "Hino",
         "url": "https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p"
       },
       "artists": [
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 176000,
       "name": "Hino",
       "url": "https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG"

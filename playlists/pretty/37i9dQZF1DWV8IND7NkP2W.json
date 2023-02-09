@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 418567,
+  "num_followers": 418630,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMDc4Y2UzMWU2MTY3NmVhYmY1ODY1YzNlMzBlM2VjM2Y5",
+  "snapshot_id": "MTY3NTM1MDAwMCwwMDAwMDAwMGNiYWFkMjJhMWIwNzEyOTUzMWRkZmY3YjIyNjk3YTE2",
   "tracks": [
     {
       "added_at": "2023-02-02 15:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "fog morning",
-        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "fog morning",
-      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Nagata Lights",
         "url": "https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "fog morning",
+        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "fog morning",
+      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -643,6 +643,30 @@
       "duration_ms": 129229,
       "name": "Hey",
       "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "City Dreams",
+        "url": "https://open.spotify.com/album/5RJFdRx8YkGGYlJ4bvI7lz"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        },
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        }
+      ],
+      "duration_ms": 164817,
+      "name": "City Dreams",
+      "url": "https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -679,30 +703,6 @@
       "duration_ms": 417506,
       "name": "Spiritual State",
       "url": "https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "City Dreams",
-        "url": "https://open.spotify.com/album/5RJFdRx8YkGGYlJ4bvI7lz"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
-        },
-        {
-          "name": "cocabona",
-          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
-        }
-      ],
-      "duration_ms": 164817,
-      "name": "City Dreams",
-      "url": "https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Origami Skizzen",
+        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+        }
+      ],
+      "duration_ms": 152156,
+      "name": "Jazz Neko",
+      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Afternoon Rain",
         "url": "https://open.spotify.com/album/3Ct0VS2eZA3QiVJXjwrhJR"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 173011,
       "name": "Afternoon Rain",
       "url": "https://open.spotify.com/track/1iJnHe4sAY9GIaXKWv3gly"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Origami Skizzen",
-        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
-      },
-      "artists": [
-        {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
-        },
-        {
-          "name": "AHNAMUSICA",
-          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
-        }
-      ],
-      "duration_ms": 152156,
-      "name": "Jazz Neko",
-      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        }
+      ],
+      "duration_ms": 189902,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+        "name": "NOTE",
+        "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
       "artists": [
         {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
         }
       ],
-      "duration_ms": 189902,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
+      "duration_ms": 222433,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/60nkYijW61SLHlTPls1yIJ"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 162857,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "NOTE",
-        "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
-      },
-      "artists": [
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
-        }
-      ],
-      "duration_ms": 222433,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/60nkYijW61SLHlTPls1yIJ"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Osaka Dreams",
+        "url": "https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS"
+      },
+      "artists": [
+        {
+          "name": "Satsuto",
+          "url": "https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Osaka Dreams",
+      "url": "https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Silently Beats",
         "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 144000,
       "name": "Season",
       "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "In A Dream",
-      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Osaka Dreams",
-        "url": "https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS"
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
       },
       "artists": [
         {
-          "name": "Satsuto",
-          "url": "https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Osaka Dreams",
-      "url": "https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ"
+      "duration_ms": 159370,
+      "name": "In A Dream",
+      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Ria",
-        "url": "https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        },
-        {
-          "name": "Linn Mori",
-          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
-        }
-      ],
-      "duration_ms": 123739,
-      "name": "Ria",
-      "url": "https://open.spotify.com/track/5ySEjcNGL8my5N9rYr52J2"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "City Creatures",
         "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Ria",
+        "url": "https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        }
+      ],
+      "duration_ms": 123739,
+      "name": "Ria",
+      "url": "https://open.spotify.com/track/5ySEjcNGL8my5N9rYr52J2"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 219207,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Breezin",
+        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 155401,
+      "name": "Breezin",
+      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Breezin",
-        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
+        "name": "special",
+        "url": "https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "bird",
+          "url": "https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs"
         }
       ],
-      "duration_ms": 155401,
-      "name": "Breezin",
-      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
+      "duration_ms": 146666,
+      "name": "special",
+      "url": "https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 170109,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr"
-      },
-      "artists": [
-        {
-          "name": "bird",
-          "url": "https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "special",
-      "url": "https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H"
+      },
+      "artists": [
+        {
+          "name": "Rin Ishi",
+          "url": "https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup"
+        }
+      ],
+      "duration_ms": 172389,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
         "name": "meraki / cosmogyral",
         "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H"
-      },
-      "artists": [
-        {
-          "name": "Rin Ishi",
-          "url": "https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup"
-        }
-      ],
-      "duration_ms": 172389,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Water Circles",
         "url": "https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD"
       },
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Spring Fever",
-        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
+        "name": "kageokuri",
+        "url": "https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL"
       },
       "artists": [
         {
-          "name": "VIDEOTAPEMUSIC",
-          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
         }
       ],
-      "duration_ms": 243696,
-      "name": "Spring Fever",
-      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
+      "duration_ms": 215917,
+      "name": "kageokuri",
+      "url": "https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "kageokuri",
-        "url": "https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL"
+        "name": "Spring Fever",
+        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
       },
       "artists": [
         {
-          "name": "ninomiya tatsuki",
-          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
         }
       ],
-      "duration_ms": 215917,
-      "name": "kageokuri",
-      "url": "https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV"
+      "duration_ms": 243696,
+      "name": "Spring Fever",
+      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Kof\u016b II",
-        "url": "https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 185380,
-      "name": "Shurayuki hime",
-      "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
-        "name": "Recollection",
-        "url": "https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 161044,
-      "name": "Recollection",
-      "url": "https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK"
-    },
-    {
-      "added_at": "2023-02-02 15:00:00",
-      "album": {
         "name": "Sometime Somewhere",
         "url": "https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 289748,
       "name": "Warm Day of Winter",
       "url": "https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Kof\u016b II",
+        "url": "https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 185380,
+      "name": "Shurayuki hime",
+      "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1707,6 +1691,22 @@
       "duration_ms": 249107,
       "name": "4 Ever",
       "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
+    },
+    {
+      "added_at": "2023-02-02 15:00:00",
+      "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 161044,
+      "name": "Recollection",
+      "url": "https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK"
     },
     {
       "added_at": "2023-02-02 15:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-02-02 15:00:00",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/2s84hakRJ9roZotGZRCHac"
+        "name": "YAZZY BEATS \u6691\u4e2d\u898b\u821e",
+        "url": "https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW"
       },
       "artists": [
         {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+          "name": "Tha Omedetaz",
+          "url": "https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL"
         }
       ],
-      "duration_ms": 153191,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/3tHEw9CiFsWefYrjy7t2a3"
+      "duration_ms": 130421,
+      "name": "CHOP SUMMER",
+      "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: 87dance) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: memethehouse(\ubbf8\ubbf8\ub354\ud558\uc6b0\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -6032,7 +6032,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 231481,
       "name": "Night Keeper",
       "url": "https://open.spotify.com/track/6hOEtej8q58BgHjvFeYohj"
@@ -9388,6 +9388,24 @@
       "duration_ms": 281746,
       "name": "What I want to say",
       "url": "https://open.spotify.com/track/5rYOrzOU6QD9YNVaj6QwXc"
+    },
+    {
+      "album": {
+        "name": "Whatever u are",
+        "url": "https://open.spotify.com/album/0cZyc7Nh5mhXj7ywWAZqtE"
+      },
+      "artists": [
+        {
+          "name": "memethehouse",
+          "url": "https://open.spotify.com/artist/2pmi3fj6A9vv7eksh6vE5s"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196223,
+      "name": "Whatever u are",
+      "url": "https://open.spotify.com/track/4Lv08yuwGs79fY9gTSmsZk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-233 songs - 13 hr 54 min
+234 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Trigger Full of Promises](https://open.spotify.com/track/441TNI9Hkrj4SUf2FG2WnU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [With Devils Amongst Us All](https://open.spotify.com/album/5WJ9NSZdMK8VuEw5BKAEOI) | 3:48 | 2022-01-14 |  |
 | [Aftermath](https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Aftermath](https://open.spotify.com/album/1k1m4qTVfMyAspqCSxuIvu) | 4:58 | 2022-01-14 |  |
 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 | 2022-01-14 |  |
-| [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 | 2022-01-14 |  |
+| [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 | 2022-01-14 | 2023-02-09 |
 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 | 2022-02-10 |  |
 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 | 2022-04-22 |  |
 | [All Mosh / No Brain](https://open.spotify.com/track/3tsrxws2JnnffbU1n8MJFX) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [All Mosh / No Brain](https://open.spotify.com/album/5DtPjn5whPrPoWd9kuppSz) | 1:32 | 2022-01-14 | 2022-07-26 |
@@ -215,6 +215,7 @@
 | [The Rise of Hannibal](https://open.spotify.com/track/0dW93M3hJlXnteO7ftdXkf) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Rise of Hannibal](https://open.spotify.com/album/3A2Yf0BVVJPseScPxDx0xd) | 4:50 | 2022-01-14 | 2022-07-28 |
 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 | 2022-04-22 |  |
 | [The Submissive](https://open.spotify.com/track/4xY0dYk5cLKFRyKWRM30C8) | [The Agony Scene](https://open.spotify.com/artist/74yhbgDkPbVWHZ0VmNi5M9) | [The Submissive](https://open.spotify.com/album/3pyiHcA9Zp3FQPLaeXDail) | 3:08 | 2022-01-14 | 2022-07-18 |
+| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-02-08 |  |
 | [The Truest Love](https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [The Truest Love](https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP) | 3:51 | 2022-01-14 |  |
 | [Thief](https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Firsthand Accounts](https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA) | 3:14 | 2022-01-14 |  |
 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 | 2022-10-28 |  |

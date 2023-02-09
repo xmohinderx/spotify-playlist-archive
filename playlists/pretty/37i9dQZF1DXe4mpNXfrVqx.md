@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Hyperanhas, Tammy
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,119 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,134 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 44 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 | 45 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 | 46 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
-| 47 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 |
+| 47 | [Hino](https://open.spotify.com/track/5XqfnIoBXU9qvFZRmVAowM) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/4a4BJwJhUWMkf4tdeeoxIi) | 2:53 |
 | 48 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 |
 | 49 | [No Feelings](https://open.spotify.com/track/14e36462Mej9BbWFkO42T2) | [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p) | [NO FEELINGS](https://open.spotify.com/album/5MWp3ROrxT3rAA85S5Zplb) | 2:21 |
 | 50 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 65 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 |
 | 66 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 |
 | 67 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 |
-| 68 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 |
+| 68 | [BNTA](https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ) | 3:57 |
 | 69 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
 | 70 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
 | 71 | [À Mil](https://open.spotify.com/track/6dTVjamvjG1SNwiAbEHVsQ) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [11.11](https://open.spotify.com/album/15d6lSeL5rDks8tksYpQSv) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 |
 | 75 | [Autentik](https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8) | 2:51 |
 
-Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMGE3YjU5MzZlODc3ZmJjNTQ1MTg0YmIwOGRjNmY2NzNi`
+Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMDExMTlmNDc5Mjc3OTc0NzY3ZDkyY2UxNzE0MGIzY2I4`

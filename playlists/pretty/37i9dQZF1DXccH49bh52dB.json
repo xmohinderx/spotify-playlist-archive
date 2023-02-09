@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 402686,
+  "num_followers": 403127,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDY1NWE0MmEzM2RhZDAzMjM5MjMwNmQ4MWE0ZjM1ZDVi",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDgzZGY1MzNhYmJiOTBmNzVhNGUyNzRiMjVmMjIzNGQ3",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Let It Be Me (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Oh Child",
         "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 195261,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Let It Be Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk"
     },
     {
       "added_at": "2022-01-18 14:54:04",

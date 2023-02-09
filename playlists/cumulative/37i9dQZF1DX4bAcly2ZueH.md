@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-110 songs - 5 hr 53 min
+111 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 | 2022-10-11 |  |
 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 | 2022-10-11 |  |
 | [Horizon](https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Nujabes PRAY Reflections](https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM) | 4:35 | 2022-10-11 |  |
-| [How You Been](https://open.spotify.com/track/3XyG9UY8Z5VEtqWucgWgsZ) | [Elijah Lee](https://open.spotify.com/artist/1wDDPEIVpcwXhPbCOkgPoi), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [How You Been](https://open.spotify.com/album/4x3QznGNIUqZrLphdbHFFP) | 2:37 | 2022-10-11 |  |
+| [How You Been](https://open.spotify.com/track/3XyG9UY8Z5VEtqWucgWgsZ) | [Elijah Lee](https://open.spotify.com/artist/1wDDPEIVpcwXhPbCOkgPoi), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [How You Been](https://open.spotify.com/album/4x3QznGNIUqZrLphdbHFFP) | 2:37 | 2022-10-11 | 2023-02-09 |
+| [How You Been](https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C) | 2:37 | 2023-01-31 |  |
 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 | 2022-10-11 |  |
 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
 | [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 82956,
+  "num_followers": 83110,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMDI5ZmJkN2NlNmRlMzUzYTBkNWVkMTg0OTg0MjMyNGQ0",
+  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMGZjZWJlNjg4MGVmMTBkNmZmNjRkNjA2NmUyZDYxZmUx",
   "tracks": [
     {
       "added_at": "2023-02-03 04:00:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+        "name": "lodges",
+        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+      "duration_ms": 231921,
+      "name": "lodges",
+      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Owen",
         "url": "https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "21st Of June",
+        "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 191195,
+      "name": "21st Of June",
+      "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -547,26 +563,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
-        }
-      ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Round",
         "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
@@ -603,6 +599,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 268124,
       "name": "Ostinato",
       "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
-      },
-      "artists": [
-        {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
-        }
-      ],
-      "duration_ms": 258221,
-      "name": "Zima",
-      "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -659,6 +659,22 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "duration_ms": 258221,
+      "name": "Zima",
+      "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "21st Of June",
-        "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 191195,
-      "name": "21st Of June",
-      "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "By This River",
         "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
@@ -915,22 +935,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
       },
       "artists": [
         {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Blackfriars",
-        "url": "https://open.spotify.com/album/6a5Gl4FDc2uoCDe5mIevGE"
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
       "artists": [
         {
-          "name": "Anna Meredith",
-          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
-        },
-        {
-          "name": "Matthew Barley",
-          "url": "https://open.spotify.com/artist/7H3B421x5YuTEeO0hLH7nd"
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Blackfriars",
-      "url": "https://open.spotify.com/track/7H5EyhkBFd3R2ksjJhDtDH"
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1075,50 +1071,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+        "name": "Blackfriars",
+        "url": "https://open.spotify.com/album/6a5Gl4FDc2uoCDe5mIevGE"
       },
       "artists": [
         {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
-      },
-      "artists": [
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        },
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Matthew Barley",
+          "url": "https://open.spotify.com/artist/7H3B421x5YuTEeO0hLH7nd"
         }
       ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+      "duration_ms": 183000,
+      "name": "Blackfriars",
+      "url": "https://open.spotify.com/track/7H5EyhkBFd3R2ksjJhDtDH"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1135,6 +1103,38 @@
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/1haQIg0VfdYNGMLVsplGzo"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 365892,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Retour",
         "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 425440,
       "name": "Retour",
       "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/1haQIg0VfdYNGMLVsplGzo"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        },
-        {
-          "name": "Ethan Haman",
-          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
-        }
-      ],
-      "duration_ms": 499877,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        },
+        {
+          "name": "Ethan Haman",
+          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
+        }
+      ],
+      "duration_ms": 499877,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1375,26 +1375,18 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Circle 31",
-        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
       "artists": [
         {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+          "name": "MAGUIRE",
+          "url": "https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8"
         }
       ],
-      "duration_ms": 257314,
-      "name": "Circle 31",
-      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+      "duration_ms": 225462,
+      "name": "La descente",
+      "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1415,22 +1407,6 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 292044,
-      "name": "Dawn is Near",
-      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1515,42 +1491,42 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Pavane (Sam Thompson Rework)",
-        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
+        "name": "Circle 31",
+        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
       },
       "artists": [
         {
-          "name": "Sam Thompson",
-          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
         },
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
         },
         {
-          "name": "Martha Thompson",
-          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Pavane - Sam Thompson Rework",
-      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+      "duration_ms": 257314,
+      "name": "Circle 31",
+      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
     },
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
       },
       "artists": [
         {
-          "name": "MAGUIRE",
-          "url": "https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 225462,
-      "name": "La descente",
-      "url": "https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB"
+      "duration_ms": 292044,
+      "name": "Dawn is Near",
+      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1575,22 +1551,46 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
+        "name": "Pavane (Sam Thompson Rework)",
+        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Sam Thompson",
+          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
         },
         {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Martha Thompson",
+          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
         }
       ],
-      "duration_ms": 133335,
-      "name": "Nos - C.B. Rework",
-      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
+      "duration_ms": 323693,
+      "name": "Pavane - Sam Thompson Rework",
+      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 267871,
+      "name": "Enerhodar",
+      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
     }
   ],
   "unique_name": "Classical X",

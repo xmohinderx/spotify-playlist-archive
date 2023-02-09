@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Loyaltty y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,123 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 17 | [PERREO PA LAS NENAS](https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:56 |
 | 18 | [Lehia](https://open.spotify.com/track/06DRbxvGPWBfUc5mf8ka0Y) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Lehia](https://open.spotify.com/album/1DlDbvxnUDtT2RnWXYzP8F) | 2:46 |
-| 19 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
-| 20 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
+| 19 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
+| 20 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
 | 21 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
 | 22 | [Ley Seca](https://open.spotify.com/track/3HU1hZwW0Ga7QUng9Qsc0e) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Ley Seca](https://open.spotify.com/album/591obbcRDbeiyNObOOsIAG) | 2:15 |
 | 23 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 29 | [Bendiciones](https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bendiciones](https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p) | 2:53 |
 | 30 | [Código Bitches](https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb) | [Fran Mazu](https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Código Bitches](https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6) | 2:47 |
 | 31 | [Desilusión](https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Desilusión](https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY) | 3:27 |
-| 32 | [MATRIX](https://open.spotify.com/track/0XXhYM7qlTHbrYTpI44XO7) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ) | [MATRIX](https://open.spotify.com/album/1eAuOa1shPZKN6OS25iScZ) | 2:22 |
-| 33 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 32 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
+| 33 | [MATRIX](https://open.spotify.com/track/0XXhYM7qlTHbrYTpI44XO7) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ) | [MATRIX](https://open.spotify.com/album/1eAuOa1shPZKN6OS25iScZ) | 2:22 |
 | 34 | [No sé](https://open.spotify.com/track/1cSBQQlx8r3aWJimguLnHc) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:49 |
 | 35 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
 | 36 | [To' Caro](https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Desconfia](https://open.spotify.com/track/6S2GReB5OOrDXZdr2l6vcm) | [Anamias Ixaya](https://open.spotify.com/artist/0oMQkNMyylPQB8NKVVjEWK), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Proyecto Fresia](https://open.spotify.com/album/3tjRB8i1dJ8Moin1F0RKjp) | 2:50 |
 | 50 | [Fuega](https://open.spotify.com/track/2nh8GLnWGZwGUUryJfSlNf) | [La Lola](https://open.spotify.com/artist/76fJm7snE4sS86N9gd7tnT) | [Fuega](https://open.spotify.com/album/5xOlrYq3hPU7PFhyCf0jAg) | 2:51 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDkzZDEwZWNjMzc3YTE2Y2MzOWE0ZDVmMzkwNjcwMTU0`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDg1MzRjMjI2NmVjNDMzMWZmNWVjMzJiZjgzYzcwMzll`

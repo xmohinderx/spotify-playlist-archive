@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-213 songs - 12 hr 57 min
+214 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ek Toh Kum Zindagani \(From "Marjaavaan"\)](https://open.spotify.com/track/6oDHAjaJJjwwgoAuMIeY9K) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Ek Toh Kum Zindagani \(From "Marjaavaan"\)](https://open.spotify.com/album/0g1uKv2mWhI5rt1FSeYmcb) | 3:10 | 2021-01-25\* | 2021-03-06 |
 | [Enna Sona](https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:33 | 2023-02-07 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-01-18 |  |
+| [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-02-08 |  |
 | [Feelings](https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM) | [Feelings](https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU) | 3:44 | 2020-08-31 | 2022-09-06 |
 | [Filhaal2 Mohabbat](https://open.spotify.com/track/576v1keY82NOPITMNu0wD2) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Filhaal2 Mohabbat](https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp) | 5:00 | 2021-07-13 | 2022-04-19 |
 | [Filhall](https://open.spotify.com/track/6E7P1uT2afeor2t6wR2y2r) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar & Nupur Sanon](https://open.spotify.com/artist/1yPxhYU2w6xPFY2jpkzyCI) | [Filhall](https://open.spotify.com/album/3WCamTXZzFCJ7O4xa2TTpz) | 4:15 | 2021-01-25\* | 2021-03-06 |

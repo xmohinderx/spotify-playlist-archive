@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Savage Ga$p
 
-375 songs - 14 hr 47 min
+376 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-09-17 |  |
 | [Human \(feat\. Night Lovell\)](https://open.spotify.com/track/4zrYnAzX1CMRt9SoZdixMz) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Human \(feat\. Night Lovell\)](https://open.spotify.com/album/7iQcMBuqbzJSnPV8VDix6h) | 2:52 | 2021-09-17 | 2022-06-11 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 |  |
+| [I Don't Fuck With Conversation](https://open.spotify.com/track/7aseZZASeyvzpV7ZY66W34) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [I Don't Fuck With Conversation](https://open.spotify.com/album/6yngvUzu5YryAu2EcGp3Zw) | 2:35 | 2023-02-08 |  |
 | [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 | 2022-12-16 |  |
 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 | 2022-10-28 |  |
 | [I Know Your Ways](https://open.spotify.com/track/66M3TNwc5Kn1wuyAMAc1Ba) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 3:12 | 2021-09-17 | 2022-06-04 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,542 songs - 3 day 4 hr 3 min
+1,543 songs - 3 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [GNRFT](https://open.spotify.com/track/32AVIHCkuXtSYGmC3pbdwg) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Big Toe](https://open.spotify.com/artist/18Zq5h68TQ6kurXzRNHJDo), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 3:03 | 2021-05-16 | 2021-05-23 |
 | [GO \(feat\. Ufo361\)](https://open.spotify.com/track/769KHZP7uwjSgFhW5sECvW) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Hitman 2](https://open.spotify.com/album/7A2GHyRv4v4iicKBgV4ieo) | 2:48 | 2021-11-14 | 2021-11-16 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-02 |
+| [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-02-08 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-01-19 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-18 | 2021-05-23 |
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2021-03-27\* | 2021-04-16 |
@@ -1100,7 +1101,7 @@
 | [POOL](https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Themba](https://open.spotify.com/artist/51SSCZT34w23GiDCWT8twm) | [MADEIRA MADNESS](https://open.spotify.com/album/1UpIYat89xq5ivr1CzpDKl) | 2:53 | 2022-10-15 | 2022-10-17 |
 | [POPSMOKE DANCE](https://open.spotify.com/track/1ZU19OTgd4Xs5QaYJ78bQF) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [POPSMOKE DANCE](https://open.spotify.com/album/4VG6YdjT1dssidrwp3uNfW) | 3:04 | 2021-06-20 | 2021-06-24 |
 | [Porsche](https://open.spotify.com/track/6K74pRmxHkSudhOdzoHxwE) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DESTROY ALL COPIES](https://open.spotify.com/album/6XsN3b2ttmdn6M6tHsAkma) | 3:41 | 2021-09-05 | 2021-09-06 |
-| [Portrait](https://open.spotify.com/track/3mynByp1pJOsjCkrSLrjbC) | [Damar](https://open.spotify.com/artist/05LbKtCK9GvxTXoBxqKZxu), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Portrait](https://open.spotify.com/album/1FLbPZDywXu2JTxkIBqavm) | 2:26 | 2023-02-04 |  |
+| [Portrait](https://open.spotify.com/track/3mynByp1pJOsjCkrSLrjbC) | [Damar](https://open.spotify.com/artist/05LbKtCK9GvxTXoBxqKZxu), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Portrait](https://open.spotify.com/album/1FLbPZDywXu2JTxkIBqavm) | 2:26 | 2023-02-04 | 2023-02-09 |
 | [Pourquoi](https://open.spotify.com/track/6I36pBjiMiLQLF4cRMdtZ0) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Pourquoi](https://open.spotify.com/album/2mEiHEjfLmUV4qIHXpWQQD) | 2:48 | 2022-01-01 | 2022-01-23 |
 | [Power Ranger](https://open.spotify.com/track/2HEPWGriMpXtjoXdWLXbzH) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Power Ranger](https://open.spotify.com/album/45JUiVN0SLNlC0EtwWM3Zd) | 2:18 | 2023-01-21 | 2023-01-23 |
 | [Powerade](https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 2:22 | 2022-06-25 | 2023-01-13 |

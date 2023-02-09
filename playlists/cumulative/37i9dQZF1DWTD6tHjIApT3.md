@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Cocco
 
-1,085 songs - 2 day 23 hr 14 min
+1,087 songs - 2 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [kona](https://open.spotify.com/track/6IBh6BCJwtFa6CxLTpdjVg) | [pod'z](https://open.spotify.com/artist/3ZZZacboSyxVTfLmGfxyn1) | [kona](https://open.spotify.com/album/1DyRSvvZWL222bytv3qfCu) | 4:19 | 2022-10-04 | 2022-10-12 |
 | [Konomama](https://open.spotify.com/track/0vSM0LhHlbtl1kXm8kclOd) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [Konomama](https://open.spotify.com/album/6qYCirlWlPRxuypTWp30KB) | 4:25 | 2022-07-14 | 2022-07-20 |
 | [Krazy Salt](https://open.spotify.com/track/6E2J0fgj3HACa2pHiHBAIk) | [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM), [Noriyuki Takagi a.k.a\. NT](https://open.spotify.com/artist/4fIgXEZosCpVykEuMaelYm) | [YO WAKARANGA](https://open.spotify.com/album/4xuOPbWMDqE3IHEZ56E4QO) | 3:07 | 2022-06-21 | 2022-06-29 |
+| [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 |  |
 | [La\-la](https://open.spotify.com/track/2ffpnBbnbB2gxDSo8czHcK) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [La\-la](https://open.spotify.com/album/7MMl3ZrZI9HirOeTl6coNS) | 4:20 | 2022-08-02 | 2022-08-17 |
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-01 | 2023-01-13 |
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-24 | 2023-02-08 |
@@ -409,6 +410,7 @@
 | [Perch](https://open.spotify.com/track/26vnQQzwuJygJzDlkS2hHa) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Perch/Light the Way](https://open.spotify.com/album/0LnQPct7z9xGirp3rPkhOA) | 3:34 | 2023-01-19 | 2023-01-25 |
 | [Perfect Sunday](https://open.spotify.com/track/6FEonegcHISoxFUPBa8T1Q) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Here With You](https://open.spotify.com/album/0BK8GwZyjpUdyA9KSJq6am) | 3:24 | 2022-11-15 | 2022-11-23 |
 | [Perfect! Your Love](https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Perfect! Your Love](https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo) | 3:44 | 2022-11-08 | 2022-11-16 |
+| [Platinum](https://open.spotify.com/track/6e8wPXQkg6uvx6bahAEzc0) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 2](https://open.spotify.com/album/7wa8VtCkuH1de2C3mGYcfI) | 4:32 | 2023-02-07 |  |
 | [Pluto](https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [住](https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C) | 3:10 | 2023-01-10 | 2023-01-18 |
 | [Pre\-Romance](https://open.spotify.com/track/4Vyd2DEveTVKeieRy2S4oD) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 3:12 | 2022-11-10 | 2022-11-13 |
 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 | 2023-01-28 |
@@ -712,7 +714,7 @@
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 | 2022-11-16 |
 | [キンモクセイ](https://open.spotify.com/track/5D4rmd0lELbzElkHne1EvY) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [キンモクセイ](https://open.spotify.com/album/15SsNtLdpBfNUzEcZEGDFV) | 4:29 | 2022-05-29 | 2022-07-29 |
 | [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 | 2022-11-10 |
-| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 |  |
+| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-05-29 | 2022-09-01 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2022-12-07 |
@@ -771,7 +773,7 @@
 | [ブレス](https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ブレス](https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq) | 4:24 | 2022-07-05 | 2023-01-06 |
 | [ブレーメン](https://open.spotify.com/track/007tbArpeenE3cbJU5I3PL) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ブレーメン](https://open.spotify.com/album/5M3p1zATZMgkEE5CrHu4k0) | 4:34 | 2022-07-05 | 2022-09-07 |
 | [プラスティック・ラブ](https://open.spotify.com/track/3uwXWJcQd2jVz6h5DhbVGf) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [プラスティック・ラブ](https://open.spotify.com/album/1MYrZMqchzNcGNXMQxBIBc) | 4:52 | 2022-08-02 | 2022-08-10 |
-| [プラチナ](https://open.spotify.com/track/2yNpUnDvlffYNdQMOvDMs3) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界2](https://open.spotify.com/album/2XzVEDVqPPB0raP9VL9dUU) | 4:32 | 2023-02-07 |  |
+| [プラチナ](https://open.spotify.com/track/2yNpUnDvlffYNdQMOvDMs3) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界2](https://open.spotify.com/album/2XzVEDVqPPB0raP9VL9dUU) | 4:32 | 2023-02-07 | 2023-02-09 |
 | [プレイリスト](https://open.spotify.com/track/4ckVseuJeCfzi0vUXlTDta) | [川西奈月](https://open.spotify.com/artist/2HMIvzlbbpkt8KaEKOgLCE) | [ミッドナイトブルー](https://open.spotify.com/album/10kDiSprNhKrkZgDJxgmZS) | 3:03 | 2022-06-21 | 2022-06-29 |
 | [プレロマンス](https://open.spotify.com/track/7zwBsjM35nm1k44paHHJym) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [プレロマンス](https://open.spotify.com/album/2CH1T0Or6qnBXy37xr8CnN) | 3:12 | 2022-08-23 | 2022-08-25 |
 | [ペルソナの記憶](https://open.spotify.com/track/3RxXuOv8Ek9ugFFRxxNc5J) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:20 | 2022-08-18 | 2022-08-20 |

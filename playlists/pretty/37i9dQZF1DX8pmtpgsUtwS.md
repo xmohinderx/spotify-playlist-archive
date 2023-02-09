@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,524 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,543 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 20 | [Rang \- Raga Baageshri](https://open.spotify.com/track/2L5XVJGJBrDmG7W8ImYvwZ) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX) | [Rang \- Raga Baageshri](https://open.spotify.com/album/1YsrnSEmy0IKl851qSY7fm) | 6:38 |
 | 21 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 |
 | 22 | [Mere Yaar](https://open.spotify.com/track/1OUXH35gQqdsZzrdGEkqkN) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 3:45 |
-| 23 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 |
-| 24 | [Naina \(feat\. Isheeta Chakrvarty\)](https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 5:31 |
+| 23 | [Naina \(feat\. Isheeta Chakrvarty\)](https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 5:31 |
+| 24 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 |
 | 25 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 |
 | 26 | [Mohan Bin Radha](https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Mohan Bin Radha](https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1) | 3:19 |
 | 27 | [O Re Jiya](https://open.spotify.com/track/2CJ20GYw7NJLd4PMABIIEL) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Shankar Tucker](https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Konnakkol Somashekhar Jois](https://open.spotify.com/artist/12unLZAnBWkSY2W2Z0DDfx) | [O Re Jiya](https://open.spotify.com/album/4ar6dYD5PW028N2OsOh5Tn) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 49 | [Naino Waaleya](https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Kamran Zafar](https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des), [Kshitij Mathur](https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Naino Waaleya](https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723) | 6:27 |
 | 50 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 
-Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMGFiNjc1NDQyNDRlNjFkZWUxZTliYjA0N2YyOGRmNjVl`
+Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMGQ5ZTUxMWNhODk0ZWI4YjE0ODk0YmE3NzljMmExZmQ4`

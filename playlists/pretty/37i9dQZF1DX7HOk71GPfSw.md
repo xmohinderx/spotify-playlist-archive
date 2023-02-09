@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,615 likes - 123 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,739 likes - 123 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 3 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
 | 4 | [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 |
 | 5 | [All Night](https://open.spotify.com/track/4HyYobUDP5L83mS1V6Jjoa) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [All Night](https://open.spotify.com/album/5ddlKhYnRry2M8DDerFafu) | 3:00 |
-| 6 | [red](https://open.spotify.com/track/2tbctL38V8BM83TH9urnzk) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/3jSStTGrRtsCkIHJ30vbm1) | 2:11 |
+| 6 | [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 |
 | 7 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 |
 | 8 | [won't hold on](https://open.spotify.com/track/05xNet7Z1zgzrQHEwLXvtk) | [onlywoke](https://open.spotify.com/artist/7xLuShlmvbrllKPtu2HHE4) | [won't hold on](https://open.spotify.com/album/3hranXzB8HSuHJKfhV0Bq1) | 1:43 |
 | 9 | [i wrote this song for you](https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more feelings](https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI) | 2:40 |
@@ -130,6 +130,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 120 | [F4r from Perf3ct](https://open.spotify.com/track/0uurjifbGIlOt1gUeBB9DR) | [B4DFRi3ND](https://open.spotify.com/artist/3PrnbuZ5zvFogv9uztdq1t), [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [F4r from Perf3ct](https://open.spotify.com/album/5ltmIXGYvH33Kwktx9pBz4) | 2:37 |
 | 121 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 |
 | 122 | [UI](https://open.spotify.com/track/7aT7DrYdVsv9r33ZHJhwOD) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 2:49 |
-| 123 | [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 |
+| 123 | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/track/3e8LxLovg137nUwG3yYimP) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/4EeSZjHeSld6hcUAQDx5Qc) | 3:24 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGM5MDFiNzFmNTliZDMxNWY0MmNhYWE0MDJjODU2OTQw`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGMxYWRhZDljMmFlY2ExYjZhZTE1NDRkMWFmYTIzOWU5`

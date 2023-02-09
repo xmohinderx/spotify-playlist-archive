@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 
 > Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,643,138 likes - 200 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,646,507 likes - 200 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,9 +181,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 | 171 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 |
 | 172 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
 | 173 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
-| 174 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
-| 175 | [Skydance](https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Skydance](https://open.spotify.com/album/7Dur0wY6jLRi0anvrDNnxu) | 2:46 |
-| 176 | [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 |
+| 174 | [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 |
+| 175 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
+| 176 | [Skydance](https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Skydance](https://open.spotify.com/album/7Dur0wY6jLRi0anvrDNnxu) | 2:46 |
 | 177 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 |
 | 178 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 |
 | 179 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 | 199 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 200 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc) | 3:16 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDBjNzY1NTlmNmNlZjNjOGM5MGI3MDA1ZDE2YTRjMWU5`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGYwYTFkNTU2ZjliY2ExMWEwZDk1ZWE2YWU3MGU4ZjZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,880 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,940 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 14 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 15 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
 | 16 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
-| 17 | [Tribal Dance](https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 4:28 |
-| 18 | [Apollo Jump](https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 3:26 |
+| 17 | [Apollo Jump](https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 3:26 |
+| 18 | [Tribal Dance](https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 4:28 |
 | 19 | [Cha Cha The Blues](https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Stand Back!](https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe) | 3:12 |
 | 20 | [Runner](https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End ll](https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz) | 3:37 |
 | 21 | [Blues We Like](https://open.spotify.com/track/67nOaC07CjUkWbxnINEH4v) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 5:06 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 56 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 | 57 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 |
 | 58 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
-| 59 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 |
+| 59 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 |
 | 60 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
-| 61 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 |
+| 61 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 |
 | 62 | [Unmilitary Two\-Step](https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blueprint \(Remastered 2017\)](https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML) | 2:50 |
 | 63 | [Blue Dreamer](https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 2:13 |
 | 64 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
 | 80 | [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 |
 
-Snapshot ID: `MTY3NDgzNzE3OSwwMDAwMDAwMDhkMTQyYTk0ODhmNWYwNWY4ZjA2MjM4MTQ5OTY4YWM0`
+Snapshot ID: `MTY3NDgzNzE3OSwwMDAwMDAwMDZmZWMwM2M5MDFmZjhjYTczNmY0NTcyNDQwN2E0MTVk`

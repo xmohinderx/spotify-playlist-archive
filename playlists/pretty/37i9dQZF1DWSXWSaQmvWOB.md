@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: WILSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,073 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,176 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 48 | [Everybody Watching](https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Snoop Dogg Presents Death Row Summer 2022](https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC) | 3:06 |
 | 49 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 |
 | 50 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
-| 51 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 |
-| 52 | [Need To Know Basis](https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 1:59 |
+| 51 | [Need To Know Basis](https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 1:59 |
+| 52 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 |
 | 53 | [Trippin](https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Trippin](https://open.spotify.com/album/1BM3o9El9FetciNldM3t94) | 3:20 |
 | 54 | [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 |
 | 55 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 |
 | 100 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 |
 
-Snapshot ID: `MTY3NTc3NDExNSwwMDAwMDAwMGI2OWNlOTY4OTdjOTI4NDk4OGFmZGI4OTJkOGNjMjE1`
+Snapshot ID: `MTY3NTc3NDExNSwwMDAwMDAwMGRkNGRhZTY2ZmU5MTJjZDVkMmQ2YmU4YTIyZjQzMTA1`

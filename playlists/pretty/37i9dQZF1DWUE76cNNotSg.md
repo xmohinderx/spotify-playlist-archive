@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,421 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,698 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 28 | [NUMB](https://open.spotify.com/track/0feV26ESzVptPP83N82VAO) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Between Us](https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB) | 3:37 |
 | 29 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 30 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
-| 31 | [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 |
+| 31 | [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 |
 | 32 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 33 | [Up To Something](https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:32 |
 | 34 | [Chika \(scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 66 | [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 |
 | 67 | [Baby It's You](https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 4:03 |
 | 68 | [Far Away Place](https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 4:19 |
-| 69 | [UH](https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:00 |
-| 70 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 |
+| 69 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 |
+| 70 | [UH](https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:00 |
 | 71 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
 | 72 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 |
 | 73 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 |
 | 74 | [Memories](https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Memories](https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt) | 3:36 |
-| 75 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
-| 76 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
+| 75 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
+| 76 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 77 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
-| 78 | [Blue Ceiling](https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD) | 2:46 |
-| 79 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
-| 80 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
+| 78 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
+| 79 | [Blue Ceiling](https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD) | 2:46 |
+| 80 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDU3NTA1YjlmOGJiZDFkNzI5ZjM2MWQ4YjZjNTU2NGU3`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDgzMTk0NjRhYTQ0MDc5YzhjZjBlZTk1Mjg3YWIzOWRm`

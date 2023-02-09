@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27117,
+  "num_followers": 27113,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGI4NDM4NDkzN2U5NjBjMWZiNzk2NTNhN2Y0MTg2Y2Iw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGEyMmRjYmZhOWM0YTFjMjNiZTc2YjI5Zjg5ZGE2YWI1",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -947,26 +947,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Perfect (feat. Haris)",
-        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "Perfect (feat. Haris)",
-      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Not Ok",
         "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 210943,
       "name": "Not Ok",
       "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Perfect (feat. Haris)",
+        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Perfect (feat. Haris)",
+      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
     },
     {
       "added_at": "2020-02-18 13:31:30",

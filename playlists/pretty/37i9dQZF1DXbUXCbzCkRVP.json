@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 26880,
+  "num_followers": 26940,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzE3OSwwMDAwMDAwMDhkMTQyYTk0ODhmNWYwNWY4ZjA2MjM4MTQ5OTY4YWM0",
+  "snapshot_id": "MTY3NDgzNzE3OSwwMDAwMDAwMDZmZWMwM2M5MDFmZjhjYTczNmY0NTcyNDQwN2E0MTVk",
   "tracks": [
     {
       "added_at": "2023-01-20 15:01:35",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-20 15:01:35",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Tribal Dance",
-      "url": "https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M"
-    },
-    {
-      "added_at": "2023-01-20 15:01:35",
-      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 206053,
       "name": "Apollo Jump",
       "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
+    },
+    {
+      "added_at": "2023-01-20 15:01:35",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Tribal Dance",
+      "url": "https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M"
     },
     {
       "added_at": "2023-01-20 15:01:35",
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
-      "added_at": "2023-02-08 01:01:34",
+      "added_at": "2023-02-09 01:04:02",
       "album": {
         "name": "Gaslighter's Ball",
         "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-01-20 15:01:35",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
       "artists": [
         {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
     },
     {
       "added_at": "2023-01-20 15:01:35",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-01-20 15:01:35",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
         }
       ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-01-20 15:01:35",

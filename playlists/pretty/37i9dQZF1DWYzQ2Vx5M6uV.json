@@ -1,15 +1,15 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 103581,
+  "num_followers": 103616,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDgwY2E5NmYxOTg1YjIyYjI4MzE4ODQzOTRkMGE1NzI1",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDgyZDFmNTFmMjhjYTRlNGJhMGJjYmZiYmE5YzM3Y2Qz",
   "tracks": [
     {
-      "added_at": "2023-02-08 01:09:07",
+      "added_at": "2023-02-09 01:10:26",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
@@ -71,26 +71,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "KU LO SA (with Camila Cabello)",
-        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "KU LO SA (with Camila Cabello)",
-      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
     },
     {
       "added_at": "2023-01-13 17:35:26",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "LOML (feat. Olamide)",
-        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 196139,
-      "name": "LOML (feat. Olamide)",
-      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "ARENA",
         "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 261702,
       "name": "designer (with Daramola)",
       "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
+        "name": "LOML (feat. Olamide)",
+        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 196139,
+      "name": "LOML (feat. Olamide)",
+      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
     }
   ],
   "unique_name": "Afro Ritmo",

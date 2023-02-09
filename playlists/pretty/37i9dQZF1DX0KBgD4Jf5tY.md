@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2e0HLVyPlF5jP9khNWfV3m">Fata</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,466 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,475 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

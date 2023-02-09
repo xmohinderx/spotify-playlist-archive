@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,838 likes - 113 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,468 likes - 113 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 102 | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/track/5f2CDk3D2XX8XyL6kViwZI) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [No Plans for Love \(with Ne\-Yo & Kent Jones\)](https://open.spotify.com/album/6KhNL7xE9vbfCcx6brXPiO) | 3:24 |
 | 103 | [Over You \(feat\. Stefflon Don\)](https://open.spotify.com/track/6xfcJ61bgdzj5f6xmV4sIW) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Over You \(feat\. Stefflon Don\)](https://open.spotify.com/album/4Rm7gtUrt2eduBiDS1vwld) | 3:12 |
 | 104 | [Vibe](https://open.spotify.com/track/6M2aVK2M2cj7ywBis4tkMH) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [Vibe](https://open.spotify.com/album/1dRkctmEH6bGNEo3m8nVal) | 3:15 |
-| 105 | [1 Thing \(feat\. Eve\) \- Radio Version](https://open.spotify.com/track/7iWikZuAbA8XVjDWSN8iZu) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [1 Thing EP](https://open.spotify.com/album/6tkqhdbEr7OSvzA1VwTEjM) | 3:34 |
-| 106 | [Summertime Shootout \(feat\. T\-Pain\)](https://open.spotify.com/track/2tlsUogi4aK4pg7KNwYBdr) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Summertime Shootout \(feat\. T\-Pain\)](https://open.spotify.com/album/4oApeydTLEzTkPC3Xp7wPL) | 3:39 |
+| 105 | [Summertime Shootout \(feat\. T\-Pain\)](https://open.spotify.com/track/2tlsUogi4aK4pg7KNwYBdr) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Summertime Shootout \(feat\. T\-Pain\)](https://open.spotify.com/album/4oApeydTLEzTkPC3Xp7wPL) | 3:39 |
+| 106 | [1 Thing \(feat\. Eve\) \- Radio Version](https://open.spotify.com/track/7iWikZuAbA8XVjDWSN8iZu) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [1 Thing EP](https://open.spotify.com/album/6tkqhdbEr7OSvzA1VwTEjM) | 3:34 |
 | 107 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
 | 108 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 |
 | 109 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 112 | [Love More \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:09 |
 | 113 | [No, No, No Pt\. 2 \(feat\. Wyclef Jean\)](https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Destiny's Child](https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo) | 3:27 |
 
-Snapshot ID: `MTY2MTQyOTgzNywwMDAwMDAwMGI0MDhkYzJkY2IyNmRjYzgyNTA4ZDkzYTUwN2ZhN2Zj`
+Snapshot ID: `MTY2MTQyOTgzNywwMDAwMDAwMDQyYzA2ZGE2YjgzZWVjZDcwMGUxMThjYjI2YTk5NWFi`

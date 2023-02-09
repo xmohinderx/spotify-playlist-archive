@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,825 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,851 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 46 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
 | 47 | [Trouble In Mind](https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blowin' The Fuses](https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT) | 2:57 |
 | 48 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
-| 49 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
-| 50 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 |
+| 49 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 |
+| 50 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
 | 51 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
 | 52 | [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 |
 | 53 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 57 | [Coming Home](https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 3:58 |
 | 58 | [Cool Drink of Water Blues](https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:27 |
 | 59 | [Memoria Djalma](https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 5:32 |
-| 60 | [Lake Shore Drive \(Slight Return\)](https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi) | [Harris Newman](https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 4:24 |
-| 61 | [Seasonal Hire](https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [The Black Twig Pickers](https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa) | [Seasonal Hire](https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz) | 16:23 |
-| 62 | [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 |
+| 60 | [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 |
+| 61 | [Lake Shore Drive \(Slight Return\)](https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi) | [Harris Newman](https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 4:24 |
+| 62 | [Seasonal Hire](https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [The Black Twig Pickers](https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa) | [Seasonal Hire](https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz) | 16:23 |
 | 63 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
 | 64 | [The Drifter Blues](https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:51 |
 | 65 | [Orange County Serenade](https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 3:32 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 72 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
 | 73 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 |
 | 74 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
-| 75 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
-| 76 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
+| 75 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
+| 76 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
 | 77 | [How Long Blues](https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:14 |
 | 78 | [Cruel Old World](https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Cruel Old World](https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB) | 2:52 |
 | 79 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 |
 | 80 | [Dodge City](https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 5:16 |
 
-Snapshot ID: `MTY3NTQ0MDYyNywwMDAwMDAwMDI4YjNmZjY0NzA0NGM1OTA0NGQ1ZmE3NDNmY2EzZjYz`
+Snapshot ID: `MTY3NTQ0MDYyNywwMDAwMDAwMGU0ODNmNjBlZGMxNjhmMmE3ODI0Njc5MTFhY2RjZGUx`

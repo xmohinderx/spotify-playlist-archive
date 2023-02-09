@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Cheo
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,753 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,772 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 32 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 33 | [Tuki Tuki \- Remix](https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Tuki Tuki \(Remix\)](https://open.spotify.com/album/5h1TiL97try0MmWV5zNLuz) | 3:32 |
 | 34 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
-| 35 | [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 |
-| 36 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 35 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 36 | [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 |
 | 37 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
 | 38 | [Manos de Tijera \- Versión Bachata](https://open.spotify.com/track/4UhYmV4km2WkPW3u6mgPfY) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Manos de Tijera \(Versión Bachata\)](https://open.spotify.com/album/4RXju3Va6kcOzfyyLmDvyX) | 4:28 |
 | 39 | [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 |
 | 40 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 41 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 |
 | 42 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 |
-| 43 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 |
-| 44 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
-| 45 | [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 |
-| 46 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 |
-| 47 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
-| 48 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
-| 49 | [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 |
-| 50 | [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 |
+| 43 | [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 |
+| 44 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 |
+| 45 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
+| 46 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
+| 47 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 |
+| 48 | [Buscando Un Amor](https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Buscando Un Amor](https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH) | 3:48 |
+| 49 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
+| 50 | [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 |
 
-Snapshot ID: `MTY3NTcwNTY2NCwwMDAwMDAwMDQ4ZmE1YzY3MzdiMTA1MDhhZjU2NGZhNzBlODgxOGM3`
+Snapshot ID: `MTY3NTcwNTY2NCwwMDAwMDAwMGQzZTdjZjg0NTEzNWIyMGZjNjhmZDFjY2JkOTFkZmU5`

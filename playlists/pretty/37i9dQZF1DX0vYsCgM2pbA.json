@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 113837,
+  "num_followers": 113897,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMGUwNjFiMDY1MTY0YjQ1ZDIwOGJmMzQ4YTMwYzBiY2Vm",
+  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDRmNWJmZWQ1OTA3NjRlZDY4YzUyMzE4YTFhMGY0Y2Zh",
   "tracks": [
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue"
+      },
+      "artists": [
+        {
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -1099,26 +1115,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Waiting for Nothing (feat. Yaeger)",
-        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 248169,
-      "name": "Waiting for Nothing (feat. Yaeger)",
-      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
       },
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+        "name": "Waiting for Nothing (feat. Yaeger)",
+        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
+      "duration_ms": 248169,
+      "name": "Waiting for Nothing (feat. Yaeger)",
+      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
     }
   ],
   "unique_name": "Sunday Sessions",

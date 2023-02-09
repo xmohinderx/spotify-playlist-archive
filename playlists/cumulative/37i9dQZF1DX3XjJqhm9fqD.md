@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-149 songs - 8 hr 57 min
+150 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Gimme The Night](https://open.spotify.com/track/7wsFUegBzDBaKMVosSprNN) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Zina Eve](https://open.spotify.com/artist/6jrrAuBgAfP9W2HVscZYPw) | [Gimme The Night](https://open.spotify.com/album/5M0QSl8ypFamgZArk34Svr) | 3:56 | 2022-09-30 |  |
 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 | 2021-12-06 | 2023-02-07 |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-04-15 |  |
+| [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 | 2023-02-09 |  |
 | [House Life](https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [House Life](https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC) | 3:45 | 2021-12-06 |  |
 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 | 2021-12-06 |  |
 | [I Don't Mind](https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [I Don't Mind](https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4) | 3:21 | 2021-12-06 |  |
@@ -156,6 +157,6 @@
 | [Water](https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Water](https://open.spotify.com/album/2yE4JE8GL7oMZkJqqvyiG5) | 1:52 | 2021-12-06 | 2022-05-13 |
 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 | 2022-12-31 |
 | [Yo Mele Raboday](https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA) | [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Yo Mele Raboday](https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P) | 3:37 | 2021-12-06 |  |
-| [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 |  |
+| [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 | 2023-02-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

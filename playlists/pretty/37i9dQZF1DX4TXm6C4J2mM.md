@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,316 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,310 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 79 | [Tell Me I'm Pretty \- Icona Pop Remix](https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Tell Me I'm Pretty \(Icona Pop Remix\)](https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI) | 2:39 |
 | 80 | [I'm Just Feelin' \(Du Du Du\) \- MOTi Remix](https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr) | 2:51 |
 | 81 | [Fingers Crossed \- Until Dawn Remix](https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Until Dawn](https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2) | [Fingers Crossed](https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU) | 3:23 |
-| 82 | [Fast Forward](https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Fast Forward](https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN) | 2:38 |
-| 83 | [How Can I Forget Her](https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [How Can I Forget Her](https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ) | 2:48 |
+| 82 | [How Can I Forget Her](https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [How Can I Forget Her](https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ) | 2:48 |
+| 83 | [Fast Forward](https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Fast Forward](https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN) | 2:38 |
 | 84 | [Kids](https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Kids](https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI) | 2:27 |
 | 85 | [Million Ways \- Steve Void Remix](https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Million Ways \(Remixes\)](https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s) | 2:22 |
 | 86 | [If You're Looking for Trouble](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [TASH](https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ) | [Trouble](https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 99 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
 | 100 | [Let’s Go Home Together \- MOTi Remix](https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Let’s Go Home Together \(MOTi Remix\)](https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN) | 2:40 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDc1MGE1MGYzMTU0N2QwM2U0OGE1NDQ1ZGRhYzUwNTc5`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDE4N2FkMmE1Y2E4MmJmOWU2MTNmN2I2NDIyYWZhOTA5`

@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cuatro de Oro en portada. ",
-  "num_followers": 712701,
+  "num_followers": 712780,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDMwNjYxZWNjZjAwNTdmNmIzMjBhZTg2ODBjYzc1NzQ3",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDE0OWRlODIxZDY5YzAwZjFhYjkzNTM2YWRkZTgzMDJj",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/1wdWyRs5xnuoa6itHiWVUN"
     },
     {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
-      },
-      "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Efecto Al Corazon",
-      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
-    },
-    {
       "added_at": "2023-01-09 06:05:35",
       "album": {
         "name": "Corridos y Sentimientos (Vol 2)",
@@ -959,6 +943,22 @@
       "duration_ms": 130250,
       "name": "Y Es Que Contigo",
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Efecto Al Corazon",
+      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
     },
     {
       "added_at": "2023-01-20 06:00:00",

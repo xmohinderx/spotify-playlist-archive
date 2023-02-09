@@ -1188,6 +1188,28 @@
     {
       "album": {
         "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Hands Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1PzEe0SLTi7MXHn0zzSlqI"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
         "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
       },
       "artists": [
@@ -1202,7 +1224,7 @@
       ],
       "date_added": "2020-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 160496,
       "name": "Hands Up (feat.Crush)",
       "url": "https://open.spotify.com/track/09wfkAhMl4TP9LL4o3OmqR"

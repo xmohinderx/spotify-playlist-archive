@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-201 songs - 15 hr 12 min
+202 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Frigid Air](https://open.spotify.com/track/754YgIwGwsonpyiVDFIo48) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Heaven Is For Quitters](https://open.spotify.com/album/4I5OHee32g1CGLab00RLEH) | 4:41 | 2021-04-21 | 2022-06-01 |
 | [Front Screen Projection](https://open.spotify.com/track/4AU1G2o8SL0znM8VQVWcMU) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Offworld](https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L) | 4:33 | 2021-02-04 | 2022-06-24 |
 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 | 2020-06-05\* | 2022-07-29 |
-| [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 | 2020-06-05\* |  |
+| [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 | 2020-06-05\* | 2023-02-09 |
 | [Gierporn](https://open.spotify.com/track/7EEl6SOViwAMoXIx6t5xGr) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Shifting Gier](https://open.spotify.com/album/1RX9jafNy6tDgtQiGumsgS) | 5:29 | 2020-06-07 | 2022-05-02 |
 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 | 2020-06-05\* | 2022-07-21 |
 | [Hates Me](https://open.spotify.com/track/65TQTuti8fOntyi7NzXLTQ) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Hates Me](https://open.spotify.com/album/3hISp4YyeYVGRPvEM2j5E0) | 4:23 | 2020-06-05\* | 2022-07-25 |
@@ -143,6 +143,7 @@
 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 | 2020-09-02 | 2022-07-29 |
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2020-06-05\* | 2022-07-29 |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2020-06-06 | 2023-02-02 |
+| [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2022-11-25 |  |
 | [Pink & Blue \- RAC Mix](https://open.spotify.com/track/3dFj5uaJiP7I9Dz4OTN8wk) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Pink & Blue \(RAC Mix\)](https://open.spotify.com/album/3JOgFwccQtcpFEha9aLIIw) | 3:37 | 2020-06-05\* | 2022-07-24 |
 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 | 2021-03-16 | 2022-07-29 |
 | [Pulsar](https://open.spotify.com/track/2sgPuP6ZKso5wwIR055k3k) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:40 | 2020-06-05\* | 2022-07-17 |

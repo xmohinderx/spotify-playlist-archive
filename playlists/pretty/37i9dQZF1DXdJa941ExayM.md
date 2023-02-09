@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: Berry Galazka
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,859 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,921 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 72 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 |
 | 73 | [Hazmat Suit \(My Ass\)](https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Hazmat Suit \(My Ass\)](https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww) | 3:00 |
 | 74 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
-| 75 | [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 |
-| 76 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 |
+| 75 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 |
+| 76 | [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 |
 | 77 | [something about the sky](https://open.spotify.com/track/5iKPJOA5c2wfaxoAIgHEIq) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [something about the sky](https://open.spotify.com/album/06mHXwletIsI39HtTIfuQO) | 3:36 |
 | 78 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 |
 | 79 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 |
 | 80 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
 
-Snapshot ID: `MTY3NTI1MjU3OCwwMDAwMDAwMGVjMjE1ZGQ4ZjVlNDk0ZmVmOTQxZjM3Mjg4ODYxOGIx`
+Snapshot ID: `MTY3NTI1MjU3OCwwMDAwMDAwMDMwZTBkZDg5MDkxZmUwMGJjYzg1OTcwMjg0YjM2ZmZk`

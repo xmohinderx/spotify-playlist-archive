@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 80266,
+  "num_followers": 80304,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMGY5NDMzODdhNGQ5M2RjZWU3OTRiNzRmZWNkOGQwNGQ4",
+  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMGY2ZTUyOTY2Yzg4YmFiMmVhZWQ5NzA2ZTlkNmZjNDk3",
   "tracks": [
     {
       "added_at": "2023-01-20 06:00:00",
@@ -429,10 +429,10 @@
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Por Salud Mental",
-      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -541,10 +541,10 @@
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+      "duration_ms": 212746,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Hazme Tuya",
-        "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Hazme Tuya",
-      "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Entiende Que Ya",
         "url": "https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167120,
       "name": "Entiende Que Ya",
       "url": "https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Hazme Tuya",
+        "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 144869,
+      "name": "Hazme Tuya",
+      "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
     },
     {
       "added_at": "2022-09-23 05:00:00",

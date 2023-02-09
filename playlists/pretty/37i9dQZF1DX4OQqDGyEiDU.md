@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,381 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,453 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 45 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
 | 46 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 47 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 |
-| 48 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 |
-| 49 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
+| 48 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
+| 49 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 |
 | 50 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
 
-Snapshot ID: `MTY3NTc4Nzc3MywwMDAwMDAwMDI4Yzc2M2YwNzk1ZTYxZWE4OTM4NzQ2OTM0ZTBhZTY5`
+Snapshot ID: `MTY3NTc4Nzc3MywwMDAwMDAwMGJiYjRhMzUwNmY2ZmEzNTFjOWFkOTdlOWZiOWI5ZjVi`

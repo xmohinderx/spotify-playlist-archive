@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,054 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,046 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 103 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
 | 104 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
 | 105 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 |
-| 106 | [I Still love you a lot](https://open.spotify.com/track/3cZvGx80KaW9PrJ0OBez7o) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still love you a lot](https://open.spotify.com/album/1vfkbNsnBmRRjI4q4dMAgR) | 4:35 |
+| 106 | [사랑이란 멜로는 없어](https://open.spotify.com/track/0CGovscVJUxLASfj6KnVwO) | [Jeon Sang Geun](https://open.spotify.com/artist/6MfFHNKaZ7lAQsm52eLNvJ) | [사랑이란 멜로는 없어](https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5) | 4:35 |
 | 107 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |
 | 108 | [Break up](https://open.spotify.com/track/3INPEyKw1nVft467ejF7dp) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Break up](https://open.spotify.com/album/3UhXyglD4N7SLFGBIizoSI) | 3:42 |
 | 109 | [Your Regards](https://open.spotify.com/track/6WgChN2kqQpNSsIXgu6oAX) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your Regards](https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs) | 3:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 149 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 150 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMDY3NjgzNmIzNTA3MTFhNjcxYjNjYTg5MWE1ZDYzOTE5`
+Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGJlNWIwZTE3MTNjMWExMzRhZTNhZmMyZjEyNTlkNWY3`

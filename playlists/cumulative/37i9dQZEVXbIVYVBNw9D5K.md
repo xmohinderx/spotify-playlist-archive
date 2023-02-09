@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-595 songs - 1 day 6 hr 9 min
+596 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,12 +155,12 @@
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dayanamam](https://open.spotify.com/track/4V7xs605t9EWS81GSbP1il) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Dayanamam](https://open.spotify.com/album/3tV1CUeVadMIGv7idVrBtv) | 2:37 | 2022-12-10 | 2022-12-20 |
 | [deniyorum, ama](https://open.spotify.com/track/4yhO1qzAICkyoN0w2P2Za4) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [deniyorum, ama](https://open.spotify.com/album/59jm1W5RpcgHVuyymSn3nL) | 3:05 | 2022-12-16 |  |
-| [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* | 2022-12-14 |
+| [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* |  |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
 | [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 | 2023-01-22 |
-| [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 |  |
+| [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 | 2023-02-09 |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2022-12-24 |  |
 | [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-07-09 |  |
@@ -363,7 +363,7 @@
 | [Lütfen](https://open.spotify.com/track/7jScpTvM9pailo5Gv2baLJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/5QDso9JI9jkXvjr3KgXERG) | 2:27 | 2021-08-13 | 2021-08-15 |
 | [Lütfen](https://open.spotify.com/track/3tdECBQEI1vwJhYu4EQhRB) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/3zItDhKXMKTNtyQDnoteJK) | 2:27 | 2021-08-22 | 2021-08-26 |
 | [Lütfen](https://open.spotify.com/track/6AVblFcGxnVp66PUmIcRIf) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/1f4PePKL0J3waEvNsUP9J8) | 2:27 | 2021-08-20 | 2021-08-21 |
-| [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 |  |
+| [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 | 2023-02-09 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |
 | [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 | 2023-01-01 |
@@ -523,6 +523,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Taksim](https://open.spotify.com/track/5jIaEzm69OQiXgpJN3MSdo) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Taksim](https://open.spotify.com/album/1QraVWAxVEwY8tD1GcH1im) | 3:11 | 2022-03-22 | 2022-03-24 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2022-12-24 | 2023-02-04 |
+| [TALIBANA](https://open.spotify.com/track/5pItIXivjDrUzI2iIhKIVK) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/6hAD0e4SiI1FQR7K265VrV) | 2:38 | 2023-02-08 |  |
 | [Tamam Aşkım](https://open.spotify.com/track/2pqe4vRhVzf6lHN4rzOTiB) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Aramam](https://open.spotify.com/album/2TJGVc8r8FEzYTlUCAGWMO) | 3:38 | 2021-07-01 | 2021-07-16 |
 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 | 2022-11-02 | 2022-11-06 |
 | [Tek Tabanca](https://open.spotify.com/track/3GXsNll1tpH9h9R3ygsEmB) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Tek Tabanca](https://open.spotify.com/album/6IZwq14LBnRItURc1H4r4Y) | 4:23 | 2021-04-18 | 2021-04-19 |

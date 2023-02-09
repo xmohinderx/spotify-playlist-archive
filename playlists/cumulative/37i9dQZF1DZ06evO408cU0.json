@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 173773,
       "name": "Lobo Domesticado",
       "url": "https://open.spotify.com/track/3tNN1pG4SrRNvRUzYD52g6"
@@ -1223,6 +1223,28 @@
     },
     {
       "album": {
+        "name": "Vidita M\u00eda",
+        "url": "https://open.spotify.com/album/6igpMSmxfgA1dSIs0lSVtB"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "Vidita M\u00eda",
+      "url": "https://open.spotify.com/track/1EihKmeWn94bXue3CeHrJ1"
+    },
+    {
+      "album": {
         "name": "Volver A Volar",
         "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
       },
@@ -1302,6 +1324,28 @@
       "duration_ms": 191226,
       "name": "Volver A Volar",
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233546,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/4LlLsV4tAVb40iglBkFDfl"
     },
     {
       "album": {

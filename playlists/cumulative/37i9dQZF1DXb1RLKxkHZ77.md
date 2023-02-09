@@ -2,9 +2,9 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Mario G klau
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Mahalini
 
-164 songs - 10 hr 26 min
+167 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Burn](https://open.spotify.com/track/4cwaFKoFe4lIDzORUldz8X) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn](https://open.spotify.com/album/1jVXtJtc387B4li6XbeAa2) | 3:09 | 2022-08-31 | 2022-10-06 |
 | [Butakah Cinta](https://open.spotify.com/track/6440wcQF6nOmu5e16vjGmo) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Butakah Cinta](https://open.spotify.com/album/5bx75ZifBiS9csZJMraB9E) | 4:31 | 2022-08-31 | 2022-10-28 |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-06-30 |  |
+| [CHECK](https://open.spotify.com/track/2e7kJy1vLWXqKQmOUnALLU) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [CHECK](https://open.spotify.com/album/4wBVctRA2xhUIMjGLukuG1) | 2:36 | 2023-02-08 |  |
 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 | 2022-07-27 | 2022-11-25 |
 | [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Cinta Hanya Buatan](https://open.spotify.com/track/18UAyvjXAX4SUjL6kh3fpV) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Muna Shahirah](https://open.spotify.com/artist/5SRNnJxN0REYoX7HR7SUgL) | [Cinta Hanya Buatan](https://open.spotify.com/album/1DOSCnP1s8LmknokNdCMOJ) | 4:03 | 2022-09-21 | 2022-12-22 |
@@ -60,18 +61,19 @@
 | [HATI](https://open.spotify.com/track/7qUclEieAYxZH07yl9BnnF) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [HATI](https://open.spotify.com/album/2ZjFUUNd76Fm1tInQHNF3N) | 3:26 | 2022-07-27 | 2022-09-01 |
 | [Hati Lain Di Hatimu](https://open.spotify.com/track/1KXucjuiiz2NN2888Y132A) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/5pJwDtvqjOBNT3qUbsBfvd) | 4:18 | 2022-10-05 | 2022-12-15 |
 | [Hati Lain Di Hatimu](https://open.spotify.com/track/1ZtGsN1V5sRLcunXBQUDB6) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/68A70lSJlv7cFYj8ulPV3C) | 4:18 | 2022-08-17 | 2022-10-08 |
-| [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 |  |
+| [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 | 2023-02-09 |
 | [Hidup Tanpamu](https://open.spotify.com/track/04VEB5LZ6slykz3tXTmYpY) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Hidup Tanpamu](https://open.spotify.com/album/1AR9UN1saEOhIb5MVhM8GN) | 4:19 | 2022-12-14 | 2023-01-26 |
 | [Hilang](https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Hilang](https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb) | 3:27 | 2022-09-08 | 2022-10-28 |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2023-02-01 |  |
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-05-25 |  |
 | [I LAB U](https://open.spotify.com/track/1gl1lndIHDDpQeYuUrrMoU) | [Pudds](https://open.spotify.com/artist/6saVgVtwLnVSk9fKMtTvnA), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [I LAB U](https://open.spotify.com/album/6xDjAB66om2adSX7iMfZLv) | 2:20 | 2022-09-15 | 2022-09-29 |
-| [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 | 2022-11-09 |  |
+| [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 | 2022-11-09 | 2023-02-09 |
 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 | 2023-01-18 |  |
 | [Isteri](https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Isteri](https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN) | 2:44 | 2022-08-24 | 2022-10-13 |
 | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/track/7yOOxQWaypqMHW21HwxKgk) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk), [Rachel Patricia](https://open.spotify.com/artist/57PgHtyRgqcUwxJdgMr7mo) | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD) | 3:49 | 2022-10-05 | 2022-11-03 |
 | [Jangan Lepas Tanganku](https://open.spotify.com/track/0SQtAYM5mBBaEKGDHi2mdM) | [Sufi Rashid](https://open.spotify.com/artist/5PWVTaSK4hMtsF15AwAcKQ) | [Jangan Lepas Tanganku](https://open.spotify.com/album/3kGKqwSIBZRo4VelfWTWlb) | 4:15 | 2023-01-25 |  |
 | [Jangan Menangis Cinta](https://open.spotify.com/track/3k5nHyv6EjnH7eeIZQfuYL) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM) | [Jangan Menangis Cinta](https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll) | 4:21 | 2022-05-25 | 2022-07-28 |
+| [janji kita bertemu lagi](https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [janji kita bertemu lagi](https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB) | 4:18 | 2023-02-08 |  |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2022-05-25 |  |
 | [Januari](https://open.spotify.com/track/2STWrmj6fWevrLzubKCWoS) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Januari](https://open.spotify.com/album/3EOiB4qF1bb5QVms99Szpc) | 4:42 | 2023-02-01 |  |
 | [Jika](https://open.spotify.com/track/6zLvxuwVGs0a9ztrEpYmI3) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Jika](https://open.spotify.com/album/7IRGPklzUkOw1uhYlXHIPS) | 4:04 | 2022-10-12 | 2023-01-05 |
@@ -88,7 +90,7 @@
 | [Kong Kali Kong](https://open.spotify.com/track/3ZSMdkjrxvB6fY3eBdS38i) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Namiey](https://open.spotify.com/artist/1o8u7FWcdL5S8upSWJNoNw) | [Kong Kali Kong](https://open.spotify.com/album/7cIbMGFQcsAaURdaNGyE0L) | 3:18 | 2022-11-02 | 2022-12-22 |
 | [Kopi Sepi](https://open.spotify.com/track/36v2Nx5shbMJwFiTEig9Nc) | [Aiman Sidek](https://open.spotify.com/artist/1povjOYaWAzxgLchIrhKtM) | [Kopi Sepi](https://open.spotify.com/album/0EP1K4z5uyenKCDYs1Nu93) | 4:02 | 2022-10-05 | 2022-11-03 |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2022-05-25 | 2022-09-16 |
-| [Lagu Cinta](https://open.spotify.com/track/3zV69lAGEqGtZMlOVi4RQt) | [MonoloQue](https://open.spotify.com/artist/0Oa1D96nsneWt9POB5aGBo) | [Lagu Cinta](https://open.spotify.com/album/042QvoSSWhSYDRhdOOyuZC) | 4:48 | 2023-01-11 |  |
+| [Lagu Cinta](https://open.spotify.com/track/3zV69lAGEqGtZMlOVi4RQt) | [MonoloQue](https://open.spotify.com/artist/0Oa1D96nsneWt9POB5aGBo) | [Lagu Cinta](https://open.spotify.com/album/042QvoSSWhSYDRhdOOyuZC) | 4:48 | 2023-01-11 | 2023-02-09 |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2022-06-09 |  |
 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 | 2022-05-25 | 2022-09-16 |
 | [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-08-31 | 2022-09-29 |
@@ -146,6 +148,7 @@
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-05-25 |  |
 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/5ZJmUtcIlpIdxiruIENBO7) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/album/1GkBzveJ8lNLXTgnJzHr8W) | 3:45 | 2022-08-10 |  |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-02-01 |  |
+| [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-08 |  |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 |  |
 | [Sudah](https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Sudah](https://open.spotify.com/album/1ndWLa36vkw30BKdhgjHt9) | 3:41 | 2022-05-25 | 2022-07-22 |
 | [Sudi](https://open.spotify.com/track/13j1GXauy306qxQmmBPRQm) | [Akwa Arifin](https://open.spotify.com/artist/07brHDNIrWQZPcOrepCicM), [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sudi](https://open.spotify.com/album/35FywzkPW8jYWX4naV5Xgv) | 3:04 | 2023-02-01 |  |

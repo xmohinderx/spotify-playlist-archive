@@ -1608,6 +1608,24 @@
     {
       "album": {
         "name": "Charlie\u00b4s Delight",
+        "url": "https://open.spotify.com/album/0mDsu5vfFDA1FFRQ0uMCNZ"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222110,
+      "name": "Charlie\u00b4s Delight",
+      "url": "https://open.spotify.com/track/41B3yDB64MzesxuKM5F3Mw"
+    },
+    {
+      "album": {
+        "name": "Charlie\u00b4s Delight",
         "url": "https://open.spotify.com/album/4LPVXzjYqx8cVxiPUl4rSf"
       },
       "artists": [
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 222110,
       "name": "Charlie\u00b4s Delight",
       "url": "https://open.spotify.com/track/4MxqQhmnUxdeXAnRRDB63w"

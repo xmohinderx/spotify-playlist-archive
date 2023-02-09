@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,686 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,127 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 77 | [Somebody I'm Not](https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Somebody I'm Not](https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW) | 2:47 |
 | 78 | [Favela](https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Favela](https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ) | 3:05 |
 | 79 | [Sonnentanz \- Sun Don't Shine](https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Sonnentanz](https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4) | 3:56 |
-| 80 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 2:52 |
-| 81 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 |
+| 80 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 |
+| 81 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 2:52 |
 | 82 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 | 83 | [Summer Air](https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv) | 3:03 |
 | 84 | [H.O.L.Y.](https://open.spotify.com/track/625SfHM2FVyyUj3cT8108G) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [H.O.L.Y.](https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU) | 2:55 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDY1NWE0MmEzM2RhZDAzMjM5MjMwNmQ4MWE0ZjM1ZDVi`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDgzZGY1MzNhYmJiOTBmNzVhNGUyNzRiMjVmMjIzNGQ3`

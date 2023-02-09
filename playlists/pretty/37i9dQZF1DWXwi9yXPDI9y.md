@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,432 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,542 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Waltz For Debby](https://open.spotify.com/track/5yIMPoQsY9thfRCZe6lrfX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:30 |
 | 100 | [It Might As Well Be Spring](https://open.spotify.com/track/7jJ8ca0B248VezXAFMxrBo) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Love Songs](https://open.spotify.com/album/7N2FFVs2BMCwZeW8qutIbe) | 3:10 |
 
-Snapshot ID: `MTY3NTMyNjc3NCwwMDAwMDAwMGFhOTZiMTQ1YzdkODBhOTU1OWJhYWFhZTJhZGI5NDdm`
+Snapshot ID: `MTY3NTg2MDgwMSwwMDAwMDAwMGQ5NDNjYjM4N2ZmODZlOTU4Mjc0YjhhYWIzOTEzNmQw`

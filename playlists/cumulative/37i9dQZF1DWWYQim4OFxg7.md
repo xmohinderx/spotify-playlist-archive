@@ -4,14 +4,15 @@
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-35 songs - 1 hr 20 min
+36 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Black Lives Made STEM History](https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx) | [Roy Moye III](https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:14 | 2022-04-08 |  |
 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 | 2022-04-08 |  |
 | [First Kid In Outer Space](https://open.spotify.com/track/0gY02lpe3nwGJkOYF81Byz) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Time Out To Rock](https://open.spotify.com/album/0WlUtngG1jOXHTWrBIiL6P) | 1:51 | 2022-04-08 |  |
-| [How Do Volcanoes Work?](https://open.spotify.com/track/4iiTCRH5nnR1QPNgEtJdC5) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:27 | 2022-04-08 |  |
+| [How Do Volcanoes Work?](https://open.spotify.com/track/4iiTCRH5nnR1QPNgEtJdC5) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:27 | 2022-04-08 | 2023-02-09 |
+| [How Do Volcanoes Work?](https://open.spotify.com/track/5lVyjyEWLZluAGYjqFQd9m) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE) | 1:27 | 2022-04-08 |  |
 | [How Plants Grow](https://open.spotify.com/track/3CU2MfdQcEM0FWQXILtv9V) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN), [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:26 | 2022-04-08 |  |
 | [Hypothesis](https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:30 | 2022-04-08 |  |
 | [I Am a Paleontologist](https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:32 | 2022-04-08 |  |

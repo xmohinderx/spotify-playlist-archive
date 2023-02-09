@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,938 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,987 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 11 | [Badeep](https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Badeep](https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA) | 6:03 |
 | 12 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
 | 13 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
-| 14 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
-| 15 | [Flowerbed](https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Flowerbed](https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1) | 4:26 |
+| 14 | [Flowerbed](https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Flowerbed](https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1) | 4:26 |
+| 15 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
 | 16 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
 | 17 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
 | 18 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 38 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
 | 39 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
 | 40 | [Ultima](https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Ultima](https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ) | 4:29 |
-| 41 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
-| 42 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
+| 41 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
+| 42 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
 | 43 | [Consider Yourself Judged](https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV) | [T.R.A.M](https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB) | [Lingua Franca](https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK) | 4:44 |
 | 44 | [Meteor Stream](https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Meteor Stream](https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb) | 5:45 |
 | 45 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 50 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDUxYTliYzBkMWRkZmY2ODYzN2U2N2Q4M2Y5N2Y5NTVh`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDZhYjE1YzQ0YmEzNGRlMWM0MDM4NjU4NTRjZmJlMGQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,676 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,693 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 32 | [Stupid Fingertips](https://open.spotify.com/track/3aVSj1tFJt75uhAs3qJ7dD) | [michel ko](https://open.spotify.com/artist/55brV6SE3YnJWlU9MRrNlE) | [Stupid Fingertips](https://open.spotify.com/album/0zJ2qCkglCpzMkk3Mov7aB) | 2:51 |
 | 33 | [無伴奏チェロ組曲 第1番 ト長調 BWV1007 \~プレリュード](https://open.spotify.com/track/1pXdThGmXy4v3RlCQnFTSE) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [インヴェンションへのオマージュ](https://open.spotify.com/album/7ys24MjxP2BZYC2fmbQS1m) | 3:06 |
 | 34 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
-| 35 | [Mother's Eyes](https://open.spotify.com/track/7lbiv5n30fGuKtTVsITlE4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/0KhR7WLsUuaEn8QNb4fjJL) | 3:04 |
+| 35 | [Mother's Eyes](https://open.spotify.com/track/7CuGdcQWyyf8ME4vQYSLT8) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/1Tl1nnsj6RgqgS7kWbNRcs) | 3:04 |
 | 36 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 37 | [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 |
 | 38 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 |
 | 96 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
 | 97 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 |
-| 98 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
+| 98 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 |
 | 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDE0YjUwYTVkZjk5NjM1MzIzZWNlNzFjZDQwZDVjNmY4`
+Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDc4ZTFhMDJjZDM5MjM0NTkxN2FlMzE2YzE5YjkyOWE1`

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-865 songs - 1 day 8 hr 36 min
+866 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Dryade](https://open.spotify.com/track/38gevP5tZo2IBbQtzeNqbw) | [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov) | [Dryade](https://open.spotify.com/album/3ZOycEtnh9DSJ4nuj2AVMy) | 2:54 | 2022-04-22 |  |
 | [Dual Vision](https://open.spotify.com/track/07cDeLHLN5A9GxxsB3CBBK) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [Dual Vision](https://open.spotify.com/album/4BeynncF80zGwd82CP3p2C) | 1:25 | 2021-11-10 | 2022-06-17 |
 | [Dusk](https://open.spotify.com/track/5EHks69aEU8kZANs2VaUsI) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Dusk](https://open.spotify.com/album/3D7F5xw9oXNEpxr7FLCU88) | 3:15 | 2022-07-22 | 2022-07-29 |
-| [Dusty Dumplin' Groove](https://open.spotify.com/track/3970iLcSEQMKqRq6VGZNjn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5Kpg8b1SqyfB1bqNYV7zbI) | 2:12 | 2022-12-09 |  |
+| [Dusty Dumplin' Groove](https://open.spotify.com/track/1B8AikYJMMPgvBd3K1oJ6u) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5uS6RMLM5Jm4vsW5H0X0Tf) | 2:12 | 2023-02-07 |  |
+| [Dusty Dumplin' Groove](https://open.spotify.com/track/3970iLcSEQMKqRq6VGZNjn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5Kpg8b1SqyfB1bqNYV7zbI) | 2:12 | 2022-12-09 | 2023-02-09 |
 | [E' la mia storia](https://open.spotify.com/track/0FOGcE4SPyvQe2LANuXOXF) | [Milo the Cat](https://open.spotify.com/artist/2f9Z69FJqZkUrUdi5zuCK9) | [E’ la mia storia](https://open.spotify.com/album/1TxuBETTVyssUakVyiv7Wr) | 2:31 | 2022-07-29 | 2022-10-29 |
 | [E\. Z\. Breezy Beautiful](https://open.spotify.com/track/0NEg0G2YPFVcZZ3Uo3LWjW) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [E\. Z\. Breezy Beautiful](https://open.spotify.com/album/0Zh07HvEXGkobcknMcG1CP) | 3:16 | 2021-11-10 |  |
 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 | 2022-05-13 |  |

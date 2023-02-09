@@ -336,7 +336,7 @@
     {
       "album": {
         "name": "I Have a Dream.",
-        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+        "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
       },
       "artists": [
         {
@@ -355,6 +355,32 @@
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181400,
+      "name": "All Through the Night",
+      "url": "https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7"
+    },
+    {
+      "album": {
+        "name": "I Have a Dream.",
+        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
       "duration_ms": 181400,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M"
@@ -1758,7 +1784,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 279512,
       "name": "Drowning (feat. J.O.Y)",
       "url": "https://open.spotify.com/track/1cRUDjkjbNzIgmWvr7I7Ku"
@@ -2994,7 +3020,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 243531,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
@@ -5270,6 +5296,24 @@
       "duration_ms": 190509,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo"
+    },
+    {
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798"
     },
     {
       "album": {
@@ -9150,7 +9194,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 194347,
       "name": "\u30dd\u30e9\u30ed\u30a4\u30c9",
       "url": "https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T"

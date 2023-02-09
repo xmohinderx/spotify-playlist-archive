@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Smallz 732
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,983 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,131 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 17 | [Anything](https://open.spotify.com/track/49BQKJJPPDXFHuzqdZzMDL) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Anything](https://open.spotify.com/album/3zt5Z1DBzFNcLotuWDZw67) | 2:50 |
 | 18 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
 | 19 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
-| 20 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
-| 21 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
+| 20 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
+| 21 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
 | 22 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |
 | 23 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 |
 | 24 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
 | 50 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 
-Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMGY1OTQyZjI4ZDZiOWFjZjdjYjVmNzQ4NTg0OTRhOTQz`
+Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMDM5MDAzNDdiOWFhMmQ3NWMzNzUyZTY4ZTFjMTY5Njk4`

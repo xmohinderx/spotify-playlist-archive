@@ -4,7 +4,7 @@
 
 > 
 
-202 songs - 12 hr 9 min
+203 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Waste](https://open.spotify.com/track/4gfKuH6rtBQB3ss6e2ClOp) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Waste](https://open.spotify.com/album/5f175t900VkavFUPSBvKiO) | 3:53 | 2018-11-27 |  |
 | [Way Too Far](https://open.spotify.com/track/7C6r7bujxFtTFj1LqtCGAI) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Way Too Far](https://open.spotify.com/album/0WeJWzGLcrDnuamtXyLx5M) | 3:40 | 2021-02-14 |  |
 | [We Are](https://open.spotify.com/track/4UgZnOeNEfXPKOzw2z4SU6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [We Are](https://open.spotify.com/album/3Kv5hCNQNi2Whw50s1wRQ9) | 3:00 | 2020-12-08 |  |
+| [While It Lasts](https://open.spotify.com/track/4xGGKZKfy8XIGdbgo9DgG6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [While It Lasts](https://open.spotify.com/album/36nkcbxqR3mLdoO3rEzPz5) | 3:12 | 2023-02-08 |  |
 | [With You](https://open.spotify.com/track/1GmuiN5m0U2BoNXCdEq0SE) | [Affectwave](https://open.spotify.com/artist/0AsGw9kdwdLXi5wBJkPoQ4) | [With You](https://open.spotify.com/album/5l1SQ58n3JtOJulUhubTd8) | 3:37 | 2022-07-11 |  |
 | [World of Suffer](https://open.spotify.com/track/25MtOqt7iI4O8FzOfb1bHt) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [World of Suffer](https://open.spotify.com/album/3QXgcQoTtEwn7U6K7pfZF0) | 2:58 | 2021-02-08 |  |
 | [Worlds Away](https://open.spotify.com/track/5omXxJVlJdO1EisT5koIdR) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Worlds Away](https://open.spotify.com/album/2iSSc2xqUbKFFUA17asyV8) | 4:35 | 2018-11-27 |  |

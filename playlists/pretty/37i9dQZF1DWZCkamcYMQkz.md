@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,533 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,753 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 46 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 |
 | 47 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 |
 | 48 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
-| 49 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 |
-| 50 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
+| 49 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
+| 50 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 |
 | 51 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 |
 | 52 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 |
 | 53 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Jeannie](https://open.spotify.com/track/2S16YRyDugzBKy2FglLBLz) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Sophisticated Swing](https://open.spotify.com/album/2HSXNwybsegzhAgASpZcHD) | 3:28 |
 | 100 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
 
-Snapshot ID: `MTY3NTc3NjIzMiwwMDAwMDAwMGI0YjA0MTAyZWRlMDdlMTczMzJkNDM2ZTg0NzE2ZDI1`
+Snapshot ID: `MTY3NTc3NjIzMiwwMDAwMDAwMDU0N2MxZTc5ZWNjNTVjYzkyZjI0NDMwOTk1YzhkNzZm`

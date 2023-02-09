@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,559 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,683 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 73 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 |
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 |
-| 76 | [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 |
+| 76 | [My Agenda](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 |
 | 77 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 |
 | 78 | [La Morte Muore \- Part 3](https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [La Morte Muore \(Part 3\)](https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi) | 4:30 |
 | 79 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
 | 80 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 81 | [Normal Is Boring](https://open.spotify.com/track/5Fj3HgpY69IsdQOyzwbLdY) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/2Ja0h5Uy4xQTNSAaxgrVv9) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:42 |
-| 82 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
+| 82 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 83 | [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 |
 | 84 | [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 |
 | 85 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 99 | [Dreamy Hamilton \- Oneironautics Remix](https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 5:37 |
 | 100 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 |
 
-Snapshot ID: `MTY3MzU3OTMzMCwwMDAwMDAwMDkxNGVmOWEyYjY5ZTk3ZTcxMGE3NDVlOTEzODRhYWQ1`
+Snapshot ID: `MTY3MzU3OTMzMCwwMDAwMDAwMDhkMmIxMGMyZWM1ZGMxOWQ2NTE4YjhhNDM2NmZiZjgy`

@@ -1,13 +1,45 @@
 {
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Perp, Tiana Tara, Artwork: Isu Kim",
-  "num_followers": 39295,
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Abhinab Dan, Artwork: Isu Kim",
+  "num_followers": 39323,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIzMjYyMiwwMDAwMDAwMGE5YTM5MjkzMzU1NTkyZjNmYzczMjI2MDY4M2Y5MDdl",
+  "snapshot_id": "MTY3NTgzNzUwMCwwMDAwMDAwMGUwMDliYmY2MDQ0MjllNGRhZmZjMTQ1ODYzYjg4MzE1",
   "tracks": [
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Khidhki",
+        "url": "https://open.spotify.com/album/7k3oL8GeSMNFcJBcjZcnew"
+      },
+      "artists": [
+        {
+          "name": "Abhinab Dan",
+          "url": "https://open.spotify.com/artist/1fiHm3FohHFTqYkgLrDDtQ"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Tasveerain",
+      "url": "https://open.spotify.com/track/1iB2MKaoaKqyTYPEYQ7E7n"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Rijhaaun",
+        "url": "https://open.spotify.com/album/4iS93adsqTSTkngmcYb6lr"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 270449,
+      "name": "Rijhaaun",
+      "url": "https://open.spotify.com/track/4yguCbiNZVvdJGRMm122Q3"
+    },
     {
       "added_at": "2023-02-01 06:23:42",
       "album": {
@@ -31,6 +63,70 @@
       "duration_ms": 204634,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Dheemi",
+        "url": "https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S"
+      },
+      "artists": [
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        }
+      ],
+      "duration_ms": 235094,
+      "name": "Dheemi",
+      "url": "https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Bana Sharabi",
+        "url": "https://open.spotify.com/album/1xl93t1i23Dt9XR1q1WzTf"
+      },
+      "artists": [
+        {
+          "name": "Shaurya Jha",
+          "url": "https://open.spotify.com/artist/7unYh5GgFyvCM2A7e1qD5O"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Bana Sharabi",
+      "url": "https://open.spotify.com/track/5CnXkl4HeHnXfUnlHdp0uV"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Rehnuma",
+        "url": "https://open.spotify.com/album/2m9aLdoGS6Q1st19pyUyQd"
+      },
+      "artists": [
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "duration_ms": 211359,
+      "name": "Rehnuma",
+      "url": "https://open.spotify.com/track/7dUdQ5EJcX295vNMPBkHaG"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Saaz",
+        "url": "https://open.spotify.com/album/76xnfXgyqOsHqn76nHszDK"
+      },
+      "artists": [
+        {
+          "name": "Prabhash Joshi",
+          "url": "https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0"
+        }
+      ],
+      "duration_ms": 260295,
+      "name": "Saaz",
+      "url": "https://open.spotify.com/track/5hc3aftcBaFgMYHyuUBnTO"
     },
     {
       "added_at": "2023-02-01 06:23:42",
@@ -65,6 +161,22 @@
       "url": "https://open.spotify.com/track/7H5TVKnIme6vDZsfgqPbZG"
     },
     {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Kabhii",
+        "url": "https://open.spotify.com/album/5s9RViSx78pW9MeUOraHEo"
+      },
+      "artists": [
+        {
+          "name": "Nishant Singh Rajput",
+          "url": "https://open.spotify.com/artist/4SUHxaglZsbzu3lBAvqS3V"
+        }
+      ],
+      "duration_ms": 222750,
+      "name": "Kabhii",
+      "url": "https://open.spotify.com/track/2se0iPyqgfPfY3pPlpMJmA"
+    },
+    {
       "added_at": "2023-02-01 06:23:42",
       "album": {
         "name": "Friday Night",
@@ -95,6 +207,22 @@
       "duration_ms": 175237,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/1vEFwR8NnBq7JseboO4Itm"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Josephine On The Floor",
+        "url": "https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4"
+      },
+      "artists": [
+        {
+          "name": "Karshni",
+          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
+        }
+      ],
+      "duration_ms": 267154,
+      "name": "Josephine On The Floor",
+      "url": "https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM"
     },
     {
       "added_at": "2023-02-01 06:23:42",
@@ -235,6 +363,22 @@
       "duration_ms": 201923,
       "name": "Do I Really Do?",
       "url": "https://open.spotify.com/track/27BPOjJJJH7rKS807KdZHP"
+    },
+    {
+      "added_at": "2023-02-08 06:25:00",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/0OvbS06QupGdvdpeDWJBY0"
+      },
+      "artists": [
+        {
+          "name": "Archita Ajgaokar",
+          "url": "https://open.spotify.com/artist/72jrhtmMkan7AZq1vGm7FP"
+        }
+      ],
+      "duration_ms": 117969,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/2wI2bnnvKFWUIn1xulNz6y"
     },
     {
       "added_at": "2023-02-01 06:23:42",
@@ -1435,22 +1579,6 @@
     {
       "added_at": "2023-02-01 06:23:42",
       "album": {
-        "name": "Sau Aasman",
-        "url": "https://open.spotify.com/album/698ukUB90jIms5RgOOQ3EF"
-      },
-      "artists": [
-        {
-          "name": "Nawazishein",
-          "url": "https://open.spotify.com/artist/6NzyJwnJyzqEGckUegHVmd"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Sau Aasman",
-      "url": "https://open.spotify.com/track/1VpSjyeMCYu01wU4FfpdBk"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
         "name": "Raat Jaage",
         "url": "https://open.spotify.com/album/0WEAk0j5ubNVCK3Mj5fzz4"
       },
@@ -1495,42 +1623,6 @@
       "duration_ms": 185021,
       "name": "Chanchal Mann",
       "url": "https://open.spotify.com/track/5kbwi7gcfkTtP78OIKS4fu"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/5PQdMjzV7cY9l7jwl6ctya"
-      },
-      "artists": [
-        {
-          "name": "Krameri",
-          "url": "https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/04CutF5UQAa5kX2rrAtnKn"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Raahguzar",
-        "url": "https://open.spotify.com/album/5YWlf0QjACtCxpFKxNvDAb"
-      },
-      "artists": [
-        {
-          "name": "Priyansh Srivastava",
-          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
-        },
-        {
-          "name": "Garvit Soni",
-          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
-        }
-      ],
-      "duration_ms": 227755,
-      "name": "Raahguzar",
-      "url": "https://open.spotify.com/track/7KCgRtQkqxmcKUPpJOm4O0"
     },
     {
       "added_at": "2023-02-01 06:23:42",
@@ -1607,22 +1699,6 @@
     {
       "added_at": "2023-02-01 06:23:42",
       "album": {
-        "name": "Phir Bekhabar",
-        "url": "https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Adwani",
-          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
-        }
-      ],
-      "duration_ms": 197304,
-      "name": "Phir Bekhabar",
-      "url": "https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
         "name": "Tere Irade",
         "url": "https://open.spotify.com/album/5lQelyYoBHYfS6UCnL1Sty"
       },
@@ -1663,78 +1739,6 @@
     {
       "added_at": "2023-02-01 06:23:42",
       "album": {
-        "name": "Those Colourful Days",
-        "url": "https://open.spotify.com/album/48Y57IkEQdwYukhQ6OcBrY"
-      },
-      "artists": [
-        {
-          "name": "Takar Nabam",
-          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
-        }
-      ],
-      "duration_ms": 200348,
-      "name": "Those Colourful Days",
-      "url": "https://open.spotify.com/track/2WU79SGwAELqGqdITcPZeg"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Raat ki baahon mein",
-        "url": "https://open.spotify.com/album/20VuWlOqoE5YF5WOczDsno"
-      },
-      "artists": [
-        {
-          "name": "Rahul Thapa",
-          "url": "https://open.spotify.com/artist/5ms3i2JA5fVPh0lt2fxjdy"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Raat ki baahon mein",
-      "url": "https://open.spotify.com/track/6JGdAT7sqT9KmAb6lTgjo9"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Mera Safar",
-        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 190549,
-      "name": "Mera Safar",
-      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Varsaad (Secret Sessions X Collab Stories)",
-        "url": "https://open.spotify.com/album/1q8v1RbyMdVCzk2IcktOVf"
-      },
-      "artists": [
-        {
-          "name": "Kushal Chokshi",
-          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
-        },
-        {
-          "name": "Jaysinh Gadhavi",
-          "url": "https://open.spotify.com/artist/2j9NJOUFz8NgVPxtTpi9qb"
-        },
-        {
-          "name": "Munaf Luhar",
-          "url": "https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ"
-        }
-      ],
-      "duration_ms": 128101,
-      "name": "Varsaad (Secret Sessions X Collab Stories)",
-      "url": "https://open.spotify.com/track/2vXx4eNuzlPNVOw470M0ts"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
         "name": "Kya Ho Gaya",
         "url": "https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL"
       },
@@ -1747,22 +1751,6 @@
       "duration_ms": 162570,
       "name": "Kya Ho Gaya",
       "url": "https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK"
-    },
-    {
-      "added_at": "2023-02-01 06:23:42",
-      "album": {
-        "name": "Khoye Sitaare",
-        "url": "https://open.spotify.com/album/6GuEZfKWiIRRjvc4Duj59c"
-      },
-      "artists": [
-        {
-          "name": "Vaibhav Malhotra",
-          "url": "https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j"
-        }
-      ],
-      "duration_ms": 192145,
-      "name": "Khoye Sitaare",
-      "url": "https://open.spotify.com/track/6NRo2j6SVDo7xx9lVkCIlY"
     }
   ],
   "unique_name": "Fresh Finds India",

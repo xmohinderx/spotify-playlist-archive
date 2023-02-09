@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,655 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,811 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 37 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
 | 38 | [Run Runaway](https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [The Amazing Kamikaze Syndrome \(Expanded\)](https://open.spotify.com/album/14DvsG0HgGAdHGJQRtMFmv) | 5:00 |
 | 39 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
-| 40 | [Cosmic Dancer \- 2003 Remaster](https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:30 |
+| 40 | [Jeepster \- 2003 Remaster](https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:12 |
 | 41 | [Pinball Wizard](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 |
 | 42 | [Adolescent Sex](https://open.spotify.com/track/0IlsQYGSobFtgrW3JZbKJX) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Adolescent Sex](https://open.spotify.com/album/2k8fOUWgxRHtzhN1sgOrMz) | 3:43 |
 | 43 | [Mother Of Pearl](https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Stranded](https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC) | 6:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 45 | [Mama Weer All Crazee Now](https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slayed? \(Expanded\)](https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt) | 3:45 |
 | 46 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
 | 47 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
-| 48 | [Jeepster \- 2003 Remaster](https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:12 |
+| 48 | [Cosmic Dancer \- 2003 Remaster](https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:30 |
 | 49 | [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 |
-| 50 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
+| 50 | [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 |
 
-Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMGYyMjc0ZjU1OTdkMGI5NjkzNTJkMTc5ZDllN2JjNmVk`
+Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMGE1NjQxMjhhOWIxY2QzMGY3OTI1ZmI4NDQyNzljZDE4`

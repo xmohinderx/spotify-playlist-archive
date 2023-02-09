@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 81466,
+  "num_followers": 81484,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDcxZDZkMDUyNzcwMGEwOWZmOTFjZjgzODRhMmU4NTk5",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGYzZjY1ZDJiZmFmZjRmNDRiZTEwMDkyYzA2MmZhOTNj",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
         }
       ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
       },
       "artists": [
         {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
       },
@@ -479,6 +459,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -523,18 +519,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
       "artists": [
         {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 187093,
       "name": "Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 249965,
-      "name": "B\u00fahoz",
-      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 162000,
       "name": "Cangrejo",
       "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+      },
+      "artists": [
+        {
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Aqu\u00ed Vamos Otra Vez",
-        "url": "https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Soledad Criminal",
-      "url": "https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+        "name": "Aqu\u00ed Vamos Otra Vez",
+        "url": "https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+      "duration_ms": 189573,
+      "name": "Soledad Criminal",
+      "url": "https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
       "artists": [
         {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -959,6 +943,22 @@
       "duration_ms": 147453,
       "name": "Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Antiamor",
+        "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 223654,
+      "name": "Antiamor",
+      "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Antiamor",
-        "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
       },
       "artists": [
         {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 223654,
-      "name": "Antiamor",
-      "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,987 songs - 4 day 18 hr 23 min
+1,988 songs - 4 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Brown Eyes](https://open.spotify.com/track/63lqxpjdTL6O0h7DYTsXvh) | [Ki\-Jung](https://open.spotify.com/artist/5pqRt6SskbJusa0LavnBm8) | [Brown Eyes](https://open.spotify.com/album/0m3y27FWd2BFNSKmoHtFa6) | 3:49 | 2020-01-13 | 2020-02-08 |
 | [Bubble Up](https://open.spotify.com/track/2zTwq1HgpjwbIZdzkhPVhQ) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Bubble Up](https://open.spotify.com/album/2fiEAd5HA6xyALRFEhg2ua) | 4:12 | 2021-11-03 | 2021-11-19 |
 | [Buenos Aires](https://open.spotify.com/track/02rrdOfE2bmuFm3Rh9QSsl) | [Leo Kraz](https://open.spotify.com/artist/2NfXN2uneXBhmbMiq2lPz8) | [Buenos Aires](https://open.spotify.com/album/4ClSXlzbko8aK4vCvS4cXt) | 2:56 | 2022-11-02 | 2022-11-08 |
+| [Bulletproof](https://open.spotify.com/track/76PKF2Ihe21IVbkBL5htzw) | [Max Ryan](https://open.spotify.com/artist/3bcq5wjn3efcN3e1UMOaY6) | [Bulletproof](https://open.spotify.com/album/2jgrbTzVrERUyb7ZsYMF0M) | 3:18 | 2023-02-09 |  |
 | [Bump and Grind](https://open.spotify.com/track/1uD32FV0ym0JOUgN4GqeAE) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [The Sun](https://open.spotify.com/album/6byjFp4omznu164ZUSYHjb) | 2:41 | 2020-10-05 | 2020-10-21 |
 | [BURN YOU OUT](https://open.spotify.com/track/32tZEZEFCyKbtyBa9Rb4Ih) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [BURN YOU OUT](https://open.spotify.com/album/72Om2D1HRrWEfVqgqsRJU4) | 3:04 | 2022-02-25 | 2022-03-17 |
 | [Burnin Up](https://open.spotify.com/track/3C0N6Qk8bd4slmfjWptt0y) | [VYLEM](https://open.spotify.com/artist/4bhKuRZCxmN4nvwjI8vLFh) | [Burnin Up](https://open.spotify.com/album/4blpIGyhGXAh7AJXJHLvLF) | 4:10 | 2022-11-18 | 2022-12-10 |

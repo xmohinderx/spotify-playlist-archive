@@ -266,7 +266,7 @@
     {
       "album": {
         "name": "StoryBots Professions",
-        "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
       },
       "artists": [
         {
@@ -277,6 +277,24 @@
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 62117,
+      "name": "Scientist",
+      "url": "https://open.spotify.com/track/3qrwwhSKYFoQWpViXkNvaN"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
       "duration_ms": 62117,
       "name": "Scientist",
       "url": "https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy"

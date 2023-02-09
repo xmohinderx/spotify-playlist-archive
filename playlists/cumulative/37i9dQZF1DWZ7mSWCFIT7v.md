@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-298 songs - 1 day 0 hr 19 min
+299 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Blobject](https://open.spotify.com/track/4R49HTqdoT2EkLHrFOODYf) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Blobject](https://open.spotify.com/album/5rtc7nqGQrjHG7aQwZmRf2) | 5:56 | 2021-10-06 | 2022-07-27 |
 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-06 |  |
 | [BLUE](https://open.spotify.com/track/6kAtLKUnOMn3zcVkPkc0V8) | [ALL OF THE WORLD](https://open.spotify.com/artist/7fLaa02J09xp33ucEoQQUE) | [BLUE](https://open.spotify.com/album/7cdbK0qiDoS6pf4Dx9343l) | 4:30 | 2022-08-31 | 2022-11-17 |
-| [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 | 2021-10-06 |  |
+| [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 | 2021-10-06 | 2023-02-09 |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 |  |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2022-07-15 |
@@ -101,6 +101,7 @@
 | [Ephemera](https://open.spotify.com/track/0lPuVl7IOARj1HFFL5t5yK) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [Ephemera](https://open.spotify.com/album/3aCr59wGtaSDunfN6J0PPF) | 2:58 | 2022-01-21 | 2022-07-17 |
 | [Eucalyptus](https://open.spotify.com/track/4CFX1ahXjEL4aE0KdtuVOs) | [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY) | [Holy Wind](https://open.spotify.com/album/122Og5x68k4EnTaK4ETH4Q) | 5:12 | 2021-10-06 | 2022-07-29 |
 | [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2021-10-06 | 2023-02-02 |
+| [Eutow](https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 4:15 | 2021-10-06 |  |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 |  |
 | [Every Since And Then](https://open.spotify.com/track/1RNe4viqCD97PgAChQers4) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Glass Bird Movement](https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm) | 5:38 | 2021-10-06 |  |
 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 | 2022-02-25 |  |

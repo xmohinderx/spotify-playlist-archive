@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,388 likes - 162 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,548 likes - 162 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 9 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 |
 | 10 | [Let it be known](https://open.spotify.com/track/0wltL5KFoZ7TqTdapi1Cbs) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Let it be known](https://open.spotify.com/album/3unomAhkTiJoLws40mDhuk) | 2:18 |
 | 11 | [Sharks Approach](https://open.spotify.com/track/0qzjIYOyeLGFUQGz6rQ1mD) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Sharks Approach](https://open.spotify.com/album/1FjR7PYPk0PyW62dTAsqCB) | 2:46 |
-| 12 | [Perfect Dream](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Perfect Dream](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:19 |
+| 12 | [Cosmic Feeling](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Cosmic Feeling](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:50 |
 | 13 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 |
 | 14 | [Friction](https://open.spotify.com/track/3H2B44AsFACyQt7RTvqyuf) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:11 |
 | 15 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |

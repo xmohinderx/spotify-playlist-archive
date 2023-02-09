@@ -2871,6 +2871,32 @@
     },
     {
       "album": {
+        "name": "Main Khiladi (From \"Selfiee\")",
+        "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187099,
+      "name": "Main Khiladi - From \"Selfiee\"",
+      "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
+    },
+    {
+      "album": {
         "name": "Main Ki Karaan? (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/19agsRoi5VkKa80qfnmpx7"
       },
@@ -4796,7 +4822,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 169404,
       "name": "Sun Maahi",
       "url": "https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X"

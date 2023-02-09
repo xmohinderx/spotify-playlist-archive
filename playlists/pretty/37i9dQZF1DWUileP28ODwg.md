@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,766 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,894 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 76 | [Glory I Couldn't See \- Radio Version](https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See \(Radio Version\)](https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu) | 3:40 |
 | 77 | [Family Is Family](https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Family Is Family](https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx) | 2:53 |
 | 78 | [That's Enough](https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:36 |
-| 79 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 |
-| 80 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
+| 79 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
+| 80 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 |
 | 81 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 |
 | 82 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 |
 | 83 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 |
 | 100 | [On And On \- Radio](https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO) | 3:26 |
 
-Snapshot ID: `MTY2NDYwODAzNiwwMDAwMDAwMDk5YmYxYTFkOTM3MjU4Y2Q5NzA5ZTIwNGE4NDg0ODQ3`
+Snapshot ID: `MTY2NDYwODAzNiwwMDAwMDAwMDY0Yzk5MzQ1OTNlYTJhNWI2Nzk3MGYxZmRmZjJiMWVl`

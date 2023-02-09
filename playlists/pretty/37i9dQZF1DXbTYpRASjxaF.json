@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Bielzin",
-  "num_followers": 92852,
+  "num_followers": 93019,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ2NjQ4MywwMDAwMDAwMGM2Zjk4MDlmNDA3MjQ4NGE0NGJhOWM5YzQxODU3YTdl",
+  "snapshot_id": "MTY3NTQ2NjQ4MywwMDAwMDAwMGM3ZDliNDk1OGVhMGFiOGE1ZGVkMWUxMmNlZmMyMzk0",
   "tracks": [
     {
       "added_at": "2023-02-03 23:21:23",
@@ -819,34 +819,6 @@
     {
       "added_at": "2023-02-03 23:21:23",
       "album": {
-        "name": "Dom Perignon",
-        "url": "https://open.spotify.com/album/2VhNRhcqL7bn0qiUyAVGd8"
-      },
-      "artists": [
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Dom Perignon",
-      "url": "https://open.spotify.com/track/24Qz27YhZ8eVnJl6sD6hyd"
-    },
-    {
-      "added_at": "2023-02-03 23:21:23",
-      "album": {
         "name": "Avisa L\u00e1, Pt.3",
         "url": "https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof"
       },
@@ -883,6 +855,34 @@
       "duration_ms": 338823,
       "name": "Avisa L\u00e1, Pt.3",
       "url": "https://open.spotify.com/track/7pWzcOoDF3ssFLrH5wivif"
+    },
+    {
+      "added_at": "2023-02-03 23:21:23",
+      "album": {
+        "name": "Dom Perignon",
+        "url": "https://open.spotify.com/album/2VhNRhcqL7bn0qiUyAVGd8"
+      },
+      "artists": [
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Dom Perignon",
+      "url": "https://open.spotify.com/track/24Qz27YhZ8eVnJl6sD6hyd"
     },
     {
       "added_at": "2023-02-03 23:21:23",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2023-02-03 23:21:23",
       "album": {
-        "name": "Mente De Malandra",
-        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "Mente De Malandra",
-      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
-    },
-    {
-      "added_at": "2023-02-03 23:21:23",
-      "album": {
         "name": "Para\u00edso Tropical",
         "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 420000,
       "name": "Para\u00edso Tropical",
       "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
+    },
+    {
+      "added_at": "2023-02-03 23:21:23",
+      "album": {
+        "name": "Mente De Malandra",
+        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "Mente De Malandra",
+      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
     },
     {
       "added_at": "2023-02-03 23:21:23",

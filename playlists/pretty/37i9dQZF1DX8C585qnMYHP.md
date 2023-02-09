@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with RUMTUM on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,247 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,288 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,18 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 15 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 16 | [Echo Drift](https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Echo Drift](https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B) | 3:19 |
 | 17 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
-| 18 | [Love Song](https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V) | [Blurry](https://open.spotify.com/album/0HmsJcxp6vrNP24YKJslNy) | 2:59 |
-| 19 | [Hoss It](https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Hoss It](https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8) | 5:57 |
-| 20 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
-| 21 | [Disarray](https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Witness EP](https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1) | 4:51 |
-| 22 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 |
-| 23 | [replicant](https://open.spotify.com/track/51GNtvHhIDxbUgfRXrpbnn) | [vai5000](https://open.spotify.com/artist/1erffemc5GvnjrM7QSaHA0), [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [replicant](https://open.spotify.com/album/5dQRWTVmh7hEEy1H75KvMc) | 2:54 |
+| 18 | [Hoss It](https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Hoss It](https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8) | 5:57 |
+| 19 | [Love Song](https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V) | [Blurry](https://open.spotify.com/album/0HmsJcxp6vrNP24YKJslNy) | 2:59 |
+| 20 | [replicant](https://open.spotify.com/track/51GNtvHhIDxbUgfRXrpbnn) | [vai5000](https://open.spotify.com/artist/1erffemc5GvnjrM7QSaHA0), [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [replicant](https://open.spotify.com/album/5dQRWTVmh7hEEy1H75KvMc) | 2:54 |
+| 21 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
+| 22 | [Disarray](https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Witness EP](https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1) | 4:51 |
+| 23 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 |
 | 24 | [Umbra](https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO) | [Monica Hapsari](https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j) | [Umbra](https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n) | 7:17 |
 | 25 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 |
 | 26 | [As It Happens](https://open.spotify.com/track/6ECmmkWc0esLE3hYHuD5KU) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx), [Ocen James](https://open.spotify.com/artist/6GVV0Rhm64n8ha8fAknGHe) | [Saccades](https://open.spotify.com/album/2StQxbMJUpPYFPH1znrqGd) | 4:18 |
 | 27 | [You Do It](https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [You Do It](https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ) | 7:21 |
-| 28 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
-| 29 | [A Plague](https://open.spotify.com/track/64mNNFCixd4xABuozznJ55) | [Lana Del Rabies](https://open.spotify.com/artist/1IoH5ykVwG4K5c98iAhQYk) | [A Plague](https://open.spotify.com/album/2csptUw9JiNnUrp10fGOks) | 4:09 |
+| 28 | [A Plague](https://open.spotify.com/track/64mNNFCixd4xABuozznJ55) | [Lana Del Rabies](https://open.spotify.com/artist/1IoH5ykVwG4K5c98iAhQYk) | [A Plague](https://open.spotify.com/album/2csptUw9JiNnUrp10fGOks) | 4:09 |
+| 29 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
 | 30 | [Hansel and Gretel](https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC) | [Mercy Necromancy](https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d) | [Hansel and Gretel](https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z) | 3:02 |
 | 31 | [Immature](https://open.spotify.com/track/0W4p2qCSHBambiI5dAAtzr) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [Immature](https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa) | 3:31 |
 | 32 | [Song for Making Things Right](https://open.spotify.com/track/7ETzF0iKS5jSpel1ide2zM) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Music For Doing](https://open.spotify.com/album/1ZLw7GsJPCXGhfybYV0duU) | 4:26 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 62 | [Vibrats i pretensats](https://open.spotify.com/track/1JGZmJ4v0e0aaGRIGZkwV1) | [Mar Grimalt](https://open.spotify.com/artist/0mEd7bgVwGNr8ozpiZLUPH), [Ada Elionor](https://open.spotify.com/artist/2Ze2mp9lnlr17sXtCrW9T8), [Joana Gomila](https://open.spotify.com/artist/3ik8qwkbF0VmeRAoaWuheS), [Laia Vallès](https://open.spotify.com/artist/2H5uM3ELV9xK9rqXWw1PVP) | [Vibrats i pretensats](https://open.spotify.com/album/6NYlAvOo7H3s7tTFD3RvFS) | 3:06 |
 | 63 | [Crepuscolo Svolazzante](https://open.spotify.com/track/2KHn1NoiGmSCl3wJLTQrVq) | [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [WAXTAPE](https://open.spotify.com/album/5El2CB6KwFpF11EJNV0LdB) | 5:57 |
 | 64 | [Crows Nest](https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS) | [Mindtality](https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c) | [Weekly Releases 2023](https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL) | 3:52 |
-| 65 | [Selkie](https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO), [Liyv](https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy) | [Selkie](https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt) | 4:42 |
-| 66 | [Sachu Melung](https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD) | [Ruhail Qaisar](https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv) | [Fatima](https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC) | 4:21 |
+| 65 | [Sachu Melung](https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD) | [Ruhail Qaisar](https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv) | [Fatima](https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC) | 4:21 |
+| 66 | [Selkie](https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO), [Liyv](https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy) | [Selkie](https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt) | 4:42 |
 | 67 | [Nabelschnurtanz](https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP) | [Kenji Araki](https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi) | [Leidenzwang](https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8) | 4:50 |
 | 68 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 |
 | 69 | [MADE OF CLAY](https://open.spotify.com/track/6PhbV6u1G9tGZIqf2xbWT2) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0) | [NON\-BACKGROUND MUSIC](https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [POISON](https://open.spotify.com/track/51YaNaTpv69eRNHRkOQaEM) | [RMX](https://open.spotify.com/artist/0B9Zg0KPPy2q7bUPcXum4Y) | [POISON](https://open.spotify.com/album/021A9LjRYVtgWO7b6vqv4z) | 4:24 |
 | 100 | [Heard Upwards](https://open.spotify.com/track/6wUR2Kf3kpZPEauCYfCffM) | [Frog of Earth](https://open.spotify.com/artist/5DHD6c7l9xy2eW9xqhRc8U) | [Heard Upwards](https://open.spotify.com/album/48JDDwcRlVXlj9euSHGRib) | 4:40 |
 
-Snapshot ID: `MTY3NTI3MDA2MywwMDAwMDAwMDNlNjdiY2E2ODQ1NTI2NWRhN2UwNDZmZjdlODYyNDAw`
+Snapshot ID: `MTY3NTI3MDA2MywwMDAwMDAwMDNiN2I3NTU0YjZlMzZjMWRkMzg2OGFlYjQ4YTNmOWU5`

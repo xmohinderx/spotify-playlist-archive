@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,316 likes - 57 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,349 likes - 57 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 25 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 |
 | 26 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
 | 27 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 |
-| 28 | [When Will I Be Loved](https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [When Will I Be Loved](https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY) | 2:39 |
+| 28 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
 | 29 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 |
 | 30 | [Back To Basics \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:30 |
-| 31 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
+| 31 | [When Will I Be Loved](https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [When Will I Be Loved](https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY) | 2:39 |
 | 32 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
 | 33 | [Sweet Caroline](https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Right Round / Sweet Caroline \- Single](https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE) | 1:52 |
 | 34 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 48 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
 | 49 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
 | 50 | [Fireflies](https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp) | [University of Rochester Midnight Ramblers](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) | [Best of BOCA: The First 20 Years](https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs) | 3:38 |
-| 51 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 |
-| 52 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
+| 51 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
+| 52 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 |
 | 53 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 54 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 |
 | 55 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 56 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 57 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDliYjc4MTdmMjY5ZDE3ZGIxMjhkNjQ4NGRlYTAwMzll`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDUyZDE3ZDliOTY4ZDVmZDUzMGI2YjI0MTMxZGY1YTBm`

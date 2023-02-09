@@ -11436,6 +11436,24 @@
     {
       "album": {
         "name": "Glitter and Tears (Myra Molloy Remix)",
+        "url": "https://open.spotify.com/album/4EeSZjHeSld6hcUAQDx5Qc"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204702,
+      "name": "Glitter and Tears (Myra Molloy Remix)",
+      "url": "https://open.spotify.com/track/3e8LxLovg137nUwG3yYimP"
+    },
+    {
+      "album": {
+        "name": "Glitter and Tears (Myra Molloy Remix)",
         "url": "https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY"
       },
       "artists": [
@@ -11450,7 +11468,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 204702,
       "name": "Glitter and Tears - Myra Molloy Remix",
       "url": "https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg"
@@ -23068,10 +23086,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 131004,
       "name": "red",
       "url": "https://open.spotify.com/track/2tbctL38V8BM83TH9urnzk"
+    },
+    {
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131004,
+      "name": "red",
+      "url": "https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-155 songs - 10 hr 27 min
+156 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [MONEY CAN'T BUY](https://open.spotify.com/track/43Ti9176DSMC4AvCA5jq5q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 2:50 | 2020-10-20 | 2022-07-29 |
 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 | 2020-10-20 |  |
 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 | 2022-08-31 |  |
-| [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda \(feat\. Village People & Pussy Riot\)](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 | 2020-10-20 |  |
+| [My Agenda](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 | 2020-10-20 |  |
 | [Nasty](https://open.spotify.com/track/0SfmpgvdH8nm4cfxc5vj1O) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nasty](https://open.spotify.com/album/59P8nU2rZUFJaavj4FHDg0) | 2:07 | 2020-10-20 |  |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2020-10-20 | 2023-01-04 |
 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 | 2020-10-20 | 2022-07-29 |
@@ -123,7 +123,8 @@
 | [The Fall](https://open.spotify.com/track/5ed50PaOoQJROmeOxL85Xk) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(SWNT Deluxe\)](https://open.spotify.com/album/7wwrpQta9BNh84obd8nFWN) | 2:18 | 2021-07-18 | 2022-07-29 |
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 |  |
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
-| [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 |  |
+| [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
+| [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 |  |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 |  |
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 |  |

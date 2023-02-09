@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-728 songs - 1 day 18 hr 11 min
+729 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-09 | 2022-07-30 |
 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 | 2022-11-05 | 2022-11-12 |
 | [worth all the wait](https://open.spotify.com/track/0PHmDwQ5NrqAgmQV4gWIyU) | [Joel Macintosh](https://open.spotify.com/artist/6TOiaTqXCHBs1801K5Mqe4) | [worth all the wait](https://open.spotify.com/album/27ieZwR642e4rGh1EVq6fn) | 4:51 | 2022-12-16 | 2023-01-07 |
+| [Wrk](https://open.spotify.com/track/2BwMwRAx5jkHWNZyT8DjdB) | [Hasan Efe](https://open.spotify.com/artist/5rG1ZStYYUArEgt1Eb8g4s) | [Wrk](https://open.spotify.com/album/3snwMRAOJ5QV30weRMvhzi) | 2:52 | 2023-02-08 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-06-25 |
 | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/track/5hMlz6wuVF3gqwMGu1iDTg) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/album/3zr7x5u0ykdFsQo3t5GWJt) | 3:14 | 2022-09-02 | 2022-09-10 |
 | [You Got It](https://open.spotify.com/track/4TaEDUmbRR4t69Z7RwoWmQ) | [TYPE3](https://open.spotify.com/artist/4KdMZjTfXrkQ5v2IlGuj6S) | [You Got It](https://open.spotify.com/album/5PC1Objhufq1wettIi5kYM) | 3:37 | 2022-10-28 | 2022-11-06 |

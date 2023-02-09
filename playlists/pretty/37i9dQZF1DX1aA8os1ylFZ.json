@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 226660,
+  "num_followers": 226704,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY5NjM5MSwwMDAwMDAwMDRmMjQ2ODgxMzA3OTFiYTBjMzliMmMwMWE2ZTc4NDA1",
+  "snapshot_id": "MTY3NTY5NjM5MSwwMDAwMDAwMDc5Yjk5MGQ2MjA4OGQxMmZiODhmNWU1OTRjOGU2YjYw",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207020,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Ocean Drive (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 204182,
-      "name": "Ocean Drive (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 168755,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Ocean Drive (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 204182,
+      "name": "Ocean Drive (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "I Think I Do",
-        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
+        "name": "WHAT'S IT GONNA TAKE",
+        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 142438,
-      "name": "I Think I Do",
-      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
+      "duration_ms": 196798,
+      "name": "WHAT'S IT GONNA TAKE",
+      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "WHAT'S IT GONNA TAKE",
-        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
+        "name": "I Think I Do",
+        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 196798,
-      "name": "WHAT'S IT GONNA TAKE",
-      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
+      "duration_ms": 142438,
+      "name": "I Think I Do",
+      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "SASSY (Deluxe)",
-        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
     },
     {
       "added_at": "2023-02-02 23:01:00",

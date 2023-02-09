@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-112 songs - 6 hr 55 min
+113 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-24 | 2023-01-13 |
 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 | 2023-01-10 |  |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2023-01-10 |  |
+| [She's Got You](https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [She's Got You](https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc) | 2:53 | 2023-02-08 |  |
 | [Slow Fade](https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX) | 3:31 | 2022-11-08 | 2022-11-13 |
 | [Slumber in Reminiscence](https://open.spotify.com/track/7tuHVPcFSZfnU49JowoEku) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Slumber in Reminiscence](https://open.spotify.com/album/1BnKk4beQYpjPKqba2fTq0) | 4:58 | 2022-10-16 | 2023-01-13 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-10-16 |  |
@@ -117,7 +118,7 @@
 | [天使みたい](https://open.spotify.com/track/5PEYxq7KV9yzFIrEHkjGs7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 5:20 | 2023-02-03 | 2023-02-05 |
 | [天使みたい](https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 5:22 | 2023-02-03 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-01-10 |  |
-| [白に消える](https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy) | [しずくだうみ](https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7) | [白に消える](https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn) | 4:11 | 2023-01-19 |  |
+| [白に消える](https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy) | [しずくだうみ](https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7) | [白に消える](https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn) | 4:11 | 2023-01-19 | 2023-02-09 |
 | [雨](https://open.spotify.com/track/6WkMbJVTMyMWSQpCetvkyX) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [雨](https://open.spotify.com/album/47EQMgwBhI5ARxtBNB7Ruj) | 5:09 | 2022-11-08 | 2023-01-20 |
 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 | 2023-01-12 |  |
 

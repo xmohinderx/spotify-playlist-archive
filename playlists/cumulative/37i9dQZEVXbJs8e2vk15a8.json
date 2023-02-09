@@ -5309,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/6Po2ewWyJqB9ivQyGphad3"
+      },
+      "artists": [
+        {
+          "name": "FYLOW",
+          "url": "https://open.spotify.com/artist/7uQZyFwAdkSIDS969dWIie"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143102,
+      "name": "Give It To Me - Sped Up",
+      "url": "https://open.spotify.com/track/5Vv8EsGGg7jROU6KdM9znW"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -7494,7 +7512,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -9330,7 +9348,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 155538,
       "name": "No Pienso en Ti Jere",
       "url": "https://open.spotify.com/track/3SxFRfTmkXV6bXPhw40UfV"
@@ -10120,7 +10138,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 162988,
       "name": "Pa Que Pichea",
       "url": "https://open.spotify.com/track/258yajpaDSDzVV1ZQg93kD"
@@ -12870,7 +12888,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 232813,
       "name": "Stamp On It",
       "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
@@ -15226,6 +15244,24 @@
       "duration_ms": 208240,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
+    },
+    {
+      "album": {
+        "name": "Ya No Pienso en Ti",
+        "url": "https://open.spotify.com/album/5U3oh2tCnBG0YG2pAeMbjn"
+      },
+      "artists": [
+        {
+          "name": "antisocial.40",
+          "url": "https://open.spotify.com/artist/35O1EQTacgWT0iukOHnnVA"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155715,
+      "name": "Ya No Pienso en Ti",
+      "url": "https://open.spotify.com/track/1LcBCSnCovI1VlG9lsTZnV"
     },
     {
       "album": {

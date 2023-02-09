@@ -584,7 +584,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 181840,
       "name": "Balance",
       "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
@@ -5880,6 +5880,24 @@
       "duration_ms": 196832,
       "name": "Sankofa",
       "url": "https://open.spotify.com/track/6ycmsiVAABX5V4yQTHV3hT"
+    },
+    {
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160530,
+      "name": "Sans effet",
+      "url": "https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa"
     },
     {
       "album": {

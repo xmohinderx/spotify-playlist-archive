@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,342 likes - 92 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,385 likes - 92 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

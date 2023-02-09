@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3542553,
+  "num_followers": 3543358,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzOTA5MywwMDAwMDAwMDU0ZWExODQ1NjA0YmE5NmVhNDg0YjZjMzQyNWE4MzU4",
+  "snapshot_id": "MTY3NDIzOTA5MywwMDAwMDAwMDg1MmI5OGEyYTlhZmQyMzYwMGU3OTRkOGRlMWZjYWNm",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 273048,
       "name": "Losing Ground",
       "url": "https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1489,26 +1489,6 @@
       "url": "https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "The Color of Nothing",
@@ -1561,6 +1541,26 @@
       "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Rooms on the Ark",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "One Day EP",
-        "url": "https://open.spotify.com/album/0dTsIEabndHsNr65E5HPFC"
-      },
-      "artists": [
-        {
-          "name": "Falden",
-          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
-        }
-      ],
-      "duration_ms": 167804,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/4GiBecmDgFgo39XRndhbsB"
       },
@@ -1631,78 +1615,6 @@
       "duration_ms": 231724,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/5Akfx0bwY4my2qBOU5I21r"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Everything We Had To Leave Behind",
-        "url": "https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Joseph Aquilina",
-          "url": "https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO"
-        }
-      ],
-      "duration_ms": 264523,
-      "name": "1000 More Suns",
-      "url": "https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/2xMS2d3sGxqH3rSg4wSXVb"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 173166,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/3PVczFr0abPSkgcwjXJJDh"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1727,6 +1639,114 @@
       "duration_ms": 296253,
       "name": "I'll Wait - Le Youth Remix",
       "url": "https://open.spotify.com/track/3FzB5aTsvd9QcZ0MW4WOoH"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "One Day EP",
+        "url": "https://open.spotify.com/album/0dTsIEabndHsNr65E5HPFC"
+      },
+      "artists": [
+        {
+          "name": "Falden",
+          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
+        }
+      ],
+      "duration_ms": 167804,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Everything We Had To Leave Behind",
+        "url": "https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Joseph Aquilina",
+          "url": "https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO"
+        }
+      ],
+      "duration_ms": 264523,
+      "name": "1000 More Suns",
+      "url": "https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/2xMS2d3sGxqH3rSg4wSXVb"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 173166,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/3PVczFr0abPSkgcwjXJJDh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1767,26 +1787,6 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Falling Back",
-        "url": "https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Night Air Was Cool",
-        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        }
-      ],
-      "duration_ms": 286940,
-      "name": "The Night Air Was Cool",
-      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Pattern",
         "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 206601,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Night Air Was Cool",
+        "url": "https://open.spotify.com/album/6UiEPndYAwqGf0dB6ob2KF"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        }
+      ],
+      "duration_ms": 286940,
+      "name": "The Night Air Was Cool",
+      "url": "https://open.spotify.com/track/3GNCq0cqUr7kQ4lGaa0TVx"
     },
     {
       "added_at": "2023-01-06 05:00:00",

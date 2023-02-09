@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127148,
+  "num_followers": 127145,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk2OSwyMzE5N2E3NGRjZWU2MjRhZjYyNWUyZDMxMzY1ZjFiZGRmMjZkN2Vl",
+  "snapshot_id": "Mzk3Miw3MTA5MjRjOGU3YTdlYmEyZWM2NTgyZmY5MGFmY2JmNzk5ZDRkYTVi",
   "tracks": [
+    {
+      "added_at": "2023-02-08 17:09:55",
+      "album": {
+        "name": "Mipango",
+        "url": "https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz"
+      },
+      "artists": [
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 256229,
+      "name": "Mipango",
+      "url": "https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P"
+    },
     {
       "added_at": "2023-02-07 17:13:16",
       "album": {
@@ -1139,22 +1159,6 @@
       "duration_ms": 251901,
       "name": "To Another World",
       "url": "https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Existentia",
-        "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        }
-      ],
-      "duration_ms": 228355,
-      "name": "Limitless",
-      "url": "https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

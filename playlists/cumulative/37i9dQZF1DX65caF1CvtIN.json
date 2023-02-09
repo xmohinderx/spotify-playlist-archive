@@ -406,6 +406,24 @@
     {
       "album": {
         "name": "Childhood",
+        "url": "https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP"
+      },
+      "artists": [
+        {
+          "name": "GUIDO",
+          "url": "https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196009,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z"
+    },
+    {
+      "album": {
+        "name": "Childhood",
         "url": "https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB"
       },
       "artists": [
@@ -416,7 +434,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 196009,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb"
@@ -873,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Veluwe Suite",
+        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Fid\u00e8le",
+      "url": "https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks"
+    },
+    {
+      "album": {
         "name": "Fid\u00e8le",
         "url": "https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP"
       },
@@ -884,7 +920,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 203000,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha"
@@ -1796,6 +1832,24 @@
     {
       "album": {
         "name": "Old Letter",
+        "url": "https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv"
+      },
+      "artists": [
+        {
+          "name": "GUIDO",
+          "url": "https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234670,
+      "name": "Old Letter",
+      "url": "https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw"
+    },
+    {
+      "album": {
+        "name": "Old Letter",
         "url": "https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy"
       },
       "artists": [
@@ -1810,7 +1864,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 234500,
       "name": "Old Letter",
       "url": "https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY"

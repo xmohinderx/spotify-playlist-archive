@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMGYxMDJlN2NiNDRiMjRmMTIxYWVjYzFkMjYwMzQ5MDE2",
+  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMGExMzFjMDIyYzE5MThiYjY3ZWQxZTZlNzFjOGU4Njg3",
   "tracks": [
     {
       "added_at": "2023-01-30 18:50:49",
@@ -932,22 +932,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
       },
       "artists": [
@@ -959,6 +943,22 @@
       "duration_ms": 189056,
       "name": "Sexual - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1796,6 +1796,22 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "Worst Of You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
       },
       "artists": [
@@ -1811,22 +1827,6 @@
       "duration_ms": 213800,
       "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "Worst Of You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1960,22 +1960,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Earned It - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK"
       },
       "artists": [
@@ -1987,6 +1971,22 @@
       "duration_ms": 214107,
       "name": "Stay High - Recorded At East West Studios",
       "url": "https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Earned It - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -2008,17 +2008,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6w7pl7sOuPf7Kbe1bM4ADK"
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 212448,
-      "name": "I Can't Stop Thinking About You - Recorded At Spotfiy Studios NYC",
-      "url": "https://open.spotify.com/track/68xwAt1XAwQKSXksHReESE"
+      "duration_ms": 158501,
+      "name": "Unforgettable - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -2040,17 +2040,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+        "url": "https://open.spotify.com/album/6w7pl7sOuPf7Kbe1bM4ADK"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 158501,
-      "name": "Unforgettable - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
+      "duration_ms": 212448,
+      "name": "I Can't Stop Thinking About You - Recorded At Spotfiy Studios NYC",
+      "url": "https://open.spotify.com/track/68xwAt1XAwQKSXksHReESE"
     }
   ],
   "unique_name": "Spotify Singles: Love Edition",

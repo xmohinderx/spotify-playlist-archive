@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-797 songs - 1 day 21 hr 37 min
+798 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 | 2022-10-21 | 2023-01-18 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 | 2022-11-11 |
 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 | 2022-07-08 | 2022-09-24 |
-| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 |  |
+| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 | 2023-02-09 |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-22 |  |
 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 | 2021-11-12 | 2022-04-20 |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-09-03 | 2022-03-27 |
@@ -760,6 +760,7 @@
 | [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2023-01-17 |  |
 | [Veronica's Shield](https://open.spotify.com/track/5UpGyLAkTFoWx6DWuiQ3eE) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [Veronica's Shield](https://open.spotify.com/album/1slozzvkXlyqatUhmQok4b) | 2:51 | 2022-07-29 | 2022-12-15 |
 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 | 2022-07-01 | 2022-10-15 |
+| [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 | 2023-01-27 |  |
 | [Walk in the Dark](https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Meet Me at the Gloaming](https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK) | 4:00 | 2022-10-14 | 2022-12-15 |
 | [Wanna Say](https://open.spotify.com/track/1eGrBNUpkLzFpAJStjlwOo) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Wanna Say](https://open.spotify.com/album/5rKcHgjJmuawXDqH8sMFU2) | 2:58 | 2021-08-27 | 2022-04-20 |
 | [Wasted Affairs](https://open.spotify.com/track/3CczWPmaz03mSTr6qnqXnc) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Wasted Affairs](https://open.spotify.com/album/57sbdNZpBOb1g2NrqcJ1CT) | 2:48 | 2022-04-29 | 2022-09-03 |

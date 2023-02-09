@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 101840,
+  "num_followers": 101861,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDViNDI5MDhmZDNiN2ViNWUyMGRlYjg4NDY4ZDY4MGJh",
+  "snapshot_id": "MTY3NDczODAwMCwwMDAwMDAwMDQ0ODgxNzdiMDVjYjMzYzc2MGM5OGFkNTIyZDk0MDZj",
   "tracks": [
     {
       "added_at": "2023-01-26 13:00:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
+      "duration_ms": 211845,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -695,6 +699,22 @@
       "duration_ms": 172000,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -727,26 +747,6 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 228198,
+      "name": "Bleu - Radio Edit",
+      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
         "name": "Revelation (Barry Can't Swim Remix)",
         "url": "https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
         }
       ],
-      "duration_ms": 228198,
-      "name": "Bleu - Radio Edit",
-      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+      "duration_ms": 191406,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -859,18 +875,22 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E"
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
       "artists": [
         {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 191406,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy"
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -903,26 +923,6 @@
       "duration_ms": 373166,
       "name": "Setting Sun",
       "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/6FmA0C7U8o7U4LvvyuV5wP"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "R\u00caVES",
-        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 268872,
-      "name": "R\u00caVES",
-      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
-    },
-    {
-      "added_at": "2023-01-26 13:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-01-26 13:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+        "name": "R\u00caVES",
+        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
         }
       ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+      "duration_ms": 268872,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
     },
     {
       "added_at": "2023-01-26 13:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-01-26 13:00:00",
+      "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-01-26 13:00:00",

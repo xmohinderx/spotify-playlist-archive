@@ -4,7 +4,7 @@
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-22 songs - 44 min 18 sec
+23 songs - 45 min 20 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 | 2022-03-03 |  |
 | [Science Safety Song](https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0) | [T\-Rex Ranch](https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn) | [Science Safety Song](https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t) | 1:56 | 2022-03-03 |  |
 | [Scientific Method](https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:27 | 2022-03-03 |  |
-| [Scientist](https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:02 | 2022-03-03 |  |
+| [Scientist](https://open.spotify.com/track/3qrwwhSKYFoQWpViXkNvaN) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2) | 1:02 | 2022-03-03 |  |
+| [Scientist](https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:02 | 2022-03-03 | 2023-02-09 |
 | [The New Periodic Table Song](https://open.spotify.com/track/2Cmth2GiA4UsABtEvYsCM1) | [AsapSCIENCE](https://open.spotify.com/artist/7E8gU2qkctwGqHBizPRH9A) | [The New Periodic Table Song](https://open.spotify.com/album/7hV9SjMjh5lSEDx34xz967) | 2:49 | 2022-03-03 |  |
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2022-03-03 |  |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-03-03 |  |

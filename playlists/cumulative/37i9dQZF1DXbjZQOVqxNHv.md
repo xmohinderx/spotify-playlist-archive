@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-513 songs - 2 day 0 hr 15 min
+515 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 | 2022-04-13 |  |
 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2022-04-13 | 2023-02-02 |
 | [Archetype Arcadian](https://open.spotify.com/track/4pmjxHfFxfJeXh2XdkXm8s) | [Link](https://open.spotify.com/artist/0R5oB9foCWAcICIWJBcCS4) | [The Theory of Evolution](https://open.spotify.com/album/7Ackor6DkpwV3p4y7oVtma) | 4:36 | 2022-04-13 | 2022-07-27 |
+| [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/06Wawsa8T4RYApPQ1Hs8kP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/6UUJq06fTAr9H7xLiE1VFS) | 5:37 | 2022-04-13 |  |
 | [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/4zbvzcIA4eay0nmOPbh3Ie) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/47MAHFdX4iwu0pYo7VRDWO) | 5:37 | 2022-04-13 | 2023-02-03 |
 | [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 |  |
 | [Auto Pimp](https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH) | [Amorphous Androgynous](https://open.spotify.com/artist/1edIQYI7l4FMeYwq6fNAZQ) | [Tales Of Ephidrina](https://open.spotify.com/album/4SNliyiumphhCLF7mPnAaJ) | 7:20 | 2022-04-13 |  |
@@ -209,7 +210,7 @@
 | [How The West Was Won](https://open.spotify.com/track/6qIBbn4TnX016RiNDGSuhJ) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 3:34 | 2022-04-13 |  |
 | [I Am A Decent Man](https://open.spotify.com/track/6s7FfdgxJHflFAu4RYBrNA) | [Gamers In Exile](https://open.spotify.com/artist/172ox6jADAYSGQstSEW7ap) | [Tigerbeat Inc disc 1](https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX) | 3:11 | 2022-07-11 |  |
 | [I am a Decent Man](https://open.spotify.com/track/45XkXwH6EweTurMAA4VCLv) | [Gamers In Exile](https://open.spotify.com/artist/172ox6jADAYSGQstSEW7ap) | [Decent](https://open.spotify.com/album/0Zq8X6617wyJyKh87l6Zha) | 3:13 | 2022-04-13 | 2022-07-27 |
-| [I Am Back](https://open.spotify.com/track/2XBfQaY3VfrsxuIBXn4h1h) | [Mr\. Projectile](https://open.spotify.com/artist/5Er2WCIjotL6kGdeQqE4i6) | [Sinking](https://open.spotify.com/album/7KsutdsxWLBNYUTN08MY1Y) | 5:23 | 2022-04-13 |  |
+| [I Am Back](https://open.spotify.com/track/2XBfQaY3VfrsxuIBXn4h1h) | [Mr\. Projectile](https://open.spotify.com/artist/5Er2WCIjotL6kGdeQqE4i6) | [Sinking](https://open.spotify.com/album/7KsutdsxWLBNYUTN08MY1Y) | 5:23 | 2022-04-13 | 2023-02-09 |
 | [I Wish You Could Talk](https://open.spotify.com/track/0pK2u7ZsXa2O2uLzxuIjXH) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/1E00eXD8WvUkKFRA4OlqC2) | 4:53 | 2022-04-13 |  |
 | [I Wish You Could Talk](https://open.spotify.com/track/2Nho8rhto2Lxxoc7Eulo2g) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 4:53 | 2022-04-13 | 2023-02-02 |
 | [If It Really Is Me](https://open.spotify.com/track/1iQdWdTSQ8CPOKe3Ar6Chl) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Surfing On Sine Waves](https://open.spotify.com/album/5ZINPXbRLusUuS4olqRFR0) | 7:03 | 2022-04-13 | 2023-02-02 |
@@ -369,6 +370,7 @@
 | [Rewind! \- Vocal](https://open.spotify.com/track/1ChgIIBX7k99Op7E2kR4wM) | [Cylob](https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5) | [Cymply The Best 93\-01](https://open.spotify.com/album/4Zhq90l2QauFVB1GRCwagX) | 3:04 | 2022-04-13 |  |
 | [Rez \- Remastered](https://open.spotify.com/track/1a6ktLZUBl9Ep9t8Qkz7Tj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(Deluxe / 20th Anniversary Edition\)](https://open.spotify.com/album/0DDUsPuwNlVuclPWAGodJm) | 9:57 | 2022-04-13 |  |
 | [Right Time Right Place](https://open.spotify.com/track/2n5wJWJwTabSA2zJk7xEO3) | [Blectum From Blechdom](https://open.spotify.com/artist/2iDfyLGn8aPFWfY6v7yd40) | [Haus de Snaus](https://open.spotify.com/album/3GJDbkBNxLqQ3qaLe3rGan) | 2:09 | 2022-04-13 | 2022-07-28 |
+| [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 | 2022-04-13 |  |
 | [rightclick](https://open.spotify.com/track/54wkv0gYaFNbH97DTENlii) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/4y1I5CWHIVme0FCOllppJy) | 2:54 | 2022-04-13 | 2023-02-02 |
 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 | 2022-04-13 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2022-04-13 | 2023-02-02 |
@@ -427,7 +429,7 @@
 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 | 2022-04-13 |  |
 | [T69 collapse](https://open.spotify.com/track/1vTCJDVG7OiYw7LLmxTzVG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Collapse EP](https://open.spotify.com/album/3SbGxJVC8fHv41RFKCGIl3) | 5:22 | 2022-04-13 | 2022-07-28 |
 | [Tango N' Vectif](https://open.spotify.com/track/0WtQ6d5cLyhfvZyLrElZbw) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:10 | 2022-04-13 | 2022-07-24 |
-| [Tango N'Vectif](https://open.spotify.com/track/4HPFAK0h6LYNrWd2wyS4dH) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:10 | 2022-04-13 |  |
+| [Tango N'Vectif](https://open.spotify.com/track/4HPFAK0h6LYNrWd2wyS4dH) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:10 | 2022-04-13 | 2023-02-09 |
 | [Taurus](https://open.spotify.com/track/6ARmIHYy1T3zQ2QckNsbj3) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/7ENEJQ25o6uG8J1fS5uaZw) | 4:42 | 2022-04-13 |  |
 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-04-13 | 2023-02-02 |
 | [Tech7](https://open.spotify.com/track/15U2nndY86y65IRh3cm4uy) | [Abfahrt Hinwil](https://open.spotify.com/artist/7MTVlE5MFeIClfw5Zf2XoV) | [Links Berge Rechts Seen](https://open.spotify.com/album/46iV1ACnCzO6zyf6lnS8Et) | 3:56 | 2022-04-13 |  |

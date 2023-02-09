@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 48 | [Où sera le monde](https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Où sera le monde](https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl) | 3:58 |
 | 49 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
 | 50 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 |
-| 51 | [Corde à linge](https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:19 |
-| 52 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
+| 51 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
+| 52 | [Corde à linge](https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:19 |
 | 53 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
 | 54 | [Pas de limite](https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Pas de limite](https://open.spotify.com/album/42r9Vjwpwvi6LCfC5FV3XT) | 2:38 |
 | 55 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 87 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 | 88 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 89 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 |
-| 90 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
-| 91 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 |
+| 90 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 |
+| 91 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
 | 92 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 |
 | 93 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
 | 94 | [Nouveau monde](https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 3:24 |
 | 95 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 |
 | 96 | [Je t’aime](https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Fauve](https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1) | 4:13 |
-| 97 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 |
-| 98 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 |
+| 97 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 |
+| 98 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 |
 | 99 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
 | 100 | [Espoir](https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Incarnat](https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS) | 3:29 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMGFjM2YwNmE1ZTNjMTc4ZmY1ZTFhMTk2MmE3OGQ3MjRl`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDFhYTUwNWI3Y2RmOGI3M2RiNGIxNGYyYzNkZGQxOGFi`

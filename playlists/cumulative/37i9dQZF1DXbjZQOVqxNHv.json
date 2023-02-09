@@ -644,6 +644,24 @@
     {
       "album": {
         "name": "Stay Down",
+        "url": "https://open.spotify.com/album/6UUJq06fTAr9H7xLiE1VFS"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "As Worldly Pleasures Wave Goodbye\u2026.",
+      "url": "https://open.spotify.com/track/06Wawsa8T4RYApPQ1Hs8kP"
+    },
+    {
+      "album": {
+        "name": "Stay Down",
         "url": "https://open.spotify.com/album/47MAHFdX4iwu0pYo7VRDWO"
       },
       "artists": [
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 323333,
       "name": "I Am Back",
       "url": "https://open.spotify.com/track/2XBfQaY3VfrsxuIBXn4h1h"
@@ -6576,6 +6594,24 @@
     {
       "album": {
         "name": "utopia",
+        "url": "https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174959,
+      "name": "rightclick",
+      "url": "https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK"
+    },
+    {
+      "album": {
+        "name": "utopia",
         "url": "https://open.spotify.com/album/4y1I5CWHIVme0FCOllppJy"
       },
       "artists": [
@@ -7638,7 +7674,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 250306,
       "name": "Tango N'Vectif",
       "url": "https://open.spotify.com/track/4HPFAK0h6LYNrWd2wyS4dH"

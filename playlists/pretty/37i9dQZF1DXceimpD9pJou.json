@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lizzy Parra",
-  "num_followers": 117193,
+  "num_followers": 117264,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDFmZDY5NmVlYjg1Y2I2NmM1Y2FkYjNjNDAwNTU3OGI3",
+  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDIyMzg0ZTkxZTcyN2U3ZjQzY2UxYzA5YmZmZGEzMWYx",
   "tracks": [
     {
       "added_at": "2023-02-03 09:29:24",
@@ -87,7 +87,7 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Yo tengo fe (Remix)",
+        "name": "Yo tengo fe Remix (feat Apostoles del Rap & Se\u00f1or F & Glow & Marto)",
         "url": "https://open.spotify.com/album/3APbhhcKnoyahpf9MDPNy9"
       },
       "artists": [
@@ -113,7 +113,7 @@
         }
       ],
       "duration_ms": 501593,
-      "name": "Yo tengo fe - Remix",
+      "name": "Yo tengo fe Remix (feat Apostoles del Rap & Se\u00f1or F & Glow & Marto) - Remix",
       "url": "https://open.spotify.com/track/64hAMLS9MPk4BVWezwRYsQ"
     },
     {
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Darme",
-        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 222595,
-      "name": "Darme",
-      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Infinitum",
         "url": "https://open.spotify.com/album/1H6bJ8GNVQk8PEweAFbNEP"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 239503,
       "name": "Cambiaste",
       "url": "https://open.spotify.com/track/6kKPtAHTgktf7cYt6wd7rf"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Darme",
+        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 222595,
+      "name": "Darme",
+      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -627,30 +627,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "No Es Raro (Remix)",
-        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
+        "name": "Mundo Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
       },
       "artists": [
         {
           "name": "Jaydan",
           "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        },
-        {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
-        },
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
         }
       ],
-      "duration_ms": 315276,
-      "name": "No Es Raro - Remix",
-      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
+      "duration_ms": 174500,
+      "name": "Mundo Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -743,18 +731,30 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Mundo Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
+        "name": "No Es Raro (Remix)",
+        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
       },
       "artists": [
         {
           "name": "Jaydan",
           "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
         }
       ],
-      "duration_ms": 174500,
-      "name": "Mundo Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
+      "duration_ms": 315276,
+      "name": "No Es Raro - Remix",
+      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
-        "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 402283,
-      "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
-      "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Dios Es Bueno",
         "url": "https://open.spotify.com/album/2rOluTl61G1MwqMpyWHakZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 327705,
       "name": "Dios Es Bueno",
       "url": "https://open.spotify.com/track/4wfvNQKM203PFuZujbOzZ3"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+        "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 402283,
+      "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+      "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Bendecio",
-        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+        "name": "And\u00e1 Pa\u00b4 Sha",
+        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
       },
       "artists": [
         {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bendecio",
-      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
+      "duration_ms": 178882,
+      "name": "And\u00e1 Pa\u00b4 Sha",
+      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -927,6 +927,22 @@
       "duration_ms": 184187,
       "name": "Por Siempre",
       "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Bendecio",
+        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Bendecio",
+      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "And\u00e1 Pa\u00b4 Sha",
-        "url": "https://open.spotify.com/album/51L8KHaWe5zEvArNdVyC5H"
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
       },
       "artists": [
         {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+          "name": "Addy Juarez",
+          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
         }
       ],
-      "duration_ms": 178882,
-      "name": "And\u00e1 Pa\u00b4 Sha",
-      "url": "https://open.spotify.com/track/4GMpvXXop4tAi3F5YRKCS7"
+      "duration_ms": 331040,
+      "name": "Libertad Me Das",
+      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -999,22 +1015,6 @@
       "duration_ms": 216255,
       "name": "Como fuego",
       "url": "https://open.spotify.com/track/7vqQ82TNU2xrvF8kJatgX2"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
-      },
-      "artists": [
-        {
-          "name": "Addy Juarez",
-          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
-        }
-      ],
-      "duration_ms": 331040,
-      "name": "Libertad Me Das",
-      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "El Protagonista",
-        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Cielo",
-          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
-        }
-      ],
-      "duration_ms": 299535,
-      "name": "El Protagonista",
-      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Vital",
         "url": "https://open.spotify.com/album/1hNnHKX0Wc13SoBckomh5r"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 149374,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1DUmxJkbPnMaCUHiechFwP"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "El Protagonista",
+        "url": "https://open.spotify.com/album/2xjCkKC8DJVKNfmS9F1ukT"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Cielo",
+          "url": "https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ"
+        }
+      ],
+      "duration_ms": 299535,
+      "name": "El Protagonista",
+      "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
     },
     {
       "added_at": "2023-02-03 09:29:24",

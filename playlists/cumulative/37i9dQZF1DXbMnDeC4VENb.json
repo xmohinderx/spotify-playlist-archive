@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Ella es",
+        "url": "https://open.spotify.com/album/6vnbQXwWrfMaW5cCt256t3"
+      },
+      "artists": [
+        {
+          "name": "Dani Machine",
+          "url": "https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Ella es",
+      "url": "https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR"
+    },
+    {
+      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
       },

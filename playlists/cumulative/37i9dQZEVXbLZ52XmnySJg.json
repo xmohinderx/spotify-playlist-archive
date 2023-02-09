@@ -9288,7 +9288,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -9403,6 +9403,32 @@
     },
     {
       "album": {
+        "name": "3:00 AM Sessions",
+        "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Devika Badyal",
+          "url": "https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL"
       },
@@ -9422,7 +9448,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi"
@@ -11832,7 +11858,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"

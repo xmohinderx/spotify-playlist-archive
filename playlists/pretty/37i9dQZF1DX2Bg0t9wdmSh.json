@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 2487,
+  "num_followers": 2502,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDMxNjEyYjM1YTRjZTE0MzFmZTYwY2JlZDkxMzQ4Y2Y1",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGQwNzQ0NWUyNWUwZDhkNDA3NDA2NzE4NTkxNDQzMmI2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "B*tch From Da Souf",
+        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144047,
+      "name": "B*tch From Da Souf",
+      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Stay Down (with 6LACK & Young Thug)",
         "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 169330,
       "name": "Stay Down (with 6LACK & Young Thug)",
       "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "B*tch From Da Souf",
-        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 144047,
-      "name": "B*tch From Da Souf",
-      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 149066,
+      "name": "Broke Up In Miami",
+      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Muwop (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 149066,
-      "name": "Broke Up In Miami",
-      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
     },
     {
       "added_at": "2022-10-01 16:09:56",

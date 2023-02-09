@@ -1,28 +1,92 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Kayla Rae",
-  "num_followers": 176761,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Sion",
+  "num_followers": 176853,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMDFlMDRiMGEwNjhlNTAzYjU4YWRjMTJjODI0YmRkZjdj",
+  "snapshot_id": "MTY3NTkwNDk1OSwwMDAwMDAwMDg5YTA0YmM3ZThhYWFjMzNjN2I0ZDQzM2RkY2Q3YjJm",
   "tracks": [
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO"
+        "name": "Flying Fish",
+        "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
       },
       "artists": [
         {
-          "name": "Kayla Rae",
-          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 166893,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl"
+      "duration_ms": 181935,
+      "name": "Flying Fish",
+      "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Small Doses",
+        "url": "https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6"
+        }
+      ],
+      "duration_ms": 168958,
+      "name": "Small Doses",
+      "url": "https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "FREYA",
+        "url": "https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T"
+      },
+      "artists": [
+        {
+          "name": "Maria Celin",
+          "url": "https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "FREYA",
+      "url": "https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "False Idol",
+        "url": "https://open.spotify.com/album/1imUbzypSmVJn0nTJSEI6V"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "False Idol",
+      "url": "https://open.spotify.com/track/2ZtCpgZrWRZOZv9hpym5YU"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "people grow apart, people let me down",
+        "url": "https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 189652,
+      "name": "people grow apart, people let me down",
+      "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -41,36 +105,180 @@
       "url": "https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN"
     },
     {
-      "added_at": "2023-02-01 05:00:00",
+      "added_at": "2023-02-08 05:00:00",
       "album": {
-        "name": "Flying Fish",
-        "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
+        "name": "do u miss me",
+        "url": "https://open.spotify.com/album/0Bz2LQh3ycFTI1Q41HR5vK"
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "Carlay",
+          "url": "https://open.spotify.com/artist/0H4AXwU7TtmiM1nhGiIJMZ"
         }
       ],
-      "duration_ms": 181935,
-      "name": "Flying Fish",
-      "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
+      "duration_ms": 135948,
+      "name": "do u miss me",
+      "url": "https://open.spotify.com/track/5fWFKbJjf2RDuTEomNEGJJ"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/6miksY7BC5soZNpPs3nVXM"
+      },
+      "artists": [
+        {
+          "name": "Caroline Lobb",
+          "url": "https://open.spotify.com/artist/1pfxi1NJbyyu5H6qvuws5B"
+        }
+      ],
+      "duration_ms": 252439,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0gZhb7dvu3xMvPQyF2AUoc"
     },
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Nights Like These",
-        "url": "https://open.spotify.com/album/3sdpOdloToaR6mMm4g7p2L"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO"
       },
       "artists": [
         {
-          "name": "Alex Coles",
-          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+          "name": "Kayla Rae",
+          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
         }
       ],
-      "duration_ms": 172903,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/3fTjq5FGgWMD1OpeNdaKS7"
+      "duration_ms": 166893,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Your New Girlfriend",
+        "url": "https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT"
+      },
+      "artists": [
+        {
+          "name": "Leah Sykes",
+          "url": "https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "Your New Girlfriend",
+      "url": "https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Green Juice",
+        "url": "https://open.spotify.com/album/2nCHorCVOGbMMoO8pZZvYg"
+      },
+      "artists": [
+        {
+          "name": "Elli Moore",
+          "url": "https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "Green Juice",
+      "url": "https://open.spotify.com/track/3St2cIjYXcjA85zyAR0uY5"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/3k5oVFPfCZNmdI3ZyGBwOM"
+      },
+      "artists": [
+        {
+          "name": "Josh Gray",
+          "url": "https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX"
+        }
+      ],
+      "duration_ms": 118182,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2qFx1eJTaJSaZnWBrMLjFg"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "once upon a time",
+        "url": "https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "ur a bitch",
+        "url": "https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "ur a bitch",
+      "url": "https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4DTDuXUJG36ZMiTOplREZp"
+      },
+      "artists": [
+        {
+          "name": "IOLITE",
+          "url": "https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5yxWAAPhfPBlJIbfFcHDyd"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Heatwave In December",
+        "url": "https://open.spotify.com/album/2qGHc4bUYaDMXVpFBvC057"
+      },
+      "artists": [
+        {
+          "name": "Ashley Jane",
+          "url": "https://open.spotify.com/artist/5kiSvzjHG8z4UOpC6FAehk"
+        }
+      ],
+      "duration_ms": 166707,
+      "name": "Heatwave In December",
+      "url": "https://open.spotify.com/track/46vLxn8chYCAQ0mykTTVqN"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -89,20 +297,68 @@
       "url": "https://open.spotify.com/track/4KtVL332elRhpZoctkarI3"
     },
     {
-      "added_at": "2023-01-25 14:26:21",
+      "added_at": "2023-02-08 05:00:00",
       "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB"
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/4PNvTxhYnWJ53Rri0uiEwS"
       },
       "artists": [
         {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
         }
       ],
-      "duration_ms": 148900,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw"
+      "duration_ms": 167560,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/0LNAyKS5FaiswCBiQCRX9W"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "Burning Trees",
+        "url": "https://open.spotify.com/album/1T7igMGRZDjgKA9bxt0mD8"
+      },
+      "artists": [
+        {
+          "name": "Emma Bradley",
+          "url": "https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Burning Trees",
+      "url": "https://open.spotify.com/track/72CpX4C3SVi3vDqXkzDJHV"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "habits",
+        "url": "https://open.spotify.com/album/7t4s9OnHx2ycFHN72xIfhP"
+      },
+      "artists": [
+        {
+          "name": "MIXIE",
+          "url": "https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij"
+        }
+      ],
+      "duration_ms": 159248,
+      "name": "habits",
+      "url": "https://open.spotify.com/track/1U2FdQyBhK0HLAZ1ieElnC"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Nights Like These",
+        "url": "https://open.spotify.com/album/3sdpOdloToaR6mMm4g7p2L"
+      },
+      "artists": [
+        {
+          "name": "Alex Coles",
+          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+        }
+      ],
+      "duration_ms": 172903,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/3fTjq5FGgWMD1OpeNdaKS7"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1187,22 +1443,6 @@
     {
       "added_at": "2023-01-11 05:00:00",
       "album": {
-        "name": "Motorola",
-        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
         "name": "weightless",
         "url": "https://open.spotify.com/album/1boOKlvXmsU3UvDihE0kHJ"
       },
@@ -1215,86 +1455,6 @@
       "duration_ms": 224567,
       "name": "weightless",
       "url": "https://open.spotify.com/track/7xxj8W8TfJHhlfVqcA47cc"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "i'm not in the m00d!",
-        "url": "https://open.spotify.com/album/4YSX05qtoiDW3ulMlDP7RA"
-      },
-      "artists": [
-        {
-          "name": "Ada LeAnn",
-          "url": "https://open.spotify.com/artist/21pgMRZeHtao6q4YEFE4ih"
-        }
-      ],
-      "duration_ms": 131125,
-      "name": "i'm not in the m00d!",
-      "url": "https://open.spotify.com/track/62YQ2WTRbpQCDixy1wqBJL"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Was It A Dream?",
-        "url": "https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Was It A Dream?",
-      "url": "https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/3XVB3ikfbBC5clIpjzmfbc"
-      },
-      "artists": [
-        {
-          "name": "Clara Lars",
-          "url": "https://open.spotify.com/artist/49JmAjGLpf6BkXCvvLC2kY"
-        }
-      ],
-      "duration_ms": 223012,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/7kybn9ZtT9QcN3inJ5Ddz5"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/2gJEPcCWkTEUp3jX4HiTX1"
-      },
-      "artists": [
-        {
-          "name": "CALI JEWLS",
-          "url": "https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH"
-        }
-      ],
-      "duration_ms": 216558,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/7Mne5Z9Xi6olZCkveX8KWn"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/3Ymydr1bIqkC6E1sgUEAwg"
-      },
-      "artists": [
-        {
-          "name": "Sadie Fine",
-          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/24AZWPudcIHC5p12MQXimM"
     }
   ],
   "unique_name": "Fresh Finds Pop",

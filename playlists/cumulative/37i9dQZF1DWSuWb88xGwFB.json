@@ -244,6 +244,24 @@
     {
       "album": {
         "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+    },
+    {
+      "album": {
+        "name": "Choices",
         "url": "https://open.spotify.com/album/5syNMN5tjaSRhTDNo6DogN"
       },
       "artists": [
@@ -258,24 +276,6 @@
       "duration_ms": 472984,
       "name": "Choices - Choices Vocal Mix",
       "url": "https://open.spotify.com/track/2wF1GRjUn5f4QNjEJklSqW"
-    },
-    {
-      "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "date_added": "2022-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 473477,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "album": {
@@ -1389,7 +1389,7 @@
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 413346,
+      "duration_ms": 414378,
       "name": "Muevete Mama - Broder Mix",
       "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
     },

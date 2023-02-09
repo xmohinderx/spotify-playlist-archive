@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2247,
+  "num_followers": 2249,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMDQyZjE1ZWFmYTE4ZDE4MDM5NzA5ZWIxMmFmYzcwYmQ2",
+  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMGY5N2ExMGE5NDYxMTFkMmI3ZGM0YWIxZWFkZTBkNzU2",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2023-01-26 05:00:03",

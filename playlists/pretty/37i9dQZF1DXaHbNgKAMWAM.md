@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,919 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,938 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 54 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 55 | [I LUV U \(with Mirani\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with Mirani\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 |
 | 56 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
-| 57 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 |
-| 58 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 57 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 58 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 |
 | 59 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
 | 60 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 |
 
-Snapshot ID: `MTY3NTQwNjgxOCwwMDAwMDAwMGFiNzhhMTdlZmNlN2E4ZDY0NDg3YjdkN2Q2OTNiNDQx`
+Snapshot ID: `MTY3NTQwNjgxOCwwMDAwMDAwMDc5MmYyYzNmNTIxZDY3YWE4YmJkOTE1NGQyMmI1NzU1`

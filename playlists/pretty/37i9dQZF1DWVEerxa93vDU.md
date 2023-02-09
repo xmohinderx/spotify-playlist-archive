@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,886 likes - 230 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,930 likes - 230 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 94 | [Infatuation](https://open.spotify.com/track/73ruZaPjX3K1U7rCCBVC5F) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Infatuation](https://open.spotify.com/album/1jlX2ksC3LDNwX8lCOXp7N) | 2:33 |
 | 95 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 |
 | 96 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 |
-| 97 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 |
+| 97 | [Childhood](https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP) | 3:16 |
 | 98 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
 | 99 | [Espira](https://open.spotify.com/track/4OQmeUFkAzczVjfBmLuk88) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [Espira](https://open.spotify.com/album/4msJVubzT4X721PKyVM4fl) | 2:50 |
 | 100 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 229 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 230 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 
-Snapshot ID: `MTY3NDgxNDk3NSwwMDAwMDAwMDQ2OTk1ZTg1M2RlYmMwZjk1ODY2NGU0YzA4NTJkNjBl`
+Snapshot ID: `MTY3NDgxNDk3NSwwMDAwMDAwMGIzZGMxYzNlZGQ2ODA3YmJhNjJhOTAzM2UyM2QyY2Vi`

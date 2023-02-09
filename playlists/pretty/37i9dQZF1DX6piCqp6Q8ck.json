@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 102600,
+  "num_followers": 102576,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMDk2MDA2ZDk1NDExYzQ4NWUxYzc2NTkxMWYzYjdkN2Yz",
+  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMGNmNjVmYzc5ZDdiZjU2M2M1NzM5Nzg5YzgyMzQ4MmQz",
   "tracks": [
     {
       "added_at": "2022-12-23 13:04:53",
@@ -799,6 +799,38 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Dan Brubeck",
+          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
+        },
+        {
+          "name": "Bill Smith",
+          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
+        },
+        {
+          "name": "Jack Six",
+          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
+        },
+        {
+          "name": "Randy Jones",
+          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -831,38 +863,6 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Dan Brubeck",
-          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
-        },
-        {
-          "name": "Bill Smith",
-          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
-        },
-        {
-          "name": "Jack Six",
-          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
-        },
-        {
-          "name": "Randy Jones",
-          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
     },
     {
       "added_at": "2022-12-23 13:04:53",

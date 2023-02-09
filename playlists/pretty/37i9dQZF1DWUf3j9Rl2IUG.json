@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Kjv_xGURSI-2k9nd0aLBsg\"> L.A.X </a>  ",
-  "num_followers": 45140,
+  "num_followers": 45185,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjQwOSwwMDAwMDAwMGVhNjFmZGJiYjM3MTA4NTg5NTY2MmMwODVhMTlhNDk0",
+  "snapshot_id": "MTY3NTQxNjQwOSwwMDAwMDAwMDRhYTY4Yzc2ZWI0MTM5OTgwZjU2MDk3Zjg0ZTU4NmQz",
   "tracks": [
     {
       "added_at": "2023-01-27 07:54:25",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-01-27 07:54:25",
       "album": {
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
+      "added_at": "2023-01-27 07:54:25",
+      "album": {
         "name": "Kenkele",
         "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
-    },
-    {
-      "added_at": "2023-01-27 07:54:25",
-      "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
       "added_at": "2023-01-27 07:54:25",

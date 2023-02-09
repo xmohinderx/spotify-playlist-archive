@@ -1,15 +1,15 @@
 {
   "description": "The best new Experimental by independent artists and labels, with RUMTUM on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 101247,
+  "num_followers": 101288,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI3MDA2MywwMDAwMDAwMDNlNjdiY2E2ODQ1NTI2NWRhN2UwNDZmZjdlODYyNDAw",
+  "snapshot_id": "MTY3NTI3MDA2MywwMDAwMDAwMDNiN2I3NTU0YjZlMzZjMWRkMzg2OGFlYjQ4YTNmOWU5",
   "tracks": [
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "meow chat",
         "url": "https://open.spotify.com/album/0nc73w5OD8c2DZKiSaPDaS"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Tous Ensemble",
         "url": "https://open.spotify.com/album/1wJoPP4bfL21RIJ1PUVjXv"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Nieve Afuera",
         "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
+      "added_at": "2023-02-09 00:45:59",
+      "album": {
+        "name": "Hoss It",
+        "url": "https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx"
+    },
+    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Blurry",
@@ -297,20 +313,24 @@
       "url": "https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
-        "name": "Hoss It",
-        "url": "https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8"
+        "name": "replicant",
+        "url": "https://open.spotify.com/album/5dQRWTVmh7hEEy1H75KvMc"
       },
       "artists": [
         {
-          "name": "96 Back",
-          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+          "name": "vai5000",
+          "url": "https://open.spotify.com/artist/1erffemc5GvnjrM7QSaHA0"
+        },
+        {
+          "name": "i9bonsai",
+          "url": "https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3"
         }
       ],
-      "duration_ms": 357131,
-      "name": "Hoss It",
-      "url": "https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx"
+      "duration_ms": 174994,
+      "name": "replicant",
+      "url": "https://open.spotify.com/track/51GNtvHhIDxbUgfRXrpbnn"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -361,26 +381,6 @@
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
-      "album": {
-        "name": "replicant",
-        "url": "https://open.spotify.com/album/5dQRWTVmh7hEEy1H75KvMc"
-      },
-      "artists": [
-        {
-          "name": "vai5000",
-          "url": "https://open.spotify.com/artist/1erffemc5GvnjrM7QSaHA0"
-        },
-        {
-          "name": "i9bonsai",
-          "url": "https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3"
-        }
-      ],
-      "duration_ms": 174994,
-      "name": "replicant",
-      "url": "https://open.spotify.com/track/51GNtvHhIDxbUgfRXrpbnn"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Umbra",
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Saccades",
         "url": "https://open.spotify.com/album/2StQxbMJUpPYFPH1znrqGd"
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
     },
     {
+      "added_at": "2023-02-09 00:45:59",
+      "album": {
+        "name": "A Plague",
+        "url": "https://open.spotify.com/album/2csptUw9JiNnUrp10fGOks"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rabies",
+          "url": "https://open.spotify.com/artist/1IoH5ykVwG4K5c98iAhQYk"
+        }
+      ],
+      "duration_ms": 249648,
+      "name": "A Plague",
+      "url": "https://open.spotify.com/track/64mNNFCixd4xABuozznJ55"
+    },
+    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -463,22 +479,6 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
-      "added_at": "2023-02-08 00:47:04",
-      "album": {
-        "name": "A Plague",
-        "url": "https://open.spotify.com/album/2csptUw9JiNnUrp10fGOks"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rabies",
-          "url": "https://open.spotify.com/artist/1IoH5ykVwG4K5c98iAhQYk"
-        }
-      ],
-      "duration_ms": 249648,
-      "name": "A Plague",
-      "url": "https://open.spotify.com/track/64mNNFCixd4xABuozznJ55"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Immature",
         "url": "https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Built On Sand",
         "url": "https://open.spotify.com/album/1lo6Q8QDFAZsjQYZIzCok4"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/5wEKnz6PAPW37NL5TgzX54"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Oportet 475",
         "url": "https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/65YpsPCRVa7texeE1e6ycl"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "50 Rapid",
         "url": "https://open.spotify.com/album/12KHiQS2bGzMYY7BRgGbaE"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Fatima",
         "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/4zGpxGMoGFZarHUpAzJURL"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
         "url": "https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Vibrats i pretensats",
         "url": "https://open.spotify.com/album/6NYlAvOo7H3s7tTFD3RvFS"
@@ -1085,7 +1085,23 @@
       "url": "https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
+      "album": {
+        "name": "Fatima",
+        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
+      },
+      "artists": [
+        {
+          "name": "Ruhail Qaisar",
+          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Sachu Melung",
+      "url": "https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD"
+    },
+    {
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Selkie",
         "url": "https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt"
@@ -1103,22 +1119,6 @@
       "duration_ms": 282000,
       "name": "Selkie",
       "url": "https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE"
-    },
-    {
-      "added_at": "2023-02-08 00:47:04",
-      "album": {
-        "name": "Fatima",
-        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
-      },
-      "artists": [
-        {
-          "name": "Ruhail Qaisar",
-          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Sachu Melung",
-      "url": "https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Toquei no Sol",
         "url": "https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "The Heart of the Anchoress",
         "url": "https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "sit on the floor and wait for storms",
         "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Potentials",
         "url": "https://open.spotify.com/album/2aLyjTjzAkJ9zri7aXVMRF"
@@ -1485,7 +1485,7 @@
       "url": "https://open.spotify.com/track/0v7PBdOegAk0iD4SAwjiOB"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Tell/Me/Why",
         "url": "https://open.spotify.com/album/3scIBQLqwRJPJzO9lJxx7Y"
@@ -1573,7 +1573,7 @@
       "url": "https://open.spotify.com/track/5ROwJU4eUjHaU9Nz1zUj4X"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Dot",
         "url": "https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE"
@@ -1629,7 +1629,7 @@
       "url": "https://open.spotify.com/track/5sn7wb1acIYLNYYOumVY6j"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Higher Purpose",
         "url": "https://open.spotify.com/album/5iLUzkrK0B9ug9E0COeka8"
@@ -1677,7 +1677,7 @@
       "url": "https://open.spotify.com/track/32ozwuHmjQNL0jDbD5Q5qk"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Metamito",
         "url": "https://open.spotify.com/album/5aUjG35lzFW8yjMbqNkUnW"
@@ -1693,7 +1693,7 @@
       "url": "https://open.spotify.com/track/3JQ3ya3fKNRcEYZh8AlVE5"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "POISON",
         "url": "https://open.spotify.com/album/021A9LjRYVtgWO7b6vqv4z"
@@ -1709,7 +1709,7 @@
       "url": "https://open.spotify.com/track/51YaNaTpv69eRNHRkOQaEM"
     },
     {
-      "added_at": "2023-02-08 00:47:04",
+      "added_at": "2023-02-09 00:45:59",
       "album": {
         "name": "Heard Upwards",
         "url": "https://open.spotify.com/album/48JDDwcRlVXlj9euSHGRib"

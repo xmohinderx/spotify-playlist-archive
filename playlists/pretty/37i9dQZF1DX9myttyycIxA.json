@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Cottonwood Firing Squad",
-  "num_followers": 279426,
+  "num_followers": 279555,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDZiNzdmZTgwY2VlN2NjMjA2ODc5ZGRlYzIyYzdkZGFh",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDQ1ZTVkYjI0YThkZGFhZTA5OWMwYmYwZjc2OWQ3YWU4",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV"
-      },
-      "artists": [
-        {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Ticking Bomb",
-      "url": "https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli"
-    },
-    {
       "added_at": "2022-11-17 17:47:18",
       "album": {
         "name": "Household Name",
@@ -455,6 +439,22 @@
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Ticking Bomb",
+      "url": "https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "i love you",
-        "url": "https://open.spotify.com/album/2y48btqmaBizAZsVp7bAVU"
-      },
-      "artists": [
-        {
-          "name": "two blinks, i love you",
-          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
-        }
-      ],
-      "duration_ms": 269963,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/0G1qD9ymU11Yzoo266q0AP"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Say It Now",
@@ -571,6 +555,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "i love you",
+        "url": "https://open.spotify.com/album/2y48btqmaBizAZsVp7bAVU"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "duration_ms": 269963,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/0G1qD9ymU11Yzoo266q0AP"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Barking Dog",
@@ -687,6 +671,22 @@
       "duration_ms": 187706,
       "name": "Barking Dog",
       "url": "https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/61wN5H9ijd5gZ3wR5e2zDv"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Hayday",
+        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 130606,
+      "name": "Dog Song 2",
+      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Miss Carolina (feat. Carlie Hanson)",
@@ -755,22 +771,6 @@
       "duration_ms": 156000,
       "name": "Miss Carolina (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/0QkPOadK79NBJtlG8R6JMF"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Hayday",
-        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 130606,
-      "name": "Dog Song 2",
-      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Forgetting Delaney",
-        "url": "https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Forgetting Delaney",
-      "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "SALTWATER SKY",
         "url": "https://open.spotify.com/album/3FkuX79QDbX1Zkt2kMsIO7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 136374,
       "name": "SALTWATER SKY",
       "url": "https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Forgetting Delaney",
+        "url": "https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Forgetting Delaney",
+      "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "how would you know",
+        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "how would you know",
+      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Nothing In Particular",
@@ -1203,22 +1219,6 @@
       "duration_ms": 171345,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "how would you know",
-        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
-      },
-      "artists": [
-        {
-          "name": "second thoughts",
-          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "how would you know",
-      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1269,20 +1269,20 @@
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "\u200evacation",
-        "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
+        "name": "French Blonde",
+        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
         }
       ],
-      "duration_ms": 230884,
-      "name": "\u200evacation",
-      "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
+      "duration_ms": 266584,
+      "name": "French Blonde",
+      "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "French Blonde",
-        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
+        "name": "\u200evacation",
+        "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
       },
       "artists": [
         {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
         }
       ],
-      "duration_ms": 266584,
-      "name": "French Blonde",
-      "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
+      "duration_ms": 230884,
+      "name": "\u200evacation",
+      "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
     },
     {
       "added_at": "2022-12-22 06:08:00",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "WASTELAND",
-      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Suburbia",
@@ -1383,22 +1367,6 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
-      },
-      "artists": [
-        {
-          "name": "Shy High",
-          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1433,6 +1401,54 @@
       "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
     },
     {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
+    },
+    {
+      "added_at": "2022-12-16 04:00:00",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Song About Love",
+        "url": "https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 222544,
+      "name": "Song About Love",
+      "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
+    },
+    {
       "added_at": "2022-12-20 17:28:48",
       "album": {
         "name": "Here Comes The Devil",
@@ -1453,20 +1469,20 @@
       "url": "https://open.spotify.com/track/3q616lz9fcp3n9siMPQQlM"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Song About Love",
-        "url": "https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq"
+        "name": "Sportswear",
+        "url": "https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "Hot Flash Heat Wave",
+          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
         }
       ],
-      "duration_ms": 222544,
-      "name": "Song About Love",
-      "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
+      "duration_ms": 243880,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 138302,
       "name": "Secrecies - feat. Sam Austins",
       "url": "https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Sportswear",
-        "url": "https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Flash Heat Wave",
-          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "Grudge",
-      "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
     },
     {
       "added_at": "2022-12-22 17:59:11",
@@ -1553,6 +1553,38 @@
       "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Breaking Up",
+        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
+    },
+    {
+      "added_at": "2022-12-09 06:32:00",
+      "album": {
+        "name": "drama",
+        "url": "https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "duration_ms": 223686,
+      "name": "show me the world",
+      "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Over And Over",
@@ -1577,38 +1609,6 @@
       "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
     },
     {
-      "added_at": "2022-12-09 06:32:00",
-      "album": {
-        "name": "drama",
-        "url": "https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd"
-      },
-      "artists": [
-        {
-          "name": "Surf Rock Is Dead",
-          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
-        }
-      ],
-      "duration_ms": 223686,
-      "name": "show me the world",
-      "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Breaking Up",
-        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Bucktooth",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU"
+        "name": "Waking Up 2 A Heartbreak",
+        "url": "https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L"
       },
       "artists": [
         {
-          "name": "FredAtlast",
-          "url": "https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55"
+          "name": "Max Volante",
+          "url": "https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon"
         }
       ],
-      "duration_ms": 267130,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
+      "duration_ms": 142031,
+      "name": "Waking Up 2 A Heartbreak",
+      "url": "https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ"
     }
   ],
   "unique_name": "undercurrents",

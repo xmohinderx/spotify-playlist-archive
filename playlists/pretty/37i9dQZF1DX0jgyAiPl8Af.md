@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,954,667 likes - 294 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,954,891 likes - 294 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 16 | [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 |
 | 17 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 |
 | 18 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 |
-| 19 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 1:47 |
+| 19 | [Intertwined](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 |
 | 20 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 |
 | 21 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 |
 | 22 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 |

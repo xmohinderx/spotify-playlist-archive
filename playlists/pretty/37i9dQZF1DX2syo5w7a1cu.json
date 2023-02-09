@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1990s.",
-  "num_followers": 468016,
+  "num_followers": 468697,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIzMTE1NywwMDAwMDAwMDk1ODg3ZTk0YzkzMjkyZWM1YTNlOWNlYjIzNTVjM2I1",
+  "snapshot_id": "MTY3NTIzMTE1NywwMDAwMDAwMDY5YjE5MWUxNmJjZjFlYTM1NzNhMDQzMjNmNmEzZmYy",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "I Don't Want To Miss A Thing EP",
         "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 299723,
       "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Extreme II: Pornograffitti (Deluxe)",
-        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Paid Vacation",
         "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "Extreme II: Pornograffitti (Deluxe)",
+        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 241026,
-      "name": "2 Become 1",
-      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+      "duration_ms": 334000,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "2 Become 1",
+      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
       },
@@ -1471,18 +1471,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Strange Foreign Beauty",
-        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Bryan White",
+          "url": "https://open.spotify.com/artist/45kyLFJs5SIEqyzfVopuSc"
         }
       ],
-      "duration_ms": 253093,
-      "name": "That's Why You Go Away",
-      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
+      "duration_ms": 281533,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/0Q7Jp3aCwfYnSnbMDoXWyR"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Strange Foreign Beauty",
+        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Bryan White",
-          "url": "https://open.spotify.com/artist/45kyLFJs5SIEqyzfVopuSc"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 281533,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/0Q7Jp3aCwfYnSnbMDoXWyR"
+      "duration_ms": 253093,
+      "name": "That's Why You Go Away",
+      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Patty Smyth",
-        "url": "https://open.spotify.com/album/1coATVsX722fGEulaiLMZM"
-      },
-      "artists": [
-        {
-          "name": "Patty Smyth",
-          "url": "https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz"
-        },
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Sometimes Love Just Ain't Enough",
-      "url": "https://open.spotify.com/track/3CUV8wsoTTKznGpEovrnZw"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Patty Smyth",
+        "url": "https://open.spotify.com/album/1coATVsX722fGEulaiLMZM"
+      },
+      "artists": [
+        {
+          "name": "Patty Smyth",
+          "url": "https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz"
+        },
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Sometimes Love Just Ain't Enough",
+      "url": "https://open.spotify.com/track/3CUV8wsoTTKznGpEovrnZw"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Blue Is The Colour",
-        "url": "https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful South",
-          "url": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Rotterdam (Or Anywhere)",
-      "url": "https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Painted Desert Serenade",
         "url": "https://open.spotify.com/album/1EEVf5UBSD4YlE1NBQXLfW"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 241253,
       "name": "Can You Feel the Love Tonight",
       "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Blue Is The Colour",
+        "url": "https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful South",
+          "url": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Rotterdam (Or Anywhere)",
+      "url": "https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Colours (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "25 Minutes - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
       },
@@ -2479,18 +2463,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "This Desert Life",
-        "url": "https://open.spotify.com/album/60561o2TNguqnXD5ZurDup"
+        "name": "Colours (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
       },
       "artists": [
         {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2a7NRfaVMfob2BvkBmOxA0"
+      "duration_ms": 264000,
+      "name": "25 Minutes - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2507,6 +2491,22 @@
       "duration_ms": 267440,
       "name": "You're Makin' Me High",
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "This Desert Life",
+        "url": "https://open.spotify.com/album/60561o2TNguqnXD5ZurDup"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2a7NRfaVMfob2BvkBmOxA0"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Quit Playing Games (With My Heart)",
-      "url": "https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Bedtime Stories",
         "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
@@ -2755,18 +2739,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Candle In The Wind 1997 / Something About ...",
-        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Candle In The Wind 1997",
-      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
+      "duration_ms": 233533,
+      "name": "Quit Playing Games (With My Heart)",
+      "url": "https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2787,6 +2771,22 @@
       "duration_ms": 346960,
       "name": "Don't Let the Sun Go Down on Me",
       "url": "https://open.spotify.com/track/0q90594hk25yo0xZmBTqCd"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Candle In The Wind 1997",
+      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2919,6 +2919,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
       },
@@ -2947,22 +2963,6 @@
       "duration_ms": 271933,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1RQnYh2xw2BPpnzQFbO5r5"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3019,6 +3019,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "Crash! Boom! Bang!",
+      "url": "https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -3031,6 +3047,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3067,22 +3099,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Enter The Dru",
         "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
@@ -3095,22 +3111,6 @@
       "duration_ms": 248400,
       "name": "These Are The Times",
       "url": "https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "Crash! Boom! Bang!",
-      "url": "https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3147,6 +3147,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 378906,
+      "name": "Let's Make A Night To Remember",
+      "url": "https://open.spotify.com/track/3wgNhWuV5gkcEkTgMBNcoA"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
       },
@@ -3163,18 +3179,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 378906,
-      "name": "Let's Make A Night To Remember",
-      "url": "https://open.spotify.com/track/3wgNhWuV5gkcEkTgMBNcoA"
+      "duration_ms": 234813,
+      "name": "Almost Unreal",
+      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3227,38 +3243,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "PHILADELPHIA - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Streets of Philadelphia",
-      "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Almost Unreal",
-      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
@@ -3275,18 +3259,34 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Wilson Phillips",
-        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW"
       },
       "artists": [
         {
-          "name": "Wilson Phillips",
-          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 295693,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"
+      "duration_ms": 355640,
+      "name": "Please Forgive Me",
+      "url": "https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "PHILADELPHIA - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
     }
   ],
   "unique_name": "Soft 90s",

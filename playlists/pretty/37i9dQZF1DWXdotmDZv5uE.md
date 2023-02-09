@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,575 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,600 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 35 | [La Malagueña](https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Huapangos](https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ) | 3:47 |
 | 36 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
 | 37 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
-| 38 | [Los machetes](https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:34 |
+| 38 | [La raspa](https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:53 |
 | 39 | [El Barrilito](https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4) | [Los Montanes Del Alamo](https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS) | [Antologia Musical 30 Exitos](https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7) | 2:28 |
 | 40 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 |
 | 41 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 43 | [Canto A Veracruz](https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 2:35 |
 | 44 | [La Guanabana](https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 6:00 |
 | 45 | [Huapango 2 El Violin](https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mariachi Vol\. 2](https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu) | 1:45 |
-| 46 | [La raspa](https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:53 |
-| 47 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
-| 48 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
+| 46 | [Los machetes](https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:34 |
+| 47 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
+| 48 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
 | 49 | [El chuchumbe](https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 3:28 |
 | 50 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
 | 51 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MTY2MTk2MDQ3OCwwMDAwMDAwMDU2OTljNzcxZDhiNDdjMzhhNmQxMzhjNTNlYTM4MjNj`
+Snapshot ID: `MTY2MTk2MDQ3OCwwMDAwMDAwMGVjOTQ1OTQyMWZlMmIxMzc1OTVlYjVmNzQ0ZTlmOWQz`

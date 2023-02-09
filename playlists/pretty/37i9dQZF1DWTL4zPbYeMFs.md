@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,104 likes - 41 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,137 likes - 41 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 3 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 |
 | 4 | [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 |
 | 5 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
-| 6 | [Shagun](https://open.spotify.com/track/1V3nPW84P7vDffxUAHtjJl) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Lagan](https://open.spotify.com/album/7EQqho3zZa8WyzHo3H0LLD) | 4:47 |
+| 6 | [Shagun](https://open.spotify.com/track/1V3nPW84P7vDffxUAHtjJl) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Mousam Mehta](https://open.spotify.com/artist/6TwlAFUoLtnJwumsxYhhex), [Malka Mehta](https://open.spotify.com/artist/2rrqD52eAe6byv62wB6RYq) | [Lagan](https://open.spotify.com/album/7EQqho3zZa8WyzHo3H0LLD) | 4:47 |
 | 7 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 |
 | 8 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 |
 | 9 | [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 |

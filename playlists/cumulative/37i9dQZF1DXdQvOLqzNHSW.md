@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-440 songs - 1 day 3 hr 23 min
+441 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2022-07-22 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2020-12-21 |  |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2022-11-30 | 2023-02-04 |
-| [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 | 2022-10-28 |  |
+| [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 | 2022-10-28 | 2023-02-09 |
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2020-12-21 | 2022-04-19 |
 | [Artificial Paradise](https://open.spotify.com/track/7GZbDEtQgsxZHMCgFM8EY4) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [Artificial Paradise](https://open.spotify.com/album/2kjw2iD5x4DP2asvv1nYyD) | 4:23 | 2020-12-21 | 2022-04-20 |
 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 | 2022-07-22 |  |
@@ -289,6 +289,7 @@
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2021-03-19 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2020-12-21 |  |
 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 | 2022-07-20 | 2023-02-02 |
+| [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 | 2022-10-28 |  |
 | [On My Own](https://open.spotify.com/track/2r7U3hj5DHC0QzED4nzXLL) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/6jv5wBOJur74jABIuHqs46) | 2:14 | 2020-12-21 | 2022-04-21 |
 | [On My Own](https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 2:14 | 2022-10-28 |  |
 | [On Your Side \- stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-08-13 | 2022-07-21 |

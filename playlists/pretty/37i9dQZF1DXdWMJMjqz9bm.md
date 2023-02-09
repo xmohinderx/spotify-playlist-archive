@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,157 likes - 71 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,328 likes - 71 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

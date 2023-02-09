@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Somebody's Child
 
-362 songs - 20 hr 23 min
+363 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 |  |
 | [Given Up](https://open.spotify.com/track/6U6SE6TIi5dkBtbeTpttuE) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up](https://open.spotify.com/album/4rgx764wUVuOBIydzikMEe) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 |  |
+| [Good Time](https://open.spotify.com/track/1njjXma9MKvrQqkIsnq8xl) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Good Time](https://open.spotify.com/album/6OoMTTMQYmZX8jPjp7ZjAB) | 3:11 | 2023-02-03 |  |
 | [Goodtime Girl](https://open.spotify.com/track/6UJjG07pInpl76t5sfbuoZ) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Goodtime Girl](https://open.spotify.com/album/6Ibu14uF72Paww9euwpsT3) | 4:10 | 2021-06-21 | 2022-08-19 |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-08-18 | 2022-10-13 |
 | [Gr8 Timing!](https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 2:37 | 2022-10-06 | 2023-01-16 |
@@ -151,7 +152,7 @@
 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 | 2022-08-18 | 2022-10-07 |
 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 | 2022-11-18 | 2023-01-01 |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 | 2023-02-01 |
-| [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-21 |  |
+| [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-21 | 2023-02-09 |
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-02-18 | 2022-08-19 |
 | [Hard to Hold On](https://open.spotify.com/track/6sBfW1MvCJnMK7pqHJr2zH) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Hard to Hold On](https://open.spotify.com/album/6DrlsSumD7fJUyuNoWV2AO) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Hard to Kill](https://open.spotify.com/track/7bU1WWo32oscVeFfZBzbCu) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Hard to Kill](https://open.spotify.com/album/10NTFSIWsBXA9zKJ4fMuxb) | 3:26 | 2021-03-09 | 2022-01-17 |

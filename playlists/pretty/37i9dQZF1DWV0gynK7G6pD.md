@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,516 likes - 70 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,666 likes - 70 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 3 | [Suite No\. 7 in B\-Flat Major, HWV 440: III\. Sarabande](https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 2:36 |
 | 4 | [The Arctic Suite: I\. Frozen World](https://open.spotify.com/track/2CSDYt8EYIsZtDQuv3OdgJ) | [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [Arctic](https://open.spotify.com/album/6zjO4KFrZqymBNORPdm1CE) | 6:06 |
 | 5 | [The Duchess: Piano Suite](https://open.spotify.com/track/1wfdUzXPsvJyzr3MQCRApi) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess: Piano Suite](https://open.spotify.com/album/6Lqh1dQCacYPK33Iioobj9) | 2:32 |
-| 6 | [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 |
+| 6 | [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 |
 | 7 | [WTC 9/11: III\. WTC](https://open.spotify.com/track/71YuxxjjYPxL90M351cf0u) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Mivos Quartet](https://open.spotify.com/artist/4K3g1qJ73PGZgIQgAcgjQj) | [Steve Reich: The String Quartets](https://open.spotify.com/album/0amlo8GN6h7ChMUJvRpHbM) | 4:37 |
 | 8 | [Adoration \(Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/track/7BXEyMmzTPhGVtRmcNC1pK) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Lucerne Festival Strings](https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc), [Daniel Dodds](https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY) | [Femmes](https://open.spotify.com/album/7dXJjabk2Fcn4lE3g3VpPU) | 3:19 |
 | 9 | [la chute \(piano\)](https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [la chute \(piano\)](https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-237 songs - 15 hr 30 min
+238 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [I Still](https://open.spotify.com/track/7gkzWnzYtxsnT7VaAefDVU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still](https://open.spotify.com/album/51apaO1KFFjLvJuPkJjFxb) | 3:07 | 2022-02-17 |  |
 | [I Still Love You](https://open.spotify.com/track/44AbcJTKmV3hipk9gKgUbA) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [I Still Love You](https://open.spotify.com/album/58LRkeFZ6NSRqs0WFFZFoY) | 4:25 | 2022-02-17 |  |
 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 | 2022-02-17 |  |
-| [I Still love you a lot](https://open.spotify.com/track/3cZvGx80KaW9PrJ0OBez7o) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still love you a lot](https://open.spotify.com/album/1vfkbNsnBmRRjI4q4dMAgR) | 4:35 | 2022-02-17 |  |
+| [I Still love you a lot](https://open.spotify.com/track/3cZvGx80KaW9PrJ0OBez7o) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still love you a lot](https://open.spotify.com/album/1vfkbNsnBmRRjI4q4dMAgR) | 4:35 | 2022-02-17 | 2023-02-09 |
 | [I think, I'm drunk](https://open.spotify.com/track/76IgJWnN9nX4jtJRnRQByE) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [I think, I'm drunk](https://open.spotify.com/album/3tkYpGCXSrF0CXlmLBwvsV) | 3:35 | 2022-02-23 |  |
 | [I think, I\`m drunk](https://open.spotify.com/track/5nX7jqHYtyqkaeGze8wAgg) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [I think, I\`m drunk](https://open.spotify.com/album/103RXBDOF5HKDThQbHQCr9) | 3:35 | 2022-02-17 | 2022-07-29 |
 | [I will be your shining star](https://open.spotify.com/track/7hSxOrxogaR7YGpg4l8wmd) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [I will be your shining star](https://open.spotify.com/album/2NjUvZ0qdGQakCdzVRbXup) | 3:41 | 2022-02-17 |  |
@@ -228,6 +228,7 @@
 | [달라달라 DALLA DALLA](https://open.spotify.com/track/6G7DuXoSGeAf6BZivJdEjF) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/2gHd5bCrj42s8nwwXBALd4) | 3:19 | 2021-03-11 | 2022-02-18 |
 | [모르시죠](https://open.spotify.com/track/2bLCWejmjDZS32CWswfdhK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/0yhmrnMwKTcXZhBwM1HJ1w) | 3:35 | 2022-02-23 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2022-02-17 |  |
+| [사랑이란 멜로는 없어](https://open.spotify.com/track/0CGovscVJUxLASfj6KnVwO) | [Jeon Sang Geun](https://open.spotify.com/artist/6MfFHNKaZ7lAQsm52eLNvJ) | [사랑이란 멜로는 없어](https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5) | 4:35 | 2022-02-23 |  |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2022-02-17 |  |
 | [서툰 이별을 하려해](https://open.spotify.com/track/4so85rrFc5TCgT6rd2vweV) | [Yountoven](https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [서툰 이별을 하려해](https://open.spotify.com/album/67bM1eAH4Sn29yE3wOeiJc) | 4:01 | 2022-02-17 |  |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-02-17 |  |

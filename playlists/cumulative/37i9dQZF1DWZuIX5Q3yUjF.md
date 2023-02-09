@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Sacky
 
-267 songs - 13 hr 11 min
+268 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 | 2022-08-12 |
 | [Paloma](https://open.spotify.com/track/3HKKh1DDcgRxOFAFFd0sAi) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Paloma](https://open.spotify.com/album/7051vm5XsmQ96gajI3qhcm) | 2:26 | 2022-10-13 |  |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 |  |
+| [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 | 2023-02-09 |  |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 | 2022-07-29 |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 | 2022-09-16 |
 | [Paura](https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Raffaele Sperati](https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW) | [Paura](https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp) | 3:14 | 2022-07-17 |  |
@@ -248,7 +249,7 @@
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 | 2022-10-21 |
 | [Tardi](https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Tardi](https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw) | 3:10 | 2023-02-02 |  |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 | 2022-11-11 |
-| [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 |  |
+| [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 | 2023-02-09 |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 |  |
 | [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 | 2023-01-26 |
 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |

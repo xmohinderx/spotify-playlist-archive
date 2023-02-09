@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,286 likes - 97 songs - 5 hr 13 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,297 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 20 | [Fuerza Vocal](https://open.spotify.com/track/4feH6J8GiazximCINmxvxa) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF), [Zara Monrroy](https://open.spotify.com/artist/3aowb82qA25g96n68zJIIx), [DJ Rakalku](https://open.spotify.com/artist/0zumQDPW1fSzDNRZV0NXVy) | [Fuerza Vocal](https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys) | 4:10 |
 | 21 | [La semilla](https://open.spotify.com/track/4Dtferefm6ZtaxNQan5S67) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [La semilla](https://open.spotify.com/album/0kmls45Sfypbi3waz6FM5N) | 3:57 |
 | 22 | [WORK IT](https://open.spotify.com/track/4dcUO41NE52nEUoU2zc4ed) | [El Dongo](https://open.spotify.com/artist/1Vh3FgVkGzT5sprNoKWZDp) | [WORK IT](https://open.spotify.com/album/765D1o0mjOhdFY1OD4m2hK) | 2:36 |
-| 23 | [No se lo digas a nadie](https://open.spotify.com/track/350hBsarKnSCkJKgph0ezw) | [Enrique Cofiner](https://open.spotify.com/artist/1xIXyShBHerYFnmxtP2JQ8) | [No se lo digas a nadie](https://open.spotify.com/album/1Wp9RD30CZdFrTFOME5de8) | 4:03 |
+| 23 | [No se lo digas a nadie](https://open.spotify.com/track/350hBsarKnSCkJKgph0ezw) | [Enrique Cofiner](https://open.spotify.com/artist/1xIXyShBHerYFnmxtP2JQ8), [Carles Marigó](https://open.spotify.com/artist/6ndjWMlsnF4vbvXNzW3nWu), [Anna Colom](https://open.spotify.com/artist/6SvcIs2gMhe8kxWXnF8lVk) | [No se lo digas a nadie](https://open.spotify.com/album/1Wp9RD30CZdFrTFOME5de8) | 4:03 |
 | 24 | [Scars On My Skin](https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Scars On My Skin](https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0) | 3:04 |
 | 25 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
 | 26 | [I'm A Wreck](https://open.spotify.com/track/10l63bOCdOr4FujGlE2UPQ) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [I'm A Wreck](https://open.spotify.com/album/0f8CD9g7Kc3JsF8E3Ry4my) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,986 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,023 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,35 +37,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 27 | [Peço Pra Você](https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP) | [Camilla Leonel](https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx), [SCALON](https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N) | [Peço Pra Você](https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS) | 3:00 |
 | 28 | [Nossa História](https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q) | [Nossa História](https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC) | 2:40 |
 | 29 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
-| 30 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 |
-| 31 | [Escuro \- Remix](https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Escuro \(Remix\)](https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T) | 3:04 |
-| 32 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
+| 30 | [Brisa](https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Brisa](https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME) | 3:31 |
+| 31 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 |
+| 32 | [Escuro \- Remix](https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Escuro \(Remix\)](https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T) | 3:04 |
 | 33 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
 | 34 | [4 Da Tarde](https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [4 Da Tarde](https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0) | 2:48 |
 | 35 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 |
 | 36 | [foda que ela era linda](https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Foi Mal](https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD) | 3:11 |
 | 37 | [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 |
-| 38 | [Você Chegou na Hora Certa](https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Você Chegou na Hora Certa](https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln) | 2:28 |
-| 39 | [Você Sabe](https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF) | 2:35 |
-| 40 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 |
+| 38 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 |
+| 39 | [Você Chegou na Hora Certa](https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Você Chegou na Hora Certa](https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln) | 2:28 |
+| 40 | [Você Sabe](https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF) | 2:35 |
 | 41 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 |
 | 42 | [Bady](https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug) | [VINÍCIUS](https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1) | [Bady](https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn) | 2:59 |
 | 43 | [Sabotagem](https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f), [Auler](https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m) | [Sabotagem](https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N) | 2:46 |
-| 44 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 |
-| 45 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 |
-| 46 | [bem vi](https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7) | [bela](https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD) | [bem vi](https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a) | 3:17 |
+| 44 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 |
+| 45 | [bem vi](https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7) | [bela](https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD) | [bem vi](https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a) | 3:17 |
+| 46 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 |
 | 47 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 |
 | 48 | [\(\(\(Vênus\)\)\)](https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD) | [Rizzih](https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64) | [Poema Suspenso](https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I) | 2:58 |
 | 49 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [LOX](https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 |
 | 50 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 |
 | 51 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |
 | 52 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 |
-| 53 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 |
-| 54 | [Casal Desgraça](https://open.spotify.com/track/1RGMYjYw9gAfP5rz8R2ZHV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Casal Desgraça](https://open.spotify.com/album/2wzCQxJVQ2G7x2mV5azI5j) | 2:43 |
+| 53 | [Casal Desgraça](https://open.spotify.com/track/1RGMYjYw9gAfP5rz8R2ZHV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Casal Desgraça](https://open.spotify.com/album/2wzCQxJVQ2G7x2mV5azI5j) | 2:43 |
+| 54 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 |
 | 55 | [Vício Que Cê Tem Em Mim](https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Vício Que Cê Tem Em Mim](https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg) | 2:42 |
 | 56 | [Surrender!](https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Surrender!](https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x) | 3:09 |
-| 57 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
-| 58 | [Me Liga](https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Me Liga](https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM) | 2:56 |
+| 57 | [Me Liga](https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Me Liga](https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM) | 2:56 |
+| 58 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 |
 | 59 | [Tá Subindo](https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF) | [Clara Tannure](https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq) | [PSEUDODRAMA](https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ) | 2:26 |
 | 60 | [Quartinho](https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE) | [Casali](https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ) | [Quartinho](https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV) | 2:13 |
 | 61 | [Hortelã](https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Hortelã](https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [até você](https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG) | [Bruna Croce](https://open.spotify.com/artist/6IPowWKx0KM4slm6cXAlC2) | [delirar](https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD) | 3:40 |
 | 80 | [Máfia](https://open.spotify.com/track/2ATyqTOa2IROqjP1laQGle) | [Lil Keef](https://open.spotify.com/artist/4W3yMfi6HUVxWEq2qVt7Nt) | [Máfia](https://open.spotify.com/album/63wxSYDicTNV3n5ueRtaU5) | 2:04 |
 
-Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDJmZmIxZDZkMjU0ZGU3YjE5MDRkN2I0NTcyYWIyMjY5`
+Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMGU5MjllZjM4ZGI2NDVkMjY3YzllNmFiODA2NDdjMzYw`

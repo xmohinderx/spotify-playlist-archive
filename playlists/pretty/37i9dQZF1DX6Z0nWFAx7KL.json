@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 29092,
+  "num_followers": 29118,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGIxYjBkNjc5NzA2ZTA3N2E3ZmUxYWIyZmE5NTczZTYy",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDFhMTZmZGNjYzUzNmExYjkyMzI2MjBmMzRkYjYwNzhi",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
       },
       "artists": [
         {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Sunday Monday",
-        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
         }
       ],
-      "duration_ms": 147096,
-      "name": "Sunday Monday",
-      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -643,22 +643,6 @@
       "duration_ms": 168000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -683,6 +667,22 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Talk (Remixes)",
+        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 192928,
+      "name": "Talk (with Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Talk (Remixes)",
-        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 192928,
-      "name": "Talk (with Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        },
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Put Your Lips On Mine",
         "url": "https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 164453,
       "name": "Put Your Lips On Mine",
       "url": "https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 171696,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "See You On The Other Side",
-        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 241061,
-      "name": "See You On The Other Side",
-      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Out Of Love",
-        "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
+        "name": "From The Start (feat. Veronica)",
+        "url": "https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt"
       },
       "artists": [
         {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+          "name": "Takis",
+          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
+        },
+        {
+          "name": "Veronica",
+          "url": "https://open.spotify.com/artist/6yNer6qvaSzSUpOezir835"
         }
       ],
-      "duration_ms": 155263,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
+      "duration_ms": 183856,
+      "name": "From The Start (feat. Veronica)",
+      "url": "https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76"
     }
   ],
   "unique_name": "Dance Chill",

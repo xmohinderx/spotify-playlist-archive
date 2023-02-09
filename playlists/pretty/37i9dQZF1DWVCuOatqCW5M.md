@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shekhar Ravjiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,974 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,991 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 9 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 |
 | 10 | [Preet](https://open.spotify.com/track/2XeX2lVTjO0TY6Jk0SE6dx) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Preet](https://open.spotify.com/album/6bPq1Wlr8b82YuEQMne1sJ) | 4:19 |
 | 11 | [Tu Hii To](https://open.spotify.com/track/7IOvVy5KChrDKWlX5Foeet) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tu Hii To](https://open.spotify.com/album/4B3SnJkt4tgj2uxOyHpyvH) | 4:01 |
-| 12 | [Dil Churane Lage Ho \- From "Jannatein"](https://open.spotify.com/track/2FqN10gkrCZIeKlcEka9r1) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Poonam Naruka](https://open.spotify.com/artist/3ltJAEPIqC61hhtZDH4E17) | [Dil Churane Lage Ho \(From "Jannatein"\)](https://open.spotify.com/album/43BR8qpwQjs9S7dSE7t3M7) | 3:24 |
+| 12 | [Dil Churane Lage Ho \- From "Jannatein"](https://open.spotify.com/track/2FqN10gkrCZIeKlcEka9r1) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA), [Poonam Naruka](https://open.spotify.com/artist/3ltJAEPIqC61hhtZDH4E17) | [Dil Churane Lage Ho \(From "Jannatein"\)](https://open.spotify.com/album/43BR8qpwQjs9S7dSE7t3M7) | 3:24 |
 | 13 | [Socho](https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Socho](https://open.spotify.com/album/7oOlVtccWmt39tQJU61eLb) | 3:18 |
 | 14 | [Achha Sila Diya](https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5) | [Achha Sila Diya](https://open.spotify.com/album/7cwXuOBoenVpKagfx3BAzF) | 5:17 |
 | 15 | [Tu Mile Dil Khile](https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Tu Mile Dil Khile \- Single](https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm) | 3:17 |

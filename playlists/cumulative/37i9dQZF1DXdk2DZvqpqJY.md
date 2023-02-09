@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-241 songs - 15 hr 16 min
+242 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [It's Time](https://open.spotify.com/track/1FPIgbXsCqB1ZuDpV8Godz) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [It's Time](https://open.spotify.com/album/2R0k5MBbrtS1ZGi8qJULqU) | 5:22 | 2022-02-17 | 2022-09-09 |
 | [Jazzshades](https://open.spotify.com/track/14mPpgmuAVacZ5V1h7OeTG) | [Pawcut](https://open.spotify.com/artist/0el9N0gW4ROadV7V1IPaI5), [Pseudo Slang](https://open.spotify.com/artist/0uyoJUPJgYkFkLoEyeWAV9), [Phillip Dornbusch](https://open.spotify.com/artist/6t72xraCq8QnZxzoaiBrmL) | [Jazzshades](https://open.spotify.com/album/7sjATdQmU3WWQ30kzlWoo5) | 2:46 | 2022-06-02 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2022-06-02 |  |
+| [Jour Soleil](https://open.spotify.com/track/2vFmsUYWbYrZShKIaVntQm) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [Jour Soleil](https://open.spotify.com/album/4U8gL5ZAxh9letyUEivtRY) | 4:32 | 2023-02-08 |  |
 | [Jumbled](https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [THE HEIST](https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W) | 3:25 | 2022-06-02 |  |
 | [Just Wrong](https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Just Wrong](https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd) | 4:44 | 2022-02-24 | 2022-04-28 |
 | [KNFYTNM](https://open.spotify.com/track/32xteHW5eOsL406D6a5uf1) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Saucy Experiments](https://open.spotify.com/album/3pT0BraDKSpJ24WtUruJ6n) | 2:55 | 2022-06-02 |  |
@@ -184,7 +185,7 @@
 | [Special Blend](https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Special Blend](https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO) | 2:44 | 2022-02-17 |  |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2022-02-17 |  |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2022-05-24 |  |
-| [Still Dancing](https://open.spotify.com/track/0VUsyT5GKsCBOL3gZ7cytw) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [The Cradle \(Deluxe Edition\)](https://open.spotify.com/album/5cJoW49fVv9pMkUK9iI4Sl) | 4:53 | 2022-08-11 |  |
+| [Still Dancing](https://open.spotify.com/track/0VUsyT5GKsCBOL3gZ7cytw) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [The Cradle \(Deluxe Edition\)](https://open.spotify.com/album/5cJoW49fVv9pMkUK9iI4Sl) | 4:53 | 2022-08-11 | 2023-02-09 |
 | [Still Dancing](https://open.spotify.com/track/0lBjQpfSDYrqlspqXYXNXv) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Still Dancing](https://open.spotify.com/album/4RjQTZbxSzifzJwajYnEqA) | 4:53 | 2022-03-11 | 2022-07-28 |
 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 | 2022-02-17 |  |
 | [Stonehouse](https://open.spotify.com/track/1ZL4KD9Lk08xuqwe8ynleU) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [Dive](https://open.spotify.com/album/0CP956nwKDWk9bRqLslqSw) | 3:54 | 2022-06-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,866 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,132 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 89 | [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 |
 | 90 | [London Chimes](https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters: The Greatest Hits](https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ) | 4:11 |
 | 91 | [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 |
-| 92 | [Mallorca](https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Can You Feel It](https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs) | 4:07 |
-| 93 | [Brazil Chill](https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Phil Hamilton](https://open.spotify.com/artist/3mB3iEjlSs9C6sU89Ye413), [Ivan Conte](https://open.spotify.com/artist/2U62U5AIuNn6n7VnEiNiCr), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:22 |
+| 92 | [Brazil Chill](https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Phil Hamilton](https://open.spotify.com/artist/3mB3iEjlSs9C6sU89Ye413), [Ivan Conte](https://open.spotify.com/artist/2U62U5AIuNn6n7VnEiNiCr), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:22 |
+| 93 | [Mallorca](https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Can You Feel It](https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs) | 4:07 |
 | 94 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 |
 | 95 | [Dry Your Eyes](https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:19 |
 | 96 | [A Short Walk From Home](https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 |
 | 100 | [Together At Last](https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 5:05 |
 
-Snapshot ID: `MTY3NTc3MzU4NiwwMDAwMDAwMDkwZmM4MmI0MDg4YjMzZTM4ZTdiYmE4ZTY3ZTA4N2Rj`
+Snapshot ID: `MTY3NTc3MzU4NiwwMDAwMDAwMGFlOWVmNzA0YzY5OGU4ZmVhNDIwODllNGIyNzFjMGY4`

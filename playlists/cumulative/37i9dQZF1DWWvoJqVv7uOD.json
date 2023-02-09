@@ -3051,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "album": {
         "name": "I Wanna Feel Good",
         "url": "https://open.spotify.com/album/1s6h54FeQ45AQ9l7xOHnuO"
       },

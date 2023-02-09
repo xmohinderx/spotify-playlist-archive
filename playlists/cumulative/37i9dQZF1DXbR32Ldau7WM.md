@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: 稲葉浩志
 
-471 songs - 1 day 7 hr 5 min
+474 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [COMEBACK \-愛しき破片\-](https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [COMEBACK \-愛しき破片\-](https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3) | 4:26 | 2022-09-29 | 2022-11-02 |
 | [Crap Shit](https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Crap Shit](https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv) | 2:30 | 2022-08-16 | 2022-08-24 |
 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 | 2022-11-22 | 2022-12-14 |
+| [Dani](https://open.spotify.com/track/5ykMYNZv2E8iPKZFkuxJC6) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/22V3Kxi5wlfh6V2jt39Q2I) | 4:29 | 2023-02-07 |  |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
 | [Dissonance](https://open.spotify.com/track/1CrnXecXRz73LB25Vw3ND7) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/1JRmHQvZfk76RDYGEiBxAi) | 4:57 | 2023-02-03 |  |
 | [Dissonance](https://open.spotify.com/track/3uOdwLjez9Zq4jQcMSlajN) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Dissonance](https://open.spotify.com/album/3q13ZnL6DVS8xnvBx2wG5e) | 4:57 | 2023-02-02 | 2023-02-04 |
@@ -126,6 +127,7 @@
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-18 |  |
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2022-11-16 |
+| [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 |  |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-08 |  |
@@ -279,7 +281,8 @@
 | [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 | 2023-02-01 |
 | [Very Special](https://open.spotify.com/track/3LXHBMFOo9h9BemsSp9NDq) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Very Special](https://open.spotify.com/album/2QzJ56blkzDzS50a9xZcNa) | 3:03 | 2022-11-29 | 2022-12-21 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 |  |
-| [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2023-02-07 |  |
+| [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 | 2023-02-07 |  |
+| [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2023-02-07 | 2023-02-09 |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
 | [When the Ship Rolls In](https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Adjusted](https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz) | 4:07 | 2022-12-13 | 2022-12-21 |
@@ -329,7 +332,7 @@
 | [キラーチューン](https://open.spotify.com/track/5YTV52nMvvHrH9uTbk1ll7) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Timeless Communications](https://open.spotify.com/album/3tMdfapqxRdkPArc2zxeoV) | 3:25 | 2022-05-17 | 2022-07-29 |
 | [ギムレットには早すぎる](https://open.spotify.com/track/4kRNvgIaeVI3jMzQY85Pio) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [OVER THE 9](https://open.spotify.com/album/3pUntJ51rsJWQPL6W5Bs9P) | 3:43 | 2022-11-01 | 2022-12-14 |
 | [ギムレットには早すぎる](https://open.spotify.com/track/7CiyZc2GaNrPdZ4HjaPWCF) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ギムレットには早すぎる](https://open.spotify.com/album/4DiVPnf9leDsfYNxqTRHH7) | 3:43 | 2022-10-20 | 2022-11-03 |
-| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 |  |
+| [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
 | [クチナシの花](https://open.spotify.com/track/6PQ3orVQCO2V6UFB2m22J5) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [coordinate SIX](https://open.spotify.com/album/6RJ0eXwDJgen7QuU6eBBG9) | 4:29 | 2022-08-23 | 2022-09-07 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-13 |
 | [ココカラ銀座](https://open.spotify.com/track/4nOYiE2HLDen03WXEN0iNw) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [ココカラ銀座](https://open.spotify.com/album/7j4JuldCckd7krjlvHcVfC) | 4:34 | 2022-05-10 | 2022-05-21 |
@@ -347,7 +350,7 @@
 | [タイトロープ](https://open.spotify.com/track/0CwB5GNF5HihvrxGlYhyvD) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 4:15 | 2022-08-23 | 2022-10-05 |
 | [タイマン・ファンタジー](https://open.spotify.com/track/1kSoNgf1LSTEQ1NWmqZEwT) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [タイマン・ファンタジー](https://open.spotify.com/album/5hvWTCctUZlwPPEtfFGnuG) | 5:08 | 2022-12-06 | 2022-12-21 |
 | [タタカエブリバディ](https://open.spotify.com/track/6HuaMfd51muvgrwhJs4F9X) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [タタカエブリバディ](https://open.spotify.com/album/1F6ZHIzZ37d6AmY6OyOaV0) | 4:20 | 2022-05-10 | 2022-07-24 |
-| [ダニ](https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe) | 4:29 | 2023-02-07 |  |
+| [ダニ](https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe) | 4:29 | 2023-02-07 | 2023-02-09 |
 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 |  |
 | [ツイス島&シャウ島](https://open.spotify.com/track/2zj6zuZJG0t0nYmDIthbEm) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ツイス島&シャウ島](https://open.spotify.com/album/1kRmUc2mjUeROgPvI6Kvza) | 4:07 | 2022-05-17 | 2022-06-04 |
 | [ツーベーコーベー](https://open.spotify.com/track/6rFUgYqJVGtlUDsj55NZWF) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ツーベーコーベー](https://open.spotify.com/album/1IwC7sKrMJium5uOs2iQRq) | 3:31 | 2022-10-18 | 2022-10-20 |

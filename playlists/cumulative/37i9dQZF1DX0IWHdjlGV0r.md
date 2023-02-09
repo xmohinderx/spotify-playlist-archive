@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Neima Ezza
 
-108 songs - 5 hr 42 min
+109 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 | 2022-05-03 |  |
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-05-03 |  |
-| [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:11 | 2022-11-03 |  |
+| [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/40NmOAMiiuqFSKJnUxHovo) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 3:11 | 2023-02-01 |  |
+| [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:11 | 2022-11-03 | 2023-02-09 |
 | [Brivido](https://open.spotify.com/track/52dGHpZuhlsB28gV4z6MSv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Grandi Classici Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/1lCXo2TP1ryw3AsaTgwDac) | 3:47 | 2022-11-07 | 2022-11-14 |
 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 | 2022-07-28 |  |
 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 | 2022-05-03 | 2022-07-29 |

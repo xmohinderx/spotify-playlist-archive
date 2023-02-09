@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 75801,
+  "num_followers": 75968,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDdlN2UwMjMyMjIyYWRjYTQ0MWUyYTlhMzIzNzM5MWMz",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGJkOGJkMjAyNTk5YmE0MmE1YTFjYTY3NTU1NzY0ODA5",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Kill Your Heroes",
-      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Kill Your Heroes",
+      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 259506,
       "name": "Itchin' on a Photograph",
       "url": "https://open.spotify.com/track/01nkjRsgpYwtbH94l7y4cg"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
-      "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
+      "duration_ms": 234920,
+      "name": "She's Thunderstorms",
+      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 234920,
-      "name": "She's Thunderstorms",
-      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
+      "duration_ms": 183506,
+      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
+      "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
     },
     {
       "added_at": "2021-09-02 08:15:11",

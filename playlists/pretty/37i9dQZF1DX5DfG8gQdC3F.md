@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from RAYE \(pictured\), Shania Twain, JID ft\. Lute, Lyn Lapid ft\. Ruth B, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,553 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,555 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 |
 | 68 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 69 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 |
-| 70 | [Mahima Satguru Di](https://open.spotify.com/track/754PvnA1BoWm8c8YoYrIwr) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Mahima Satguru Di](https://open.spotify.com/album/4CtcCa7UjxPAoqXoV44Iar) | 3:18 |
+| 70 | [Mahima Satguru Di](https://open.spotify.com/track/754PvnA1BoWm8c8YoYrIwr) | [Fateh](https://open.spotify.com/artist/5C13UHHffYBh7MZraE2Tva) | [Mahima Satguru Di](https://open.spotify.com/album/4CtcCa7UjxPAoqXoV44Iar) | 3:18 |
 | 71 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 |
 | 72 | [Running Loose](https://open.spotify.com/track/7gIsweU9wPiX525caZVglz) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Running Loose](https://open.spotify.com/album/4GOqt9sG3DojO5Zgv3x3uH) | 4:20 |
 | 73 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 |

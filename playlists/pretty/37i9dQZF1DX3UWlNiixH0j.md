@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. Cover: GEZAN & Million Wish Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,150 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,181 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 19 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 |
 | 20 | [たりないぼくら](https://open.spotify.com/track/4RwQK5CQQWMy77xbOukdYN) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [たりないぼくら](https://open.spotify.com/album/6hY8MJzTmUkw5MekeDre54) | 4:08 |
 | 21 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 |
-| 22 | [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 |
+| 22 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 |
 | 23 | [sweet vertigo](https://open.spotify.com/track/6k0QnSV8s0LuQBhWWtB21c) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 4:31 |
 | 24 | [Dancing](https://open.spotify.com/track/4Aj3dm1ryaip9mVQRbJDXh) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [未来からきた人](https://open.spotify.com/album/7JjAs2x4QWKXm96SvIreSJ) | 3:12 |
 | 25 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 72 | [Far Dreams \- feat\. Misi Ke](https://open.spotify.com/track/3ArK2i4nAkdyZbWNUSe1O0) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Far Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/5y651XrkWm9tVLTgbWazi4) | 2:54 |
 | 73 | [RAINBOW](https://open.spotify.com/track/0RH0ixWWULcPcG48aXX5Y6) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [RAINBOW](https://open.spotify.com/album/31JC7DKLZhDpMvYVHEfpSB) | 2:12 |
 | 74 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 |
-| 75 | [はるのうた](https://open.spotify.com/track/4riu1LebCr8xXjzQ5xBrPw) | [雨先案内人](https://open.spotify.com/artist/1LZhc9gTEbgA3X6e08EerJ) | [はるのうた](https://open.spotify.com/album/18jrsiF8GoY7MRhjpquue7) | 4:29 |
+| 75 | [HARU NO UTA](https://open.spotify.com/track/70IHg9snNwcH3UxT9F7FLM) | [Amesaki Annainin](https://open.spotify.com/artist/0XEsEWLXd1xYxp3oRbcSNE) | [Haru No Uta](https://open.spotify.com/album/0SYk6lfo4ixxsZeynroip5) | 4:29 |
 
-Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDNmOTJhYmE5MWQzMzBkMjY3ZTM4YzJjZDYwNDFjNWQw`
+Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMGNkZWEwMzNmYjBkZmRjMWM1Y2M2OThjNWM2Njk3MTFj`

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 356035,
+  "num_followers": 356386,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5NDc0MiwwMDAwMDAwMGIwMjJkODdkMGQ0MDlkZDcwNWYwOWJlNGQwMDQwNzkw",
+  "snapshot_id": "MTY3NTA5NDc0MiwwMDAwMDAwMDEzNGVmY2IyODg4YmRlMjczNzE3MDQxYWQ1NWE4YTQ4",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -711,6 +711,30 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Fool's Paradise (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        },
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Fool's Paradise - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Home (Mind Against Remix)",
         "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Fool's Paradise (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
-      },
-      "artists": [
-        {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
-        },
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Fool's Paradise - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 276005,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Body Language, Vol. 24",
@@ -941,7 +925,23 @@
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
-      "added_at": "2023-02-08 00:25:33",
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
+    },
+    {
+      "added_at": "2023-02-09 00:58:10",
       "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Endup",
-        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 483824,
-      "name": "Palomita",
-      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Balafonerra",
         "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
       },
@@ -1075,22 +1059,6 @@
       "duration_ms": 251465,
       "name": "Balafonerra",
       "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Barry",
-        "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 409844,
-      "name": "Barry",
-      "url": "https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1107,6 +1075,38 @@
       "duration_ms": 361187,
       "name": "Sun",
       "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Endup",
+        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 483824,
+      "name": "Palomita",
+      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2023-01-20 18:19:24",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Barry",
+        "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 409844,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        }
-      ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        }
+      ],
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1231,26 +1231,6 @@
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "A380",
-        "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Mercurio",
-          "url": "https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG"
-        }
-      ],
-      "duration_ms": 286727,
-      "name": "A380",
-      "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
     },
     {
       "added_at": "2022-08-01 18:07:32",
@@ -1299,6 +1279,42 @@
       "duration_ms": 220524,
       "name": "Little Darling",
       "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "A380",
+        "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG"
+        }
+      ],
+      "duration_ms": 286727,
+      "name": "A380",
+      "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Waves of the Soul",
+        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Waves of the Soul",
+      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Waves of the Soul",
-        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Waves of the Soul",
-      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
+    },
+    {
       "added_at": "2022-12-09 19:43:58",
       "album": {
         "name": "Let Us Be Free",
@@ -1521,36 +1537,20 @@
       "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
       "artists": [
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Trife",
-        "url": "https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Trife",
-      "url": "https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v"
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2022-11-18 16:29:16",
@@ -1589,20 +1589,20 @@
       "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+        "name": "Trife",
+        "url": "https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf"
       },
       "artists": [
         {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
         }
       ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+      "duration_ms": 224516,
+      "name": "Trife",
+      "url": "https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1623,6 +1623,26 @@
       "duration_ms": 300798,
       "name": "Hypertrophy of Heart",
       "url": "https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1663,26 +1683,6 @@
       "duration_ms": 414171,
       "name": "Kiss - Colyn & Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6GgbPOVOGcem6CtVbCcR5o"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Duel",
         "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 574838,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1825,6 +1825,22 @@
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 456745,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Another Brick In The Wall",
@@ -1843,22 +1859,6 @@
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 456745,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
     },
     {
       "added_at": "2022-07-01 04:01:00",

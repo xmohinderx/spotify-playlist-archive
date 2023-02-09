@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos rom\u00e1nticos y eternos. Foto: Alejandro Sanz",
-  "num_followers": 2005789,
+  "num_followers": 2005950,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzNjg5NywwMDAwMDAwMGExZDJjNTgyOWExYWZmZDE4MjIzYzlmM2E2ODUzNmJk",
+  "snapshot_id": "MTY3MzAzNjg5NywwMDAwMDAwMGEyMjJjMTc0MGEwM2MzNzgxNGQ0YTQyOTAwODRjOTY2",
   "tracks": [
     {
       "added_at": "2023-01-06 20:28:17",
@@ -2627,6 +2627,22 @@
     {
       "added_at": "2023-01-06 20:28:17",
       "album": {
+        "name": "Circo Soledad",
+        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "El Cielo a Mi Favor",
+      "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
+    },
+    {
+      "added_at": "2023-01-06 20:28:17",
+      "album": {
         "name": "Que Nada Nos Separe",
         "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
@@ -2655,22 +2671,6 @@
       "duration_ms": 274213,
       "name": "Que Quieres De Mi",
       "url": "https://open.spotify.com/track/4rhQ89gUsCW5ig91qtoDSE"
-    },
-    {
-      "added_at": "2023-01-06 20:28:17",
-      "album": {
-        "name": "Circo Soledad",
-        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "El Cielo a Mi Favor",
-      "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
     },
     {
       "added_at": "2023-01-06 20:28:17",
@@ -4151,8 +4151,8 @@
     {
       "added_at": "2023-01-06 20:28:17",
       "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
@@ -4160,9 +4160,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     }
   ],
   "unique_name": "Hits Rom\u00e1nticos",

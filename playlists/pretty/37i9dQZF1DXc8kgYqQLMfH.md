@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,318 likes - 515 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,429 likes - 515 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 129 | [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 |
 | 130 | [Mr\. Bemm](https://open.spotify.com/track/050jUCD3ITuHr2xZy1ld13) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Mr\. Bemm](https://open.spotify.com/album/6HZ2w8DQ2gLkqsno1zALQd) | 2:39 |
 | 131 | [rose crowns](https://open.spotify.com/track/2hkX7l9TqWTAMckdD9585v) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [rose crowns & wine country](https://open.spotify.com/album/6bJ0F2pQCLmulIhhViIh92) | 2:52 |
-| 132 | [Dusty Dumplin' Groove](https://open.spotify.com/track/3970iLcSEQMKqRq6VGZNjn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5Kpg8b1SqyfB1bqNYV7zbI) | 2:12 |
+| 132 | [Dusty Dumplin' Groove](https://open.spotify.com/track/1B8AikYJMMPgvBd3K1oJ6u) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Dusty Dumplin' Groove](https://open.spotify.com/album/5uS6RMLM5Jm4vsW5H0X0Tf) | 2:12 |
 | 133 | [Run Away](https://open.spotify.com/track/5hwQLIvtNojoFG5AHYwMxs) | [Alani Atari](https://open.spotify.com/artist/39cVaYNAuoa9GCl5XlmcQ0) | [Run Away](https://open.spotify.com/album/7trxbyDHbHPfhfG7EaCsDx) | 2:02 |
 | 134 | [Black Dolphin](https://open.spotify.com/track/2iRKGhi0dbvbRGdNgXDWbw) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Teddy Jam](https://open.spotify.com/album/56Mt8BGTwCKx4fE2nBa7kU) | 1:34 |
 | 135 | [Hush Hush](https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G) | [Simu](https://open.spotify.com/artist/60LZQf6T8dgrVN0KpHjWJp) | [Hush Hush](https://open.spotify.com/album/0FrZGfKkaAX1JtBq7PjCzU) | 2:39 |
@@ -524,4 +524,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 514 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 515 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY3NTc3MzY0MiwwMDAwMDAwMGU0ZjA5NDczYmUzODIyYTQxYjQwOGJmMTgxODhjZjcw`
+Snapshot ID: `MTY3NTc3MzY0MiwwMDAwMDAwMDk1M2U5NDgxMDQyZDk0ODIxNzUxYWIyMWU1NjFjZDky`

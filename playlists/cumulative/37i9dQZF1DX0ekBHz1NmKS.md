@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-633 songs - 1 day 9 hr 33 min
+634 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
+| [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 |  |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
@@ -493,7 +494,7 @@
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 |  |
-| [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 |  |
+| [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 | 2023-02-09 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-05 | 2022-09-16 |
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-09-29 |  |

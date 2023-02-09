@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Prinx Emmanuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 32 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 |
 | 33 | [Superman](https://open.spotify.com/track/7dCp9hIWqx0PitT2TLbpqT) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Superman](https://open.spotify.com/album/0SRH0lP8hdHHR8pqMl7sMB) | 2:07 |
 | 34 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 |
-| 35 | [Ride](https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/7kgZwZuFDoKs01rwOwXMig) | 2:41 |
+| 35 | [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 |
 | 36 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 |
 | 37 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 |
 | 38 | [Zerubbabel](https://open.spotify.com/track/3KRmCYhWfnrFFSkFzxJiFp) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Zerubbabel](https://open.spotify.com/album/1z1mGMhV7CGlHCNgwK3xs3) | 2:47 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 75 | [No Shaking](https://open.spotify.com/track/3hX5hkaCtRp6Lf0rTVt6yj) | [Havivah](https://open.spotify.com/artist/2b5T53uADPIMH0TA9VghgA) | [No Shaking](https://open.spotify.com/album/0LaE3JNbtu4tV2pIuLz58J) | 3:10 |
 | 76 | [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 |
 
-Snapshot ID: `MTY3NTM1MTM0NiwwMDAwMDAwMGI5NjVjNjQ3MDcyMTYzYmI1NDJjYzRlZmFmM2QxMGNl`
+Snapshot ID: `MTY3NTM1MTM0NiwwMDAwMDAwMDdlMGE4NGQyMzhmOWIyOTU4MDQ0N2ZjYWU5YWVlNzU2`

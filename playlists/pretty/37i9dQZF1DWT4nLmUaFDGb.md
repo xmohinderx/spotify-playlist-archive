@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,629 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,365 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 20 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 |
 | 21 | [Those Sweet Words](https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:22 |
 | 22 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
-| 23 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 |
+| 23 | [Blue Moon](https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj) | 3:00 |
 | 24 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 |
-| 25 | [Blue Moon](https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj) | 3:00 |
+| 25 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 |
 | 26 | [Place To Hide](https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Soul Eyes](https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9) | 3:44 |
 | 27 | [Fever](https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:30 |
 | 28 | [What a Wonderful World \(with Eva Cassidy\)](https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh), [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:19 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 76 | [One Day I Fly Away](https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Creole Love Call](https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn) | 4:00 |
 | 77 | [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 |
 | 78 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
-| 79 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 |
-| 80 | [What The World Needs Now Is Love](https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:12 |
+| 79 | [What The World Needs Now Is Love](https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:12 |
+| 80 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 |
 | 81 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 |
 | 82 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
 | 83 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 99 | [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 |
 | 100 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 |
 
-Snapshot ID: `MTY3NTY5MTk5NSwwMDAwMDAwMGJjZGQzZmNjYmYxNzY3ZWYxM2JiNWIwMjY3NjY3MDBi`
+Snapshot ID: `MTY3NTY5MTk5NSwwMDAwMDAwMGMyNjhlNDNiYTNmMzM4NDgwZDY0ZmZmYTM0NjEyNWMy`

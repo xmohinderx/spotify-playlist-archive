@@ -4,7 +4,7 @@
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-499 songs - 1 day 6 hr 53 min
+500 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-10 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
-| [Charlie´s Delight](https://open.spotify.com/track/4MxqQhmnUxdeXAnRRDB63w) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/4LPVXzjYqx8cVxiPUl4rSf) | 3:42 | 2022-12-08 |  |
+| [Charlie´s Delight](https://open.spotify.com/track/41B3yDB64MzesxuKM5F3Mw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/0mDsu5vfFDA1FFRQ0uMCNZ) | 3:42 | 2023-02-02 |  |
+| [Charlie´s Delight](https://open.spotify.com/track/4MxqQhmnUxdeXAnRRDB63w) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/4LPVXzjYqx8cVxiPUl4rSf) | 3:42 | 2022-12-08 | 2023-02-09 |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2021-12-14 |  |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-11-24 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2021-12-14 | 2023-01-06 |

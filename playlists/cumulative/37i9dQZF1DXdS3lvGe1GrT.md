@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-405 songs - 1 day 0 hr 36 min
+411 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [16 Borders](https://open.spotify.com/track/5U59q0ojvHM6ou8J3Sz0ZB) | [Jim and Sasha Allen](https://open.spotify.com/artist/1YgJ0l3zuGxjZMqzZiU5d4) | [16 Borders](https://open.spotify.com/album/0d6N2DAD0mEsYSGjd3ZrTw) | 2:48 | 2022-10-05 | 2022-12-01 |
 | [17 Letters](https://open.spotify.com/track/7txmlNXVd6DSPh613anyau) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW) | [17 Letters](https://open.spotify.com/album/3ez1nfVoF4yOEPPHnKZ033) | 5:23 | 2022-07-20 | 2023-01-12 |
 | [9 Lives](https://open.spotify.com/track/53M93oh2JcbwkafFmnZ0fD) | [Dawn Riding](https://open.spotify.com/artist/4FuVYvoejNH1WG7NGWzVi7) | [9 Lives](https://open.spotify.com/album/68pSC05yKzQLLNDngR1uyI) | 4:19 | 2022-10-05 | 2022-12-01 |
+| [A Ghost](https://open.spotify.com/track/0AVZ1tiSe23NnrrJjdOSr5) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [A Ghost](https://open.spotify.com/album/1QBRg3eax5Aa6w5NprCzHh) | 2:51 | 2023-02-08 |  |
 | [A Good Thing](https://open.spotify.com/track/5dfk2VE5UZmTozX8QeClYf) | [Kyle Stibbs](https://open.spotify.com/artist/6vcLlcsPltiXegQJUnoNob) | [A Good Thing](https://open.spotify.com/album/4e64s6OyiTrQ9Zzd8itH0D) | 1:59 | 2022-05-25 | 2022-08-25 |
 | [A Month Ago](https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [A Month Ago](https://open.spotify.com/album/1nka8M1ttrlVEotLDwZJgA) | 2:40 | 2022-09-21 | 2022-12-01 |
 | [A Phase](https://open.spotify.com/track/3jClKTTwIVu2uydbTVvOyP) | [Maz Lovella](https://open.spotify.com/artist/7awTzwMtwUWO1sGrozETz3) | [A Phase](https://open.spotify.com/album/3oba0rnXc7yCg9eihDAiB7) | 2:51 | 2022-09-21 | 2022-12-01 |
@@ -52,6 +53,7 @@
 | [Captain's Flat](https://open.spotify.com/track/6VkUAqdvDL8EB6Xppana4Z) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Come Home](https://open.spotify.com/album/72ksYtkFBs0XrizhtInaLK) | 3:34 | 2023-01-11 | 2023-02-01 |
 | [Caterpillar](https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud) | [Julie Odell](https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R) | [Caterpillar](https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY) | 5:18 | 2022-05-25 | 2022-09-15 |
 | [change](https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [holy spirit social club](https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx) | 3:06 | 2022-05-25 | 2022-08-11 |
+| [Change Your/My Mind](https://open.spotify.com/track/2mlWoHJ4vbo9ZX5WbjQuvh) | [Sierra Bryan](https://open.spotify.com/artist/0DxlA4IwIOfdtyFjo4vVAh) | [Change Your/My Mind](https://open.spotify.com/album/0BnRdjswFaveQPqUYhV4nL) | 5:03 | 2023-02-08 |  |
 | [Chardonnay](https://open.spotify.com/track/35XWfqYojCyXpNEeB5TbId) | [The Namby Pamby](https://open.spotify.com/artist/0bX0QBtGt7PyHCEdZad1Sz) | [Marketplace](https://open.spotify.com/album/4FhY7u29l7rxgK1jUvBwib) | 3:08 | 2022-11-23 |  |
 | [Chloe](https://open.spotify.com/track/00N1bt6M23xVek6x28qPMq) | [Rossa Murray & the blowin' winds](https://open.spotify.com/artist/4M0FHorc9Coefb8RhmOey7) | [Chloe](https://open.spotify.com/album/1qn7pFUKW2bl9cYF1oV5gD) | 4:40 | 2022-05-25 | 2022-08-25 |
 | [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 | 2022-05-25 | 2022-07-29 |
@@ -91,6 +93,7 @@
 | [Dime a Dozen](https://open.spotify.com/track/49fwippjbPl4i1cPRnEkIY) | [Forrest McCurren](https://open.spotify.com/artist/2byZDrG634rfHPbKOZPj7r) | [Oh Me, Oh My](https://open.spotify.com/album/2s5vSPR9SctGPWr7I3hEaq) | 4:11 | 2022-08-24 | 2022-11-24 |
 | [dog](https://open.spotify.com/track/2jNI4mu7xhKGXpCmXzufEg) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [dog](https://open.spotify.com/album/4GoNNtWHaiJHoaRK6kl08u) | 3:02 | 2022-11-30 | 2023-01-12 |
 | [Dog Days in LA](https://open.spotify.com/track/0MxqSOINLqZOwAFsGAMMux) | [Alicia Blue](https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG) | [Dog Days in LA](https://open.spotify.com/album/5ouXoBtz7T2j6yiOQmct1t) | 3:36 | 2022-06-15 | 2022-10-06 |
+| [dog park](https://open.spotify.com/track/2N0scrG4sYYwWiwc9rShoI) | [Anna Kellam](https://open.spotify.com/artist/5kG2vfaHrnskPlXQXs7rHs) | [dog park](https://open.spotify.com/album/745NZnSvc0ziNbB1NN25OL) | 3:19 | 2023-02-08 |  |
 | [Don’t Feel Right](https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9) | [Steven OH](https://open.spotify.com/artist/0CaLV3kAYhNSWUmci7PGbQ) | [Don’t Feel Right](https://open.spotify.com/album/2wJhrSr43N9bjoT3bsr4bd) | 3:00 | 2022-06-29 | 2022-09-22 |
 | [Dorian Gray](https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Dorian Gray](https://open.spotify.com/album/0jKocMWiAQNEE6a2ZglBjs) | 3:37 | 2023-01-11 |  |
 | [Draw the Line](https://open.spotify.com/track/4yKBochFf24wBnbCo1qW3d) | [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS) | [Draw the Line](https://open.spotify.com/album/1tcfml2TBuvBOJGQWE2lrs) | 3:36 | 2023-01-25 |  |
@@ -332,6 +335,7 @@
 | [Skips & Rings](https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04) | [Crane Like the Bird](https://open.spotify.com/artist/1i9TpycvQFCCyoOgqjevil), [Luke Steele](https://open.spotify.com/artist/5GtP5i2ZL7bU7gNuw4AC4e) | [Skips & Rings](https://open.spotify.com/album/4lo79kLIQmIeou8KyV8eR8) | 3:11 | 2022-09-14 | 2022-12-01 |
 | [Slips Away](https://open.spotify.com/track/6zAb1Ys5eS8Rmw27K17pIf) | [Skin & Bones](https://open.spotify.com/artist/4AWfRAqqxXYzSjjvpUVhm1) | [Slips Away](https://open.spotify.com/album/7sS91iOAoy5EKAGiTRap8P) | 3:40 | 2022-07-20 | 2022-10-20 |
 | [Slow Motion](https://open.spotify.com/track/5Oo2adPyAEyyiUgVUinvUV) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Slow Motion](https://open.spotify.com/album/4gh52dSbYMWshTBwsB4lSj) | 3:05 | 2023-01-11 |  |
+| [Some Curse](https://open.spotify.com/track/7maIi25fHreumpL9aT9jlE) | [Half Gringa](https://open.spotify.com/artist/7LKGXrwJzaRpJIGk4JWVYZ) | [Ancestral Home](https://open.spotify.com/album/7kzliC17Na5HVStBREnYZh) | 3:52 | 2023-02-08 |  |
 | [Something Greater](https://open.spotify.com/track/7rHQU2YxurHZZv2KgH2bmu) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Something Greater](https://open.spotify.com/album/25KmIokaKnmcktRqyafh12) | 3:22 | 2022-11-23 | 2022-12-01 |
 | [Sometime After This](https://open.spotify.com/track/0unM82rm6dUmi26mHIbT2W) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V) | [Sometime After This](https://open.spotify.com/album/6lUWEJ4VMayYS51uPvbsTA) | 4:05 | 2023-01-11 |  |
 | [Somewhere Forever](https://open.spotify.com/track/0LEYYOcwGSTd38kRUB8iXO) | [Garden Gloves](https://open.spotify.com/artist/7LvkKnhytQkJg72KAu49sF), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Somewhere Forever](https://open.spotify.com/album/1lr1J3nuB7QW5K1B4uj9z7) | 4:10 | 2022-11-30 | 2023-01-12 |
@@ -341,6 +345,7 @@
 | [Stand Your Ground](https://open.spotify.com/track/2ehfX1liKrMjpYNDOoG8G1) | [IV and The Strange Band](https://open.spotify.com/artist/5qtxZzDWsKKF9Qd9JQjv1D) | [Stand Your Ground](https://open.spotify.com/album/5hT6o34vGSCP5pgkZPdUyd) | 2:54 | 2022-05-25 | 2022-06-16 |
 | [star](https://open.spotify.com/track/5pSIWBLYqHnz3hrQU1ykve) | [Marieke](https://open.spotify.com/artist/0cx6QwyhzKOmerceWhkMDw) | [star](https://open.spotify.com/album/56FQb0uneaiaK9YQ8EFHeT) | 4:23 | 2023-01-25 |  |
 | [Stargazer](https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Stargazer](https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl) | 3:45 | 2022-05-25 | 2022-06-30 |
+| [STATE OF ME](https://open.spotify.com/track/1RYsCFlKzqAkgifIOL4Gs0) | [WORRYWORRY](https://open.spotify.com/artist/5fObbgUTn2cNrVTQwQfZYT) | [BREAK YOUR HEART](https://open.spotify.com/album/2ZWGyCfH0iU9MIPGJcrjnv) | 2:59 | 2023-02-08 |  |
 | [Stay Here Forever](https://open.spotify.com/track/5Ef4WgvlJcoxhLIuwWo3KA) | [Presley River](https://open.spotify.com/artist/6ZX039euNcQn6PvurHNQ3R) | [A Whisper from a World Thats Screaming](https://open.spotify.com/album/2dYYl86Sqvg5p1FHvsQ8fW) | 3:43 | 2022-05-25 | 2022-06-16 |
 | [Stick & Poke](https://open.spotify.com/track/7gJQ5uNScK7qN4vIsBYAvP) | [Derek Ted](https://open.spotify.com/artist/2cDJHHxiQrVfSLebJNDPXJ) | [Stick & Poke](https://open.spotify.com/album/1jr3zXAdpYry92sLxJLwtK) | 3:42 | 2022-08-24 | 2022-11-10 |
 | [Stone](https://open.spotify.com/track/7CIMMwrTOtzTAQvKJPv7PE) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Stone](https://open.spotify.com/album/7xJqwbzUQGpswwFKUef50o) | 5:58 | 2022-05-25 | 2022-09-15 |
@@ -365,6 +370,7 @@
 | [The Crow](https://open.spotify.com/track/2ra96QX8uA7Gl74A3VYiwK) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [The Crow](https://open.spotify.com/album/6yIBwEcBa1Fk6m8eDK15Oa) | 5:07 | 2023-01-25 |  |
 | [The Former](https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [The Former](https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i) | 2:37 | 2023-02-01 |  |
 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 | 2022-09-07 | 2022-12-01 |
+| [The Good Guy](https://open.spotify.com/track/1EBL0MhYmdibSqgMY6smzh) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [The Good Guy](https://open.spotify.com/album/4cWmReEsAcWuOYpv3UUFGk) | 3:53 | 2023-02-08 |  |
 | [The Good Stuff](https://open.spotify.com/track/5vF5Tqwz4T5RcbxdDJNth9) | [Jacksonport](https://open.spotify.com/artist/5WDHcjQUDXBkjoIL9qBkgL), [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [The Good Stuff](https://open.spotify.com/album/2pnL76OHuwKjJuP80jpDj7) | 3:37 | 2023-01-11 |  |
 | [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 | 2022-11-30 | 2023-01-12 |
 | [The Movie of Us](https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Movie of Us](https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG) | 3:24 | 2022-06-15 | 2022-09-15 |

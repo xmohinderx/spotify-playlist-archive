@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: RENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057 likes - 72 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072 likes - 72 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

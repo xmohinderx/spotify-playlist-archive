@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 22310,
+  "num_followers": 22318,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjE0NiwwMDAwMDAwMDRmMzc1NmY1NTcyY2Q2YWE1Mzc1ZTdjY2U2OTIzNDli",
+  "snapshot_id": "MTY3Mzg3NjE0NiwwMDAwMDAwMGE0ZDNiNDczMjM0ZjA5Njk3YzM0ZDVlY2VhMGZkYTg5",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "Hollywood Nights",
-      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "Hollywood Nights",
+      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Approved By The Motors",
-        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
-      },
-      "artists": [
-        {
-          "name": "The Motors",
-          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
-        }
-      ],
-      "duration_ms": 278933,
-      "name": "Airport",
-      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Tenology",
         "url": "https://open.spotify.com/album/5FPOXQ7ssVwLwSxqL4rGYa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 231146,
       "name": "The Wall Street Shuffle",
       "url": "https://open.spotify.com/track/4ZREMqESEEloSWGdxJySKC"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Approved By The Motors",
+        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
+      },
+      "artists": [
+        {
+          "name": "The Motors",
+          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
+        }
+      ],
+      "duration_ms": 278933,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
+        "name": "Back and Fourth",
+        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
       "artists": [
         {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+          "name": "Lindisfarne",
+          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
         }
       ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
+      "duration_ms": 260733,
+      "name": "Run for Home",
+      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Back and Fourth",
-        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
-      },
-      "artists": [
-        {
-          "name": "Lindisfarne",
-          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Run for Home",
-      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "The Slider",
         "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 149706,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Best Of Sweet",
-        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
+        "name": "Dandy In The Underworld",
+        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
       },
       "artists": [
         {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Little Willy",
-      "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
+      "duration_ms": 135666,
+      "name": "I Love To Boogie",
+      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
     }
   ],
   "unique_name": "70s Summer Rock",

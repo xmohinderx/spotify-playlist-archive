@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-657 songs - 1 day 16 hr 53 min
+660 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,9 @@
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-28 | 2023-02-02 |
 | [KANDEN \(feat\. ゆるふわギャング\)](https://open.spotify.com/track/0PYB0GpSmN26QVXtvdzMv4) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [YC2.5](https://open.spotify.com/album/6Zn3tfvVOXgR7UoQodijM0) | 2:51 | 2022-08-07 | 2022-09-06 |
 | [Katte ni Shiyagare!](https://open.spotify.com/track/6oflgnyu1822rgT6HxE6WC) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Katte ni Shiyagare!](https://open.spotify.com/album/4KwSJf3KTVSoksSYT1asB1) | 6:12 | 2022-07-28 | 2022-08-24 |
-| [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 | 2023-02-07 |  |
+| [Kawaiko Chan](https://open.spotify.com/track/1u4XelqBZV7Wco7VUZoi9U) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 2:27 | 2023-02-07 |  |
+| [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 | 2023-02-07 | 2023-02-09 |
+| [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 | 2023-02-07 |  |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-28 | 2022-08-03 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-26 | 2022-07-29 |
 | [kireinamono](https://open.spotify.com/track/68eGqsBmUIkXbx12RWiVvg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Kireinamono](https://open.spotify.com/album/2yKala7HScc3T8M2xyodDj) | 3:54 | 2022-07-28 | 2022-08-19 |
@@ -274,6 +276,7 @@
 | [Radio Star](https://open.spotify.com/track/1YeYZVR8zjv8K7iABHP6sD) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/3Og5gta9zMnchjl4FX1RIe) | 3:02 | 2022-12-06 | 2022-12-08 |
 | [Radio Star](https://open.spotify.com/track/4vu80NKZfCFIX4lZ4tGPVx) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 3:02 | 2023-02-01 |  |
 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 | 2022-12-06 | 2023-01-13 |
+| [Rashiku](https://open.spotify.com/track/1TBHbljkZmfH15BkKowBDK) | [yangskinny](https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl) | [Rashiku](https://open.spotify.com/album/3hOIKNqobignQz1MheQ0o9) | 4:22 | 2023-02-07 |  |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-09-27 | 2022-11-02 |
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-05-19 | 2022-06-01 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-11 |  |
@@ -413,7 +416,7 @@
 | [おぼえたて](https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ペンシルロケット](https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8) | 3:27 | 2022-10-25 | 2022-12-21 |
 | [おやすみパパママ](https://open.spotify.com/track/3Qge3YHUBXMueWRIhn0XxV) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:37 | 2022-05-31 | 2022-07-01 |
 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 | 2022-08-02 | 2022-10-26 |
-| [かわい子ちゃん](https://open.spotify.com/track/10xyA4e0YTDR5XaJurbB0S) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 2:27 | 2023-02-07 |  |
+| [かわい子ちゃん](https://open.spotify.com/track/10xyA4e0YTDR5XaJurbB0S) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 2:27 | 2023-02-07 | 2023-02-09 |
 | [きみのうた](https://open.spotify.com/track/3SlqmORmAZal8ciwUjl5qa) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [きみのうた](https://open.spotify.com/album/5NoPtytLmMigoL3IU3XsXb) | 4:41 | 2022-03-22 | 2022-05-11 |
 | [きれいなもの](https://open.spotify.com/track/4ZL2b8WONLhCnBnXO5YSkt) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [きれいなもの](https://open.spotify.com/album/23xVCS1tcqeVpO5BIdk6nr) | 3:54 | 2022-07-26 | 2022-07-29 |
 | [くちぶえ](https://open.spotify.com/track/5pLJN1059GYVb8RxONcG4f) | [OSTRIP](https://open.spotify.com/artist/7sRCMTc2ZLX4HcWGQngam3) | [くちぶえ](https://open.spotify.com/album/6kFP9IBA9Lj5gMdg9k1nKK) | 4:19 | 2022-06-21 | 2022-07-20 |
@@ -442,7 +445,7 @@
 | [ゆえに希望など](https://open.spotify.com/track/2RdHVZAtKMkX4TssYkJDpz) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ゆえに希望など](https://open.spotify.com/album/7yqxtVnxifEe1D4r926rTG) | 4:03 | 2022-08-30 | 2022-09-01 |
 | [ゆらせ](https://open.spotify.com/track/4bwHrJGuzdGcVIzXZjGhqD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [ゆらせ](https://open.spotify.com/album/14w99HaIjaPb7zFEsW2Ys9) | 4:27 | 2023-01-12 | 2023-02-01 |
 | [よるおきてあさねむる](https://open.spotify.com/track/6DRaMkWwRgUzsFFPKR3uY3) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [よるおきてあさねむる](https://open.spotify.com/album/5h1PfgxKzIg1GJNcjiPS4w) | 4:00 | 2022-10-25 | 2023-01-13 |
-| [らしく](https://open.spotify.com/track/12ZJt0tZRUr1k4ROKm3MUT) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [らしく](https://open.spotify.com/album/2OcLL8HffVsOIZCM2EmQD9) | 4:22 | 2023-02-07 |  |
+| [らしく](https://open.spotify.com/track/12ZJt0tZRUr1k4ROKm3MUT) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [らしく](https://open.spotify.com/album/2OcLL8HffVsOIZCM2EmQD9) | 4:22 | 2023-02-07 | 2023-02-09 |
 | [わからんベイベー](https://open.spotify.com/track/3cXhByoaM3MbcFdQmqO60m) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [わからんベイベー](https://open.spotify.com/album/0hm2QrSkGzu1e29QHMMjxy) | 3:55 | 2022-03-08 | 2022-03-30 |
 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 | 2022-02-22 | 2022-03-30 |
 | [エイプリル](https://open.spotify.com/track/5niOS9Rq12nDEsrGPL043o) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [エイプリル](https://open.spotify.com/album/3iL2VkEt1Z1GsTDRA2YaHG) | 3:04 | 2022-04-05 | 2022-06-08 |

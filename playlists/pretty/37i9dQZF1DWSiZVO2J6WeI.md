@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,704 likes - 180 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,041 likes - 180 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 57 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |
 | 58 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 |
 | 59 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 |
-| 60 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 |
-| 61 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 |
+| 60 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 |
+| 61 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 |
 | 62 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 |
 | 63 | [Pace Tua](https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Pace tua](https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA) | 2:24 |
 | 64 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 79 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 |
 | 80 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 |
 | 81 | [Nära](https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nära](https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH) | 2:20 |
-| 82 | [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 |
-| 83 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 |
+| 82 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 |
+| 83 | [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 |
 | 84 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 |
 | 85 | [Silent Whispers](https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs) | [Mutant Melodies](https://open.spotify.com/artist/6O0e9FFocYLN5RQV3fwWXw) | [Distant Memories Of You](https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK) | 2:24 |
 | 86 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 128 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
 | 129 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 |
 | 130 | [Elusive Thoughts](https://open.spotify.com/track/6cYBl8KJEgVMFiSYEPHyOm) | [Nayantara](https://open.spotify.com/artist/6nyEz0nYXb8PwCF3QOEuj3) | [Elusive Thoughts](https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17) | 2:21 |
-| 131 | [New Wings](https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0) | [Isac Hadland](https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n) | [New Wings](https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl) | 3:29 |
-| 132 | [Moments](https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Moments](https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN) | 3:19 |
+| 131 | [Moments](https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Moments](https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN) | 3:19 |
+| 132 | [New Wings](https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0) | [Isac Hadland](https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n) | [New Wings](https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl) | 3:29 |
 | 133 | [Start Again](https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Through it All](https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt) | 3:06 |
 | 134 | [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 |
 | 135 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 145 | [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 |
 | 146 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 |
 | 147 | [Awakening](https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Awakening](https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo) | 2:06 |
-| 148 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 |
-| 149 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 |
+| 148 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 |
+| 149 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 |
 | 150 | [Echoes \- Stripped](https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 3:39 |
 | 151 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 |
 | 152 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 |
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Saturno](https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Constelaciones](https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1) | 3:40 |
 | 170 | [Elevated Pastures](https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux) | [Chinyami](https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd) | [Elevated Pastures](https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm) | 3:33 |
 | 171 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 |
-| 172 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
-| 173 | [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 |
+| 172 | [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 |
+| 173 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
 | 174 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 |
 | 175 | [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 |
 | 176 | [Yellow Mountain \- Studio Edit](https://open.spotify.com/track/0YavOnNQabNAZsJalEi648) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 179 | [Over Oceans](https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Into Your Hands](https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN) | 3:45 |
 | 180 | [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 |
 
-Snapshot ID: `MTY3NDIyODgwMywwMDAwMDAwMGIwNTllMWI5NmU1NzFjMmNlODg3Y2VkMGFkZDJhZWVk`
+Snapshot ID: `MTY3NDIyODgwMywwMDAwMDAwMDNmZjI5ZjU4ZjIyZjNiNDIyNWJjZmM3YTU5NzJiNzg5`

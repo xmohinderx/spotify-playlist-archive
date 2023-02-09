@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1294,
+  "num_followers": 1295,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDAzNGJhYWQ2ZTRlYzY4ODlhMzlkNjM1MmRjMjg2NWMx",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGJkYjJmY2JjZmVjYzFhM2QwNjllMTY5N2QzMmRlZTVh",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Juguemos a cantar con Barney",
-        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
-      },
-      "artists": [
-        {
-          "name": "Barney",
-          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
-        }
-      ],
-      "duration_ms": 113034,
-      "name": "Me cepillo los dientes",
-      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Juguemos a cantar con Barney",
+        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 113034,
+      "name": "Me cepillo los dientes",
+      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
         },
         {
-          "name": "Sesame Street's Olivia",
-          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
+          "name": "Sesame Street's Gordon",
+          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
         }
       ],
-      "duration_ms": 93812,
-      "name": "Snack Time (Juice and Cookies)",
-      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
+      "duration_ms": 103147,
+      "name": "Exercise Time",
+      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
     },
     {
       "added_at": "2020-04-22 19:35:42",

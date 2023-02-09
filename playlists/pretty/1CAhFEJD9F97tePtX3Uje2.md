@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 360 likes - 202 songs - 12 hr 9 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 360 likes - 203 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 200 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
 | 201 | [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 |
 | 202 | [Ryza](https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Ryza](https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J) | 3:12 |
+| 203 | [While It Lasts](https://open.spotify.com/track/4xGGKZKfy8XIGdbgo9DgG6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [While It Lasts](https://open.spotify.com/album/36nkcbxqR3mLdoO3rEzPz5) | 3:12 |
 
-Snapshot ID: `MjE4LDE5NmRmNzBhZTlmMzI3NDY5Yzg4MTVhZGY3ZDdkZGRlYWVkYmNiZDk=`
+Snapshot ID: `MjE5LDE3YTI3YThkYzBkNWQ5NDAyNDM2N2JhMDE4MmQ5ODVlMmFhNjEyNmE=`

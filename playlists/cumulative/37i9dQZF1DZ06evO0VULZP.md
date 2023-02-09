@@ -4,7 +4,7 @@
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-68 songs - 2 hr 28 min
+69 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Get The Time](https://open.spotify.com/track/2H7W4q8W86r9GzRuTiiuTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 3:16 | 2022-09-16 | 2023-01-05 |
 | [Glad All Over](https://open.spotify.com/track/0lRhHskS0D5s2T3JV3Mlw3) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 | 2022-09-28 | 2022-09-30 |
 | [Good Good Things](https://open.spotify.com/track/0Mgo6qSfd40CBbGdoKbwN2) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 2:20 | 2023-01-07 | 2023-02-01 |
-| [Good Good Things](https://open.spotify.com/track/7HHle8A6urSZT4RxkDQIiz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:22 | 2022-09-16 |  |
+| [Good Good Things](https://open.spotify.com/track/5d7WzaCFCmgwAwZML8uXmp) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:22 | 2023-02-08 |  |
+| [Good Good Things](https://open.spotify.com/track/7HHle8A6urSZT4RxkDQIiz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:22 | 2022-09-16 | 2023-02-09 |
 | [Grudge](https://open.spotify.com/track/4YpjGR5zqcDfxAhpAYbnG6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:28 | 2022-09-25 | 2022-10-06 |
 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 | 2022-09-16 |  |
 | [Hope](https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 | 2022-09-16 |  |

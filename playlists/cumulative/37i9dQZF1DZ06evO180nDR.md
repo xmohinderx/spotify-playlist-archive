@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 3 min
+74 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cigarro De Hoja](https://open.spotify.com/track/591scLz9dsDQLbLodrog9e) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 3:53 | 2022-06-01 | 2022-10-13 |
 | [Corazon Usado](https://open.spotify.com/track/7I0Au2N8kqs97u8fUHCXl7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Homenaje A Lalo El Gallo](https://open.spotify.com/album/7sL1ypN2RxNzW7lNJKPWFw) | 2:55 | 2022-06-01 | 2022-10-13 |
 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 | 2022-06-01 |  |
+| [Cosas del Amor \(En Vivo\)](https://open.spotify.com/track/7hdZ166ww1dLf9Er65QI4L) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/3uTJALRaHwBA6kI7TGnhuu) | 3:07 | 2023-02-08 |  |
 | [Cruz de Madera \- Guitarras](https://open.spotify.com/track/6Fzqn6QjyvkodVvC2ERiUm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Homenaje a Miguel y Miguel](https://open.spotify.com/album/55ylrtjB0x8yJJHb9HOwX5) | 3:40 | 2022-06-01 | 2022-10-13 |
 | [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 | 2022-06-01 | 2022-12-19 |
 | [Del 1 Al 10](https://open.spotify.com/track/0u3y6hlc0KncC6xBnm648F) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Plebes del Rancho](https://open.spotify.com/artist/2I2kAQzySYBAvqM4XltnUB) | [Del 1 Al 10](https://open.spotify.com/album/5bo7EIf3DAxYlnmOOM2rcR) | 2:55 | 2022-10-09 | 2022-10-31 |
@@ -74,7 +75,7 @@
 | [Tu Ingratitud](https://open.spotify.com/track/5kiFSCCngEKd1YCkelaTz4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:28 | 2022-06-02 | 2022-09-22 |
 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 | 2022-06-03 |  |
 | [Una Copa Más](https://open.spotify.com/track/53Yhyu887GS3eNEV9RPp8t) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:21 | 2022-06-01 | 2022-10-13 |
-| [Valentín De La Sierra](https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 3:02 | 2022-06-01 |  |
+| [Valentín De La Sierra](https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 3:02 | 2022-06-01 | 2023-02-09 |
 | [Ven Y Ven](https://open.spotify.com/track/4CP1GpmLYMSnrdlFT5AQuy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:48 | 2022-06-01 |  |
 | [Vida Mafiosa \- En Vivo](https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Volumen 2 \(En Vivo\)](https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz) | 2:06 | 2022-06-01 |  |
 | [Vivir Sin Aire](https://open.spotify.com/track/1kPds8OapQhPuFZQ9mnyXi) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:32 | 2022-06-01 | 2022-11-27 |

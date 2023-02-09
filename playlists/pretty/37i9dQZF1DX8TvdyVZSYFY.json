@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2047801,
+  "num_followers": 2047903,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMGYwNWJlNjM0OTAwZjZhN2I2OWUwOTc4NjhkMTg5ZWI1",
+  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMDAxMGQwMGM2MzUzZjQ2ZDljZjExOGYyNDdiNzcwYmFj",
   "tracks": [
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Mama (Acoustic)",
-        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        }
-      ],
-      "duration_ms": 192277,
-      "name": "Mama - Acoustic",
-      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 201508,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 212578,
       "name": "Don't Call Me Up - Acoustic",
       "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 245780,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Slide (Acoustic Version)",
         "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 171611,
       "name": "Slide - Acoustic Version",
       "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 142177,
-      "name": "Only Want You - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 197195,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 142177,
+      "name": "Only Want You - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3315,22 +3315,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "If You're Not the One",
-        "url": "https://open.spotify.com/album/5FxFq3fjle5UXmerJcFaag"
-      },
-      "artists": [
-        {
-          "name": "Kyle Juliano",
-          "url": "https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5"
-        }
-      ],
-      "duration_ms": 235763,
-      "name": "If You're Not the One",
-      "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "I Wish You Were Here (Acoustic)",
         "url": "https://open.spotify.com/album/73NEA3N9onO77kK6ijm7aY"
       },
@@ -3343,6 +3327,22 @@
       "duration_ms": 126680,
       "name": "I Wish You Were Here - Acoustic",
       "url": "https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "If You're Not the One",
+        "url": "https://open.spotify.com/album/5FxFq3fjle5UXmerJcFaag"
+      },
+      "artists": [
+        {
+          "name": "Kyle Juliano",
+          "url": "https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5"
+        }
+      ],
+      "duration_ms": 235763,
+      "name": "If You're Not the One",
+      "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4491,6 +4491,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4pANGdgJmTNkQbPgs7Zw4Q"
+      },
+      "artists": [
+        {
+          "name": "Plain Simple",
+          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1xFsUSKR7r6B2kOyWjqLHV"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -4507,22 +4523,6 @@
       "duration_ms": 272546,
       "name": "We Are Young (feat. Janelle Mon\u00e1e) - Acoustic [Acoustic]",
       "url": "https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/4pANGdgJmTNkQbPgs7Zw4Q"
-      },
-      "artists": [
-        {
-          "name": "Plain Simple",
-          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1xFsUSKR7r6B2kOyWjqLHV"
     },
     {
       "added_at": "2022-01-10 11:27:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,884 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,848 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 49881,
+  "num_followers": 49926,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGU1ZTM3ZTcyMWNlNzdmZGE0M2Y2NzAxZThkYWI1MzU2",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDVhZDRkZjk0MTBmMDA3OWQ3MDllMTM3NmU5ZWQ4YjQ1",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 365971,
       "name": "Letters - NTO Remix",
       "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
-      },
-      "artists": [
-        {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Find Myself EP",
         "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 364579,
       "name": "Raw Charmer",
       "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+      },
+      "artists": [
+        {
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Kopernikus EP",
-        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        }
-      ],
-      "duration_ms": 440118,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Ibb & Obb (Original Soundtrack)",
         "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154781,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Kopernikus EP",
+        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "duration_ms": 440118,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -807,6 +807,22 @@
       "duration_ms": 236500,
       "name": "Gulch",
       "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -923,22 +939,6 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 95973,
-      "name": "Bocuma",
-      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
     },
     {
       "added_at": "2022-07-15 17:34:15",

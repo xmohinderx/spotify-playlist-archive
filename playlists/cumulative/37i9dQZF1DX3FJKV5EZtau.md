@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-331 songs - 19 hr 11 min
+332 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 |  |
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [ARCADE NIGHT](https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [ARCADE NIGHT](https://open.spotify.com/album/3c8kfHbvA1fbSC52TxEWPI) | 3:59 | 2022-01-07 | 2023-01-13 |
-| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 |  |
+| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 | 2023-02-09 |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2022-01-07 |  |
 | [Artificial Love](https://open.spotify.com/track/5lAbIEjU5D832P9ILBPzAe) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [Artificial Love](https://open.spotify.com/album/10AxppKXa2VrVF4G2rxBBF) | 3:12 | 2022-02-11 | 2022-02-23 |
 | [Astatine](https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Astatine](https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR) | 5:48 | 2022-12-02 |  |
@@ -285,6 +285,7 @@
 | [Starlight](https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id) | [Starlight](https://open.spotify.com/album/1i8mhstzGsJAzXD0a0lAug) | 2:20 | 2022-04-29 | 2022-10-13 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2022-01-07 | 2022-11-12 |
 | [stay](https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [stay](https://open.spotify.com/album/4ptRVYNs2KBa74ED3MvKmK) | 2:42 | 2023-02-03 |  |
+| [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 | 2023-02-03 |  |
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 | 2023-02-03 |
 | [Strawberry](https://open.spotify.com/track/4Nd6l4JZTipSyfm0DdMldl) | [Softable](https://open.spotify.com/artist/4fJY3cnLPbA2FvPrZqbvcS) | [Strawberry Game](https://open.spotify.com/album/12AqBsXJ4b6VLrN7jhkxSS) | 5:00 | 2022-01-07 | 2022-07-29 |
 | [Sugar Kisses](https://open.spotify.com/track/0YS9JX8irFJih9oxqeYa2V) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Sugar Kisses](https://open.spotify.com/album/7dC6xINHUWaK27IBhedw33) | 4:33 | 2022-01-07 | 2022-07-23 |

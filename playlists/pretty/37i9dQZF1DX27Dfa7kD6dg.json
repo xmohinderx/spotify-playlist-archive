@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 15298,
+  "num_followers": 15341,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGY1NjY5Y2I3NDlkODlkMzM4Yzg1ZmZiYzI1ZTE0YTNl",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGFjZDA4NTc4MzY3ZjAxMjg2N2RmMTJhZWYzNmFmMTZi",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/6tiLc1GWbqY9MScyrQGeI9"
+        "name": "The Latin World Of Tito Puente",
+        "url": "https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 338781,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF"
+      "duration_ms": 190416,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "The Latin World Of Tito Puente",
-        "url": "https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/6tiLc1GWbqY9MScyrQGeI9"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
         }
       ],
-      "duration_ms": 190416,
-      "name": "Ran Kan Kan",
-      "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
+      "duration_ms": 338781,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -863,6 +863,22 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "El Pap\u00e1 De La Salsa",
-        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "25th Anniversary",
         "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "El Pap\u00e1 De La Salsa",
+        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "La Industria Salsera",
         "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 228500,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1003,6 +1003,38 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
       },
@@ -1035,38 +1067,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Dos Imagenes",
         "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
       },
@@ -1095,26 +1095,6 @@
       "duration_ms": 234960,
       "name": "Llanto De Cocodrilo",
       "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 243781,
-      "name": "Rumba Rumbero",
-      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 293067,
       "name": "Mujer de Carne y Hueso",
       "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 243781,
+      "name": "Rumba Rumbero",
+      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 239420,
-      "name": "Pregones De San Crist\u00f3bal",
-      "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 239420,
+      "name": "Pregones De San Crist\u00f3bal",
+      "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
     },
     {
       "added_at": "2022-08-17 18:30:29",

@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 336100,
+  "num_followers": 336292,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzNzQ2NywwMDAwMDAwMGE3MGJkYjQwODNiNGI1YjhiYzRiMjExMWZhMTE3ZDBi",
+  "snapshot_id": "MTY3MzYzNzQ2NywwMDAwMDAwMGMxNGI2MThjODhiMWZkMDQyZGY0YTlmZjcyNjZlY2Y5",
   "tracks": [
     {
       "added_at": "2023-01-12 01:50:42",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
+      },
+      "artists": [
+        {
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "D\u00f6ng\u00fcm",
         "url": "https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 270027,
       "name": "D\u00f6ng\u00fcm",
       "url": "https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "The Exorcist GBG",
-        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
-      },
-      "artists": [
-        {
-          "name": "The Exorcist GBG",
-          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
         }
       ],
-      "duration_ms": 274176,
-      "name": "Norfolk Hotel",
-      "url": "https://open.spotify.com/track/78YBItbz15ENXz3F67cDno"
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 274176,
+      "name": "Norfolk Hotel",
+      "url": "https://open.spotify.com/track/78YBItbz15ENXz3F67cDno"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
-      "added_at": "2022-09-03 03:45:18",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
       "artists": [
         {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-09-03 03:45:18",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

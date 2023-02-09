@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,296 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,470 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 32 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 33 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
 | 34 | [Arráncame](https://open.spotify.com/track/6FtIBJWxBhg8OOplgXaGr5) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:36 |
-| 35 | [Taganga](https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 2:45 |
-| 36 | [Latin Note](https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 5:54 |
+| 35 | [Latin Note](https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 5:54 |
+| 36 | [Taganga](https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 2:45 |
 | 37 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 |
 | 38 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 | 39 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 67 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 68 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
 | 69 | [Virgencita \- Happy Colors Remix](https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Calentura: Global Bassment](https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu) | 3:16 |
-| 70 | [Speakin' Nuyorican](https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH) | 3:29 |
+| 70 | [Pelo Negro](https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Pelo Negro](https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK) | 6:10 |
 | 71 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
-| 72 | [Pelo Negro](https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Pelo Negro](https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK) | 6:10 |
+| 72 | [Speakin' Nuyorican](https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH) | 3:29 |
 | 73 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 |
 | 74 | [Arturo Sandoval](https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Arturo Sandoval](https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk) | 3:31 |
 | 75 | [Cun Cun Prá](https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Cun Cun Prá](https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v) | 3:25 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 80 | [Una Piedra en el Cielo](https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR) | 2:11 |
 | 81 | [En Medio Del Jardín](https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [En Medio Del Jardín](https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY) | 3:41 |
 | 82 | [Una Música Brutal](https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 4:11 |
-| 83 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
-| 84 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
+| 83 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
+| 84 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 85 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
 | 86 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
 | 87 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 |
 | 100 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
 
-Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMGM5MzVkMjUxYTdiZjZhNmEyMTVkZjBmMDA2NWMwNzhh`
+Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMGEyYWU1YTk5MGJhNGUwZGU3YWQwNzE1ZWU2OGQ3ODU0`

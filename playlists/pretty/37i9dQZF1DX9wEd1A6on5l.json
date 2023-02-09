@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 24266,
+  "num_followers": 24286,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjY2OCwwMDAwMDAwMDgxMWFhMzE1NzNiNDRmNGVhOWY3MzMyZjE5ZGQzZDI3",
+  "snapshot_id": "MTY3NTQxNjY2OCwwMDAwMDAwMDU0NDJjYWM1NzViNjYzMjAyZmIxZjZkM2VmMjJiOTdk",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
-      "added_at": "2023-02-08 01:08:42",
+      "added_at": "2023-02-09 01:08:29",
       "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
-      "added_at": "2023-02-08 01:08:42",
+      "added_at": "2023-02-09 01:08:29",
       "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
-      "added_at": "2023-02-08 01:08:42",
+      "added_at": "2023-02-09 01:08:29",
       "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2023-02-08 01:08:42",
+      "added_at": "2023-02-09 01:08:29",
       "album": {
         "name": "Who Is Your Guy?",
         "url": "https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4"
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -1319,22 +1299,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         },
         {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
-      "added_at": "2023-02-08 01:08:42",
+      "added_at": "2023-02-09 01:08:29",
       "album": {
         "name": "MOTO",
         "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"

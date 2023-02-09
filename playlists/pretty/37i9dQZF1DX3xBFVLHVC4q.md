@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,544 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,558 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 14 | [Dazzling White Town](https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:22 |
 | 15 | [もっとね!](https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY) | [松浦果南 \(CV.諏訪ななか\) from Aqours](https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album 〜さかなかなんだか?〜](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 3:49 |
 | 16 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
-| 17 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 |
+| 17 | [水面にピアノ](https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Third Solo Concert Album \~THE STORY OF “OVER THE RAINBOW”\~ starring Sakurauchi Riko](https://open.spotify.com/album/384lP44vmpllPywrmZMOef) | 4:33 |
 | 18 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
 | 19 | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/track/4UUh7EUY4xOCoay7iZQNv1) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 4:51 |
 | 20 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
-| 21 | [水面にピアノ](https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Third Solo Concert Album \~THE STORY OF “OVER THE RAINBOW”\~ starring Sakurauchi Riko](https://open.spotify.com/album/384lP44vmpllPywrmZMOef) | 4:33 |
+| 21 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 |
 | 22 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 23 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
 | 24 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [ときめき分類学](https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 4:51 |
 | 50 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
 
-Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDllNWNkNDU4OGM2YjRjMWY4OWRkZWQxNmM5ZTc1NmE3`
+Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDdmYWJjZjI4ZGEwNWNkYjIwNGRjMzk2OTc0NjU1YTA5`

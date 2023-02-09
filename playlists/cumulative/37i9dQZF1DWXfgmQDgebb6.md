@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: SHIRT\)
 
-254 songs - 13 hr 59 min
+255 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2022-05-27 | 2022-12-03 |
 | [Cuando](https://open.spotify.com/track/7sfxQTxZQ6g1T98GUxnjKp) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 3:59 | 2022-05-27 | 2022-07-14 |
 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 |  |
+| [Damn Cold](https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49) | [Lim Kim](https://open.spotify.com/artist/5lO18eqxOnlNXdgzmih1j4) | [Damn Cold](https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe) | 3:32 | 2023-02-08 |  |
 | [Dance \(feat\. B JYUN.\)](https://open.spotify.com/track/1yMn6tOy8jLhmKabfZFz6Z) | [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Dance \(feat\. B JYUN.\)](https://open.spotify.com/album/4BkZC5CA3P1hm0yw06wH3Q) | 3:08 | 2022-05-27 | 2022-07-28 |
 | [Dance of Phrase \(Feat\. Qim Isle\)](https://open.spotify.com/track/4KXy9C1W0xWJpKWQvnyeFX) | [Jung Jae Hyung](https://open.spotify.com/artist/2eHhj2YwHmrFN7zGaDaVHl), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [HOME](https://open.spotify.com/album/4yTrE7XJEgwCJBw3bh61zc) | 4:14 | 2022-05-27 | 2022-07-24 |
 | [Dancing Under The Moonlight](https://open.spotify.com/track/0ne9725oQLhssp61ntAfGy) | [DD!](https://open.spotify.com/artist/16RAFj6u7Yd8yT3SDaDsRO), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Dancing Under The Moonlight](https://open.spotify.com/album/1DKr3c6jcYpOS5X0FoE6r3) | 3:44 | 2022-05-27 | 2022-07-29 |
@@ -64,7 +65,7 @@
 | [Don’t Know Why](https://open.spotify.com/track/4aAOktVosCaWRKB293rSLG) | [jayvito](https://open.spotify.com/artist/2yZNiGKZ1tmcUgWdMKcFzI) | [Country Man Episode \#1](https://open.spotify.com/album/4bktSOHI1Ckp55B53SgZv8) | 3:28 | 2022-05-27 | 2022-07-27 |
 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 | 2022-05-27 |  |
 | [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-30 |
-| [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 | 2023-01-10 |  |
+| [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 | 2023-01-10 | 2023-02-09 |
 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 | 2022-09-05 | 2022-12-20 |
 | [Espresso Build](https://open.spotify.com/track/3yfHXif4GgssiGkUTy8OIA) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 1:47 | 2022-05-27 | 2022-07-25 |
 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-24 |  |

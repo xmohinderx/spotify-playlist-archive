@@ -4,7 +4,7 @@
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-180 songs - 9 hr 49 min
+181 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Te lo prometto](https://open.spotify.com/track/72aqCNAdOo6H4nrPyAivSV) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Te lo prometto](https://open.spotify.com/album/34JRWtz7K8iDla9b2ZouOq) | 3:04 | 2022-04-28 | 2022-07-29 |
 | [Tesla \(feat\. Sfera Ebbasta & DrefGold\)](https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:05 | 2022-04-28 |  |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-08-10 |  |
+| [Toradol](https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC8 – Singles](https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj) | 2:16 | 2023-02-09 |  |
 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 | 2022-04-28 |  |
 | [Tran Tran](https://open.spotify.com/track/1S2VLr8j9KVbroLn76RF4i) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Tran Tran](https://open.spotify.com/album/6no7XEwjK8pAELt9aClXFx) | 3:40 | 2022-04-28 | 2022-07-28 |
 | [Trankilo](https://open.spotify.com/track/4hwwDxMDxwNbCyUJuI5sLa) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Chic Nisello](https://open.spotify.com/album/5ksomJymWCuZ7bCuqypCPk) | 4:00 | 2022-05-27 | 2022-06-08 |
@@ -180,7 +181,7 @@
 | [Uno squillo](https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:28 | 2022-04-28 |  |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-08-10 |  |
 | [Veleno 6](https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 2](https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr) | 3:25 | 2022-07-27 |  |
-| [Veleno 7](https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 2:53 | 2022-06-13 |  |
+| [Veleno 7](https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 2:53 | 2022-06-13 | 2023-02-09 |
 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 | 2022-04-28 |  |
 | [Visiera A Becco](https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/6F5dUvN9tzyQ93LWPytEZc) | 3:07 | 2022-04-28 | 2022-07-28 |
 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 | 2022-07-27 |  |

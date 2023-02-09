@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/3IOlEaEF7q1mnrnrgufyF0"
+      },
+      "artists": [
+        {
+          "name": "NO QVLT",
+          "url": "https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg"
+        },
+        {
+          "name": "JESSY KVGE",
+          "url": "https://open.spotify.com/artist/7mhkgK8BCWTwGdsKPGwPgm"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "Insides",
+      "url": "https://open.spotify.com/track/6ahPq19N2CB1YcHKrs4890"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Elvis de Yongol en portada.",
-  "num_followers": 55383,
+  "num_followers": 55391,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ2MDYyNywwMDAwMDAwMDVjZDhkM2E4OGNkZWNjNzcxYWQyZmM4ZGMyYjUwNjk5",
+  "snapshot_id": "MTY3NTQ2MDYyNywwMDAwMDAwMGI3YTQwNzI2N2U0MmJhODRjOThjZjkyZTA5YTExMGFh",
   "tracks": [
     {
       "added_at": "2023-01-27 18:00:00",
@@ -938,11 +938,31 @@
         {
           "name": "Self Sabotage",
           "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        },
+        {
+          "name": "SamueVi",
+          "url": "https://open.spotify.com/artist/1QoAZ3MwxzMXXxkU6NVGST"
         }
       ],
       "duration_ms": 208250,
       "name": "Hipernova",
       "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -995,22 +1015,6 @@
       "duration_ms": 168500,
       "name": "Malec\u00f3n",
       "url": "https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2022-09-29 23:31:37",

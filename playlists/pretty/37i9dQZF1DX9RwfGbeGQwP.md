@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,447 likes - 514 songs - 19 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,684 likes - 514 songs - 19 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,7 +236,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 226 | [Watch Your Step](https://open.spotify.com/track/611q9eZ9TfWhuSNYrAizmx) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Watch Your Step](https://open.spotify.com/album/1hsknGuxLQdu8X55U1l6Vg) | 2:02 |
 | 227 | [Wroom!](https://open.spotify.com/track/1xDK5y3GqJzcy9QATqVeiX) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Wroom!](https://open.spotify.com/album/5l2hQ0NPpBF0ey1nrVw0Ee) | 1:40 |
 | 228 | [When it's all said and done](https://open.spotify.com/track/5RVGqVPV1IUTelr1nlkng2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [When it's all said and done](https://open.spotify.com/album/47B0xT1YkJJjAafqHenmUy) | 2:13 |
-| 229 | [Peace of pancake](https://open.spotify.com/track/7hbZwpwy185T2IqvRTuHZc) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/0Zk5N0xF8lvjLiFsOw3NuL) | 2:09 |
+| 229 | [Peace of pancake](https://open.spotify.com/track/4Zh9sTklpob67NuVGWMWDS) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/1QUts39AIyMrV87zmq5FEd) | 2:09 |
 | 230 | [downtime](https://open.spotify.com/track/4350h6v6CUgKVh9YWnvMjw) | [lomix](https://open.spotify.com/artist/25bLrD0Ko3DxkuA5mhdEZA) | [downtime](https://open.spotify.com/album/2jBxi0LJumaJNoKFWY3sWT) | 2:20 |
 | 231 | [One For Billy](https://open.spotify.com/track/6KBahiIEG8pFPfeKviTKd8) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [One For Billy](https://open.spotify.com/album/1gmQOg50fPPK31vqwO5FHj) | 2:13 |
 | 232 | [Morning Coffee](https://open.spotify.com/track/6fco1FnIJmQMjS2ANU0s86) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Morning Coffee](https://open.spotify.com/album/4ckV7B73berfpdY8o4ZCh1) | 2:04 |
@@ -523,4 +523,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 513 | [Misch](https://open.spotify.com/track/4Q0z85lZpHXGIcx4rdXK4J) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Lincoln Pork](https://open.spotify.com/album/0dsmqlqZ177ZmwlGFML5YY) | 3:17 |
 | 514 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 
-Snapshot ID: `MTY3NTc3MTcxNCwwMDAwMDAwMGQ5NjFhNGI1ZDA0MjdjNDE5N2FiZjRmMzBlMjdlYzAy`
+Snapshot ID: `MTY3NTc3MTcxNCwwMDAwMDAwMDFjZmZlNzk2MmQ0YTljYTQxNzhmZmJjMzJhNDFkZTFk`

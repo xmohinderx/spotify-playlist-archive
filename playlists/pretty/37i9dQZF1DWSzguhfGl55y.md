@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,200 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,305 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alles neu](https://open.spotify.com/track/5hqxBvQJ3XJDSbxT9vyyqA) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 4:20 |
 | 2 | [Schlechtes Vorbild](https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich \(Premium Edition\)](https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr) | 3:24 |
-| 3 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 |
-| 4 | [Easy](https://open.spotify.com/track/063ltSmgXNffmgYxippeke) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:52 |
+| 3 | [Easy](https://open.spotify.com/track/063ltSmgXNffmgYxippeke) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:52 |
+| 4 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 |
 | 5 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
 | 6 | [Die Eine 2005](https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf) | [Die Firma](https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3) | [Krieg Und Frieden](https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm) | 3:26 |
 | 7 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 | 50 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDU2NzY1NmJiZDVkZjc5MmQ2N2I0Y2M0ZGJkZTk5Nzgy`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMGY0MThkY2NkZWE5MzVmOGFiN2NiMDBjMTU5YmRhNjIz`

@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-138 songs - 10 hr 46 min
+139 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Dwellberry](https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM) | 4:43 | 2021-09-10 | 2022-07-29 |
 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 | 2021-09-10 |  |
 | [Ella Estudia Astrologia](https://open.spotify.com/track/1npVjjSSarqKG0PPm1wa12) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Los Días Serán Más Cortos](https://open.spotify.com/album/4TgXIydTP8MIuVVdQOnvUA) | 5:53 | 2021-09-10 | 2022-07-29 |
-| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2021-09-10 |  |
+| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2021-09-10 | 2023-02-09 |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2021-09-10 |  |
 | [First Light](https://open.spotify.com/track/4YnketDvkgOhzuevW7Hjjd) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [First Light](https://open.spotify.com/album/3tRGQaFE8NKfvlNAqB5YWA) | 2:59 | 2021-09-10 | 2022-07-19 |
 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2021-09-10 |  |
@@ -111,6 +111,7 @@
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-09-10 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/73kbQEn5Dx7fE8maMM0uFP) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 3:43 | 2021-09-10 | 2022-07-29 |
 | [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 | 2021-09-10 | 2023-02-03 |
+| [Petiatil Cx Htdui](https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:11 | 2021-09-10 |  |
 | [Pietre Roventi](https://open.spotify.com/track/4iJ5PnXK3XKER9pqKEP0qL) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:24 | 2021-09-10 | 2022-07-23 |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-09-10 |  |
 | [Pot Noddle](https://open.spotify.com/track/0kpuP6Zs39L1o6yocQw8On) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 7:13 | 2021-09-10 | 2022-04-21 |

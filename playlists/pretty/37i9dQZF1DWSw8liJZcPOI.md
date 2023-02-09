@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,242 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,596 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 |
 | 2 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 |
 | 3 | [Cloud Memory](https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Cloud Memory](https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU) | 1:57 |
-| 4 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
-| 5 | [Mirror](https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Mirror](https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8) | 3:14 |
+| 4 | [Mirror](https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Mirror](https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8) | 3:14 |
+| 5 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
 | 6 | [Itasca](https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 2:46 |
 | 7 | [Eyes Closed And Traveling](https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb) | 3:39 |
 | 8 | [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 61 | [Aurora](https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc) | 4:25 |
 | 62 | [Glimmer](https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Modulations: EP2](https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut) | 3:21 |
 | 63 | [Heart Failure](https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Everything Has Its Echo](https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC) | 4:49 |
-| 64 | [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 |
-| 65 | [As I Was \- Slow Meadow Rework](https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [As I Was \(Slow Meadow Rework\)](https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi) | 5:05 |
+| 64 | [As I Was \- Slow Meadow Rework](https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [As I Was \(Slow Meadow Rework\)](https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi) | 5:05 |
+| 65 | [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 |
 | 66 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 |
 | 67 | [Respite](https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Time It Takes](https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc) | 3:01 |
 | 68 | [Little Orc](https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [Bird's Tail \- Slow Meadow Rework](https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Bird's Tail \(Slow Meadow Rework\)](https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf) | 5:43 |
 | 80 | [Corn](https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 4:04 |
 
-Snapshot ID: `MTY3NTM5NjgwMCwwMDAwMDAwMGM0NDZkNGVjM2QzNjAxMmIzZDhjMjRhZTZiNDhkMDYy`
+Snapshot ID: `MTY3NTM5NjgwMCwwMDAwMDAwMDk4MWJhMDY3MjBmYWNjN2NkMDdiNTAxNWIwZjZkY2M4`

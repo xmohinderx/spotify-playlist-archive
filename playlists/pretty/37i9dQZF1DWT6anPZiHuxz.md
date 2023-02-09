@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,207 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,344 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 8 | [Never Gonna Not Dance Again \- Sam Feldt Remix](https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Never Gonna Not Dance Again \(Sam Feldt Remix\)](https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J) | 2:47 |
 | 9 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 10 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
-| 11 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
-| 12 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
+| 11 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
+| 12 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
 | 13 | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg) | 2:42 |
 | 14 | [My Universe \- Galantis Remix](https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [My Universe \(Galantis Remix\)](https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP) | 3:44 |
 | 15 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Nobody Compares To You \- BUNT\. Remix](https://open.spotify.com/track/4r12mUB1YhsNnR1WZ8xRXx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Nobody Compares To You \(Remixes\)](https://open.spotify.com/album/4L0r91L2XER2aOsPUVywPD) | 3:26 |
 | 50 | [Fire \- Price & Takis Remix](https://open.spotify.com/track/6PPJ2XXyC9NybSZlU3hTZo) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox) | [Fire \(Remixes\)](https://open.spotify.com/album/0cyAL3igv1nQAVdfykQgfK) | 3:06 |
 
-Snapshot ID: `MTY3Mjc1NzkxNSwwMDAwMDAwMGU3ZTM4MTk3OTEzN2MxNzEwNTBhZDlkODdlMzBiYjEw`
+Snapshot ID: `MTY3Mjc1NzkxNSwwMDAwMDAwMGU4MmNiODhkYzAyY2RlMTczNjIzN2RjNzI5ZjNmNDNj`

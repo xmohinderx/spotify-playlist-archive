@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-534 songs - 1 day 6 hr 59 min
+535 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bodiless](https://open.spotify.com/track/28lXXI052MwMKPEwj832Nn) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Bodiless](https://open.spotify.com/album/4ZIxCkK6EwlQSsJIrFfnLo) | 2:54 | 2022-11-03 |  |
 | [Bottle of Bombay](https://open.spotify.com/track/7fxhjn01owKU2TZ2OJ7iG7) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Bottle of Bombay](https://open.spotify.com/album/6ulvGwN90v3vb6GS1EoNLz) | 2:16 | 2022-04-29 | 2022-08-17 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-02 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-08 |  |
 | [boythots](https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [boythots](https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv) | 2:17 | 2022-08-12 | 2022-10-01 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-06-24 |  |
 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 | 2022-12-16 |  |

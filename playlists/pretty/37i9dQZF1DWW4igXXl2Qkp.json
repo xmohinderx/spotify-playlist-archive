@@ -1,44 +1,60 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: C Stunna",
-  "num_followers": 201048,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Tay B",
+  "num_followers": 201210,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI3MDgwMCwwMDAwMDAwMGFhNzFkNzJiMDg2OTY1Y2NlYzJkNzllNGNmZDZjN2Vh",
+  "snapshot_id": "MTY3NTg3NTYwMCwwMDAwMDAwMGRkNjljYmI4ZWViZDQzNmY2YTc0MjUxMDEwMjNlZDU2",
   "tracks": [
     {
-      "added_at": "2023-02-01 17:00:00",
+      "added_at": "2023-02-08 17:00:00",
       "album": {
-        "name": "the color grey.",
-        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+        "name": "4eva In My Bag (Deluxe)",
+        "url": "https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm"
       },
       "artists": [
         {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
         }
       ],
-      "duration_ms": 200933,
-      "name": "where's the confetti?",
-      "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
+      "duration_ms": 136455,
+      "name": "Pay 2 Play",
+      "url": "https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ"
     },
     {
-      "added_at": "2023-02-01 17:00:00",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Fire In The Booth",
-        "url": "https://open.spotify.com/album/7DPlb1vfAIX9mbgULqhxRM"
+        "name": "Mr. Too Sticky",
+        "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
       },
       "artists": [
         {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
         }
       ],
-      "duration_ms": 125361,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/5dE3rHmqiAkMnv8O7D2DWU"
+      "duration_ms": 107329,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "Not Done",
+        "url": "https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Not Done",
+      "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -57,20 +73,56 @@
       "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
-      "added_at": "2023-02-01 17:00:00",
+      "added_at": "2023-02-08 17:00:00",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
+        "name": "CONCRETE",
+        "url": "https://open.spotify.com/album/3vTS0z3hThRgEg0gCqmCBI"
       },
       "artists": [
         {
-          "name": "Zoe Osama",
-          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+          "name": "crtl",
+          "url": "https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
+      "duration_ms": 120216,
+      "name": "WE UP!",
+      "url": "https://open.spotify.com/track/6gkx7beLILfdau11eptyDa"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "Wild ASF",
+        "url": "https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ"
+      },
+      "artists": [
+        {
+          "name": "Duece Uno",
+          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Wild ASF",
+      "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "Black Bape Jeans",
+        "url": "https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0"
+      },
+      "artists": [
+        {
+          "name": "Z1ON",
+          "url": "https://open.spotify.com/artist/5PZk9yjQV61SRk7YYK6L5a"
+        }
+      ],
+      "duration_ms": 123743,
+      "name": "Black Bape Jeans",
+      "url": "https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn"
     },
     {
       "added_at": "2023-01-27 02:03:01",
@@ -91,6 +143,86 @@
       "duration_ms": 198199,
       "name": "Roll A opp",
       "url": "https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "the color grey.",
+        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "where's the confetti?",
+      "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "THE BOOK OF ENOCH",
+        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+      },
+      "artists": [
+        {
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "THE BOOK OF ENOCH",
+      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "France",
+        "url": "https://open.spotify.com/album/6dbddqE1Mc5Mao0hlyUDq9"
+      },
+      "artists": [
+        {
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+        }
+      ],
+      "duration_ms": 134965,
+      "name": "France",
+      "url": "https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "Krazy",
+        "url": "https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh"
+      },
+      "artists": [
+        {
+          "name": "T$AN",
+          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+        }
+      ],
+      "duration_ms": 173681,
+      "name": "Krazy",
+      "url": "https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -127,34 +259,50 @@
     {
       "added_at": "2023-02-01 17:00:00",
       "album": {
-        "name": "Black Bape Jeans",
-        "url": "https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0"
+        "name": "Fire In The Booth",
+        "url": "https://open.spotify.com/album/7DPlb1vfAIX9mbgULqhxRM"
       },
       "artists": [
         {
-          "name": "Z1ON",
-          "url": "https://open.spotify.com/artist/5PZk9yjQV61SRk7YYK6L5a"
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
         }
       ],
-      "duration_ms": 123743,
-      "name": "Black Bape Jeans",
-      "url": "https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn"
+      "duration_ms": 125361,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/5dE3rHmqiAkMnv8O7D2DWU"
     },
     {
-      "added_at": "2023-02-01 17:00:00",
+      "added_at": "2023-02-08 17:00:00",
       "album": {
-        "name": "Full Grind",
-        "url": "https://open.spotify.com/album/1gYKcxF3sgNNUexsoWnR88"
+        "name": "New Remedy",
+        "url": "https://open.spotify.com/album/6pVmtt4mUFRsLJNABs0Toj"
       },
       "artists": [
         {
-          "name": "Baby Jeweler",
-          "url": "https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C"
+          "name": "Scale Baby",
+          "url": "https://open.spotify.com/artist/3BRCaBeKivhZvojQtslShm"
         }
       ],
-      "duration_ms": 131052,
-      "name": "Full Grind",
-      "url": "https://open.spotify.com/track/4SJ5lS4IvapFTGfJqHu4al"
+      "duration_ms": 161688,
+      "name": "New Remedy",
+      "url": "https://open.spotify.com/track/1gCya3lcpeTqcezVx6F7eM"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "Too Close (Love Is Free)",
+        "url": "https://open.spotify.com/album/1n4RZBgK4tySWakLbCZ9sv"
+      },
+      "artists": [
+        {
+          "name": "Bass Santana",
+          "url": "https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V"
+        }
+      ],
+      "duration_ms": 112846,
+      "name": "Too Close (Love Is Free)",
+      "url": "https://open.spotify.com/track/1VTcUP7CoyVH3HA7ITPEmB"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -191,22 +339,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Mr. Too Sticky",
-        "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
-      },
-      "artists": [
-        {
-          "name": "Wizz Havinn",
-          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
-        }
-      ],
-      "duration_ms": 107329,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "Score Or Die",
         "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
       },
@@ -219,22 +351,6 @@
       "duration_ms": 163872,
       "name": "Score Or Die",
       "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
-    },
-    {
-      "added_at": "2023-02-01 17:00:00",
-      "album": {
-        "name": "M's",
-        "url": "https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq"
-      },
-      "artists": [
-        {
-          "name": "Babyfa$e James",
-          "url": "https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "M's",
-      "url": "https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -309,6 +425,22 @@
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "Full Grind",
+        "url": "https://open.spotify.com/album/1gYKcxF3sgNNUexsoWnR88"
+      },
+      "artists": [
+        {
+          "name": "Baby Jeweler",
+          "url": "https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Full Grind",
+      "url": "https://open.spotify.com/track/4SJ5lS4IvapFTGfJqHu4al"
+    },
+    {
       "added_at": "2023-01-25 05:00:00",
       "album": {
         "name": "Green Hearts",
@@ -339,6 +471,22 @@
       "duration_ms": 130968,
       "name": "Too Nice",
       "url": "https://open.spotify.com/track/6TLsYdcjgjiBAFY1Vzhl5w"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "M's",
+        "url": "https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq"
+      },
+      "artists": [
+        {
+          "name": "Babyfa$e James",
+          "url": "https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "M's",
+      "url": "https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -375,26 +523,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Mob Shit",
-        "url": "https://open.spotify.com/album/2fqEyPqh1ybVQ2M6FLqHLJ"
-      },
-      "artists": [
-        {
-          "name": "Baby Jungle",
-          "url": "https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx"
-        },
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Mob Shit",
-      "url": "https://open.spotify.com/track/5apLj5wI3oNFhYaFIgtt6q"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "On Sum Shit",
         "url": "https://open.spotify.com/album/5o7bWAVye5PUmnWX5NEBGQ"
       },
@@ -407,26 +535,6 @@
       "duration_ms": 120048,
       "name": "On Sum Shit",
       "url": "https://open.spotify.com/track/4G4VVyTY9OMAv3bD0GiVOq"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/0HhVSa3NhYFXxJ3JTdhV9F"
-      },
-      "artists": [
-        {
-          "name": "Duece Uno",
-          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
-        },
-        {
-          "name": "Stunna 4 Vegas",
-          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
-        }
-      ],
-      "duration_ms": 148275,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/2XLh0cozp37b76JqHSZC79"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -491,26 +599,6 @@
       "duration_ms": 166979,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Neighborhood Trapstars",
-        "url": "https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        },
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Neighborhood Trapstars",
-      "url": "https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4"
     },
     {
       "added_at": "2023-01-25 05:00:00",
@@ -595,46 +683,6 @@
       "duration_ms": 166830,
       "name": "Patience (feat. NoCap)",
       "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "BENZ",
-        "url": "https://open.spotify.com/album/5VvKj7hSbo59rSuF6E3CcJ"
-      },
-      "artists": [
-        {
-          "name": "Young Cardi",
-          "url": "https://open.spotify.com/artist/0xf3nf764hGg0fSptQqeDk"
-        },
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        }
-      ],
-      "duration_ms": 137318,
-      "name": "BENZ",
-      "url": "https://open.spotify.com/track/6E031JdEzh2E3mesGmlGt6"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Tired (feat. Rob49)",
-        "url": "https://open.spotify.com/album/7DX362BKElkVx87g476jeA"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Tired (feat. Rob49)",
-      "url": "https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -755,22 +803,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "VITAMIN D",
-        "url": "https://open.spotify.com/album/1S0ukiLSuVxLNHAEZjCCMJ"
-      },
-      "artists": [
-        {
-          "name": "Ocean Kelly",
-          "url": "https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S"
-        }
-      ],
-      "duration_ms": 194516,
-      "name": "VITAMIN D",
-      "url": "https://open.spotify.com/track/10Tsc5cYUkFJGI5E2dKeCm"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "Trippin For No Reason",
         "url": "https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk"
-      },
-      "artists": [
-        {
-          "name": "JoeLew",
-          "url": "https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Manners",
-      "url": "https://open.spotify.com/track/1Zn1ycpMKgxmpsjV923JgB"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "It Aint Over",
         "url": "https://open.spotify.com/album/1qTOiYn4ynjph6yXJ7TeH4"
       },
@@ -823,38 +839,6 @@
       "duration_ms": 157974,
       "name": "No Cap Pt. 2 (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/74kpb349Y0Rnu2U489O9e8"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/30NrujfphLM7qczBFiCFQk"
-      },
-      "artists": [
-        {
-          "name": "Lexy Panterra",
-          "url": "https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/1YBNyz3eAVXPoh2ZWEWiIt"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "9ine",
-        "url": "https://open.spotify.com/album/6enOWRkP3yaCZkOFXtRH6n"
-      },
-      "artists": [
-        {
-          "name": "Bambi K",
-          "url": "https://open.spotify.com/artist/5qCytYH6imKCDvlhf90Kbl"
-        }
-      ],
-      "duration_ms": 94177,
-      "name": "9ine",
-      "url": "https://open.spotify.com/track/2FC8BVDgf8BtTXmaoijOfa"
     }
   ],
   "unique_name": "Fresh Finds: Hip-Hop",

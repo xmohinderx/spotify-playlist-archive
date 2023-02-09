@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists que brillan e inspiran.\nCover: Bruses",
-  "num_followers": 124624,
+  "num_followers": 124675,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4NDkyNiwwMDAwMDAwMDAyMjExZmZmYmE5NmY0YTQwMTY5OTA0Y2M1MDMyYjJj",
+  "snapshot_id": "MTY3NTM4NDkyNiwwMDAwMDAwMGNiZDQzMmViMDUwZmUxMGZmNjNiOTI5OTQ5NmQ0YmE3",
   "tracks": [
     {
       "added_at": "2023-02-03 00:42:06",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-02-03 00:42:06",
       "album": {
-        "name": "Fugitivo",
-        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
       "artists": [
         {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Fugitivo",
-      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
       "added_at": "2023-02-03 00:42:06",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-02-03 00:42:06",
       "album": {
+        "name": "Fugitivo",
+        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Fugitivo",
+      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+    },
+    {
+      "added_at": "2023-02-03 00:42:06",
+      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
-    },
-    {
-      "added_at": "2023-02-03 00:42:06",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
       "added_at": "2023-02-03 00:42:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-03 00:42:06",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
-    },
-    {
-      "added_at": "2023-02-03 00:42:06",
-      "album": {
         "name": "LIBERTAD",
         "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216961,
       "name": "LIBERTAD",
       "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
+    },
+    {
+      "added_at": "2023-02-03 00:42:06",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
     },
     {
       "added_at": "2023-02-03 00:42:06",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-02-03 00:42:06",
       "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
+    },
+    {
+      "added_at": "2023-02-03 00:42:06",
+      "album": {
         "name": "Pollo Frito",
         "url": "https://open.spotify.com/album/5WEXzemUJZ1adpjutb33Q5"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 207157,
       "name": "Besos",
       "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
-    },
-    {
-      "added_at": "2023-02-03 00:42:06",
-      "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
     },
     {
       "added_at": "2023-02-03 00:42:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-03 00:42:06",
       "album": {
-        "name": "En Tu Celly",
-        "url": "https://open.spotify.com/album/1Y6hXVzHU8cSDPjv1SFn26"
-      },
-      "artists": [
-        {
-          "name": "Jonah Xiao",
-          "url": "https://open.spotify.com/artist/5UNvujByAgIaKZRBP0GmrV"
-        }
-      ],
-      "duration_ms": 168655,
-      "name": "En Tu Celly",
-      "url": "https://open.spotify.com/track/0xDmH8yX5x3CHe35T2Wpln"
-    },
-    {
-      "added_at": "2023-02-03 00:42:06",
-      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 166916,
       "name": "Demasiado Bueno",
       "url": "https://open.spotify.com/track/63xWPyj9hdO0nupTCjvusY"
+    },
+    {
+      "added_at": "2023-02-03 00:42:06",
+      "album": {
+        "name": "En Tu Celly",
+        "url": "https://open.spotify.com/album/1Y6hXVzHU8cSDPjv1SFn26"
+      },
+      "artists": [
+        {
+          "name": "Jonah Xiao",
+          "url": "https://open.spotify.com/artist/5UNvujByAgIaKZRBP0GmrV"
+        }
+      ],
+      "duration_ms": 168655,
+      "name": "En Tu Celly",
+      "url": "https://open.spotify.com/track/0xDmH8yX5x3CHe35T2Wpln"
     },
     {
       "added_at": "2023-02-03 00:42:06",

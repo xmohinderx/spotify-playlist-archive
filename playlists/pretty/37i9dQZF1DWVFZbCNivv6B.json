@@ -1,13 +1,121 @@
 {
   "description": "Hip-hop\u00a0mexicano,\u00a0puras rimas de la calle. MC Davo y Tornillo en portada ",
-  "num_followers": 625673,
+  "num_followers": 625892,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI5OTYwMCwwMDAwMDAwMDE3NWQ5MmI4NWJjMTZjNDlmNGEwMjkwNWU1MWYyMDAy",
+  "snapshot_id": "MTY3NTg5NDc1MiwwMDAwMDAwMDNlYTNkYjFmOTdjZTg2ODgxYjFlMGI4NzBmZmFlZmUz",
   "tracks": [
+    {
+      "added_at": "2023-02-08 22:19:12",
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+    },
+    {
+      "added_at": "2023-02-08 22:19:12",
+      "album": {
+        "name": "Fuerza Vocal",
+        "url": "https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Pat Boy",
+          "url": "https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40"
+        },
+        {
+          "name": "Mixe Represent",
+          "url": "https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF"
+        },
+        {
+          "name": "Zara Monrroy",
+          "url": "https://open.spotify.com/artist/3aowb82qA25g96n68zJIIx"
+        },
+        {
+          "name": "DJ Rakalku",
+          "url": "https://open.spotify.com/artist/0zumQDPW1fSzDNRZV0NXVy"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Fuerza Vocal",
+      "url": "https://open.spotify.com/track/4feH6J8GiazximCINmxvxa"
+    },
+    {
+      "added_at": "2023-02-08 22:19:12",
+      "album": {
+        "name": "De Niro",
+        "url": "https://open.spotify.com/album/3g54wS3nIA94mvCwrE4LQ5"
+      },
+      "artists": [
+        {
+          "name": "Elorik",
+          "url": "https://open.spotify.com/artist/0rCrD9pAUWP4kL2ULv94GG"
+        },
+        {
+          "name": "Iyhon Secuaz",
+          "url": "https://open.spotify.com/artist/1zgxaHftgbxv06Bftdq7me"
+        }
+      ],
+      "duration_ms": 202308,
+      "name": "De Niro",
+      "url": "https://open.spotify.com/track/37e713wCRv41OKBhv8cymy"
+    },
+    {
+      "added_at": "2023-02-08 22:19:12",
+      "album": {
+        "name": "Cool Like Dat",
+        "url": "https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        },
+        {
+          "name": "La Gu\u00edshi Funk",
+          "url": "https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1"
+        }
+      ],
+      "duration_ms": 139030,
+      "name": "Cool Like Dat",
+      "url": "https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O"
+    },
+    {
+      "added_at": "2023-02-08 22:19:12",
+      "album": {
+        "name": "El Paso",
+        "url": "https://open.spotify.com/album/5DgmRYNaI2aZk9s6ScwypE"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/3ZXYMVZVoT6xUplGpMNlCH"
+    },
     {
       "added_at": "2023-02-02 01:00:00",
       "album": {

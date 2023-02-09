@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,624,422 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624,782 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 28 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 |
 | 29 | [Annica](https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Annica](https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW) | 2:55 |
 | 30 | [Tangerine Sour](https://open.spotify.com/track/18DYI0RQbJKF1kNpkHAY9v) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Tangerine Sour](https://open.spotify.com/album/4t6kv8UpcqymrTsvCHWOFZ) | 4:13 |
-| 31 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
-| 32 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 |
+| 31 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 |
+| 32 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
 | 33 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 |
 | 34 | [Aquatic Ambience](https://open.spotify.com/track/3zF1RvARE71MBXeWETPoEk) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Aquatic Ambience](https://open.spotify.com/album/2vVrBHREP6fcU0yd998jok) | 3:14 |
 | 35 | [Feel First Life](https://open.spotify.com/track/4esxro8J1rbsalCPb0yrgC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 |
 | 100 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 
-Snapshot ID: `MTY3NTc0NjAwMCwwMDAwMDAwMDJhYTU4MGMzZjdkZDc2YjBkMGUzMWE1NWM3YmMzYjcy`
+Snapshot ID: `MTY3NTc0NjAwMCwwMDAwMDAwMGJjZTRiY2RiMjE2MzhiNDliMzUzZWRhY2QzNzU5YjZk`

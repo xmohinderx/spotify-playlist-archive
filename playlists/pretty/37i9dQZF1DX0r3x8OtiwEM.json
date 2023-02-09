@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 822201,
+  "num_followers": 822642,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxNjYwMCwwMDAwMDAwMDFkOGQxNDk4YzRjYmUxMjQwNWYxODdlYjZkNTg4NTBm",
+  "snapshot_id": "MTY3MzYxNjYwMCwwMDAwMDAwMGVlMjFmN2IxYjYxMWQ5NTFmZDYzZWU2ZjdlZTRkMjk1",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Claire",
         "url": "https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-01-13 13:30:00",

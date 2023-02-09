@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-248 songs - 13 hr 29 min
+249 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [\(The Original\) Neutron Bomb](https://open.spotify.com/track/3bnNk9uwg0DcgNBarEgqTj) | [The Controllers](https://open.spotify.com/artist/4vdsZfLw82uxPQRhmlGDNf) | [The Controllers](https://open.spotify.com/album/1E5KS6RWT9SLKrNeYF66DQ) | 2:05 | 2015-07-23 |  |
 | [\(The Original\) Neutron Bomb](https://open.spotify.com/track/7vWZnOGMyilKXVgopNHxRP) | [The Controllers](https://open.spotify.com/artist/4vdsZfLw82uxPQRhmlGDNf) | [The Controllers](https://open.spotify.com/album/2a3MwTOunb6sAQ6utroeZ9) | 2:05 | 2015-07-23 | 2022-07-29 |
 | [30 Seconds Over Tokyo](https://open.spotify.com/track/6TfLCx9HqVgzt0MrA47kzu) | [Rocket From The Tombs](https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo) | [The Day the Earth Met the Rocket From the Tombs](https://open.spotify.com/album/6bP6a4AC6r7zWm0yjxvwzp) | 6:41 | 2015-07-23 | 2022-07-29 |
-| [30 Seconds Over Tokyo \- Live](https://open.spotify.com/track/7eJ0hDCvcrmkN5VN533cm0) | [Rocket From The Tombs](https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo) | [The Day the Earth Met the Rocket From the Tombs \(Live\)](https://open.spotify.com/album/0yHWKkqgQezsX60L4k2vBi) | 6:41 | 2015-07-23 |  |
+| [30 Seconds over Tokyo \- Live](https://open.spotify.com/track/6QcyL1MCeM7pEPEkzRjVn8) | [Rocket From The Tombs](https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo) | [The Day the Earth Met the Rocket from the Tombs \(Live\)](https://open.spotify.com/album/7M1dzy2aeWYS74YpYHfWxK) | 6:41 | 2015-07-23 |  |
+| [30 Seconds Over Tokyo \- Live](https://open.spotify.com/track/7eJ0hDCvcrmkN5VN533cm0) | [Rocket From The Tombs](https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo) | [The Day the Earth Met the Rocket From the Tombs \(Live\)](https://open.spotify.com/album/0yHWKkqgQezsX60L4k2vBi) | 6:41 | 2015-07-23 | 2023-02-09 |
 | [96 Tears](https://open.spotify.com/track/4v75K5mEyumdXCZU09kwAg) | [? & The Mysterians](https://open.spotify.com/artist/3ZZHB1Xh2PM88QTMiqHB62) | [25 Original Greatest Hits\- Cameo Parkway](https://open.spotify.com/album/1Ka3HGMoNWvfPxwjsRXGpF) | 2:57 | 2019-06-19 |  |
 | [99th Floor](https://open.spotify.com/track/0BlgrTepmp7SvbMBSmYy6X) | [The Moving Sidewalks](https://open.spotify.com/artist/1mVnnp85GXJce62susfwac) | [The Complete Moving Sidewalks](https://open.spotify.com/album/2XdFGCDDa2qZ5luxPjpfVv) | 2:15 | 2015-07-23 | 2022-07-29 |
 | [99th Floor Tantara Single](https://open.spotify.com/track/2VGZ0a8BpYg8zJQ0niSNt0) | [The Moving Sidewalks](https://open.spotify.com/artist/1mVnnp85GXJce62susfwac) | [The Complete Collection](https://open.spotify.com/album/0zOs4x77Wfg9ixVaNuJNRP) | 2:15 | 2015-07-23 |  |

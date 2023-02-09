@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -5610,7 +5610,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -11971,6 +11971,24 @@
     },
     {
       "album": {
+        "name": "Shottah",
+        "url": "https://open.spotify.com/album/0MHm0eH7H688i8pS3zVNA0"
+      },
+      "artists": [
+        {
+          "name": "Leekthough",
+          "url": "https://open.spotify.com/artist/4Io0W7xMYxcxxIHcUIAS07"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Shottah",
+      "url": "https://open.spotify.com/track/60dx66AMXC2QriOZrmTULZ"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -13534,7 +13552,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 122994,
       "name": "Toma Tapa",
       "url": "https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V"

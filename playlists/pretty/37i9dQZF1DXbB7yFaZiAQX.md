@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,966 likes - 150 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,326 likes - 150 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 96 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 4:37 |
 | 97 | [Mandinka](https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 3:47 |
 | 98 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
-| 99 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 |
-| 100 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
+| 99 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
+| 100 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 |
 | 101 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
 | 102 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 103 | [Dirty Blvd.](https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:29 |
@@ -143,9 +143,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 133 | [Isolation \- 2007 Remaster](https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 2:55 |
 | 134 | [Head On](https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Automatic \(Expanded Version\)](https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm) | 4:11 |
 | 135 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
-| 136 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
-| 137 | [p:Machinery](https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 3:48 |
-| 138 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
+| 136 | [p:Machinery](https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 3:48 |
+| 137 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
+| 138 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
 | 139 | [Waterfront \- Remastered 2002](https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sparkle In The Rain](https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW) | 4:49 |
 | 140 | [Living On The Ceiling](https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG), [Dennis Weinrich with John O.Williams](https://open.spotify.com/artist/38DOQYh2wbuhXYM2MSDvBb) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 4:10 |
 | 141 | [Reward](https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm) | [The Teardrop Explodes](https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M) | [Kilimanjaro](https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5) | 2:42 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 |
 | 150 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
 
-Snapshot ID: `MTY3NTM1ODYxMSwwMDAwMDAwMDNmYjg5Mzg2YTRlNTc0NmMyMmY0MmNjY2Q1MzkxNDU0`
+Snapshot ID: `MTY3NTM1ODYxMSwwMDAwMDAwMDYyYThkNzg5MzRhNDZiNjM2MGNmNDY2NjcyNDdjYTg1`

@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمود التركي
 
-189 songs - 11 hr 13 min
+190 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 |  |
 | [Al Madhaher El Khedaa](https://open.spotify.com/track/6sEx7tKOa01e2PeRch1t3L) | [Haider Al Ghazal](https://open.spotify.com/artist/1g73ySoZbpQo3onMABWzy7) | [Al Madhaher El Khedaa](https://open.spotify.com/album/0RjlkoqoHd6tavBfjU3ee3) | 2:41 | 2021-12-23 | 2022-03-12 |
 | [Ala Almawthoe](https://open.spotify.com/track/3NfQNwOtvNQqP48xFKSegX) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ala Almawthoe](https://open.spotify.com/album/053pOViKjZOnMsG4fHhq7N) | 2:01 | 2022-03-14 | 2022-06-11 |
+| [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 | 2023-02-08 |  |
 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 | 2022-06-10 |  |
 | [Alhob Malik](https://open.spotify.com/track/3WgxnFv3nAsCdFaiRUdKbR) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Alhob Malik](https://open.spotify.com/album/1isYU8e5FwVDnqgxF1Sx0o) | 3:34 | 2023-01-26 |  |
 | [Allah Honej](https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Allah Honej](https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw) | 3:36 | 2022-12-22 |  |
@@ -35,7 +36,7 @@
 | [Alzilzal](https://open.spotify.com/track/6WHepKYFkgAdTFWmbhQ7r4) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Alzilzal](https://open.spotify.com/album/24hrDafhOZ1PXwYzjhzmVe) | 3:25 | 2021-12-23 | 2022-03-12 |
 | [Ana Aliraqia](https://open.spotify.com/track/2oAkR0lyM013o0Z9XLXh3k) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ana Aliraqia](https://open.spotify.com/album/3IE0sfMShYbUL8iuZnDxLG) | 3:54 | 2022-03-18 | 2022-06-11 |
 | [Ana Almumayaz](https://open.spotify.com/track/0IgZOwXy1eHCKEdSnZqeeB) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [Ana Almumayaz](https://open.spotify.com/album/5F4UqeZgtGS1hbhr19Y91K) | 3:49 | 2022-01-14 | 2022-05-20 |
-| [Ana Astahel](https://open.spotify.com/track/0DQQIvNQ5YM1Ci6znjvRb9) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Ana Astahel](https://open.spotify.com/album/21cNpmRbUJCv2ojUk3CmGn) | 4:06 | 2022-06-09 |  |
+| [Ana Astahel](https://open.spotify.com/track/0DQQIvNQ5YM1Ci6znjvRb9) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Ana Astahel](https://open.spotify.com/album/21cNpmRbUJCv2ojUk3CmGn) | 4:06 | 2022-06-09 | 2023-02-09 |
 | [Ana El3efetkom](https://open.spotify.com/track/2kE3bM59u5PoRt0Eiv56Z7) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ana El3efetkom](https://open.spotify.com/album/1P4UprIAR5EC70frF77GII) | 3:08 | 2021-12-23 | 2022-03-12 |
 | [Ani Alaqwa](https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ani Alaqwa](https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc) | 2:57 | 2022-02-09 | 2022-07-20 |
 | [Ani Msafir](https://open.spotify.com/track/6pcaL6VQLGbpMmFQDXzWUb) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Ani Msafir](https://open.spotify.com/album/0QusawiKu1PdGTfAgUHPr7) | 3:54 | 2021-12-23 | 2022-03-12 |
@@ -54,7 +55,7 @@
 | [Azkorak Min Yeji Leil](https://open.spotify.com/track/2Hk9JgZRTBrLPYVLx2SJSP) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Azkorak Min Yeji Leil](https://open.spotify.com/album/7KsCUVd8KnoUWMqJOs66S0) | 8:36 | 2021-12-23 | 2022-03-12 |
 | [Baatrk Atnfas](https://open.spotify.com/track/2vKRNP5PHsHTa8deqEVLTe) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Baatrk Atnfas](https://open.spotify.com/album/0q5kruQKz4fQDyXp1rqyHm) | 3:12 | 2022-11-15 |  |
 | [Badeet Ataalem](https://open.spotify.com/track/6WZOR9YQ54pQnftACw8yki) | [Hossam Al Qaisi](https://open.spotify.com/artist/52OVGQP9OJKCwqfQdnF4lw) | [Badeet Ataalem](https://open.spotify.com/album/3RLuEnHtsTWeQRIP8m9okh) | 3:54 | 2022-06-13 |  |
-| [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 |  |
+| [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 | 2023-02-09 |
 | [Bakeni](https://open.spotify.com/track/5b0xHD3oaK3CfnMuiZzSAi) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [Bakeni](https://open.spotify.com/album/6pev4hGsRKRL86rTf4UTDx) | 2:58 | 2021-12-23 | 2022-01-21 |
 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 | 2022-05-20 | 2022-11-21 |
 | [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 |  |

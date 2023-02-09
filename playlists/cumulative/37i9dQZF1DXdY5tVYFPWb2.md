@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-427 songs - 1 day 4 hr 21 min
+428 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 | 2022-05-24 |  |
 | [Baby Baby Baby](https://open.spotify.com/track/5uMl2Prrq7BrPqALqkThvJ) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Hot Sauce on Ice Cream](https://open.spotify.com/album/6FDsnKHOZcxraTjXWQDUXE) | 3:31 | 2022-08-04 | 2022-08-17 |
 | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Millie Snow](https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q) | 3:31 | 2022-10-11 | 2022-11-30 |
-| [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 | 2022-11-03 | 2023-02-08 |
+| [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 | 2022-11-03 |  |
 | [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-03 | 2022-11-05 |
 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 | 2022-05-24 | 2023-01-25 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-24 | 2022-07-27 |
@@ -227,7 +227,8 @@
 | [Smile in your face](https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS), [LITTLE](https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks) | [Smile in your face](https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK) | 4:34 | 2023-01-17 |  |
 | [Smoke](https://open.spotify.com/track/4TaQ2FrgZ8cjjqHyXtdnrn) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [Smoke EP](https://open.spotify.com/album/11G0nq5QtWDxjsd8L7u8m3) | 3:34 | 2023-01-31 | 2023-02-08 |
 | [Smoking Time](https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Smoking Time](https://open.spotify.com/album/7EjmHYZ0G6p7GpXRanHJ9A) | 4:29 | 2022-06-07 | 2022-07-27 |
-| [Solotrip](https://open.spotify.com/track/4r4nrNB7GJzv77341QycpH) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Solotrip](https://open.spotify.com/album/3o1OU94fUO8yeXhX1DybVr) | 3:12 | 2023-02-07 |  |
+| [Solotrip](https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Solotrip](https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo) | 3:12 | 2023-02-07 |  |
+| [Solotrip](https://open.spotify.com/track/4r4nrNB7GJzv77341QycpH) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Solotrip](https://open.spotify.com/album/3o1OU94fUO8yeXhX1DybVr) | 3:12 | 2023-02-07 | 2023-02-09 |
 | [SOMETHING](https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 3:18 | 2023-01-24 | 2023-02-01 |
 | [SOSOGU](https://open.spotify.com/track/54x8nltyUeJxylMzAev90H) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [SOSOGU](https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64) | 3:24 | 2022-05-31 | 2022-06-07 |
 | [Space Traveler](https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Space Traveler](https://open.spotify.com/album/4iMHcf6TLvNG69OLPxwdjK) | 4:25 | 2022-05-24 | 2022-07-25 |
@@ -368,7 +369,7 @@
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-16 |  |
 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 | 2022-06-16 | 2022-07-20 |
-| [夏のクラクション](https://open.spotify.com/track/7LtRFZe9aaqynkfGJrKhSX) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [夏のクラクション](https://open.spotify.com/album/2AwdfBODfo1V9CI5ueRG3d) | 3:39 | 2022-12-06 |  |
+| [夏のクラクション](https://open.spotify.com/track/7LtRFZe9aaqynkfGJrKhSX) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [夏のクラクション](https://open.spotify.com/album/2AwdfBODfo1V9CI5ueRG3d) | 3:39 | 2022-12-06 | 2023-02-09 |
 | [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN \~Cover Songs\~](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 | 2022-05-24 |  |
 | [夕暮れ](https://open.spotify.com/track/1H0e4AwymSv4yRalyovdI0) | [The Sunnys](https://open.spotify.com/artist/1VISQcJOpNyWydQfERSjJ2) | [夕暮れ](https://open.spotify.com/album/4irtZ5UbGFW8WkU8TvfPGf) | 4:17 | 2022-08-23 | 2022-08-31 |
 | [夜明けのドリーミング](https://open.spotify.com/track/0sE2Q9DEMty9ouWkbSXchz) | [DEBBIE'S ALLY](https://open.spotify.com/artist/4Tb0oGNjX4I1SPAtsYjGer) | [夜明けのDREAMING](https://open.spotify.com/album/33PYC7lNRrCcCU9vfJrFZB) | 4:46 | 2022-11-03 | 2022-11-09 |

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Ala Tary Al Awatef",
+        "url": "https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Al Maslawi",
+          "url": "https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Ala Tary Al Awatef",
+      "url": "https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj"
+    },
+    {
+      "album": {
         "name": "Alb Abyad",
         "url": "https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 246510,
       "name": "Ana Astahel",
       "url": "https://open.spotify.com/track/0DQQIvNQ5YM1Ci6znjvRb9"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 224931,
       "name": "Bajer Jay",
       "url": "https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB"

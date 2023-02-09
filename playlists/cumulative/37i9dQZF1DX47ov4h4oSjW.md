@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-100 songs - 4 hr 36 min
+101 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2023-01-26 |  |
 | [Her Eyes the Stars](https://open.spotify.com/track/3UR1smBMBt2bckrJfBSgyV) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Her Eyes the Stars](https://open.spotify.com/album/2DQBbKWhK5Vbd55LgImyRg) | 2:10 | 2023-01-26 |  |
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2023-01-26 |  |
+| [Hold Me Tight](https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Landscapes](https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x) | 4:31 | 2023-01-26 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2023-01-26 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:44 | 2023-01-26 |  |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2023-01-26 |  |
@@ -64,7 +65,7 @@
 | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt) | [Nikolas Belalis](https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M) | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi) | 1:38 | 2023-01-26 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2023-01-26 |  |
 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 | 2023-01-26 |  |
-| [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2023-01-26 |  |
+| [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2023-01-26 | 2023-02-09 |
 | [Nocturnal Waltz](https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Nocturnal Waltz](https://open.spotify.com/album/4WNTnQdoFo9GexkdBnAJus) | 2:08 | 2023-01-26 |  |
 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2023-01-26 |  |
 | [Nocturnes, Op\. 27: No\. 2 in D\-Flat Major](https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Arthur Rubinstein](https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9) | [50 Masterworks \- Arthur Rubinstein](https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE) | 6:16 | 2023-01-26 |  |

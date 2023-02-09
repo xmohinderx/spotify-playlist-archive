@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,248 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,279 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [らしく](https://open.spotify.com/track/12ZJt0tZRUr1k4ROKm3MUT) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [らしく](https://open.spotify.com/album/2OcLL8HffVsOIZCM2EmQD9) | 4:22 |
+| 1 | [Rashiku](https://open.spotify.com/track/1TBHbljkZmfH15BkKowBDK) | [yangskinny](https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl) | [Rashiku](https://open.spotify.com/album/3hOIKNqobignQz1MheQ0o9) | 4:22 |
 | 2 | [緋寒桜](https://open.spotify.com/track/5sULK6Cv3JPYLNPhqvgtVh) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [緋寒桜](https://open.spotify.com/album/5eM2SDlq56qbYfuPTrgqsp) | 3:13 |
 | 3 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 |
 | 4 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 25 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
 | 26 | [SOMETHING](https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 3:18 |
 | 27 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 |
-| 28 | [かわい子ちゃん](https://open.spotify.com/track/10xyA4e0YTDR5XaJurbB0S) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 2:27 |
-| 29 | [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 |
+| 28 | [Kawaiko Chan](https://open.spotify.com/track/1u4XelqBZV7Wco7VUZoi9U) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 2:27 |
+| 29 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 |
 | 30 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 |
 | 31 | [朝焼けが綺麗な街へ行こう](https://open.spotify.com/track/0tEosCdxAJ0ofky8s2YD71) | [スズキケント](https://open.spotify.com/artist/4LjPOp1UJAb7EKUkW2MLnX) | [もしも星が降るのなら](https://open.spotify.com/album/3iw8C6olIL1pRMezEZCMH7) | 3:32 |
 | 32 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 58 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 |
 | 59 | [enemy](https://open.spotify.com/track/1qCnJZRn6iAXbWOCfiFhak) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [enemy](https://open.spotify.com/album/4qRXeEzlFMUJozSzXGCDX4) | 3:46 |
 
-Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDZjODQ4MjI5OTdhMmNkMjdlZjUxNWJhNjk2ZGI4ODhl`
+Snapshot ID: `MTY3NTc4MjAwMCwwMDAwMDAwMDIxMjFkMTVkNmRmMDAxZWM3ZTRlZDQ1YzVhZmYwN2Fh`

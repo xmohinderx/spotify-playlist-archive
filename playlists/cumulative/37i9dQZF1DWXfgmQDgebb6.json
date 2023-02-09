@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Damn Cold",
+        "url": "https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe"
+      },
+      "artists": [
+        {
+          "name": "Lim Kim",
+          "url": "https://open.spotify.com/artist/5lO18eqxOnlNXdgzmih1j4"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Damn Cold",
+      "url": "https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49"
+    },
+    {
+      "album": {
         "name": "Dance (feat. B JYUN.)",
         "url": "https://open.spotify.com/album/4BkZC5CA3P1hm0yw06wH3Q"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-09",
       "duration_ms": 106086,
       "name": "Elon Musk",
       "url": "https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku"

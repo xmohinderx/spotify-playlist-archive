@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319415,
+  "num_followers": 319412,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDFmMTc3NzkxNjkyN2NiODUyYmIwODFjZjM1OWM4MWI5",
+  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDUzYThhM2MxNzVhNzYxNmZjMDc0YTk5M2U1NTIxNTUx",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Sun Came Up",
         "url": "https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 202905,
       "name": "Sun Came Up",
       "url": "https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-06-20 14:23:17",

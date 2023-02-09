@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2355713,
+  "num_followers": 2356184,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDAzNDkxNSwwMDAwMDAwMDk4MTg1ZGIwMjVjZTc5ODlkMjAyMWM2Zjg0NzBmYjY1",
+  "snapshot_id": "MTY3NDAzNDkxNSwwMDAwMDAwMDVhMzliZTBiNTJkNGE0MGEyZGVhMDYzMjg3NmY4MDg2",
   "tracks": [
     {
       "added_at": "2023-01-04 06:31:10",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 291320,
       "name": "The Day You Said Goodnight",
       "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Teka Lang",
-        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
+        "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
       },
       "artists": [
         {
-          "name": "Emman",
-          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 196582,
-      "name": "Teka Lang",
-      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "TJ Monterde",
-        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
+        "name": "Teka Lang",
+        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
       "artists": [
         {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+          "name": "Emman",
+          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Dating Tayo",
-      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
+      "duration_ms": 196582,
+      "name": "Teka Lang",
+      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
     },
     {
       "added_at": "2023-01-04 06:31:10",

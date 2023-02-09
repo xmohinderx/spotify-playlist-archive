@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,769 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,805 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 39 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
 | 40 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 41 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
-| 42 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
-| 43 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 |
+| 42 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 |
+| 43 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
 | 44 | [Untitled IV](https://open.spotify.com/track/1m6l9yUMnbFpBdaxYZXsuj) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Untitled IV](https://open.spotify.com/album/1z4Q3HjmtpRViik5kb1fGZ) | 4:44 |
 | 45 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 46 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
 | 47 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 |
 | 48 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 |
 | 49 | [Nisida](https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Nisida](https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg) | 7:27 |
-| 50 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
-| 51 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
-| 52 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
+| 50 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
+| 51 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
+| 52 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
 | 53 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
 | 54 | [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 |
 | 55 | [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 |
 | 56 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 | 57 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 |
 | 58 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
-| 59 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
-| 60 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
+| 59 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
+| 60 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
 
-Snapshot ID: `MTY3NTA3NDYwMCwwMDAwMDAwMDk1NjA5ODllODM3Mjc4YjJiMGI2ZDJhZDc4ZDU1NzBl`
+Snapshot ID: `MTY3NTA3NDYwMCwwMDAwMDAwMGZkMjUyOGY1ZDlmYmY0NmM0YWYzMWM3YjgzY2ExNDkz`

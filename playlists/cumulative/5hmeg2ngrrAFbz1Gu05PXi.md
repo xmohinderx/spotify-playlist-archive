@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
 
-109 songs - 10 hr 6 min
+111 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Funktion \- Remix](https://open.spotify.com/track/2GRfzOL3CP2fkRrZT1GYyF) | [Ed Rush](https://open.spotify.com/artist/6gj4aZLxVGCdFPMThH6q6q) | [Retrospect, Vol\. 1 \(Compiled by DJ Krust & Jumpin Jack Frost\)](https://open.spotify.com/album/64LRkg6YHxFxuyUuC0QOUy) | 6:20 | 2022-10-18 |  |
 | [Further](https://open.spotify.com/track/5SWI7JbAwfTPgs0cuorR7H) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Serena McKinney](https://open.spotify.com/artist/7gKCfXkWzSIIqF28LtrnsV) | [Far Cry 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) | 4:04 | 2022-10-18 |  |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2022-10-18 |  |
+| [Happy Pills](https://open.spotify.com/track/6eJy88W9HCYzw3NJHRNToU) | [Younger Brother](https://open.spotify.com/artist/4ypPM5MAlxN4nbsiiHtBpu) | [The Last Days Of Gravity](https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd) | 8:48 | 2023-02-08 |  |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2022-10-18 |  |
 | [Helicopter Mack](https://open.spotify.com/track/3dqu2lbvPdawMaEA9uCnkA) | [Archnemesis](https://open.spotify.com/artist/0mnxsBXJFbVCocWDZXIhLr) | [People's Radio](https://open.spotify.com/album/1VfnKkj2su211lURrr7Kro) | 4:42 | 2022-10-18 |  |
 | [Hold Me \(Instrumental\)](https://open.spotify.com/track/6E3j4helkCIaldqTkhCWW1) | [Milosh](https://open.spotify.com/artist/4KRGjXEJ1yed7F3ALFOAEO) | [Jetlag Instrumentals](https://open.spotify.com/album/3iAFREIRLS35zRqzaTAWep) | 8:13 | 2022-10-18 |  |
@@ -54,6 +55,7 @@
 | [Innenin](https://open.spotify.com/track/4POrzS1oGv0s4tjYwAzbOI) | [Blush Response](https://open.spotify.com/artist/04EzrrhYAQ81Go4FJ0prtu) | [Void Out](https://open.spotify.com/album/1FEi38PosqAOnaLZ1IUnsF) | 5:30 | 2022-10-18 |  |
 | [Interloper](https://open.spotify.com/track/1nbxaFALcmHQ1SrbcWl934) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper \(2015 Remaster\)](https://open.spotify.com/album/3jBcf9rVNv5xe7K9eqTd7Z) | 6:31 | 2022-10-18 |  |
 | [Kabuki](https://open.spotify.com/track/2ch0UkMq80kJMv8AKU6kV7) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Tran](https://open.spotify.com/artist/49EMTcP4vAcg8Bbkxcl4bX) | [Koto Ep](https://open.spotify.com/album/3MYogWFTbX4tyrPOti1Ymc) | 6:59 | 2022-10-18 |  |
+| [Know You Don't](https://open.spotify.com/track/1IimA48MOmziyhRZpxDzD5) | [Jel](https://open.spotify.com/artist/1UlLSnpsaY8RdH6W5BRObN) | [Soft Money](https://open.spotify.com/album/0fzOf2tjmaYCptKw3tecMC) | 3:34 | 2023-02-08 |  |
 | [Kow Chow](https://open.spotify.com/track/5CGWUQ3asNMDqnYxLmlMGi) | [Sunmonx](https://open.spotify.com/artist/4jIcnlU3POWCKZRYo6UtwQ) | [Power Salad](https://open.spotify.com/album/0F6YKEYXVF9mNhAVlp6q4j) | 7:52 | 2022-10-18 |  |
 | [Leena](https://open.spotify.com/track/02kSuFnlxEW1PlRVTF1DTd) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo) | 3:45 | 2022-10-18 |  |
 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 | 2022-10-18 |  |

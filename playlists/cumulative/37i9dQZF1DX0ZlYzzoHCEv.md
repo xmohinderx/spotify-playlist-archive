@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-275 songs - 12 hr 54 min
+276 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-05-06 | 2022-07-27 |
 | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 | 2022-07-01 | 2022-07-28 |
 | [BERLINO](https://open.spotify.com/track/0JqflUI3x0BOe8HoQzVl4a) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [BERLINO](https://open.spotify.com/album/1IWVfMVnvbc03I0ysXymvB) | 2:53 | 2022-05-06 | 2022-07-28 |
-| [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-15 |  |
+| [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-15 | 2023-02-09 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-22 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-05-27 | 2022-07-28 |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-08-23 | 2023-01-17 |
@@ -257,6 +257,7 @@
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-05-12 | 2022-05-27 |
 | [TOO EASY](https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [TOO EASY](https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f) | 3:21 | 2022-05-06 | 2022-05-24 |
 | [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2022-05-06 | 2022-05-13 |
+| [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 | 2023-02-08 |  |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-05-12 | 2022-08-17 |
 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 | 2022-05-16 | 2022-05-21 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-06-01 |  |

@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "Strauss: Lieder",
+        "url": "https://open.spotify.com/album/42Q2I1287c5EGBjIyoTiHs"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210800,
+      "name": "4 Lieder, Op. 27, TrV 170: IV. Morgen!",
+      "url": "https://open.spotify.com/track/1lTePek6Xkel3k4Sjli6GB"
+    },
+    {
+      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -172,34 +198,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 276080,
-      "name": "4 Lieder, Op. 27, TrV 170: 1. Ruhe, meine Seele!",
+      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
-    },
-    {
-      "album": {
-        "name": "Strauss: Lieder",
-        "url": "https://open.spotify.com/album/42Q2I1287c5EGBjIyoTiHs"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210800,
-      "name": "4 Lieder, Op. 27, TrV 170: IV. Morgen!",
-      "url": "https://open.spotify.com/track/1lTePek6Xkel3k4Sjli6GB"
     },
     {
       "album": {

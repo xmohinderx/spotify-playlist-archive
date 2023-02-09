@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Lucy Calcines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,456 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,478 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ALAS](https://open.spotify.com/track/46dFTrR7IGgWoTbcwjatjC) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [ALAS](https://open.spotify.com/album/0q2c31QhtrSny4iG6sYL0W) | 2:59 |
+| 1 | [ALAS](https://open.spotify.com/track/46dFTrR7IGgWoTbcwjatjC) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [Alas](https://open.spotify.com/album/0q2c31QhtrSny4iG6sYL0W) | 2:59 |
 | 2 | [Me he puesto unas alas](https://open.spotify.com/track/6rDiwLTItUG0RQFmbQdJed) | [Leblanc](https://open.spotify.com/artist/25H3Jsd9aQK2MGTtIeNzhQ) | [Me he puesto unas alas](https://open.spotify.com/album/2vj4YwseJztwlM0xW3mQcf) | 3:31 |
 | 3 | [Pidéme un perdón](https://open.spotify.com/track/3UFQHQcgVbKBV6AYGchQH3) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc) | [Pidéme un perdón](https://open.spotify.com/album/7gyScq2Xv0w3TQjnVxYGkv) | 4:46 |
 | 4 | [Casino](https://open.spotify.com/track/4ezu1njO7VtPQuxNC9vlb9) | [Eira](https://open.spotify.com/artist/2Wxv0u0QvT9nBcdRxv6G9v) | [Casino](https://open.spotify.com/album/57LxNk5DGtcFOc8BtCN5LT) | 4:24 |

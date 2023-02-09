@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-619 songs - 1 day 11 hr 31 min
+620 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Volcano](https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 | 2022-10-19 |
 | [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2022-12-15 |  |
 | [Warauna!](https://open.spotify.com/track/05U2zG3btPIClO6FCd8sXJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Warauna!](https://open.spotify.com/album/2bB5INyPxfWwVeFg5Y7fIO) | 2:35 | 2023-01-11 | 2023-02-03 |
+| [warewareda feat\. sakana](https://open.spotify.com/track/4c7DXjRdLHspJGkbQNUdns) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [warewareda feat\. sakana](https://open.spotify.com/album/6wwdEDDpNjbKURoIw050U2) | 2:02 | 2023-02-09 |  |
 | [Whale\-fall Community](https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 3:57 | 2022-08-16 | 2022-08-31 |
 | [Yankee Dance](https://open.spotify.com/track/5Srs8p95uAhVvFBAQZaWjb) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [Yankee Dance](https://open.spotify.com/album/5rO0lgXiwvffOspor3TN7Q) | 3:22 | 2022-07-07 | 2022-07-17 |
 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 | 2022-06-09 | 2022-06-22 |
@@ -257,7 +258,7 @@
 | [わかっちゃない](https://open.spotify.com/track/4YeIIZMSR9q7FiwvmArXRf) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [あたし](https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU), [zumiTa](https://open.spotify.com/artist/4qfY0emX2FXwiTnLkeGBlz) | [わかっちゃない](https://open.spotify.com/album/4EHFREZ659VNRAAT1Y92y6) | 2:48 | 2022-08-25 | 2022-08-31 |
 | [わたしの線香](https://open.spotify.com/track/15ekICXVvIVyOV7YWuaC6H) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [羽生まゐご](https://open.spotify.com/artist/7neUaeCzIILoPHd24HahXq) | [わたしの線香](https://open.spotify.com/album/5867dlntyJxmzY4zRf6MZG) | 2:34 | 2022-06-16 | 2022-07-24 |
 | [わっかんない](https://open.spotify.com/track/3zRN9O8Ii2YRzY1ChrsWGk) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [わっかんない](https://open.spotify.com/album/72QwYrFpmR1eEnLRbo3XKm) | 3:48 | 2022-07-07 | 2022-07-27 |
-| [われわれだ feat\. さかな](https://open.spotify.com/track/7cMAjWPsnduHAkKFVjnGry) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [われわれだ feat\. さかな](https://open.spotify.com/album/5yAlH0qmLzTNe6AN1xY6o3) | 2:02 | 2023-02-08 |  |
+| [われわれだ feat\. さかな](https://open.spotify.com/track/7cMAjWPsnduHAkKFVjnGry) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [われわれだ feat\. さかな](https://open.spotify.com/album/5yAlH0qmLzTNe6AN1xY6o3) | 2:02 | 2023-02-08 | 2023-02-09 |
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 |  |
 | [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 | 2022-10-08 |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 |  |

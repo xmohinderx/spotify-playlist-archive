@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-495 songs - 1 day 4 hr 1 min
+496 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2020-10-13\* | 2021-12-04 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-04-16 |  |
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 | 2022-12-10 |
-| [temporary](https://open.spotify.com/track/2UZ23yylRr0sZKZAhhWW6b) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [temporary](https://open.spotify.com/album/1XrHmJ63bL7Rhnn6RNIA2d) | 3:12 | 2023-01-20 |  |
+| [temporary](https://open.spotify.com/track/2UZ23yylRr0sZKZAhhWW6b) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [temporary](https://open.spotify.com/album/1XrHmJ63bL7Rhnn6RNIA2d) | 3:12 | 2023-01-20 | 2023-02-09 |
 | [Tennis Club](https://open.spotify.com/track/2I4QyfxbaYASskhchbxsDw) | [Talltale](https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ) | [Tennis Club](https://open.spotify.com/album/2sPSj9hpO9Aw5TAZDzLX1i) | 3:21 | 2021-11-19 | 2021-11-20 |
 | [that friend](https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [that friend](https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh) | 3:00 | 2021-07-04 | 2022-03-09 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-10-21 |  |
@@ -470,6 +470,7 @@
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-11 | 2022-04-21 |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
+| [VERDE MENTA](https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:08 | 2023-02-03 |  |
 | [VERDE MENTA](https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:08 | 2022-11-11 | 2023-02-05 |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-11-06 | 2021-12-18 |
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2020-10-13\* | 2021-02-19 |

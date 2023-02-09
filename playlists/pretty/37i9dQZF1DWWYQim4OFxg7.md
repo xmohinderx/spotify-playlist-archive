@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316 likes - 30 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317 likes - 30 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roy G\. Biv](https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:07 |
-| 2 | [How Do Volcanoes Work?](https://open.spotify.com/track/4iiTCRH5nnR1QPNgEtJdC5) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:27 |
+| 2 | [How Do Volcanoes Work?](https://open.spotify.com/track/5lVyjyEWLZluAGYjqFQd9m) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE) | 1:27 |
 | 3 | [The Water Cycle Song](https://open.spotify.com/track/3pFIICPJjx4icOFSycd5a0) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x) | [The Water Cycle Song](https://open.spotify.com/album/2pnN3jPJOXeynTDPniQ16F) | 2:20 |
 | 4 | [Think Like A Scientist](https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [GoNoodle Presents Blazer Fresh \(Vol\. 1\)](https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk) | 2:32 |
 | 5 | [Hypothesis](https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:30 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 29 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 |
 | 30 | [Speed and Velocity](https://open.spotify.com/track/7BT6rJugPKZS9STlaAiNxH) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Marty Beller](https://open.spotify.com/artist/7mI3lEVRmJ9Yjpuu2J0GfI) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:48 |
 
-Snapshot ID: `MTY0OTQyNjU3MSwwMDAwMDAwMGEwMzQ0YTdiYjRlMmFmZjFjODlmMGVkYjc5NmMxOTI0`
+Snapshot ID: `MTY0OTQyNjU3MSwwMDAwMDAwMDYwMWI3MzljMWIxOGUxOThmMTAyNGQ0M2Q1N2UwNTUy`

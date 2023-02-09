@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-109 songs - 7 hr 25 min
+110 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Nenjorama](https://open.spotify.com/track/4NmfmCIrKi0Atun3VyScwk) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Nenjorama \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/6V93wLuFLRyv73BM4Rkvx4) | 3:38 | 2022-03-03 | 2022-11-15 |
 | [Neruppa Irupaan \- From "Sivakumarin Sabadham"](https://open.spotify.com/track/11zRluoNe3Wusm9jyBaln9) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Neruppa Irupaan \(From "Sivakumarin Sabadham"\)](https://open.spotify.com/album/1CpyWotW6RjWLfbZKVIsol) | 2:56 | 2021-11-29 | 2022-10-19 |
 | [Nethu \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6O9Y7nRXMHOsYt5ALfMyeU) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Nethu \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/6bFDKh9BInrU54Rcp6Hs6p) | 3:51 | 2021-11-29 | 2022-07-15 |
+| [Onnoda Nadandhaa \(From "Viduthalai"\)](https://open.spotify.com/track/1go9gWdOHiQIrLqTrAklti) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Onnoda Nadandhaa \(From "Viduthalai"\)](https://open.spotify.com/album/42x5rRggRUdH3v6vbdHNxP) | 5:15 | 2023-02-08 |  |
 | [Oonjal Manam \- From "Laththi"](https://open.spotify.com/track/7fxObppSmA0YfjRv8OQZ55) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Oonjal Manam \(From "Laththi"\)](https://open.spotify.com/album/28JrkEMIk1dZ1rst9TC1M9) | 3:58 | 2022-11-14 |  |
 | [Orr Kadhal Kanaa \- From "Farhana"](https://open.spotify.com/track/2sizHChPI8FuMSwQXcVV7c) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Orr Kadhal Kanaa \(From "Farhana"\)](https://open.spotify.com/album/0lQ4aL9v6knk6cQUFDCf07) | 4:11 | 2022-10-07 |  |
 | [Oru Arai Unathu](https://open.spotify.com/track/12I5lJG6IdTtt0QjNHFgHr) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sanah Moidutty](https://open.spotify.com/artist/20Gkw6vtNrfmiPP1q7TakX) | [Maara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/07zKfMmyPo0FCMqngBBckL) | 4:05 | 2021-11-29 | 2022-06-21 |

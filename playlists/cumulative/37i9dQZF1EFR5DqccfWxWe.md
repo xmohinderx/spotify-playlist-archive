@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 9 hr 29 min
+171 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Vida](https://open.spotify.com/track/1bMa9LFg3QbJSD86mDXeS7) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:27 | 2022-06-04 |  |
 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 | 2022-06-04 |  |
 | [Vuelve](https://open.spotify.com/track/0zXLBRxbUwg9vCo0nGc1JO) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:51 | 2022-06-04 |  |
-| [Wake Up](https://open.spotify.com/track/4rUBoWqYiQXoJZ5FE5Li2r) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:55 | 2022-06-04 |  |
+| [Wake Up](https://open.spotify.com/track/4rUBoWqYiQXoJZ5FE5Li2r) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:55 | 2022-06-04 | 2023-02-09 |
+| [Wake up Meditation \(Awakening\)](https://open.spotify.com/track/2Bvq5au2I9Lw8HcbCmvq9g) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade: Meditations](https://open.spotify.com/album/1Z21LzVXXvus0tqEfE80bm) | 7:39 | 2023-02-08 |  |
 | [Wav.](https://open.spotify.com/track/1L7mmz2j14aDbGBSfvRABE) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Wav.](https://open.spotify.com/album/4mDFF1P7O3cFWY57CPycRE) | 3:15 | 2022-06-04 |  |
 | [You](https://open.spotify.com/track/3CzJWNBSRUlRBGP5Vvp5mL) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:38 | 2022-06-04 | 2022-10-19 |
 | [You](https://open.spotify.com/track/5443CD5KwXDM5zAiiAnc1r) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:38 | 2022-10-18 |  |

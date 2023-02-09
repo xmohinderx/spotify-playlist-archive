@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Prinx Emmanuel
 
-76 songs - 4 hr 0 min
+77 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Plenty](https://open.spotify.com/track/2lhVYASv5dCOhfYSg5AIoE) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv) | [Plenty](https://open.spotify.com/album/6BqpsXhaId5BBEN4mTlR0p) | 3:11 | 2023-02-02 |  |
 | [Rejoice](https://open.spotify.com/track/69CJh3p63GFXSoE3tQSxjX) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Afrogospel Compilation](https://open.spotify.com/album/05I3bQncnvHz8fGjkuj6qI) | 2:55 | 2023-02-02 |  |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2023-02-02 |  |
-| [Ride](https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/7kgZwZuFDoKs01rwOwXMig) | 2:41 | 2023-02-02 |  |
+| [Ride](https://open.spotify.com/track/0pyOoYHx2hFK7GaTP4fviU) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/7kgZwZuFDoKs01rwOwXMig) | 2:41 | 2023-02-02 | 2023-02-09 |
+| [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 | 2023-02-02 |  |
 | [Shambala](https://open.spotify.com/track/1xBdv3TshuzaYAwgxKRdP0) | [Dami Maverick](https://open.spotify.com/artist/6FIUDnNzGgE2mXUccDeCQh), [Kaytez Kanu](https://open.spotify.com/artist/71MHEN2IhGu83J66Fle4vD), [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn) | [Shambala](https://open.spotify.com/album/416S4BiBdjC3TcVBT0sT12) | 2:32 | 2023-02-02 |  |
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2023-02-02 |  |
 | [SOTÉ](https://open.spotify.com/track/3FL6MjpcEuMY3Dpn3IcI2F) | [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Tumise](https://open.spotify.com/artist/10s3RInXP0YP1gypNlkvkS) | [SOTÉ](https://open.spotify.com/album/2Rz5jnBYUqFraoMbEHtcIR) | 3:31 | 2023-02-02 |  |

@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Tom Grennan
 
-359 songs - 19 hr 29 min
+360 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/0BxUvT1nQ9ufHlxEblueWx) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Power Pop Ballads](https://open.spotify.com/album/4qYoNCEXDoJkHpHHNflxpB) | 3:21 | 2022-11-04 | 2022-11-12 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-04 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-21 | 2022-11-11 |
+| [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-02-08 |  |
 | [I Wanna Feel Good](https://open.spotify.com/track/0qoKp8HEp97wjjKfefHTRW) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [I Wanna Feel Good](https://open.spotify.com/album/1s6h54FeQ45AQ9l7xOHnuO) | 2:12 | 2022-11-25 |  |
 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 | 2022-02-04 | 2022-08-27 |
 | [I Want It All](https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [I Want It All](https://open.spotify.com/album/3GwSedcMHVElOaF9Wm5Tqx) | 3:12 | 2022-11-25 |  |

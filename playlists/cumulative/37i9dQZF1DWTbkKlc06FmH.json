@@ -98,7 +98,7 @@
     {
       "album": {
         "name": "I Have a Dream.",
-        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+        "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
       },
       "artists": [
         {
@@ -117,6 +117,32 @@
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181400,
+      "name": "All Through the Night",
+      "url": "https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7"
+    },
+    {
+      "album": {
+        "name": "I Have a Dream.",
+        "url": "https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
       "duration_ms": 181400,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M"

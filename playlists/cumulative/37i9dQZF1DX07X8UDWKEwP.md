@@ -4,11 +4,11 @@
 
 > Lo nuevo del mundo tropical\. Cover: Cheo
 
-208 songs - 12 hr 40 min
+209 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 | 2022-11-28 |  |
+| [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 | 2022-11-28 | 2023-02-09 |
 | [100 Años](https://open.spotify.com/track/6pQiERfIQAdfX6w1UFdlE7) | [Sexappeal](https://open.spotify.com/artist/46aJHc5ahjcNZfiS44i1zo) | [100 Años](https://open.spotify.com/album/6R8nYSvwsrd1sIBMU4wpAt) | 4:20 | 2022-01-01 | 2022-01-29 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-01-01 | 2022-06-30 |
 | [A Partir De Hoy](https://open.spotify.com/track/4qlnsZUoAbvpjgpStiKIcH) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [J.O Music](https://open.spotify.com/artist/0kPQLtKqUTZPp7pDQAGzau) | [A Partir De Hoy](https://open.spotify.com/album/5Sr211iHVs2uy2tf0mzAhj) | 3:45 | 2022-01-01 | 2022-06-30 |
@@ -33,6 +33,7 @@
 | [Besame XXX](https://open.spotify.com/track/03fkEchVnPp2JlpaYrEor6) | [Charlie Cruz](https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn) | [Besame XXX](https://open.spotify.com/album/4rFZtsOgwATSWcadwpbnGl) | 4:00 | 2022-03-25 | 2022-06-30 |
 | [Besame XXX](https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG) | [Charlie Cruz](https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn) | [Tentaciones Vol 2.](https://open.spotify.com/album/7wDmNPbuG28t71sP1m4gsb) | 4:00 | 2022-06-29 | 2023-02-03 |
 | [Bluetooth](https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bluetooth](https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj) | 2:40 | 2022-11-28 |  |
+| [Buscando Un Amor](https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Buscando Un Amor](https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH) | 3:48 | 2023-02-03 |  |
 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-07-19 |  |
 | [Cada Ves Te Extraño Más](https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/29O8xR6EgbPGmjCrwV7aB8) | 3:29 | 2022-07-19 | 2023-01-14 |
 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 | 2022-02-23 | 2023-01-17 |
